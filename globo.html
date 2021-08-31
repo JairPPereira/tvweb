@@ -1,31 +1,77 @@
 <!DOCTYPE html>
-    <html>
-    <head>
-    <meta charset=utf-8 />
-    <title>TV WEB</title>
-      
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Globonews</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#00FFFF"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
+  <meta name="msapplication-navbutton-color" content="#00FFFF"/>
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="favicon.png">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"> 
+<link rel="stylesheet" href="bootstrap.css">
+<link rel="stylesheet" href="mediaelementplayer_liberal.css">
+<link rel="stylesheet" href="css.css">
+ <script type="text/javascript" src="bootstrap.js"></script>
+
+<meta property="og:locale" content="pt_BR">
+
+<script>
+    window.onload = function() {
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+            document.getElementById("botcel").style.display = "table";
+        }
+    }
+</script>
+
+  
+  <style>
+    div.a{
+     text-align: center;
+ 
+     } 
+    body {background-color:#E0FFFF}
+    </style>
+  
+<!-- http://videojs.com/ -->
+<link href="//cdnjs.cloudflare.com/ajax/libs/video.js/6.2.1/video-js.min.css" rel="stylesheet">
+<script src="///cdnjs.cloudflare.com/ajax/libs/video.js/6.2.1/video.min.js"></script>
+ 
+</head>
+<body>
+
+                            <div class="a">
+                    
+                            
+                              <video
+                              id="rs23"
+                              width="640"
+                              height="360"
+                              class="video-js vjs-default-skin"
+                              controls preload="none"
+                              poster="//lh3.googleusercontent.com/cbE0oPcN9ybGpP-VNVkz9AEnzWezqdbXXdEBcsWI0PLbCYQwPYYEMGJW-C253khNNRk">
+                              <source
+                                  src="http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_655/playlist.m3u8?PEDROJUNIORTUTORIAIS"
+                                  type="application/x-mpegURL">
+                          </video>
+                           
+                          <!-- http://videojs.com/plugins/ -->
+                          <!-- https://npmjs.org/package/videojs-contrib-hls -->
+                          <script src="//cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.7.0/videojs-contrib-hls.min.js"></script>
+                          <script>
+                          var player = videojs('rs23');
+                          player.play();
+                          </script>
+                                   
+                                      </div>
+          
+
+
+       
     
-      <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-      <script src="https://unpkg.com/video.js/dist/video.js"></script>
-      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
-      <style>
-        div.a{
-         text-align: center;
-     
-         } 
-        body {background-color:#080808}
-        </style>
-    </head>
-    <body>
-      <video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"
-      data-setup='{}'>
-        <source src="https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/cnnbrasil_db00e4fd_d57b3f824b45b62959168255e16705310e3c4330/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI1LjEwNiI7aToxO3M6MTE1OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTEuMC40NDcyLjE2NCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjMwNDE3Mjg0O30%3D" type="application/x-mpegURL">
-      </video>
-      
-    <script>
-    var player = videojs('my_video_1');
-    player.play();
-    </script>
-      
-    </body>
-    </html>
+</body>
+</html>
