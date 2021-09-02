@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+    <meta charset=utf-8 />
+    <title>Sony</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="theme-color" content="#00FFFF"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
+    <meta name="msapplication-navbutton-color" content="#00FFFF"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  
+    <script>
+      window.onload = function() {
+          if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+              document.getElementById("botcel").style.display = "table";
+          }
+      }
+  </script>
+      
+    
+      <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+      <script src="https://unpkg.com/video.js/dist/video.js"></script>
+      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+      <style>
+        div.a{
+         text-align: center;
+     
+         } 
+        body {background-color:#080808}
+        </style>
+    </head>
+    <body>
+      <video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"
+      data-setup='{}'>
+        <source src="https://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8" type="application/x-mpegURL">
+      </video>
+      
+    <script>
+    var player = videojs('my_video_1');
+    player.play();
+    </script>
+      
+    </body>
+    </html>
