@@ -30,14 +30,20 @@
     </head>
     <body>
       <video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"
-      data-setup='{}'>
-        <source src="http://168.205.87.198:8555/live/cesar/123456/28.m3u8" type="application/x-mpegURL">
+    data-setup="{&quot;liveui&quot;: true}" crossorigin="use-credentials" tabindex="-1">
+        <source src="http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS" type="application/x-mpegURL">
       </video>
+      
+
       
     <script>
     var player = videojs('my_video_1');
     player.play();
     </script>
+
+    
+
+
       
     </body>
     </html>

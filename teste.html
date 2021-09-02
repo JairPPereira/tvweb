@@ -1,0 +1,27 @@
+
+<br>
+<h3>LIVE VIDEO: NewsMax</h3>
+<video class="afterglow" id="livevideo" width="400" height="225" controls src="//nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"></video>
+
+if (Hls.isSupported()) {
+    var video = document.getElementById('video');
+    var hls = new Hls();
+    //hls.loadSource('//video-dev.github.io/streams/x36xhzz/x36xhzz.m3u8');
+    hls.loadSource(video.src); // GC GET VIDEO SRC
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+      video.play();
+    });
+  }
+  
+  if (Hls.isSupported()) {
+    var video2 = document.getElementById('livevideo');
+    var hls = new Hls();
+    //hls.loadSource('//video-dev.github.io/streams/x36xhzz/x36xhzz.m3u8');
+    hls.loadSource(video2.src); // GC GET VIDEO SRC
+    hls.attachMedia(video2);
+    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+      //video2.play();
+    });
+  }
+  
