@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="theme-color" content="#00FFFF"/>
+      <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
+      <meta name="msapplication-navbutton-color" content="#00FFFF"/>
+      <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    
+      <script>
+        window.onload = function() {
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                document.getElementById("botcel").style.display = "table";
+            }
+        }
+    </script>
+    
+      <title>Video Pop-up</title>
+
+
+      <link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet" />
+
+
+</head>
+<body>
+
+
+  <video
+    id="my-video"
+    class="video-js"
+    controls
+    preload="auto"
+    width="1280"
+    height="528"
+    poster="MY_VIDEO_POSTER.jpg"
+    data-setup="{}">
+
+    <source src="https://content-asae1-up-1.uplynk.com/channel/33ca31585a694bcba633e1316070d9c0/c.m3u8?pbs=31243871c231438494b58ffa6c313ecd" type="application/x-mpegURL">
+
+   
+    <p class="vjs-no-js">
+      <a href="https://videojs.com/html5-video-support/" target="_blank"
+        >supports HTML5 video</a
+      >
+    </p>
+  </video>
+
+  <script src="https://vjs.zencdn.net/7.14.3/video.min.js"></script>
+      
+    
+ 
+
+        </div>
+
+      </div>
+
+
+</body>
+</html>
