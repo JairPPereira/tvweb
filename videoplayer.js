@@ -1,4 +1,4 @@
-var player= videojs('video', {autoplay:'muted',
+var player= videojs('video', {autoplay:'true',
 constrols: true,  width:"1282",
 height:"720",
 
