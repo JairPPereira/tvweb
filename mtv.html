@@ -1,8 +1,8 @@
 <!DOCTYPE html>
     <html lang="pt-br">
-    <head >
+    <head>
     <meta charset=utf-8 />
-    <title>Star Channel</title>
+    <title>MTV</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="theme-color" content="#00FFFF"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
@@ -15,81 +15,42 @@
               document.getElementById("botcel").style.display = "table";
           }
       }
-  </script>
-      
-    
-      <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-      <script src="https://unpkg.com/video.js/dist/video.js"></script>
-      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
-      <style>
-        div.a{
-         text-align: center; background-color: blanchedalmond;
-     
-         } 
-        body {background-color:#080808}
-        </style>
-    </head>
-    <body>
-      <video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"
-      data-setup='{}'>
-        <source src="<!DOCTYPE html>
-        <html lang="pt-br">
-        <head >
-        <meta charset=utf-8 />
-        <title>Star Channel</title>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-        <meta name="theme-color" content="#00FFFF"/>
-        <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
-        <meta name="msapplication-navbutton-color" content="#00FFFF"/>
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-      
-        <script>
-          window.onload = function() {
-              if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-                  document.getElementById("botcel").style.display = "table";
-              }
-          }
-      </script>
-          
-        
-          <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-          <script src="https://unpkg.com/video.js/dist/video.js"></script>
-          <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
-          <style>
-            div.a{
-             text-align: center; background-color: blanchedalmond;
-         
-             } 
-            body {background-color:#080808}
-            </style>
-        </head>
-        <body>
-          <video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"
-          data-setup='{}'>
-            <source src="https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_3.m3u8" type="application/x-mpegURL">
-          </video>
-          
-        <script>
-        var player = videojs('my_video_1');
-        player.play();
-        </script>
-        <div class="a">
-         <h1><a href="index.html" target="_self"
-          
-          rel="prev">Voltar</a></h1> </div>
-      
-        </body>
-        </html>" type="application/x-mpegURL">
-      </video>
-      
-    <script>
-    var player = videojs('my_video_1');
-    player.play();
-    </script>
-    <div class="a">
-     <h1><a href="index.html" target="_self"
-      
-      rel="prev">Voltar</a></h1> </div>
-  
-    </body>
+ </script>
+  <link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet" />
+
+  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+  <!-- <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script> -->
+</head>
+
+<body>
+  <video
+    id="video"
+    class="video-js vjs-big-play-centered" muted
+    controls
+    preload="auto"
+    width="641"
+    height="360"
+    data-setup="{}"
+  >
+    <source src="https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_3.m3u8"
+    type="application/x-mpegURL"
+    >
+
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a
+      web browser that
+      <a href="https://videojs.com/html5-video-support/" target="_blank"
+        >supports HTML5 video</a
+      >
+    </p>
+  </video>
+
+  <script src="https://vjs.zencdn.net/7.14.3/video.min.js"></script>
+  <script src = "https://cdn.sc.gl/videojs-hotkeys/0.2/videojs.hotkeys.min.js " > </script>
+  <script type="text/javascript" src="videoplayer.js"></script>
+
+
+
+</body>
+
     </html>
