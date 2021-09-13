@@ -15,53 +15,44 @@
               document.getElementById("botcel").style.display = "table";
           }
       }
- </script>
-  <link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet" />
+  </script>
+      
+      <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+      <script src="https://unpkg.com/video.js/dist/video.js"></script>
+      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+      <style>
+        div.a{
+         text-align: center; background-color: blanchedalmond;
+     
+         } 
+        body {background-color:#080808}
+        </style>
+        <link href="https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.css" rel="stylesheet" />
+        <script src = " https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.min.js" > </script>
+         <link rel="stylesheet" href="https://path/to/videojs-mobile-ui.css">
+         
+    </head>
+    <body>
+      <video id="my_video_1" class="video-js vjs-fluid vjs-big-play-centered vjs-default-skin"
+      poster="https://1.bp.blogspot.com/-dM7_KJvuS-4/YTpz8gKF_7I/AAAAAAAABDQ/Q6aIFxbfTbEVYIx1uxnG31tZYotATgCmwCLcBGAsYHQ/s0/mtv200.png"
+      controls preload="auto" width="100%"
+      data-setup='{}'>
+        <source src="https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_3.m3u8" type="application/x-mpegURL">
+      </video>
+      
+    <script>
+    var player = videojs('my_video_1');
+    player.play();
+    player.mobileUi();
+    </script>
+     <script type="text/javascript" src="plugins/js/zoomrotate.js"></script>
 
-  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
-  <!-- <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script> -->
-  
-  <link href="pluguins/css/thumbnails.css" rel="stylesheet" />
-
-  <style>
-    div.a{
-     text-align: center; background-color: blanchedalmond;
- 
-     } 
-    body {background-color:#080808}
-    </style>
-</head>
-
-<body>
-  <video
-    id="video"
-    class="video-js vjs-big-play-centered"
-    controls
-    preload="auto"
-
-    data-setup="{}"
-  >
-    <source src="https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_3.m3u8"
-    type="application/x-mpegURL"
-    >
-
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a
-      web browser that
-      <a href="https://videojs.com/html5-video-support/" target="_blank"
-        >supports HTML5 video</a
-      >
-    </p>
-  </video>
-
-  <script src="https://vjs.zencdn.net/7.14.3/video.min.js"></script>
-  <script src = "https://cdn.sc.gl/videojs-hotkeys/0.2/videojs.hotkeys.min.js " > </script>
-  <script type="text/javascript" src="videoplayer.js"></script>
-
-  <div class="a">
-    <h1><a href="index.html" target="_self"
-      rel="prev">Voltar</a></h1> </div>
-
-</body>
-
+      <script src="https://path/to/video.min.js"></script>
+<script src="https://path/to/videojs-mobile-ui.min.js"></script>
+      <div class="a">
+        <h1><a href="index.html" target="_self"
+          rel="prev">Voltar</a></h1> </div>
+          
+    </body>
     </html>
+
