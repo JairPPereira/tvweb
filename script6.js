@@ -3,7 +3,7 @@ let audioList = [
       title:"Rádio Liberal AM",
       album:"Rádio FM",
       author:"",
-      source:"http://177.105.192.70:9000/oliberalcbn.mp3",
+      source:"http://stream.zeno.fm/p57q7emr168uv",
       type:"audio/mpeg"
  
     }
