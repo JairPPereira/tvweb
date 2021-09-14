@@ -1,0 +1,115 @@
+*{
+  box-sizing:border-box;
+}
+:root{
+  --small: 35px;
+  --medium: 50px;
+  --large: 65px;
+  --bar-height:10px;
+}
+body{
+  font-family:sans-serif;
+  user-select:none;
+  padding:0;
+  margin:0;
+  background: rgb(61, 112, 206);
+  background: linear-gradient(159deg, rgb(0 255 255) 0%, rgba(104, 154, 236, 0.466) 100%);
+}
+#overlay{
+  position:absolute;
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+  z-index:9999;
+  display:none;
+}
+.container{
+  height:100vh;
+}
+.player{
+  border-radius: 20px;
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top:calc(50% - 250px);
+  left:calc(50% - 250px);
+  box-shadow:6px 6px 15px rgba(51,51,51,0.5);
+  overflow:hidden;
+  background:#fff;
+}
+.player #music-info{
+  padding: 30px;
+  background-image:url("https://1.bp.blogspot.com/-0uKfHzS4A9c/YTzZb9cssjI/AAAAAAAABDw/d9vt-Y4wGTgOwwwhmu_qer1qaI1W8XmcwCLcBGAsYHQ/s200/radioclube.jpeg");
+  height: 500px;
+  background-repeat:no-repeat;
+  background-size:100%;
+  color: rgb(42, 38, 38);
+}
+.player #music-info .title{
+  font-size: 23px;
+  margin-bottom: 4px;
+  z-index:1;
+}
+.player #music-info .bg{
+  width: 100%;
+  box-shadow: 0 -100px 100px 100px rgba(0,0,0,0.5);
+}
+
+.player #music-info .album{
+  font-size: 20px;
+}
+
+
+
+
+.player .timestamp #current-time:after{
+  content:"";
+  width: 16px;
+  height: 16px;
+  background: #5453af;
+  position: absolute;
+  right: -8px;
+  bottom: -4px;
+  z-index: 9;
+  border-radius: 50%;
+  box-shadow: 0 0 3px 2px #eee;
+}
+.player .buttons{
+  position: absolute;
+  bottom: 0px;
+  border-top: 1px solid #ddd;
+  width:100%;
+  height:110px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.player .buttons .button{
+  border: 1px solid rgba(221, 221, 221, 0.993);
+  border-radius: 50%;
+  text-align:center;
+  margin:7px;
+  color: #333;
+}
+.player .buttons .button-small{
+  width: var(--small);
+  height: var(--small);
+  line-height: var(--small);
+}
+.player .buttons .button-medium{
+  width: var(--medium);
+  height: var(--medium);
+  line-height: var(--medium);
+  font-size: 25px;
+}
+.player .buttons .button-large{
+  width: var(--large);
+  height: var(--large);
+  line-height: var(--large);
+  font-size: 35px;
+}
+.player .buttons .button-small:hover, .player .buttons .button-medium:hover, .player .buttons .button-large:hover{
+  background: #5453af;
+  color: #fff;
+}
