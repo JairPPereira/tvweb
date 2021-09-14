@@ -1,9 +1,9 @@
 let audioList = [
     {
-      title:"Rádio AD Belém",
+      title:"Rádio Unama",
       album:"Rádio FM",
       author:"",
-      source:"http://stream.zeno.fm/fmrskkqwz68uv",
+      source:"http://stream.zeno.fm/qcvbxq1s068uv",
       type:"audio/mpeg"
  
     }
@@ -88,7 +88,7 @@ let audioList = [
   play.addEventListener("click", function(){
     if(currentAudio.paused){
       play.innerHTML = '<i class="fas fa-pause"></i>';
-      currentAudio.play();
+      currentAudio.play(true); 
     }else{
       play.innerHTML = '<i class="fas fa-play"></i>';
       currentAudio.pause();
