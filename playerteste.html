@@ -28,7 +28,7 @@ h1 {
 h2 { font-size: 87.5%; }
 
 .player {
-  position: relative;
+  position: sticky;
   width: 20em;
   min-height: 20em;
   overflow: hidden;
@@ -506,7 +506,7 @@ button {
 
 </head>
 <body>
-<!-- partial:index.partial.html -->
+ <div class="a" height= 50%>
 <div class="player paused">
   <div class="album">
     <div class="cover">
@@ -546,7 +546,6 @@ button {
   
   <audio prelaod src="http://stream.zeno.fm/0q20p5krvy8uv"></audio>
 </div>
-<!-- partial -->
   <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
   <script>
       var player = $('.player'),
@@ -652,6 +651,7 @@ progressBar.parent().on('click mousemove', function(e) {
   }
 });
   </script>
+</div>
 
 </body>
 </html>
