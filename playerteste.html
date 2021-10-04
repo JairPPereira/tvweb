@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <style>
+body, html {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #333;
+    color: rgb(219, 69, 69);
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.descricao {
+    width: 300px;
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+
+.duracao {
+    width: 300px;
+    margin-top: 25px;
+}
+
+.barra {
+    width: 300px;
+    height: 6px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+progress {
+    height: 6px;
+    width: 0;
+    background-color: #333;
+}
+
+.ponto {
+    width: 20px;
+    height: 20px;
+    background-color: #eee;
+    border-radius: 50%;
+    margin-left: -10px;
+}
+
+.tempo {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
+
+.player {
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.botao-play, .botao-pause {
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.setas {
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.botao-pause {
+    display: none;
+}
+
+    </style>
+    <title>Projeto Player Spotify</title>
+</head>
+<body>
+    <img src="imagens/rock.jpg">
+    <div class="descricao">
+        <h2>Nome da música</h2>
+        <i>João Tinti</i>
+    </div>
+    <div class="duracao">
+        <div class="barra">
+            <progress value="0" max="1"></progress>
+            <div class="ponto"></div>
+        </div>
+        <div class="tempo">
+            <p class="inicio">0:00</p>
+            
+        </div>
+    </div>
+    <div class="player">
+     
+        <i class="fas fa-play-circle botao-play"></i>
+        <i class="fas fa-pause-circle botao-pause"></i>
+        
+    </div>
+    <audio src="http://stream.zeno.fm/p57q7emr168uv"></audio>
+    <script>
+
+let musicas = [
+    {titulo:'LIBERAL AM', artista:'', src:'http://stream.zeno.fm/p57q7emr168uv', img:'https://1.bp.blogspot.com/-QTPqdWy_V5U/YUExuL4cuII/AAAAAAAABFQ/Vh-VXhWIjIsH_KFNfy_-VSO34kqxhmmcACLcBGAsYHQ/s200/libam.png'}
+ 
+];
+
+let musica = document.querySelector('audio');
+let indexMusica = 0;
+
+let duracaoMusica = document.querySelector('.fim');
+let imagem = document.querySelector('img');
+let nomeMusica = document.querySelector('.descricao h2');
+let nomeArtista = document.querySelector('.descricao i');
+
+renderizarMusica(indexMusica);
+
+// Eventos
+document.querySelector('.botao-play').addEventListener('click', tocarMusica);
+
+document.querySelector('.botao-pause').addEventListener('click', pausarMusica);
+
+musica.addEventListener('timeupdate', atualizarBarra);
+
+document.querySelector('.anterior').addEventListener('click', () => {
+    indexMusica--;
+    if (indexMusica < 0) {
+        indexMusica = 2;
+    }
+    renderizarMusica(indexMusica);
+});
+
+document.querySelector('.proxima').addEventListener('click', () => {
+    indexMusica++;
+    if (indexMusica > 2){
+        indexMusica = 0;
+    }
+    renderizarMusica(indexMusica);
+});
+
+// Funções
+function renderizarMusica(index){
+    musica.setAttribute('src', musicas[index].src);
+    musica.addEventListener('loadeddata', () => {
+        nomeMusica.textContent = musicas[index].titulo;
+        nomeArtista.textContent = musicas[index].artista;
+        imagem.src = musicas[index].img;
+        duracaoMusica.textContent = segundosParaMinutos(Math.floor(musica.duration));
+    });
+}
+
+function tocarMusica(){
+    musica.play();
+    document.querySelector('.botao-pause').style.display = 'block';
+    document.querySelector('.botao-play').style.display = 'none';
+}
+
+function pausarMusica(){
+    musica.pause();
+    document.querySelector('.botao-pause').style.display = 'none';
+    document.querySelector('.botao-play').style.display = 'block';
+}
+
+function atualizarBarra(){
+    let barra = document.querySelector('progress');
+    barra.style.width = Math.floor((musica.currentTime / musica.duration) * 100) + '%';
+    let tempoDecorrido = document.querySelector('.inicio');
+    tempoDecorrido.textContent = segundosParaMinutos(Math.floor(musica.currentTime));
+}
+
+function segundosParaMinutos(segundos){
+    let campoMinutos = Math.floor(segundos / 60);
+    let campoSegundos = segundos % 60;
+    if (campoSegundos < 10){
+        campoSegundos = '0' + campoSegundos;
+    }
+
+    return campoMinutos+':'+campoSegundos;
+}
+    </script>
+</body>
+</html>
