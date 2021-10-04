@@ -1,202 +1,657 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en" >
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
-    <style>
-body, html {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    background-color: #333;
-    color: rgb(219, 69, 69);
-    font-family: 'Montserrat', sans-serif;
+  <meta charset="UTF-8">
+  <title>RÁDIO LIBERAL FM</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400" rel="stylesheet"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<style>
+html { box-sizing: border-box; }
+*, *::before, *::after { box-sizing: inherit; }
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #666;
+  font-size: 100%;
+  font-weight: 300;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #222;
 }
 
-img {
-    width: 300px;
-    height: 300px;
+h1 {
+  margin-bottom: 0.5em;
+  font-weight: 400;
 }
 
-.descricao {
-    width: 300px;
-}
-
-h2 {
-    margin-bottom: 5px;
-}
-
-.duracao {
-    width: 300px;
-    margin-top: 25px;
-}
-
-.barra {
-    width: 300px;
-    height: 6px;
-    border: 1px solid #eee;
-    border-radius: 5px;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-}
-
-progress {
-    height: 6px;
-    width: 0;
-    background-color: #333;
-}
-
-.ponto {
-    width: 20px;
-    height: 20px;
-    background-color: #eee;
-    border-radius: 50%;
-    margin-left: -10px;
-}
-
-.tempo {
-    display: flex;
-    width: 300px;
-    justify-content: space-between;
-}
+h2 { font-size: 87.5%; }
 
 .player {
-    width: 300px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin-top: 15px;
+  position: relative;
+  width: 20em;
+  min-height: 20em;
+  overflow: hidden;
+  background-color: #eee;
+  border-radius: 0.25em;
+  box-shadow:
+    0 1.5em 2em -1em rgba(0,0,0,0.8),
+    inset 0 0.0625em 0 rgba(255,255,255,1),
+    inset 0 -0.125em 0.0625em rgba(0,0,0,0.3);
 }
 
-.botao-play, .botao-pause {
-    font-size: 50px;
-    cursor: pointer;
+.album {
+  position: relative;
+  left: 50%;
+  width: 15em;
+  height: 15em;
+  margin-bottom: -13%;
+  overflow: hidden;
+  transform: translate(-50%,-25%);
+  background-color: #111;
+  border: 1px solid #111;
+  border-radius: 50%;
+  box-shadow:
+    0 0.0625em 0.1875em rgba(0,0,0,0.5),
+    0 0 0.125em 0.3125em #ddd,
+    0 0.0625em 0 0.375em #bbb,
+    0 0 0.375em 0.325em rgba(0,0,0,0.3),
+    0 0 0.5em 0.375em rgba(0,0,0,0.3),
+    0 0.25em 1em 0.5em rgba(0,0,0,0.15),
+    inset 0 0 0 0.0625em rgba(0,0,0,0.5),
+    inset 0 0 0 0.1875em rgba(255,255,255,1),
+    inset 0 0 0 0.375em rgba(0,0,0,0.5),
+    inset 0 0 0 0.4375em rgba(255,255,255,0.2),
+    inset 0 0 0 0.5em rgba(0,0,0,0.5),
+    inset 0 0 0 0.5625em rgba(255,255,255,0.3),
+    inset 0 0 0 0.625em rgba(0,0,0,0.5),
+    inset 0 0 0 0.6875em rgba(255,255,255,0.2),
+    inset 0 0 0 0.75em rgba(0,0,0,0.5),
+    inset 0 0 0 0.8125em rgba(255,255,255,0.3),
+    inset 0 0 0 0.875em rgba(0,0,0,0.5),
+    inset 0 0 0 0.9375em rgba(255,255,255,0.3),
+    inset 0 0 0 1em rgba(0,0,0,0.5),
+    inset 0 0 0 1.0625em rgba(255,255,255,0.2),
+    inset 0 0 0 1.125em rgba(0,0,0,0.5),
+    inset 0 0 0 1.1875em rgba(255,255,255,0.3),
+    inset 0 0 0 1.25em rgba(0,0,0,0.5),
+    inset 0 0 0 1.3125em rgba(255,255,255,0.2),
+    inset 0 0 0 1.375em rgba(255,255,255,0.2),
+    inset 0 0 0 1.4375em rgba(0,0,0,0.5),
+    inset 0 0 0 1.5em rgba(255,255,255,0.3),
+    inset 0 0 0 1.5625em rgba(0,0,0,0.5),
+    inset 0 0 0 1.625em rgba(255,255,255,0.3),
+    inset 0 0 0 1.6875em rgba(0,0,0,0.5),
+    inset 0 0 0 1.75em rgba(255,255,255,0.2),
+    inset 0 0 0 1.8125em rgba(0,0,0,0.5),
+    inset 0 0 0 1.875em rgba(255,255,255,0.2),
+    inset 0 0 0 1.9375em rgba(0,0,0,0.5),
+    inset 0 0 0 2em rgba(255,255,255,0.3),
+    inset 0 0 0 2.0625em rgba(0,0,0,0.5),
+    inset 0 0 0 2.125em rgba(0,0,0,0.5),
+    inset 0 0 0 2.1875em rgba(255,255,255,0.1),
+    inset 0 0 0 2.25em rgba(0,0,0,0.5),
+    inset 0 0 0 2.3125em rgba(255,255,255,0.2),
+    inset 0 0 0 2.375em rgba(255,255,255,0.1),
+    inset 0 0 0 2.4375em rgba(0,0,0,0.5),
+    inset 0 0 0 2.5em rgba(255,255,255,0.3),
+    inset 0 0 0 2.5625em rgba(0,0,0,0.5),
+    inset 0 0 0 2.625em rgba(255,255,255,0.2),
+    inset 0 0 0 2.6875em rgba(0,0,0,0.5),
+    inset 0 0 0 2.75em rgba(255,255,255,0.2),
+    inset 0 0 0 2.8125em rgba(0,0,0,0.5),
+    inset 0 0 0 2.875em rgba(255,255,255,0.2),
+    inset 0 0 0 2.9375em rgba(0,0,0,0.5),
+    inset 0 0 0 3em rgba(255,255,255,0.3),
+    inset 0 0 0 3.0625em rgba(0,0,0,0.5),
+    inset 0 0 0 3.125em rgba(0,0,0,0.5),
+    inset 0 0 0 3.1875em rgba(255,255,255,0.2),
+    inset 0 0 0 3.25em rgba(0,0,0,0.5),
+    inset 0 0 0 3.3125em rgba(255,255,255,0.2),
+    inset 0 0 0 3.375em rgba(255,255,255,0.1),
+    inset 0 0 0 3.4375em rgba(0,0,0,0.5),
+    inset 0 0 0 3.5em rgba(255,255,255,0.3);
 }
 
-.setas {
-    font-size: 40px;
-    cursor: pointer;
+.album::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  transform: translate(-50%,-50%);
+  background-image:
+    linear-gradient(
+      -45deg,
+      rgba(255,255,255,0) 30%,
+      rgba(255,255,255,0.125),
+      rgba(255,255,255,0) 70%
+    ),
+    linear-gradient(
+      -48deg,
+      rgba(255,255,255,0) 45%,
+      rgba(255,255,255,0.075),
+      rgba(255,255,255,0) 55%
+    ),
+    linear-gradient(
+      -42deg,
+      rgba(255,255,255,0) 45%,
+      rgba(255,255,255,0.075),
+      rgba(255,255,255,0) 55%
+    ),
+    radial-gradient(
+      circle at top left,
+      rgba(0,0,0,1) 20%,
+      rgba(0,0,0,0) 80%
+    ),
+    radial-gradient(
+      circle at bottom right,
+      rgba(0,0,0,1) 20%,
+      rgba(0,0,0,0) 80%
+    );
 }
 
-.botao-pause {
-    display: none;
+.cover,
+.cover div {
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  width: 6em;
+  height: 6em;
+  overflow: hidden;
+  transform-origin: 0 0;
+  transform: rotate(0) translate(-50%,-50%);
+  border-radius: 50%;
+  -webkit-animation: spin 4s linear infinite paused;
+          animation: spin 4s linear infinite paused;
 }
 
-    </style>
-    <title>Projeto Player Spotify</title>
+.ffing .cover {
+  -webkit-animation-play-state: running;
+          animation-play-state: running;
+}
+
+.cover div {
+  border-radius: 0;
+  animation: spin 2s linear infinite reverse paused;
+}
+
+.rwing .cover div {
+  animation: spin 2s linear infinite reverse running;
+}
+
+.cover::before,
+.cover::after {
+  content: '';
+  position: absolute;
+  z-index: 10;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  transform-origin: 0 0;
+  transform: rotate(0) translate(-50%,-50%);
+  border-radius: 50%;
+  box-shadow: inset 0 0.0625em rgba(255,255,255,0.3);
+  animation: spin 4s linear infinite reverse paused;
+}
+
+.cover::after {
+  width: 0.25em;
+  height: 0.3125em;
+  margin-top: -0.0625em;
+  background-color: #eee;
+  border-radius: 0.125em;
+  box-shadow:
+    inset 0 -0.0625em 0.0625em rgba(0,0,0,0.5),
+    inset 0.0625em -0.0625em 0.125em rgba(255,255,255,0.15),
+    inset -0.0625em -0.0625em 0.125em rgba(255,255,255,0.15),
+    inset 0 -0.125em 0.125em rgba(0,0,0,0.8),
+    0 0.0625em 0.0625em rgba(0,0,0,0.5),
+    0 0.0625em 0.25em 0.0625em rgba(0,0,0,0.15),
+    0 0 0.25em 0.125em rgba(0,0,0,0.15);
+}
+
+.ffing .cover::before,
+.ffing .cover::after {
+  -webkit-animation-play-state: running;
+          animation-play-state: running;
+}
+
+.cover img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  transform-origin: 0 0;
+  transform: rotate(0) translate(-50%,-50%);
+  -webkit-animation: spin 4s linear infinite paused;
+          animation: spin 4s linear infinite paused;
+}
+
+.paused .cover img {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+
+.playing .cover img {
+  -webkit-animation-play-state: running;
+          animation-play-state: running;
+}
+
+.info {
+  text-align: center;
+  text-shadow: 0 0.0625em rgba(255,255,255,1);
+}
+
+.time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.time > * {
+  margin: 0 0.5em;
+}
+
+.progress {
+  flex-grow: 2;
+  height: 0.125em;
+  background-color: #999;
+  border-radius: 0.0625em;
+  box-shadow: 0 0.0625em rgba(255,255,255,1);
+  cursor: pointer;
+}
+
+.progress span {
+  display: block;
+  width: 0;
+  height: 100%;
+  background-color: #666;
+}
+
+.actions {
+  position: relative;
+  width: 100%;
+  padding: 1em 0 1.125em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  outline: none;
+  position: relative;
+  padding: 0;
+  font-size: 100%;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.button {
+  width: 3em;
+  height: 3em;
+  background-color: transparent;
+  background-image: linear-gradient(#ddd, #f6f6f6);
+  border: none;
+  border-radius: 50%;
+}
+
+.button::before {
+  content: '';
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  width: 80%;
+  height: 80%;
+  transform: translate(-50%,-50%);
+  background-color: #f4f4f4;
+  border: 0.125em solid #d5d5d5;
+  border-radius: 50%;
+  box-shadow: inset 0 0.25em 1em -0.25em rgba(255,255,255,0.75);
+}
+
+.button:hover::before {
+  background-color: #fcfcfc;
+}
+
+.play-pause {
+  width: 4em;
+  height: 4em;
+}
+
+.rw {
+  right: -0.25em;
+  margin-left: 0.375em;
+  transform: scaleX(-1);
+}
+
+.ff {
+  left: -0.25em;
+  margin-right: 0.375em;
+}
+
+.button .arrow {
+  position: absolute;
+  z-index: 10;
+  top: 50%;
+  left: 50%;
+  width: 30%;
+  height: 30%;
+  overflow: hidden;
+  transform: translate(-50%,-50%);
+}
+
+.button .arrow::before,
+.button .arrow::after {
+  content: '';
+  position: absolute;
+  left: -50%;
+  width: 100%;
+  height: 100%;
+  transform: scale(1.2,0.7) rotate(45deg);
+  background-color: #ddd;
+  box-shadow:
+    inset 0 0.125em 0.125em -0.0625em rgba(0,0,0,0.15),
+    0.0625em 0.0625em 0.125em rgba(255,255,255,1);
+}
+
+.button .arrow::after {
+  left: 0;
+  transform: none;
+  background-color: transparent;
+  box-shadow: inset 0.0625em 0 0.125em -0.0625em rgba(0,0,0,0.1);
+}
+
+.paused .play-pause .arrow {
+  margin-left: 0.1875em;
+}
+
+.playing .play-pause .arrow::before,
+.playing .play-pause .arrow::after {
+  left: 0;
+  width: 0.4375em;
+  transform: none;
+  background-color: #ddd;
+  box-shadow:
+    inset 0.0625em 0.125em 0.125em -0.0625em rgba(0,0,0,0.15),
+    0.0625em 0.0625em 0.125em rgba(255,255,255,1);
+}
+
+.playing .play-pause .arrow::after {
+  left: auto;
+  right: 0;
+}
+
+.rw .arrow,
+.ff .arrow {
+  width: 20%;
+  height: 20%;
+  margin-left: 12%;
+}
+
+.rw .arrow:first-child,
+.ff .arrow:first-child {
+  margin-left: -4%;
+}
+
+.button:active .arrow::before,
+.playing .play-pause .arrow::before,
+.playing .play-pause .arrow::after {
+  background-color: #cef;
+}
+
+.shuffle {
+  width: 1.375em;
+  height: 1.375em;
+  color: #d5d5d5;
+}
+
+.shuffle .arrow {
+  position: absolute;
+  top: 0.1875em;
+  left: 0;
+  width: 0.375em;
+  height: 0.125em;
+  color: inherit;
+  background-color: currentColor;
+}
+
+.shuffle .arrow::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: calc(100% + 0.125em);
+  width: 0.5em;
+  height: 1em;
+  transform: skewX(30deg);
+  border-bottom: 0.125em solid;
+  border-left: 0.125em solid;
+  box-shadow:
+    -0.3125em 0em 0 -0.1875em #eee,
+    inset 0.375em 0.25em 0 -0.25em #eee;
+}
+
+.shuffle .arrow::after {
+  content: '';
+  position: absolute;
+  top: 0.6875em;
+  left: calc(100% + 0.625em);
+  border: 0.25em solid transparent;
+  border-left-width: 0.375em;
+  border-left-color: currentColor;
+}
+
+.shuffle .arrow:first-child {
+  transform-origin: 0 0.5em;
+  transform: scaleY(-1);
+}
+
+.repeat {
+  width: 1.375em;
+  height: 1.375em;
+  color: #d5d5d5;
+  border: 0.125em solid;
+  border-right-color: transparent;
+  border-radius: 50%;
+}
+
+.repeat::before {
+  content: '';
+  position: absolute;
+  top: -0.125em;
+  left: -0.125em;
+  width: calc(100% + 0.25em);
+  height: calc(100% + 0.25em);
+  transform: rotate(-45deg);
+  border: 0.125em solid transparent;
+  border-right-color: currentColor;
+  border-radius: 50%;
+}
+
+.repeat::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: -0.3125em;
+  border: 0.25em solid transparent;
+  border-top-width: 0.375em;
+  border-top-color: currentColor;
+}
+
+.shuffle.active,
+.repeat.active {
+  color: #bde;
+}
+
+@-webkit-keyframes spin {
+  100% { transform: rotate(360deg) translate(-50%,-50%); }
+}
+
+@keyframes spin {
+  100% { transform: rotate(360deg) translate(-50%,-50%); }
+}
+
+</style>
+
 </head>
 <body>
-    <img src="imagens/rock.jpg">
-    <div class="descricao">
-        <h2>Nome da música</h2>
-        <i>João Tinti</i>
+<!-- partial:index.partial.html -->
+<div class="player paused">
+  <div class="album">
+    <div class="cover">
+      <div><img src="https://1.bp.blogspot.com/---9pCWcIkXo/YUaSqTkzy_I/AAAAAAAABHY/O_7uoGEQepk_mSyI_eipAEo6vuP1z0poACLcBGAsYHQ/s200/radio_liberalfmbelem.png" alt="RÁDIO LIBERAL FM" /></div>
     </div>
-    <div class="duracao">
-        <div class="barra">
-            <progress value="0" max="1"></progress>
-            <div class="ponto"></div>
-        </div>
-        <div class="tempo">
-            <p class="inicio">0:00</p>
-            
-        </div>
+  </div>
+  
+  <div class="info">
+    <div class="time">
+      <span class="current-time">0:00</span>
+      <span class="progress"><span></span></span>
+      <span class="duration">0:00</span>
     </div>
-    <div class="player">
-     
-        <i class="fas fa-play-circle botao-play"></i>
-        <i class="fas fa-pause-circle botao-pause"></i>
-        
-    </div>
-    <audio src="http://stream.zeno.fm/p57q7emr168uv"></audio>
-    <script>
+    
+    <h1>RÁDIO LIBERAL FM</h1>
+    <h2>FM</h2>
+  </div>
+  
+  <div class="actions">
+    <button class="shuffle">
+      <div class="arrow"></div>
+      <div class="arrow"></div>
+    </button>
+    <button class="button rw">
+      <div class="arrow"></div>
+      <div class="arrow"></div>
+    </button>
+    <button class="button play-pause">
+      <div class="arrow"></div>
+    </button>
+    <button class="button ff">
+      <div class="arrow"></div>
+      <div class="arrow"></div>
+    </button>
+    <button class="repeat"></button>
+  </div>
+  
+  <audio prelaod src="http://stream.zeno.fm/0q20p5krvy8uv"></audio>
+</div>
+<!-- partial -->
+  <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+  <script>
+      var player = $('.player'),
+    audio = player.find('audio'),
+    duration = $('.duration'),
+    currentTime = $('.current-time'),
+    progressBar = $('.progress span'),
+    mouseDown = false,
+    rewind, showCurrentTime;
 
-let musicas = [
-    {titulo:'LIBERAL AM', artista:'', src:'http://stream.zeno.fm/p57q7emr168uv', img:'https://1.bp.blogspot.com/-QTPqdWy_V5U/YUExuL4cuII/AAAAAAAABFQ/Vh-VXhWIjIsH_KFNfy_-VSO34kqxhmmcACLcBGAsYHQ/s200/libam.png'}
- 
-];
+function secsToMins(time) {
+  var int = Math.floor(time),
+      mins = Math.floor(int / 60),
+      secs = int % 60,
+      newTime = mins + ':' + ('0' + secs).slice(-2);
+  
+  return newTime;
+}
 
-let musica = document.querySelector('audio');
-let indexMusica = 0;
+function getCurrentTime() {
+  var currentTimeFormatted = secsToMins(audio[0].currentTime),
+      currentTimePercentage = audio[0].currentTime / audio[0].duration * 100;
+  
+  currentTime.text(currentTimeFormatted);
+  progressBar.css('width', currentTimePercentage + '%');
+  
+  if (player.hasClass('playing')) {
+    showCurrentTime = requestAnimationFrame(getCurrentTime);
+  } else {
+    cancelAnimationFrame(showCurrentTime);
+  }
+}
 
-let duracaoMusica = document.querySelector('.fim');
-let imagem = document.querySelector('img');
-let nomeMusica = document.querySelector('.descricao h2');
-let nomeArtista = document.querySelector('.descricao i');
-
-renderizarMusica(indexMusica);
-
-// Eventos
-document.querySelector('.botao-play').addEventListener('click', tocarMusica);
-
-document.querySelector('.botao-pause').addEventListener('click', pausarMusica);
-
-musica.addEventListener('timeupdate', atualizarBarra);
-
-document.querySelector('.anterior').addEventListener('click', () => {
-    indexMusica--;
-    if (indexMusica < 0) {
-        indexMusica = 2;
-    }
-    renderizarMusica(indexMusica);
+audio.on('loadedmetadata', function() {
+  var durationFormatted = secsToMins(audio[0].duration);
+  duration.text(durationFormatted);
+}).on('ended', function() {
+  if ($('.repeat').hasClass('active')) {
+    audio[0].currentTime = 0;
+    audio[0].play();
+  } else {
+    player.removeClass('playing').addClass('paused');
+    audio[0].currentTime = 0;
+  }
 });
 
-document.querySelector('.proxima').addEventListener('click', () => {
-    indexMusica++;
-    if (indexMusica > 2){
-        indexMusica = 0;
-    }
-    renderizarMusica(indexMusica);
+$('button').on('click', function() {
+  var self = $(this);
+  
+  if (self.hasClass('play-pause') && player.hasClass('paused')) {
+    player.removeClass('paused').addClass('playing');
+    audio[0].play();
+    getCurrentTime();
+  } else if (self.hasClass('play-pause') && player.hasClass('playing')) {
+    player.removeClass('playing').addClass('paused');
+    audio[0].pause();
+  }
+  
+  if (self.hasClass('shuffle') || self.hasClass('repeat')) {
+    self.toggleClass('active');
+  }
+}).on('mousedown', function() {
+  var self = $(this);
+  
+  if (self.hasClass('ff')) {
+    player.addClass('ffing');
+    audio[0].playbackRate = 2;
+  }
+  
+  if (self.hasClass('rw')) {
+    player.addClass('rwing');
+    rewind = setInterval(function() { audio[0].currentTime -= .3; }, 100);
+  }
+}).on('mouseup', function() {
+  var self = $(this);
+  
+  if (self.hasClass('ff')) {
+    player.removeClass('ffing');
+    audio[0].playbackRate = 1;
+  }
+  
+  if (self.hasClass('rw')) {
+    player.removeClass('rwing');
+    clearInterval(rewind);
+  }
 });
 
-// Funções
-function renderizarMusica(index){
-    musica.setAttribute('src', musicas[index].src);
-    musica.addEventListener('loadeddata', () => {
-        nomeMusica.textContent = musicas[index].titulo;
-        nomeArtista.textContent = musicas[index].artista;
-        imagem.src = musicas[index].img;
-        duracaoMusica.textContent = segundosParaMinutos(Math.floor(musica.duration));
-    });
-}
+player.on('mousedown mouseup', function() {
+  mouseDown = !mouseDown;
+});
 
-function tocarMusica(){
-    musica.play();
-    document.querySelector('.botao-pause').style.display = 'block';
-    document.querySelector('.botao-play').style.display = 'none';
-}
-
-function pausarMusica(){
-    musica.pause();
-    document.querySelector('.botao-pause').style.display = 'none';
-    document.querySelector('.botao-play').style.display = 'block';
-}
-
-function atualizarBarra(){
-    let barra = document.querySelector('progress');
-    barra.style.width = Math.floor((musica.currentTime / musica.duration) * 100) + '%';
-    let tempoDecorrido = document.querySelector('.inicio');
-    tempoDecorrido.textContent = segundosParaMinutos(Math.floor(musica.currentTime));
-}
-
-function segundosParaMinutos(segundos){
-    let campoMinutos = Math.floor(segundos / 60);
-    let campoSegundos = segundos % 60;
-    if (campoSegundos < 10){
-        campoSegundos = '0' + campoSegundos;
+progressBar.parent().on('click mousemove', function(e) {
+  var self = $(this),
+      totalWidth = self.width(),
+      offsetX = e.offsetX,
+      offsetPercentage = offsetX / totalWidth;
+  
+  if (mouseDown || e.type === 'click') {
+    audio[0].currentTime = audio[0].duration * offsetPercentage;
+    if (player.hasClass('paused')) {
+      progressBar.css('width', offsetPercentage * 100 + '%');
     }
+  }
+});
+  </script>
 
-    return campoMinutos+':'+campoSegundos;
-}
-    </script>
 </body>
 </html>
