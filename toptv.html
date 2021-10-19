@@ -2,7 +2,7 @@
     <html lang="pt-br">
     <head>
     <meta charset=utf-8 />
-    <title>Minha Lista de videos</title>
+    <title>TOP TV</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="theme-color" content="#00FFFF"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
@@ -33,8 +33,18 @@
          
     </head>
     <body>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLQp-UAdzge47nte4vXsnIDBeQjAQSzfyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+      <video id="my_video_1" class="video-js vjs-fluid vjs-big-play-centered vjs-default-skin"
+      poster="https://blogger.googleusercontent.com/img/a/AVvXsEid7XOHP6wGr1e7UWo_BRqYim_odjpkshRXaVJvlEwsLNr_36WKULPfg2z9xRBcZ5CQGxWWyO5ovM3mRSzBeo0snqnrgdPjRpxw4KalGTtbXp0D0epCANjNJ95PgjikAF6v_l32Jt5tkoSEPrAhO_TNO0OnIbt7uVYPuWsv2D7oilKRFpmHx0CRVmqq=s200"
+      controls preload="auto" width="100%"
+      data-setup='{}'>
+        <source src="https://cast.cdnseguro.com:19360/8092/8092.m3u8" type="application/x-mpegURL">
+      </video>
+      
+    <script>
+    var player = videojs('my_video_1');
+    player.play();
+    player.mobileUi();
+    </script>
      <script type="text/javascript" src="plugins/js/zoomrotate.js"></script>
 
       <script src="https://path/to/video.min.js"></script>
