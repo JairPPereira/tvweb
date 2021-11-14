@@ -3,7 +3,7 @@ let audioList = [
       title:"Rádio Marajoara",
       album:"Rádio AM",
       author:"",
-      source:"http://stream.zeno.fm/w0eukt41v68uv",
+      source:"https://www.bravecenterhost.com:8020/stream",
       type:"audio/mpeg"
  
     }
