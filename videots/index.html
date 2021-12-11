@@ -5,6 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdn.fluidplayer.com/v3/current/fluidplayer.min.js"></script>
     <title>DASH Live Stream</title>
     <%= htmlWebpackPlugin.tags.headTags %>
     <style lang="css">
@@ -15,15 +16,26 @@
 </head>
 <body>
 
-<video id="fluid-player-e2e-case">
-    <source src="https://vm2.dashif.org/livesim/mup_30/testpic_2s/Manifest.mpd" type="application/dash+xml"/>
+<video id="hls-video">
+    <source src="https://streaming.gruporba.com.br/rba.m3u8" type="application/x-mpegURL"/>
 </video>
+
 
 <%= htmlWebpackPlugin.tags.bodyTags %>
 
+<script type="text/javascript" src="./hls-demo.js"></script>
+<script type="text/javascript" src="./hls.min.js"></script>
+
 <script>
-    var instance = fluidPlayer('fluid-player-e2e-case');
-</script>
+    fluidPlayer(
+        'hls-video',
+        {
+            layoutControls: {
+                fillToContainer: true
+            }
+        }
+    );
+    </script>
 
 </body>
 </html>
