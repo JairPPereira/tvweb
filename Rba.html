@@ -17,10 +17,11 @@
       }
   </script>
       
-    
+      <link href="./videojs-mobile-ui.css" rel="stylesheet">
+      <link href="./video-js.css" rel="stylesheet">
       <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
       <script src="https://unpkg.com/video.js/dist/video.js"></script>
-      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+
       <style>
         div.a{
          text-align: center; background-color: blanchedalmond;
@@ -30,11 +31,10 @@
         </style>
         <link href="https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.css" rel="stylesheet" />
         <script src = " https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.min.js" > </script>
-         <link rel="stylesheet" href="https://path/to/videojs-mobile-ui.css">
-         
+
     </head>
     <body>
-      <video id="my_video_1" class="video-js vjs-fluid vjs-big-play-centered vjs-default-skin"
+      <video-js id="videojs-mobile-ui-player" class="video-js vjs-default-skin vjs-fluid" controls playsinline
       poster="https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg"
       controls preload="auto" width="100%"
       data-setup='{}'>
@@ -42,16 +42,24 @@
 
         <source src="https://streaming.gruporba.com.br/rba.m3u8" type="application/x-mpegURL">
 
-      </video>
+      </video-js>
       
     <script>
-    var player = videojs('my_video_1');
+    var player = videojs('videojs-mobile-ui-player', {
+           
+               
+           fluid: true,
+           controls: true,
+           aspectRatio: '4:3',          
+           
+         },);
     player.play();
     player.mobileUi();
+
     </script>
      <script type="text/javascript" src="plugins/js/zoomrotate.js"></script>
+     <script src="./videojs-mobile-ui.js"></script>
 
-      <script src="https://path/to/video.min.js"></script>
-<script src="https://path/to/videojs-mobile-ui.min.js"></script>
+
  
     </html>
