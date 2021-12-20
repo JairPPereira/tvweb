@@ -1,46 +1,152 @@
-<!DOCTYPE html>
-    <html lang="pt-br">
+<!doctype html>
+<html lang="pt-br">
     <head>
-    <meta charset=utf-8 />
-    <title>A&E</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="theme-color" content="#00FFFF"/>
-    <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
-    <meta name="msapplication-navbutton-color" content="#00FFFF"/>
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  
-    <script>
-      window.onload = function() {
-          if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-              document.getElementById("botcel").style.display = "table";
-          }
-      }
-  </script>
-      
-    
-      <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-      <script src="https://unpkg.com/video.js/dist/video.js"></script>
-      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
-      <style>
-        div.a{
-         text-align: center; background-color: blanchedalmond;
-     
-         } 
-        body {background-color:#080808}
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="mobile-web-app-capable" content="yes"/>
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <meta name="theme-color" content="#8cc3f0"/>
+        <meta name="apple-mobile-web-app-status-bar-style" content="#8cc3f0"/>
+        <meta name="msapplication-navbutton-color" content="#8cc3f0"/>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <script src="https://unpkg.com/video.js/dist/video.js"></script>
+        <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+        <title>Minha Lista de videos</title>
+        <link href="./video-js.css" rel="stylesheet">
+        <link href="./videojs-mobile-ui.css" rel="stylesheet">
+
+ 
+          </style>
+          <style>
+
+body {background-color:#8cc3f0;width: auto; height: auto;}
+        
+        .testEl {
+          width: 10%;
+          height: 10%;
+          position: absolute;
+          top: 0;
+          pointer-events: none;
+          display: none;
+        }
         </style>
-    </head>
-    <body>
-      <video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"
-      preload="auto"
-      poster="https://1.bp.blogspot.com/-HrwDP54Yeek/YTBIVrrdZrI/AAAAAAAABAM/mPg-T60bg7I36lExnehuvIsP3NyV2wMHwCLcBGAsYHQ/s0/AE200.png"
-      data-setup='{}'>
-        <source src="https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8" type="application/x-mpegURL">
-      </video>
       
-    <script>
-    var player = videojs('my_video_1');
-    player.play();
-    </script>
+      </head>
       
-    </body>
-    </html>
+      
+      <body>
+   
+
+            <video-js id="videojs-mobile-ui-player" class="video-js vjs-default-skin vjs-fluid" controls playsinline
+            poster= "https://blogger.googleusercontent.com/img/a/AVvXsEhi9rndkcj25ZaHYQ7-DoyTWdYVhKVUv4VKnkhxXO2_laSprEez6m50sewboUP6pgpjYLDjEJZDOQCqYZB7SDGpGAnwoCD_57DfQBlPQjrFEOUxVmz8zjVr4n5I_CwzwhnPeQK823i2vPlti_5WHANY8b3eyuXf1-b8-Gn-sbxQDb7OzFMWoZtkLTIp"
+            >
+              <source src="https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8" type='application/x-mpegURL'>
+
+            </video-js>
+
+ 
+           
+            <script src="./video.js"></script>
+            <script src="./videojs-mobile-ui.js"></script>
+
+          
+            <script>
+              var player = videojs('videojs-mobile-ui-player', {
+           
+               
+                fluid: true,
+                controls: true,
+                aspectRatio: '4:3',
+                
+                
+                
+              },
+              
+              );
+          
+             
+          
+             
+          
+             
+            </script>
+          
+          
+            <script>
+              (function(window, videojs) {
+                var options = {
+                  fullscreen: {
+                    enterOnRotate: true,
+                    exitOnRotate: true,
+                    lockOnRotate: true,
+                    iOS: false,
+                    disabled: false
+                  },
+                  touchControls: {
+                    seekSeconds: 10,
+                    tapTimeout: 300,
+                    disableOnEnd: false,
+                    disabled: false
+                  }
+                };
+          
+                var url = new URL(window.location);
+                if (url.searchParams.has('options')) {
+                  options = JSON.parse(url.searchParams.get('options'));
+                }
+          
+                console.log(JSON.stringify(options, null, 2));
+          
+                Object.keys(options).forEach(function(section) {
+                  Object.keys(options[section]).forEach(function(prop) {
+                    const val = options[section][prop];
+          
+                    if (prop === 'disabled') {
+                      prop = `${section}Disabled`;
+                    }
+          
+                    if (typeof val === 'boolean') {
+                      document.getElementById(prop).checked = val; 
+                    }
+                    if (typeof val === 'number') {
+                      document.getElementById(prop).value = val; 
+                    }
+                  });
+                });
+          
+                document.getElementById('options').querySelectorAll('input').forEach(function(opt) {
+                  opt.addEventListener('change', function() {
+                    if (this.type === 'checkbox') {
+                      const param = this.id.endsWith('Disabled') ? 'disabled' : this.id;
+          
+                      options[this.getAttribute('data-section')][param] = this.checked;
+                    } else {
+                      options[this.getAttribute('data-section')][this.id] = parseFloat(this.value);
+                    }
+                    console.log(options);
+                  });
+                });
+          
+                document.getElementById('reload').addEventListener('click', function() {
+                  url.searchParams.set('options', JSON.stringify(options));
+          
+                  window.location = url.href;
+                })
+          
+                window.addEventListener('orientationchange', function() {
+                  var el = document.createElement('li');
+                  var message = (new Date).toTimeString().split(' ')[0] + ' ' + window.orientation;
+                  message += (screen && screen.orientation ? ' ' + screen.orientation.type + ' ' + screen.orientation.angle : '');
+                  el.textContent = message;
+                  console.log(message);
+                  document.getElementById('log').appendChild(el);
+                });
+          
+                var testPlayer = window.testPlayer = videojs('videojs-mobile-ui-player');
+                testPlayer.endscreen = function() {};
+                testPlayer.mobileUi(options);
+              }(window, window.videojs));
+            </script>
+          </body>
+          </html>
