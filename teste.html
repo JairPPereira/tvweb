@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<header>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://domain.com/videojs/video.min.js"></script>
+<script src="https://domain.com/videojs/nuevo.min.js"></script>
+</header>
+<body>
+
+<video id="myplayer" class="video-js" width+"640" height="360" controls>
+ <source src="https://edge-aws.aovivotv.xyz/hls/s:5.161.67.226/cnnbrasil_db00e4fd_5054f94000fa3de6fcb294bdd81730ac759fd9b7/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY5LjMuMjIxIjtpOjE7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85NC4wLjQ2MDYuNzEgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0MDI2MDI5Nzt9" type="application/dash+xml" />
+</video>
+
+<script>
+var player = videojs('myplayer');
+player.nuevoPlugin({
+	logo: "//domain.com/path/to/logo.png",
+	logourl: "/domain.com"
+});
+</script>
+
+</body>
+</html>
