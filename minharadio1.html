@@ -1,37 +1,453 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-br">
- <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-  <meta name="theme-color" content="#00FFFF"/>
-  <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
-  <meta name="msapplication-navbutton-color" content="#00FFFF"/>
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-
-  <script>
-    window.onload = function() {
-        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-            document.getElementById("botcel").style.display = "table";
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="mobile-web-app-capable" content="yes"/>
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <meta name="theme-color" content="#8cc3f0"/>
+        <meta name="apple-mobile-web-app-status-bar-style" content="#8cc3f0"/>
+        <meta name="msapplication-navbutton-color" content="#8cc3f0"/>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <title>Minha Lista de videos</title>
+        <link href="video-js.css" rel="stylesheet">
+        <link href="videojs-mobile-ui.css" rel="stylesheet">
+        <link href="videojs-playlist-ui.css" rel="stylesheet">
+        <style>
+        
+          body {background-color:#8cc3f0;width: auto; height: auto;}
+          </style>
+          <style>
+        
+        .testEl {
+          width: 10%;
+          height: 10%;
+          position: absolute;
+          top: 0;
+          pointer-events: none;
+          display: none;
         }
-    }
-</script>
+        </style>
+      
+      </head>
+      
+      
+      <body>
+        <div class="player-container" width="100%">
 
-  <style>
-    div.a{
-     text-align: center; width: 100%;
- 
-     } 
-    body {background-color:#E0FFFF; text-align: center; width:100% ;}
-    </style>
+            <video-js id="videojs-mobile-ui-player" class="video-js vjs-default-skin vjs-fluid" controls playsinline
+            poster= "https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200"
+            >
+              <source src="https://drive.google.com/uc?export=&id=1RKDv4dZjMoHq9T4FK3o7PUo70d8B-8z_" type='video/mp4'>
+             
+            </video-js>
+          
+           
+            
+           
+           <center>
+              <h1>JP Filmes e Séries </h1></center>
+                  <div class="vjs-playlist"  position= "responsive" >
+                    <!--
+                      The contents of this element will be filled based on the
+                      currently loaded playlist
+                    -->
+                  </div>
+           
+            <script src="video.js"></script>
+            <script src="videojs-mobile-ui.js"></script>
+            <script src="videojs-playlist.js"></script>
+            <script src="videojs-playlist-ui.js"></script>
+          
+            <script>
+              var player = videojs('videojs-mobile-ui-player', {
+           
+               
+                fluid: true,
+                controls: true,
+                aspectRatio: '4:3',
+                
+                
+                
+              },
+              
+              );
+          
+             
+          
+              player.playlist([{
+                name: 'Porno 1',
+               
+                sources: [
+                  { src: 'https://drive.google.com/uc?export=&id=1RKDv4dZjMoHq9T4FK3o7PUo70d8B-8z_', type: 'video/mp4' },
+                 
+                ],
+          
+                // you can use <picture> syntax to display responsive images
+                thumbnail: [
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                    type: 'image/jpeg',
+                    media: '(min-width: 400px;)'
+                  },
+          
+          
+                  
+                  {
+                    src: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+                  }
+                ],
+                poster:'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+              },
+          
+              {
+                name: 'Porno 2',
+           
+                sources: [
+                  { src: 'https://drive.google.com/uc?export=&id=1NHoSF0Xr0AG8qGA0KQnUFcWIljqTQdzx', type: 'video/mp4' },
+                ],
+          
+                thumbnail: [
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                    
+                    type: 'image/jpeg',
+                    media: '(min-width: 400px;)'
+                  },
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                  
+                  }
+                ],
+                poster:'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+              },
 
-  
-  </head>
-  <body>
+              {
+                name: 'Porno 3',
+           
+                sources: [
+                  { src: 'https://drive.google.com/uc?export=&id=1IDFf4Ndfu8DvBwKYOx1WXYKWDJY2I-9G', type: 'video/mp4' },
+                ],
+          
+                thumbnail: [
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                    
+                    type: 'image/jpeg',
+                    media: '(min-width: 400px;)'
+                  },
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                  
+                  }
+                ],
+                poster:'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+              },
+
+              {
+                name: 'Porno 4',
+           
+                sources: [
+                  { src: 'https://drive.google.com/uc?export=&id=1gfX_wjNO4otJiHr9JCYSP88bdM9TASsk', type: 'video/mp4' },
+                ],
+          
+                thumbnail: [
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                    
+                    type: 'image/jpeg',
+                    media: '(min-width: 400px;)'
+                  },
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                  
+                  }
+                ],
+                poster:'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+              },
+
+ {
+                name: 'Porno 5',
+           
+                sources: [
+                  { src: 'https://drive.google.com/uc?export=&id=1-fReO1dD4C1uG03so6I3jY822lJ0byH5', type: 'video/mp4' },
+                ],
+          
+                thumbnail: [
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                    
+                    type: 'image/jpeg',
+                    media: '(min-width: 400px;)'
+                  },
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                  
+                  }
+                ],
+                poster:'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+              }, 
+
+             
+
+              {
+                name: 'Porno 6',
+           
+                sources: [
+                  { src: 'https://drive.google.com/uc?export=&id=1G4AfGu19OpI1CBM71Bsjt5RSrjLAeIDq', type: 'video/mp4' },
+                ],
+          
+                thumbnail: [
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                    
+                    type: 'image/jpeg',
+                    media: '(min-width: 400px;)'
+                  },
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                  
+                  }
+                ],
+                poster:'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+              },
+              
+              {
+                name: 'Porno 7',
+           
+                sources: [
+                  { src: 'https://drive.google.com/uc?export=&id=1eLEG2qLRdEkJDwP7rQBdLAgqP4rtH6o_', type: 'video/mp4' },
+                ],
+          
+                thumbnail: [
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                    
+                    type: 'image/jpeg',
+                    media: '(min-width: 400px;)'
+                  },
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                  
+                  }
+                ],
+                poster:'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+              }, 
+              
+              {
+                name: 'Porno 8',
+           
+                sources: [
+                  { src: 'https://drive.google.com/uc?export=&id=1EWlPznzlMsQt7CA1bVg-yfB7ARQJ7diC', type: 'video/mp4' },
+                ],
+          
+                thumbnail: [
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                    
+                    type: 'image/jpeg',
+                    media: '(min-width: 400px;)'
+                  },
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                  
+                  }
+                ],
+                poster:'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+              }, 
+
+              {
+                name: 'Porno 9',
+           
+                sources: [
+                  { src: 'https://drive.google.com/uc?export=&id=1kyETaFvhc5kJm5az_EPZZBawpyMUBlEz', type: 'video/mp4' },
+                ],
+          
+                thumbnail: [
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                    
+                    type: 'image/jpeg',
+                    media: '(min-width: 400px;)'
+                  },
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                  
+                  }
+                ],
+                poster:'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+              }, 
+              
+              {
+                name: 'Porno 10',
+           
+                sources: [
+                  { src: 'https://drive.google.com/uc?export=&id=1ZL-hSaMj1sAoFi33RuMOZaoTtZSVveqX', type: 'video/mp4' },
+                ],
+          
+                thumbnail: [
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                    
+                    type: 'image/jpeg',
+                    media: '(min-width: 400px;)'
+                  },
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                  
+                  }
+                ],
+                poster:'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+              }, 
+              
+              {
+                name: 'Porno 11',
+           
+                sources: [
+                  { src: 'https://drive.google.com/uc?export=&id=1aru-2_4IggbIAYTwQ0sqEyvIu_vM0fT1', type: 'video/mp4' },
+                ],
+          
+                thumbnail: [
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                    
+                    type: 'image/jpeg',
+                    media: '(min-width: 400px;)'
+                  },
+                  {
+                    srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200',
+                  
+                  }
+                ],
+                poster:'https://blogger.googleusercontent.com/img/a/AVvXsEgBMyL2KBprzkjtIpYdGIQSNDcmqGLCAIZef6ntejDrW3kEfCtjer4G7fboBsnLIPaAOj-SBFlxfckPcpQkaPT8htUbLrnHgx-DRyG-u7nUQT2Ooj2yYVjinDB--ghzDJ3qKkpJbnQZUKMoWmokc5lh43r6L9ScRacWgBRoE_pwc9Ku8ssU-CAhq4rE=s200'
+              },               
 
 
-    <video autoplay="autoplay" controls="controls" poster="https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png">
-      <source src="http://stream.zeno.fm/n290bnzvsy8uv" type="audio/mp3" />
-      seu navegador não suporta HTML5
-      </video>
-  </body>
-  </html>
+                        
+          
+             
+          
+              {
+                name: 'Minha Rádio web',
+           
+                sources: [
+                  { src: 'https://stream.zeno.fm/n290bnzvsy8uv.mp3', type: 'audio/mpeg' },
+                  { src: 'https://stream.zeno.fm/n290bnzvsy8uv', type: 'audio/ogg' },
+                ],
+          
+                thumbnail: [
+                  {
+                    srcset: 'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png',
+                    type: 'image/png',
+                    media: '(min-width: 400px;)'
+                  },
+                  {
+                    src: 'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png'
+                  }
+                ],
+                poster:'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png'
+              },
+          
+          
+          
+          
+          
+          
+              ]);
+          
+             
+              
+          
+            
+          
+           
+              player.playlistUi({horizontal: true},);
+              player.playlist.autoadvance(0);
+            
+              
+          
+            
+          
+          
+             
+            </script>
+          
+          
+            <script>
+              (function(window, videojs) {
+                var options = {
+                  fullscreen: {
+                    enterOnRotate: true,
+                    exitOnRotate: true,
+                    lockOnRotate: true,
+                    iOS: false,
+                    disabled: false
+                  },
+                  touchControls: {
+                    seekSeconds: 10,
+                    tapTimeout: 300,
+                    disableOnEnd: false,
+                    disabled: false
+                  }
+                };
+          
+                var url = new URL(window.location);
+                if (url.searchParams.has('options')) {
+                  options = JSON.parse(url.searchParams.get('options'));
+                }
+          
+                console.log(JSON.stringify(options, null, 2));
+          
+                Object.keys(options).forEach(function(section) {
+                  Object.keys(options[section]).forEach(function(prop) {
+                    const val = options[section][prop];
+          
+                    if (prop === 'disabled') {
+                      prop = `${section}Disabled`;
+                    }
+          
+                    if (typeof val === 'boolean') {
+                      document.getElementById(prop).checked = val; 
+                    }
+                    if (typeof val === 'number') {
+                      document.getElementById(prop).value = val; 
+                    }
+                  });
+                });
+          
+                document.getElementById('options').querySelectorAll('input').forEach(function(opt) {
+                  opt.addEventListener('change', function() {
+                    if (this.type === 'checkbox') {
+                      const param = this.id.endsWith('Disabled') ? 'disabled' : this.id;
+          
+                      options[this.getAttribute('data-section')][param] = this.checked;
+                    } else {
+                      options[this.getAttribute('data-section')][this.id] = parseFloat(this.value);
+                    }
+                    console.log(options);
+                  });
+                });
+          
+                document.getElementById('reload').addEventListener('click', function() {
+                  url.searchParams.set('options', JSON.stringify(options));
+          
+                  window.location = url.href;
+                })
+          
+                window.addEventListener('orientationchange', function() {
+                  var el = document.createElement('li');
+                  var message = (new Date).toTimeString().split(' ')[0] + ' ' + window.orientation;
+                  message += (screen && screen.orientation ? ' ' + screen.orientation.type + ' ' + screen.orientation.angle : '');
+                  el.textContent = message;
+                  console.log(message);
+                  document.getElementById('log').appendChild(el);
+                });
+          
+                var testPlayer = window.testPlayer = videojs('videojs-mobile-ui-player');
+                testPlayer.endscreen = function() {};
+                testPlayer.mobileUi(options);
+              }(window, window.videojs));
+            </script>
+          </body>
+          </html>
