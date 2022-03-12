@@ -3,7 +3,7 @@ let audioList = [
       title:"Rádio Rauland FM",
       album:"Rádio FM",
       author:"",
-      source:"https://ssl.ifantasy.com.br:6672/;?1614959595633",
+      source:"https://stm1.srvif.com:6672/;?1614959595633",
       type:"audio/mpeg"
  
     }
