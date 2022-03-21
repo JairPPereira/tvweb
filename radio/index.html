@@ -11,7 +11,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="#8cc3f0" />
   <meta name="msapplication-navbutton-color" content="#8cc3f0" />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <title>Minha Lista de Radios</title>
+  <title>Minha Lista de Radios preferidas</title>
   <link href="./video-js.css" rel="stylesheet">
   <link href="./videojs-mobile-ui.css" rel="stylesheet">
   <link href="videojs-playlist-ui.css" rel="stylesheet">
@@ -50,7 +50,7 @@
 
 
     <center>
-      <h1>Minhas estações de rádios</h1>
+      <h1>Minhas estações de rádios preferidas</h1>
     </center>
     <div class="vjs-playlist" position="responsive">
       <!--
@@ -260,7 +260,28 @@
           }
         ],
         poster: 'https://1.bp.blogspot.com/---9pCWcIkXo/YUaSqTkzy_I/AAAAAAAABHY/O_7uoGEQepk_mSyI_eipAEo6vuP1z0poACLcBGAsYHQ/s0/radio_liberalfmbelem.png'
-      },      
+      }, 
+      
+      {
+        name: 'Rádio Libmusic Web',
+
+        sources: [
+          { src: 'https://s09.maxcast.com.br:8122/live', type: 'audio/mpeg' },
+          { src: 'https://s09.maxcast.com.br:8122/live', type: 'audio/ogg' },
+        ],
+
+        thumbnail: [
+          {
+            srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEjGO786SrOTAW290CxqMHuJ2hnSBDBx2B-bRV2VDv8xufeG8AkJUGDmS71AbC_KVFu1Vyup8cJyDYaK-GoowyL58IHVGe-oLUOJcMAuvp3_RNQgr2pRyB2Rc6S3dXFZrCim3GtqpIuQHPEgLBReozbOm1Op-tk51ALm7iBbxeihr2HwCJxhCwpFp7Up',
+            type: 'image/png',
+            media: '(min-width: 400px;)'
+          },
+          {
+            src: 'https://blogger.googleusercontent.com/img/a/AVvXsEjGO786SrOTAW290CxqMHuJ2hnSBDBx2B-bRV2VDv8xufeG8AkJUGDmS71AbC_KVFu1Vyup8cJyDYaK-GoowyL58IHVGe-oLUOJcMAuvp3_RNQgr2pRyB2Rc6S3dXFZrCim3GtqpIuQHPEgLBReozbOm1Op-tk51ALm7iBbxeihr2HwCJxhCwpFp7Up'
+          }
+        ],
+        poster: 'https://blogger.googleusercontent.com/img/a/AVvXsEjGO786SrOTAW290CxqMHuJ2hnSBDBx2B-bRV2VDv8xufeG8AkJUGDmS71AbC_KVFu1Vyup8cJyDYaK-GoowyL58IHVGe-oLUOJcMAuvp3_RNQgr2pRyB2Rc6S3dXFZrCim3GtqpIuQHPEgLBReozbOm1Op-tk51ALm7iBbxeihr2HwCJxhCwpFp7Up'
+      },         
 
       {
         name: 'Rádio Bélem FM',
