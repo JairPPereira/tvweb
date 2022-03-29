@@ -2,7 +2,7 @@
     <html lang="pt-br">
     <head>
     <meta charset=utf-8 />
-    <title>E!</title>
+    <title>Playlist Html</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="theme-color" content="#00FFFF"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
@@ -16,39 +16,67 @@
           }
       }
   </script>
-      
-      <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-      <script src="https://unpkg.com/video.js/dist/video.js"></script>
-      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
-      <style>
-        div.a{
-         text-align: center; background-color: blanchedalmond;
-     
-         } 
-        body {background-color:#080808}
-        </style>
-        <link href="https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.css" rel="stylesheet" />
-        <script src = " https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.min.js" > </script>
-         <link rel="stylesheet" href="https://path/to/videojs-mobile-ui.css">
-         
-    </head>
-    <body>
-      <video id="my_video_1" class="video-js vjs-fluid vjs-big-play-centered vjs-default-skin"
-      poster="https://1.bp.blogspot.com/-aqONzu3dXnM/YT72-NAF3NI/AAAAAAAABEY/FkmSSqHOTbwOOJuZlaW_hNCObA1exxbqACLcBGAsYHQ/s200/ei200.jpg"
-      controls preload="auto" width="100%"
-      data-setup='{}'>
-        <source src="https://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index.m3u8" type="application/x-mpegURL">
-      </video>
-      
-    <script>
-    var player = videojs('my_video_1');
-    player.play();
-    player.mobileUi();
-    </script>
-     <script type="text/javascript" src="plugins/js/zoomrotate.js"></script>
 
-      <script src="https://path/to/video.min.js"></script>
-<script src="https://path/to/videojs-mobile-ui.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+    <body>
+      <audio id="audio"   preload="auto" tabindex="0" controls="">
+ 
+        <source src="https://drive.google.com/uc?export&id=1-05hiU81aUff7qRdz48W7ZeOiBjDIyLT" >
+      </audio>
+
+      <ul id="playlist">
+        <li class="active"> <a href="https://drive.google.com/uc?export&id=1-05hiU81aUff7qRdz48W7ZeOiBjDIyLT">Sábado</a></li>
+        <li><a href="https://drive.google.com/uc?export&id=1-8NCBmzSpqeuvLIFPCwAPcQCNjln-WAZ">Doce engano</a></li>
+        <li><a href="https://drive.google.com/uc?export&id=1-FfXBn5hzAfRe_OxHCu6oJH1b-9vyLuR">Coisinha estúpida</a></li>
+      </ul>
+<script type="text/javascript">
+
+  inicio();
+
+function inicio() {
+
+  var corrente = 0;
+  var audio = $("#audio");
+  var playlist = $("#playlist");
+  var tracks = playlist.find("li a");
+  var len = tracks.length + 1;
+  audio[0].play();
+  playlist.find("a").click(function(e){
+    e.preventDefault();
+    link = $(this);
+    corrente = link.parent().index();
+    run(link, audio[0]);
+
+
+  });
+  audio[0].addEventListener("ended", function(e){
+    corrente ++;
+    if(corrente = len){
+      corrente = 0;
+      link = playlist.find("a")[0];
+
+  
+
+    }else{
+      link = playlist.find("a")[corrente];
+    };
+
+    run($(link), audio[0]);
+
+  });
+
+}
+
+function run(link, player ) {
+  player.src = link.attr("href");
+  par = link.parent();
+  par.addClass("active").siblings().removeClass("active");
+  player.load();
+  player.play();
+}
+</script>
 
     </body>
     </html>
