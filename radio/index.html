@@ -40,9 +40,9 @@
   <div class="player-container" width="100%">
 
     <video-js id="videojs-mobile-ui-player" class="video-js vjs-default-skin vjs-fluid" controls playsinline
-      poster="https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png">
-      <source src="https://stream.zeno.fm/n290bnzvsy8uv.mp3" type='audio/mpeg'>
-      <source src="https://stream.zeno.fm/n290bnzvsy8uv.mp3" type='audio/ogg'>
+      poster="https://1.bp.blogspot.com/-0uKfHzS4A9c/YTzZb9cssjI/AAAAAAAABDw/d9vt-Y4wGTgOwwwhmu_qer1qaI1W8XmcwCLcBGAsYHQ/s200/radioclube.jpeg">
+      <source src="https://ice01.kshost.com.br:8000/live" type='audio/mpeg'>
+      <source src="https://ice01.kshost.com.br:8000/live" type='audio/ogg'>
 
 
 
@@ -82,84 +82,7 @@
 
 
 
-      player.playlist([{
-        name: 'Estação 1',
-
-        sources: [
-          { src: 'https://stream.zeno.fm/n290bnzvsy8uv.mp3', type: 'audio/mpeg' },
-          { src: 'https://stream.zeno.fm/vbatxgxryhhvv.ogg', type: 'audio/ogg' },
-
-
-        ],
-
-        // you can use <picture> syntax to display responsive images
-        thumbnail: [
-          {
-            srcset: 'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png',
-            type: 'image/jpeg',
-            media: '(min-width: 400px;)'
-          },
-
-
-
-          {
-            src: 'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png'
-          }
-        ],
-        poster: 'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png'
-      },
-
-      {
-        name: 'Estação 2',
-
-        sources: [
-          { src: 'https://stream.zeno.fm/3ggkqnsn3ehvv.mp3', type: 'audio/mpeg' },
-
-        ],
-
-        // you can use <picture> syntax to display responsive images
-        thumbnail: [
-          {
-            srcset: 'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png',
-            type: 'image/jpeg',
-            media: '(min-width: 400px;)'
-          },
-
-
-
-          {
-            src: 'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png'
-          }
-        ],
-        poster: 'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png'
-      },
-
-
-
-
-
-
-
-      {
-        name: 'Musicas das aparelhagens',
-
-        sources: [
-          { src: 'https://stream.zeno.fm/vbatxgxryhhvv.mp3', type: 'audio/mpeg' },
-          { src: 'https://stream.zeno.fm/vbatxgxryhhvv.ogg', type: 'audio/ogg' },
-        ],
-
-        thumbnail: [
-          {
-            srcset: 'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png',
-            type: 'image/png',
-            media: '(min-width: 400px;)'
-          },
-          {
-            src: 'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png'
-          }
-        ],
-        poster: 'https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png'
-      },
+      player.playlist([
 
       {
         name: 'Rádio Clube AM',
@@ -203,26 +126,6 @@
         poster: 'https://1.bp.blogspot.com/-FJl5s36LyDw/YTzildRU7OI/AAAAAAAABD4/qnsZGumcaDUb_GuYQpAFnz4iXJUWlqN9QCLcBGAsYHQ/s200/marajoara.jpg'
       },
 
-      {
-        name: 'Rádio Liberal AM',
-
-        sources: [
-          { src: 'https://stream.zeno.fm/p57q7emr168uv', type: 'audio/mpeg' },
-          { src: 'https://stream.zeno.fm/p57q7emr168uv', type: 'audio/ogg' },
-        ],
-
-        thumbnail: [
-          {
-            srcset: 'https://1.bp.blogspot.com/-QTPqdWy_V5U/YUExuL4cuII/AAAAAAAABFQ/Vh-VXhWIjIsH_KFNfy_-VSO34kqxhmmcACLcBGAsYHQ/s200/libam.png',
-            type: 'image/png',
-            media: '(min-width: 400px;)'
-          },
-          {
-            src: 'https://1.bp.blogspot.com/-QTPqdWy_V5U/YUExuL4cuII/AAAAAAAABFQ/Vh-VXhWIjIsH_KFNfy_-VSO34kqxhmmcACLcBGAsYHQ/s200/libam.png'
-          }
-        ],
-        poster: 'https://1.bp.blogspot.com/-QTPqdWy_V5U/YUExuL4cuII/AAAAAAAABFQ/Vh-VXhWIjIsH_KFNfy_-VSO34kqxhmmcACLcBGAsYHQ/s200/libam.png'
-      },
 
       {
         name: 'Rádio Rauland FM',
@@ -245,26 +148,6 @@
         poster: 'https://1.bp.blogspot.com/-TGdVG07kU6s/YUFq5Toxe9I/AAAAAAAABFY/-X_xXV09DkcTfBPs2C7Oi7x7mIDuG5BAwCLcBGAsYHQ/s0/rauland.jpg'
       },
 
-      {
-        name: 'Rádio Liberal FM',
-
-        sources: [
-          { src: 'https://stream.zeno.fm/0q20p5krvy8uv', type: 'audio/mpeg' },
-          { src: 'https://stream.zeno.fm/0q20p5krvy8uv', type: 'audio/ogg' },
-        ],
-
-        thumbnail: [
-          {
-            srcset: 'https://1.bp.blogspot.com/---9pCWcIkXo/YUaSqTkzy_I/AAAAAAAABHY/O_7uoGEQepk_mSyI_eipAEo6vuP1z0poACLcBGAsYHQ/s0/radio_liberalfmbelem.png',
-            type: 'image/png',
-            media: '(min-width: 400px;)'
-          },
-          {
-            src: 'https://1.bp.blogspot.com/---9pCWcIkXo/YUaSqTkzy_I/AAAAAAAABHY/O_7uoGEQepk_mSyI_eipAEo6vuP1z0poACLcBGAsYHQ/s0/radio_liberalfmbelem.png'
-          }
-        ],
-        poster: 'https://1.bp.blogspot.com/---9pCWcIkXo/YUaSqTkzy_I/AAAAAAAABHY/O_7uoGEQepk_mSyI_eipAEo6vuP1z0poACLcBGAsYHQ/s0/radio_liberalfmbelem.png'
-      }, 
       
       {
         name: 'Rádio Libmusic Web',
@@ -1799,7 +1682,35 @@
           }
         ],
         poster: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY44ALdFIl7uu3FzSt3NXhhEZrTJrajen-4hGIbASmCrobAP-kZc_61f83ucV2CQRgAZIJwOuYlMuAaoyN9Idvi63SoXtoMH_ylrYAqenCXq59jRGNKwT9ckYNiRZm2Weo6ow_Rnr0_D9XZhZxZoxstcP0xp9UT7V5qcGvrTpuauHSp7OxxYdizxc0/s1600/terrafmsp.webp'
-      },        
+      },    
+      
+      {
+        name: 'Rádio Banda B 550 AM 79.3 FM de R',
+
+        sources: [
+        { src: 'https://ice.fabricahost.com.br/bandabctb', type: 'audio/ogg' },
+        { src: 'https://ice.fabricahost.com.br/bandabctb', type: 'application/x-mpegurl'},
+        { src: 'https://ice.fabricahost.com.br/bandabctb', type: 'audio/mpeg' },
+        { src: 'https://ice.fabricahost.com.br/bandabctb', type: 'video/mp4' },
+					{audioOnly: 'true',
+					mutedAutoplay: 'false',
+					live: 'true',},          
+
+
+        ],
+
+        thumbnail: [
+          {
+            srcset: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7dOcHRkmEmRwW9OS7U0fBxCJe8_TjXreabh6XQxBudBGLILUbk0mEWwR69OELcoR5DjW27Kalrk3GPR7WqqDHoINEdOGl_zwspWBLB8xW74REQprK9tEt0rx3LqkODKR2a64qmGVzMMOua_JqdUhdXiENABSILHdp3_43eWsXs9ioTn4GSIzwifkk/s1600/bandab.jpg',
+            type: 'image/png',
+            media: '(min-width: 400px;)'
+          },
+          {
+            src: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7dOcHRkmEmRwW9OS7U0fBxCJe8_TjXreabh6XQxBudBGLILUbk0mEWwR69OELcoR5DjW27Kalrk3GPR7WqqDHoINEdOGl_zwspWBLB8xW74REQprK9tEt0rx3LqkODKR2a64qmGVzMMOua_JqdUhdXiENABSILHdp3_43eWsXs9ioTn4GSIzwifkk/s1600/bandab.jpg'
+          }
+        ],
+        poster: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7dOcHRkmEmRwW9OS7U0fBxCJe8_TjXreabh6XQxBudBGLILUbk0mEWwR69OELcoR5DjW27Kalrk3GPR7WqqDHoINEdOGl_zwspWBLB8xW74REQprK9tEt0rx3LqkODKR2a64qmGVzMMOua_JqdUhdXiENABSILHdp3_43eWsXs9ioTn4GSIzwifkk/s1600/bandab.jpg'
+      },         
       
       
              
