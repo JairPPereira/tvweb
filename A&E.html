@@ -10,8 +10,9 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="#8cc3f0"/>
         <meta name="msapplication-navbutton-color" content="#8cc3f0"/>
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-        <script src="https://unpkg.com/video.js/dist/video.js"></script>
-        <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.5.14/hls.min.js" integrity="sha512-js37JxjD6gtmJ3N2Qzl9vQm4wcmTilFffk0nTSKzgr3p6aitg73LR205203wTzCCC/NZYO2TAxSa0Lr2VMLQvQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.5.14/hls.js" integrity="sha512-Uxb1LSW1XkMpEWsi4HguYGAHbXnNP5h0On1bBlSOZmEe42ajm2TCVy6khtfr5jFfjlToaG/mrN6R5zslmOCnAg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.5.14/hls.js.map"> </script>
         <title>Minha Lista de videos</title>
         <link href="./video-js.css" rel="stylesheet">
         <link href="./videojs-mobile-ui.css" rel="stylesheet">
@@ -31,17 +32,18 @@ body {background-color:#8cc3f0;width: auto; height: auto;}
           display: none;
         }
         </style>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
       
       </head>
       
       
       <body>
-   
+
 
             <video-js id="videojs-mobile-ui-player" class="video-js vjs-default-skin vjs-fluid" controls playsinline
             poster= "https://blogger.googleusercontent.com/img/a/AVvXsEhi9rndkcj25ZaHYQ7-DoyTWdYVhKVUv4VKnkhxXO2_laSprEez6m50sewboUP6pgpjYLDjEJZDOQCqYZB7SDGpGAnwoCD_57DfQBlPQjrFEOUxVmz8zjVr4n5I_CwzwhnPeQK823i2vPlti_5WHANY8b3eyuXf1-b8-Gn-sbxQDb7OzFMWoZtkLTIp"
             >
-              <source src="https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8" type='application/x-mpegURL'>
+              <source src="https://live.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8" type='application/x-mpegURL'>
 
             </video-js>
 
