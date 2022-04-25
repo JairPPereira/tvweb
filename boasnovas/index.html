@@ -11,7 +11,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="#7ac525" />
   <meta name="msapplication-navbutton-color" content="#7ac525" />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <title>TV Nazaré</title>
+  <title>Tv Boas Novas</title>
   <link href="./video-js.css" rel="stylesheet">
   <link href="./videojs-mobile-ui.css" rel="stylesheet">
   <link href="videojs-playlist-ui.css" rel="stylesheet">
@@ -39,7 +39,11 @@
 <body> 
   <div class="player-container" width="100%">
 
-      <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="600" src="http://www.portalcultura.com.br/playerhtml/index.html" width="100%"></iframe>
+    <video-js id="videojs-mobile-ui-player" class="video-js vjs-default-skin vjs-fluid" controls playsinline
+      poster="https://blogger.googleusercontent.com/img/a/AVvXsEgsHvhOKzzBbKjnZ53gIEW4GbyhlANiXTuFzsGYmpiwfX4D4-nbywik-J8A4LFN5VmUyI4oH2_qgQHteFdQXyuHFYE207Q05THqyOsZp9N6JfSoto-61BT3fzyeQ6oi7A9qDH0Kxwn1sSs5sx8RQQMeTDZMGPbEiaIG1w-S3QG_RWovmGaIUgHXHL4W=s200">
+      <source src="https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8" type='application/x-mpegURL'>
+      <source src="https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8" type='audio/mpeg'>      
+      <source src="https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8" type='audio/ogg'>
 
 
 
@@ -70,25 +74,25 @@
       player.playlist([
 
       {
-        name: 'TV Nazaré',
+        name: 'Tv Boas Novas',
 
         sources: [
-        { src: 'http://www.portalcultura.com.br/playerhtml/index.html', type: 'application/x-mpegURL' },  
-        { src: 'rtmps://www.portalcultura.com.br/playerhtml/index.htm', type: 'application/flash' },       
-
+        { src: 'https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8', type: 'application/x-mpegURL' },         
+          { src: 'https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8', type: 'audio/mpeg' },
+          { src: 'https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8', type: 'audio/ogg' },
         ],
 
         thumbnail: [
           {
-            srcset: 'https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg',
+            srcset: 'https://blogger.googleusercontent.com/img/a/AVvXsEgsHvhOKzzBbKjnZ53gIEW4GbyhlANiXTuFzsGYmpiwfX4D4-nbywik-J8A4LFN5VmUyI4oH2_qgQHteFdQXyuHFYE207Q05THqyOsZp9N6JfSoto-61BT3fzyeQ6oi7A9qDH0Kxwn1sSs5sx8RQQMeTDZMGPbEiaIG1w-S3QG_RWovmGaIUgHXHL4W=s200',
             type: 'image/png',
             media: '(min-width: 400px;)'
           },
           {
-            src: 'https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg'
+            src: 'https://blogger.googleusercontent.com/img/a/AVvXsEgsHvhOKzzBbKjnZ53gIEW4GbyhlANiXTuFzsGYmpiwfX4D4-nbywik-J8A4LFN5VmUyI4oH2_qgQHteFdQXyuHFYE207Q05THqyOsZp9N6JfSoto-61BT3fzyeQ6oi7A9qDH0Kxwn1sSs5sx8RQQMeTDZMGPbEiaIG1w-S3QG_RWovmGaIUgHXHL4W=s200'
           }
         ],
-        poster: 'https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg'
+        poster: 'https://blogger.googleusercontent.com/img/a/AVvXsEgsHvhOKzzBbKjnZ53gIEW4GbyhlANiXTuFzsGYmpiwfX4D4-nbywik-J8A4LFN5VmUyI4oH2_qgQHteFdQXyuHFYE207Q05THqyOsZp9N6JfSoto-61BT3fzyeQ6oi7A9qDH0Kxwn1sSs5sx8RQQMeTDZMGPbEiaIG1w-S3QG_RWovmGaIUgHXHL4W=s200'
       },
 
 
