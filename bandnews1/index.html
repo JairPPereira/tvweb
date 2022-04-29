@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+       <script type="text/javascript"
+      src="hls.js"></script>
+
+</head>
+<body>
+
+    <p>
+        <script>
+        var iOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform); 
+        console.log(iOS)
+        if (Hls.isSupported() && !iOS) {
+            var video = document.getElementById('video');
+        
+            var hls = new Hls();
+            hls.loadSource('http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8');
+            hls.attachMedia(video);
+            hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                video.play();
+            });
+        }
+        else {
+            document.location = 'http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8';	
+        }
+        </script>
+        </p>
+    <iframe width="560" height="315" src="http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
+    <div id="player"></div>
+  <script>
+    var player = new Clappr.Player({source: "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8", parentId: "#player"});
+  </script>
+</body>
+</html>
