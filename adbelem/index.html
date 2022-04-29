@@ -21,6 +21,20 @@
       width: auto;
       height: auto;
     }
+
+
+    iframe {
+      width: 100vw;
+      height: 56.25vw;
+      max-height: 100vh;
+      max-height: 177.78vh;
+      margin: auto;
+      position: absolute;
+      top: 120px;
+      left: 0;
+      right: 0;
+    }
+
   </style>
   <style>
     .testEl {
@@ -39,7 +53,7 @@
 <body> 
   <div class="player-container" width="100%">
 
-    <iframe class="jmvplayer" src="https://player.jmvstream.com/avj/WXvqDSQvKPl9DBcd0Y9BGucFDjyLay" allowfullscreen allow="autoplay; fullscreen" frameborder="0" width="100%" height="500" ></iframe>
+    <iframe class="jmvplayer" src="https://player.jmvstream.com/avj/WXvqDSQvKPl9DBcd0Y9BGucFDjyLay" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"" ></iframe>
 
     <script src="./video.js"></script>
     <script src="./videojs-mobile-ui.js"></script>
