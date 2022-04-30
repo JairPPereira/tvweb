@@ -1,41 +1,88 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="pt-br">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script type="text/javascript"
-      src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
-       <script type="text/javascript"
-      src="hls.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#7ac525" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#7ac525" />
+  <meta name="msapplication-navbutton-color" content="#7ac525" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <title>Rádio Clube AM</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/canvasjs.min.js" integrity="sha512-FJ2OYvUIXUqCcPf1stu+oTBlhn54W0UisZB/TNrZaVMHHhYvLBV9jMbvJYtvDe5x/WVaoXZ6KB+Uqe5hT2vlyA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/canvasjs.js" integrity="sha512-P0pdbdTHc6MzepVlBNGN/c+lBFfFk0ISSc/GLLnQzR5QzfgVdQMvOhVK4RvnhylawHSn2QxgAjb3f+zxSMfyNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/excanvas.js" integrity="sha512-MNHfHZ07FhfcVwynE15AiS69hD5V5q3bgAj4bvIFm3u4b35Rs7b83Z0BTpLRvBu2ph3rcZ6AxdKvx3DNY6Sg4A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/jquery.canvasjs.js" integrity="sha512-K0pOiOu3G8R2xDzk0RsZHUywWA4nWr/1Dg09qbQRGn3tY3Ra9hzIvVtp71GeM/uxqPPM38KA+GAOB4vgNTWOtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/jquery.canvasjs.min.js" integrity="sha512-xeQFOWENzkyJSDlwwlX5lsFHfFL3Y3idnpBZYF/SCRxZz03HW/fpd5Lpd78SzjAzp/iBeWJ4PQRKlxWeYqQlHA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 
 </head>
-<body>
 
-    <p>
-        <script>
-        var iOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform); 
-        console.log(iOS)
-        if (Hls.isSupported() && !iOS) {
-            var video = document.getElementById('video');
-        
-            var hls = new Hls();
-            hls.loadSource('http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8');
-            hls.attachMedia(video);
-            hls.on(Hls.Events.MANIFEST_PARSED, function () {
-                video.play();
-            });
-        }
-        else {
-            document.location = 'http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8';	
-        }
-        </script>
-        </p>
-    <iframe width="560" height="315" src="http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
-    <div id="player"></div>
-  <script>
-    var player = new Clappr.Player({source: "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8", parentId: "#player"});
-  </script>
+
+<body> 
+  <div class="audio"></div>
+
+
+</dv>
+
+<script>
+  var audio = new Audio ();
+  audio.src= 'https://ice01.kshost.com.br:8000/live';
+  audio.loop = true;
+  audio.autoplay= true;
+  audio.crossOrigin="anonymous";
+
+  var audioContext, analyser, source, fbc_array;
+
+  function createAudioContext() {
+  audioContext = new (window.AudioContext  || window.webkitAudioContext);
+  source = audioContext.createMediaElementSource (audio);
+
+  analyser =  audioContext.createAnalyser ();
+  fbc_array =  new Uint8Array (analyser.frequencyBinCount);
+console.log(audio)
+  source.connect (analyser);
+  analyser.connect (audioContext.destination);
+  }
+
+  var canvas, canvasCtx;
+
+  function createCanvas(){
+    canvas = document.getElementById('analyser');
+    canvasCtx = canvas.getContext('2d');
+  }
+
+function defineSizesCanvas(){
+  canvas.width = window.innerWidth;
+  canvas.heigth = window.innerHeight;
+}
+
+var bars, bar_x, bar_width, bar_heigth;
+
+  function frameLooper () {
+    window.requestAnimationFrame (frameLooper);
+    analyser.getByteFrequencyData(fbc_array);
+    render ();
+  }
+
+    function render () {
+      canvasCtx.clearRect (0, 0, canvas.width, canvas.heigth);
+      canvasCtx.fillStyle = 'green';
+      bars = 100;
+      for (var i  = 0; i  < bars; i++){
+        bar_width = canvas.width / bars;
+        bar_x =  i * (bar_width + 5);
+        bar_heigth = -(fbc_array[i]);
+        canvasCtx.fillRect(bar_x, canvas.width, bar_width,  bar_heigth);
+
+      }
+    }
+
+</script>
+
 </body>
+
 </html>
