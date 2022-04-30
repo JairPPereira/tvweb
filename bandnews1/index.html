@@ -12,74 +12,118 @@
   <meta name="msapplication-navbutton-color" content="#7ac525" />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <title>Rádio Clube AM</title>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/canvasjs.min.js" integrity="sha512-FJ2OYvUIXUqCcPf1stu+oTBlhn54W0UisZB/TNrZaVMHHhYvLBV9jMbvJYtvDe5x/WVaoXZ6KB+Uqe5hT2vlyA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/canvasjs.js" integrity="sha512-P0pdbdTHc6MzepVlBNGN/c+lBFfFk0ISSc/GLLnQzR5QzfgVdQMvOhVK4RvnhylawHSn2QxgAjb3f+zxSMfyNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/excanvas.js" integrity="sha512-MNHfHZ07FhfcVwynE15AiS69hD5V5q3bgAj4bvIFm3u4b35Rs7b83Z0BTpLRvBu2ph3rcZ6AxdKvx3DNY6Sg4A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/jquery.canvasjs.js" integrity="sha512-K0pOiOu3G8R2xDzk0RsZHUywWA4nWr/1Dg09qbQRGn3tY3Ra9hzIvVtp71GeM/uxqPPM38KA+GAOB4vgNTWOtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/jquery.canvasjs.min.js" integrity="sha512-xeQFOWENzkyJSDlwwlX5lsFHfFL3Y3idnpBZYF/SCRxZz03HW/fpd5Lpd78SzjAzp/iBeWJ4PQRKlxWeYqQlHA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <style>
+body {
+    background: #000;
+    text-align: center;
+    color: #fff;
+}
+a{
+    color:yellow;
+}
+.bar-wrapper {
+    height: 300px;
+    position: relative;
+}
+.bar {
+    position: relative;
+    bottom: 0;
+    width: 5px;
+    display: inline-block;
+    border: 1px solid red;
+    height: 5px;
+    border-bottom: 3px solid #fff;
+}
 
+    
+  </style>
 
 </head>
 
 
 <body> 
-  <div class="audio"></div>
-
-
-</dv>
-
+  <canvas id='canvas' width="800" height="350"></canvas>
+  <audio src="./assets/07DireStraits-SoFarAway.mp3" id="audio" controls >audio element not supported</audio>
 <script>
-  var audio = new Audio ();
-  audio.src= 'https://ice01.kshost.com.br:8000/live';
-  audio.loop = true;
-  audio.autoplay= true;
-  audio.crossOrigin="anonymous";
 
-  var audioContext, analyser, source, fbc_array;
 
-  function createAudioContext() {
-  audioContext = new (window.AudioContext  || window.webkitAudioContext);
-  source = audioContext.createMediaElementSource (audio);
+/* * 
+ * audio visualizer with html5 audio element
+ *
+ * v0.1.0
+ * 
+ * licenced under the MIT license
+ * 
+ * see my related repos:
+ * - HTML5_Audio_Visualizer https://github.com/wayou/HTML5_Audio_Visualizer
+ * - 3D_Audio_Spectrum_VIsualizer https://github.com/wayou/3D_Audio_Spectrum_VIsualizer
+ * - selected https://github.com/wayou/selected
+ * - MeowmeowPlayer https://github.com/wayou/MeowmeowPlayer
+ * 
+ * reference: http://www.patrick-wied.at/blog/how-to-create-audio-visualizations-with-javascript-html
+ */
 
-  analyser =  audioContext.createAnalyser ();
-  fbc_array =  new Uint8Array (analyser.frequencyBinCount);
-console.log(audio)
-  source.connect (analyser);
-  analyser.connect (audioContext.destination);
-  }
+ window.AudioContext = window.AudioContext || window.webkitAudioContext || window.mozAudioContext;
 
-  var canvas, canvasCtx;
+var start = function() {
+    var audio = document.getElementById('audio');
+    var ctx = new AudioContext();
+    var analyser = ctx.createAnalyser();
+    var audioSrc = ctx.createMediaElementSource(audio);
+    // we have to connect the MediaElementSource with the analyser 
+    audioSrc.connect(analyser);
+    analyser.connect(ctx.destination);
+    // we could configure the analyser: e.g. analyser.fftSize (for further infos read the spec)
+    // analyser.fftSize = 64;
+    // frequencyBinCount tells you how many values you'll receive from the analyser
+    var frequencyData = new Uint8Array(analyser.frequencyBinCount);
 
-  function createCanvas(){
-    canvas = document.getElementById('analyser');
-    canvasCtx = canvas.getContext('2d');
-  }
-
-function defineSizesCanvas(){
-  canvas.width = window.innerWidth;
-  canvas.heigth = window.innerHeight;
-}
-
-var bars, bar_x, bar_width, bar_heigth;
-
-  function frameLooper () {
-    window.requestAnimationFrame (frameLooper);
-    analyser.getByteFrequencyData(fbc_array);
-    render ();
-  }
-
-    function render () {
-      canvasCtx.clearRect (0, 0, canvas.width, canvas.heigth);
-      canvasCtx.fillStyle = 'green';
-      bars = 100;
-      for (var i  = 0; i  < bars; i++){
-        bar_width = canvas.width / bars;
-        bar_x =  i * (bar_width + 5);
-        bar_heigth = -(fbc_array[i]);
-        canvasCtx.fillRect(bar_x, canvas.width, bar_width,  bar_heigth);
-
-      }
+    // we're ready to receive some data!
+    var canvas = document.getElementById('canvas'),
+        cwidth = canvas.width,
+        cheight = canvas.height - 2,
+        meterWidth = 10, //width of the meters in the spectrum
+        gap = 2, //gap between meters
+        capHeight = 2,
+        capStyle = '#fff',
+        meterNum = 800 / (10 + 2), //count of the meters
+        capYPositionArray = []; ////store the vertical position of hte caps for the preivous frame
+    ctx = canvas.getContext('2d'),
+    gradient = ctx.createLinearGradient(0, 0, 0, 300);
+    gradient.addColorStop(1, '#0f0');
+    gradient.addColorStop(0.5, '#ff0');
+    gradient.addColorStop(0, '#f00');
+    // loop
+    function renderFrame() {
+        var array = new Uint8Array(analyser.frequencyBinCount);
+        analyser.getByteFrequencyData(array);
+        var step = Math.round(array.length / meterNum); //sample limited data from the total array
+        ctx.clearRect(0, 0, cwidth, cheight);
+        for (var i = 0; i < meterNum; i++) {
+            var value = array[i * step];
+            if (capYPositionArray.length < Math.round(meterNum)) {
+                capYPositionArray.push(value);
+            };
+            ctx.fillStyle = capStyle;
+            //draw the cap, with transition effect
+            if (value < capYPositionArray[i]) {
+                ctx.fillRect(i * 12, cheight - (--capYPositionArray[i]), meterWidth, capHeight);
+            } else {
+                ctx.fillRect(i * 12, cheight - value, meterWidth, capHeight);
+                capYPositionArray[i] = value;
+            };
+            ctx.fillStyle = gradient; //set the filllStyle to gradient for a better look
+            ctx.fillRect(i * 12 /*meterWidth+gap*/ , cheight - value + capHeight, meterWidth, cheight); //the meter
+        }
+        requestAnimationFrame(renderFrame);
     }
+    renderFrame();
+    // audio.play();
+};
+
+audio.onplay = function(){
+    start();
+}
 
 </script>
 
