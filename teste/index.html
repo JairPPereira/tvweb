@@ -13,6 +13,7 @@
         <meta name="msapplication-navbutton-color" content="#7ac525" />
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
         <script src="https://cdn.plyr.io/3.6.12/plyr.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css" /> 
 <style>
 
@@ -36,10 +37,52 @@
         <canvas id='canvas' width="300px"  heigth="250px" ></canvas>
 		</center><center>
 
-        <audio  id="audio" src="https://hts01.kshost.com.br:8950/live" crossorigin="anonymous"  controls  autoplay>audio element not supported</audio>
-</center>
+        <audio  id="audio" src="./music/CoisinhaEstupida.mp3" crossorigin="anonymous"  controls  autoplay  preload="auto">audio element not supported</audio>
+</center><center>
+<ul id="playlist">
+  <li class="current-song"> <a href="./music/CoisinhaEstupida.mp3">1- Sábado</a></li>
+  <li><a href="./music/DoceEngano.mp3">2- Doce engano</a></li>
+  <li><a href="./music/QuemNegaALuz.mp3">3- Coisinha estúpida</a></li>
+  <li><a href="./music/Sabado.mp3">Sábado</a>
+  </li>
 
+</ul></center>
         <script src="main.js"></script>
+
+
+        <script type="text/javascript">
+
+          function audio(){
+                      var currentSong = 0;
+                      $("#audio")[0].src = $("#playlist li a")[0];
+                      $("#audio")[0].play();
+                      $("#playlist li a").click(function(e){
+                         e.preventDefault(); 
+                         $("#audio")[0].src = this;
+                         $("#audio")[0].play();
+                         $("#playlist li").removeClass("current-song");
+                          currentSong = $(this).parent().index();
+                          $(this).parent().addClass("current-song");
+                      });
+                      
+                      $("#audio")[0].addEventListener("ended", function(){
+                         currentSong++;
+                          if(currentSong == $("#playlist li a").length)
+                              currentSong = 0;
+                          $("#playlist li").removeClass("current-song");
+                          $("#playlist li:eq("+currentSong+")").addClass("current-song");
+                          $("#audio")[0].src = $("#playlist li a")[currentSong].href;
+                          $("#audio")[0].play();
+                      });
+                  }
+          
+          
+          
+                </script>
+                      <script>
+                        // loads the audio player
+                        audio();
+                    </script>
     </body>
 
 </html>
