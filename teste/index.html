@@ -1,53 +1,45 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
+    <head>
+        <title>Rádio AD Belém</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="theme-color" content="#000" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="#000" />
+        <meta name="msapplication-navbutton-color" content="#7ac525" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <script src="https://cdn.plyr.io/3.6.12/plyr.js"></script>
+<link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css" /> 
+<style>
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" type="image/png" href="note.png" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.9.5/jsmediatags.min.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-  <link rel="stylesheet" href="styles.css">
-  <title>Music Player</title>
-</head>
 
-<body>
 
-  <header>
-    <div class="nav">
-      <h1><i class="fas fa-headphones"></i> Music Player</h1>
-    </div>
-  </header>
+  
 
-  <section>
-    <div class="container">
-      <div class="inner-container">
-        <div id="media-tags">
-          <div class="song-data">
-            <h2 id="title">Title</h2>
-            <h3 id="artist">Artist</h3>
-            <p id="album">Album</p>
-          </div>
-          <div class="song-play">
-            <audio id="audio" controls>
-              <source src="https://drive.google.com/uc?export&amp;id=1B954Ywt96sCiRW_bxYEGDIVOnD338DsR" id="src" />
-            </audio>
-          </div>
-          <div class="song-file" id="songDropArea">
-            <label for="songUpload"><i class="fas fa-cloud-upload-alt"></i> Upload a Song</label>
-            <input type="file" id="songUpload" accept=".mp3, .wav">
-          </div>
-        </div>
-        <aside>
-          <div id="cover"></div>
-        </aside>
-      </div>
-    </div> 
-  </section>
+  
+    audio::-webkit-media-controls-panel {background-color: #00CED1; }
+  </style>
 
-  <script src="script.js"></script>
-</body>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+<center>
+    <h3>Rádio AD Belém</h3></center>
+	<center>
+        <img  src="https://1.bp.blogspot.com/-yyk5O87kvi8/YT5xdhhSIPI/AAAAAAAABEQ/TpxvKIRpaI0FU_8TPGdb43cBvJByURiUACLcBGAsYHQ/s200/adbelem.png" width="300px" />
+	</center>
+	<center>
+        <canvas id='canvas' width="300px"  heigth="250px" ></canvas>
+		</center><center>
+
+        <audio  id="audio" src="https://hts01.kshost.com.br:8950/live" crossorigin="anonymous"  controls  autoplay>audio element not supported</audio>
+</center>
+
+        <script src="main.js"></script>
+    </body>
 
 </html>
