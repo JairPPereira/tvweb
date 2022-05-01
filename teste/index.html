@@ -1,212 +1,53 @@
-<!doctype html>
-<html lang="pt-br">
+
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="theme-color" content="#7ac525" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="#7ac525" />
-  <meta name="msapplication-navbutton-color" content="#7ac525" />
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <title>Pluto Comédia Central</title>
-  <link href="./video-js.css" rel="stylesheet">
-  <link href="./videojs-mobile-ui.css" rel="stylesheet">
-  <link href="videojs-playlist-ui.css" rel="stylesheet">
-  <style>
-    body {
-      background-color: #7ac525;
-      width: auto;
-      height: auto;
-    }
-  </style>
-  <style>
-    .testEl {
-      width: 10%;
-      height: 10%;
-      position: absolute;
-      top: 0;
-      pointer-events: none;
-      display: none;
-    }
-  </style>
-
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="image/png" href="note.png" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.9.5/jsmediatags.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <title>Music Player</title>
 </head>
 
+<body>
 
-<body> 
-  <div class="player-container" width="100%">
+  <header>
+    <div class="nav">
+      <h1><i class="fas fa-headphones"></i> Music Player</h1>
+    </div>
+  </header>
 
-    <video-js id="videojs-mobile-ui-player" class="video-js vjs-default-skin vjs-fluid" controls playsinline
-      poster="https://1.bp.blogspot.com/-ulHepfItHmQ/YUfgrKGDENI/AAAAAAAABIA/aOgpT5PNUGAw2bWg_dMlx19GH1YkA4o6wCLcBGAsYHQ/s0/plutotv200.jpg">
+  <section>
+    <div class="container">
+      <div class="inner-container">
+        <div id="media-tags">
+          <div class="song-data">
+            <h2 id="title">Title</h2>
+            <h3 id="artist">Artist</h3>
+            <p id="album">Album</p>
+          </div>
+          <div class="song-play">
+            <audio id="audio" controls>
+              <source src="https://drive.google.com/uc?export&amp;id=1B954Ywt96sCiRW_bxYEGDIVOnD338DsR" id="src" />
+            </audio>
+          </div>
+          <div class="song-file" id="songDropArea">
+            <label for="songUpload"><i class="fas fa-cloud-upload-alt"></i> Upload a Song</label>
+            <input type="file" id="songUpload" accept=".mp3, .wav">
+          </div>
+        </div>
+        <aside>
+          <div id="cover"></div>
+        </aside>
+      </div>
+    </div> 
+  </section>
 
-
-      <source src="https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9c0804dc98a54146bab955f119f9a09e&deviceLat=-1.3440&deviceLon=-48.3851&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=19cec34c09e111ecbb4866b58672c325&userId=" type='application/x-mpegURL'>
-
-
-
-
-    </video-js>
-    <script src="metrics.js"></script>
-    <script src="main.js"></script>
-    <script src="hls.js"></script>
-    <script src="hls-demo.js"></script>
-    <script src="demo-utils.js"></script>
-    <script src="canvas.js"></script>
-    <m3u src="exemplo.m3u"></m3u>
-    <script src="video.js"></script>
-    <script src="videojs-mobile-ui.js"></script>
-    <script src="videojs-playlist.js"></script>
-    <script src="videojs-playlist-ui.js"></script>
-
-    <script>
-      var player = videojs('videojs-mobile-ui-player', {
-
-
-        fluid: true,
-        controls: true,
-        aspectRatio: '4:3',
-
-
-
-      },
-
-      );
-
-
-
-      player.playlist([
-
-      {
-        name: 'Pluto Comédia Central',
-
-        sources: [
-       
-        { src: 'https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9c0804dc98a54146bab955f119f9a09e&deviceLat=-1.3440&deviceLon=-48.3851&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=19cec34c09e111ecbb4866b58672c325&userId=', type: 'application/x-mpegURL' },         
-
-        ],
-
-        thumbnail: [
-          {
-            srcset: 'https://1.bp.blogspot.com/-ulHepfItHmQ/YUfgrKGDENI/AAAAAAAABIA/aOgpT5PNUGAw2bWg_dMlx19GH1YkA4o6wCLcBGAsYHQ/s0/plutotv200.jpg',
-            type: 'image/png',
-            media: '(min-width: 400px;)'
-          },
-          {
-            src: 'https://1.bp.blogspot.com/-ulHepfItHmQ/YUfgrKGDENI/AAAAAAAABIA/aOgpT5PNUGAw2bWg_dMlx19GH1YkA4o6wCLcBGAsYHQ/s0/plutotv200.jpg'
-          }
-        ],
-        poster: 'https://1.bp.blogspot.com/-ulHepfItHmQ/YUfgrKGDENI/AAAAAAAABIA/aOgpT5PNUGAw2bWg_dMlx19GH1YkA4o6wCLcBGAsYHQ/s0/plutotv200.jpg'
-      },
-
-
-
-
-
-      ]);
-
-
-
-
-
-
-
-      player.playlistUi({ horizontal: true },);
-      player.playlist.autoadvance(0);
-
-
-
-
-
-
-
-    </script>
-
-
-    <script>
-      (function (window, videojs) {
-        var options = {
-          fullscreen: {
-            enterOnRotate: true,
-            exitOnRotate: true,
-            lockOnRotate: true,
-            iOS: false,
-            disabled: false
-          },
-          touchControls: {
-            seekSeconds: 10,
-            tapTimeout: 300,
-            disableOnEnd: false,
-            disabled: false
-          }
-        };
-
-        var url = new URL(window.location);
-        if (url.searchParams.has('options')) {
-          options = JSON.parse(url.searchParams.get('options'));
-        }
-
-        console.log(JSON.stringify(options, null, 2));
-
-        Object.keys(options).forEach(function (section) {
-          Object.keys(options[section]).forEach(function (prop) {
-            const val = options[section][prop];
-
-            if (prop === 'disabled') {
-              prop = `${section}Disabled`;
-            }
-
-            if (typeof val === 'boolean') {
-              document.getElementById(prop).checked = val;
-            }
-            if (typeof val === 'number') {
-              document.getElementById(prop).value = val;
-            }
-          });
-        });
-
-        document.getElementById('options').querySelectorAll('input').forEach(function (opt) {
-          opt.addEventListener('change', function () {
-            if (this.type === 'checkbox') {
-              const param = this.id.endsWith('Disabled') ? 'disabled' : this.id;
-
-              options[this.getAttribute('data-section')][param] = this.checked;
-            } else {
-              options[this.getAttribute('data-section')][this.id] = parseFloat(this.value);
-            }
-            console.log(options);
-          });
-        });
-
-        document.getElementById('reload').addEventListener('click', function () {
-          url.searchParams.set('options', JSON.stringify(options));
-
-          window.location = url.href;
-        })
-
-        window.addEventListener('orientationchange', function () {
-          var el = document.createElement('li');
-          var message = (new Date).toTimeString().split(' ')[0] + ' ' + window.orientation;
-          message += (screen && screen.orientation ? ' ' + screen.orientation.type + ' ' + screen.orientation.angle : '');
-          el.textContent = message;
-          console.log(message);
-          document.getElementById('log').appendChild(el);
-        });
-
-        var testPlayer = window.testPlayer = videojs('videojs-mobile-ui-player');
-        testPlayer.endscreen = function () { };
-        testPlayer.mobileUi(options);
-      }(window, window.videojs));
-    </script>
-
-<script type="text/javascript" >
-
-  
-</script>   
-
-
+  <script src="script.js"></script>
 </body>
 
 </html>
