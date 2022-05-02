@@ -1,23 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>RocketCast</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="player">
-      <h4><i class="material-icons">equalizer</i> RocketCast</h4>
-      <div class="card">
-        <div class="card-image"></div>
-        <div class="card-content">
 
-          <audio controls></audio>
-        </div>
-      </div>
-    </div>
-    <script src="index.js"></script>
-  </body>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Rádio Clube AM</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="theme-color" content="#000" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="#000" />
+        <meta name="msapplication-navbutton-color" content="#7ac525" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <script src="https://cdn.plyr.io/3.6.12/plyr.js"></script>
+<link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css" /> 
+<script src="https://kit.fontawesome.com/7c33dff1d8.js" crossorigin="anonymous"></script>
+<style>
+
+
+
+  
+
+  
+    audio::-webkit-media-controls-panel {background-color: #00CED1; }
+  </style>
+
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body><div id="player"><center></center>
+<center>
+    <h3>Rádio Clube AM</h3></center>
+	<center>
+        <img  src="https://1.bp.blogspot.com/-0uKfHzS4A9c/YTzZb9cssjI/AAAAAAAABDw/d9vt-Y4wGTgOwwwhmu_qer1qaI1W8XmcwCLcBGAsYHQ/s200/radioclube.jpeg" width="300px" />
+	</center>
+	<center>
+        <canvas id='canvas' width="300px"  heigth="250px" ></canvas>
+		</center><center>
+                <audio  id="audio" src="https://stream.zeno.fm/n290bnzvsy8uv" crossorigin="anonymous"  controls  autoplay>audio element not supported</audio>
+
+        <script src="main.js"></script>
+        <script src="script1.js"></script>
+    </body>
+
 </html>
