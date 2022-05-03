@@ -12,6 +12,10 @@ body {
   align-items: center;
   justify-content: center;
 }
+#pele {
+  background-color: #00CED1;
+  width: 350px;
+}
 h3 {
   color: var(--primary);
   font-size: 20px;
