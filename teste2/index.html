@@ -37,92 +37,27 @@
 
 		<section class="tape">
 
-			<audio src="https://stm1.srvif.com:6672/;?1614959595633" crossorigin="anonymous" ></audio>
+			<audio  id="audio" src="https://stm1.srvif.com:6672/;?1614959595633" crossorigin="anonymous" ></audio>
+			<button onclick="tocar();">tocar</button><button onclick="pausar();">pausar</button>
 
-<!-- 			type="audio/mpeg" -->
-
-			<button data-playing="false" class="tape-controls-play" role="switch" aria-checked="false">
-				<span>Play/Pause</span>
-			</button>
-		</section>
 
 	</div><!-- boombox-body -->
 </div>
 
 <script type="text/javascript">
-	console.clear();
-
-// instigate our audio context
-
-// for cross browser
-const AudioContext = window.AudioContext || window.webkitAudioContext;
-let audioCtx;
-
-// load some sound
-const audioElement = document.querySelector('audio');
-let track;
-
-const playButton = document.querySelector('.tape-controls-play');
-
-// play pause audio
-playButton.addEventListener('click', function() {
-  if(!audioCtx) {
-		init();
-	}
-
-	// check if context is in suspended state (autoplay policy)
-	if (audioCtx.state === 'suspended') {
-		audioCtx.resume();
-	}
-
-	if (this.dataset.playing === 'false') {
-		audioElement.play();
-		this.dataset.playing = 'true';
-	// if track is playing pause it
-	} else if (this.dataset.playing === 'true') {
-		audioElement.pause();
-		this.dataset.playing = 'false';
-	}
-
-	let state = this.getAttribute('aria-checked') === "true" ? true : false;
-	this.setAttribute( 'aria-checked', state ? "false" : "true" );
-
-}, false);
-
-// if track ends
-audioElement.addEventListener('ended', () => {
-	playButton.dataset.playing = 'false';
-	playButton.setAttribute( "aria-checked", "false" );
-}, false);
-
-function init() {
-
-	audioCtx = new AudioContext();
-	track = audioCtx.createMediaElementSource(audioElement);
-
-	// volume
-	const gainNode = audioCtx.createGain();
-
-	const volumeControl = document.querySelector('[data-action="volume"]');
-	volumeControl.addEventListener('input', function() {
-		gainNode.gain.value = this.value;
-	}, false);
-
-	// panning
-	const pannerOptions = { pan: 0 };
-	const panner = new StereoPannerNode(audioCtx, pannerOptions);
-
-	const pannerControl = document.querySelector('[data-action="panner"]');
-	pannerControl.addEventListener('input', function() {
-		panner.pan.value = this.value;
-	}, false);
-
-	// connect our graph
-	track.connect(gainNode).connect(panner).connect(audioCtx.destination);
-}
 
 // Track credit: Outfoxing the Fox by Kevin MacLeod under Creative Commons
+var audio = document.getElementById("audio");
+function tocar()
+{
+    audio.play();
 
+}
+function pausar()
+{
+    audio.pause();
+
+}
 </script>
 
 </body>

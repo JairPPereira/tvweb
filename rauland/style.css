@@ -27,6 +27,7 @@ h3 {
 #next-track {
   background-color: var(--primary);
 }
+
 a{
     color:yellow;
 }
@@ -38,7 +39,7 @@ a{
     0px 3px 1px -2px rgba(0, 0, 0, 0.12), 0px 1px 5px 0px rgba(0, 0, 0, 0.2); 
 }
 #player-controls {
-  margin-bottom: 0px;
+  margin-bottom: 0;
   margin-top: 10px;
 }
 

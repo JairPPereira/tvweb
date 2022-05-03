@@ -15,9 +15,25 @@
         <script src="https://cdn.plyr.io/3.6.12/plyr.js"></script>
 <link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css" /> 
 <style>
+button{ /*-aplica por padrão a margin em todas tags input-*/
+   border:none;
+   background:#fafafa;
+   color:000;
+   margin:0 1em 0 0;
+   height: 30px;
+}
+button:nth-child(2){ /*-irá mudar o bg e color do segundo input-*/
+   background: #000;
+   color: #fff;
 
+}
+button:nth-last-child(1){ /*-irá retirar a margin da última tag input-*/
+   margin: 0 30px;
+}
 
-
+.bot {
+    background-color: #00CED1; 
+}
   
 
   
@@ -27,17 +43,33 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body><div id="player"><center></center>
-<center>
-    <h3>Rádio Rauland FM</h3></center>
+
 	<center>
-        <img  src="https://1.bp.blogspot.com/-TGdVG07kU6s/YUFq5Toxe9I/AAAAAAAABFY/-X_xXV09DkcTfBPs2C7Oi7x7mIDuG5BAwCLcBGAsYHQ/s0/rauland.jpg" width="300px" />
+        <img  src="https://1.bp.blogspot.com/-TGdVG07kU6s/YUFq5Toxe9I/AAAAAAAABFY/-X_xXV09DkcTfBPs2C7Oi7x7mIDuG5BAwCLcBGAsYHQ/s0/rauland.jpg" width="400px" />
 	</center>
 	<center>
-        <canvas id='canvas' width="300px"  heigth="250px" ></canvas>
+        <canvas id='canvas' width="400px"  heigth="400px" ></canvas>
 		</center><center>
 
-        <audio  id="audio" src="https://stm1.srvif.com:6672/;?1614959595633" crossorigin="anonymous"  controls  autoplay>audio element not supported</audio>
+        <audio  id="audio" src="https://stm1.srvif.com:6672/;?1614959595633" crossorigin="anonymous"    autoplay>audio element not supported</audio>
+        <div id="bot">
+        <button onclick="tocar();">tocar</button><button onclick="pausar();">pausar</button></div>
 </center></div></div>
+<script type="text/javascript">
+
+    // Track credit: Outfoxing the Fox by Kevin MacLeod under Creative Commons
+    var audio = document.getElementById("audio");
+    function tocar()
+    {
+        audio.play();
+    
+    }
+    function pausar()
+    {
+        audio.pause();
+    
+    }
+    </script>
 
         <script src="main.js"></script>
     </body>
