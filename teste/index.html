@@ -36,7 +36,16 @@
         <img  src="https://1.bp.blogspot.com/-yyk5O87kvi8/YT5xdhhSIPI/AAAAAAAABEQ/TpxvKIRpaI0FU_8TPGdb43cBvJByURiUACLcBGAsYHQ/s200/adbelem.png" width="300px" />
 	</center><center>
     <canvas id='canvas' width="300px"  heigth="250px" ></canvas>
-    
+    <section class="tape">
+
+        <audio src="https://stm1.srvif.com:6672/;?1614959595633" crossorigin="anonymous" ></audio>
+
+<!-- 			type="audio/mpeg" -->
+
+        <button data-playing="false" class="tape-controls-play" role="switch" aria-checked="false">
+            <span>Play/Pause</span>
+        </button>
+    </section>
     </center><center>
         <audio  id="audio" src="./music/CoisinhaEstupida.mp3" crossorigin="anonymous"  controls  autoplay  preload="auto">audio element not supported</audio>
 </center><center>
@@ -52,6 +61,35 @@
 
 
         <script type="text/javascript">
+          console.clear();
+          playButton.addEventListener('click', function() {
+  if(!audioCtx) {
+		init();
+	}
+
+	// check if context is in suspended state (autoplay policy)
+	if (audioCtx.state === 'suspended') {
+		audioCtx.resume();
+	}
+
+	if (this.dataset.playing === 'false') {
+		audioElement.play();
+		this.dataset.playing = 'true';
+	// if track is playing pause it
+	} else if (this.dataset.playing === 'true') {
+		audioElement.pause();
+		this.dataset.playing = 'false';
+	}
+    let state = this.getAttribute('aria-checked') === "true" ? true : false;
+	this.setAttribute( 'aria-checked', state ? "false" : "true" );
+
+}, false);
+
+// if track ends
+audioElement.addEventListener('ended', () => {
+	playButton.dataset.playing = 'false';
+	playButton.setAttribute( "aria-checked", "false" );
+}, false);
 
           function audio(){
                       var currentSong = 0;
