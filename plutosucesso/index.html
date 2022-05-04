@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#000" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="#000" />
+    <meta name="msapplication-navbutton-color" content="#7ac525" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Pluto Sucessos</title>
+    <script src="https://cdn.plyr.io/3.6.12/plyr.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.14.5/hls.min.js.map"></script>
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css" /> 
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <script src="hls.js"></script><center>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+
+      <video height="380" id="video" controls></video>
+    </tr>
+  </table></center>
+  
+  <script>
+    var iOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform); 
+    console.log(iOS)
+    if (Hls.isSupported() && !iOS) {
+      var video = document.getElementById('video');
+    
+      var hls = new Hls();
+      hls.loadSource('https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9c0804dc98a54146bab955f119f9a09e&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=19cec34c09e111ecbb4866b58672c325&userId=');
+      hls.attachMedia(video);
+      hls.on(Hls.Events.MANIFEST_PARSED, function () {
+        video.play();
+      });
+    }
+    else {
+      document.location = 'https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9c0804dc98a54146bab955f119f9a09e&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=19cec34c09e111ecbb4866b58672c325&userId=';	
+    }
+    </script>
+
+</body>
+</html>
