@@ -1,26 +1,121 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>RocketCast</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="player">
-      <h4><i class="material-icons">equalizer</i> RocketCast</h4>
-      <div class="card">
-        <div class="card-image"></div>
-        <canvas id='canvas' width="300px"  heigth="220px" ></canvas>
-		</center>
-        <div class="card-content">
 
-          <p class="artist">Artist</p>
-          <audio id="audio" controls crossorigin="anonymous" ></audio>
-        </div>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Rádio Rauland FM</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="theme-color" content="#000" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="#000" />
+        <meta name="msapplication-navbutton-color" content="#7ac525" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <script src="https://cdn.plyr.io/3.6.12/plyr.js"></script>
+<link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css" /> 
+<style>
+
+
+
+  
+
+  
+    audio::-webkit-media-controls-panel {background-color:#00CED1; }
+  </style>
+
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body><div id="pele">
+        <div id="player"><center></center>
+<center>
+    <h3>Rádio Rauland FM</h3></center>
+	<center>
+        <img  src="https://1.bp.blogspot.com/-TGdVG07kU6s/YUFq5Toxe9I/AAAAAAAABFY/-X_xXV09DkcTfBPs2C7Oi7x7mIDuG5BAwCLcBGAsYHQ/s0/rauland.jpg" width="300px" />
+	</center>
+	<center>
+        <canvas id='canvas' width="300px"  heigth="250px" ></canvas>
+		</center><center></div>
+
+
+<center>
+<div class="equalizer">
+  <div class="section">
+    <div class="title">HF</div>
+    <div class="sliders">
+      <div class="range-slider">
+        <span class="scope">22</span>
+        <input type="range" class="vertical" min="4700" max="22000" step="100" value="4700" data-filter="highShelf" data-param="frequency">
+        <span class="scope scope-min">4.7</span>
+        <span class="param">kHz</span>  
+      </div>
+      <div class="range-slider">
+        <span class="scope">50</span>
+        <input type="range" class="vertical" min="-50" max="50" value="50" data-filter="highShelf" data-param="gain">
+        <span class="scope scope-min">-50</span>
+        <span class="param">dB</span>  
       </div>
     </div>
-    <script src="index.js"></script>
-  </body>
+  </div>
+    
+  <div class="section">
+    <div class="title">LF</div>
+    <div class="sliders">
+      <div class="range-slider">
+        <span class="scope">220</span>
+        <input type="range" class="vertical" min="35" max="220" step="1" value="35" data-filter="lowShelf" data-param="frequency">
+        <span class="scope scope-min">35</span>
+        <span class="param">Hz</span>  
+      </div>
+      <div class="range-slider">
+        <span class="scope">50</span>
+        <input type="range" class="vertical" min="-50" max="50" value="50" data-filter="lowShelf" data-param="gain">
+        <span class="scope scope-min">-50</span>
+        <span class="param">dB</span>  
+      </div>
+    </div>
+  </div>
+      
+  <div class="section">
+    <div class="title">HMF</div>
+    <div class="sliders">
+      <div class="range-slider">
+        <span class="scope">5.9</span>
+        <input type="range" class="vertical" min="800" max="5900" step="100" value="800" data-filter="highPass" data-param="frequency">
+        <span class="scope scope-min">0.8</span>
+        <span class="param">kHz</span>  
+      </div>
+      <div class="range-slider">
+        <span class="scope">12</span>
+        <input type="range" class="vertical" min="0.7" max="12" step="0.1" value="0.7" data-filter="highPass" data-param="Q">
+        <span class="scope scope-min">0.7</span>
+        <span class="param">Q</span>  
+      </div>
+    </div>
+  </div>  
+    
+  <div class="section">
+    <div class="title">LMF</div>
+    <div class="sliders">
+      <div class="range-slider">
+        <span class="scope">1600</span>
+        <input type="range" class="vertical" min="80" max="1600" step="10" value="880" data-filter="lowPass" data-param="frequency">
+        <span class="scope scope-min">80</span>
+        <span class="param">Hz</span>  
+      </div>
+      <div class="range-slider">
+        <span class="scope">12</span>
+        <input type="range" class="vertical" min="0.7" max="12" step="0.1" value="0.7" data-filter="lowPass" data-param="Q">
+        <span class="scope scope-min">0.7</span>
+        <span class="param">Q</span>  
+      </div>
+    </div>
+
+
+</center> <center>    <audio  id="audio" src="https://stm1.srvif.com:6672/;?1614959595633" crossorigin="anonymous"  controls  autoplay>audio element not supported</audio>
+</center></div></div>
+
+        <script src="main.js"></script>
+    </body>
+
 </html>
