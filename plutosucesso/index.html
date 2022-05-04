@@ -33,6 +33,7 @@
     console.log(iOS)
     if (Hls.isSupported() && !iOS) {
       var video = document.getElementById('video');
+      crossorigin="anonymous"
     
       var hls = new Hls();
       hls.loadSource('https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9c0804dc98a54146bab955f119f9a09e&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=19cec34c09e111ecbb4866b58672c325&userId=');
