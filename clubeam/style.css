@@ -11,6 +11,7 @@ body {
   width: 310px;
   max-width: 315px;
   position: center;
+  border-radius: 0.5rem;
 }
 #canvas {
   background: #000;
