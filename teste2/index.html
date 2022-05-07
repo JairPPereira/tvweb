@@ -21,11 +21,16 @@
           shakaConfiguration: {
             preferredAudioLanguage: 'pt-BR',
             streaming: {
-              rebufferingGoal: 15
+              rebufferingGoal: 15,
+              debug: true,
+  enableWorker: true,
+  lowLatencyMode: true,
+  backBufferLength: 90
             }
           },
           shakaOnBeforeLoad: function(shaka_player) {
-            // shaka_player.getNetworkingEngine().registerRequestFilter() ...
+
+ // shaka_player.getNetworkingEngine().registerRequestFilter() ...
           },
           parentId: '#player'
 
