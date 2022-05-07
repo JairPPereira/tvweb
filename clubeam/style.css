@@ -22,7 +22,6 @@ a{
 .bar-wrapper {
   height: 300px;
   position: relative;
-  justify-content: center;
 }
 .bar {
   position: relative;
