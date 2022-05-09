@@ -17,11 +17,15 @@
       
 
     </div></center>
+<script>
+var supportsMp3= false;
+var myAudio = document.createElement('audio');
 
+</script>
     <script>
       var player = new Clappr.Player(
         {
-          source: 'http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D',
+          source: 'https://live.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8',
           plugins: [DashShakaPlayback],
           shakaConfiguration: {
             preferredAudioLanguage: 'pt-BR',

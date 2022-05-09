@@ -1,36 +1,29 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-    <meta charset=utf-8 />
-    <title>RTSP STREAMING TEST</title>
-    <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
-    <script src="https://unpkg.com/videojs-flash/dist/videojs-flash.js"></script>
-    <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
-
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
-
 <body>
-    
-
-    <video id='hls-example' class="video-js vjs-default-skin" width="400" height="300" crossorigin="anonymous" controls >
-        <source type="application/x-mpegURL" src="https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/bandnews_aee544ce_58053c36b56f509cb3ddd98ee42250b4f244a231/playlist.m3u8?jsf=">
-
-        <!--
-<source type="application/x-mpegURL" src="http://ip-address/path/to/ouput/file-name.m3u8">
--->
-
+    <video id="video" controls src="https://live.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8" type='application/x-mpegURL'>
+        No support for HTML5 audio!
     </video>
-
-    <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
-    <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
-
-    <script>
-        var player = videojs('hls-example');
-        player.play();
-    </script>
-
+        
+        <div id="playButton" onclick="play()">PLAY</div>
+        <script type="text/javascript">
+            var video = document.getElementById("video");
+        
+            // Binding event
+            video.oncanplay = function() {
+                alert("Can start playing video");
+            };
+        
+            // Playing the audio
+            function play() {
+                video.play();
+            }
+        </script>
 </body>
-
 </html>
