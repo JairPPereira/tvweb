@@ -2,8 +2,8 @@
   <head>
     <script src="https://cdn.jsdelivr.net/gh/clappr/clappr@latest/dist/clappr.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/clappr/dash-shaka-playback@latest/dist/dash-shaka-playback.js"></script>
-    <script src="hls.js"></script>
     <script src="p2p-media-loader-hlsjs.min.js"></script>
+    <script src="hls.js"></script>
 
 
 
@@ -18,7 +18,7 @@
     <script>
       var player = new Clappr.Player(
         {
-          source: 'https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/globonews_dc685e2c_e78856ce6efd59f4f2d8272861574aff51e4e6c6/playlist.m3u8?jsf=',
+          source: 'https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false',
           plugins: [DashShakaPlayback],
           shakaConfiguration: {
             preferredAudioLanguage: 'pt-BR',
