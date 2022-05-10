@@ -13,15 +13,10 @@
   </head>
 
   <body>
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-      <td>
-        <center>
-          <video height="380" id="video" controls></video>
-        </center>
-      </td>
-      </tr>
-    </table>
+
+    <div class="post-body"><iframe width="560" height="315" src="https://player.aovivotv.xyz/channels/cinemax/external#0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><div class="post-content un-no-sidebar-layout" style="max-width: 804px; margin: auto;"><div class="row-container">
+      <div class="row row-parent style-dark double-top-padding double-bottom-padding">
+
 
     <script>
 
@@ -31,14 +26,14 @@ if (Hls.isSupported() && !iOS) {
 	var video = document.getElementById('video');
 
 	var hls = new Hls();
-	hls.loadSource('http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=true&marketingRegion=BR&serverSideAds=true');
+	hls.loadSource('ttps://player.aovivotv.xyz/channels/cinemax/');
 	hls.attachMedia(video);
 	hls.on(Hls.Events.MANIFEST_PARSED, function () {
 		video.play();
 	});
 }
 else {
-	document.location = 'http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=true&marketingRegion=BR&serverSideAds=true';	
+	document.location = 'ttps://player.aovivotv.xyz/channels/cinemax/';	
 }
 </script>
 <script type="text/javascript">
@@ -67,11 +62,6 @@ else {
   ga('send', 'pageview');
 
 </script>
-
-<map name="Map">
-  <area shape="rect" coords="245,37,325,51" href="index.html">
-  <area shape="rect" coords="395,38,566,51" href="index2.html">
-  </map>
-
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'708e8defbcf3c18e',m:'Pmlk3w6Bdy4VoOatxSPdFUfTMSHM0eH4n26DbEHBW6Y-1652142502-0-AYDkq6FqjCAWZT8f7WoQbs9FRvDoGwvc+MbyOV0d1nopaZjZ2kYTJ4BuXBIIfHgsoYBaydll20GNlf70qolUvEIUXdf4qr7JYij4VxJ15w1rrjFkWH8SNQNPPVs/aa8HIlIS9OSGCDhFnG9fx6c9+Vkk5X5Ar+RUYeYAoXDqXy8Q41POOGBJwFLRVqd8j5nnCg==',s:[0x8c4d045607,0xba91cfb334],u:'https:/cdn-cgi/challenge-platform/h/b'}})();</script>
   </body>
 </html>
