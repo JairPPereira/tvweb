@@ -5,25 +5,44 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link href="style.css" rel="stylesheet">
 </head>
 <body>
-    <video id="video" controls src="https://live.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8" type='application/x-mpegURL'>
-        No support for HTML5 audio!
-    </video>
+    <div id="lateral">
+        <div id="menu">
+                      
+        <h3 class="link-titulo">Destaques</h3>
+          <ul class="box">					
+            <li><a href="#">FAQ - CSS</a></li>
+            <li><a href="#">QUIZ - CSS</a></li>
+            <li ><a href="#">Editor CSS do DWMX 2004</a></li>
+            <li ><a href="#">Aprenda CSS desde o início</a></li>
+          </ul>
         
-        <div id="playButton" onclick="play()">PLAY</div>
-        <script type="text/javascript">
-            var video = document.getElementById("video");
+        <h3 class="link-titulo">Fundamentos CSS</h3>
+          <ul class="box">
+            <li><a href="#">Introdução às CSS</a></li>
+            <li><a href="#">Sintaxe CSS</a></li>
+              <!-- mais links -->
+          </ul>
         
-            // Binding event
-            video.oncanplay = function() {
-                alert("Can start playing video");
-            };
+        <h3 class="link-titulo">CSS em ação</h3>
+          <ul class="box">					
+            <li><a href="#">Font interativo</a></li> 			
+            <li><a href="#">Text interativo</a></li> 			
+            <!-- mais links -->
+          </ul>
         
-            // Playing the audio
-            function play() {
-                video.play();
-            }
-        </script>
-</body>
+        <h3 class="link-titulo">Efeitos CSS gerais</h3>
+          <ul class="box">
+            <li><a href="#">Sombras em textos 1 (desatualizado)</a></li>
+            <li><a href="#">Sombras em textos 2 (desatualizado)</a></li>
+            <!-- mais links -->
+          </ul>
+            
+        <!-- mais seções -->
+        
+        </div> <!-- /#menu -->
+        </div id="link"> <!-- vazio --> <div>
+        </div> <!-- /#lateral -->
 </html>
