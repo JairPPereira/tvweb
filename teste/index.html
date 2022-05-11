@@ -1,55 +1,197 @@
 <!DOCTYPE html>
-<html class="no-js">
-  <head>
-    <meta charset="utf-8">
-    <title>FAImaison - CloudFrancois</title>
-    <meta name="description" content="">
-    <style>
-      /* Responsive video */
-      video { 
-        max-width: 100%;
-        height: auto;
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>laradio</title>
+  <style type="text/css">
+    body {
+      max-width: 60em;
+      margin: 0 auto;
+      padding: 2em;
+      background-color: #333;
+      color: #ddd;
+      font-size: 1em;
+      line-height: 1.4;
+    }
+    h1,
+    h2,
+    h3 {
+      font-family: monospace;
+      font-weight: normal;
+      color: #999;
+    }
+    h1 {
+      font-size: 2em;
+    }
+    h2 {
+      font-size: 1.6em;
+    }
+    h3 {
+      font-size: 1.4em;
+    }
+
+    a  {
+      color: #888;
+      text-decoration: none;
+    }
+    a:focus,
+    a:hover {color: #999;text-decoration: underline;}
+
+    audio {
+      display: block;
+      background-color: #333;
+      height: 1.4em;
+    }
+
+    audio + a {
+      display: block;
+      font-size: smaller;
+    }
+
+    .radio {}
+    .radio::after {
+      content:"";
+      display: block;
+      border-top: 1px solid #999;
+      width: 2em;
+      height: 1px;
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+
+    .stations {
+      padding-left: 1em;
+    }
+    .stations li {
+      margin-bottom: 1em;
+      list-style: square;
+    }
+    .stations li span {
+      min-width: 8em;
+    }
+
+    @media screen and (min-width: 60em) {
+      .column {
+        width: 49%;
+        display: inline-block;
+        vertical-align: top;
       }
+    }
 
-      /* faimaison style */
-      body {
-        background: #37455b;
-        color: #cedbf0;
-      }
-      h1, a {
-        color: #b4d931;
-      }
-      video {
-        border: 1px solid #485a74;
-      }
-    </style>
-  </head>
-  <body>
+    footer {
+      margin-top: 2em;
+      color: #999;
+      font-size: 0.8em;
+    }
+  </style>
+</head>
 
-    <h1>FAImaison</h1>
-    <audio id="audio"controls loop autoplay width="640" data-playlist="http://stream.zeno.fm/3ggkqnsn3ehvv"></audio>
+<body>
+<div class="page">
 
-    <p>
-    <button id="audio-next-source">Next source</button>
-    <button id="audio-randomize-source">Random source</button>
-    </p>
+  <section class="radio">
+    <h2>France Inter</h2>
+    <audio src="http://direct.franceinter.fr/live/franceinter-midfi.mp3" controls></audio>
+    <a href="http://direct.franceinter.fr/live/franceinter-midfi.mp3">direct.franceinter.fr/live/franceinter-midfi.mp3</a>
+  </section>
 
-    <p>
-    <strong>Playlist&nbsp;:</strong> <a href="http://stream.zeno.fm/3ggkqnsn3ehvv">http://stream.zeno.fm/3ggkqnsn3ehvv.m3u</a></li>
-    </p>
+  <section class="radio">
+    <h2>France Info</h2>
+    <audio src="http://direct.franceinfo.fr/live/franceinfo-midfi.mp3" controls></audio>
+    <a href="http://direct.franceinfo.fr/live/franceinfo-midfi.mp3">direct.franceinfo.fr/live/franceinfo-midfi.mp3</a>
+  </section>
 
-    <script src="m3uStreamPlayer.js"></script>
-    <script>m3uStreamPlayer.init({selector: '#audio', debug: true});</script>
-    <script>
+  <section class="radio">
+    <h2>France Culture</h2>
+    <audio src="http://direct.franceculture.fr/ts/franceculture-midfi.mp3" controls></audio>
+    <a href="http://direct.franceculture.fr/ts/franceculture-midfi.mp3">direct.franceculture.fr/ts/franceculture-midfi.mp3</a>
+  </section>
 
-      /**
-       * Buttons
-       */
-      var buttonNextSource = document.querySelector('#audio-next-source');
-      var buttonRandomizeSource = document.querySelector('#audio-randomize-source');
-      buttonNextSource.addEventListener('click', function(){ m3uStreamPlayer.nextSource(document.querySelector('#audio')); })
-      buttonRandomizeSource.addEventListener('click', function(){ v.randomizeSource(document.querySelector('#audio')); })
+  <section class="radio">
+    <h2>FIP</h2>
+    <audio src="http://direct.fipradio.fr/live/fip-midfi.mp3" controls></audio>
+    <a href="http://direct.fipradio.fr/live/fip-midfi.mp3">direct.fipradio.fr/live/fip-midfi.mp3</a>
+    <div class="columns">
+    <div class="column">
+      <h3>Par ville</h3>
+      <ul class="stations">
+        <li>
+          <span>Bordeaux</span><audio src="http://direct.fipradio.fr/live/fipbordeaux-midfi.mp3" controls></audio>
+          <a href="http://direct.fipradio.fr/live/fipbordeaux-midfi.mp3">direct.fipradio.fr/live/fipbordeaux-midfi.mp3</a>
+        </li>
+        <li>
+          <span>Nantes</span><audio src="http://direct.fipradio.fr/live/fipnantes-midfi.mp3" controls></audio>
+          <a hrez="http://direct.fipradio.fr/live/fipnantes-midfi.mp3">direct.fipradio.fr/live/fipnantes-midfi.mp3</a>
+        </li>
+        <li>
+          <span>Strasbourg</span><audio src="http://direct.fipradio.fr/live/fipstrasbourg-midfi.mp3" controls></audio>
+          <a href="http://direct.fipradio.fr/live/fipstrasbourg-midfi.mp3">direct.fipradio.fr/live/fipstrasbourg-midfi.mp3</a>
+        </li>
+      </ul>
+    </div>
+    <div class="column">
+      <h3>Par style</h3>
+      <ul class="stations">
+        <li>
+          <span>Reggae</span><audio src="https://icecast.radiofrance.fr/fipreggae-midfi.mp3" controls></audio>
+          <a href="https://icecast.radiofrance.fr/fipreggae-midfi.mp3">icecast.radiofrance.fr/fipreggae-midfi.mp3</a>
+        </li>
+        <li>
+          <span>Electro</span><audio src="https://icecast.radiofrance.fr/fipelectro-midfi.mp3" controls></audio>
+          <a href="https://icecast.radiofrance.fr/fipelectro-midfi.mp3">icecast.radiofrance.fr/fipelectro-midfi.mp3</a>
+        </li>
+        <li>
+          <span>Groove</span><audio src="https://icecast.radiofrance.fr/fipgroove-midfi.mp3" controls></audio>
+          <a href="https://icecast.radiofrance.fr/fipgroove-midfi.mp3">icecast.radiofrance.fr/fipgroove-midfi.mp3</a>
+        </li>
+        <li>
+          <span>Rock</span><audio src="http://direct.fipradio.fr/live/fip-webradio1.mp3" controls></audio>
+          <a href="http://direct.fipradio.fr/live/fip-webradio1.mp3">direct.fipradio.fr/live/fip-webradio1.mp3</a>
+        </li>
+        <li>
+          <span>Jazz</span><audio src="http://direct.fipradio.fr/live/fip-webradio2.mp3" controls></audio>
+          <a href="http://direct.fipradio.fr/live/fip-webradio2.mp3">direct.fipradio.fr/live/fip-webradio2.mp3</a>
+        </li>
+        <li>
+          <span>Monde</span><audio src="http://direct.fipradio.fr/live/fip-webradio4.mp3" controls></audio>
+          <a href="http://direct.fipradio.fr/live/fip-webradio4.mp3">direct.fipradio.fr/live/fip-webradio4.mp3</a>
+        </li>
+        <li>
+          <span>Nouveautés</span><audio src="http://direct.fipradio.fr/live/fip-webradio5.mp3" controls></audio>
+          <a href="http://direct.fipradio.fr/live/fip-webradio5.mp3">direct.fipradio.fr/live/fip-webradio5.mp3</a>
+        </li>
+      </ul>
+    </div>
+    </div>
+  </section>
 
-    </script>
-  </body>
+  <section class="radio">
+    <h2>Prun'</h2>
+    <audio src="http://streaming.prun.net/streamprun" controls></audio>
+    <a href="http://streaming.prun.net/streamprun">streaming.prun.net/streamprun</a>
+  </section>
+
+  <section class="radio">
+    <h2>Klaxon</h2>
+    <audio src="http://radioklaxon.antirep.net/RadioKlaxon" controls></audio>
+    <a href="http://radioklaxon.antirep.net/RadioKlaxon">radioklaxon.antirep.net/RadioKlaxon</a>
+  </section>
+  
+  <section class="radio">
+    <h2>Radio Sympa</h2>
+    <audio src="http://195.154.185.139/radio/25756/stream/58480" controls></audio>
+    <a href="https://laradiosympa.blogspot.fr/">laradiosympa.blogspot.fr</a> - <a href="http://195.154.185.139/radio/25756/stream/58480">195.154.185.139/radio/25756/stream/58480</a>
+  </section>
+  
+  <section class="radio">
+    <h2>Steweo (Mowno)</h2>
+    <audio src="https://listen.radioking.com/radio/26746/stream/59470" controls></audio>
+    <a href=https://www.mowno.com/steweo/">mowno.com/steweo/</a> - <a href="https://listen.radioking.com/radio/26746/stream/59470">listen.radioking.com/radio/26746/stream/59470</a>
+  </section>
+
+  <footer>
+    écoutons la radio plus simplement. <a href="https://github.com/opi/radio">voir la source</a>.
+  </footer>
+</div>
+</body>
 </html>
