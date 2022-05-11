@@ -1,78 +1,55 @@
-<! DOCTYPE html>
-<html>
-<head>
-<title>PLS Processor</title>
-<!-- needed for IE9 to ensure it treats page as HTML5 properly -->
-<meta http-equiv="X-UA-Compatible" content="IE=9" >
-</head>
-<body>
-<p>Audio PLS processor<p>
-<audio id="audio" controls="controls"></audio >
-<p id="title">item title</p>
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <title>FAImaison - CloudFrancois</title>
+    <meta name="description" content="">
+    <style>
+      /* Responsive video */
+      video { 
+        max-width: 100%;
+        height: auto;
+      }
 
-<script>
-// Make XHR request for the pls file
-if (window.XMLHttpRequest) {
-    // code for IE7 +, Firefox, Chrome, Opera, Safari
-    xhr = new XMLHttpRequest();
-} else {
-    // code for IE6, IE5
-    xhr = new ActiveXObject("http://node-18.zeno.fm:80/3ggkqnsn3ehvv");
-}
-xhr.open("GET", "http://node-18.zeno.fm:80/3ggkqnsn3ehvv", false);
-xhr.send();
-xhrDoc = xhr.responseText;
+      /* faimaison style */
+      body {
+        background: #37455b;
+        color: #cedbf0;
+      }
+      h1, a {
+        color: #b4d931;
+      }
+      video {
+        border: 1px solid #485a74;
+      }
+    </style>
+  </head>
+  <body>
 
-var pls = {};
+    <h1>FAImaison</h1>
+    <audio id="audio"controls loop autoplay width="640" data-playlist="http://stream.zeno.fm/3ggkqnsn3ehvv"></audio>
 
-// split into lines
-pls.Entries = xhrDoc.split("\n");
-// Entry 0 is [playlist]
-// Entry 1 is NumberOfEntries=n
-pls.Count = pls.Entries[1].split("http://node-18.zeno.fm:80/3ggkqnsn3ehvv")[1];
-// Entry 2,3,4 = File#=,Title#=,Length#=
-// repeat from 1 to NumberOfEntries
+    <p>
+    <button id="audio-next-source">Next source</button>
+    <button id="audio-randomize-source">Random source</button>
+    </p>
 
-pls.Items = [];
-pls.curItem = 0;
-pls.listOk = true;
-for (var i = 0; i < pls.Count; i ++ ) {
-    pls.Items.push( {
-        file: pls.Entries[i + 2].split("=")[1],
-        title: pls.Entries[i + 3].split("=")[1],
-        length: pls.Entries[i + 4].split("=")[1]
-        });
-}
-// get the audio element
-pls.audio = document.getElementById("audio");
+    <p>
+    <strong>Playlist&nbsp;:</strong> <a href="http://stream.zeno.fm/3ggkqnsn3ehvv">http://stream.zeno.fm/3ggkqnsn3ehvv.m3u</a></li>
+    </p>
 
-// hook onEnded and onError events to jump to next PLS item
-pls.audio.addEventListener("error", audioEvent, false);
-pls.audio.addEventListener("ended", audioEvent, false);
+    <script src="m3uStreamPlayer.js"></script>
+    <script>m3uStreamPlayer.init({selector: '#audio', debug: true});</script>
+    <script>
 
-// load audio tag with first source
-pls.listOk = loadPLS(pls.curItem ++ );
+      /**
+       * Buttons
+       */
+      var buttonNextSource = document.querySelector('#audio-next-source');
+      var buttonRandomizeSource = document.querySelector('#audio-randomize-source');
+      buttonNextSource.addEventListener('click', function(){ m3uStreamPlayer.nextSource(document.querySelector('#audio')); })
+      buttonRandomizeSource.addEventListener('click', function(){ v.randomizeSource(document.querySelector('#audio')); })
 
-function audioEvent(event) {
-    // if the listOk is still true (ie not at the end of the list)
-    // step to the next item either on ended or error
-    if (pls.listOk) {
-        pls.listOk = loadPLS(pls.curItem ++ );
-    } else {
-        // action to indicate end of stream    
-    }
-}
-function loadPLS(whichItem) {
-    if (whichItem >= pls.Count) {
-        return false;
-    } else {
-        pls.audio.autoplay = false;
-        pls.audio.src = pls.Items[whichItem].file;
-        var title = document.getElementById("title");
-        title.innerText = pls.Items[whichItem].title + "[" + pls.curItem + "/" + pls.Items[whichItem].file + "]";
-        return true;
-    }
-}
-</script>
-</body>
+    </script>
+  </body>
 </html>
