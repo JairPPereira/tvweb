@@ -1,197 +1,226 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <title>laradio</title>
-  <style type="text/css">
-    body {
-      max-width: 60em;
-      margin: 0 auto;
-      padding: 2em;
-      background-color: #333;
-      color: #ddd;
-      font-size: 1em;
-      line-height: 1.4;
-    }
-    h1,
-    h2,
-    h3 {
-      font-family: monospace;
-      font-weight: normal;
-      color: #999;
-    }
-    h1 {
-      font-size: 2em;
-    }
-    h2 {
-      font-size: 1.6em;
-    }
-    h3 {
-      font-size: 1.4em;
-    }
+   <meta http-equiv="Content-Type" content="text/html;
+   charset=ISO-8859-1">
+   <title>JPlayer Playlist - Web Magazine Devmedia<
+   /title>
+   <link href="css/jplayer.blue.monday.css" rel="stylesheet"
+   type="text/css">
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/
+   1.8.3/jquery.min.js"></script>
+   <script type="text/JavaScript" src="http://demo.chapmanit.
+   com/jplayerPlaylist/js/jquery.jplayer.min.js"></script>
+   <script type="text/JavaScript">
+   $(document).ready(function(){
+         // Variável responsável por guardar o item atual de execução
+         var playItem = 0;
 
-    a  {
-      color: #888;
-      text-decoration: none;
-    }
-    a:focus,
-    a:hover {color: #999;text-decoration: underline;}
+         var minhaPlayList = [
+            {name:"Daft Punk - Human After All", mp3:
+            "songs/human-after-all.mp3"},
+            {name:"Amy Winehouse - You Know I'm No Good", mp3:
+            "songs/you-know-im-no-good.mp3"},
+            {name:"Black Eyed Peas - Shut Up", mp3:"songs/shut-up.mp3"},
+            {name:"Nightwish - Ghost River", mp3:"songs/ghost-river.mp3"},
+            {name:"Daft Punk - Technologic", mp3:"songs/technologic.mp3"}
+         ];
 
-    audio {
-      display: block;
-      background-color: #333;
-      height: 1.4em;
-    }
+         var jpTempoExecucao = $("#jplayer_tempo_execucao");
+         // Guarda o tempo total de execução
+         var jpTempoTotal = $("#jplayer_tempo_total");
 
-    audio + a {
-      display: block;
-      font-size: smaller;
-    }
+         // Função de criação e configuração do player.
+         $("#jquery_jplayer").jPlayer({
+            ready: function() {
+               exibirPlayList();
+               playListInit(true); // Parâmetro é um para autoplay.
+            },
+            oggSupport: false
+         })
+          // Configurações gerais do player
+         .jPlayer("onProgressChange", function(loadPercent,
+         playedPercentRelative, playedPercentAbsolute, playedTime,
+         totalTime) {
+            jpTempoExecucao.text($.jPlayer.convertTime(playedTime));
+            jpTempoTotal.text($.jPlayer.convertTime(totalTime));
+         })
+         .jPlayer("onSoundComplete", function() {
+            playListProximo();
+         });
 
+         // Captura o evento de clique para o botão de anterior
+         $("#jplayer_anterior").click(function() {
+            playListAnterior();
+            $(this).blur();
+            return false;
+         });
 
-    .radio::after {
-      content:"";
-      display: block;
-      border-top: 1px solid #999;
-      width: 2em;
-      height: 1px;
-      margin-top: 1em;
-      margin-bottom: 1em;
-    }
+         // Captura o evento de clique para o botão de próximo
+         $("#jplayer_proximo").click(function() {
+            playListProximo();
+            $(this).blur();
+            return false;
+         });
 
-    .stations {
-      padding-left: 1em;
-    }
-    .stations li {
-      margin-bottom: 1em;
-      list-style: square;
-    }
-    .stations li span {
-      min-width: 8em;
-    }
+         // Método interno de montagem e exibição da playlist
+         function exibirPlayList() {
+            $("#jplayer_playlist ul").empty();
+            for (i=0; i < minhaPlayList.length; i++) {
+               var listItem = (i == minhaPlayList.length-1) ?
+               "<li class='jplayer_playlist_ultimo_item'>" :
+               "<li>";
+                 listItem<a href='#' id='jplayer_playlist_item_"
+                 +i+"' tabindex='1'>"+ minhaPlayList[i].name</a>
+                 (<a id='jplayer_playlist_get_mp3_"+i+"' href='"
+                 + minhaPlayList[i].mp3 + "' tabindex='1'
+                 >mp3</a>)</li>";
+               $("#jplayer_playlist ul").append(listItem);
+               $("#jplayer_playlist_item_"+i).data("index", i)
+               .click(function() {
+                  var index = $(this).data("index");
+                  if (playItem != index) {
+                        mudarPlayList(index);
+                  } else {
+                        $("#jquery_jplayer").jPlayer("play");
+                  }
+                  $(this).blur();
+                  return false;
+               });
+               $("#jplayer_playlist_get_mp3_"+i).data("index", i)
+               .click(function() {
+                  var index = $(this).data("index");
+                  $("#jplayer_playlist_item_"+index)
+                  .trigger("click");
+                  $(this).blur();
+                  return false;
+               });
+            }
+         }
 
-    @media screen and (min-width: 60em) {
-      .column {
-        width: 49%;
-        display: inline-block;
-        vertical-align: top;
-      }
-    }
+         // Inicializa a playlist
+         function playListInit(autoplay) {
+            if(autoplay) {
+               mudarPlayList(playItem);
+            } else {
+               playListConfig(playItem);
+            }
+         }
 
-    footer {
-      margin-top: 2em;
-      color: #999;
-      font-size: 0.8em;
-    }
-  </style>
+         // Configura a playlist (quando a mesma não está
+         por padrão como autoplay)
+        function playListConfig(index) {
+           $("#jplayer_playlist_item_"+playItem)
+           .removeClass("jplayer_playlist_current").parent()
+           .removeClass("jplayer_playlist_current");
+           $("#jplayer_playlist_item_"+index)
+           .addClass("jplayer_playlist_current").parent()
+           .addClass("jplayer_playlist_current");
+           playItem = index;
+           $("#jquery_jplayer").jPlayer("setFile",
+           minhaPlayList[playItem].mp3, minhaPlayList[playItem].ogg);
+        }
+
+        function mudarPlayList(index) {
+           playListConfig(index);
+           $("#jquery_jplayer").jPlayer("play");
+        }
+
+        // Executa a próxima faixa
+        function playListProximo() {
+           var index = (playItem+1 < minhaPlayList.length) ?
+           playItem + 1 : 0;
+           mudarPlayList(index);
+        }
+
+        // Executa a faixa anterior
+        function playListAnterior() {
+           var index = (playItem-1 >= 0) ? playItem-1 :
+           minhaPlayList.length-1;
+           mudarPlayList(index);
+        }
+  });
+  -->
+  </script>
 </head>
-
 <body>
-<div class="page">
 
-  <section class="radio">
-    <h2>France Inter</h2>
-    <audio src="http://direct.franceinter.fr/live/franceinter-midfi.mp3" controls></audio>
-    <a href="http://direct.franceinter.fr/live/franceinter-midfi.mp3">direct.franceinter.fr/live/franceinter-midfi.mp3</a>
-  </section>
+  <div id="jquery_jplayer" style="position: absolute;
+  top: 0px; left: -9999px;">
+        <audio id="jqjp_audio_0" preload="none"
+        src="songs/human-after-all.mp3"></audio>
 
-  <section class="radio">
-    <h2>France Info</h2>
-    <audio src="http://direct.franceinfo.fr/live/franceinfo-midfi.mp3" controls></audio>
-    <a href="http://direct.franceinfo.fr/live/franceinfo-midfi.mp3">direct.franceinfo.fr/live/franceinfo-midfi.mp3</a>
-  </section>
+        <div id="jqjp_force_0" style="text-indent:
+        -9999px;">0.3245763930026442</div>
+  </div>
 
-  <section class="radio">
-    <h2>France Culture</h2>
-    <audio src="http://direct.franceculture.fr/ts/franceculture-midfi.mp3" controls></audio>
-    <a href="http://direct.franceculture.fr/ts/franceculture-midfi.mp3">direct.franceculture.fr/ts/franceculture-midfi.mp3</a>
-  </section>
-
-  <section class="radio">
-    <h2>FIP</h2>
-    <audio src="http://direct.fipradio.fr/live/fip-midfi.mp3" controls></audio>
-    <a href="http://direct.fipradio.fr/live/fip-midfi.mp3">direct.fipradio.fr/live/fip-midfi.mp3</a>
-    <div class="columns">
-    <div class="column">
-      <h3>Par ville</h3>
-      <ul class="stations">
-        <li>
-          <span>Bordeaux</span><audio src="http://direct.fipradio.fr/live/fipbordeaux-midfi.mp3" controls></audio>
-          <a href="http://direct.fipradio.fr/live/fipbordeaux-midfi.mp3">direct.fipradio.fr/live/fipbordeaux-midfi.mp3</a>
-        </li>
-        <li>
-          <span>Nantes</span><audio src="http://direct.fipradio.fr/live/fipnantes-midfi.mp3" controls></audio>
-          <a hrez="http://direct.fipradio.fr/live/fipnantes-midfi.mp3">direct.fipradio.fr/live/fipnantes-midfi.mp3</a>
-        </li>
-        <li>
-          <span>Strasbourg</span><audio src="http://direct.fipradio.fr/live/fipstrasbourg-midfi.mp3" controls></audio>
-          <a href="http://direct.fipradio.fr/live/fipstrasbourg-midfi.mp3">direct.fipradio.fr/live/fipstrasbourg-midfi.mp3</a>
-        </li>
-      </ul>
+  <div class="jp-playlist-player">
+    <div class="jp-interface">
+       <ul class="jp-controls">
+          <li><a href="#" id="jplayer_play"
+          class="jp-play" tabindex="1" title="Executar"
+          >play</a></li>
+          <li><a href="#" id="jplayer_pause"
+          class="jp-pause" tabindex="1" style="display:
+          block;" title="Pausar">pause</a></li>
+          <li><a href="#" id="jplayer_stop"
+          class="jp-stop" tabindex="1" title="Parar"
+          >stop</a></li>
+          <li><a href="#" id="jplayer_volume_min"
+          class="jp-volume-min" tabindex="1" title="Mínimo"
+          >min volume</a></li>
+          <li><a href="#" id="jplayer_volume_max"
+          class="jp-volume-max" tabindex="1" title="Máximo"
+          >max volume</a></li>
+          <li><a href="#" id="jplayer_anterior"
+          class="jp-previous" tabindex="1" title="Anterior"
+          >previous</a></li>
+          <li><a href="#" id="jplayer_proximo"
+          class="jp-next" tabindex="1" title="Próximo"
+          >next</a></li>
+       </ul>
+     <div class="jp-progress">
+        <div id="jplayer_load_bar" class="jp-load-bar"
+        style="width: 0%;">
+           <div id="jplayer_play_bar" class="jp-play-bar"
+           style="width: 0%;"></div>
+        </div>
+     </div>
+     <div id="jplayer_volume_bar" class="jp-volume-bar">
+        <div id="jplayer_volume_bar_value" class="jp-volume-bar-value"
+        style="width: 80%;"></div>
+     </div>
+     <div id="jplayer_tempo_execucao" class="jp-play-time"
+     >00:00</div>
+     <div id="jplayer_tempo_total" class="jp-total-time"
+     >00:00</div>
     </div>
-    <div class="column">
-      <h3>Par style</h3>
-      <ul class="stations">
-        <li>
-          <span>Reggae</span><audio src="https://icecast.radiofrance.fr/fipreggae-midfi.mp3" controls></audio>
-          <a href="https://icecast.radiofrance.fr/fipreggae-midfi.mp3">icecast.radiofrance.fr/fipreggae-midfi.mp3</a>
-        </li>
-        <li>
-          <span>Electro</span><audio src="https://icecast.radiofrance.fr/fipelectro-midfi.mp3" controls></audio>
-          <a href="https://icecast.radiofrance.fr/fipelectro-midfi.mp3">icecast.radiofrance.fr/fipelectro-midfi.mp3</a>
-        </li>
-        <li>
-          <span>Groove</span><audio src="https://icecast.radiofrance.fr/fipgroove-midfi.mp3" controls></audio>
-          <a href="https://icecast.radiofrance.fr/fipgroove-midfi.mp3">icecast.radiofrance.fr/fipgroove-midfi.mp3</a>
-        </li>
-        <li>
-          <span>Rock</span><audio src="http://direct.fipradio.fr/live/fip-webradio1.mp3" controls></audio>
-          <a href="http://direct.fipradio.fr/live/fip-webradio1.mp3">direct.fipradio.fr/live/fip-webradio1.mp3</a>
-        </li>
-        <li>
-          <span>Jazz</span><audio src="http://direct.fipradio.fr/live/fip-webradio2.mp3" controls></audio>
-          <a href="http://direct.fipradio.fr/live/fip-webradio2.mp3">direct.fipradio.fr/live/fip-webradio2.mp3</a>
-        </li>
-        <li>
-          <span>Monde</span><audio src="http://direct.fipradio.fr/live/fip-webradio4.mp3" controls></audio>
-          <a href="http://direct.fipradio.fr/live/fip-webradio4.mp3">direct.fipradio.fr/live/fip-webradio4.mp3</a>
-        </li>
-        <li>
-          <span>Nouveautés</span><audio src="http://direct.fipradio.fr/live/fip-webradio5.mp3" controls></audio>
-          <a href="http://direct.fipradio.fr/live/fip-webradio5.mp3">direct.fipradio.fr/live/fip-webradio5.mp3</a>
-        </li>
-      </ul>
+    <div id="jplayer_playlist" class="jp-playlist">
+       <ul>
+          <li class="jplayer_playlist_current">
+             <a href="#" id="jplayer_playlist_item_0"
+             tabindex="1" class="jplayer_playlist_current">
+             Daft Punk - Human After All</a>
+          </li>
+          <li>
+             <a href="#" id="jplayer_playlist_item_1"
+             tabindex="1">Amy Winehouse - You Know I'm
+             No Good</a>
+          </li>
+          <li>
+             <a href="#" id="jplayer_playlist_item_2"
+             tabindex="1">Black Eyed Peas - Shut Up</a>
+          </li>
+          <li>
+             <a href="#" id="jplayer_playlist_item_3"
+             tabindex="1">Nightwish - Ghost River</a>
+          </li>
+          <li class="jplayer_playlist_ultimo_item">
+             <a href="#" id="jplayer_playlist_item_5"
+             tabindex="1">Daft Punk - Techonologic</a>
+          </li>
+       </ul>
     </div>
-    </div>
-  </section>
-
-  <section class="radio">
-    <h2>Prun'</h2>
-    <audio src="http://streaming.prun.net/streamprun" controls></audio>
-    <a href="http://streaming.prun.net/streamprun">streaming.prun.net/streamprun</a>
-  </section>
-
-  <section class="radio">
-    <h2>Klaxon</h2>
-    <audio src="http://radioklaxon.antirep.net/RadioKlaxon" controls></audio>
-    <a href="http://radioklaxon.antirep.net/RadioKlaxon">radioklaxon.antirep.net/RadioKlaxon</a>
-  </section>
-  
-  <section class="radio">
-    <h2>Radio Sympa</h2>
-    <audio src="http://195.154.185.139/radio/25756/stream/58480" controls></audio>
-    <a href="https://laradiosympa.blogspot.fr/">laradiosympa.blogspot.fr</a> - <a href="http://195.154.185.139/radio/25756/stream/58480">195.154.185.139/radio/25756/stream/58480</a>
-  </section>
-  
-  <section class="radio">
-    <h2>Steweo (Mowno)</h2>
-    <audio src="https://listen.radioking.com/radio/26746/stream/59470" controls></audio>
-    <a href=https://www.mowno.com/steweo/">mowno.com/steweo/</a> - <a href="https://listen.radioking.com/radio/26746/stream/59470">listen.radioking.com/radio/26746/stream/59470</a>
-  </section>
-
-  <footer>
-    écoutons la radio plus simplement. <a href="https://github.com/opi/radio">voir la source</a>.
-  </footer>
-</div>
+  </div>
 </body>
 </html>
