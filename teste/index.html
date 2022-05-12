@@ -1,226 +1,205 @@
 <!doctype html>
 <html lang="pt-br">
+
 <head>
-   <meta http-equiv="Content-Type" content="text/html;
-   charset=ISO-8859-1">
-   <title>JPlayer Playlist - Web Magazine Devmedia<
-   /title>
-   <link href="css/jplayer.blue.monday.css" rel="stylesheet"
-   type="text/css">
-   <script src="http://ajax.googleapis.com/ajax/libs/jquery/
-   1.8.3/jquery.min.js"></script>
-   <script type="text/JavaScript" src="http://demo.chapmanit.
-   com/jplayerPlaylist/js/jquery.jplayer.min.js"></script>
-   <script type="text/JavaScript">
-   $(document).ready(function(){
-         // Variável responsável por guardar o item atual de execução
-         var playItem = 0;
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#7ac525" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#7ac525" />
+  <meta name="msapplication-navbutton-color" content="#7ac525" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <title>RBA TV</title>
+  <link href="video-js.css" rel="stylesheet">
+  <link href="videojs-mobile-ui.css" rel="stylesheet">
+  <link href="videojs-playlist-ui.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #7ac525;
+      width: auto;
+      height: auto;
+    }
+  </style>
+  <style>
+    .testEl {
+      width: 10%;
+      height: 10%;
+      position: absolute;
+      top: 0;
+      pointer-events: none;
+      display: none;
+    }
+  </style>
 
-         var minhaPlayList = [
-            {name:"Daft Punk - Human After All", mp3:
-            "songs/human-after-all.mp3"},
-            {name:"Amy Winehouse - You Know I'm No Good", mp3:
-            "songs/you-know-im-no-good.mp3"},
-            {name:"Black Eyed Peas - Shut Up", mp3:"songs/shut-up.mp3"},
-            {name:"Nightwish - Ghost River", mp3:"songs/ghost-river.mp3"},
-            {name:"Daft Punk - Technologic", mp3:"songs/technologic.mp3"}
-         ];
-
-         var jpTempoExecucao = $("#jplayer_tempo_execucao");
-         // Guarda o tempo total de execução
-         var jpTempoTotal = $("#jplayer_tempo_total");
-
-         // Função de criação e configuração do player.
-         $("#jquery_jplayer").jPlayer({
-            ready: function() {
-               exibirPlayList();
-               playListInit(true); // Parâmetro é um para autoplay.
-            },
-            oggSupport: false
-         })
-          // Configurações gerais do player
-         .jPlayer("onProgressChange", function(loadPercent,
-         playedPercentRelative, playedPercentAbsolute, playedTime,
-         totalTime) {
-            jpTempoExecucao.text($.jPlayer.convertTime(playedTime));
-            jpTempoTotal.text($.jPlayer.convertTime(totalTime));
-         })
-         .jPlayer("onSoundComplete", function() {
-            playListProximo();
-         });
-
-         // Captura o evento de clique para o botão de anterior
-         $("#jplayer_anterior").click(function() {
-            playListAnterior();
-            $(this).blur();
-            return false;
-         });
-
-         // Captura o evento de clique para o botão de próximo
-         $("#jplayer_proximo").click(function() {
-            playListProximo();
-            $(this).blur();
-            return false;
-         });
-
-         // Método interno de montagem e exibição da playlist
-         function exibirPlayList() {
-            $("#jplayer_playlist ul").empty();
-            for (i=0; i < minhaPlayList.length; i++) {
-               var listItem = (i == minhaPlayList.length-1) ?
-               "<li class='jplayer_playlist_ultimo_item'>" :
-               "<li>";
-                 listItem<a href='#' id='jplayer_playlist_item_"
-                 +i+"' tabindex='1'>"+ minhaPlayList[i].name</a>
-                 (<a id='jplayer_playlist_get_mp3_"+i+"' href='"
-                 + minhaPlayList[i].mp3 + "' tabindex='1'
-                 >mp3</a>)</li>";
-               $("#jplayer_playlist ul").append(listItem);
-               $("#jplayer_playlist_item_"+i).data("index", i)
-               .click(function() {
-                  var index = $(this).data("index");
-                  if (playItem != index) {
-                        mudarPlayList(index);
-                  } else {
-                        $("#jquery_jplayer").jPlayer("play");
-                  }
-                  $(this).blur();
-                  return false;
-               });
-               $("#jplayer_playlist_get_mp3_"+i).data("index", i)
-               .click(function() {
-                  var index = $(this).data("index");
-                  $("#jplayer_playlist_item_"+index)
-                  .trigger("click");
-                  $(this).blur();
-                  return false;
-               });
-            }
-         }
-
-         // Inicializa a playlist
-         function playListInit(autoplay) {
-            if(autoplay) {
-               mudarPlayList(playItem);
-            } else {
-               playListConfig(playItem);
-            }
-         }
-
-         // Configura a playlist (quando a mesma não está
-         por padrão como autoplay)
-        function playListConfig(index) {
-           $("#jplayer_playlist_item_"+playItem)
-           .removeClass("jplayer_playlist_current").parent()
-           .removeClass("jplayer_playlist_current");
-           $("#jplayer_playlist_item_"+index)
-           .addClass("jplayer_playlist_current").parent()
-           .addClass("jplayer_playlist_current");
-           playItem = index;
-           $("#jquery_jplayer").jPlayer("setFile",
-           minhaPlayList[playItem].mp3, minhaPlayList[playItem].ogg);
-        }
-
-        function mudarPlayList(index) {
-           playListConfig(index);
-           $("#jquery_jplayer").jPlayer("play");
-        }
-
-        // Executa a próxima faixa
-        function playListProximo() {
-           var index = (playItem+1 < minhaPlayList.length) ?
-           playItem + 1 : 0;
-           mudarPlayList(index);
-        }
-
-        // Executa a faixa anterior
-        function playListAnterior() {
-           var index = (playItem-1 >= 0) ? playItem-1 :
-           minhaPlayList.length-1;
-           mudarPlayList(index);
-        }
-  });
-  -->
-  </script>
 </head>
-<body>
 
-  <div id="jquery_jplayer" style="position: absolute;
-  top: 0px; left: -9999px;">
-        <audio id="jqjp_audio_0" preload="none"
-        src="songs/human-after-all.mp3"></audio>
 
-        <div id="jqjp_force_0" style="text-indent:
-        -9999px;">0.3245763930026442</div>
-  </div>
+<body> 
+  <div class="player-container" width="100%">
 
-  <div class="jp-playlist-player">
-    <div class="jp-interface">
-       <ul class="jp-controls">
-          <li><a href="#" id="jplayer_play"
-          class="jp-play" tabindex="1" title="Executar"
-          >play</a></li>
-          <li><a href="#" id="jplayer_pause"
-          class="jp-pause" tabindex="1" style="display:
-          block;" title="Pausar">pause</a></li>
-          <li><a href="#" id="jplayer_stop"
-          class="jp-stop" tabindex="1" title="Parar"
-          >stop</a></li>
-          <li><a href="#" id="jplayer_volume_min"
-          class="jp-volume-min" tabindex="1" title="Mínimo"
-          >min volume</a></li>
-          <li><a href="#" id="jplayer_volume_max"
-          class="jp-volume-max" tabindex="1" title="Máximo"
-          >max volume</a></li>
-          <li><a href="#" id="jplayer_anterior"
-          class="jp-previous" tabindex="1" title="Anterior"
-          >previous</a></li>
-          <li><a href="#" id="jplayer_proximo"
-          class="jp-next" tabindex="1" title="Próximo"
-          >next</a></li>
-       </ul>
-     <div class="jp-progress">
-        <div id="jplayer_load_bar" class="jp-load-bar"
-        style="width: 0%;">
-           <div id="jplayer_play_bar" class="jp-play-bar"
-           style="width: 0%;"></div>
-        </div>
-     </div>
-     <div id="jplayer_volume_bar" class="jp-volume-bar">
-        <div id="jplayer_volume_bar_value" class="jp-volume-bar-value"
-        style="width: 80%;"></div>
-     </div>
-     <div id="jplayer_tempo_execucao" class="jp-play-time"
-     >00:00</div>
-     <div id="jplayer_tempo_total" class="jp-total-time"
-     >00:00</div>
-    </div>
-    <div id="jplayer_playlist" class="jp-playlist">
-       <ul>
-          <li class="jplayer_playlist_current">
-             <a href="#" id="jplayer_playlist_item_0"
-             tabindex="1" class="jplayer_playlist_current">
-             Daft Punk - Human After All</a>
-          </li>
-          <li>
-             <a href="#" id="jplayer_playlist_item_1"
-             tabindex="1">Amy Winehouse - You Know I'm
-             No Good</a>
-          </li>
-          <li>
-             <a href="#" id="jplayer_playlist_item_2"
-             tabindex="1">Black Eyed Peas - Shut Up</a>
-          </li>
-          <li>
-             <a href="#" id="jplayer_playlist_item_3"
-             tabindex="1">Nightwish - Ghost River</a>
-          </li>
-          <li class="jplayer_playlist_ultimo_item">
-             <a href="#" id="jplayer_playlist_item_5"
-             tabindex="1">Daft Punk - Techonologic</a>
-          </li>
-       </ul>
-    </div>
-  </div>
+    <video-js id="videojs-mobile-ui-player" class="video-js vjs-fluid vjs-big-play-centered vjs-default-skin" controls playsinline
+      poster="https://blogger.googleusercontent.com/img/a/AVvXsEgVeOQEtExEdy1Yjwv0Qlo0ZYAkZMPKVY154P3OxLgA4T5FHLg2YmABxWi_188o23LdtjXDt057cO5pZhIS8nBHoQWzfF0kvpBAWjehyYd6y4_XULvI7ERu2_znKqrXP17B16dD-xVWw5RdzOBiDwYv1lSBH98gcgMs6caBdx2zTJ5XwdMgcnu20xya">
+      <source src="https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u" type='application/x-mpegURL'>
+
+
+
+
+    </video-js>
+
+
+    <script src="video.js"></script>
+    <script src="videojs-mobile-ui.js"></script>
+    <script src="videojs-playlist.js"></script>
+    <script src="videojs-playlist-ui.js"></script>
+
+    <script>
+      var player = videojs('videojs-mobile-ui-player', {
+
+
+        fluid: true,
+        controls: true,
+        aspectRatio: '4:3',
+
+
+
+      },
+
+      );
+
+
+
+      player.playlist([
+
+      {
+        name: 'RBA TV',
+
+        sources: [
+        { src: 'https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8', type: 'application/x-mpegURL' },  
+        { src: 'rtmps://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv', type: 'application/flash' },       
+
+        ],
+
+        thumbnail: [
+          {
+            srcset: 'https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg',
+            type: 'image/png',
+            media: '(min-width: 400px;)'
+          },
+          {
+            src: 'https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg'
+          }
+        ],
+        poster: 'https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg'
+      },
+
+
+
+
+
+      ]);
+
+
+
+
+
+
+
+      player.playlistUi({ horizontal: true },);
+      player.playlist.autoadvance(0);
+
+
+
+
+
+
+
+    </script>
+
+
+    <script>
+      (function (window, videojs) {
+        var options = {
+          fullscreen: {
+            enterOnRotate: true,
+            exitOnRotate: true,
+            lockOnRotate: true,
+            iOS: false,
+            disabled: false
+          },
+          touchControls: {
+            seekSeconds: 10,
+            tapTimeout: 300,
+            disableOnEnd: false,
+            disabled: false
+          }
+        };
+
+        var url = new URL(window.location);
+        if (url.searchParams.has('options')) {
+          options = JSON.parse(url.searchParams.get('options'));
+        }
+
+        console.log(JSON.stringify(options, null, 2));
+
+        Object.keys(options).forEach(function (section) {
+          Object.keys(options[section]).forEach(function (prop) {
+            const val = options[section][prop];
+
+            if (prop === 'disabled') {
+              prop = `${section}Disabled`;
+            }
+
+            if (typeof val === 'boolean') {
+              document.getElementById(prop).checked = val;
+            }
+            if (typeof val === 'number') {
+              document.getElementById(prop).value = val;
+            }
+          });
+        });
+
+        document.getElementById('options').querySelectorAll('input').forEach(function (opt) {
+          opt.addEventListener('change', function () {
+            if (this.type === 'checkbox') {
+              const param = this.id.endsWith('Disabled') ? 'disabled' : this.id;
+
+              options[this.getAttribute('data-section')][param] = this.checked;
+            } else {
+              options[this.getAttribute('data-section')][this.id] = parseFloat(this.value);
+            }
+            console.log(options);
+          });
+        });
+
+        document.getElementById('reload').addEventListener('click', function () {
+          url.searchParams.set('options', JSON.stringify(options));
+
+          window.location = url.href;
+        })
+
+        window.addEventListener('orientationchange', function () {
+          var el = document.createElement('li');
+          var message = (new Date).toTimeString().split(' ')[0] + ' ' + window.orientation;
+          message += (screen && screen.orientation ? ' ' + screen.orientation.type + ' ' + screen.orientation.angle : '');
+          el.textContent = message;
+          console.log(message);
+          document.getElementById('log').appendChild(el);
+        });
+
+        var testPlayer = window.testPlayer = videojs('videojs-mobile-ui-player');
+        testPlayer.endscreen = function () { };
+        testPlayer.mobileUi(options);
+      }(window, window.videojs));
+    </script>
+
+<script type="text/javascript" >
+
+  
+</script>   
+
+
 </body>
+
 </html>
