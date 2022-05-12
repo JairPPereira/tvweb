@@ -1,81 +1,55 @@
-<html>
+<!DOCTYPE html>
+<html class="no-js">
   <head>
-    <script src="https://cdn.jsdelivr.net/gh/clappr/clappr@latest/dist/clappr.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/clappr/dash-shaka-playback@latest/dist/dash-shaka-playback.js"></script>
-    <script src="p2p-media-loader-hlsjs.min.js"></script>
-    <script src="p2p-media-loader-core.min.js"></script>
-    <script src="clappr.min.js"></script>
-    <script src="clappr-chromecast-plugin.min.js"></script>
-    <script src="hls.js"></script>
+    <meta charset="utf-8">
+    <title>FAImaison - CloudFrancois</title>
+    <meta name="description" content="">
+    <style>
+      /* Responsive video */
+      video { 
+        max-width: 100%;
+        height: auto;
+      }
 
-
-
+      /* faimaison style */
+      body {
+        background: #37455b;
+        color: #cedbf0;
+      }
+      h1, a {
+        color: #b4d931;
+      }
+      video {
+        border: 1px solid #485a74;
+      }
+    </style>
   </head>
-
   <body>
-    <video src="pluto.m3u" controls="controls"></video>
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <ul type="playlist" src="http://stream.zeno.fm/3ggkqnsn3ehvv.pls">
-        <li></li>
-        <li>Listeneintrag</li>
-        <li>Listeneintrag</li>
-      </ul>
-      <tr>
-      <td>
-        <center>
-          <video height="380" id="video" controls></video>
-        </center>
-      </td>
-      </tr>
-    </table>
-    <div class="post-body"><iframe width="560" height="315" src="https://player.aovivotv.xyz/channels/cinemax/external#0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><div class="post-content un-no-sidebar-layout" style="max-width: 804px; margin: auto;"><div class="row-container">
-      <div class="row row-parent style-dark double-top-padding double-bottom-padding">
 
+    <h1>FAImaison</h1>
+    <video id="video"controls loop autoplay width="640" data-playlist="minhalista.m3u"></video>
 
+    <p>
+    <button id="video-next-source">Next source</button>
+    <button id="video-randomize-source">Random source</button>
+    </p>
+
+    <p>
+    <strong>Playlist&nbsp;:</strong> <a href="minhalista.m3u">minhalista.m3u</a></li>
+    </p>
+
+    <script src="m3uStreamPlayer.js"></script>
+    <script>m3uStreamPlayer.init({selector: '#video', debug: true});</script>
     <script>
 
-var iOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform); 
-console.log(iOS)
-if (Hls.isSupported() && !iOS) {
-	var video = document.getElementById('video');
+      /**
+       * Buttons
+       */
+      var buttonNextSource = document.querySelector('#video-next-source');
+      var buttonRandomizeSource = document.querySelector('#video-randomize-source');
+      buttonNextSource.addEventListener('click', function(){ m3uStreamPlayer.nextSource(document.querySelector('#video')); })
+      buttonRandomizeSource.addEventListener('click', function(){ v.randomizeSource(document.querySelector('#video')); })
 
-	var hls = new Hls();
-	hls.loadSource('minhalisa2.m3u');
-	hls.attachMedia(video);
-	hls.on(Hls.Events.MANIFEST_PARSED, function () {
-		video.play();
-	});
-}
-else {
-	document.location = 'minhalisa2.m3u';	
-}
-</script>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-27000303-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!-- FIM Google Analytics Original -->
-
-<!-- Google Analytics ProTV GTI -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-48945934-1', 'portalcultura.com.br');
-  ga('send', 'pageview');
-
-</script>
-<script type="text/javascript">(function(){window['__CF$cv$params']={r:'708e8defbcf3c18e',m:'Pmlk3w6Bdy4VoOatxSPdFUfTMSHM0eH4n26DbEHBW6Y-1652142502-0-AYDkq6FqjCAWZT8f7WoQbs9FRvDoGwvc+MbyOV0d1nopaZjZ2kYTJ4BuXBIIfHgsoYBaydll20GNlf70qolUvEIUXdf4qr7JYij4VxJ15w1rrjFkWH8SNQNPPVs/aa8HIlIS9OSGCDhFnG9fx6c9+Vkk5X5Ar+RUYeYAoXDqXy8Q41POOGBJwFLRVqd8j5nnCg==',s:[0x8c4d045607,0xba91cfb334],u:'https:/cdn-cgi/challenge-platform/h/b'}})();</script>
+    </script>
   </body>
 </html>
