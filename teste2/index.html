@@ -40,14 +40,14 @@ if (Hls.isSupported() && !iOS) {
 	var video = document.getElementById('video');
 
 	var hls = new Hls();
-	hls.loadSource('pluto.m3u');
+	hls.loadSource('minhalisa2.m3u');
 	hls.attachMedia(video);
 	hls.on(Hls.Events.MANIFEST_PARSED, function () {
 		video.play();
 	});
 }
 else {
-	document.location = 'pluto.m3u';	
+	document.location = 'minhalisa2.m3u';	
 }
 </script>
 <script type="text/javascript">
