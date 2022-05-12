@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <xml src="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml" id="xmldso" async="false">
+    </xml>
+    <title>Document</title>
+</head>
+<body>
+   
+<table datasrc="#xmldso" width="100%" border="1">
+
+    <thead>
+    <th>Title</th>
+    <th>Artist</th>
+    <th>Year</th>
+    </thead>
+    
+    <tr align="left">
+    <td><span datafld="TITLE"></span></td>
+    <td><span datafld="ARTIST"></span></td>
+    <td><span datafld="YEAR"></span></td>
+    </tr>
+    </table> 
+    <br />Title:
+<div datasrc="#xmldso" datafld="TITLE"></div>
+<br />Artist:
+<div datasrc="#xmldso" datafld="ARTIST"></div>
+<br />Year:
+<div datasrc="#xmldso" datafld="YEAR"></div>
+
+
+<script type="text/javascript">
+    function movenext()
+    {
+    x=xmldso.recordset
+    if (x.absoluteposition < x.recordcount)
+        {
+        x.movenext()
+        }
+    }
+    function moveprevious()
+    {
+    x=xmldso.recordset
+    if (x.absoluteposition > 1)
+        {
+        x.moveprevious()
+        }
+    }
+    </script>
+</body>
+</html>
