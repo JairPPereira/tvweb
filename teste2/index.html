@@ -13,7 +13,7 @@
   </head>
 
   <body>
-    <audio src="http://node-18.zeno.fm:80/3ggkqnsn3ehvv" controls="controls"></audio>
+    <video src="pluto.m3u" controls="controls"></video>
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
       <ul type="playlist" src="http://stream.zeno.fm/3ggkqnsn3ehvv.pls">
         <li></li>
@@ -40,14 +40,14 @@ if (Hls.isSupported() && !iOS) {
 	var video = document.getElementById('video');
 
 	var hls = new Hls();
-	hls.loadSource('https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1');
+	hls.loadSource('pluto.m3u');
 	hls.attachMedia(video);
 	hls.on(Hls.Events.MANIFEST_PARSED, function () {
 		video.play();
 	});
 }
 else {
-	document.location = 'https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1';	
+	document.location = 'pluto.m3u';	
 }
 </script>
 <script type="text/javascript">
