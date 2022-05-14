@@ -113,80 +113,11 @@
 
             </div>
         </div>
-        <object width=" 90% " height="  "><param name="movie" value="https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src=" https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 " type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="90% " height=""></embed></object>
+
         <br>
         <hr>
 
-        <div class="players" id="player2-container">
-
-            <h3>Audio Player</h3>
-
-            <p>By default, time handle element is hidden, but in this demo the following styles were added to display it just for audio:</p>
-
-<style>
-#player2-container .mejs__time-buffering,
-#player2-container .mejs__time-current,
-#player2-container .mejs__time-handle,
-#player2-container .mejs__time-loaded,
-#player2-container .mejs__time-marker,
-#player2-container .mejs__time-total,
-#player2-container .mejs__time-hovered {
-    height: 0.125rem;
-}
-
-#player2-container .mejs__time-total {
-    margin-top: 0.5625rem;
-}
-#player2-container .mejs__time-handle {
-    left: -0.3125rem;
-    width: 0.75rem;
-    height: 0.75rem;
-    border-radius: 50%;
-    background: #ffffff;
-    top: -0.3125rem;
-    cursor: pointer;
-    display: block;
-    position: absolute;
-    z-index: 2;
-    border: none;
-}
-#player2-container .mejs__time-handle-content {
-    top: 0;
-    left: 0;
-    width: 0.75rem;
-    height: 0.75rem;
-}
-</style>
-
-            <div class="media-wrapper">
-                <audio id="player2" preload="none" controls style="max-width:100%;">
-                    <source src="http://www.largesound.com/ashborytour/sound/AshboryBYU.mp3" type="audio/mp3">
-                </audio>
-            </div>
-            <br>
-            <div>
-                <label>Sources <select name="sources">
-                    <option value="https://github.com/mediaelement/mediaelement-files/blob/master/AirReview-Landmarks-02-ChasingCorporate.mp3?raw=true">MP3</option>
-                    <option value="https://commons.wikimedia.org/wiki/File:Demo_chorus.ogg">OGG</option>
-                    <option value="http://db3.indexcom.com/bucket/ram/00/05/64k/05.m3u8">HLS</option>
-                    <!--<option value="rtmp://s3b78u0kbtx79q.cloudfront.net/cfx/st/mp3:fake_empire-cbr">RTMP</option>-->
-                    <option value="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/282715465&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true">SoundCloud</option>
-                    <!--<option value="https://api.soundcloud.com/tracks/323195515/stream?client_id=95f22ed54a5c297b1c41f72d713623ef">SoundCloud</option>-->
-                </select>
-                </label>
-            </div>
-            <br>
-            <div class="player-info">
-                <h4>Player information</h4>
-                <div id="player2-rendername">
-                    <p><strong>Source</strong>: <span class="src"><a href="http://www.largesound.com/ashborytour/sound/AshboryBYU.mp3" target="_blank">http://www.largesound.com/ashborytour/sound/AshboryBYU.mp3</a></span></p>
-                    <p><strong>Renderer</strong>: <span class="renderer">html5</span></p>
-                    <p class="error"></p>
-                </div>
-            </div>
-
-        </div>
-    </div>
+  
 
     <script src="mediaelement-and-player.js"></script>
     <script src="mediaelement-and-player.min.js"></script>
