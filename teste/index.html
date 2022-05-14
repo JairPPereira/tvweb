@@ -1,206 +1,48 @@
-<!doctype html>
-<html lang="pt-br">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="theme-color" content="#7ac525" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="#7ac525" />
-  <meta name="msapplication-navbutton-color" content="#7ac525" />
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <title>Cindie Lite</title>
-  <link href="video-js.css" rel="stylesheet">
-  <link href="videojs-mobile-ui.css" rel="stylesheet">
-  <link href="videojs-playlist-ui.css" rel="stylesheet">
-  <style>
-    body {
-      background-color: #7ac525;
-      width: auto;
-      height: auto;
-    }
-  </style>
-  <style>
-    .testEl {
-      width: 10%;
-      height: 10%;
-      position: absolute;
-      top: 0;
-      pointer-events: none;
-      display: none;
-    }
-  </style>
-
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://vjs.zencdn.net/7.10.2/video-js.min.css" rel="stylesheet">
+    <script>window.HELP_IMPROVE_VIDEOJS = false;</script>
+    <title>Document</title>
 </head>
-
-
-<body> 
-  <div class="player-container" width="100%">
-
-    <video-js id="videojs-mobile-ui-player" class="video-js vjs-fluid vjs-big-play-centered vjs-default-skin" controls playsinline
-      poster="https://blogger.googleusercontent.com/img/a/AVvXsEgVeOQEtExEdy1Yjwv0Qlo0ZYAkZMPKVY154P3OxLgA4T5FHLg2YmABxWi_188o23LdtjXDt057cO5pZhIS8nBHoQWzfF0kvpBAWjehyYd6y4_XULvI7ERu2_znKqrXP17B16dD-xVWw5RdzOBiDwYv1lSBH98gcgMs6caBdx2zTJ5XwdMgcnu20xya">
-      <source src="    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1" crossorigin="anonymous" type='video/mp4'>
-
-
-  
-    </video-js>
-
-    <script src="video.js"></script>
-    <script src="videojs-mobile-ui.js"></script>
-    <script src="videojs-playlist.js"></script>
-    <script src="videojs-playlist-ui.js"></script>
-    <script src="videojs-contrib-hls.js"></script>
-    <script src="videojs-contrib-hls.min.js"></script>
-
+<body>
+    <video
+    id="my-player"
+    class="video-js"
+    controls
+    preload="auto"
+    poster="https://vjs.zencdn.net/v/oceans.png"
+    data-setup='{}'>
+  <source src="https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1" type="application/x-mpegURL"></source>
+  <source src="https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1" type="video/mp4"></source>
+  <source src="https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1" type="video/webm"></source>
+  <source src="https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1" type="video/ogg"></source>
+  <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a
+    web browser that
+    <a href="https://videojs.com/html5-video-support/" target="_blank">
+      supports HTML5 video
+    </a>
+  </p>
+</video>
     <script>
-      var player = videojs('videojs-mobile-ui-player', {
+        var options = {};
 
+var player = videojs('my-player', options, function onPlayerReady() {
+  videojs.log('Your player is ready!');
 
-        fluid: true,
-        controls: true,
-        aspectRatio: '4:3',
+  // In this context, `this` is the player that was created by Video.js.
+  this.play();
 
-
-
-      },
-
-      );
-
-
-
-      player.playlist([
-
-      {
-        name: 'Cindie Lite',
-
-        sources: [
-        { src: 'http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D', type: 'application/x-mpegURL' }, 
-        { src: 'http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D', type:'application/flash'},
-        { src: 'http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D', type: 'application/x-mpegURL' },       
-
-        ],
-
-        thumbnail: [
-          {
-            srcset: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwzDY-PQOl7yDqu5uN_WAiyMT2_KWj1LmUC7qdFaba6YbFIyVmLPqVUfuC94hgyL0pDJ22mWeeN-6X1-4-ZQdpd-zzC_8oW8V1SZFahjxxX9n-yvdvN5Jc6Zl-1hA0bbnI0VdmWGc7HIbuAfzT9tvfb9BM308wMQGXDutuXvJbRR_HsRjO5ivJAg-s/w200-h200/CiNDLite_190x190Circle.webp',
-            type: 'image/png',
-            media: '(min-width: 400px;)'
-          },
-          {
-            src: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwzDY-PQOl7yDqu5uN_WAiyMT2_KWj1LmUC7qdFaba6YbFIyVmLPqVUfuC94hgyL0pDJ22mWeeN-6X1-4-ZQdpd-zzC_8oW8V1SZFahjxxX9n-yvdvN5Jc6Zl-1hA0bbnI0VdmWGc7HIbuAfzT9tvfb9BM308wMQGXDutuXvJbRR_HsRjO5ivJAg-s/w200-h200/CiNDLite_190x190Circle.webp'
-          }
-        ],
-        poster: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwzDY-PQOl7yDqu5uN_WAiyMT2_KWj1LmUC7qdFaba6YbFIyVmLPqVUfuC94hgyL0pDJ22mWeeN-6X1-4-ZQdpd-zzC_8oW8V1SZFahjxxX9n-yvdvN5Jc6Zl-1hA0bbnI0VdmWGc7HIbuAfzT9tvfb9BM308wMQGXDutuXvJbRR_HsRjO5ivJAg-s/w200-h200/CiNDLite_190x190Circle.webp'
-      },
-
-
-
-
-
-      ]);
-
-
-
-
-
-
-
-      player.playlistUi({ horizontal: true },);
-      player.playlist.autoadvance(0);
-
-
-
-
-
-
-
+  // How about an event listener?
+  this.on('ended', function() {
+    videojs.log('Awww...over so soon?!');
+  });
+});
     </script>
-
-
-    <script>
-      (function (window, videojs) {
-        var options = {
-          fullscreen: {
-            enterOnRotate: true,
-            exitOnRotate: true,
-            lockOnRotate: true,
-            iOS: false,
-            disabled: false
-          },
-          touchControls: {
-            seekSeconds: 10,
-            tapTimeout: 300,
-            disableOnEnd: false,
-            disabled: false
-          }
-        };
-
-        var url = new URL(window.location);
-        if (url.searchParams.has('options')) {
-          options = JSON.parse(url.searchParams.get('options'));
-        }
-
-        console.log(JSON.stringify(options, null, 2));
-
-        Object.keys(options).forEach(function (section) {
-          Object.keys(options[section]).forEach(function (prop) {
-            const val = options[section][prop];
-
-            if (prop === 'disabled') {
-              prop = `${section}Disabled`;
-            }
-
-            if (typeof val === 'boolean') {
-              document.getElementById(prop).checked = val;
-            }
-            if (typeof val === 'number') {
-              document.getElementById(prop).value = val;
-            }
-          });
-        });
-
-        document.getElementById('options').querySelectorAll('input').forEach(function (opt) {
-          opt.addEventListener('change', function () {
-            if (this.type === 'checkbox') {
-              const param = this.id.endsWith('Disabled') ? 'disabled' : this.id;
-
-              options[this.getAttribute('data-section')][param] = this.checked;
-            } else {
-              options[this.getAttribute('data-section')][this.id] = parseFloat(this.value);
-            }
-            console.log(options);
-          });
-        });
-
-        document.getElementById('reload').addEventListener('click', function () {
-          url.searchParams.set('options', JSON.stringify(options));
-
-          window.location = url.href;
-        })
-
-        window.addEventListener('orientationchange', function () {
-          var el = document.createElement('li');
-          var message = (new Date).toTimeString().split(' ')[0] + ' ' + window.orientation;
-          message += (screen && screen.orientation ? ' ' + screen.orientation.type + ' ' + screen.orientation.angle : '');
-          el.textContent = message;
-          console.log(message);
-          document.getElementById('log').appendChild(el);
-        });
-
-        var testPlayer = window.testPlayer = videojs('videojs-mobile-ui-player');
-        testPlayer.endscreen = function () { };
-        testPlayer.mobileUi(options);
-      }(window, window.videojs));
-    </script>
-
-<script type="text/javascript" >
-
-  
-</script>   
-
-
+    <script src="https://vjs.zencdn.net/7.10.2/video.min.js"></script>
 </body>
-
 </html>
