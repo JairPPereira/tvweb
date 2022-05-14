@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +9,10 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-    <link rel="stylesheet" href="../build/mediaelementplayer.css">
+    <link rel="stylesheet" href="mediaelementplayer.css">
+    <link rel="stylesheet" href="mediaelementplayer-legacy.css">
+    <link rel="stylesheet" href="mediaelementplayer-legacy.min.css">
+    <link rel="stylesheet" href="mediaelementplayer.min.css">
 
     <style>
 
@@ -122,15 +125,15 @@
 
             <div class="media-wrapper">
                 <video id="player1" width="640" height="360" style="max-width:100%;" poster="http://www.mediaelementjs.com/images/big_buck_bunny.jpg" preload="none" controls playsinline webkit-playsinline>
-                    <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4" type="video/mp4">
-                    <track srclang="en" kind="subtitles" src="mediaelement.vtt">
-                    <track srclang="en" kind="chapters" src="chapters.vtt">
+                    <source src="https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8" type="application/x-mpegURL">
+                    <track srclang="pt" kind="subtitles" src="mediaelement.vtt">
+                    <track srclang="pt" kind="chapters" src="chapters.vtt">
                 </video>
             </div>
             <br>
             <div>
                 <label>Sources <select name="sources">
-                    <option value="//github.com/mediaelement/mediaelement-files/blob/master/big_buck_bunny.mp4?raw=true">MP4</option>
+                    <option value="https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8">MP4</option>
                     <option value="//upload.wikimedia.org/wikipedia/commons/2/22/Volcano_Lava_Sample.webm">WebM</option>
                     <option value="https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8">HLS</option>
                     <option value="//www.bok.net/dash/tears_of_steel/cleartext/stream.mpd">M(PEG)-DASH</option>
@@ -162,7 +165,7 @@
 
             <p>By default, time handle element is hidden, but in this demo the following styles were added to display it just for audio:</p>
 
-            <pre><code>
+<style>
 #player2-container .mejs__time-buffering,
 #player2-container .mejs__time-current,
 #player2-container .mejs__time-handle,
@@ -195,7 +198,7 @@
     width: 0.75rem;
     height: 0.75rem;
 }
-            </code></pre>
+</style>
 
             <div class="media-wrapper">
                 <audio id="player2" preload="none" controls style="max-width:100%;">
@@ -227,10 +230,10 @@
         </div>
     </div>
 
-    <script src="../build/mediaelement-and-player.js"></script>
-    <script src="../build/renderers/dailymotion.js"></script>
-    <script src="../build/renderers/facebook.js"></script>
-    <script src="../build/renderers/soundcloud.js"></script>
+    <script src="mediaelement-and-player.js"></script>
+    <script src="mediaelement-and-player.min.js"></script>
+    <script src="mediaelement.js"></script>
+    <script src="mediaelement.min.js"></script>
     <script src="../build/renderers/twitch.js"></script>
     <script src="../build/renderers/vimeo.js"></script>
     <script src="../build/lang/cs.js"></script>
