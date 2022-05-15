@@ -9,7 +9,8 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-    <link rel="stylesheet" href="../build/mediaelementplayer.css">
+    <link rel="stylesheet" href="mediaelementplayer.css">
+    <link rel="stylesheet" href="mediaelementplayer.min.css">
 
     <style>
 
@@ -30,6 +31,38 @@
         code {
             font-size: 0.8em;
         }
+        #player2-container .mejs__time-buffering,
+#player2-container .mejs__time-current,
+#player2-container .mejs__time-handle,
+#player2-container .mejs__time-loaded,
+#player2-container .mejs__time-marker,
+#player2-container .mejs__time-total,
+#player2-container .mejs__time-hovered {
+    height: 0.125rem;
+}
+
+#player2-container .mejs__time-total {
+    margin-top: 0.5625rem;
+}
+#player2-container .mejs__time-handle {
+    left: -0.3125rem;
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 50%;
+    background: #ffffff;
+    top: -0.3125rem;
+    cursor: pointer;
+    display: block;
+    position: absolute;
+    z-index: 2;
+    border: none;
+}
+#player2-container .mejs__time-handle-content {
+    top: 0;
+    left: 0;
+    width: 0.75rem;
+    height: 0.75rem;
+}
 
         #player2-container .mejs__time-buffering, #player2-container .mejs__time-current, #player2-container .mejs__time-handle,
         #player2-container .mejs__time-loaded, #player2-container .mejs__time-hovered, #player2-container .mejs__time-marker, #player2-container .mejs__time-total {
@@ -162,40 +195,7 @@
 
             <p>By default, time handle element is hidden, but in this demo the following styles were added to display it just for audio:</p>
 
-            <pre><code>
-#player2-container .mejs__time-buffering,
-#player2-container .mejs__time-current,
-#player2-container .mejs__time-handle,
-#player2-container .mejs__time-loaded,
-#player2-container .mejs__time-marker,
-#player2-container .mejs__time-total,
-#player2-container .mejs__time-hovered {
-    height: 0.125rem;
-}
-
-#player2-container .mejs__time-total {
-    margin-top: 0.5625rem;
-}
-#player2-container .mejs__time-handle {
-    left: -0.3125rem;
-    width: 0.75rem;
-    height: 0.75rem;
-    border-radius: 50%;
-    background: #ffffff;
-    top: -0.3125rem;
-    cursor: pointer;
-    display: block;
-    position: absolute;
-    z-index: 2;
-    border: none;
-}
-#player2-container .mejs__time-handle-content {
-    top: 0;
-    left: 0;
-    width: 0.75rem;
-    height: 0.75rem;
-}
-            </code></pre>
+ 
 
             <div class="media-wrapper">
                 <audio id="player2" preload="none" controls style="max-width:100%;">
@@ -226,8 +226,9 @@
 
         </div>
     </div>
-
-    <script src="../build/mediaelement-and-player.js"></script>
+    <script src="mediaelement.js"></script>
+    <script src="mediaelement.min.js"></script>
+    <script src="mediaelement-and-player.js"></script>
     <script src="../build/renderers/dailymotion.js"></script>
     <script src="../build/renderers/facebook.js"></script>
     <script src="../build/renderers/soundcloud.js"></script>
