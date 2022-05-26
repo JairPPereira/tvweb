@@ -8,7 +8,79 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
     <meta name="msapplication-navbutton-color" content="#00FFFF"/>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  
+  <style>
+    body, ul {
+      margin: 0px;
+      padding: 0px;
+    }
+    a {
+      color: black;
+      text-decoration: none;
+      font-family: sans-serif;
+    }
+
+    a:hover {
+      background: rgba(0, 0, 0, .05);
+    }
+    #Logo {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    #Header {
+      box-sizing: border-box;
+      height: 70px;
+      padding: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #e7e7e7;
+
+    }
+    #Menu {
+      display: flex;
+      list-style: none;
+      gap: .5rem;
+    }
+    #Menu a {
+      display: block;
+      padding: .5rem;
+    }
+    #btn-mobile{
+      display: none;
+    }
+    @media (max-width: 600px){
+      #btn-mobile {
+        display: block;
+      }
+      #Menu {
+        /*display: none;*/
+        display: block;
+        position: absolute;
+        width: 100%;
+        top: 70px;
+        right: 0px;
+        background: #e7e7e7;
+        height: 0px;
+        transition: .6s;
+        z-index: 1000;
+        visibility: hidden;
+        overflow-y: hidden;
+
+      }
+      #nav.active #Menu {
+
+        height: calc(100vh - 70px);
+        visibility: visible;
+        overflow-y: auto;
+
+      }
+      #Menu a {
+        padding: 1rem 0;
+        margin: 0 1rem;
+        border-bottom: 2px solid rgba(0, 0, 0, .05);
+      }
+    }
+  </style>
     <script>
       window.onload = function() {
           if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
@@ -16,68 +88,37 @@
           }
       }
   </script>
-  <style>
-#playlist{
-            list-style: none;
-        }
-        #playlist li a{
-            color:black;
-            text-decoration: none;
-        }
-        #playlist .current-song a{
-            color:blue;
-        }
-  </style>
+
       
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
          
     </head>
     <body>
-      <center><h1>Estação I</h1>
-        <img src="https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png" heigth="300px" width="300px">
-      <audio id="audioPlayer"   preload="auto" tabindex="0" controls="">
- 
-        <source src="https://drive.google.com/uc?export&id=1-05hiU81aUff7qRdz48W7ZeOiBjDIyLT" type="audio/mp3">
-      </audio>
-      <ul id="playlist">
-        <li class="active"> <a href="https://drive.google.com/uc?export&id=1-05hiU81aUff7qRdz48W7ZeOiBjDIyLT">Sábado</a></li>
-        <li><a href="https://drive.google.com/uc?export&id=1-8NCBmzSpqeuvLIFPCwAPcQCNjln-WAZ">Doce engano</a></li>
-        <li><a href="https://drive.google.com/uc?export&id=1-FfXBn5hzAfRe_OxHCu6oJH1b-9vyLuR">Coisinha estúpida</a></li>
-      </ul></center>
-
-      <script type="text/javascript">
-
-function audioPlayer(){
-            var currentSong = 0;
-            $("#audioPlayer")[0].src = $("#playlist li a")[0];
-            $("#audioPlayer")[0].play();
-            $("#playlist li a").click(function(e){
-               e.preventDefault(); 
-               $("#audioPlayer")[0].src = this;
-               $("#audioPlayer")[0].play();
-               $("#playlist li").removeClass("current-song");
-                currentSong = $(this).parent().index();
-                $(this).parent().addClass("current-song");
-            });
-            
-            $("#audioPlayer")[0].addEventListener("ended", function(){
-               currentSong++;
-                if(currentSong == $("#playlist li a").length)
-                    currentSong = 0;
-                $("#playlist li").removeClass("current-song");
-                $("#playlist li:eq("+currentSong+")").addClass("current-song");
-                $("#audioPlayer")[0].src = $("#playlist li a")[currentSong].href;
-                $("#audioPlayer")[0].play();
-            });
-        }
-
-
-
-      </script>
-
-      <script>
-        // loads the audio player
-        audioPlayer();
-    </script>
+     <header id="Header">
+       <a id="Logo" href=""> Logo</a>
+       <nav id="nav">
+         <button id="btn-mobile">Menu</button>
+         <ul id="Menu">
+           <li>
+             <a href="/">Sobre</a>           </li>
+             <li>
+             <a href="/">Produtos</a></li>
+             <li>
+             <a href="/">Portifólio</a></li>
+             <li>
+             <a href="/">Contatos</a>
+           </li>
+           
+         </ul>
+       </nav>
+     </header>
     </body>
+    <script>
+      const btnMobile = document.getElementById('btn-mobile');
+      function toggleMenu(){
+        const nav = document.getElementById('nav'); 
+        nav.classList.toggle('active');
+      }
+      btnMobile.addEventListener('click', toggleMenu)
+    </script>
     </html>
