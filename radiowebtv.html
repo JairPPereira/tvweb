@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+    <meta charset=utf-8 />
+    <title>Radio e Tvs Online</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="theme-color" content="#00FFFF"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
+    <meta name="msapplication-navbutton-color" content="#00FFFF"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <style>
+    body, ul {
+      margin: 0px;
+      padding: 0px;
+    }
+    a {
+      color: black;
+      text-decoration: none;
+      font-family: sans-serif;
+    }
+
+    a:hover {
+      background: rgba(0, 0, 0, .05);
+    }
+    #Logo {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    #Header {
+      box-sizing: border-box;
+      height: 70px;
+      padding: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #e7e7e7;
+
+    }
+    #menu {
+      display: flex;
+      list-style: none;
+      gap: .5rem;
+    }
+    #menu a {
+      display: block;
+      padding: .5rem;
+    }
+    #btn-mobile{
+      display: none;
+    }
+    @media (max-width: 600px){
+      #btn-mobile {
+        display: block;
+      }
+      #menu {
+        /*display: none;*/
+        display: block;
+        position: absolute;
+        width: 100%;
+        top: 70px;
+        right: 0px;
+        background: #e7e7e7;
+        height: 0px;
+        transition: .6s;
+        z-index: 1000;
+        visibility: hidden;
+        overflow-y: hidden;
+
+      }
+      #nav.active #menu {
+
+        height: calc(100vh - 70px);
+        visibility: visible;
+        overflow-y: auto;
+
+      }
+      #menu a {
+        padding: 1rem 0;
+        margin: 0 1rem;
+        border-bottom: 2px solid rgba(0, 0, 0, .05);
+      }
+      #btn-mobile {
+        display: flex;
+        padding: .5rem 1rem;
+        font-size: 1rem;
+        border: none;
+        cursor: pointer;
+        gap: .5rem;
+
+    }
+    #hamburger{
+      border-top: 2px solid;
+      width: 20px;
+    }
+    #hamburger::after,  #hamburger::before {
+      content: '';
+      display: block;
+      width: 20px;
+      height: 2px;
+      background-color: currentColor;
+      margin-top: 5px;
+      transition: .3s;
+      position: relative;
+    }
+    #nav.active #hamburger {
+    border-top-color: transparent;
+    }
+    #nav.active #hamburger::before {
+      transform: rotate(135deg);
+
+    }
+
+    #nav.active #hamburger::after {
+
+      transform: rotate(-135deg);
+      top: -7px;
+      
+    }
+  }
+  </style>
+    <script>
+      window.onload = function() {
+          if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+              document.getElementById("botcel").style.display = "table";
+          }
+      }
+  </script>
+
+      
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+         
+    </head>
+    <body>
+     <header id="Header">
+       <a id="Logo" href=""> Rádio e Tvs Online</a>
+       <nav id="nav">
+         <button id="btn-mobile" aria-label="Abrir Menu" aria-haspopup="true" aria-controls="menu" aria-expanded="false">Menu
+           <span id="hamburger"></span>
+         </button>
+         <ul id="menu" role="menu">
+           <li>
+             <a href="/">Canais de Tvs</a>           </li>
+             <li>
+             <a href="/">Produtos</a></li>
+             <li>
+             <a href="/">Portifólio</a></li>
+             <li>
+             <a href="/">Contatos</a>
+           </li>
+           
+         </ul>
+       </nav>
+       
+     </header>
+
+     <div style="background-color: cadetblue; text-align: center;">
+
+      <h1>Rádios Web video</h1>
+</div>
+
+<table border="0" width="100%" cellpadding="10">
+      <tr>
+
+              <td width="33.33%" valign="top">
+
+                      <h1><img src="https://1.bp.blogspot.com/---9pCWcIkXo/YUaSqTkzy_I/AAAAAAAABHY/O_7uoGEQepk_mSyI_eipAEo6vuP1z0poACLcBGAsYHQ/s200/radio_liberalfmbelem.png"><a
+                                      href="javascript:abrir_player_popup1libfm();"
+                                      target="_self" rel="next">Rádio Liberal tv</a></h1>
+                      <script>
+                              function abrir_player_popup1libfm() {
+                                      window.open("https://jairppereira.github.io/tvweb/radioliberal/", "", "width=720,height=450,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no,resizable=NO");
+                              }
+
+
+                      </script>
+
+
+                      <h1><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgTNc0dc1mlrWsTJ2xunm5XCzNyCRBKCAV1lQd3kmJFrkTT9FU-ui8M-f_5ivDib0Qpl1eUgvp-f-jzuG5rsqdPum55gJDj2C7NmFeqDS3X7qybgU9oy0Soxh4ewh2hvm5wG6oWwxaEFAtbq1-buIYP335a5JdOMsQmvJ1fFAfNGJIyz5HerBA3R8JH=s200"><a
+                                      href="javascript:abrir_player_popup1rcapital();"
+                                      target="_self" rel="next">Rádio Capital</a></h1>
+                      <script>
+                              function abrir_player_popup1rcapital() {
+                                      window.open("https://jairppereira.github.io/tvweb/radiocapital/", "", "width=720,height=550,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no,resizable=NO");
+                              }
+
+
+                      </script>
+
+
+
+
+
+              </td>
+
+              <td width="33.33%" valign="top">
+
+
+
+                      <h1><img src="https://blogger.googleusercontent.com/img/a/AVvXsEid7XOHP6wGr1e7UWo_BRqYim_odjpkshRXaVJvlEwsLNr_36WKULPfg2z9xRBcZ5CQGxWWyO5ovM3mRSzBeo0snqnrgdPjRpxw4KalGTtbXp0D0epCANjNJ95PgjikAF6v_l32Jt5tkoSEPrAhO_TNO0OnIbt7uVYPuWsv2D7oilKRFpmHx0CRVmqq=s200"><a
+                                      href="javascript:abrir_player_popup36toptv();"
+                                      target="_self" rel="next">Top Tv</a></h1>
+                      <script>
+                              function abrir_player_popup36toptv() {
+                                      window.open("https://jairppereira.github.io/tvweb/toptv/", "", "width=720,height=450,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no,resizable=NO");
+                              }
+                      </script>
+
+                      <h1><img src="https://blogger.googleusercontent.com/img/a/AVvXsEj-6VWQnpdXqlwZmwNWveWlGbi1cvJ1y10922V7_hkkC0oGkmKZPiMqKtWze5kaqUNegrtNW-wp7pYC3JOvu4vRzLj5N_2dYcpH1kySsAN2dBQzNB246wBW_ofQ0exgc6Q_9J0P1EZa5dV5xV47iFdnJ-tT43zwhVVO5J4lub-LkSXuPtYSc8evgRwI=s200"><a
+                                      href="javascript:abrir_player_popup36zap();"
+                                      target="_self" rel="next">Zapping Music</a></h1>
+                      <script>
+                              function abrir_player_popup36zap() {
+                                      window.open("https://jairppereira.github.io/tvweb/zapping/", "", "width=720,height=550,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no,resizable=NO");
+                              }
+                      </script>
+
+
+
+
+
+
+
+
+
+
+              </td>
+              <td width="33.33%" valign="top">
+                      <h1><img src="https://blogger.googleusercontent.com/img/a/AVvXsEieZi7H_-NWRjTorNf0vOfeyD9mxKVP09hwNrHPhRpvyng2VVIkv-GK4EnpGvtrNwsUkT2MFRjOVhYzUtsFHZaNSGAefSEgGigrpaXrPgkexKrU6kxaDH6XBiQRjAOsJqb4JdI03BeA2Vr_4dq_9ggP7XpzcV_gYNkFlbQYA8X8SVb1WacFAmS3KgE5=s200"><a
+                              href="javascript:abrir_player_popup1odia();"
+                              target="_self" rel="next">Fm O dia</a></h1>
+              <script>
+                      function abrir_player_popup1odia() {
+                              window.open("https://jairppereira.github.io/tvweb/fmodia/", "", "width=720,height=450,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no,resizable=NO");
+                      }
+
+
+              </script>
+
+<h1><img src="https://blogger.googleusercontent.com/img/a/AVvXsEg6Gpo10dozWmkRMto37FtnITrZ0otUuS70tcK9KIsxwhIApzpMoxLwWt4lgxWifqZLtsR9044mJOf-hKFVVsGiG4lrtT-kqYrs_2BK4huqLwnX7upieXXHrEoU_bGXZCQNJEMw7r14I8jRDz8oVTah6hvWyGNHCIEBFeBG8Fb64PSDUt5luG_0HROr=s200"><a
+href="javascript:abrir_player_popup1gm();"
+target="_self" rel="next">Gospel Music Television</a>
+</h1>
+<script>
+function abrir_player_popup1gm() {
+window.open("https://jairppereira.github.io/tvweb/gospelmusic/", "", "width=720,height=550,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no,resizable=NO");
+}
+
+
+</script>                                       
+
+              </td>
+
+      </tr>
+</table>
+    </body>
+    <script>
+      const btnMobile = document.getElementById('btn-mobile');
+      function toggleMenu(event){
+        if  (event.type === 'touchstart') event.preventDefault();
+        const nav = document.getElementById('nav'); 
+        nav.classList.toggle('active');
+        const active = nav.classList.contains('active');
+        event.currentTarget.setAttribute('aria-expanded', active);
+        if(active){ event.currentTarget.setAttribute('aria-label', 'Fechar Menu');} else { event.currentTarget.setAttribute('aria-label', 'Abrir Menu');
+
+        }
+
+      }
+      btnMobile.addEventListener('click', toggleMenu);
+      btnMobile.addEventListener('touchstart', toggleMenu);
+    </script>
+    </html>
