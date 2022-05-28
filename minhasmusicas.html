@@ -5,15 +5,42 @@
     <title>Radio e Tvs Online</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="theme-color" content="#00FFFF"/>
-    <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
-    <meta name="msapplication-navbutton-color" content="#00FFFF"/>
+    <meta name="theme-color" content="##e7e7e7"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="##e7e7e7"/>
+    <meta name="msapplication-navbutton-color" content="##e7e7e7"/>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <style>
     body, ul {
       margin: 0px;
       padding: 0px;
+
     }
+
+    section {
+	max-width: 1280px;
+	margin: 0px auto 20px auto;
+        padding: 1rem;
+        gap: .5rem;
+}
+section::before, section::after {
+	content: '';
+	display: table;
+	clear: both;
+}
+.item-section {
+	padding: 0 10px;
+	float: left;
+        align-items: center;
+        
+}
+
+
+
+
+.item-section {
+	width: 33.3333%;
+        align-items: center;
+}
     a {
       color: black;
       text-decoration: none;
@@ -29,14 +56,23 @@
     }
     #Header {
       box-sizing: border-box;
-      height: 70px;
+      height: 80px;
       padding: 1rem;
       display: flex;
       align-items: center;
       justify-content: space-between;
       background: #e7e7e7;
+      gap: .5rem;
 
-
+    }
+    #area {
+        background: #a5afcd;   
+        align-items: center;  
+        padding: 1rem;
+        justify-content: space-between;
+        gap: .5rem;
+        margin-top: 5px;
+        width: 220px;
     }
     #menu {
       display: flex;
@@ -51,8 +87,13 @@
     #btn-mobile{
       display: none;
     }
-    @media (max-width: 600px){
+    @media (max-width: 736px){
+        .item-section {
+		width: 100%;
+
+	}
       #btn-mobile {
+              
         display: block;
       }
 
@@ -73,7 +114,7 @@
       }
       #nav.active #menu {
 
-        height: calc(100vh - 70px);
+        height: calc(100vh - 80px);
         visibility: visible;
         overflow-y: auto;
 
@@ -120,6 +161,7 @@
       top: -7px;
       
     }
+
   }
   </style>
     <script>
@@ -132,7 +174,7 @@
 
       
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-         
+              
     </head>
     <body>
      <header id="Header">
