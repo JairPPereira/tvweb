@@ -15,6 +15,14 @@
               document.getElementById("botcel").style.display = "table";
           }
       }
+      $(window).scroll(function() {
+if ($(this).scrollTop() > 1){  
+    $('header').addClass("sticky");
+  }
+  else{
+    $('header').removeClass("sticky");
+  }
+});
   </script>
 
       <style>
@@ -25,9 +33,29 @@
             text-align: center; background-color: rgb(203, 110, 29);  
             position: top; position: fixed;
          }
+         header{
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  font-size: 72px;
+  line-height: 108px;
+  height: 108px;
+  background: #335C7D;
+  color: #fff;
+  font-family: 'PT Sans', sans-serif;
+}
+header.sticky {
+  font-size: 24px;
+  line-height: 48px;
+  height: 48px;
+  background: #efc47D;
+  text-align: left;
+  padding-left: 20px;
+}
         body {background-color:#ece4e4}
         #playlist{
             list-style: none; 
+            padding-top: 0.5rem;
         }
         #playlist li a{
             color:rgb(4, 4, 4);
@@ -40,18 +68,24 @@
   
   audio::-webkit-media-controls-timeline { display:inline-flex;}
   
-    audio::-webkit-media-controls-panel {background-color: #00CED1;}
+    audio::-webkit-media-controls-panel {background-color: #335C7D;}
         </style>
           <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     </head>
     <body>
         <center>
-            <div class="music">
+<header>
 
           <audio controls="" id="audioPlayer" preload="auto" tabindex="0">
      
             <source src="https://drive.google.com/uc?export&amp;id=13c0_LlrovyUFKVBzfSXxKbNHKoplD1Ie" type="audio/mp3"></source>
-          </audio></div>        </center><center>
+          </audio>     </header>  </center><center>
+         <p1></p1> </br>
+         <p1></p1> </br>
+         <p1> </br</p1>
+         <p1></p1> </br>
+         <p1></p1> </br>
+         <p1> </br</p1>
           <ul id="playlist">
             <h1>José Augusto</h1>
             <li class="current-song"> <a href="https://drive.google.com/uc?export&id=1-05hiU81aUff7qRdz48W7ZeOiBjDIyLT">1- Sábado</a></li>
