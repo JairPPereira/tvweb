@@ -11,7 +11,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="#7ac525" />
   <meta name="msapplication-navbutton-color" content="#7ac525" />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <title>TV Pluto</title>
+  <title>TV Grão Pará</title>
   <link href="./video-js.css" rel="stylesheet">
   <link href="./videojs-mobile-ui.css" rel="stylesheet">
   <link href="videojs-playlist-ui.css" rel="stylesheet">
@@ -37,11 +37,17 @@
 
 
 <body> 
+  <div class="player-container" width="100%">
 
-<div class="post-body"><iframe width="100%" height="640px" src="https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
-  <center>
-    <h1>Pluto filmes teste</h1></center>
- 
+    <video-js id="videojs-mobile-ui-player" class="video-js vjs-fluid vjs-big-play-centered vjs-default-skin" controls playsinline
+      poster="https://1.bp.blogspot.com/-M4p1WsKhb-A/YTyQpmq6_lI/AAAAAAAABDo/HrzkU7ZvUJw57ipC73vSKBp-AkViVmHeQCLcBGAsYHQ/s200/graopara200.png">
+      <source src="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus" type='application/x-mpegURL'>
+      <source src="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus" type='audio/mpeg'>      
+      <source src="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus" type='audio/ogg'>
+
+
+
+    </video-js>
 
 
     <script src="./video.js"></script>
@@ -68,25 +74,25 @@
       player.playlist([
 
       {
-        name: 'Pluto Tv',
+        name: 'Rádio Clube AM',
 
         sources: [
-        { src: 'https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus/hls/0-end/master.m3u8', type: 'application/x-mpegURL' },         
-          { src: 'https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus/hls/0-end/master.m3u8', type: 'audio/mpeg' },
-          { src: 'https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus/hls/0-end/master.m3u8', type: 'audio/ogg' },
+        { src: 'http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus', type: 'application/x-mpegURL' },         
+          { src: 'http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus', type: 'audio/mpeg' },
+          { src: 'http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus', type: 'audio/ogg' },
         ],
 
         thumbnail: [
           {
-            srcset: 'https://1.bp.blogspot.com/-ulHepfItHmQ/YUfgrKGDENI/AAAAAAAABIA/aOgpT5PNUGAw2bWg_dMlx19GH1YkA4o6wCLcBGAsYHQ/s0/plutotv200.jpg',
+            srcset: 'https://1.bp.blogspot.com/-M4p1WsKhb-A/YTyQpmq6_lI/AAAAAAAABDo/HrzkU7ZvUJw57ipC73vSKBp-AkViVmHeQCLcBGAsYHQ/s200/graopara200.png',
             type: 'image/png',
             media: '(min-width: 400px;)'
           },
           {
-            src: 'https://1.bp.blogspot.com/-ulHepfItHmQ/YUfgrKGDENI/AAAAAAAABIA/aOgpT5PNUGAw2bWg_dMlx19GH1YkA4o6wCLcBGAsYHQ/s0/plutotv200.jpg'
+            src: 'https://1.bp.blogspot.com/-M4p1WsKhb-A/YTyQpmq6_lI/AAAAAAAABDo/HrzkU7ZvUJw57ipC73vSKBp-AkViVmHeQCLcBGAsYHQ/s200/graopara200.png'
           }
         ],
-        poster: 'https://1.bp.blogspot.com/-ulHepfItHmQ/YUfgrKGDENI/AAAAAAAABIA/aOgpT5PNUGAw2bWg_dMlx19GH1YkA4o6wCLcBGAsYHQ/s0/plutotv200.jpg'
+        poster: 'https://1.bp.blogspot.com/-M4p1WsKhb-A/YTyQpmq6_lI/AAAAAAAABDo/HrzkU7ZvUJw57ipC73vSKBp-AkViVmHeQCLcBGAsYHQ/s200/graopara200.png'
       },
 
 
