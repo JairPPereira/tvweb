@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+    <meta charset=utf-8 />
+    <title>Filmes de Comédia</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="theme-color" content="##e7e7e7"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="##e7e7e7"/>
+    <meta name="msapplication-navbutton-color" content="##e7e7e7"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <style>
+    body, ul {
+      margin: 0px;
+      padding: 0px;
+
+    }
+
+    section {
+	max-width: 1280px;
+	margin: 0px auto 20px auto;
+        padding: 1rem;
+        gap: .5rem;
+}
+section::before, section::after {
+	content: '';
+	display: table;
+	clear: both;
+}
+.item-section {
+	padding: 0 10px;
+	float: left;
+        align-items: center;
+        
+}
+
+
+
+
+.item-section {
+	width: 33.3333%;
+        align-items: center;
+}
+    a {
+      color: black;
+      text-decoration: none;
+      font-family: sans-serif;
+    }
+
+    a:hover {
+      background: rgba(0, 0, 0, .05);
+    }
+    #Logo {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    #Header {
+      box-sizing: border-box;
+      height: 80px;
+      padding: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #e7e7e7;
+      gap: .5rem;
+
+    }
+    #area {
+        background: #a5afcd;   
+        align-items: center;  
+        padding: 1rem;
+        justify-content: space-between;
+        gap: .5rem;
+        margin-top: 5px;
+        width: 220px;
+    }
+    #menu {
+      display: flex;
+      list-style: none;
+      gap: .5rem;
+      font-size: 1.5rem;
+    }
+    #menu a {
+      display: block;
+      padding: .5rem;
+    }
+    #btn-mobile{
+      display: none;
+      background: #123ec3;  
+    }
+    @media (max-width: 736px){
+        .item-section {
+		width: 100%;
+
+	}
+      #btn-mobile {
+              
+        display: block;
+      }
+
+      #menu {
+        /*display: none;*/
+        display: block;
+        position: absolute;
+        width: 100%;
+        top: 70px;
+        right: 0px;
+        background: #e7e7e7;
+        height: 0px;
+        transition: .6s;
+        z-index: 1000;
+        visibility: hidden;
+        overflow-y: hidden;
+    
+
+      }
+      #nav.active #menu {
+
+        height: calc(100vh - 80px);
+        visibility: visible;
+        overflow-y: auto;
+
+      }
+      #menu a {
+        padding: 1rem 0;
+        margin: 0 1rem;
+        border-bottom: 2px solid rgba(0, 0, 0, .05);
+      }
+      #btn-mobile {
+        display: flex;
+        padding: .5rem 1rem;
+        font-size: 1rem;
+        border: none;
+        cursor: pointer;
+        gap: .5rem;
+
+    }
+    #hamburger{
+      border-top: 2px solid;
+      width: 20px;
+    }
+    #hamburger::after,  #hamburger::before {
+      content: '';
+      display: block;
+      width: 20px;
+      height: 2px;
+      background-color: currentColor;
+      margin-top: 5px;
+      transition: .3s;
+      position: relative;
+    }
+    #nav.active #hamburger {
+    border-top-color: transparent;
+    }
+    #nav.active #hamburger::before {
+      transform: rotate(135deg);
+
+    }
+
+    #nav.active #hamburger::after {
+
+      transform: rotate(-135deg);
+      top: -7px;
+      
+    }
+    .btn {
+        font-size: 18px;
+        background-color: rgb(207, 96, 31);
+        text-decoration: none;
+        margin-bottom: 30px;
+        width: 100%;
+        display: block;
+        text-align: center;
+
+}
+
+  }
+  </style>
+    <script>
+      window.onload = function() {
+          if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+              document.getElementById("botcel").style.display = "table";
+          }
+      }
+  </script>
+
+      
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+         
+    </head>
+    <body>
+
+     <section>
+	<div class="item-section">
+<!--coluna1-->
+
+
+<div class="btn">
+  <h1>  <a href="https://jairppereira.github.io/tvweb/filmesondemand/filmesp/2067/">2067</a></h1> </div>
+  <div class="btn">
+    <h1>  <a href="https://jairppereira.github.io/tvweb/filmesondemand/filmesp/cosmopolis/">Cosmópolis</a></h1> </div>
+<div class="btn">
+    <h1>  <a href="https://jairppereira.github.io/tvweb/filmesondemand/filmesp/airplanevsvolcano/">Airplane vs Volcano</a></h1> </div>
+    <div class="btn">
+      <h1>  <a href="https://jairppereira.github.io/tvweb/filmesondemand/filmesp/finch/">Finch</a></h1> </div>
+
+
+
+
+      
+               </div>           
+
+	<div class="item-section">
+<!--coluna2-->
+
+<div class="btn">            
+  <h1>    <a href="https://jairppereira.github.io/tvweb/filmesondemand/filmesp/cubo/">Cubo</a></h1></div>
+
+  <div class="btn">            
+  <h1>    <a href="https://jairppereira.github.io/tvweb/filmesondemand/filmesp/duna/">Duna</a></h1></div>
+
+<div class="btn">            
+    <h1>    <a href="https://jairppereira.github.io/tvweb/filmesondemand/filmesp/hoteldosdinossauros/">Hotel dos dinossauros</a></h1></div>
+    <div class="btn">            
+      <h1>    <a href="https://jairppereira.github.io/tvweb/filmesondemand/filmesp/residenteevil6/">Residente Evil 6 O capitulo final</a></h1></div>
+
+
+
+
+
+     </div>
+                    
+
+</section>
+
+
+
+
+
+
+   
+<div style="background-color: cadetblue; text-align: center;">
+
+        <h1>Página  para dispositivo mobile</h1>
+        <h1><a href="https://jairppereira.github.io/tvweb/filmesondemand/">
+                clique aqui</a></h1>                              
+</div>
+
+
+<div style="background-color: rgb(232, 236, 236); text-align: center;">
+
+        <h1>Baixe nosso aplicativos</h1>
+</div>
+<h1><a href="https://drive.google.com/file/d/11ogZyJzIU7Xnnk0XFEKxkwr4MRF8jowl/view?usp=sharing">Aplicativo
+                para windows</a></h1>
+
+<h1><a href="https://drive.google.com/file/d/1Ap-ZYZ-rbxSG7PtWMY6a8AbEOOzM09mM/view?usp=sharing">Aplicativo
+                para celular android</a></h1>
+
+
+
+<h2>Doações, Pix: jairppereira21@gmail.com</h2>
+
+
+
+<div style="background-color: cadetblue; text-align: center;">
+
+        <h1>Muito obrigado pela visita
+
+        </h1>
+
+</div>
+
+
+
+    </body>
+    <script>
+      const btnMobile = document.getElementById('btn-mobile');
+      function toggleMenu(event){
+        if  (event.type === 'touchstart') event.preventDefault();
+        const nav = document.getElementById('nav'); 
+        nav.classList.toggle('active');
+        const active = nav.classList.contains('active');
+        event.currentTarget.setAttribute('aria-expanded', active);
+        if(active){ event.currentTarget.setAttribute('aria-label', 'Fechar Menu');} else { event.currentTarget.setAttribute('aria-label', 'Abrir Menu');
+
+        }
+
+      }
+      btnMobile.addEventListener('click', toggleMenu);
+      btnMobile.addEventListener('touchstart', toggleMenu);
+    </script>
+    </html>
