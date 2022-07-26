@@ -1,48 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://vjs.zencdn.net/7.10.2/video-js.min.css" rel="stylesheet">
-    <script>window.HELP_IMPROVE_VIDEOJS = false;</script>
-    <title>Document</title>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title>Vids</title>
+    <link href="main.css" rel="stylesheet" type="text/css" />
 </head>
+
 <body>
-    <video
-    id="my-player"
-    class="video-js"
-    controls
-    preload="auto"
-    poster="https://vjs.zencdn.net/v/oceans.png"
-    data-setup='{}'>
-  <source src="https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1" type="application/x-mpegURL"></source>
-  <source src="https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1" type="video/mp4"></source>
-  <source src="https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1" type="video/webm"></source>
-  <source src="https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1" type="video/ogg"></source>
-  <p class="vjs-no-js">
-    To view this video please enable JavaScript, and consider upgrading to a
-    web browser that
-    <a href="https://videojs.com/html5-video-support/" target="_blank">
-      supports HTML5 video
-    </a>
-  </p>
-</video>
-    <script>
-        var options = {};
+  <embed type="application/x-vlc-plugin" pluginspage="http://www.videolan.org"
+  width="640"
+  height="480"
+  id="vlc" />
+  
+  <script type="text/javascript">
 
-var player = videojs('my-player', options, function onPlayerReady() {
-  videojs.log('Your player is ready!');
+  function start(){
+    var id = vlc.playlist.add("https://video.wixstatic.com/video/e16db6_d5b316180390481f901eee4fb7329687/1080p/mp4/file.mp4");
+    vlc.playlist.playItem(id);
+  }
+  window.addEventListener("load", start, false);
 
-  // In this context, `this` is the player that was created by Video.js.
-  this.play();
+  </script>
 
-  // How about an event listener?
-  this.on('ended', function() {
-    videojs.log('Awww...over so soon?!');
-  });
-});
-    </script>
-    <script src="https://vjs.zencdn.net/7.10.2/video.min.js"></script>
 </body>
+
 </html>
