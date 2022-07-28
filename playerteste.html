@@ -1,14 +1,39 @@
 <html lang="en">
   <head>
-    <title>ix-video in a static HTML file</title>
+    <title>ix-video in a static HTML file1</title>
     <!-- Note: type 'module' here is important -->
     <script type="module" src="https://unpkg.com/@imgix/ix-video@latest/dist/index.bundled.js"></script>
-  </head>
-  <body>
-    <h1>There is no bundler or bundling involved4!</h1>
-    <ix-video
-      controls
-      source="https://siloh-sp.plutotv.net/c6009f_pluto/clip/60c8b23e9c6d85001342994e_Driven_To_Kill_BR/720p/20210615_065927/hls/0-end/master.m3u8"
-    >
+  </head><body>
+    <h1>There is no bundler or bundling involved5!</h1>
+    <div>
+      <style>
+        
+        .red-play > .vjs-big-play-button {
+          background-color: red;
+          color: white;
+          transition: background-color ease-in-out 0.2s;
+        }
+        .red-play > .video-js:hover > .vjs-big-play-button {
+          background-color: coral;
+          color: white;
+          transition: background-color 0.2s;
+        }
+        .video-js:hover {
+          cursor: pointer;
+        }
+      </style>
+      <!-- 
+        * Add `red-play` class to ix-video that will make the play button red
+      -->
+      <ix-video
+        class="red-play"
+        width="300"
+        controls
+        source="https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        codecs="H.264"
+      ></ix-video>
+    </div>
+
   </body>
 </html>
+
