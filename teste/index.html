@@ -15,16 +15,16 @@
   </head>
   <body>
     <!-- Header -->
-    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+   <!-- <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
         <header class="mdl-layout__header">
-          <div class="mdl-layout__header-row">
+          <div class="mdl-layout__header-row">-->
             <!-- Title -->
-            <span class="mdl-layout-title">YouTube in Your App</span>
-            <!-- Add spacer, to align navigation to the right -->
-            <div class="mdl-layout-spacer"></div>
-            <!-- Navigation. We hide it in small screens. -->
-            <nav class="mdl-navigation">
-              <a class="mdl-navigation__link" href="#"><b>Demo</b></a>
+            <!-- <span class="mdl-layout-title">YouTube in Your App</Add spacer, to align navigation to the right -->
+           <!--  <div class="mdl-layout-spacer"></div>
+             Navigation. We hide it in small screens. -->
+        <!--  <header class="mdl-layout__header">
+           <nav class="mdl-navigation">-->
+             <!-- <a class="mdl-navigation__link" href="#"><b></b></a>
               <a class="mdl-navigation__link" href="player_control.html">Player Controls and Data</a>
               <a class="mdl-navigation__link" href="event_listeners.html">Event Listeners</a>
             </nav>
@@ -33,26 +33,37 @@
       <main class="mdl-layout__content">
         <div class="mdl-grid">
           <div class="mdl-cell mdl-cell--5-col">
-            <!-- The iframe video player will replace this <div> tag. -->
+           The iframe video player will replace this <div> tag. -->
             <div id="player"></div>
           </div>
           <div class="mdl-cell mdl-cell--7-col">
             <!-- This table contains editable video on the video in the iframe -->
             <table class="mdl-data-table">
-              
+              <tr>
+                <td  class="mdl-data-table__cell--non-numeric">VideoID</td>
+                <td id="video_id"></td>
+                <td class="mdl-data-table__cell--non-numeric">
+                  <input id="video_idOption" type="text">
+                  <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" onClick="loadNewVideo()">Load</button>
+                  <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" onClick="cueNewVideo()">Cue</button>
+                </td>
+              </tr><tr>
+                <td  class="mdl-data-table__cell--non-numeric">Status</td>
                 <td id="status"></td>
                 <td class="mdl-data-table__cell--non-numeric">
-
+                  <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" onClick="playVideo()">Play</button>
+                  <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" onClick="pauseVideo()">Pause</button>
+                  <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" onClick="stopVideo()">Stop</button>
                 </td>
               </tr><tr>
-                
+                <td  class="mdl-data-table__cell--non-numeric">Current Progress</td>
                 <td id="currentTime"></td>
                 <td  class="mdl-data-table__cell--non-numeric">
-                  
-                  
+                  <input id="currentTimeOption" type="text">
+                  <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" onClick="seekTo()">Seek</button>
                 </td>
               </tr><tr>
-                
+                <td  class="mdl-data-table__cell--non-numeric">Volume (0-100)</td>
                 <td id="volume"></td>
                 <td  class="mdl-data-table__cell--non-numeric">
                   <input id="volumeOption" type="text">
@@ -87,7 +98,7 @@
         </div>
         <div class="mdl-grid">
           <div class="mdl-cell mdl-cell--4-col">
-            <!-- This table contains metadata on the video in the iframe -->
+            This table contains metadata on the video in the iframe 
             <table class="mdl-data-table">
               <tr>
                 <td class="mdl-data-table__cell--non-numeric">Title</td>
