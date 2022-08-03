@@ -1,84 +1,25 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Add React in One Minute</title>
+  </head>
   <body>
-    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
-    <div id="player"></div>
-    
 
-    <script>
-      // 2. This code loads the IFrame Player API code asynchronously.
-      var tag = document.createElement('script');
+    <h2>Add React in One Minute</h2>
+    <p>This page demonstrates using React with no build tooling.</p>
+    <p>React is loaded as a script tag.</p>
 
-      tag.src = "https://www.youtube.com/iframe_api";
-      var firstScriptTag = document.getElementsByTagName('script')[0];
-      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+    <!-- We will put our React component inside this div. -->
+    <div id="like_button_container"></div>
 
-      // 3. This function creates an <iframe> (and YouTube player)
-      //    after the API code downloads.
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player', {
-          height: '360',
-          width: '640',
-          videoId: 'ABVQXgr2LW4',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
-      }
+    <!-- Load React. -->
+    <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+    <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
 
+    <!-- Load our React component. -->
+    <script src="like_button.js"></script>
 
-      // 4. The API will call this function when the video player is ready.
-      function onPlayerReady(event) {
-        event.target.playVideo();
-      }
-
-      // 5. The API calls this function when the player's state changes.
-      //    The function indicates that when playing a video (state=1),
-      //    the player should play for six seconds and then stop.
-      var done = false;
-      function onPlayerStateChange(event) {
-        if (event.data == YT.PlayerState.PLAYING && !done) {
-          setTimeout(none);
-          done = true;
-        }
-      }
-      function stopVideo() {
-        player.stopVideo();
-      }
-      function onPlayerStateChange(event){
-  // Get current state
-  // Video has ended
-  switch (event.data) {
-    case YT.PlayerState.ENDED:
-      updateAll() // set status for state, ...
-      clearIntervals() // clear all intervals
-      break;
-    case YT.PlayerState.PLAYING:
-      updateAll() // set status for state, ...
-      setIntervals() // set intervals for ...
-      break;
-    case YT.PlayerState.PAUSED:
-      updateAll() // set status for state, ...
-      clearIntervals() // clear all intervals
-      break;
-    case YT.PlayerState.BUFFERING:
-      updateAll() // set status for state, ...
-      clearIntervals() // clear all intervals
-      break;
-    case YT.PlayerState.CUED:
-      updateAll() // set status for state, ...
-      clearIntervals() // clear all intervals
-      break;
-    default:
-      updateAll() // set status for state, ...
-      clearIntervals() // clear all intervals
-      break;
-
-  }
-};
-      
-    </script>
   </body>
 </html>
