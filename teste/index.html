@@ -3,6 +3,7 @@
   <body>
     <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
     <div id="player"></div>
+    
 
     <script>
       // 2. This code loads the IFrame Player API code asynchronously.
@@ -46,6 +47,37 @@
       function stopVideo() {
         player.stopVideo();
       }
+      function onPlayerStateChange(event){
+  // Get current state
+  // Video has ended
+  switch (event.data) {
+    case YT.PlayerState.ENDED:
+      updateAll() // set status for state, ...
+      clearIntervals() // clear all intervals
+      break;
+    case YT.PlayerState.PLAYING:
+      updateAll() // set status for state, ...
+      setIntervals() // set intervals for ...
+      break;
+    case YT.PlayerState.PAUSED:
+      updateAll() // set status for state, ...
+      clearIntervals() // clear all intervals
+      break;
+    case YT.PlayerState.BUFFERING:
+      updateAll() // set status for state, ...
+      clearIntervals() // clear all intervals
+      break;
+    case YT.PlayerState.CUED:
+      updateAll() // set status for state, ...
+      clearIntervals() // clear all intervals
+      break;
+    default:
+      updateAll() // set status for state, ...
+      clearIntervals() // clear all intervals
+      break;
+
+  }
+};
       
     </script>
   </body>
