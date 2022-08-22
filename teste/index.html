@@ -11,7 +11,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="#7ac525" />
   <meta name="msapplication-navbutton-color" content="#7ac525" />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <title>RBA TV</title>
+  <title>Tv Nova Play </title>
   <link href="./video-js.css" rel="stylesheet">
   <link href="./videojs-mobile-ui.css" rel="stylesheet">
   <link href="videojs-playlist-ui.css" rel="stylesheet">
@@ -39,10 +39,15 @@
 <body> 
   <div class="player-container" width="100%">
 
-    <div class="player-container" width="100%">
-        <div class="flowplayer-embed-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width:100%;">
-            <iframe webkitAllowFullScreen mozallowfullscreen allowfullscreen src="https://ljsp.lwcdn.com/api/video/embed.jsp?id=13b00c3c-8c38-4c36-9811-1b41dcff6a5c&pi=bf2e70f3-8fc5-409b-b108-a2188b7e05d2" title="0" byline="0" portrait="0" frameborder="0" allow="autoplay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-          </div>
+    <video-js id="videojs-mobile-ui-player" class="video-js vjs-fluid vjs-big-play-centered vjs-default-skin" controls playsinline
+      poster="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKrPWddMg9FitTvfHYPc17QBSde48BTUItuJ--mfGh4moaNw0g5WbP9ltwbOcxvvdohkKb7d-ndjzwFibjNynjA8AnmWF8B3kH4qNTqbARvBDbW8K-tX9UdNf1IVdI6tRvOOObaTOHA5BlZzPYTYhApWHrzjlKTnczG-5aBs8bQk-qhyeS3G5_3GM/s1600/novaplay.webp" >
+      <source src="https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1049/playlist.m3u8" type='application/x-mpegURL'> 
+      <source src="https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1049/playlist.m3u8" type='audio/mpeg'>      
+      <source src="https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1049/playlist.m3u8" type='audio/ogg'>
+
+
+
+    </video-js>
 
 
     <script src="./video.js"></script>
@@ -69,25 +74,25 @@
       player.playlist([
 
       {
-        name: 'RBA TV',
+        name: 'Tv Nova Play',
 
         sources: [
-        { src: 'https://streaming.gruporba.com.br/rba.m3u8', type: 'application/x-mpegURL' },  
-        { src: 'https://streaming.gruporba.com.br/rba.m3u8', type: 'application/flash' },       
-
+        { src: 'https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1049/playlist.m3u8', type: 'application/x-mpegURL' },         
+          { src: 'https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1049/playlist.m3u8', type: 'audio/mpeg' },
+          { src: 'https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1049/playlist.m3u8', type: 'audio/ogg' },
         ],
 
         thumbnail: [
           {
-            srcset: 'https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg',
+            srcset: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKrPWddMg9FitTvfHYPc17QBSde48BTUItuJ--mfGh4moaNw0g5WbP9ltwbOcxvvdohkKb7d-ndjzwFibjNynjA8AnmWF8B3kH4qNTqbARvBDbW8K-tX9UdNf1IVdI6tRvOOObaTOHA5BlZzPYTYhApWHrzjlKTnczG-5aBs8bQk-qhyeS3G5_3GM/s1600/novaplay.webp',
             type: 'image/png',
             media: '(min-width: 400px;)'
           },
           {
-            src: 'https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg'
+            src: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKrPWddMg9FitTvfHYPc17QBSde48BTUItuJ--mfGh4moaNw0g5WbP9ltwbOcxvvdohkKb7d-ndjzwFibjNynjA8AnmWF8B3kH4qNTqbARvBDbW8K-tX9UdNf1IVdI6tRvOOObaTOHA5BlZzPYTYhApWHrzjlKTnczG-5aBs8bQk-qhyeS3G5_3GM/s1600/novaplay.webp'
           }
         ],
-        poster: 'https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg'
+        poster: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKrPWddMg9FitTvfHYPc17QBSde48BTUItuJ--mfGh4moaNw0g5WbP9ltwbOcxvvdohkKb7d-ndjzwFibjNynjA8AnmWF8B3kH4qNTqbARvBDbW8K-tX9UdNf1IVdI6tRvOOObaTOHA5BlZzPYTYhApWHrzjlKTnczG-5aBs8bQk-qhyeS3G5_3GM/s1600/novaplay.webp'
       },
 
 
@@ -194,47 +199,6 @@
 
   
 </script>   
-<h1>Canais de Tvs</h1> 
-<nav>
-      <a href="https://jairppereira.github.io/tvweb/recordnews/">Record News</a>
-              <p><br /></p>
-      <a href="https://jairppereira.github.io/tvweb/sbt/">SBT PARÁ</a>
-              <p><br /></p>
-              <a href="https://jairppereira.github.io/tvweb/tvnovotempo/">TV NOVO TEMPO</a>
-              <p><br /></p>
-              <a href="view-source:https://jairppereira.github.io/tvweb/graopara/">TV GRÃO PARÁ</a>
-              <p><br /></p>
-
- </nav></div>
-<div className="nave">
-  <h1>Rádios</h1>
-   <nav>
-   <a href="http://www.jpwebtv.epizy.com/passado/">Musicas do passado</a>
-           <p><br /></p>
-   <a href="http://www.jpwebtv.epizy.com/aparelhagem/?i=1">Musicas das aparelhagens</a>
-           <p><br /></p>
-   <a href="http://www.jpwebtv.epizy.com/tophits/?i=1">Top hits</a>
-           <p><br /></p>
-
-  <a href="http://www.jpwebtv.epizy.com/atualidade/?i=1">Musicas da atualidade</a>
-           <p><br /></p>         
-
-
-  <a href="http://www.jpwebtv.epizy.com/rauland/?i=1">Rádio Rauland FM</a>
-           <p><br /></p>  
-
- 
-  <a href="http://www.jpwebtv.epizy.com/liberalfm/?i=1">Rádio Liberal FM
-  </a>
-           <p><br /></p>  
-
-      <a href="https://jairppereira.github.io/tvweb/mixbelem/?i=1">Radio Mix Belém</a>
-           <p><br /></p>                
-   </nav></div>
-   <a href="https://jairppereira.github.io/tvweb/99fm/?i=1">Radio 99 FM</a>
-   <p><br /></p>                
-</nav>
-</div>
 
 
 </body>
