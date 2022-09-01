@@ -1,67 +1,82 @@
-<!doctype html>
-<html lang="pt-br">
+<!DOCTYPE html>
+<html>
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="theme-color" content="#7ac525" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="#7ac525" />
-  <meta name="msapplication-navbutton-color" content="#7ac525" />
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <title>Tv Nova Play </title>
-  <link href="./video-js.css" rel="stylesheet">
-  <link href="./videojs-mobile-ui.css" rel="stylesheet">
-  <link href="videojs-playlist-ui.css" rel="stylesheet">
-  <style>
-    body {
-      background-color: #7ac525;
-      width: auto;
-      height: auto;
-    }
-  </style>
-  <style>
-    .testEl {
-      width: 10%;
-      height: 10%;
-      position: absolute;
-      top: 0;
-      pointer-events: none;
-      display: none;
-    }
-  </style>
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <meta charset="utf-8">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+    <title>Exemplo: Listando vídeos de canais do YouTube</title>
+    <style>
+        body, html{
+            margin: 0;
+            padding: 0;
+        }
+        #content{
+            max-width: 960px;
+            margin: 0 auto;
+        }
+        .video-item{
+            display: block;
+            float: left;            
+            width: 50%;
+        }
+        .video-item a{
+            text-decoration: none;
+            color: black;
+        }
+        .video-item a:hover{
+            text-decoration: underline;
+            opacity: 0.7;
+        }
+        .video-item img, .video-item p, .video-item h2{
+            width: 100%;
+            height: auto;
+        }
+        .video-item .content{
+            padding: 5px;
+        }
+        h1{
+            text-align: center;
+        }
+        h2{
+            font-size: 20px;
+        }
+    </style>    
 </head>
 
+<body>
+    <div id="content">
+        <h1>Lista de vídeos de um canal do YouTube</h1>
 
-<body> 
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  <video id="video"></video>
- 
-
-  <script>
-    var video = document.getElementById('video');
-    if(Hls.isSupported()) {
-      var hls = new Hls();
-      hls.loadSource('https://live-lib-pa-01.video.globo.com/d/s/hls-globo-bel/playlist.m3u8?h=0401661715722646671003216616293229605779092kss0Zs5ksrtCqvcU9392vQ&k=html5&a=F&u=86b5c605-29bd-49ee-94fd-38157902dfa7');
-      hls.attachMedia(video);
-      hls.on(Hls.Events.MANIFEST_PARSED,function() {
-        video.play();
-    });
-   }
-
-    else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-      video.src = 'https://live-lib-pa-01.video.globo.com/d/s/hls-globo-bel/playlist.m3u8?h=0401661715722646671003216616293229605779092kss0Zs5ksrtCqvcU9392vQ&k=html5&a=F&u=86b5c605-29bd-49ee-94fd-38157902dfa7';
-      video.addEventListener('canplay',function() {
-        video.play();
-      });
-    }
-  </script>  
-
-
+        
+        <div id="container"></div>
+    </div>    
+    <script type="text/javascript">
+        //cria uma lista com os vídeos do canal especificado
+        function funcaoCallback(json){
+            var videos = json.items; //array com os vídeos
+            var youtubeUrl = 'https://www.youtube.com/watch?v='; //padrão de URL do YouTube
+            var output_html = "";
+            for(i = 0; i < videos.length; i++){
+                output_html += "<div class=\"video-item\">";
+                output_html += "<div class=\"content\">";
+                output_html += "<a href=\"" + youtubeUrl + videos[i].id.videoId + "\">";
+                output_html += "<img src=\""+ videos[i].snippet.thumbnails.medium.url+"\" width=\"" 
+                                            + videos[i].snippet.thumbnails.medium.width + "\" height=\"" 
+                                            + videos[i].snippet.thumbnails.medium.height +"\"/>";
+                output_html += "<h2>";                
+                output_html += videos[i].snippet.title.substr(0, 70);
+                output_html += "</h2>";
+                output_html += "<p>";
+                output_html += videos[i].snippet.description.substr(0, 90);
+                output_html += "</p>";
+                output_html += "</a>";
+                output_html += "</div>";
+                output_html += "</div>";
+            }
+            document.getElementById("container").innerHTML = output_html;
+        }        
+    </script>
+    <script async src="https://www.googleapis.com/youtube/v3/search?part=id%2Csnippet&channelId=UC50yXICWo_L06bhyjalp9yg&key=AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI&maxResults=3&type=video&order=date&fields=items(id(videoId)%2Csnippet(title%2Cdescription%2Cthumbnails(medium)))&prettyPrint=false&callback=funcaoCallback"></script>
 </body>
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
 </html>
