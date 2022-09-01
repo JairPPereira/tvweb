@@ -54,7 +54,7 @@
         //cria uma lista com os vídeos do canal especificado
         function funcaoCallback(json){
             var videos = json.items; //array com os vídeos
-            var youtubeUrl = 'https://www.youtube.com/watch?v='; //padrão de URL do YouTube
+            var youtubeUrl = 'https://www.youtube.com/watch?v=0f9PBsnFmmc&list='; //padrão de URL do YouTube
             var output_html = "";
             for(i = 0; i < videos.length; i++){
                 output_html += "<div class=\"video-item\">";
@@ -77,6 +77,9 @@
         }        
     </script>
     <script async src="https://www.googleapis.com/youtube/v3/search?part=id%2Csnippet&channelId=UC50yXICWo_L06bhyjalp9yg&key=AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI&maxResults=3&type=video&order=date&fields=items(id(videoId)%2Csnippet(title%2Cdescription%2Cthumbnails(medium)))&prettyPrint=false&callback=funcaoCallback"></script>
+
+
+    
 </body>
 
 </html>
