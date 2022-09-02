@@ -1,85 +1,62 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <!--Import Google Icon Font-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="./materialize.min.css"/>
 
-<head>
-    <meta charset="utf-8">
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
-    <title>Exemplo: Listando vídeos de canais do YouTube</title>
-    <style>
-        body, html{
-            margin: 0;
-            padding: 0;
-        }
-        #content{
-            max-width: 960px;
-            margin: 0 auto;
-        }
-        .video-item{
-            display: block;
-            float: left;            
-            width: 50%;
-        }
-        .video-item a{
-            text-decoration: none;
-            color: black;
-        }
-        .video-item a:hover{
-            text-decoration: underline;
-            opacity: 0.7;
-        }
-        .video-item img, .video-item p, .video-item h2{
-            width: 100%;
-            height: auto;
-        }
-        .video-item .content{
-            padding: 5px;
-        }
-        h1{
-            text-align: center;
-        }
-        h2{
-            font-size: 20px;
-        }
-    </style>    
-</head>
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
 
-<body>
-    <div id="content">
-        <h1>Lista de vídeos de um canal do YouTube</h1>
+  <body>
 
-        
-        <div id="container"></div>
-    </div>    
-    <script type="text/javascript">
-        //cria uma lista com os vídeos do canal especificado
-        function funcaoCallback(json){
-            var videos = json.items; //array com os vídeos
-            var youtubeUrl = 'https://www.youtube.com/watch?v=0f9PBsnFmmc&list='; //padrão de URL do YouTube
-            var output_html = "";
-            for(i = 0; i < videos.length; i++){
-                output_html += "<div class=\"video-item\">";
-                output_html += "<div class=\"content\">";
-                output_html += "<a href=\"" + youtubeUrl + videos[i].id.videoId + "\">";
-                output_html += "<img src=\""+ videos[i].snippet.thumbnails.medium.url+"\" width=\"" 
-                                            + videos[i].snippet.thumbnails.medium.width + "\" height=\"" 
-                                            + videos[i].snippet.thumbnails.medium.height +"\"/>";
-                output_html += "<h2>";                
-                output_html += videos[i].snippet.title.substr(0, 70);
-                output_html += "</h2>";
-                output_html += "<p>";
-                output_html += videos[i].snippet.description.substr(0, 90);
-                output_html += "</p>";
-                output_html += "</a>";
-                output_html += "</div>";
-                output_html += "</div>";
-            }
-            document.getElementById("container").innerHTML = output_html;
-        }        
+    <div class="container-fluid">
+        <iframe class="lazyload"
+        src="https://www.youtube.com/embed/ABVQXgr2LW4?autoplay=true"
+        height="620px"
+        width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+        target="_blank"
+            scrolling="no"
+            data-draggable="none"
+            marginwidth="0"
+            marginheight="0"
+            data-popup="none" 
+            frameborder="0"
+        > </iframe>
+    </div>
+    <!--JavaScript at end of body for optimized loading-->
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="materialize.min.js"></script>
+    <script>
+        $(function(){
+        $.ajax({
+     url: 'https://www.googleapis.com/youtube/v3/playlists',
+     method:'get',
+     dataType: 'json',
+     data: {
+      part:'snippet',
+      key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
+      channelId:'UC50yXICWo_L06bhyjalp9yg'
+      },
+  success: function(response) {
+    console.log(response)
+    $.each(response.items, function(index, iten){
+        $('.container-fluid').append('<div class="row"><div class="col s12 m7"><div class="card"><div class="card-image"><img src="'+ iten.snippet.thumbnails.standard.url +'"></div><div class="card-content"><span class="card-title">'+ iten.snippet.title +'</span><p>'+ iten.snippet.description +'</p></div><div class="card-action"><a class="btn" href="#">Ver mais</a></div></div></div></div>')
+
+    })
+
+  },
+  error: function(error) {
+    console.log(error)
+  }
+})
+
+})
+
+
     </script>
-    <script async src="https://www.googleapis.com/youtube/v3/search?part=id%2Csnippet&channelId=UC50yXICWo_L06bhyjalp9yg&key=AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI&maxResults=3&type=video&order=date&fields=items(id(videoId)%2Csnippet(title%2Cdescription%2Cthumbnails(medium)))&prettyPrint=false&callback=funcaoCallback"></script>
-
-
-    
-</body>
-
+  </body>
 </html>
