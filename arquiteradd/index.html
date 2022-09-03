@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+    <title>Exemplo: Listando vídeos de canais do YouTube</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+            
+    <style>
+        body, html{
+            margin: 0;
+            padding: 0;
+        }
+        #content{
+            max-width: 960px;
+            margin: 0 auto;
+        }
+        .video-item{
+            display: block;
+            float: left;            
+            width: 50%;
+        }
+        .video-item a{
+            text-decoration: none;
+            color: black;
+        }
+        .video-item a:hover{
+            text-decoration: underline;
+            opacity: 0.7;
+        }
+        .video-item img, .video-item p, .video-item h2{
+            width: 100%;
+            height: auto;
+        }
+        .video-item .content{
+            padding: 5px;
+        }
+        h1{
+            text-align: center;
+        }
+        h2{
+            font-size: 20px;
+        }
+    </style>    
+</head>
+
+<body>
+    
+        
+    <div class="container" width="100%">
+        <iframe class="lazyload"
+        src="https://www.youtube.com/embed/1Sg-g9wnIbk"
+        height="620px"
+        width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+        target="_blank"
+            scrolling="no"
+            data-draggable="none"
+            marginwidth="0"
+            marginheight="0"
+            data-popup="none" 
+            frameborder="0"
+        > </iframe></div>
+        <center><h1>Filmes do Canal</h1></center>
+
+
+    </div>
+    
+    <!--JavaScript at end of body for optimized loading-->
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="materialize.min.js"></script>
+    <script>
+        $(function(){
+        $.ajax({
+     url: 'https://youtube.googleapis.com/youtube/v3/videos',
+     method:'get',
+     dataType: 'json',
+     data: {
+      part:'snippet',
+      kind:'youtube#videoListResponse',
+      key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
+      id: '1Sg-g9wnIbk',
+      
+      maxResults:'18',
+       
+   
+   
+      
+     
+ 
+
+      
+      },
+  success: function(response) {
+    console.log(response)
+    $.each(response.items, function(index, iten){
+        $('.container').append('<div class="row"><div class="col s12 m7"><div class="card"><div class="card-image"><img src="'+ iten.snippet.thumbnails.standard.url +'"></div><div class="card-content"><span class="card-title">'+ iten.snippet.title +'</span><p>'+ iten.snippet.description +'</p></div><div class="card-action"><div class="card-action"><a href="/1Sg-g9wnIbk">This is a link</a></div></div></div></div></div>')
+
+    })
+
+  },
+  error: function(error) {
+    console.log(error)
+  }
+})
+
+})
+
+
+    </script>
+
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="materialize.min.js"></script>
+<script>
+    $(function(){
+    $.ajax({
+ url: 'https://www.googleapis.com/youtube/v3/playlistItems',
+ method:'get',
+ dataType: 'json',
+ data: {
+  part:'snippet',
+  kind:'youtube#videoListResponse',
+  key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
+  playlistId:'PLQp-UAdzge47nte4vXsnIDBeQjAQSzfyc',
+  videoId: '0f9PBsnFmmc',
+  
+  maxResults:'18',
+   
+
+
+  
+ 
+
+
+  
+  },
+success: function(response) {
+console.log(response)
+$.each(response.items, function(index, iten){
+    $('.container').append('<div class="row"><div class="col s12 m7"><div class="card"><div class="card-image"><img src="'+ iten.snippet.thumbnails.standard.url +'"></div><div class="card-content"><span class="card-title">'+ iten.snippet.title +'</span><p>'+ iten.snippet.description +'</p></div><div class="card-action"><div class="card-action"><a href="/1Sg-g9wnIbk">This is a link</a></div></div></div></div></div>')
+
+})
+
+},
+error: function(error) {
+console.log(error)
+}
+})
+
+})
+
+
+</script>
+    
+</body>
+
+</html>
