@@ -51,7 +51,7 @@
 <body>
     <div class="player-container" width="100%">
         <iframe class="lazyload"
-        src="https://www.youtube.com/embed/videoseries?list=PLQp-UAdzge45xJ_4LiduttKsTSsiDB15o"
+        src="https://www.youtube.com/embed/1Sg-g9wnIbk"
         height="620px"
         width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         target="_blank"
@@ -75,16 +75,17 @@
     <script>
         $(function(){
         $.ajax({
-     url: 'https://www.googleapis.com/youtube/v3/playlistItems',
+     url: 'https://youtube.googleapis.com/youtube/v3/videos',
      method:'get',
      dataType: 'json',
      data: {
       part:'snippet',
       kind:'youtube#videoListResponse',
       key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
-      playlistId:'PLhQTgJ8wVv-ny_y93DFQMVKqpApzWU-tY',
-      maxResults:'9',
+      id: '1Sg-g9wnIbk',
       
+      maxResults:'18',
+       
    
    
       
