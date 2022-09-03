@@ -49,9 +49,23 @@
 </head>
 
 <body>
-
+    <div class="player-container" width="100%">
+        <iframe class="lazyload"
+        src="https://www.youtube.com/embed/videoseries?list=PLQp-UAdzge45xJ_4LiduttKsTSsiDB15o"
+        height="620px"
+        width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+        target="_blank"
+            scrolling="no"
+            data-draggable="none"
+            marginwidth="0"
+            marginheight="0"
+            data-popup="none" 
+            frameborder="0"
+        > </iframe></div>
+        <center><h1>Filmes do Canal</h1></center>
 
     <div class="container">
+        
 
     </div>
     
@@ -68,8 +82,10 @@
       part:'snippet',
       kind:'youtube#videoListResponse',
       key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
-      playlistId:'PLQp-UAdzge459K4ZrN3DWXmyfnNdU3K26',
-      maxResults:'20',
+      playlistId:'PLhQTgJ8wVv-ny_y93DFQMVKqpApzWU-tY',
+      maxResults:'9',
+      
+   
    
       
      
@@ -80,7 +96,7 @@
   success: function(response) {
     console.log(response)
     $.each(response.items, function(index, iten){
-        $('.container').append('<div class="row"><div class="col s12 m7"><div class="card"><div class="card-image"><img src="'+ iten.snippet.thumbnails.standard.url +'"></div><div class="card-content"><span class="card-title">'+ iten.snippet.title +'</span><p>'+ iten.snippet.description +'</p></div><div class="card-action"><a class="btn" href="#">Ver mais</a></div></div></div></div>')
+        $('.container').append('<div class="row"><div class="col s12 m7"><div class="card"><div class="card-image"><img src="'+ iten.snippet.thumbnails.standard.url +'"></div><div class="card-content"><span class="card-title">'+ iten.snippet.title +'</span><p>'+ iten.snippet.description +'</p></div><div class="card-action"></div></div></div></div>')
 
     })
 
