@@ -642,5 +642,20 @@ section::before, section::after {
 <script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/2466/4e7ec0be2f0f88ca7352a90b155d55b0238ff548/lib.js"></script>
 
     </body>
+    <script>
+      const btnMobile = document.getElementById('btn-mobile');
+      function toggleMenu(event){
+        if  (event.type === 'touchstart') event.preventDefault();
+        const nav = document.getElementById('nav'); 
+        nav.classList.toggle('active');
+        const active = nav.classList.contains('active');
+        event.currentTarget.setAttribute('aria-expanded', active);
+        if(active){ event.currentTarget.setAttribute('aria-label', 'Fechar Menu');} else { event.currentTarget.setAttribute('aria-label', 'Abrir Menu');
 
+        }
+
+      }
+      btnMobile.addEventListener('click', toggleMenu);
+      btnMobile.addEventListener('touchstart', toggleMenu);
+    </script>
     </html>
