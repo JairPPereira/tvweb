@@ -36,6 +36,7 @@
     <a class="waves-effect waves-light btn-large"><input type="button" value="opção 1" onclick="clicou1()"></a>
     <a class="waves-effect waves-light btn-large"><input type="button" value="opção 2" onclick="clicou2()"></a>
     <a class="waves-effect waves-light btn-large"><input type="button" value="opção 3" onclick="clicou3()"></a>
+    <a class="waves-effect waves-light btn-large"><input type="button" value="opção 4" onclick="clicou4()"></a>
    
  
  
@@ -47,8 +48,21 @@
   var player = window.document.querySelector("div#player")
 
 
-  var video3 = ` <iframe class="lazyload"
+  var video4 = ` <iframe class="lazyload"
   src="https://player.aovivotv.xyz/channels/cnnbrasil/external"
+  height="620px"
+  width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+  target="_blank"
+      scrolling="no"
+      data-draggable="none"
+      marginwidth="0"
+      marginheight="0"
+      data-popup="none" 
+      frameborder="0"
+  > </iframe>`
+
+  var video3 = ` <iframe class="lazyload"
+  src="https://embed.superfutebol.tv/embed/18fcd5d2-1018-4104-b208-870614b95c65"
   height="620px"
   width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
   target="_blank"
@@ -96,6 +110,10 @@
 
   function clicou3(){
       player.innerHTML = video3
+  }
+
+  function clicou4(){
+      player.innerHTML = video4
   }
   
  
