@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#121111" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#121111" />
+  <meta name="msapplication-navbutton-color" content="#121111" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <title>TELECINE PIPOCA</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <style>
+    body {
+      background-color:#121111;
+      width: auto;
+      height: auto;
+    }
+  </style>
+
+</head>
+
+
+<body> 
+<p></p>
+<div class="container" width="100%"><center>
+  <div id="player">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png" height="500px" width="100%" alt="logo player">
+    </div>
+    <a class="waves-effect waves-light btn-large"><input type="button" value="opção 1" onclick="clicou1()"></a>
+    <a class="waves-effect waves-light btn-large"><input type="button" value="opção 2" onclick="clicou2()"></a>
+   
+ 
+ 
+
+  </center>
+</div>
+
+<script>
+  var player = window.document.querySelector("div#player")
+
+
+  var video2 = ` <iframe class="lazyload"
+  src="https://embedflix.net/tv/telecine-pipoca-hd"
+  height="620px"
+  width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+  target="_blank"
+      scrolling="no"
+      data-draggable="none"
+      marginwidth="0"
+      marginheight="0"
+      data-popup="none" 
+      frameborder="0"
+  > </iframe>`
+
+  var video = `<iframe class="lazyload"
+  src="https://canais.m3u8live.ml/v.php?id=TelecinePipoca"
+  height="620px"
+  width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+  target="_blank"
+      scrolling="no"
+      data-draggable="none"
+      marginwidth="0"
+      marginheight="0"
+      data-popup="none" 
+      frameborder="0"
+  > </iframe>`
+
+  function clicou1(){
+      player.innerHTML = video
+  }
+
+  function clicou2(){
+      player.innerHTML = video2
+  }
+  
+ 
+
+
+</script>
+  
+
+
+</body>
+
+</html>
