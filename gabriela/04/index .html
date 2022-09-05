@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#121111" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#121111" />
+  <meta name="msapplication-navbutton-color" content="#121111" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <title>Gabriela</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <link href="video-js.css" rel="stylesheet">
+  <link href="videojs-mobile-ui.css" rel="stylesheet">
+  <link href="videojs-playlist-ui.css" rel="stylesheet">
+  <style>
+    body {
+      background-color:#121111;
+      width: auto;
+      height: auto;
+    }
+  </style>
+  <style>
+    .testEl {
+      width: 10%;
+      height: 10%;
+      position: absolute;
+      top: 0;
+      pointer-events: none;
+      display: none;
+    }
+  </style>
+
+</head>
+
+
+<body> 
+  <div class="container" width="100%">
+<p></p>
+    <video-js id="videojs-mobile-ui-player" class="video-js vjs-fluid vjs-big-play-centered vjs-default-skin" controls playsinline
+      poster="https://www.themoviedb.org/t/p/w500_and_h282_face/y7TyEYVynoWxA3SCoY91VSJwSy7.jpg">
+      <source src="https://lb2x01.g1novelas.top/stream/720/zkTpMciirIq8vGB/__001" type='video/mp4'>
+      <source src="https://lb2x01.g1novelas.top/stream/720/zkTpMciirIq8vGB/__001" type='application/flash'>
+
+
+
+
+    </video-js></div>
+
+
+    <script src="video.js"></script>
+    <script src="videojs-mobile-ui.js"></script>
+    <script src="videojs-playlist.js"></script>
+    <script src="videojs-playlist-ui.js"></script>
+
+    <script>
+      var player = videojs('videojs-mobile-ui-player', {
+
+
+        fluid: true,
+        controls: true,
+        aspectRatio: '4:3',
+
+
+
+      },
+
+      );
+
+
+      player.playlistUi({ horizontal: true },);
+      player.playlist.autoadvance(0);
+
+
+
+
+
+
+
+    </script>
+
+
+    <script>
+      (function (window, videojs) {
+        var options = {
+          fullscreen: {
+            enterOnRotate: true,
+            exitOnRotate: true,
+            lockOnRotate: true,
+            iOS: false,
+            disabled: false
+          },
+          touchControls: {
+            seekSeconds: 10,
+            tapTimeout: 300,
+            disableOnEnd: false,
+            disabled: false
+          }
+        };
+
+        var url = new URL(window.location);
+        if (url.searchParams.has('options')) {
+          options = JSON.parse(url.searchParams.get('options'));
+        }
+
+        console.log(JSON.stringify(options, null, 2));
+
+        Object.keys(options).forEach(function (section) {
+          Object.keys(options[section]).forEach(function (prop) {
+            const val = options[section][prop];
+
+            if (prop === 'disabled') {
+              prop = `${section}Disabled`;
+            }
+
+            if (typeof val === 'boolean') {
+              document.getElementById(prop).checked = val;
+            }
+            if (typeof val === 'number') {
+              document.getElementById(prop).value = val;
+            }
+          });
+        });
+
+        document.getElementById('options').querySelectorAll('input').forEach(function (opt) {
+          opt.addEventListener('change', function () {
+            if (this.type === 'checkbox') {
+              const param = this.id.endsWith('Disabled') ? 'disabled' : this.id;
+
+              options[this.getAttribute('data-section')][param] = this.checked;
+            } else {
+              options[this.getAttribute('data-section')][this.id] = parseFloat(this.value);
+            }
+            console.log(options);
+          });
+        });
+
+        document.getElementById('reload').addEventListener('click', function () {
+          url.searchParams.set('options', JSON.stringify(options));
+
+          window.location = url.href;
+        })
+
+        window.addEventListener('orientationchange', function () {
+          var el = document.createElement('li');
+          var message = (new Date).toTimeString().split(' ')[0] + ' ' + window.orientation;
+          message += (screen && screen.orientation ? ' ' + screen.orientation.type + ' ' + screen.orientation.angle : '');
+          el.textContent = message;
+          console.log(message);
+          document.getElementById('log').appendChild(el);
+        });
+
+        var testPlayer = window.testPlayer = videojs('videojs-mobile-ui-player');
+        testPlayer.endscreen = function () { };
+        testPlayer.mobileUi(options);
+      }(window, window.videojs));
+    </script>
+
+<script type="text/javascript" >
+
+  
+</script>   
+
+
+</body>
+
+</html>
