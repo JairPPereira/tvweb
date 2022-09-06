@@ -12,7 +12,7 @@
   <meta name="msapplication-navbutton-color" content="#121111" />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  <title>Grings - Séries Geométricas aula 3</title>
+  <title>Série Harmônica</title>
 <style>
     body {
       background-color:#121111;
@@ -24,7 +24,7 @@
 </head>
   <body>
     <p></p>
-    <div class="container-fluid" width="100%">
+    <div class="container-fluid9" width="100%">
     <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
     <div id="player"></div>
 </div>
@@ -42,7 +42,7 @@
       function onYouTubeIframeAPIReady() {
         player = new YT.Player('player', {
           width: '100%',
-          videoId: 'Xkhk7a7a4tU',
+          videoId: 'm2Vwra7PWPo',
           events: {
             'onReady': onPlayerReady,
             'onStateChange': onPlayerStateChange
@@ -82,7 +82,7 @@
       kind:'youtube#videoListResponse',
       key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
       playlistId:'PLQp-UAdzge47gOYtR3uS-iKJa7Hc5LYM_',
-      videoId: 'Xkhk7a7a4tU',
+      videoId: 'm2Vwra7PWPo',
 
        
       
@@ -91,7 +91,7 @@
       success: function(response) {
       console.log(response)
       $.each(response.items, function(index, iten){
-        $('.container-fluid').append('<div class="card mb-3"><img class="card-img-top" src="'+ iten.snippet.thumbnails.standard.url +'" alt="SBT AO VIVO"><div class="card-body"><h5 class="card-title">'+ iten.snippet.title +'</h5></div><p class="card-text">'+ iten.snippet.description +'</p></div></div>')
+        $('.container-fluid9').append('<div class="card mb-3"><img class="card-img-top" src="'+ iten.snippet.thumbnails.standard.url +'" alt="Série Harmônica"><div class="card-body"><h5 class="card-title">'+ iten.snippet.title +'</h5></div><p class="card-text">'+ iten.snippet.description +'</p></div></div>')
       
       })
       
