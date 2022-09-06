@@ -109,7 +109,7 @@
  
   
   </script>
-
+<!---->
 
 <p></p><h1>video 03</h1>
 <div class="container-fluid3" width="100%">
@@ -141,6 +141,94 @@
   console.log(response)
   $.each(response.items, function(index, iten){
     $('.container-fluid3').append('<div class="card mb-3"><img class="card-img-top" src="'+ iten.snippet.thumbnails.standard.url +'" alt="SBT AO VIVO"><div class="card-body"><h5 class="card-title">'+ iten.snippet.title +'</h5></div><p class="card-text">'+ iten.snippet.description +'</p></div></div>')
+  
+  })
+  
+  },
+  error: function(error) {
+  console.log(error)
+  }
+  })
+  
+  })
+ 
+  
+  </script>
+
+<p></p><h1>video 04</h1>
+<div class="container-fluid4" width="100%">
+<!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+
+</div>
+<a href="https://jpp-ap.onrender.com/analisereal/video4.html" class="btn btn-primary">Assistir</a><p></p>
+<script type="text/javascript" src="jquery.js"></script>
+
+<script>
+    $(function(){
+    $.ajax({
+  url: 'https://www.googleapis.com/youtube/v3/playlistItems',
+  method:'get',
+  dataType: 'json',
+  data: {
+  part:'snippet',
+  kind:'youtube#videoListResponse',
+  key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
+  playlistId:'PLQp-UAdzge47gOYtR3uS-iKJa7Hc5LYM_',
+  videoId: 'R8_LP4kFFaI',
+
+
+   
+  
+  
+  },
+  success: function(response) {
+  console.log(response)
+  $.each(response.items, function(index, iten){
+    $('.container-fluid4').append('<div class="card mb-3"><img class="card-img-top" src="'+ iten.snippet.thumbnails.standard.url +'" alt="SBT AO VIVO"><div class="card-body"><h5 class="card-title">'+ iten.snippet.title +'</h5></div><p class="card-text">'+ iten.snippet.description +'</p></div></div>')
+  
+  })
+  
+  },
+  error: function(error) {
+  console.log(error)
+  }
+  })
+  
+  })
+ 
+  
+  </script>
+
+<p></p><h1>video 05</h1>
+<div class="container-fluid5" width="100%">
+<!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+
+</div>
+<a href="https://jpp-ap.onrender.com/analisereal/video5.html" class="btn btn-primary">Assistir</a><p></p>
+<script type="text/javascript" src="jquery.js"></script>
+
+<script>
+    $(function(){
+    $.ajax({
+  url: 'https://www.googleapis.com/youtube/v3/playlistItems',
+  method:'get',
+  dataType: 'json',
+  data: {
+  part:'snippet',
+  kind:'youtube#videoListResponse',
+  key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
+  playlistId:'PLQp-UAdzge47gOYtR3uS-iKJa7Hc5LYM_',
+  videoId: 'Xkhk7a7a4tU',
+
+
+   
+  
+  
+  },
+  success: function(response) {
+  console.log(response)
+  $.each(response.items, function(index, iten){
+    $('.container-fluid5').append('<div class="card mb-3"><img class="card-img-top" src="'+ iten.snippet.thumbnails.standard.url +'" alt="SBT AO VIVO"><div class="card-body"><h5 class="card-title">'+ iten.snippet.title +'</h5></div><p class="card-text">'+ iten.snippet.description +'</p></div></div>')
   
   })
   
