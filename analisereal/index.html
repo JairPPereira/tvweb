@@ -464,6 +464,94 @@
   
   </script>
 
+<p></p><h1>Grings - Série Alternada aula 6</h1>
+<div class="container-fluid11" width="100%">
+<!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+
+</div>
+<a href="https://jpp-ap.onrender.com/analisereal/video11.html" class="btn btn-primary">Assistir</a><p></p>
+<script type="text/javascript" src="jquery.js"></script>
+
+<script>
+    $(function(){
+    $.ajax({
+  url: 'https://www.googleapis.com/youtube/v3/playlistItems',
+  method:'get',
+  dataType: 'json',
+  data: {
+  part:'snippet',
+  kind:'youtube#videoListResponse',
+  key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
+  playlistId:'PLQp-UAdzge47gOYtR3uS-iKJa7Hc5LYM_',
+  videoId: 'vesnRtHWh5k',
+
+
+   
+  
+  
+  },
+  success: function(response) {
+  console.log(response)
+  $.each(response.items, function(index, iten){
+    $('.container-fluid11').append('<div class="card mb-3"><img class="card-img-top" src="'+ iten.snippet.thumbnails.standard.url +'" alt="Grings - Série Alternada aula 6"><div class="card-body"><h5 class="card-title">'+ iten.snippet.title +'</h5></div><p class="card-text">'+ iten.snippet.description +'</p></div></div>')
+  
+  })
+  
+  },
+  error: function(error) {
+  console.log(error)
+  }
+  })
+  
+  })
+ 
+  
+  </script>
+
+<p></p><h1>Séries Alternadas | Teste de Leibniz</h1>
+<div class="container-fluid12" width="100%">
+<!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+
+</div>
+<a href="https://jpp-ap.onrender.com/analisereal/video12.html" class="btn btn-primary">Assistir</a><p></p>
+<script type="text/javascript" src="jquery.js"></script>
+
+<script>
+    $(function(){
+    $.ajax({
+  url: 'https://www.googleapis.com/youtube/v3/playlistItems',
+  method:'get',
+  dataType: 'json',
+  data: {
+  part:'snippet',
+  kind:'youtube#videoListResponse',
+  key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
+  playlistId:'PLQp-UAdzge47gOYtR3uS-iKJa7Hc5LYM_',
+  videoId: '70NxE3K97oE',
+
+
+   
+  
+  
+  },
+  success: function(response) {
+  console.log(response)
+  $.each(response.items, function(index, iten){
+    $('.container-fluid12').append('<div class="card mb-3"><img class="card-img-top" src="'+ iten.snippet.thumbnails.standard.url +'" alt="Grings - Série Alternada aula 6"><div class="card-body"><h5 class="card-title">'+ iten.snippet.title +'</h5></div><p class="card-text">'+ iten.snippet.description +'</p></div></div>')
+  
+  })
+  
+  },
+  error: function(error) {
+  console.log(error)
+  }
+  })
+  
+  })
+ 
+  
+  </script>
+
 
 
 
