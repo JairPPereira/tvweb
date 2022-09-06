@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#121111" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#121111" />
+  <meta name="msapplication-navbutton-color" content="#121111" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <title>SBT Pará</title>
+<style>
+    body {
+      background-color:#121111;
+      width: auto;
+      height: auto;
+    }
+  </style>
+
+<BODY>
+    <p></p>
+    <div class="container-fluid" width="100%">
+    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+    <div id="player"></div>
+</div>
+    <script>
+      // 2. This code loads the IFrame Player API code asynchronously.
+      var tag = document.createElement('script');
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      // 3. This function creates an <iframe> (and YouTube player)
+      //    after the API code downloads.
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          width: '100%',
+          key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
+          playlistId:'PLQp-UAdzge47nte4vXsnIDBeQjAQSzfyc',
+          videoId: 'IgIdKSv6pl8',
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+        });
+      }
+
+      // 4. The API will call this function when the video player is ready.
+      function onPlayerReady(event) {
+        event.target.playVideo();
+      }
+
+      // 5. The API calls this function when the player's state changes.
+      //    The function indicates that when playing a video (state=1),
+      //    the player should play for six seconds and then stop.
+      var done = false;
+      function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.PLAYING && !done) {
+          setTimeout(stopVideo, 6000000000);
+          done = false;
+        }
+      }
+      function stopVideo() {
+        player.stopVideo();
+      }
+    </script>
+    <script type="text/javascript" src="jquery.js"></script>
+
+    <script>
+        $(function(){
+        $.ajax({
+      url: 'https://www.googleapis.com/youtube/v3/playlistItems',
+      method:'get',
+      dataType: 'json',
+      data: {
+      part:'snippet',
+      kind:'youtube#videoListResponse',
+      key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
+      playlistId:'PLQp-UAdzge47nte4vXsnIDBeQjAQSzfyc',
+      videoId: 'IgIdKSv6pl8',
+
+       
+      
+      
+      },
+      success: function(response) {
+      console.log(response)
+      $.each(response.items, function(index, iten){
+        $('.container-fluid').append('<div class="card mb-3"><img class="card-img-top" src="'+ iten.snippet.thumbnails.standard.url +'" alt="SBT AO VIVO"><div class="card-body"><h5 class="card-title">'+ iten.snippet.title +'</h5></div><p class="card-text">'+ iten.snippet.description +'</p></div></div>')
+      
+      })
+      
+      },
+      error: function(error) {
+      console.log(error)
+      }
+      })
+      
+      })
+      
+      
+      </script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script> 
+      <div class="container" style="background-color: white;">
+
+	<h1>Lyrics API example</h1>
+	<div style='width:100%'>
+		<p>This example is using <a href='http://api.jquery.com/jQuery.getJSON/'>getJSON</a> to fetch <a href='http://api.vagalume.com.br/docs/letras/'>lyrics from Vagalume</a>. It's a very complete example 
+		using jQuery, but you can make any change you want to match your needs. It's important to keep Vagalume logo and link on your webpage.</p>
+		<p>Artist and Song name are static on this page, which you could generate from your favourite programming language or even change this code
+		to fech this data somewhere else.</p>
+
+		<!--- Here you can specify the artist and music to fetch -->
+		<span style='color:green'>
+			<b>Artist:</b> <i id='artista'>Michael Jackson</i> /
+			<b>Song:</b> <i id='music'>Billie Jean</i>
+		</span>
+
+		<!--- Where lyrics should be placed. Don't remove Vagalume logo and link. -->
+		
+		<div id='letra' style='width:100%;text-align:left'>
+			<pre class=text>Fetching lyrics... <img src="http://www.vagalume.com.br/images/processing.gif"></pre>
+		</div>
+	
+	</div></div>
+
+
+	<script>
+	
+
+		function showLetra (data,art,mus,arrayid) {
+			if (! arrayid) arrayid = 0;
+
+			if (data.type == 'exact' || data.type == 'aprox') {
+				// Print lyrics text
+				$('#letra .text').text(data.mus[arrayid].text);
+
+				// Show buttons to open original and portuguese translation
+				if (data.mus[arrayid].translate) {
+					$('#letra .text').prepend('<input type=button value="Portuguese &raquo;" onClick="$(document).trigger(\'translate\')"><br/>');
+					$(document).one('translate',function() {
+						$('#letra .text').text(data.mus[arrayid].translate[0].text);
+						$('#letra .text').prepend('<input type=button value="&laquo; Original" onClick="$(document).trigger(\'original\')"><br/>');
+						$(document).one('original',function() {
+							showLetra(data,art,mus,arrayid);
+						});
+					});
+				}
+
+				// If not exact match (ex: U2 / Beautiful)
+				if (data.type == 'aprox' && !$('#aprox').is('div')) {
+					$('#letra').prepend('<div id=aprox>We found something similar<br/><span class=songname>"' + data.mus[arrayid].name + '"</span></div>');
+
+					// If Vagalume found more than one possible matches
+					if (data.mus.length > 0) {
+						var html = '<select class=songselect>';
+						for (var i = 0; i < data.mus.length; i++) {
+							html += '<option value="'+i+'"'+(i==arrayid?' selected':'')+'>'+data.mus[i].name+'</option>';
+						}
+						html += '</select>';
+						$('#aprox span.songname').html(html);
+						$('#aprox select.songselect').change(function() {
+							var aID = $('option:selected',this).val();
+							showLetra (data,art,mus,aID);
+						});
+					}
+				}
+			} else if (data.type == 'song_notfound') {
+				// Song not found, but artist was found
+				// You can list all songs from Vagalume here
+				$('#letra .text').html(
+					'Song "'+mus+'" from "'+art+'" was not found.<br/>'
+					+'<a target=_blank href="http://www.vagalume.com.br/add/lyrics.php">'
+					+'Add this song to Vagalume &raquo;</a>'
+				);
+			} else {
+				// Artist not found
+				$('#letra .text').html(
+					'Song "'+mus+'" from "'+art+'" was not found<br/>'
+					+'(artist not found)<br/>'
+					+'<a target=_blank href="http://www.vagalume.com.br/add/lyrics.php">'
+					+'Add this song to Vagalume &raquo;</a>'
+				);
+			}
+		}
+		function fetchLetra (art,mus) {
+			var data = jQuery.data(document,art + mus); // cache read
+			if (data) {
+				showLetra(data, art, mus);
+				return true;
+			}
+
+			var url = "http://api.vagalume.com.br/search.php"
+				+"?art="+encodeURIComponent(art)
+				+"&mus="+encodeURIComponent(mus);
+
+			// Check if browser supports CORS - http://www.w3.org/TR/cors/
+			if (!jQuery.support.cors) {
+				url += "&callback=?";
+			}
+
+			jQuery.getJSON(url,function(data) {
+				// What we do with the data
+				jQuery.data(document,art + mus,data); // cache write
+				showLetra(data, art, mus);
+			});
+		}
+
+		// Just an example of how you can call this using elements on the page
+		fetchLetra($("#artista").text(),$("#music").text());
+	</script>
+</BODY>
+</HTML>
