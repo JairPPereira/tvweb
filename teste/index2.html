@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <video id="player" width="320" height="320" controls></video><br>
+<input id="input" type="file" accept="audio/mpeg, audio/mp4, audio/flac, .mp4" />
+   <script>
+let reader = new FileReader(), file;
+reader.onloadend = () => {
+player.src = 'https://s43.maxcast.com.br:8573/live?id=194309176181';
+
+let picturesindex = [];
+let buffer = reader.result;
+
+void new Uint8Array( buffer ).forEach( ( v, i, a ) => 
+                                      ( a[i] == 0xFF ||   a[i] == 0x89 ) && 
+                                    ( a[i+1] == 0xD8 || a[i+1] == 0x50 ) && 
+                                    ( a[i+2] == 0xFF || a[i+2] == 0x4E ) && 
+( a[i+3] == 0xE0 || a[i+3] == 0xEE || a[i+3] == 0xE1 || a[i+3] == 0x47 ) && 
+picturesindex.push( i ) 
+);
+
+let picturescollection = picturesindex.map( ( v ) => 
+URL.createObjectURL( new Blob( [ buffer.slice( v ) ] ) ) 
+);
+
+let frontcover = picturescollection[0]? picturescollection.shift( ) : '';
+player.poster = frontcover;
+player.play();
+};
+
+input.onchange = () => 
+input.files[0] && reader.readAsArrayBuffer( file = input.files[0] );
+
+   </script> 
+</body>
+</html>

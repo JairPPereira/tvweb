@@ -1,157 +1,87 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <meta charset="utf-8">
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
-    <title>Exemplo: Listando vídeos de canais do YouTube</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-
-    <!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-            
-    <style>
-        body, html{
-            margin: 0;
-            padding: 0;
-        }
-        #content{
-            max-width: 960px;
-            margin: 0 auto;
-        }
-        .video-item{
-            display: block;
-            float: left;            
-            width: 50%;
-        }
-        .video-item a{
-            text-decoration: none;
-            color: black;
-        }
-        .video-item a:hover{
-            text-decoration: underline;
-            opacity: 0.7;
-        }
-        .video-item img, .video-item p, .video-item h2{
-            width: 100%;
-            height: auto;
-        }
-        .video-item .content{
-            padding: 5px;
-        }
-        h1{
-            text-align: center;
-        }
-        h2{
-            font-size: 20px;
-        }
-    </style>    
-</head>
-
-<body>
-    
-        
+  <body>
     <div class="container" width="100%">
-        <iframe class="lazyload"
-        src="https://www.youtube.com/embed/ABVQXgr2LW4?autoplay=true"
-        height="620px"
-        width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-        target="_blank"
-            scrolling="no"
-            data-draggable="none"
-            marginwidth="0"
-            marginheight="0"
-            data-popup="none" 
-            frameborder="0"
-        > </iframe></div>
-       
+    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+    <div id="player"></div>
+</div>
+    <script>
+      // 2. This code loads the IFrame Player API code asynchronously.
+      var tag = document.createElement('script');
 
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-    </div>
-    
-    <!--JavaScript at end of body for optimized loading-->
+      // 3. This function creates an <iframe> (and YouTube player)
+      //    after the API code downloads.
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '360',
+          width: '640',
+          videoId: 'ko8uE1gMN_8',
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+        });
+      }
+
+      // 4. The API will call this function when the video player is ready.
+      function onPlayerReady(event) {
+        event.target.playVideo();
+      }
+
+      // 5. The API calls this function when the player's state changes.
+      //    The function indicates that when playing a video (state=1),
+      //    the player should play for six seconds and then stop.
+      var done = false;
+      function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.PLAYING && !done) {
+          setTimeout(stopVideo, 6000);
+          done = true;
+        }
+      }
+      function stopVideo() {
+        player.stopVideo();
+      }
+    </script>
     <script type="text/javascript" src="jquery.js"></script>
     <script type="text/javascript" src="materialize.min.js"></script>
     <script>
         $(function(){
         $.ajax({
-     url: 'https://www.googleapis.com/youtube/v3/playlistItems',
-     method:'get',
-     dataType: 'json',
-     data: {
+      url: 'https://www.googleapis.com/youtube/v3/playlistItems',
+      method:'get',
+      dataType: 'json',
+      data: {
       part:'snippet',
       kind:'youtube#videoListResponse',
       key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
       playlistId:'PLQp-UAdzge45xJ_4LiduttKsTSsiDB15o',
-      videoId: 'ABVQXgr2LW4',
-      
-      maxResults:'18',
-       
-   
-   
-      
-     
- 
+      videoId: '/ko8uE1gMN_8',
 
+       
+      
       
       },
-  success: function(response) {
-    console.log(response)
-    $.each(response.items, function(index, iten){
+      success: function(response) {
+      console.log(response)
+      $.each(response.items, function(index, iten){
         $('.container').append('<div class="large" ><div class="col s12 m7"><div class="card"><div class="card-image"><img src="'+ iten.snippet.thumbnails.standard.url +'"></div><div class="card-content"><span class="card-title">'+ iten.snippet.title +'</span><p>'+ iten.snippet.description +'</p></div><div class="card-action"</div></div></div></div>')
-
-    })
-
-  },
-  error: function(error) {
-    console.log(error)
-  }
-})
-
-})
-
-
-    </script>
- <div class="container" width="100%">
-<div id="player">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png"  width="100%" alt="logo player">
-    </div>
-    <input type="button" value="opção 1" onclick="clicou1()">
-    <input type="button" value="opção 2" onclick="clicou2()">
-    <input type="button" value="opção 3" onclick="clicou3()">
-    <input type="button" value="opção 4" onclick="clicou4()"></div>
-    <script>
-            var player = window.document.querySelector("div#player")
-    
-            var video3 = `<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=telecinepipoca" frameborder=0 height=600px scrolling=no width=100% allowFullScreen> </iframe>`
-     
-            var video2 = `<iframe loading="lazy" src="https://embedflix.net/tv/telecine-pipoca-hd" name="iFrame Name" scrolling="No" height="600px" allowfullscreen width="100%" style="border: none;" sandbox = "allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation"></iframe>`
-    
-            var video = `<iframe loading="lazy" src="https://embed.superfutebol.tv/embed/bb31b954-6796-481f-93da-fa9e09e6b459" name="iFrame Name" scrolling="No" height="600px" width="100%" style="border: none;"></iframe>`
-    
-             var video4 = `<iframe loading="lazy" src="https://minhateca.ru/iptv.php?channel=577" name="iFrame Name" scrolling="No" height="600px" width="100%" style="border: none;" sandbox = "allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation"></iframe>`
-    
-            function clicou1(){
-                player.innerHTML = video
-            }
-    
-            function clicou2(){
-                player.innerHTML = video2
-            }
-            
-            function clicou3(){
-                player.innerHTML = video3
-            }
-    
-            function clicou4(){
-                player.innerHTML = video4
-            }
-    
-        </script>
-   
-
-
-    
-</body>
-
+      
+      })
+      
+      },
+      error: function(error) {
+      console.log(error)
+      }
+      })
+      
+      })
+      
+      
+      </script>
+  </body>
 </html>
