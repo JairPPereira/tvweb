@@ -9,7 +9,7 @@
 //error_reporting(0);
 header('Content-type: text/plain');
 header('Pragma: public'); 
-header('Expires: Sat, 26 Jul 1997 05:00:00 GMT');                  
+header('Expires: Sat, 26 Jul 2050 05:00:00 GMT');                  
 header('Last-Modified: '.gmdate('D, d M Y H:i:s') . ' GMT');
 header('Cache-Control: no-store, no-cache, must-revalidate');
 header('Cache-Control: pre-check=0, post-check=0, max-age=0');
