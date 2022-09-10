@@ -27,7 +27,10 @@
     <div class="container-fluid" width="100%">
     <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
     <div id="player"></div>
+    <audio id="player"></audio>
+
 </div>
+
     <script>
       // 2. This code loads the IFrame Player API code asynchronously.
       var tag = document.createElement('script');
@@ -81,8 +84,8 @@
       part:'snippet',
       kind:'youtube#videoListResponse',
       key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
-      playlistId:'PLhQTgJ8wVv-ny_y93DFQMVKqpApzWU-tY',
-      videoId: '78SLv7-hXXI',
+      playlistId:'PLQp-UAdzge47nte4vXsnIDBeQjAQSzfyc',
+      videoId: '0f9PBsnFmmc',
 
        
       
@@ -91,7 +94,7 @@
       success: function(response) {
       console.log(response)
       $.each(response.items, function(index, iten){
-        $('.container-fluid').append('<div class="card mb-3"><img class="card-img-top" src="'+ iten.snippet.thumbnails.standard.url +'" alt="SBT AO VIVO"><div class="card-body"><h5 class="card-title">'+ iten.snippet.title +'</h5></div><p class="card-text">'+ iten.snippet.description +'</p></div></div>')
+        $('.container-fluid').append('<div class="card mb-3"><img class="card-img-top" src="'+ iten.snippet.thumbnails.standard.url +'" alt="SBT AO VIVO"><div class="card-body"><h5 class="card-title">'+ iten.snippet.title +'</h5></div><p class="card-text">'+ iten.snippet.description +'</p><p class="card-text">'+ iten.snippet.description +'</p></div></div>')
       
       })
       
