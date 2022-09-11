@@ -466,6 +466,9 @@ http://iptvbrasil1.ddns.net:8080/live/play/play/97.ts
 
 #################################################################################
 
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",CNN BRASIL
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1048115623.m3u8
+
 #EXTINF:-1 tvg-id="Band HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band HD
 http://iptvbrasil1.ddns.net:8080/live/play/play/592.ts
 
