@@ -11,10 +11,6 @@ https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="Discovery Civilization SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_civilization.png" group-title="Documentarios",Discovery Civilization SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/50.ts
-
 #EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_home_health.png" group-title="Documentarios",Discovery Home & Health HD
 http://iptvbrasil1.ddns.net:8080/live/play/play/233.ts
 
@@ -80,8 +76,8 @@ http://iptvbrasil1.ddns.net:8080/live/play/play/44.ts
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="All Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/allsports.png" group-title="Esportes",All Sports SD
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="Esportes",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bandsports.png" group-title="Esportes",Band Sports HD
 http://iptvbrasil1.ddns.net:8080/live/play/play/184.ts
@@ -204,9 +200,8 @@ http://iptvbrasil1.ddns.net:8080/live/play/play/78.ts
 http://iptvbrasil1.ddns.net:8080/live/play/play/79.ts
 
 #################################################################################
-
-#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/amc.png" group-title="Filmes & Series",AMC HD
-http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/1336.ts
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/amc.png" group-title="Filmes & Series",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E HD
 http://iptvbrasil1.ddns.net:8080/live/play/play/176.ts
