@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-br" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, minimal-ui">
+    <title>PlayTV | Assistir TV Online - Documentarios, Esportes, Filmes, Series, Infantil, Jornalismo, Musicas.</title>
+    <meta name="description" content="Assistir TV Online - Documentarios, Esportes, Filmes, Series, Infantil, Jornalismo, Musicas.">
+    <meta name="author" content="Abraham Carvalho">
+    <meta name="referrer" content="unsafe-url">
+    <meta name="generator" content="Assistir TV Online - Documentarios, Esportes, Filmes, Series, Infantil, Jornalismo, Musicas.">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="PlayTV">
+    <meta property="og:description" content="Assistir TV Online - Documentarios, Esportes, Filmes, Series, Infantil, Jornalismo, Musicas.">
+    <meta property="og:url" content="http://pltv.com.br">
+    <meta property="og:image" content="http://pltv.com.br/assets/images/social.png">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="PlayTV">
+    <meta property="twitter:description" content="Assistir TV Online - Documentarios, Esportes, Filmes, Series, Infantil, Jornalismo, Musicas.">
+    <meta property="twitter:url" content="http://pltv.com.br">
+    <meta property="twitter:image" content="http://pltv.com.br/assets/images/social.png">
+    <meta itemprop="name" content="PlayTV">
+    <meta itemprop="description" content="Assistir TV Online - Documentarios, Esportes, Filmes, Series, Infantil, Jornalismo, Musicas.">
+    <meta itemprop="image" content="http://pltv.com.br/assets/images/social.png">
+    <link href="assets/images/touch/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+    <link href="assets/images/touch/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32">
+    <link href="assets/images/touch/favicon-194x194.png" rel="icon" type="image/png" sizes="194x194">
+    <link href="assets/images/touch/android-chrome-192x192.png" rel="icon" type="image/png" sizes="192x192">
+    <link href="assets/images/touch/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16">
+    <link href="assets/images/touch/safari-pinned-tab.svg" rel="mask-icon" color="#28324e">
+    <link href="manifest.json" rel="manifest">
+    <meta name="msapplication-TileColor" content="#28324e">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="msapplication-config" content="browserconfig.xml">
+    <meta name="msapplication-TileImage" content="assets/images/touch/mstile-144x144.png">
+    <meta name="theme-color" content="#28324e">
+    <meta name="application-name" content="PlayTV">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="date=no">
+    <meta name="format-detection" content="email=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-title" content="PlayTV">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+    <link href="assets/stylesheets/application.css" rel="stylesheet">
+    <script type="application/ld+json">
+      {
+        "@context": "http://www.schema.org",
+        "@type": "WebSite",
+        "name": "PlayTV",
+        "alternateName": "PlayTV",
+        "url": "http://pltv.com.br"
+      }
+    </script>
+  </head>
+  <body>
+    <h1 class="hide">PlayTV</h1>
+    <header class="header">
+      <div class="container">
+        <div class="header__content">
+          <svg class="header__logo">
+            <use xlink:href="#logo"></use>
+          </svg>
+          <div class="header__search">
+            <input class="header__search-input" type="search" placeholder="Pesquisar...">
+            <svg class="header__search-icon">
+              <use xlink:href="#icon-search"></use>
+            </svg>
+          </div>
+        </div>
+        <nav class="header__menu">
+          <ul class="header__menu-list">
+            <li>
+              <button class="header__menu-item active" data-filter="*">Todos</button>
+            </li>
+            <li>
+              <button class="header__menu-item" data-filter=".documentarios">Documentarios</button>
+            </li>
+            <li>
+              <button class="header__menu-item" data-filter=".esportes">Esportes</button>
+            </li>
+            <li>
+              <button class="header__menu-item" data-filter=".filmesseries">Filmes & Series</button>
+            </li>
+            <li>
+              <button class="header__menu-item" data-filter=".infantil">Infantil</button>
+            </li>
+            <li>
+              <button class="header__menu-item" data-filter=".jornalismo">Jornalismo</button>
+            </li>
+            <li>
+              <button class="header__menu-item" data-filter=".musicas">Musicas</button>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <section class="channels">
+        <h2 class="hide">Canais</h2>
+        <div class="container">
+          <div class="channels__list"></div>
+        </div>
+      </section>
+    </main>
+    <div class="remodal modal" data-remodal-id="modal" data-remodal-options="hashTracking: false, closeOnOutsideClick: false">
+      <div class="modal__close" data-remodal-action="close">
+        <svg class="modal__close-icon">
+          <use xlink:href="#icon-close"></use>
+        </svg>
+      </div>
+      <div class="modal__content" id="modal-content"></div>
+    </div><svg xmlns="http://www.w3.org/2000/svg" class="hide">
+<symbol id="logo" viewBox="0 0 44.24 10.41">
+<path d="M1.44,5.93v2.2H0V1.75H2.25q2.41,0,2.41,2A2,2,0,0,1,4,5.34a2.74,2.74,0,0,1-1.85.59Zm0-3.08v2H2q1.15,0,1.15-1T2,2.86Z"/><path d="M9.4,8.13H5.6V1.75H7V7H9.4Z"/><path d="M16.07,8.13H14.5L14,6.71H11.78l-.45,1.42H9.77l2.32-6.38h1.7ZM13.72,5.61,13,3.47a2.79,2.79,0,0,1-.11-.57h0a2.41,2.41,0,0,1-.11.56l-.69,2.16Z"/><path d="M21,1.75,18.91,5.86V8.13H17.47V5.89l-2-4.14h1.64l1,2.38s.07.22.15.52h0a2.32,2.32,0,0,1,.14-.5l1-2.4Z"/><path d="M27,.87A4.34,4.34,0,0,1,30.57,7l.75.44A5.21,5.21,0,0,0,27,0ZM22.66,7A4.34,4.34,0,0,1,26.18.87V0a5.21,5.21,0,0,0-4.27,7.42Zm7.47.75a4.32,4.32,0,0,1-7,0l-.76.44a5.19,5.19,0,0,0,8.55,0Zm-3.52-6A3.48,3.48,0,1,0,30.09,5.2,3.47,3.47,0,0,0,26.61,1.72ZM25.75,6.5V3.89l2.6,1.37Z"/><path d="M37.8,2.92H36V8.13H34.54V2.92H32.73V1.75H37.8Z"/><path d="M44.24,1.75,42,8.13H40.41L38.24,1.75h1.55l1.33,4.44a3.16,3.16,0,0,1,.13.64h0a3.59,3.59,0,0,1,.14-.65l1.32-4.42Z"/>
+</symbol>
+<symbol id="icon-link" viewBox="0 0 45 45">
+<path d="M11.6,16.35a12,12,0,0,1,18.54,1.84L25.93,22.4a6.35,6.35,0,0,0-7.19-3.65,6.24,6.24,0,0,0-3.06,1.68L7.61,28.5a6.28,6.28,0,0,0,8.89,8.89L19,34.9A16,16,0,0,0,26.07,36l-5.49,5.49A12.06,12.06,0,0,1,3.53,24.42ZM24.42,3.53,18.93,9A16,16,0,0,1,26,10.1L28.5,7.61a6.28,6.28,0,0,1,8.89,8.89l-8.07,8.07a6.3,6.3,0,0,1-8.89,0,6.69,6.69,0,0,1-1.36-2l-4.21,4.21a11.32,11.32,0,0,0,1.49,1.84,12,12,0,0,0,17.05,0l8.07-8.07a12.06,12.06,0,1,0-17-17.05Z"/>
+</symbol>
+<symbol id="icon-close" viewBox="0 0 15.642 15.642">
+<path d="M8.882,7.821l6.541-6.541c0.293-0.293,0.293-0.768,0-1.061  c-0.293-0.293-0.768-0.293-1.061,0L7.821,6.76L1.28,0.22c-0.293-0.293-0.768-0.293-1.061,0c-0.293,0.293-0.293,0.768,0,1.061  l6.541,6.541L0.22,14.362c-0.293,0.293-0.293,0.768,0,1.061c0.147,0.146,0.338,0.22,0.53,0.22s0.384-0.073,0.53-0.22l6.541-6.541  l6.541,6.541c0.147,0.146,0.338,0.22,0.53,0.22c0.192,0,0.384-0.073,0.53-0.22c0.293-0.293,0.293-0.768,0-1.061L8.882,7.821z"/>
+</symbol>
+<symbol id="icon-search" viewBox="0 0 56.966 56.966">
+<path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17s-17-7.626-17-17S14.61,6,23.984,6z"/>
+</symbol>
+</svg>
+    <footer class="footer">
+      <div class="container">
+        <svg class="footer__logo">
+          <use xlink:href="#logo"></use>
+        </svg>
+      </div>
+    </footer>
+    <script async defer src="assets/javascripts/application.js"></script>
+    <script>
+      //- (adsbygoogle = window.adsbygoogle || []).push({google_ad_client: "ca-pub-1309764369672267", enable_page_level_ads: true});
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-81831559-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>

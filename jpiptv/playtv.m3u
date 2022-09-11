@@ -1,0 +1,592 @@
+#EXTM3U
+
+#################################################################################
+
+
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUHvAhY0D_I72Ay2Awl-woMRPDy1tVcGEonhts8SKEaJuw5MIFebcUh4zGa0JJVWFvN7FpRJ5G5is2jppbRE-ycM9DZjxPDbagvsj8LHGTYttV7t-bg_4kAWASVPXXEMf3aiP6NdifgBgPL0CRK0osbvOhrRIVUvtI9n33SwYqJ383wpTxcPpI85FV/s1600/mile.jpeg" group-title="Documentarios",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="Documentarios",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Discovery Civilization SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_civilization.png" group-title="Documentarios",Discovery Civilization SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/50.ts
+
+#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_home_health.png" group-title="Documentarios",Discovery Home & Health HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/233.ts
+
+#EXTINF:-1 tvg-id="Discovery Home & Health SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_home_health.png" group-title="Documentarios",Discovery Home & Health SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/48.ts
+
+#EXTINF:-1 tvg-id="Discovery Investigacao HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentarios",Discovery Investigacao HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/174.ts
+
+#EXTINF:-1 tvg-id="Discovery Investigacao SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentarios",Discovery Investigacao SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/47.ts
+
+#EXTINF:-1 tvg-id="Discovery Science SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_science.png" group-title="Documentarios",Discovery Science SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/54.ts
+
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Documentarios",Discovery Turbo HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/231.ts
+
+#EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Documentarios",Discovery Turbo SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/49.ts
+
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_world.png" group-title="Documentarios",Discovery World HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/186.ts
+
+#EXTINF:-1 tvg-id="Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/e!.png" group-title="Documentarios",Entertainment Television HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/230.ts
+
+#EXTINF:-1 tvg-id="Entertainment Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/e!.png" group-title="Documentarios",Entertainment Television SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/42.ts
+
+#EXTINF:-1 tvg-id="Fish TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fishtv.png" group-title="Documentarios",Fish TV SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/110.ts
+
+#EXTINF:-1 tvg-id="History HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/history.png" group-title="Documentarios",History HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/168.ts
+
+#EXTINF:-1 tvg-id="History SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/history.png" group-title="Documentarios",History SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/52.ts
+
+#EXTINF:-1 tvg-id="H2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/h2.png" group-title="Documentarios",H2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/173.ts
+
+#EXTINF:-1 tvg-id="H2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/h2.png" group-title="Documentarios",H2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/53.ts
+
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo.png" group-title="Documentarios",NatGeo HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/224.ts
+
+#EXTINF:-1 tvg-id="NatGeo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo.png" group-title="Documentarios",NatGeo SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/45.ts
+
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo_wild.png" group-title="Documentarios",NatGeo Wild HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/180.ts
+
+#EXTINF:-1 tvg-id="NatGeo Wild SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo_wild.png" group-title="Documentarios",NatGeo Wild SD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/354.ts
+
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tlc.png" group-title="Documentarios",TLC HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/205.ts
+
+#EXTINF:-1 tvg-id="TLC SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tlc.png" group-title="Documentarios",TLC SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/44.ts
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="All Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/allsports.png" group-title="Esportes",All Sports SD
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bandsports.png" group-title="Esportes",Band Sports HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/184.ts
+
+#EXTINF:-1 tvg-id="Band Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bandsports.png" group-title="Esportes",Band Sports SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/58.ts
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/234.ts
+
+#EXTINF:-1 tvg-id="Combate SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/80.ts
+
+#EXTINF:-1 tvg-id="Esporte Interativo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ei.png" group-title="Esportes",Esporte Interativo HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/42.ts
+
+#EXTINF:-1 tvg-id="Esporte Interativo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ei.png" group-title="Esportes",Esporte Interativo SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/67.ts
+
+#EXTINF:-1 tvg-id="EI Maxx HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx.png" group-title="Esportes",EI Maxx HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/229.ts
+
+#EXTINF:-1 tvg-id="EI Maxx SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx.png" group-title="Esportes",EI Maxx SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/65.ts
+
+#EXTINF:-1 tvg-id="EI Maxx 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx2.png" group-title="Esportes",EI Maxx 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/204.ts
+
+#EXTINF:-1 tvg-id="EI Maxx 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx2.png" group-title="Esportes",EI Maxx 2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/66.ts
+
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_brasil.png" group-title="Esportes",ESPN Brasil HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/203.ts
+
+#EXTINF:-1 tvg-id="ESPN Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_brasil.png" group-title="Esportes",ESPN Brasil SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/61.ts
+
+#EXTINF:-1 tvg-id="ESPN+ HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_plus.png" group-title="Esportes",ESPN+ HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/183.ts
+
+#EXTINF:-1 tvg-id="ESPN+ SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_plus.png" group-title="Esportes",ESPN+ SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/60.ts
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn.png" group-title="Esportes",ESPN HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/169.ts
+
+#EXTINF:-1 tvg-id="ESPN SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn.png" group-title="Esportes",ESPN SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/59.ts
+
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports.png" group-title="Esportes",Fox Sports HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/200.ts
+
+#EXTINF:-1 tvg-id="Fox Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports.png" group-title="Esportes",Fox Sports SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/63.ts
+
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports2.png" group-title="Esportes",Fox Sports 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/201.ts
+
+#EXTINF:-1 tvg-id="Fox Sports 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports2.png" group-title="Esportes",Fox Sports 2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/64.ts
+
+#EXTINF:-1 tvg-id="SporTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/242.ts
+
+#EXTINF:-1 tvg-id="SporTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/55.ts
+
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/244.ts
+
+#EXTINF:-1 tvg-id="SporTV 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/56.ts
+
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 3 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/243.ts
+
+#EXTINF:-1 tvg-id="SporTV 3 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 3 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/57.ts
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere Clubes HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/221.ts
+
+#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere Clubes SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/71.ts
+
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/217.ts
+
+#EXTINF:-1 tvg-id="Premiere 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/72.ts
+
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 3 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/216.ts
+
+#EXTINF:-1 tvg-id="Premiere 3 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 3 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/73.ts
+
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 4 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/215.ts
+
+#EXTINF:-1 tvg-id="Premiere 4 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 4 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/74.ts
+
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 5 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/214.ts
+
+#EXTINF:-1 tvg-id="Premiere 5 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 5 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/75.ts
+
+#EXTINF:-1 tvg-id="Premiere 6 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 6 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/76.ts
+
+#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 7 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/77.ts
+
+#EXTINF:-1 tvg-id="Premiere 8 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 8 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/78.ts
+
+#EXTINF:-1 tvg-id="Premiere 9 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 9 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/79.ts
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/amc.png" group-title="Filmes & Series",AMC HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/1336.ts
+
+#EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/176.ts
+
+#EXTINF:-1 tvg-id="A&E SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/41.ts
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/axn.png" group-title="Filmes & Series",AXN HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/211.ts
+
+#EXTINF:-1 tvg-id="AXN SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/axn.png" group-title="Filmes & Series",AXN SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/29.ts
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cinemax.png" group-title="Filmes & Series",Cinemax HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/187.ts
+
+#EXTINF:-1 tvg-id="Cinemax SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cinemax.png" group-title="Filmes & Series",Cinemax SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/31.ts
+
+#EXTINF:-1 tvg-id="Comedy Central SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/comedy_central.png" group-title="Filmes & Series",Comedy Central SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/111.ts
+
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox.png" group-title="Filmes & Series",Fox HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/202.ts
+
+#EXTINF:-1 tvg-id="Fox SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox.png" group-title="Filmes & Series",Fox SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/20.ts
+
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_life.png" group-title="Filmes & Series",Fox Life HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/857.ts
+
+#EXTINF:-1 tvg-id="Fox Life SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_life.png" group-title="Filmes & Series",Fox Life SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/43.ts
+
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_premium.png" group-title="Filmes & Series",Fox Premium 1 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/228.ts
+
+#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_premium.png" group-title="Filmes & Series",Fox Premium 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/593.ts
+
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fx.png" group-title="Filmes & Series",FX HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/177.ts
+
+#EXTINF:-1 tvg-id="FX SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fx.png" group-title="Filmes & Series",FX SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/27.ts
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo.png" group-title="Filmes & Series",HBO HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/198.ts
+
+#EXTINF:-1 tvg-id="HBO SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo.png" group-title="Filmes & Series",HBO SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/14.ts
+
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo2.png" group-title="Filmes & Series",HBO 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/182.ts
+
+#EXTINF:-1 tvg-id="HBO 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo2.png" group-title="Filmes & Series",HBO 2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/15.ts
+
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus.png" group-title="Filmes & Series",HBO Plus HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/197.ts
+
+#EXTINF:-1 tvg-id="HBO Plus SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus.png" group-title="Filmes & Series",HBO Plus SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/18.ts
+
+#EXTINF:-1 tvg-id="HBO Plus *e SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus_e.png" group-title="Filmes & Series",HBO Plus *e SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/568.ts
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_family.png" group-title="Filmes & Series",HBO Family HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/172.ts
+
+#EXTINF:-1 tvg-id="HBO Family SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_family.png" group-title="Filmes & Series",HBO Family SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/17.ts
+
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_signature.png" group-title="Filmes & Series",HBO Signature HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/196.ts
+
+#EXTINF:-1 tvg-id="HBO Signature SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_signature.png" group-title="Filmes & Series",HBO Signature SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/16.ts
+
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/lifetime.png" group-title="Filmes & Series",Lifetime HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/844.ts
+
+#EXTINF:-1 tvg-id="Lifetime SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/lifetime.png" group-title="Filmes & Series",Lifetime SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/570.ts
+
+#EXTINF:-1 tvg-id="Max HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max.png" group-title="Filmes & Series",Max HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/185.ts
+
+#EXTINF:-1 tvg-id="Max SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max.png" group-title="Filmes & Series",Max SD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/111.ts
+
+#EXTINF:-1 tvg-id="Max UP HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_up.png" group-title="Filmes & Series",Max UP HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/25.ts
+
+#EXTINF:-1 tvg-id="Max UP SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_up.png" group-title="Filmes & Series",Max UP SD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/66.ts
+
+#EXTINF:-1 tvg-id="Max Prime HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_prime.png" group-title="Filmes & Series",Max Prime HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/841.ts
+
+#EXTINF:-1 tvg-id="Max Prime SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_prime.png" group-title="Filmes & Series",Max Prime SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/24.ts
+
+#EXTINF:-1 tvg-id="Max Prime *e SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_prime_e.png" group-title="Filmes & Series",Max Prime *e SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/571.ts
+
+#EXTINF:-1 tvg-id="MegaPix HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/megapix.png" group-title="Filmes & Series",MegaPix HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/225.ts
+
+#EXTINF:-1 tvg-id="MegaPix SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/megapix.png" group-title="Filmes & Series",MegaPix SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/19.ts
+
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/847.ts
+
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/112.ts
+
+#EXTINF:-1 tvg-id="Paramount HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/paramount.png" group-title="Filmes & Series",Paramount HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/171.ts
+
+#EXTINF:-1 tvg-id="Paramount SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/paramount.png" group-title="Filmes & Series",Paramount SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/34.ts
+
+#EXTINF:-1 tvg-id="Sony HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sony.png" group-title="Filmes & Series",Sony HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/209.ts
+
+#EXTINF:-1 tvg-id="Sony SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sony.png" group-title="Filmes & Series",Sony SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/28.ts
+
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/space.png" group-title="Filmes & Series",Space HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/194.ts
+
+#EXTINF:-1 tvg-id="Space SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/space.png" group-title="Filmes & Series",Space SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/21.ts
+
+#EXTINF:-1 tvg-id="Syfy HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/syfy.png" group-title="Filmes & Series",Syfy HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/845.ts
+
+#EXTINF:-1 tvg-id="Syfy SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/syfy.png" group-title="Filmes & Series",Syfy SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/102.ts
+
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/studio_universal.png" group-title="Filmes & Series",Studio Universal HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/873.ts
+
+#EXTINF:-1 tvg-id="Studio Universal SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/studio_universal.png" group-title="Filmes & Series",Studio Universal SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/32.ts
+
+#EXTINF:-1 tvg-id="TBS HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tbs.png" group-title="Filmes & Series",TBS HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/714.ts
+
+#EXTINF:-1 tvg-id="TBS SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tbs.png" group-title="Filmes & Series",TBS SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/33.ts
+
+#EXTINF:-1 tvg-id="TCM SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tcm.png" group-title="Filmes & Series",TCM SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/35.ts
+
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt.png" group-title="Filmes & Series",TNT HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/188.ts
+
+#EXTINF:-1 tvg-id="TNT SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt.png" group-title="Filmes & Series",TNT SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/30.ts
+
+#EXTINF:-1 tvg-id="TNT Series HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt_series.png" group-title="Filmes & Series",TNT Series HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/223.ts
+
+#EXTINF:-1 tvg-id="TNT Series SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt_series.png" group-title="Filmes & Series",TNT Series SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/101.ts
+
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_action.png" group-title="Filmes & Series",Telecine Action HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/193.ts
+
+#EXTINF:-1 tvg-id="Telecine Action SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_action.png" group-title="Filmes & Series",Telecine Action SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/9.ts
+
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_pipoca.png" group-title="Filmes & Series",Telecine Pipoca HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/191.ts
+
+#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_pipoca.png" group-title="Filmes & Series",Telecine Pipoca SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/11.ts
+
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_premium.png" group-title="Filmes & Series",Telecine Premium HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/190.ts
+
+#EXTINF:-1 tvg-id="Telecine Premium SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_premium.png" group-title="Filmes & Series",Telecine Premium SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/8.ts
+
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_fun.png" group-title="Filmes & Series",Telecine Fun HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/192.ts
+
+#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_fun.png" group-title="Filmes & Series",Telecine Fun SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/10.ts
+
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_cult.png" group-title="Filmes & Series",Telecine Cult HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/241.ts
+
+#EXTINF:-1 tvg-id="Telecine Cult SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_cult.png" group-title="Filmes & Series",Telecine Cult SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/13.ts
+
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_touch.png" group-title="Filmes & Series",Telecine Touch HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/189.ts
+
+#EXTINF:-1 tvg-id="Telecine Touch SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_touch.png" group-title="Filmes & Series",Telecine Touch SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/12.ts
+
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/universal_channel.png" group-title="Filmes & Series",Universal Channel HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/222.ts
+
+#EXTINF:-1 tvg-id="Universal Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/universal_channel.png" group-title="Filmes & Series",Universal Channel SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/22.ts
+
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/warner_channel.png" group-title="Filmes & Series",Warner Channel HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/178.ts
+
+#EXTINF:-1 tvg-id="Warner Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/warner_channel.png" group-title="Filmes & Series",Warner Channel SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/26.ts
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/777.ts
+
+#EXTINF:-1 tvg-id="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/82.ts
+
+#EXTINF:-1 tvg-id="Boomerang SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/boomerang.png" group-title="Infantil",Boomerang SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/89.ts
+
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/851.ts
+
+#EXTINF:-1 tvg-id="Disney Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/86.ts
+
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/852.ts
+
+#EXTINF:-1 tvg-id="Discovery Kids SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/88.ts
+
+#EXTINF:-1 tvg-id="Disney Junior SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_junior.png" group-title="Infantil",Disney Junior SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/84.ts
+
+#EXTINF:-1 tvg-id="Disney XD SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_xd.png" group-title="Infantil",Disney XD SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/85.ts
+
+#EXTINF:-1 tvg-id="Gloob HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/853.ts
+
+#EXTINF:-1 tvg-id="Gloob SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/81.ts
+
+#EXTINF:-1 tvg-id="Nick Junior SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick_jr.png" group-title="Infantil",Nick Junior SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/87.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/872.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/83.ts
+
+#EXTINF:-1 tvg-id="Tooncast SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tooncast.png" group-title="Infantil",Tooncast SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/97.ts
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="Band HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/592.ts
+
+#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/5.ts
+
+#EXTINF:-1 tvg-id="Band News HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band_news.png" group-title="Jornalismo",Band News HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/857.ts
+
+#EXTINF:-1 tvg-id="Band News SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band_news.png" group-title="Jornalismo",Band News SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/70.ts
+
+#EXTINF:-1 tvg-id="BH News TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bhnews_tv.png" group-title="Jornalismo",BH News TV SD
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GloboNews HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globonews.png" group-title="Jornalismo",GloboNews HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/856.ts
+
+#EXTINF:-1 tvg-id="GloboNews SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globonews.png" group-title="Jornalismo",GloboNews SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/68.ts
+
+#EXTINF:-1 tvg-id="Globo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globo.png" group-title="Jornalismo",Globo HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/599.ts
+
+#EXTINF:-1 tvg-id="Globo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globo.png" group-title="Jornalismo",Globo SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/567.ts
+
+#EXTINF:-1 tvg-id="Record HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record.png" group-title="Jornalismo",Record HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/422.ts
+
+#EXTINF:-1 tvg-id="Record SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record.png" group-title="Jornalismo",Record SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/6.ts
+
+#EXTINF:-1 tvg-id="Record News SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record_news.png" group-title="Jornalismo",Record News SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/69.ts
+
+#EXTINF:-1 tvg-id="RedeTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/redetv.png" group-title="Jornalismo",RedeTV HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/604.ts
+
+#EXTINF:-1 tvg-id="RedeTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/redetv.png" group-title="Jornalismo",RedeTV SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/4.ts
+
+#EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sbt.png" group-title="Jornalismo",SBT HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/594.ts
+
+#EXTINF:-1 tvg-id="SBT SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sbt.png" group-title="Jornalismo",SBT SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/3.ts
+
+#EXTINF:-1 tvg-id="TV Cultura SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tvcultura.png" group-title="Jornalismo",TV Cultura SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/1.ts
+
+#EXTINF:-1 tvg-id="Futura SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalfutura.png" group-title="Jornalismo",Futura SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/7.ts
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/viva.png" group-title="Jornalismo",Viva HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/212.ts
+
+#EXTINF:-1 tvg-id="Viva SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/viva.png" group-title="Jornalismo",Viva SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/36.ts
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="1HD Music HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/1hd.png" group-title="Musicas",1HD Music HD
+http://bonus-tv.ru/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DJing Ibiza SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/djing.png" group-title="Musicas",DJing Ibiza SD
+http://www.djing.com/tv/live.m3u8
+
+#EXTINF:-1 tvg-id="Gospel Music Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gospelmusic_tv.png" group-title="Musicas",Gospel Music Television SD
+http://85.94.1.9:8802/hls/CH_R04_DOMASHNY/variant.m3u8
+
+#EXTINF:-1 tvg-id="Heart TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/heartv.png" group-title="Musicas",Heart TV SD
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hit TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hittv.png" group-title="Musicas",Hit TV SD
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:-1 tvg-id="MIMUSICA HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mimusica.png" group-title="Musicas",MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="Mix TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mixtv.png" group-title="Musicas",Mix TV SD
+http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/219.ts
+
+#EXTINF:-1 tvg-id="MTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/38.ts
+
+#EXTINF:-1 tvg-id="Multishow HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/181.ts
+
+#EXTINF:-1 tvg-id="Multishow SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/39.ts
+
+#EXTINF:-1 tvg-id="Muz TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/muztv.png" group-title="Musicas",Muz TV SD
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+
+#EXTINF:-1 tvg-id="Radio Monte Carlo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/radiomontecarlo.png" group-title="Musicas",Radio Monte Carlo SD
+http://fms.105.net:1935/live/rmc1/chunklist_w1660735550.m3u8
+
+#EXTINF:-1 tvg-id="Retro Music Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/retromusictv.png" group-title="Musicas",Retro Music Television SD
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SLAM TV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/slam.png" group-title="Musicas",SLAM TV HD
+http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
+
+#EXTINF:-1 tvg-id="Virgin TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/virgintv.png" group-title="Musicas",Virgin TV SD
+http://wow01.105.net/live/virgin1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VH1 MegaHits HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/vh1.png" group-title="Musicas",VH1 MegaHits HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/855.ts
+
+#EXTINF:-1 tvg-id="VH1 MegaHits SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/vh1.png" group-title="Musicas",VH1 MegaHits SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/98.ts
+
+#################################################################################
