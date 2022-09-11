@@ -466,11 +466,9 @@ http://iptvbrasil1.ddns.net:8080/live/play/play/97.ts
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="CANAL SAUDE tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",CANAL SAÚDE
+#EXTINF:-1 tvg-id="CANAL SAUDE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxOGHoNXEwatnJVTW269RHbMwPtOwKZowJPoA1COoyOnvQcpoRoXyjzPT-MXzwliE4IlBfs6QHO15XaC4Q18Cz42Wsx6HqCsMJkDAJAwS20axKqKqbvJ17Y5wz91XWNwN71NvAiY3jzILrLLyovvsoxwX6TWKGV4O-3A4auV4Sh0ukpmOFS05Bsw2m/s1600/sa%C3%BAde.jpeg" group-title="Jornalismo",CANAL SAÚDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Band HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/592.ts
 
 #EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band SD
 http://iptvbrasil1.ddns.net:8080/live/play/play/5.ts
