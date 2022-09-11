@@ -1,0 +1,10 @@
+.track_st_widget[data-v-3d6dba62]{font-size:13px;padding:0px}
+.track_st_vote-row[data-v-3d6dba62]{display:table;width:100%}
+.track_st_vote-td[data-v-3d6dba62]{width:50%;text-align:center;display:table-cell}
+.track_st_vote-button svg[data-v-3d6dba62]{width:20%;padding-top:5px;padding-bottom:5px}
+.track_st_progress[data-v-3d6dba62]{width:100%}
+.track_st_progress-bar[data-v-3d6dba62]{background:#ddd;left:0;top:0;z-index:100;position:absolute;transition:left .5s}
+.track_st_progress-text[data-v-3d6dba62]{z-index:101;position:absolute;left:50%;top:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%)}
+.track_st_progress-wrap[data-v-3d6dba62]{margin:0;overflow:hidden;position:relative;text-align:center}
+.text-centered[data-v-3d6dba62]{text-align:center}
+.track_st_track-meta[data-v-3d6dba62]{padding:10px}
