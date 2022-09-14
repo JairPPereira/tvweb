@@ -198,7 +198,7 @@ http://iptvbrasil1.ddns.net:8080/live/play/play/78.ts
 http://iptvbrasil1.ddns.net:8080/live/play/play/79.ts
 
 #################################################################################
-#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/amc.png" group-title="Filmes & Series",Anime TV
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1lVcMCyE8GHc7hFGuLycugRbUKqz-X0SrYnjaxFSUiyFb3-TjlOdfzgiRNN3qe1WeSOKyOBq9tJ67QRrAQI9WXvTtuMm_XXuFL6SqACcXJlSs_elRrVep27ln2qMsUfZl81pfwWV_Cpf712QvMkkhe3ETmW62s43_VN1ld9mi3Q1X57ErPFGO-21R/s1600/animetv.jpg" group-title="Filmes & Series",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pluto sucesso" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",Pluto sucesso
@@ -529,58 +529,12 @@ http://iptvbrasil1.ddns.net:8080/live/play/play/36.ts
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="1HD Music HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/1hd.png" group-title="Musicas",1HD Music HD
-http://bonus-tv.ru/playlist.m3u8
+#EXTINF:-1 tvg-id="TOP TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3858200bc307bc603e159858383c367c.webp" group-title="Musicas",TOP TV
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
 
-#EXTINF:-1 tvg-id="DJing Ibiza SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/djing.png" group-title="Musicas",DJing Ibiza SD
-http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-id="Kpop TV Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="Musicas",Kpop TV Play Ao Vivo
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w489520488.m3u8
 
-#EXTINF:-1 tvg-id="Gospel Music Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gospelmusic_tv.png" group-title="Musicas",Gospel Music Television SD
-http://85.94.1.9:8802/hls/CH_R04_DOMASHNY/variant.m3u8
 
-#EXTINF:-1 tvg-id="Heart TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/heartv.png" group-title="Musicas",Heart TV SD
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Hit TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hittv.png" group-title="Musicas",Hit TV SD
-http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
-
-#EXTINF:-1 tvg-id="MIMUSICA HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mimusica.png" group-title="Musicas",MIMUSICA HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="Mix TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mixtv.png" group-title="Musicas",Mix TV SD
-http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/219.ts
-
-#EXTINF:-1 tvg-id="MTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/38.ts
-
-#EXTINF:-1 tvg-id="Multishow HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/181.ts
-
-#EXTINF:-1 tvg-id="Multishow SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/39.ts
-
-#EXTINF:-1 tvg-id="Muz TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/muztv.png" group-title="Musicas",Muz TV SD
-http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
-
-#EXTINF:-1 tvg-id="Radio Monte Carlo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/radiomontecarlo.png" group-title="Musicas",Radio Monte Carlo SD
-http://fms.105.net:1935/live/rmc1/chunklist_w1660735550.m3u8
-
-#EXTINF:-1 tvg-id="Retro Music Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/retromusictv.png" group-title="Musicas",Retro Music Television SD
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SLAM TV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/slam.png" group-title="Musicas",SLAM TV HD
-http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
-
-#EXTINF:-1 tvg-id="Virgin TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/virgintv.png" group-title="Musicas",Virgin TV SD
-http://wow01.105.net/live/virgin1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VH1 MegaHits HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/vh1.png" group-title="Musicas",VH1 MegaHits HD
-http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/855.ts
-
-#EXTINF:-1 tvg-id="VH1 MegaHits SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/vh1.png" group-title="Musicas",VH1 MegaHits SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/98.ts
 
 #################################################################################
