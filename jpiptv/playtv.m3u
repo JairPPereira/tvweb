@@ -470,8 +470,8 @@ http://iptvbrasil1.ddns.net:8080/live/play/play/97.ts
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/5.ts
+#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w375796097.m3u8
 
 #EXTINF:-1 tvg-id="Band News HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band_news.png" group-title="Jornalismo",Band News HD
 http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/857.ts
