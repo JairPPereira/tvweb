@@ -30,7 +30,7 @@
 
 <div class="fs-vid-background">
 <video autoplay="true" muted="true" loop="true">
-<source src="https://antenaone.crossradio.com.br/stream/1" type="audio/aac">
+<source src="" type="audio/aac">
 </video>
 </div>
 <script src="js/jquery-3.2.1.min.js"></script> 
@@ -58,7 +58,7 @@
   ownmetadataurl: "",
   usestreamcorsproxy: "false", //true o false
   corsproxy: "",
-  streamurl: "https://stream.zenolive.com/2cgy8mzvsy8uv.aac",
+  streamurl: "",
   streamtype: "radiozeno", //shoutcast2, icecast2, radiozeno, radionomy, radiojar, radioco
   icecastmountpoint: "2cgy8mzvsy8uv/source",
   shoutcastpath: "",
