@@ -16,6 +16,9 @@ https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="Tv Grão Pará Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/13a4885d7e34a1750c01cb4f1daf5e7f.webp" group-title="Documentarios",Tv Grão Pará Ao Vivo
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1936544708.m3u8
 
+#EXTINF:-1 tvg-id="CBTV NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRenubI6TtoUbI223ZA5j4e8e0hu4weTloduIN1d7fvzcLswWi6PZpcTYZ6XAIVEd_Ro_A&usqp=CAU" group-title="Documentarios",CBTV NOW
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
 
 #################################################################################
 
@@ -262,11 +265,10 @@ http://iptvbrasil1.ddns.net:8080/live/play/play/26.ts
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network HD
-http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/777.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/82.ts
+
 
 #EXTINF:-1 tvg-id="Boomerang SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/boomerang.png" group-title="Infantil",Boomerang SD
 http://iptvbrasil1.ddns.net:8080/live/play/play/89.ts
