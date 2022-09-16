@@ -1,0 +1,103 @@
+/*  
+ * https://github.com/maboa/open-web-radio
+ *
+ * Dual licensed under the MIT and GPL licenses.
+ * - http://www.opensource.org/licenses/mit-license.php
+ * - http://www.gnu.org/copyleft/gpl.html
+ *
+ * Original Author: Silvia Benvenuti - silvia@happyworm.com
+ * Date: 7th December 2010
+ */
+
+/* @group RESET */
+
+/* 	css reset 
+	by eric meyer http://meyerweb.com/eric/thoughts/2007/05/01/reset-reloaded/
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+
+:focus {
+	outline: 1px solid #6cadde;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+
+/* @end */
+
+body {
+	width: 1024px;
+	margin: 0 auto;
+	font-family: Arial,Helvetica,sans-serif;
+	color: red;
+	background: #000 url('../img/radio_bgr.jpg') top center no-repeat;
+	position: relative;
+}
+
+#dialer {
+	position: relative;
+	width:20px;
+	height:38px;
+	background: transparent url('../img/dialer.png') 0 0 no-repeat;
+	left: 250px;
+	top: 188px;
+}
+
+#tuning {
+	position: relative;
+	width:152px;
+	height:152px;
+	background: transparent url('../img/tuning.png') 0 0 no-repeat;
+	left: 130px;
+	top: 343px;
+	-webkit-transform: rotate(76deg); 
+	-moz-transform: rotate(76deg);	
+	-o-transform: rotate(76deg);
+}
+
+#volume {
+	position: relative;
+	width:82px;
+	height:82px;
+	background: transparent url('../img/volume.png') 0 0 no-repeat;
+	left: 385px;
+	top: 192px;
+	-webkit-transform: rotate(270deg); 
+	-moz-transform: rotate(270deg);	
+	-o-transform: rotate(270deg);
+}
+
+#shine {
+	position: absolute;
+	width:145px;
+	height:38px;
+	background: transparent url('../img/shine.png') 0 0 no-repeat;
+	left: 160px;
+	top: 188px;
+} 
+
+img { border: 0; }
+
+
+
