@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="eAudio | Extended HTML Audio Object">
+  <meta name="author" content="DIDAVA Media">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="theme-color" content="#121111"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="#121111"/>
+  <meta name="msapplication-navbutton-color" content="#121111"/>
+  <script>
+    window.onload = function() {
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+            document.getElementById("botcel").style.display = "table";
+        }
+    }
+</script>
+
+    
+<script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/2462/169723df52eee895194180f997f22de41293c88a/lib.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <title>Rádio Rauland</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p></p><div class="container-fluid">
+    <center>
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="https://www.radiorauland.com.br/admin/assets/img/logo.png" alt="Rauland FM">
+        <h5 class="card-title">JPMUSIC</h5>
+        <div class="card-body"><iframe src="https://jpp-ap.onrender.com/jpmusic/" frameborder="0" width="100%" height="100%"></iframe> 
+        </div>
+    </div></center></div>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+<script src="eaudio.min.js"></script>
+<script>
+  const start = document.querySelector('#start');
+  start.addEventListener('click', e => {
+    start.remove(); // Remove start button
+    
+    // eAudio Setup
+    const audio = new eAudio('https://stm1.srvif.com:6672/,?YnRjdGp0dWZuYi9kcG4vY3MB'); // Antena1 Live Radio Stream
+    audio.crossOrigin = '*';
+    audio.autoplay = true;
+    audio.controls = true;
+    document.querySelector('#container').appendChild(audio);
+
+    // Spectrum Canvas Setup
+    const canvas = document.createElement('canvas');
+    document.querySelector('#spectrum').appendChild(canvas);
+    canvas.style.width = '100%';
+    canvas.style.height = '100%';
+    canvas.width = canvas.offsetWidth;
+    canvas.height = canvas.offsetHeight;
+    const ctx = canvas.getContext('2d');
+
+    // Bars and Color
+    const gradient = ctx.createLinearGradient(0, 0, 0, 128);
+    gradient.addColorStop(1, "#00ccff");
+    gradient.addColorStop(0, "#ffffff");
+    ctx.fillStyle = gradient;
+
+    // Analyser Setup
+    audio.specLines = 128; // Set the spectrum lines count
+    audio.specSmooth = 0.8; // Set the spectrum smoothness
+
+    // Bars Animation
+    function frameLooper() {
+      window.requestAnimationFrame(frameLooper);
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      const data = audio.specFreq; // Get frequency analysis for each frame
+      const maxFreq = parseInt(data.length * 0.725); // Ignore frequencies higher than 16kHz
+      const width = canvas.width / maxFreq;
+      const barWidth = width - 1;
+      for (var i = 0; i < maxFreq; i++) { // Loop through analyser data array
+        const barHeight = canvas.height * (-data[i] / 256) - 1;
+        const barX = i * width;
+        ctx.fillRect(barX, canvas.height, barWidth, barHeight);
+      }
+    }
+    frameLooper();
+
+    console.dir(audio);
+  });
+</script>
+</html>
