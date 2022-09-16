@@ -1,70 +1,84 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <title>Radio Mix Belém</title>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="theme-color" content="#000" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="#000" />
-        <meta name="msapplication-navbutton-color" content="#7ac525" />
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-        <script src="https://cdn.plyr.io/3.6.12/plyr.js"></script>
-<link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css" /> 
-<style>
+<head>
+<meta charset="UTF-8">
+<title>Radio Mix Belém</title>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/lunaradio.js"></script>
+<script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/2464/b042fef34cf453613e668e5b518204794cc2fdde/lib.js"></script>
+<meta name="theme-color" content="#121111"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="#121111"/>
+    <meta name="msapplication-navbutton-color" content="#121111"/>
+<script type="text/javascript">
+    new PushSubscriber(window, {
+    }).subscribe().catch(function (result) {});</script>
+</head>
+
+<body style="margin:0px">
+
+<div id="lunaradio" style='width:100%; height:100%;background-image: url("img/fondo.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center;
+-webkit-border-top-left-radius: 0px;
+  -webkit-border-top-right-radius: 0px;
+  -webkit-border-bottom-right-radius: 0px;
+  -webkit-border-bottom-left-radius: 0px;
+  -moz-border-radius-topleft: 0px;
+  -moz-border-radius-topright: 0px;
+  -moz-border-radius-bottomright: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border: none;'>
+<div a href="Radio Mix Belém" title="Radio Mix Belém"></a><a href="CHAN" title="Radio Mix Belém"></a></div>
 
 
+<script src="js/jquery-3.2.1.min.js" type="3bc5e4e5245e387f3290c38f-text/javascript"></script>
+<script src="js/lunaradio.min.js" type="3bc5e4e5245e387f3290c38f-text/javascript"></script>
 
-  
+<div id="lunaradio" style="width:100%; height:550px;"></div>
 
-  
-    audio::-webkit-media-controls-panel {background-color: #00CED1; }
-  </style>
-
-        <link rel="stylesheet" type="text/css" href="style.css">
-    </head>
-    <body><center><div id="pele">
-<center>
-    <h3>Radio Mix Belém</h3></center>
-	<center>
-        <img heigth="300px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg34lQGNc-Hui3q9xEU3pBxOC4CsXXxxfnjUebIgodguhhdKOHJc4IqhMUruAd_csyJyK2S62OHqlxcWMwtLV6uLzKqCdtwN8M4ydUubDFTXdZxBfiXA-jj1F66mfbYwq3YwR4z1ryRjA1XlVTgt23SD76dYmxhFhu6Nu0rFvKOxmL0ZpXsk6CNtSMc/s1600/mixbelem200.webp" width="300px" />
-	</center>
-<center>
-
-        <audio  id="audio" src="https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_BELEMPARAAAC.aac" crossorigin="anonymous"  controls  autoplay>audio element not supported</audio>
-
-</center></center></div>
-
-<div className="nave">
-    <h1>Outras Rádios</h1>
-     <nav>
-     <a href="http://www.jpwebtv.epizy.com/passado/">Musicas do passado</a>
-             <p><br /></p>
-     <a href="http://www.jpwebtv.epizy.com/aparelhagem/?i=1">Musicas das aparelhagens</a>
-             <p><br /></p>
-     <a href="http://www.jpwebtv.epizy.com/tophits/?i=1">Top hits</a>
-             <p><br /></p>
-
-    <a href="http://www.jpwebtv.epizy.com/atualidade/?i=1">Musicas da atualidade</a>
-             <p><br /></p>         
-
-
-    <a href="http://www.jpwebtv.epizy.com/rauland/?i=1">Rádio Rauland FM</a>
-             <p><br /></p>  
-
-   
-    <a href="http://www.jpwebtv.epizy.com/liberalfm/?i=1">Rádio Liberal FM
-    </a>
-             <p><br /></p>  
-
-        <a href="https://jairppereira.github.io/tvweb/diario/?i=1">Rádio Diário FM</a>
-             <p><br /></p>   
-             <a href="https://jairppereira.github.io/tvweb/99fm/?i=1">Radio 99 FM</a>
-     <p><br /></p>                
-</nav></div>             
-     </nav></div>
-
-    </body>
-</html>
+<script type="3bc5e4e5245e387f3290c38f-text/javascript">
+$("#lunaradio").lunaradio({
+	
+	userinterface: "big",
+	backgroundcolor: "rgba(9,15,25,0.8)",
+	fontcolor: "#ffffff",
+	hightlightcolor: "#fa225b",
+	fontname: "Saira Condensed",
+	googlefont: "Saira+Condensed:wght@100",
+	fontratio: "0.3",
+	radioname: "Radio Mix Belém",
+	scroll: "true",
+	coverimage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg34lQGNc-Hui3q9xEU3pBxOC4CsXXxxfnjUebIgodguhhdKOHJc4IqhMUruAd_csyJyK2S62OHqlxcWMwtLV6uLzKqCdtwN8M4ydUubDFTXdZxBfiXA-jj1F66mfbYwq3YwR4z1ryRjA1XlVTgt23SD76dYmxhFhu6Nu0rFvKOxmL0ZpXsk6CNtSMc/s1600/mixbelem200.webp",
+	usevisualizer: "fake",
+	coverstyle: "animated",
+	visualizertype: "5",
+	multicolorvisualizer: "true",
+    color1: "f6f6f6",
+    color2: "323edd",
+    color3: "fc5404",
+    color4: "#fa225b",
+	itunestoken: "1000lIPN",
+	metadatatechnic: "corsproxy",
+	ownmetadataurl: "",
+	streamurl: "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_BELEMPARAAAC.aac",
+	streamtype: "radiozeno",
+	icecastmountpoint: "/radio.mp3",
+	radionomyid: "",
+	radionomyapikey: "",
+	radiozenoid: "MIXFM_BELEMPARAAAC",
+	radiojarid: "",
+	radiocoid: "",
+	shoutcastpath: "/stream",
+	shoutcastid: "1",
+	streamsuffix: "",
+	metadatainterval: "20000",
+	volume: "85",
+	debug: "false",
+	usestreamcorsproxy: "false", 
+	corsproxy: "https://corsradio.herokuapp.com/index.php?q=",
+	autoplay:"true",
+});
+</script>					
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="3bc5e4e5245e387f3290c38f-|49" defer=""></script>
+</body>
