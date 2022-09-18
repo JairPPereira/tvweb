@@ -22,29 +22,31 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 #EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Documentarios",CANÇÃO NOVA
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
 
+#EXTINF:-1 tvg-id="TV Channel Network" tvg-logo="https://assets.iptv2022.com/uploads/channel/11355/thumb_TV_Channel_Network.jpeg" group-title="Documentarios",TV Channel Network
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1918807699.m3u8
+
+#EXTINF:-1 tvg-id="Rede Família" tvg-logo="https://assets.iptv2022.com/uploads/channel/11348/thumb_Rede__correct_.png" group-title="Documentarios",Rede Família
+https://alanza.iptv2022.com/Rede_Familia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Rede Sul de Televisão" tvg-logo="https://assets.iptv2022.com/uploads/channel/13322/thumb_Rede_Sul_de_Televisa%CC%83o.png" group-title="Documentarios",Rede Sul de Televisão
+https://alanza.iptv2022.com/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV Brusque" tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="Documentarios",TV Brusque
+https://alanza.iptv2022.com/TV_Brusque/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BR Super TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11446/thumb_BRsupertv.jpeg" group-title="Documentarios",BR Super TV
+https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Central TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11439/thumb_Group_60.png" group-title="Documentarios",Central TV
+https://alanza.iptv2022.com/Central_TV/tracks-v1a1/mono.m3u8
+
 
 #################################################################################
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="Esportes",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bandsports.png" group-title="Esportes",Band Sports HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/184.ts
 
-#EXTINF:-1 tvg-id="Band Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bandsports.png" group-title="Esportes",Band Sports SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/58.ts
-
-#EXTINF:-1 tvg-id="Combate HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/234.ts
-
-#EXTINF:-1 tvg-id="Combate SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/80.ts
-
-#EXTINF:-1 tvg-id="Esporte Interativo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ei.png" group-title="Esportes",Esporte Interativo HD
-http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/42.ts
-
-#EXTINF:-1 tvg-id="Esporte Interativo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ei.png" group-title="Esportes",Esporte Interativo SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/67.ts
 
 
 
@@ -65,110 +67,13 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w305418487.m3u8
 #EXTINF:-1 tvg-id="GOSPEL MOVIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="Filmes & Series",GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cinemax.png" group-title="Filmes & Series",Cinemax SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/31.ts
+#EXTINF:-1 tvg-id="Fandom TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/12069/thumb_Fandom_TV_.jpg" group-title="Filmes & Series",Fandom TV
+https://alanza.iptv2022.com/Fandom_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/comedy_central.png" group-title="Filmes & Series",Comedy Central SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/111.ts
-
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox.png" group-title="Filmes & Series",Fox HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/202.ts
-
-#EXTINF:-1 tvg-id="Fox SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox.png" group-title="Filmes & Series",Fox SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/20.ts
-
-#EXTINF:-1 tvg-id="Fox Life HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_life.png" group-title="Filmes & Series",Fox Life HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/857.ts
-
-#EXTINF:-1 tvg-id="Fox Life SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_life.png" group-title="Filmes & Series",Fox Life SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/43.ts
-
-#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_premium.png" group-title="Filmes & Series",Fox Premium 1 HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/228.ts
-
-#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_premium.png" group-title="Filmes & Series",Fox Premium 2 HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/593.ts
-
-#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fx.png" group-title="Filmes & Series",FX HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/177.ts
-
-#EXTINF:-1 tvg-id="FX SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fx.png" group-title="Filmes & Series",FX SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/27.ts
-
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo.png" group-title="Filmes & Series",HBO HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/198.ts
-
-#EXTINF:-1 tvg-id="HBO SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo.png" group-title="Filmes & Series",HBO SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/14.ts
-
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo2.png" group-title="Filmes & Series",HBO 2 HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/182.ts
-
-#EXTINF:-1 tvg-id="HBO 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo2.png" group-title="Filmes & Series",HBO 2 SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/15.ts
-
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus.png" group-title="Filmes & Series",HBO Plus HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/197.ts
-
-#EXTINF:-1 tvg-id="HBO Plus SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus.png" group-title="Filmes & Series",HBO Plus SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/18.ts
-
-#EXTINF:-1 tvg-id="HBO Plus *e SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus_e.png" group-title="Filmes & Series",HBO Plus *e SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/568.ts
-
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_family.png" group-title="Filmes & Series",HBO Family HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/172.ts
-
-#EXTINF:-1 tvg-id="HBO Family SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_family.png" group-title="Filmes & Series",HBO Family SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/17.ts
+#EXTINF:-1 tvg-id="CLC (Cine Life Classic)" tvg-logo="https://assets.iptv2022.com/uploads/channel/12076/thumb_CLC____Cine_Life_Classic__.jpg" group-title="Filmes & Series",CLC (Cine Life Classic)
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 
 
-
-#################################################################################
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Boomerang SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/boomerang.png" group-title="Infantil",Boomerang SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/89.ts
-
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel HD
-http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/851.ts
-
-#EXTINF:-1 tvg-id="Disney Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/86.ts
-
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids HD
-http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/852.ts
-
-#EXTINF:-1 tvg-id="Discovery Kids SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/88.ts
-
-#EXTINF:-1 tvg-id="Disney Junior SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_junior.png" group-title="Infantil",Disney Junior SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/84.ts
-
-#EXTINF:-1 tvg-id="Disney XD SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_xd.png" group-title="Infantil",Disney XD SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/85.ts
-
-#EXTINF:-1 tvg-id="Gloob HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob HD
-http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/853.ts
-
-#EXTINF:-1 tvg-id="Gloob SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/81.ts
-
-#EXTINF:-1 tvg-id="Nick Junior SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick_jr.png" group-title="Infantil",Nick Junior SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/87.ts
-
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon HD
-http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/872.ts
-
-#EXTINF:-1 tvg-id="Nickelodeon SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/83.ts
-
-#EXTINF:-1 tvg-id="Tooncast SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tooncast.png" group-title="Infantil",Tooncast SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/97.ts
 
 #################################################################################
 
@@ -179,8 +84,7 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w375796097.m3u8
 
-#EXTINF:-1 tvg-id="Band News HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band_news.png" group-title="Jornalismo",Band News HD
-http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/857.ts
+
 
 
 #################################################################################
