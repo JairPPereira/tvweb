@@ -49,14 +49,23 @@ https://streaming.jplproducoes.com.br/JPL1/video.m3u
 #EXTINF:-1 tvg-id="REDE TV BELEM" tvg-logo="https://assets.iptv2022.com/uploads/channel/13385/thumb_REDE_TV_BELEM_.jpeg" group-title="Documentarios",REDE TV BELEM
 https://alanza.iptv2022.com/Rede_TV_belem/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Diário do Sertão Ao Vivo" tvg-logo="https://assets.iptv2022.com/uploads/channel/11957/thumb_Dia%CC%81rio_do_Serta%CC%83o_.jpeg" group-title="Documentarios",Diário do Sertão Ao Vivo
+https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1077237079.m3u8
+
+#EXTINF:-1 tvg-id="Com Brasil Ao Vivo" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="Documentarios",Com Brasil Ao Vivo
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w1884885417.m3u8
+
+#EXTINF:-1 tvg-id="TV BRASIL HITS Ao Vivo" tvg-logo="https://assets.iptv2022.com/uploads/channel/13308/thumb_TV_BRASIL_HITS_.png" group-title="Documentarios",TV BRASIL HITS Ao Vivo
+https://alanza.iptv2022.com/TV_BRASIL_HITS/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="VV8 TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/14127/thumb_VV8_TV.png" group-title="Documentarios",VV8 TV
+https://video01.kshost.com.br:4443/seap8272/seap8272/chunklist_w1424929919.m3u8
+
 #################################################################################
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="Esportes",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-
-
-
 
 
 #################################################################################
@@ -112,5 +121,7 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 #EXTINF:-1 tvg-id="Kronehit" tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=AT&name=27835-6617440.png&size=200" group-title="Musicas",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="REDE SULAMÉRICA" tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="Musicas",REDE SULAMÉRICA
+https://alanza.iptv2022.com/REDE_SULAMERICA/tracks-v1a1/mono.m3u8
 
 #################################################################################
