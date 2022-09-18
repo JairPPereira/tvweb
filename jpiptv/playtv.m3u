@@ -40,6 +40,14 @@ https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Central TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11439/thumb_Group_60.png" group-title="Documentarios",Central TV
 https://alanza.iptv2022.com/Central_TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="TV Aracati" tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="Documentarios",TV Aracati
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JPL TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/13539/thumb_JPL_TV.png" group-title="Documentarios",JPL TV
+https://streaming.jplproducoes.com.br/JPL1/video.m3u
+
+#EXTINF:-1 tvg-id="REDE TV BELEM" tvg-logo="https://assets.iptv2022.com/uploads/channel/13385/thumb_REDE_TV_BELEM_.jpeg" group-title="Documentarios",REDE TV BELEM
+https://alanza.iptv2022.com/Rede_TV_belem/tracks-v1a1/mono.m3u8
 
 #################################################################################
 
@@ -72,6 +80,9 @@ https://alanza.iptv2022.com/Fandom_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CLC (Cine Life Classic)" tvg-logo="https://assets.iptv2022.com/uploads/channel/12076/thumb_CLC____Cine_Life_Classic__.jpg" group-title="Filmes & Series",CLC (Cine Life Classic)
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CANAL 29" tvg-logo="https://canal29.weebly.com/uploads/1/0/5/3/105352943/published/2_1.png?1620962596" group-title="Filmes & Series",CANAL 29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w960384045.m3u8
 
 
 
