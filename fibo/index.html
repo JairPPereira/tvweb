@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    function fibonacci(quadro,texto)
+    {
+        var numero = 0;
+        var proximo_numero = 1;
+        var auxiliar;
+        quadro.value = "";
+
+        while ( numero <= texto.value )
+        {
+            quadro.value += numero+", ";
+            auxiliar = proximo_numero;
+            proximo_numero = proximo_numero + numero;
+            numero = auxiliar;
+        }
+    }
+</script>
+<body>
+    <form name="form">
+        <div align="center">
+            <fieldset style="width: 40%;">
+                <div align="center">
+                    Até que valor deseja mostrar a sequencia de Fibonacci?<br />
+                    <p><input type = "text" name = "texto" size="41">
+                    <br />
+                    <textarea rows="6" cols="31" name="area" readonly></textarea>
+                    <br /><br />
+                    <input type = "button" value = "Mostrar Fibonnaci" onclick = "fibonacci(this.form.area,this.form.texto)">
+                </div>
+            </fieldset>
+        </div>
+    </form>
+</body> 
+</body>
+</html>
