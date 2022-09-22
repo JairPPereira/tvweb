@@ -21,11 +21,11 @@ body {
 
 .efeito-bg {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#30221a+0,140b04+100&0.8+0,0.9+100 */
-    background: -moz-linear-gradient(top, rgba(48, 34, 26, 0.8) 0%, rgba(20, 11, 4, 0.9) 100%);
+    background: -moz-linear-gradient(top, rgba(0,0,205) 0%, rgba(20, 11, 4, 0.9) 100%);
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(top, rgba(48, 34, 26, 0.8) 0%, rgba(20, 11, 4, 0.9) 100%);
+    background: -webkit-linear-gradient(top, rgba(0,0,205) 0%, rgba(20, 11, 4, 0.9) 100%);
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom, rgba(48, 34, 26, 0.8) 0%, rgba(20, 11, 4, 0.9) 100%);
+    background: linear-gradient(to bottom, rgba(0,0,205) 0%, rgba(20, 11, 4, 0.9) 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#cc30221a', endColorstr='#e6140b04', GradientType=0);
     /* IE6-9 */
