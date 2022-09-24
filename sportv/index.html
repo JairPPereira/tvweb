@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#121111" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#121111" />
+  <meta name="msapplication-navbutton-color" content="#121111" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <title>SPORT TV</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <style>
+    body {
+      background-color:#121111;
+      width: auto;
+      height: auto;
+    }
+  </style>
+
+</head>
+
+
+<body> 
+<p></p>
+<div class="container" width="100%"><center>
+  <div id="player">
+    <img src="https://i.ibb.co/fGgB5HN/ESCOLHA-UMA-OP-O.png" height="500px" width="100%" alt="logo player">
+    </div>
+    
+
+    <input type="button" value="opção 1" onclick="clicou3()">
+    <input type="button" value="opção 2" onclick="clicou4()">
+    <input type="button" value="opção 3" onclick="clicou5()">
+    <input type="button" value="opção 4" onclick="clicou7()">
+    
+    
+ 
+
+  </center>
+</div>
+
+
+<script>
+  var player = window.document.querySelector("div#player")
+
+
+  var video5 = `<iframe name=Player "" src="https://tv.appmj.xyz/tv.php?canal=sportv" frameborder=0 height=600px scrolling=no width=100% allowFullScreen> </iframe>`
+
+  var video7 = `<iframe loading="lazy" src="https://player.aovivotv.xyz/channels/sportv/external" name="iFrame Name" scrolling="No" height="500px" width="100%" style="border: none;"></iframe>`
+
+  var video4 = `<iframe loading="lazy" src="https://embedflix.net/tv/sportv-hd" name="iFrame Name" scrolling="No" height="500px" width="100%" allowfullscreen style="border: none;"></iframe>`
+
+ 
+
+  var video3 = `<iframe name=Player "" src="https://canais.m3u8live.ml/v.php?id=SporTV" frameborder=0 height=600px scrolling=no width=100% allowFullScreen> </iframe>`
+
+
+
+  
+
+  
+  function clicou3(){
+      player.innerHTML = video3
+  }
+
+  function clicou4(){
+      player.innerHTML = video4
+  }
+
+  function clicou5(){
+      player.innerHTML = video5
+  }
+
+  function clicou7(){
+      player.innerHTML = video7
+  }
+</script>
+
+
+</body>
+
+</html>
