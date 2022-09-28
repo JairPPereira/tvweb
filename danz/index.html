@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#121111" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#121111" />
+  <meta name="msapplication-navbutton-color" content="#121111" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <title>TV DAZN</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <style>
+    body {
+      background-color:#121111;
+      width: auto;
+      height: auto;
+    }
+  </style>
+
+</head>
+
+
+<body> 
+<p></p>
+<div class="container" width="100%"><center>
+  <div id="player">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuodATHgx77rFkZnmA0IdOGLdGZDWd_FnvkJImXx9odnKIaP48OnLZIxxtNPos-UosEtyFlXyApKNXjCor7aEkfssd1XXmQ5-NClGVXZtMnz74V-MQytknuByGY06Bz7jwVyNtMwdGAu3JzcetWa692AiUIW8q5eXt8oLYKMpbKoci-ptt4CE77q43/s320/ESCOLHA-UMA-OP-O%20(1).png" height="500px" width="100%" alt="logo player">
+    </div></center>
+    <input type="button" value="DAZN" onclick="clicou1()">
+    <input type="button" value="DAZN" onclick="clicou5()">
+    <input type="button" value="DAZN 2" onclick="clicou2()">
+    <input type="button" value="DAZN 2" onclick="clicou6()">
+    <input type="button" value="DAZN 3" onclick="clicou3()">
+    <input type="button" value="DAZN 3" onclick="clicou7()">
+    <input type="button" value="DAZN 4" onclick="clicou4()">
+    <input type="button" value="DAZN 4" onclick="clicou8()">
+    <script>
+            var player = window.document.querySelector("div#player")
+    
+            var video2 = `<iframe name=Player "" src="https://embedflix.net/tv/dazn-2" frameborder=0 height=500px scrolling=no width=100% allowFullScreen> </iframe>`
+    
+            var video3 = `<iframe name=Player "" src="https://embedflix.net/tv/dazn-3" frameborder=0 height=500px scrolling=no width=100% allowFullScreen> </iframe>`
+    
+            var video4 = `<iframe loading="lazy" src="https://embedflix.net/tv/dazn-4" name="iFrame Name" scrolling="No" height="500px" width="100%" allowfullscreen style="border: none;"></iframe>`
+    
+            var video = `<iframe loading="lazy" src="https://embedflix.net/tv/dazn" name="iFrame Name" scrolling="No" height="500px" width="100%" allowfullscreen style="border: none;"></iframe>`
+    
+           var video5 = `<iframe loading="lazy" src="https://minhateca.ru/iptv.php?channel=115" name="iFrame Name" scrolling="No" height="550px" width="100%" allowfullscreen style="border: none;"></iframe>`
+    
+           var video6 = `<iframe loading="lazy" src="https://minhateca.ru/iptv.php?channel=117" name="iFrame Name" scrolling="No" height="550px" width="100%" allowfullscreen style="border: none;"></iframe>`
+    
+           var video7 = `<iframe loading="lazy" src="https://minhateca.ru/iptv.php?channel=119" name="iFrame Name" scrolling="No" height="550px" width="100%" allowfullscreen style="border: none;"></iframe>`
+    
+           var video8 = `<iframe loading="lazy" src="https://minhateca.ru/iptv.php?channel=121" name="iFrame Name" scrolling="No" height="550px" width="100%" allowfullscreen style="border: none;"></iframe>`
+    
+            function clicou1(){
+               
+                player.innerHTML = video
+            }
+    
+            function clicou2(){
+                player.innerHTML = video2
+            }
+            
+            function clicou3(){
+                player.innerHTML = video3
+            }
+    
+            function clicou4(){
+                player.innerHTML = video4
+            }
+    
+            function clicou5(){
+                player.innerHTML = video5
+            }
+    
+            function clicou6(){
+                player.innerHTML = video6
+            }
+            
+            function clicou7(){
+                player.innerHTML = video7
+            }
+    
+            function clicou8(){
+                player.innerHTML = video8
+            }
+        </script>
+    
+
+
+</body>
+
+</html>
