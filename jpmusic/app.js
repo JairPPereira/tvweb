@@ -45,7 +45,7 @@ var lastFrame = new Date();
 var lastFrameFrame = lastFrame;
 var title = 'JP';
 var radioName = 'RAULAND FM';
-var host = "https://stm1.srvif.com:6672/stream";
+var host = "https://stream-59.zeno.fm/p3yys99taphvv?zs=YmiO2TgATMaHAKx7t057pw";
 
 function getUrlVars() {
     var vars = {};
