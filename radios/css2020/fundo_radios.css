@@ -1,0 +1,41 @@
+@charset "UTF-8"; 
+body,td,th {
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+body {
+	background: fixed;
+	background-color: #000;
+	background-image: url(https://jairppereira.github.io/JP-radios/figuras/bg_sunset15.png);
+	margin-left: 0px;
+	margin-top: 5px;
+}
+h1 {
+	font-size: 24px;
+	color: #FF0;
+}
+h2 {
+	font-size: 24px;
+	color: #FFF;
+}
+h3 {
+	font-size: 24px;
+	color: #0F0;
+}
+a:link {
+	color: #FF0;
+}
+a:visited {
+	color: #FF0;
+}
+a:hover {
+	color: #FF0;
+}
+a:active {
+	color: #FF0;
+}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}

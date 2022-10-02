@@ -1,0 +1,61 @@
+@charset "UTF-8"; 
+body {
+	background-image: url(https://jairppereira.github.io/JP-radios/figuras/radios/fundo1.png);
+	background-color: #000;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+h1,h2,h3,h4,h5,h6{
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+font-family: Arial, Helvetica, sans-serif;
+}
+body,td,th {
+	font-size: 24px;
+}
+body,td,th {
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+h1 {
+	font-size: 24px;
+	color: #FFF;
+}
+h2 {
+	font-size: 24px;
+	color: #0F0;
+}
+h3 {
+	font-size: 24px;
+	color: #0CF;
+}
+h4 {
+	font-size: 24px;
+	color: #0F0;
+}
+a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;	
+color: #FFF;
+}
+a:visited {
+color: #FFF;
+}
+a:hover {
+color: #FFF;
+}
+a:active {
+color: #FFF;
+}
+ul {
+margin: 0;
+padding-left: 1em;
+}
+li {
+  padding: 1px;
+  margin-bottom:10px;
+}
+table, td, tr {
+	border-color:#F39;
+}
