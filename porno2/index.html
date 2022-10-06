@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>HLS Player</title>
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
+  </head>
+  <body>
+    <style>
+      body {
+        background-color: black;
+        padding: 0;
+        margin: 0;
+      }
+      .center {
+        margin: auto;
+        width: 50%;
+      }
+    </style>
+    <div class="center" >
+      <video preload="none" id="player"  autoplay controls crossorigin data-plyr-config='{ "title": "Example Title", "settings": ["quality"] }'></video>
+    </div>
+    <script src="https://cdn.plyr.io/3.6.2/plyr.js"></script>
+    <script src="https://cdn.jsdelivr.net/hls.js/latest/hls.js"></script>
+    <script>
+(function () {
+  var video = document.querySelector('#player');
+  const defaultOptions = {};
+
+  if (Hls.isSupported()) {
+    var hls = new Hls();
+    hls.loadSource('master.m3u8');
+    hls.on(Hls.Events.MANIFEST_PARSED, function (event, data) {
+        const availableQualities = hls.levels.map((l) => l.height)
+
+        defaultOptions.quality = {
+          default: availableQualities[0],
+          options: availableQualities,
+          forced: true,        
+          onChange: (e) => updateQuality(e),
+        }
+
+        const player = new Plyr(video, defaultOptions);
+    });
+    hls.attachMedia(video);
+    window.hls = hls;
+  } else {
+    const player = new Plyr(video, defaultOptions);
+  }
+
+  function updateQuality(newQuality) {
+    window.hls.levels.forEach((level, levelIndex) => {
+      if (level.height === newQuality) {
+        console.log("Found quality match with " + newQuality);
+        window.hls.currentLevel = levelIndex;
+      }
+    });
+  }
+  
+})();
+    </script>
+  </body>
+</html>
