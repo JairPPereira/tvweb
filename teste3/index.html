@@ -1,52 +1,73 @@
-<html>
-
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>Simple VLC activeX page playing Nasa stream</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
-
+<style>
+    audio{
+    width: 100%;
+    overflow: hidden;
+  }
+  #selectTrack{
+   background-color: aqua;
+  }
+</style>
 <body>
-
-    </audio autoplay:"autoplay">
-    <script>
-        function cambiarTrack(track) {
-           var path =  track.getAttribute("path")
-           viejo_audio = document.getElementById("reproductor")
-           audio_padre = viejo_audio.parentNode
-           audio_padre.removeChild(viejo_audio)
-           nuevo_audio = document.createElement("audio")
-           nuevo_audio.setAttribute("id","reproductor")
-           nuevo_audio.setAttribute("controls", "controls")
-          // nuevo_audio.setAttribute("autoplay", "autoplay")
-           source = document.createElement("source")
-           source.setAttribute("src", path)
-           source.setAttribute("type", "audio/mpeg")
-           source.setAttribute("id", "reproductorSource")
-           nuevo_audio.appendChild(source)
-           audio_padre.appendChild(nuevo_audio)}
-        function cargarReproductor() {
-                 var select = document.getElementById("selectTrack")
-                 var path = select.options[0].getAttribute("path")
-           nuevo_audio = document.createElement("audio")
-           nuevo_audio.setAttribute("id","reproductor")
-           nuevo_audio.setAttribute("controls", "controls")       
-           source = document.createElement("source")
-           source.setAttribute("src", path)
-           source.setAttribute("type", "audio/mpeg")
-           source.setAttribute("id", "reproductorSource")
-           nuevo_audio.appendChild(source)
-           padre = document.getElementById("reproductorBox")
-           padre.appendChild(nuevo_audio)
-        }
-        </script>
+   <div class="container">
+</audio controls autoplay>
+    
         <div id="reproductorBox"></div>
-        <select id = "selectTrack" multiple onchange="cambiarTrack(this.options[this.selectedIndex]);" style="width: 100%; height: 100px;">
+        <select id = "selectTrack" multiple onchange="cambiarTrack(this.options[this.selectedIndex]);" style="width: 100%; height: 600px; overflow:hidden;">
+        
         <option path="https://stm1.srvif.com:6672/stream">Rauland FM</option>
         <option path="https://hts02.kshost.com.br:8856/live">Rádio Diário FM</option>
-        <option path="../music/how-deep-is-your-love.mp3">Bee Geees - How deep is your love</option>
+        <option path="https://stream-41.zeno.fm/2cgy8mzvsy8uv?zs=yo4PyEhfTWK29YRfVvNeWA">Passado</option>
+        <option path="https://stream-59.zeno.fm/p3yys99taphvv?zs=YmiO2TgATMaHAKx7t057pw">JP Music</option>
+        <option path="https://stream-44.zeno.fm/9t6tfnsn3ehvv?zs=59Ws6zggTjSMI7cMkwtnFg">Atualidade</option>
+        <option path="https://stream-57.zeno.fm/9ts1tgxryhhvv?zs=cwpQYLFdTxmVOaOVAJ_rYQ&aw_0_req_lsid=1663871100546_0.44668418486659633&an-uid=8773777118362868920&triton-uid=cookie%3Ab9e998c5-ed73-45ba-983a-4fef71654a75">POP ROCK</option>
         </select>
-        <script>cargarReproductor();</script>
-
+   </div>
+   <script>
+      function cambiarTrack(track) {
+         var path =  track.getAttribute("path")
+         viejo_audio = document.getElementById("reproductor")
+         audio_padre = viejo_audio.parentNode
+         audio_padre.removeChild(viejo_audio)
+         nuevo_audio = document.createElement("audio")
+         nuevo_audio.setAttribute("id","reproductor")
+         nuevo_audio.setAttribute("controls", "controls")
+         nuevo_audio.setAttribute("autoplay", "autoplay")
+         source = document.createElement("source")
+         source.setAttribute("src", path)
+         source.setAttribute("type", "audio/mpeg")
+         source.setAttribute("id", "reproductorSource")
+         nuevo_audio.appendChild(source)
+         audio_padre.appendChild(nuevo_audio)}
+      function cargarReproductor() {
+               var select = document.getElementById("selectTrack")
+               var path = select.options[0].getAttribute("path")
+         nuevo_audio = document.createElement("audio")
+         nuevo_audio.setAttribute("id","reproductor")
+         nuevo_audio.setAttribute("controls", "controls")       
+         source = document.createElement("source")
+         source.setAttribute("src", path)
+         source.setAttribute("type", "audio/mpeg")
+         source.setAttribute("id", "reproductorSource")
+         nuevo_audio.appendChild(source)
+         padre = document.getElementById("reproductorBox")
+         padre.appendChild(nuevo_audio)
+      }
+      </script>
+   <script>cargarReproductor();</script>
+   <!-- JavaScript (Opcional) -->
+<!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
 
 </html>
