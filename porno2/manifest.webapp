@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "name": "PlayTV",
+  "launch_path": "/index.html",
+  "description": "Assistir TV Online - Documentarios, Esportes, Filmes, Series, Infantil, Jornalismo, Musicas.",
+  "icons": {
+    "16": "assets/images/touch/favicon-16x16.png",
+    "32": "assets/images/touch/favicon-32x32.png",
+    "96": "assets/images/touch/favicon-96x96.png",
+    "194": "assets/images/touch/favicon-194x194.png",
+    "36": "assets/images/touch/android-chrome-36x36.png",
+    "48": "assets/images/touch/android-chrome-48x48.png",
+    "72": "assets/images/touch/android-chrome-72x72.png",
+    "144": "assets/images/touch/android-chrome-144x144.png",
+    "128": "assets/images/touch/android-chrome-120x120.png",
+    "192": "assets/images/touch/android-chrome-192x192.png",
+    "57": "assets/images/touch/apple-touch-icon-57x57.png",
+    "60": "assets/images/touch/apple-touch-icon-60x60.png",
+    "76": "assets/images/touch/apple-touch-icon-76x76.png",
+    "114": "assets/images/touch/apple-touch-icon-114x114.png",
+    "120": "assets/images/touch/apple-touch-icon-120x120.png",
+    "152": "assets/images/touch/apple-touch-icon-152x152.png",
+    "180": "assets/images/touch/apple-touch-icon-180x180.png"
+  },
+  "developer": {
+    "name": "Abraham Carvalho",
+    "url": "http://abrahamcarvalhoo.github.io"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {},
+  "locales": {
+    "en": {
+      "name": "PlayTV",
+      "description": "A melhor lista de canais sempre atualizadas."
+    }
+  }
+}
