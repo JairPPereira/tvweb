@@ -1,51 +1,25 @@
-<!DOCTYPE HTML>
-<html>
-  <head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-
-	<title>TEST THING</title>
-	
-  </head>
-  <body>
-	<p id=info>This text shall be replaced.</p>
-  <canvas id="canvas" style="border: 1px solid #000" height=500 width=1000></canvas>
-	<script src="https://cdn.rawgit.com/eligrey/FileSaver.js/5ed507ef8aa53d8ecfea96d96bc7214cd2476fd2/FileSaver.min.js" charset="utf-8"></script>
-	<script src="interpolate.js" charset="utf-8"></script>
-	<script src="app.js" charset="utf-8"></script>
-	<script charset="utf-8">
-	  (async function () {
-		fetch('https://stm1.srvif.com:6672/stream')
-		  .then(async (info) => {
-			info = await info.json();
-			document.getElementById('info')
-			  .innerText = JSON.stringify(info);
-
-			let song = new Audio('https://stm1.srvif.com:6672/stream/'+info.url);
-			song.controls = true;
-			song.crossOrigin = 'anonymous';
-			document.body.appendChild(song);
-			let stream = song.captureStream();
-			let m = new MediaRecorder(stream);
-			var chunks = [];
-
-			m.onstop = function(e) {
-			//  saveAs(new File(chunks, 'song.mp3'));
-			}
-
-			m.ondataavailable = function(e) {
-			  chunks.push(e.data);
-			}
-			song.play();
-			setTimeout(() => {
-			  song.currentTime = 0;
-			  m.start();
-			  visualizeStream(stream);
-			}, 100);
-			setTimeout(() => m.stop(), 3000);
-		  });
-	  })();
-	</script>
-  </body>
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<div class="css">
+		<img src="https://img.elo7.com.br/product/original/3249FFD/quadro-decorativo-natureza-paisagem-mar-sol-coqueiro-ponte-quadro-belezas-naturais.jpg" alt="Tutorial de CSS" title="Logo do CSS" width="150" height="150" />
+	   </div>
+	   <p>
+		CSS significa Cascading Style Sheets e é uma linguagem de estilos usada para criar sites.<br />
+		<br/>
+		A grande vantagem do CSS na criação de sites, é que podemos fazer a separação do conteúdo e do formato (estilo). <br />
+		<br/>
+		Geralmente colocamos nosso código CSS em um arquivo de extensão .css e no documento HTML colocamos um link para este arquivo, que é conhecido como folha de estilos. <br />
+		<br />
+		Um bom site para aprender CSS (além de HTML e HTML5) é o HTML Progressivo: www.htmlprogressivo.net<br/>
+		O Curso HTML Progressivo é online, totalmente gratuito e super completo. <br/>
+	   </p>
+	   <img src="https://img.elo7.com.br/product/original/3249FFD/quadro-decorativo-natureza-paisagem-mar-sol-coqueiro-ponte-quadro-belezas-naturais.jpg" alt="Tutorial de CSS" title="Logo do CSS" width="150" height="150" />
+</body>
 </html>
