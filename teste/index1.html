@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#121111" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#121111" />
+  <meta name="msapplication-navbutton-color" content="#121111" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <title>SBT Pará</title>
+<style>
+    body {
+      background-color:#121111;
+      width: auto;
+      height: auto;
+    }
+  </style>
+
+</head>
+  <body>
+    <p></p>
+    <div class="container-fluid" width="100%">
+    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+  
+   </div>
+   <a href="https://jpp-ap.onrender.com/teste/index2.html" class="btn btn-primary">Assistir</a><p></p>
+    <script type="text/javascript" src="jquery.js"></script>
+
+    <script>
+        $(function(){
+        $.ajax({
+      url: 'https://www.googleapis.com/youtube/v3/playlistItems',
+      method:'get',
+      dataType: 'json',
+      data: {
+      part:'snippet',
+      kind:'youtube#videoListResponse',
+      key: 'AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI',
+      playlistId:'PLhQTgJ8wVv-ny_y93DFQMVKqpApzWU-tY',
+      videoId: '78SLv7-hXXI',
+
+       
+      
+      
+      },
+      success: function(response) {
+      console.log(response)
+      $.each(response.items, function(index, iten){
+        $('.container-fluid').append('<div class="card mb-3"><img class="card-img-top" src="'+ iten.snippet.thumbnails.standard.url +'" alt="SBT AO VIVO"><div class="card-body"><h5 class="card-title">'+ iten.snippet.title +'</h5></div><p class="card-text">'+ iten.snippet.description +'</p></div></div>')
+      
+      })
+      
+      },
+      error: function(error) {
+      console.log(error)
+      }
+      })
+      
+      })
+      
+      
+      </script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script> 
+  </body>
+</html>
