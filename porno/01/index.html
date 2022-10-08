@@ -1,204 +1,41 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <title>Example</title>
+        <!--Import Google Icon Font-->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+        <!-- Compiled and minified CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" />
+        <link rel="stylesheet" href="css/styles.css" />
+    </head>
+    <body>
+        <div class="container">
+          <div id="url-input" />
+              
+                    <div class="col s12"><ul class="tabs z-depth-1">
+                                        <li class="tab col s2"><a class="active" href="#hls-tab"></a></li>
+                                       
+                                    </ul>
+                                
+                                <div id="hls-tab" class="col s12"><video id="hls-video"></video></div>
+                         
+                            
+                       
+                        
+                    </div>
+                    
+            </div>
+      
+        <!-- Compiled and minified JavaScript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <script src="./player/v1/current/player.min.js"></script>
+        <script src="js/script.js"></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="theme-color" content="#7ac525" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="#7ac525" />
-  <meta name="msapplication-navbutton-color" content="#7ac525" />
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <title>Web Tv Cine</title>
-  <link href="./video-js.css" rel="stylesheet">
-  <link href="./videojs-mobile-ui.css" rel="stylesheet">
-  <link href="videojs-playlist-ui.css" rel="stylesheet">
-  <style>
-    body {
-      background-color: #7ac525;
-      width: auto;
-      height: auto;
-    }
-  </style>
-  <style>
-    .testEl {
-      width: 10%;
-      height: 10%;
-      position: absolute;
-      top: 0;
-      pointer-events: none;
-      display: none;
-    }
-  </style>
-
-</head>
-
-
-<body> 
-  <div class="player-container" width="100%">
-
-
-
-
-
-    <iframe src="https://drive.google.com/file/d/1RKDv4dZjMoHq9T4FK3o7PUo70d8B-8z_/preview" width="640" height="480" allow="autoplay"></iframe>
-    <iframe src="https://drive.google.com/file/d/1siHiKdIduZ7TrSJB1K8BnfiGmviLVGPa/preview" width="640" height="480" allow="autoplay"></iframe>
-    <iframe src="https://drive.google.com/file/d/1NPSfpzjYMB4ox7lVXRGRdaff_guMzI6s/preview" width="640" height="480" allow="autoplay"></iframe>
-    <iframe src="https://drive.google.com/file/d/107nZG-2CE1DgArI016eMP0a1ue7FWlh2/preview" width="640" height="480" allow="autoplay"></iframe>
-
-
-    <script src="./video.js"></script>
-    <script src="./videojs-mobile-ui.js"></script>
-    <script src="videojs-playlist.js"></script>
-    <script src="videojs-playlist-ui.js"></script>
-
-    <script>
-      var player = videojs('videojs-mobile-ui-player', {
-
-
-        fluid: true,
-        controls: true,
-        aspectRatio: '4:3',
-
-
-
-      },
-
-      );
-
-
-
-      player.playlist([
-
-      {
-        name: 'Web Tv Cine',
-
-        sources: [
-        { src: 'https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8', type: 'application/x-mpegURL' },         
-
-        ],
-
-        thumbnail: [
-          {
-            srcset: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_zaRVMJFYQ0A_SgS155vwhTqDZpgxXvSOOmTrsseB8njfrywv4CaRW6xKVmr7psw93eCHHfm1il8ylM2CZofG-mV9RvvD6rcKA2v207lVooLcD2VwE_cHTElnbEHmoF0eQP0bA_fZnISsl_lL5nFSHjPVYgKzf35i_v7bARO6oKjdeoChdQFSpLdF/s1600/webtvcine.webp',
-            type: 'image/png',
-            media: '(min-width: 400px;)'
-          },
-          {
-            src: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_zaRVMJFYQ0A_SgS155vwhTqDZpgxXvSOOmTrsseB8njfrywv4CaRW6xKVmr7psw93eCHHfm1il8ylM2CZofG-mV9RvvD6rcKA2v207lVooLcD2VwE_cHTElnbEHmoF0eQP0bA_fZnISsl_lL5nFSHjPVYgKzf35i_v7bARO6oKjdeoChdQFSpLdF/s1600/webtvcine.webp'
-          }
-        ],
-        poster: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_zaRVMJFYQ0A_SgS155vwhTqDZpgxXvSOOmTrsseB8njfrywv4CaRW6xKVmr7psw93eCHHfm1il8ylM2CZofG-mV9RvvD6rcKA2v207lVooLcD2VwE_cHTElnbEHmoF0eQP0bA_fZnISsl_lL5nFSHjPVYgKzf35i_v7bARO6oKjdeoChdQFSpLdF/s1600/webtvcine.webp'
-      },
-
-
-
-
-
-      ]);
-
-
-
-
-
-
-
-      player.playlistUi({ horizontal: true },);
-      player.playlist.autoadvance(0);
-
-
-
-
-
-
-
-    </script>
-
-
-    <script>
-      (function (window, videojs) {
-        var options = {
-          fullscreen: {
-            enterOnRotate: true,
-            exitOnRotate: true,
-            lockOnRotate: true,
-            iOS: false,
-            disabled: false
-          },
-          touchControls: {
-            seekSeconds: 10,
-            tapTimeout: 300,
-            disableOnEnd: false,
-            disabled: false
-          }
-        };
-
-        var url = new URL(window.location);
-        if (url.searchParams.has('options')) {
-          options = JSON.parse(url.searchParams.get('options'));
-        }
-
-        console.log(JSON.stringify(options, null, 2));
-
-        Object.keys(options).forEach(function (section) {
-          Object.keys(options[section]).forEach(function (prop) {
-            const val = options[section][prop];
-
-            if (prop === 'disabled') {
-              prop = `${section}Disabled`;
-            }
-
-            if (typeof val === 'boolean') {
-              document.getElementById(prop).checked = val;
-            }
-            if (typeof val === 'number') {
-              document.getElementById(prop).value = val;
-            }
-          });
-        });
-
-        document.getElementById('options').querySelectorAll('input').forEach(function (opt) {
-          opt.addEventListener('change', function () {
-            if (this.type === 'checkbox') {
-              const param = this.id.endsWith('Disabled') ? 'disabled' : this.id;
-
-              options[this.getAttribute('data-section')][param] = this.checked;
-            } else {
-              options[this.getAttribute('data-section')][this.id] = parseFloat(this.value);
-            }
-            console.log(options);
-          });
-        });
-
-        document.getElementById('reload').addEventListener('click', function () {
-          url.searchParams.set('options', JSON.stringify(options));
-
-          window.location = url.href;
-        })
-
-        window.addEventListener('orientationchange', function () {
-          var el = document.createElement('li');
-          var message = (new Date).toTimeString().split(' ')[0] + ' ' + window.orientation;
-          message += (screen && screen.orientation ? ' ' + screen.orientation.type + ' ' + screen.orientation.angle : '');
-          el.textContent = message;
-          console.log(message);
-          document.getElementById('log').appendChild(el);
-        });
-
-        var testPlayer = window.testPlayer = videojs('videojs-mobile-ui-player');
-        testPlayer.endscreen = function () { };
-        testPlayer.mobileUi(options);
-      }(window, window.videojs));
-    </script>
-
-<script type="text/javascript" >
-
-  
-</script>   
-
-
-</body>
-
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    </body>
 </html>

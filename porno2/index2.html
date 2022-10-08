@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            box-sizing: border-box;
+        }
+        html,body{
+            margin:0;
+            height: 100%;
+        }
+        section{
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        section #buttons{
+            display: flex;
+            flex-flow: wrap;
+        }
+        section div div{
+            display: flex;
+            flex-direction: column;
+            margin:10px;
+        }
+        section #text{
+            flex:1;
+            border:1px solid #000;
+            margin:10px;
+        }
+    </style>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+    function showResponse(res){
+    document.querySelector('#text').innerHTML = `
+        <h1>Informações</h1>
+        <pre>
+            ${JSON.stringify(res.data,null,'\t')}
+        </pre>
+    `
+}
+
+function get(){
+    axios.get("http://jsonplaceholder.typicode.com/todos")
+        .then(res =>showResponse(res))
+}
+
+function getById(){
+    const id = document.querySelector('#user').value
+    axios.get(`http://jsonplaceholder.typicode.com/todos/${id}`)
+    .then(res => showResponse(res))
+}
+function remove(){
+    const id = document.querySelector('#userDelete')
+    axios.delete(`https://jsonplaceholder.typicode.com/posts/${id}`)
+}
+</script>
+<script>
+    function todo(){
+    axios.all([
+        axios.get("https://jsonplaceholder.typicode.com/todos"),
+        axios.post("https://jsonplaceholder.typicode.com/posts",{title:"olá"})
+    ]).then(axios.spread((posts,write)=>{
+        showResponse(posts)
+        if(write.status == 201){
+            alert("post cadastrado")
+        }
+     }))
+}
+</script>
+</head>
+<body>
+    <section>
+        <div id="buttons">
+            <div>
+                <label>id</label>
+                <input id="user" type="number" placeholder="id usuario"/>
+                <button onclick="getById()">get 1</button>
+            </div>
+            <div>
+                <label>Titulo</label>
+                <input id="post" type="text" placeholder="titulo"/>
+                <button onclick="post()">Post</button>
+            </div>
+            <div>
+                <label>id</label>
+                <input id="update" type="number"/>
+                <label>titulo</label>
+                <input id="update-title"type="text"/>
+                <button onclick="put()">Update</button>
+            </div>
+            <div>
+                <label>Id</label>
+                <input id="delete" type="number"/>
+                <button onclick="remove()">Deletar</button>  
+            </div>
+            <div>
+                <label>Titulo</label>
+                <input id="all" type="text"/>
+                <button onclick="todo()">all</button>
+            </div>
+                <button onclick="get()">get all</button>
+       </div>
+       <div id="text">
+       
+       </div>
+    </section>
+</body>
+</html>

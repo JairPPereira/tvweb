@@ -1,0 +1,50 @@
+h6 {
+    font-weight: bold;
+}
+
+thead {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+td {
+    width: 25%;
+}
+
+td img {
+    width: 42px;
+    height: 42px;
+    margin-right: 10px;
+}
+
+.url-input a {
+    margin-left: 10px;
+}
+
+video {
+    width: 100%;
+}
+
+.download-link {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    display: block;
+}
+
+.tabs .tab a:hover,
+.tabs .tab a.active {
+    color: #26a69a !important;
+}
+
+.tabs .tab a:focus,
+.tabs .tab a:focus.active {
+    background-color: rgb(128 203 196 / 20%) !important;
+}
+
+.tabs .tab a {
+    color: rgb(38 166 154 / 70%) !important;
+}
+
+.tabs .indicator {
+    background-color: #80cbc4 !important;
+}
