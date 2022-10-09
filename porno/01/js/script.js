@@ -208,7 +208,7 @@ App.prototype.init = function() {
     const input = this.$('#url-input');
     const tabs = this.$('.tabs');
     const videoLinks = {
-        xv: 'https://www.xvideos.com/video68062203/ela_tinha_idade_pra_ser_minha_filha',
+        xv: 'https://www.xvideos.com/embedframe/61245883',
         ph: 'https://www.pornhub.com/view_video.php?viewkey=ph6116a13a48187',
         rt: 'https://www.redtube.com/39697741',
     };

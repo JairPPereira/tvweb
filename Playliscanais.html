@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+    <meta charset=utf-8 />
+    <title>Playlist vários Cantores</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="theme-color" content="#00FFFF"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="#00FFFF"/>
+    <meta name="msapplication-navbutton-color" content="#00FFFF"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  
+    <script>
+      window.onload = function() {
+          if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+              document.getElementById("botcel").style.display = "table";
+          }
+      }
+      $(window).scroll(function() {
+if ($(this).scrollTop() > 1){  
+    $('header').addClass("sticky");
+  }
+  else{
+    $('header').removeClass("sticky");
+  }
+});
+  </script>
+
+      <style>
+        div.a{
+         text-align: center; background-color: blanchedalmond;  
+         font-size: 24px;  
+         } 
+
+         header{
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  font-size: 72px;
+  line-height: 108px;
+  height: 108px;
+  background: #335C7D;
+  color: #fff;
+  font-family: 'PT Sans', sans-serif;
+}
+header.sticky {
+  font-size: 24px;
+  line-height: 48px;
+  height: 48px;
+  background: #efc47D;
+  text-align: left;
+  padding-left: 20px;
+}
+        body {background-color:#ece4e4}
+        #playlist{
+            list-style: none; 
+            padding-top: 0.5rem;
+            font-size: 24px;
+        }
+        #playlist li a{
+            color:rgb(4, 4, 4);
+            text-decoration: none;
+            font-size: 24px;
+        }
+        #playlist .current-song a{
+            color:blue;
+            font-size: 24px;
+        }
+
+  
+  audio::-webkit-media-controls-timeline { display:inline-flex;}
+  
+    audio::-webkit-media-controls-panel {background-color: #335C7D; width: 300px;}
+        </style>
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    </head>
+    <body>
+        <center>
+<header>
+
+          <audio controls="" id="audioPlayer" preload="auto" tabindex="0">
+     
+            <source src="https://drive.google.com/uc?export&amp;id=13c0_LlrovyUFKVBzfSXxKbNHKoplD1Ie" type="audio/mp3"></source>
+          </audio>     </header>  </center><center>
+         <p1></p1> </br>
+         <p1></p1> </br>
+         <p1> </br</p1>
+         <p1></p1> </br>
+         <p1></p1> </br>
+         <p1> </br</p1>
+          <ul id="playlist">
+            <h1>José Augusto</h1>
+            <li class="current-song"> <a href="https://drive.google.com/uc?export&id=1-05hiU81aUff7qRdz48W7ZeOiBjDIyLT">1- Sábado</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=1-8NCBmzSpqeuvLIFPCwAPcQCNjln-WAZ">2- Doce engano</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=1-FfXBn5hzAfRe_OxHCu6oJH1b-9vyLuR">3- Coisinha estúpida</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=1-IXpKct9TGxQ0K3QInule-imZRjJXt72">4- Fascinação</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=1-Thb3ZEay8J0uYjnghMpe-dhnp-ioB5T">5- Quem nega a luz, na sombra vai morrer</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=1-ZZfb3z5A6B_p-393zSE9_JP3RJaJMLO">6- Não dá pra te esquecer</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=1-_VAL2w1C4Pi5jP1N7q4K948j_FVa-Sb">7- Aguenta coração</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=1-hPhYvFlXbp648sSv2vgVkEk6eZ9q0y7">8- Sonho por sonho</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=1-rHIJ7Odk4zDHHvrpW50F3egop_XWkyI">9- Chuvas de verão</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=1-rXxH7srI-XtTcAZ2cKAxU1XmSvPxx7j">10- Fui eu</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=1-rwBM69IiHI6mjNJXexK9YSALzl5tlCN">11- O amor acontece</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=10I_vgGIVQX6tLT1lfD08LwzYVEZpIu_u">12- Só você</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=10QFu230BgkxXxENSdwVmEz0ZWd3-3NLS">13- Fantasias</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=10_cn_XtVv9bEwk4XQ9pSxWG9u7xzNxr8">14- Ritmo da chuva</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=10kVmjx7Psj4Ge_U7ghs4nqN1vZn5MtQc">15- Luzes da ribalta</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=10txji2-M4LvzPkezVaiIt0PxvBcjHqza">16- Sinal vermelho</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=1-zu0pSLuHUv6_P8x2iQiz-np28aYM0Zr">17- De que vale ter tudo na vida</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=10-fCzn4ISdLFRvvkaqdWk7FUgmowdCXn">18- Deixa-me chorar</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=10apqMlPYBfLWV7Syu3Nh_De_Fzzwy-EZ">19- Tudo deu em nada</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=10eBzCdG84omBqwKSStv8Wbi4FAaz9SS-">20- Coisas do coração</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=10uY-xM-2BrIS6X7zsAn3i_D8Bxa6PEBg">21- Não tem problema</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=10vctocJswW-OY0ZoztxdxIkj-DfTZldF">22- A minha história</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=10ySVE2hwsmphfBDOt6nQzMSN9larWP-K">23- A verdade sempre aparece</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11-P7FLk5QB8Aim9ySuqSjesfEZDAeIhX">24- De igual pra igual</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=113Y8qi7dbdhqQYFwG113D8-WtNvp7mZB">25- Eu quero apenas carinho</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=115m5V3Eg8UaguadJpfka0nLBEd84QS9P">26- Hey</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11AXnzQDBZ5R5yt0YDFaYSCiS-igG6dLR">27- Amantes</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11AnXMhPZJlTDSUrds6XG7gBw3GkIkHGp">28- Amar você</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11CQmjh3m2dODFHZZimAbickcnwWA70Ns">29- Derrepente o amor</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11Eq54x0uTOOWLAXJ5tH7Jv4lfePm1gGh">30- Faz de conta</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11IZv0kUiU3WAbtBEEMJAa3DfHS6YDaUf">31- Jura-me</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11IvBgmcR7a6Cp7TQxLiQMPRNfesVPPT7">32- Me esqueci de viver</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11MYPQFSahS7NSI6HCAbna-NPlM55eE8J">33- Me vira do avesso</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11Yo7DCnxlE7rV9zRV0F8pRc9moP7l8EE">34- Meu primeiro amor</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11ZxVmvhrnr8N6niCG8ms5eRQ0aEwpH8K">35- O lutador</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11fBfn35INQgxQqEMYqDHWkxIovhm3egc">36- O que você quiser</a></li>
+            <li><a href="https://drive.google.com/uc?export&id=11kM3x_fclRNXyUSenEcjRhvrmBfAnbnA">37- Querer e perder</a></li>
+
+            <h1>Reginaldo Rossi</h1>
+
+            <li> <a href="https://drive.google.com/uc?export&amp;id=1B954Ywt96sCiRW_bxYEGDIVOnD338DsR"></a></li>
+            <li> <a href="https://drive.google.com/uc?export&amp;id=1B954Ywt96sCiRW_bxYEGDIVOnD338DsR">1- Longe de mim</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1BOrhBO5xiR7C49pGoTi2rvWxSu248ky1">2- Mon Amour, Meu Bem, Ma Femme</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1B04ViF7BrYn_RXBIQAxgi8RA7wTUP5Aj">3- Recife minha cidade</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1BNeFeNocJZ1ZCtUNRPSjSH_CTBVwwr3w">4- Amor, amor, amor</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1BUO1i04RYZGCCMUccZvZwboti_0qSDvs">5- A alegria disse adeus</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1BVihKmd0dzLLB_hak6FfNBElEgzkfqJJ">6- A guerra acabou</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1BWqfxpy392yGkSBnzpAKNkbKfOwo0xzw">7- A idade do Lobo</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1BeyqkFTNyOzI4LwVI5D3qE7TnXZh_4CA">8- A marionete</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1BindIe6PCPatzOJalxGNk7NhGvJXP_fA">9- A raposa e as uvas</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1BjBNIr0KKAIdZTgcshpnimRb6RBWsl_b">10- A volta</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1Br215ejEZrlO4y1RUYMiFPpp-AigSCs1">11- Ah! Eu não aguento mais</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1BuuE1kbTKSsVmze2zn2zTA7pkLC-Sbl2">12- Ai amor</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1Bvh997bzIv3SLK9WASoepls6Cf3I0NFv">13- Antes, durante e depois</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1C-q0dOd1wSNV9LCJ56b39n0BMcyWjG_V">14- Aonde você for eu vou também</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1C3f2oumK7vbHG31a-tmUqVakpL9og3Ks">15- As quatro estações</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1CCJI_DVwulJ9jv-hlOFlSlfwohMG_qFt">16- Não posso negar que te amo</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1CFt2mMtn1sIl9wAUlzF9jh9XczOsQmD1">17- Cheio de amor</a></li>
+             <li><a href="https://drive.google.com/uc?export&amp;id=1CIJn-US0R4x8y5ZaY5_hzEFygFscsE90">18- Coração em fogo</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1CNyHKE-Icoitbxl0ivUt2SClhPndTVtT">19- Desterro</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1COO3F-U5QcVb5rSSjz7xjeUdTtCpS9kx">20- Diana</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1CRbfD8PWkhRdExXf7I0x2S9sGWM6qTJx">21- Doce pecado</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1CW17RpbisB0CHG41tEq7glHOIFs8UW-6">22- Dono do teu coração</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1CYVWZ-PsPJ5P5eslf03Nmq-ry4jcfJP6">23- Em plena lua de mel</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1ClLDIqtz1M3M-HGC5xkZ6fXz3kFrPyFc">24- Era domingo</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1CxiF6LVqpslABZX8bsTUoybvjAQeV0QW">25- Eu devia te odiar</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1D2kdEqiMLcTN1EA5Re7I-9VsAW6xn5HA">26- Eu não presto,mas te amo</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1DDT6qnbBjBO9hzF47rjEzPJlm99wJfa5">27- Feito de amor</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1DF3rEWUik9TuUe1ajRpRVTEW8Cn_fUAp">28- Felicidade</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1DRuyjQZL-Mxwne1dYlSTQe0isDAcIrtf">29- Férias em Itamaracá</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1DUDusosppwcKwjN2y5LtyoNTuUHGEOoQ">30- Garçom</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1DX0i_BWVzRfaxGIE-P-E8HdrhvCCtmJc">31- Itamaracá: pedra que canta</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1DYMl3Wyp9fJ8kYIY19QWBS_88Rr5w8An">32- Leviana</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1Da-oFvK8C1c-GlN22J0rRfuGGvSksh4n">33- Maior que Deus</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1DghodtxJPicQ51Pon8IKXmlCRUq60CF3">34- Meu fracasso</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1E5cZjZAq4EX3e_rdTcfs34H9GOU6L8Jn">35- Mon Amour, meu Bem, ma Femme</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1ECRT61BJQBE7QeUxunJUuj6QpX-LySWR">36- Mulher</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1EDKGCtqXqqEstLPHdxr8aTKa2PwTRJjf">37- Não consigo te esquecer</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1ER2uNlCLTfrGOWNI4gIaj_PPArQPSgNT">38- Nos braços do meu amor</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1ES3gUpyGChEfRNKKSZs35kQgucwWR0Cu">39- Nosso caso de amor</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1EZF7heDI6qjaX1_BK9Itwzj2mVeqrxV5">40- O amor que perdi</a></li>
+
+              <h1>Roberto Carlos</h1>
+              <li><a href="https://drive.google.com/uc?export&amp;id=13cjT-w_mbiZUeUzKs6sQ-eyRnujnaERC"></a></li>
+              <li><a href="https://drive.google.com/uc?export&amp;id=13cjT-w_mbiZUeUzKs6sQ-eyRnujnaERC"></a></li>
+
+            <li><a href="https://drive.google.com/uc?export&amp;id=13cjT-w_mbiZUeUzKs6sQ-eyRnujnaERC">1- Alô</a></li>
+            <li> <a href="https://drive.google.com/uc?export&amp;id=13c0_LlrovyUFKVBzfSXxKbNHKoplD1Ie">2- A guerra dos meninos</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=13lSjXS6GMZTXoxa4F4F1H8IRNjjRGuPA">3- Amigo, não chore por ela</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=13mcqhgE1bFR0zJzoVx48301fLyoyR204">4- Amigo</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=13pQmN2vQNMmphkG7TML4fMhpQZbJZROm">5- Apocalipse</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=13p_1wfkoYJU5eZh4uShDoVrp-kBWZ4J6">6- Detalhes</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=13voAjiLhOqX_R1F1dAzGGYejs5zyt4HQ">7- Ele está pra chegar</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=13vx_SMRDsrs5KZLFJ5M5qo8B2f-a2Aiw">8- Eu sou terrível</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=13vzncSs_ktoLVUh0OLqv58HM-tQEHpou">9- Eu te darei o céu</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1409gc2_MP6DtmH1rIGeOKxJkLqajThFa">10- Fé</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=1435GMMhIxMPEF71vn-tV-JegG1cWNuUk">11- História de um homem mau</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14ClL7rTlLDff5sgC_6RNGX3WtogPkl9y">12- Ilegal, imoral ou engorda</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14M-TcAWC6b3ja8Y7DtB0qQQ0ebweG47z">13- Mulher de 40</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14NY5A3QCMIGxY8jv6eP6KPN4f1zaCaQd">14- Na paz do seu sorriso</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14OHBmENhv8GSI99cTfomMtP4up3rjomU">15- O velho caminhoneiro</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14UfL6GduWmqhUVllj_lRtXdSAsZBsDjU">16- Quero que vá tudo pro inferno</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14UnUaoLT8TCsw5VQnxHRyyibK3b6S91U">17- Verde e amarelo</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14Vjw-7gNR0S2R8NNRzDBRx74k4yxBuKT">18- Sentado à beira do caminho</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14cZAJqqh_mav4RPgIrvaRNSUA8vUkF6h">19- Pega ladrão</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14f2389REWpHr7IHfx_vJiuM2T8vAY1TD">20- Não quero ver você triste</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14fxpKfGgfxc6GCmaLzRzwLC8vXF_cgPw">21- Amor sem limite</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14iDnP-vNkStFzTAYL3hCM2lnaMv3hEKz">22- Cheirosa</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14jn-16cY-XV-Jhs0Pr2jSle1OOSck8FN">23- Coisa bonita</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14v6tHr9z7c88xHFbKItiycadKQKX01Kt">24- Eu daria a minha vida</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14vD_eIUyq5-l_nEi133CumbaMo_VQrNx">25- Furdúncio</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14yDJZfLydubNMd-SIZ2QkHn4GnDRu7UR">26- Ninguém vai tira você de mim</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=14yyO1cqvlx78nmdP54xUG5cfDv3xCaPK">27- Noite de terror</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=151b_pVJBe8WpCusrehuVM8gPHGpBAWRg">28- Nossa canção</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=156G_awFMU5TNq1n30wI1nub3dma0qqtI">29- Quero lhe falar do meu amor</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=156aZQ0cA66-WKxVPdMPM0i6XzzABhwrG">30- Coimbra</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=159Asx3mBZxylOQRy8f448qD_n7if2jp2">31- Se você pensa</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=15A-zXmeRgepA0Uvch8ccmt21nXDDk77Z">32- Se você quer</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=15GsWVp6gihPdRsgZy9uAj95q-EKw3Rs8">33- Só vou se você for</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=15HbGGCp_tL0y93vCmNrfbTtUhT9VjzKZ">34- Cama e mesa</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=15Moj94FpHYAiRWNv-DjGR9TPMU_xILxe">35- Esqueça</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=15WTfHbFsklnUoSmw5qSBN_Ivxq3akNIa">36- Sorrindo pra mim</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=15Y1kuFX5yTf_4-124CvE-3Uaenw15HWv">37- Você deixou alguém a esperar</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=15ZCKJcj30-vNjGV8GYrY7adAG9ylLYtx">38- Como é grande o meu amor por você</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=15_IOLyoOSGHV4lIuBBWZ7uPdyRPikAUE">39- De que vale tudo isso</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=15a9ubLk3CAZVgxmaHL3vQkXCqqVUDWnz">40- O feio</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=15mOBsnZz0_BQXqhgrPQgJzyVoXLKHsUw">41- Por isso corro demais</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=15vepXVqLV0T-67Tst8ZzJ0RIkAd-QFnB">42- Desabafo</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16-k9hl78lFcQYUNcGXnd6RKggPn9IDTy">43- É proibido fumar</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=168jEVpN_EdIVCwYrAfXb8QISP7ECfESW">44- O velho homem do mar</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16An1UHq_mPT4o8lgy6QVNNtNgLygn6Hq">45- Pelo avesso</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16H2JrlTmfog5VItO4RLZ-J9RcQv_c1vV">46- Além do horizonte</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16IfZ7qqm4O5y1tfUxj1s6kMoLHzjeALE">47- Café da manhã</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16OCNCT9yv7GVH8NhV9H9nWf_7ZLrYu7I">48- Todos estão surdos</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16QThHOC4QW0ssWIVkAgyHkvv59L-2cYE">49- Eu quero apenas</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16RSFkhctS5sw_k6NjYMswHPsjSioVtPy">50- Índia</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16UtkFoWfzyNzfAQ36NuDHbuI9Vh3_fgO">51- Namoradinha de um amigo meu</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16WccXnP--uOa_Bh0twVZNcYsTjadP0PT">52- O calhambeque</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16fHxL1x4rZ3EVDWaUKOuSqo8hZv2xOh4">53- Preciso lhe encontrar</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16kFxnZ56WwlQdsotruP_eZzunT9LfpQ1">54- Quando a gente ama</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=16mRGPdho8Ypd1rRMbBuuCZ0ZkQHr5OYb">55- Quando</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=171ZQqXKntoK7zvXa2yyLpJYy7HtVk-GW">56- Un gatto nel blu</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=172rbUmOzMgVtToPILNCUUeGedZNbGDL4">57- Não vou ficar</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=173b6TDKX2BbnoCw-KZ8ObOd-2fHCwH4j">58- Custe o que custar</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=175EI9J3DLJTNdWasBMH2sXziRckv1eda">59- Aquele beijo que te dei</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17BwK__yJY79KMX0gg7Cctmb3-9AcReSo">60- Comandante do seu coração</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17DLtX9bzBMAX_MV72IyMoVbCHna2DQ_z">61- Debaixo dos caracóis dos seus cabelos</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17Okk8_pw4UeceFPZzKONYutviKJNOzN9">62- Meu querido, meu velho, meu amigo</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17Okph8qq8-mnBKzb7UKosYNLPdHnCNbx">63- Minha história de amor</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17QhJwCV0VdnqmLaknZWzfmIf8qximSfv">64- Mulher pequena</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17Sk-AdYMcLKmO0vcQdqV_SPLSQw9rZch">65- As curvas da estrada de Santos</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17URihtwrZZ1ClABofTiZnmEcnj_Fk-mk">66- Dizem que um homem não deve chorar</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17UopXj68QZWBnBUcvD287HGCpe6RbZHX">67- Você não serve pra mim</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17YHuZo2-z2UUBmud-Vw83BijWNoBAhnC">68- É papo firme</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17kwv7-t681jZ_dNpRLbrdVhs0RiBsPSP">69- Escreva uma carta meu amor</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17n5H4YVQlRz38WkVI4WMnpLVw485Ca0T">70- Eu te amo, te amo, te amo</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17nTRDGBIfHmcN5tJGmhNOumumza3RO3k">71- Rotina</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17uaewScXSicKd823UHVXkAl8nqxvnGrf">72- 120... 150... 200 km por hora</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=17ujXxWwXA_vmnDZ8EDO1i6J3SmNRThlq">73- A garota do baile</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=180t9ERD42TjIgDgcxmOILc77Pj1BSvEj">74- Não é papo pra mim</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=184S8Ny10Db_ZHgihxUag05fouFH0_D2d">75- O sósia</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=187PGOYsKIs5dbPn4IaIZriOIRwuS6oY8">76- Ar de moço bom</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=18BNPM1MIOWv3YqQns1ZRvOJbzYbQPC1i">77- É preciso saber viver</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=18BuFlvpTUBqrOVOPqCqiFg1SBe0W82L4">78- Mexerico da Candinha</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=18HIcsV3HnjFPcIxd0I2fQGiT9qGUoZme">79- Só vou gostar de quem gosta de mim</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=18IlXV5KXNW13EC1SJyD2__Q6aSUPiJ6I">80- Emoções</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=18KVssGTpRC8tRtGpI6--cyax7qgVGu3d">81- Jesus Cristo</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=18MimjvHZRpQEWfeI9v9vi5yAPiEMhCon">82- A volta</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=18Ta3UJsQXdL7e8trf6OmlQX8lTGbVE0R">83- De coração pra coração</a></li>
+            <li><a href="https://drive.google.com/uc?export&amp;id=18VqCY7X1-o8EDerrruGurvGzaRNNvUkC">84- A montanha</a></li>
+    
+          </ul></center>
+    
+          <script type="text/javascript">
+    
+    function audioPlayer(){
+                var currentSong = 0;
+                $("#audioPlayer")[0].src = $("#playlist li a")[0];
+                $("#audioPlayer")[0].play();
+                $("#playlist li a").click(function(e){
+                   e.preventDefault(); 
+                   $("#audioPlayer")[0].src = this;
+                   $("#audioPlayer")[0].play();
+                   $("#playlist li").removeClass("current-song");
+                    currentSong = $(this).parent().index();
+                    $(this).parent().addClass("current-song");
+                });
+                
+                $("#audioPlayer")[0].addEventListener("ended", function(){
+                   currentSong++;
+                    if(currentSong == $("#playlist li a").length)
+                        currentSong = 0;
+                    $("#playlist li").removeClass("current-song");
+                    $("#playlist li:eq("+currentSong+")").addClass("current-song");
+                    $("#audioPlayer")[0].src = $("#playlist li a")[currentSong].href;
+                    $("#audioPlayer")[0].play();
+                });
+            }
+    
+    
+    
+          </script>
+    
+          <script>
+            // loads the audio player
+            audioPlayer();
+        </script>
+
+    </body>
+    </html>
