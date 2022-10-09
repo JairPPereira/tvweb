@@ -7,13 +7,15 @@ thead {
 }
 
 td {
-    width: 25%;
+    width: 100%;
+padding: 0;
 }
 
 td img {
     width: 42px;
     height: 42px;
     margin-right: 10px;
+    padding: 0;
 }
 
 .url-input a {
@@ -22,6 +24,8 @@ td img {
 
 video {
     width: 100%;
+    padding: 0;
+    height: 600px;
 }
 
 .download-link {
