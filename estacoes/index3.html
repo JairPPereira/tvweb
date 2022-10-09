@@ -1,270 +1,230 @@
-<!DOCTYPE html>
-    <html lang="pt-br">
-    <head>
-    <meta charset=utf-8 />
-    <title>Playlist de Rádios</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="theme-color" content="#335C7D"/>
-    <meta name="apple-mobile-web-app-status-bar-style" content="#335C7D"/>
-    <meta name="msapplication-navbutton-color" content="#335C7D"/>
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <script>
-      window.onload = function() {
-          if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-              document.getElementById("botcel").style.display = "table";
-          }
-      }
-      $(window).scroll(function() {
-if ($(this).scrollTop() > 1){  
-    $('header').addClass("sticky");
-  }
-  else{
-    $('header').removeClass("sticky");
-  }
-});
-  </script>
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Video.js Playlist UI - Default Implementation</title>
+  <link href="video-js.css" rel="stylesheet">
+  <link href="videojs-playlist-ui.css" rel="stylesheet">
+  <link href="examples.css" rel="stylesheet">
+</head>
+<body>
+  <div class="info">
+    <h1>Video.js Playlist UI - Default Implementation</h1>
+    <p>
+      You can see the Video.js Playlist UI plugin in action below. Look at the
+      source of this page to see how to use it with your videos.
+    </p>
+    <p>
+      In the default configuration, the plugin looks for the first element that
+      has the class "vjs-playlist" and uses that as a container for the list.
+    </p>
+  </div>
 
-      
-<style>
-  audio{
-    width: 100%;
-    height: 80px;
-    background-color: #335C7D;
-   
-  }
-
-#canvas {
-  background: #000;
-}
-  audio::-webkit-media-controls-timeline { display:block;}
-  
-    audio::-webkit-media-controls-panel {background-color: #335C7D; }
-
-    li{
-      padding: 0.5rem;
-      list-style-type: none;
+  <style>
+    .player-container, .vjs-playlist {
+      height: 300px;
     }
-    
-        </style>
-          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    </head>
-    <body>
-         <div class="container-fluid">
-          <nav class="navbar navbar-default navbar-fixed-top">
-            <div class="container">
-              <audio controls="" id="audioPlayer" preload="auto" tabindex="0">
-                 
-                <source src="https://ice01.kshost.com.br:8000/live" type="audio/mp3"></source>
-              </audio>  
+  </style>
 
-            </div>
-          </nav>
-          <center>
- 
-          <ul id="playlist">
+  <div class="player-container">
+    <video
+      id="video"
+      class="video-js"
+      height="300"
+      width="600"
+      controls>
+      <source src="https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8" type="application/x-mpegURL">
+    </video>
 
-            <h1>RÁDIOS AM</h1>
-           
-            <li class="current-song" style="width: 100%;">
-              <div class="card text-white bg-dark mb-3" style="width: 100%;">
+    <div class="vjs-playlist">
+      <!--
+        The contents of this element will be filled based on the
+        currently loaded playlist
+      -->
+    </div>
+  </div>
 
-              <div class="card-body">
-                <h5 class="card-title">1- RÁDIO CLUBE DO PARÁ</h5>
-                <p class="card-text"></p>
-                <a href="https://ice01.kshost.com.br:8000/live" class="btn btn-primary">Ouvir</a>
-                <a href="#" class="btn btn-primary">Pause</a>
-              </div>
-           </li>
+  <script src="video.js"></script>
+  <script src="videojs-playlist.js"></script>
+  <script src="videojs-playlist-ui.js"></script>
+  <script>
+    var player = videojs('video');
 
-            <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-              <img class="card-img-top" src="https://1.bp.blogspot.com/-FJl5s36LyDw/YTzildRU7OI/AAAAAAAABD4/qnsZGumcaDUb_GuYQpAFnz4iXJUWlqN9QCLcBGAsYHQ/s200/marajoara.jpg">
-              <div class="card-body">
-                <h5 class="card-title">2- Rádio Marajoara</h5>
-                <p class="card-text"></p>
-                <a href="https://www.bravecenterhost.com:8020/stream" class="btn btn-primary">Ouvir</a>
-                <a href="#" class="btn btn-primary">Pause</a>
-              </div>
-            </div></li>
+    player.playlist([{
+      name: 'Disney\'s Oceans 1',
+      description: 'Explore the depths of our planet\'s oceans. ' +
+        'Experience the stories that connect their world to ours. ' +
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, ' +
+        'sed do eiusmod tempor incididunt ut labore et dolore magna ' +
+        'aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ' +
+        'laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure ' +
+        'dolor in reprehenderit in voluptate velit esse cillum dolore eu ' +
+        'fugiat nulla pariatur. Excepteur sint occaecat cupidatat non ' +
+        'proident, sunt in culpa qui officia deserunt mollit anim id est ' +
+        'laborum.',
+      duration: 45,
+      sources: [
+        { src: 'https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8', type: 'application/x-mpegURL' },
 
-          
-           
-            
+      ],
 
+      // you can use <picture> syntax to display responsive images
+      thumbnail: [
+        {
+          srcset: 'test/example/oceans.jpg',
+          type: 'image/jpeg',
+          media: '(min-width: 400px;)'
+        },
+        {
+          src: 'test/example/oceans-low.jpg'
+        }
+      ]
+    },
+    {
+      name: 'Disney\'s Oceans 2',
+      description: 'Explore the depths of our planet\'s oceans. ' +
+        'Experience the stories that connect their world to ours. ' +
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, ' +
+        'sed do eiusmod tempor incididunt ut labore et dolore magna ' +
+        'aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ' +
+        'laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure ' +
+        'dolor in reprehenderit in voluptate velit esse cillum dolore eu ' +
+        'fugiat nulla pariatur. Excepteur sint occaecat cupidatat non ' +
+        'proident, sunt in culpa qui officia deserunt mollit anim id est ' +
+        'laborum.',
+      duration: 45,
+      sources: [
+        { src: 'http://vjs.zencdn.net/v/oceans.mp4?2', type: 'video/mp4' },
+        { src: 'http://vjs.zencdn.net/v/oceans.webm?2', type: 'video/webm' },
+      ],
 
-          
-            
-          <h1>RÁDIOS FM</h1><div class="card-group">
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://blogger.googleusercontent.com/img/a/AVvXsEgOnuvLYhLtmyt9WmJN32_i2wPeOJbfPatLtatxUksLhD_Nev7v5saLrwWbMxPfyUYysEKcRxTc1R1cS-HYBxwFocsyOC0ASMSvtiNt96hpc_WoYJvOSidyLrHXMySg9iXACIya2niAHUlBAw_pLkO9BWGUFnWWjRvTM6sTDcLv6cyRRRoyott82Vnz=s200">
-            <div class="card-body">
-              <h5 class="card-title">Rádio Diário FM</h5>
-              <p class="card-text"></p>
-              <a href="https://hts02.kshost.com.br:8856/live" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
+      // you can use <picture> syntax to display responsive images
+      thumbnail: [
+        {
+          srcset: 'test/example/oceans.jpg?2',
+          type: 'image/jpeg',
+          media: '(min-width: 400px;)'
+        },
+        {
+          src: 'test/example/oceans-low.jpg?2'
+        }
+      ]
+    },
+    {
+      name: 'Disney\'s Oceans 3',
+      description: 'Explore the depths of our planet\'s oceans. ' +
+        'Experience the stories that connect their world to ours. ' +
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, ' +
+        'sed do eiusmod tempor incididunt ut labore et dolore magna ' +
+        'aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ' +
+        'laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure ' +
+        'dolor in reprehenderit in voluptate velit esse cillum dolore eu ' +
+        'fugiat nulla pariatur. Excepteur sint occaecat cupidatat non ' +
+        'proident, sunt in culpa qui officia deserunt mollit anim id est ' +
+        'laborum.',
+      duration: 45,
+      sources: [
+        { src: 'http://vjs.zencdn.net/v/oceans.mp4?3', type: 'video/mp4' },
+        { src: 'http://vjs.zencdn.net/v/oceans.webm?3', type: 'video/webm' },
+      ],
 
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://www.radiorauland.com.br/admin/assets/img/logo.png">
-            <div class="card-body">
-              <h5 class="card-title">RAULAND FM</h5>
-              <p class="card-text"></p>
-              <a href="https://stm1.srvif.com:6672/stream" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
+      // you can use <picture> syntax to display responsive images
+      thumbnail: [
+        {
+          srcset: 'test/example/oceans.jpg?3',
+          type: 'image/jpeg',
+          media: '(min-width: 400px;)'
+        },
+        {
+          src: 'test/example/oceans-low.jpg?3'
+        }
+      ]
+    },
+    {
+      name: 'Disney\'s Oceans 4',
+      description: 'Abc.',
+      duration: 45,
+      sources: [
+        { src: 'http://vjs.zencdn.net/v/oceans.mp4?4', type: 'video/mp4' },
+        { src: 'http://vjs.zencdn.net/v/oceans.webm?4', type: 'video/webm' },
+      ],
 
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijMnhcwDUHaVugEJWy3Y1CXkwMtZN1EnyuOJ4JzcKewlE_djg-agH5S5A8aYCUFzQ6ezgcqqqZQMoSn6A9fusTpd4mLZ1UyLo_fX9IyJGgBo5dpaZ3m-fEIz6CJJlpEl5ApoxfaY5462GY2JZK8iAfi6l8eppjHloJjUPjvrsxqPL0KUP4DULdsTTL/s1600/radiocabana.webp">
-            <div class="card-body">
-              <h5 class="card-title">Rádio Cabana 87.9 FM</h5>
-              <p class="card-text"></p>
-              <a href="https://ssl.xcast.com.br:7396/mountpoint" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
+      // you can use <picture> syntax to display responsive images
+      thumbnail: [
+        {
+          srcset: 'test/example/oceans.jpg?4',
+          type: 'image/jpeg',
+          media: '(min-width: 400px;)'
+        },
+        {
+          src: 'test/example/oceans-low.jpg?4'
+        }
+      ]
+    },
+    {
+      name: 'Disney\'s Oceans 5',
+      description: 'Abc.',
+      duration: 45,
+      sources: [
+        { src: 'http://vjs.zencdn.net/v/oceans.mp4?5', type: 'video/mp4' },
+        { src: 'http://vjs.zencdn.net/v/oceans.webm?5', type: 'video/webm' },
+      ],
 
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg34lQGNc-Hui3q9xEU3pBxOC4CsXXxxfnjUebIgodguhhdKOHJc4IqhMUruAd_csyJyK2S62OHqlxcWMwtLV6uLzKqCdtwN8M4ydUubDFTXdZxBfiXA-jj1F66mfbYwq3YwR4z1ryRjA1XlVTgt23SD76dYmxhFhu6Nu0rFvKOxmL0ZpXsk6CNtSMc/s1600/mixbelem200.webp">
-            <div class="card-body">
-              <h5 class="card-title">Radio Mix Belém</h5>
-              <p class="card-text"></p>
-              <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_BELEMPARAAAC.aac" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
+      // you can use <picture> syntax to display responsive images
+      thumbnail: [
+        {
+          srcset: 'test/example/oceans.jpg?5',
+          type: 'image/jpeg',
+          media: '(min-width: 400px;)'
+        },
+        {
+          src: 'test/example/oceans-low.jpg?5'
+        }
+      ]
+    },
+    {
+      name: 'Disney\'s Oceans 6',
+      description: 'Abc.',
+      duration: 45,
+      sources: [
+        { src: 'http://vjs.zencdn.net/v/oceans.mp4?6', type: 'video/mp4' },
+        { src: 'http://vjs.zencdn.net/v/oceans.webm?6', type: 'video/webm' },
+      ],
 
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://www.cxradio.com.br/img/Radio/Logo/8e2d97bb3fe9df70cb6cbae6ddedfebc.png">
-            <div class="card-body">
-              <h5 class="card-title">Rádio 99FM</h5>
-              <p class="card-text"></p>
-              <a href="https://hts02.kshost.com.br:8862/;stream/1" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
+      // you can use <picture> syntax to display responsive images
+      thumbnail: [
+        {
+          srcset: 'test/example/oceans.jpg?6',
+          type: 'image/jpeg',
+          media: '(min-width: 400px;)'
+        },
+        {
+          src: 'test/example/oceans-low.jpg?6'
+        }
+      ]
+    }, {
+      name: 'Sintel (No Thumbnail)',
+      description: 'The film follows a girl named Sintel who is searching for a baby dragon she calls Scales.',
+      sources: [
+        { src: 'http://media.w3.org/2010/05/sintel/trailer.mp4', type: 'video/mp4' },
+        { src: 'http://media.w3.org/2010/05/sintel/trailer.webm', type: 'video/webm' },
+        { src: 'http://media.w3.org/2010/05/sintel/trailer.ogv', type: 'video/ogg' }
+      ],
+      thumbnail: false
+    },
 
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://www.cxradio.com.br/img/Radio/Logo/1b6dd37c5a8af87b331cf356c941b03e.webp">
-            <div class="card-body">
-              <h5 class="card-title">Rádio Roma FM - 90.5 FM</h5>
-              <p class="card-text"></p>
-              <a href="https://www.bravecenterhost.com:8014/stream" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
+    // This is a really underspecified video to demonstrate the
+    // behavior when optional parameters are missing. You'll get better
+    // results with more video metadata!
+    {
+      name: 'Invalid Source',
+      sources: [{
+        src: 'Invalid'
+      }]
+    }]);
 
-
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://1.bp.blogspot.com/-ABYn-_1KKmk/YUEgXTKMmHI/AAAAAAAABFI/88X7Ne4KPdYh-nNPcmE8EnOYhfvzlEjfgCLcBGAsYHQ/s200/liberdadefm200.png">
-            <div class="card-body">
-              <h5 class="card-title">Rádio Liberdade FM</h5>
-              <p class="card-text"></p>
-              <a href="https://s28.maxcast.com.br:8060/live" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
-
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://www.cxradio.com.br/img/Radio/Logo/5ff1548bfde28bbba74d9671d20810ba.webp">
-            <div class="card-body">
-              <h5 class="card-title">Rádio Onda Digital FM - 104.7 FM</h5>
-              <p class="card-text"></p>
-              <a href="https://boasnovasaac.jmvstream.com/stream" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
-
-
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://www.cxradio.com.br/img/Radio/Logo/1fc4a924664d0fb1156edc159afce69e.jpg">
-            <div class="card-body">
-              <h5 class="card-title">Rádio Amazônia FM - 88.5</h5>
-              <p class="card-text"></p>
-              <a href="https://s18.maxcast.com.br:8707/live" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
-
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://www.cxradio.com.br/img/Radio/Logo/5c8b694a8de44d39f2126b0b8f06fdaf.png">
-            <div class="card-body">
-              <h5 class="card-title">Rádio Estevão Online</h5>
-              <p class="card-text"></p>
-              <a href="https://player.srvsh.com.br/proxy/8048" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
-
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://www.cxradio.com.br/img/Radio/Logo/215cf9ca4f2744872f23ee022a6807bb.jpg">
-            <div class="card-body">
-              <h5 class="card-title">Rádio Regional FM - 91.3</h5>
-              <p class="card-text"></p>
-              <a href="https://wms5.webradios.com.br:19050/9050" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
-
-
-
-          <li><div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <img class="card-img-top" src="https://www.cxradio.com.br/img/Radio/Logo/76506e1ef2de98dcaa2a645c1286df46.png">
-            <div class="card-body">
-              <h5 class="card-title">Rádio Você FM - 92.1 FM</h5>
-              <p class="card-text"></p>
-              <a href="https://stream02.ouveai.com.br:8018/stream" class="btn btn-primary">Ouvir</a>
-              <a href="#" class="btn btn-primary">Pause</a>
-            </div>
-          </div></li>
-
-          
-        
-        </div>
-          
-          </ul></center></div></class>
-        
-        </div>
-   
-          <script type="text/javascript">
-    
-    function audioPlayer(){
-                var currentSong = 0;
-                $("#audioPlayer")[0].src = $("#playlist li a")[0];
-                $("#audioPlayer")[0].play();
-                $("#playlist li a").click(function(e){
-                   e.preventDefault(); 
-                   $("#audioPlayer")[0].src = this;
-                   $("#audioPlayer")[0].play();
-                   $("#playlist li").removeClass("current-song");
-                    currentSong = $(this).parent().index();
-                    $(this).parent().addClass("current-song");
-                });
-                
-                $("#audioPlayer")[0].addEventListener("ended", function(){
-                   currentSong++;
-                    if(currentSong == $("#playlist li a").length)
-                        currentSong = 0;
-                    $("#playlist li").removeClass("current-song");
-                    $("#playlist li:eq("+currentSong+")").addClass("current-song");
-                    $("#audioPlayer")[0].src = $("#playlist li a")[currentSong].href;
-                    $("#audioPlayer")[0].play();
-                });
-            }
-    
-    
-    
-          </script>
-    
-          <script>
-            // loads the audio player
-            audioPlayer();
-        </script>
-        <script src="main.js"></script>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-    </body>
-    </html>
+    // Initialize the playlist-ui plugin with no option (i.e. the defaults).
+    player.playlistUi();
+  </script>
+</body>
+</html>
