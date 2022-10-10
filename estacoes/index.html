@@ -532,7 +532,8 @@
 </style>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
+<script src="./jwplayer-7.12.13/jwplayer.js"></script>
+<script>jwplayer.key="cyqyemUR5d0lUIqO0pP3uLOfnm5mjt0K6pOJkB4e5fA=";</script>
 
     </head>
     <body>
@@ -593,6 +594,23 @@
 <li><a href="https://www.bravecenterhost.com:8020/stream" class="icon-play-2 radioid"><img src="https://1.bp.blogspot.com/-FJl5s36LyDw/YTzildRU7OI/AAAAAAAABD4/qnsZGumcaDUb_GuYQpAFnz4iXJUWlqN9QCLcBGAsYHQ/s200/marajoara.jpg" width="265" height="265" alt="Rádio JP FM" /></a></li>
 
 <li><a href="https://ssl.xcast.com.br:7396/mountpoint" class="icon-play-2 radioid"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijMnhcwDUHaVugEJWy3Y1CXkwMtZN1EnyuOJ4JzcKewlE_djg-agH5S5A8aYCUFzQ6ezgcqqqZQMoSn6A9fusTpd4mLZ1UyLo_fX9IyJGgBo5dpaZ3m-fEIz6CJJlpEl5ApoxfaY5462GY2JZK8iAfi6l8eppjHloJjUPjvrsxqPL0KUP4DULdsTTL/s1600/radiocabana.web" width="265" height="265" alt="Rádio JP FM" /></a></li>
+
+<li>
+    
+       <img src="https://static-kbo-site.knbcdn.com.br/kboingfm/img-radios/kboingfm.jpg" width="265" height="265" alt="Rádio Kboing FM" />
+       <div id="myElement">Loading the player...</div>
+       <script type="text/javascript">
+       var playerInstance = jwplayer("myElement");
+       playerInstance.setup({
+       file: "https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8",
+       type: "audio/m3u8",
+       autostart: false,
+       volume: 100,
+       width: 265,
+       height: 40
+       });
+       </script>
+ </li>
            
     
                      </ul></div>
