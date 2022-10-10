@@ -607,9 +607,9 @@ position: fixed;
 
 <li><a href="https://ssl.xcast.com.br:7396/mountpoint" ><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijMnhcwDUHaVugEJWy3Y1CXkwMtZN1EnyuOJ4JzcKewlE_djg-agH5S5A8aYCUFzQ6ezgcqqqZQMoSn6A9fusTpd4mLZ1UyLo_fX9IyJGgBo5dpaZ3m-fEIz6CJJlpEl5ApoxfaY5462GY2JZK8iAfi6l8eppjHloJjUPjvrsxqPL0KUP4DULdsTTL/s1600/radiocabana.web" width="265" height="265" alt="Rádio JP FM" /></a></li>
 
+
 <li>
     
-       <img src="https://static-kbo-site.knbcdn.com.br/kboingfm/img-radios/kboingfm.jpg" width="265" height="265" alt="Rádio Kboing FM" />
        <div id="myElement">Loading the player...</div>
        <script type="text/javascript">
        var playerInstance = jwplayer("myElement");
@@ -619,17 +619,41 @@ position: fixed;
        autostart: false,
        volume: 100,
        width: 265,
-       height: 40
+       height: 265,
+       image: "https://static-kbo-site.knbcdn.com.br/kboingfm/img-radios/kboingfm.jpg",
+       title: "Kboing FM",
+       play:true,
+       pause:true,
        });
        </script>
  </li>
 
- <li><img src="https://static-kbo-site.knbcdn.com.br/kboingfm/img-radios/radio-hits-sertanejo.jpg" width="265" height="265" alt="Rádio Kboing FM" /><div id="myElement2">Loading the player...</div><script type="text/javascript">var playerInstance = jwplayer("myElement2");
-playerInstance.setup({file: "https://stream.knbcdn.com.br/hits-sertanejo/playlist.m3u8",type: "audio/m3u8",autostart: false,volume: 100,width: 265,height: 40});</script></li>
+ <li><div id="myElement2">Loading the player...</div><script type="text/javascript">var playerInstance = jwplayer("myElement2");
+playerInstance.setup({file: "https://stream.knbcdn.com.br/hits-sertanejo/playlist.m3u8",type: "audio/m3u8",autostart: false,volume: 100, width: 265,
+       height: 265,
+       image: "https://static-kbo-site.knbcdn.com.br/kboingfm/img-radios/radio-hits-sertanejo.jpg",
+       title: "Kboing FM",
+       play:true,
+       pause:true,
+       });</script></li>
 
-<li><img src="https://static-kbo-site.knbcdn.com.br/kboingfm/img-radios/radio-hits-fm.jpg" width="265" height="265" alt="Rádio Kboing FM" /><div id="myElement3">Loading the player...</div><script type="text/javascript">var playerInstance = jwplayer("myElement3");
-    playerInstance.setup({file: "https://stream.knbcdn.com.br/hits-fm/playlist.m3u8",type: "audio/m3u8",autostart: false,volume: 100,width: 265,height: 40});</script></li>
+<li><div id="myElement3"></div><script type="text/javascript">var playerInstance = jwplayer("myElement3");
+    playerInstance.setup({file: "https://stream.knbcdn.com.br/hits-fm/playlist.m3u8",type: "audio/m3u8",autostart: false,volume: 100,width: 265,
+       height: 265,
+       image: "https://static-kbo-site.knbcdn.com.br/kboingfm/img-radios/radio-hits-fm.jpg",
+       title: "Kboing FM",
+       play:true,
+       pause:true,
+       });</script></li>
 
+<li><div id="myElement4"></div><script type="text/javascript">var playerInstance = jwplayer("myElement4");
+    playerInstance.setup({file: "https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8",type: "audio/m3u8",autostart: false,volume: 100,width: 265,
+       height: 265,
+       image: "https://www.vagalume.com.br/14619606471054026608/default",
+       title: "Vagalume FM",
+       play:true,
+       pause:true,
+       });</script></li>
 
 
            
