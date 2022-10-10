@@ -105,13 +105,13 @@
       font-size: 100%;
       font: inherit;
       vertical-align: baseline;
-  }radios\kboingfm\img\kb.png
+  }
   body{
       font-size:13px;
       font-family:'Open Sans', Arial, Helvetica, sans-serif;
       min-width:985px;
       color:#fff;
-      background:url(/radios/kboingfm/img/kb.png) no-repeat top center #3b3b3b;
+      background:url(https://jpp-ap.onrender.com/radios/kboingfm/img/kb.png) no-repeat top center #3b3b3b;
       background-size:cover;
   }
   strong, b{
