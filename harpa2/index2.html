@@ -1,0 +1,649 @@
+
+<!DOCTYPE html><html lang="pt-BR" dir="ltr"><head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+   <meta name="description" content="O melhor da música nacional sertaneja com lançamentos e grandes sucessos! Só música, sem propaganda! Sertanejo Hits">
+   <meta name="msapplication-navbutton-color" c1ontent="#333">
+   <meta name="apple-mobile-web-app-status-bar-style" content="#333">
+   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+   <meta name="apple-mobile-web-app-capable" content="yes">
+   <meta name="apple-mobile-web-app-title" content="Vagalume.FM">
+   <meta name="apple-itunes-app" content="app-id=1154246231">
+
+   <link rel="prefetch" href="//img.vagalume.fm/css/fonts/vagalumeFM_icons.woff" as="font">
+   <link rel="preload" href="//img.vagalume.fm/css/fm.min.css" as="style">
+   <link rel="preload" href="//img.vagalume.fm/js/fm.min.js" as="script">
+
+   <link rel="preconnect" href="https://img.vagalume.fm">
+   <link rel="preconnect" href="https://api.vagalume.fm">
+
+   <link rel="preload" href="https://api.vagalume.fm/v2/static/all.json" as="fetch">
+   <link rel="preload" href="https://api.vagalume.fm/v2/all/listeners?source=app" as="fetch">
+
+   <link rel="dns-prefetch" href="https://s2.vagalume.com">
+
+   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,400,500">
+
+   
+   <script id="vData">
+      window.stationData = {"id":"14619606471054026608","name":"Sertanejo Hits","slug":"sertanejo","desc_station":"O melhor da música nacional sertaneja com lançamentos e grandes sucessos!","status":"active","ts":"1467301757","duration_minutes":"941.07","active_musics":"308","updated":"1660082014","artists":[{"id":"3ade68b7g3f7e1ea3","name":"Marília Mendonça","url":"https://www.vagalume.com.br/marilia-mendonca/","slug":"marilia-mendonca","img":{"small":"https://s2.vagalume.com/marilia-mendonca/images/profile.jpg","medium":"https://s2.vagalume.com/marilia-mendonca/images/marilia-mendonca.jpg"}},{"id":"3ade68b6g39a2fda3","name":"Jorge e Mateus","url":"https://www.vagalume.com.br/jorge-e-mateus/","slug":"jorge-e-mateus","img":{"small":"https://s2.vagalume.com/jorge-e-mateus/images/profile.jpg","medium":"https://s2.vagalume.com/jorge-e-mateus/images/jorge-e-mateus.jpg"}},{"id":"3ade68b7g73521ea3","name":"Henrique e Juliano","url":"https://www.vagalume.com.br/henrique-e-juliano/","slug":"henrique-e-juliano","img":{"small":"https://s2.vagalume.com/henrique-e-juliano/images/profile.jpg","medium":"https://s2.vagalume.com/henrique-e-juliano/images/henrique-e-juliano.jpg"}},{"id":"3ade68b5g1b38eda3","name":"Bruno e Marrone","url":"https://www.vagalume.com.br/bruno-e-marrone/","slug":"bruno-e-marrone","img":{"small":"https://s2.vagalume.com/bruno-e-marrone/images/profile.jpg","medium":"https://s2.vagalume.com/bruno-e-marrone/images/bruno-e-marrone.jpg"}},{"id":"3ade68b7g75621ea3","name":"Gusttavo Lima","url":"https://www.vagalume.com.br/gusttavo-lima/","slug":"gusttavo-lima","img":{"small":"https://s2.vagalume.com/gusttavo-lima/images/profile.jpg","medium":"https://s2.vagalume.com/gusttavo-lima/images/gusttavo-lima.jpg"}},{"id":"3ade68b7gf2a40ea3","name":"Luan Santana","url":"https://www.vagalume.com.br/luan-santana/","slug":"luan-santana","img":{"small":"https://s2.vagalume.com/luan-santana/images/profile.jpg","medium":"https://s2.vagalume.com/luan-santana/images/luan-santana.jpg"}},{"id":"3ade68b7g201b1ea3","name":"Matheus e Kauan","url":"https://www.vagalume.com.br/matheus-e-kauan/","slug":"matheus-e-kauan","img":{"small":"https://s2.vagalume.com/matheus-e-kauan/images/profile.jpg","medium":"https://s2.vagalume.com/matheus-e-kauan/images/matheus-e-kauan.jpg"}},{"id":"3ade68b7g09ab2ea3","name":"Tierry","url":"https://www.vagalume.com.br/tierry/","slug":"tierry","img":{"small":"https://s2.vagalume.com/tierry/images/profile.jpg","medium":"https://s2.vagalume.com/tierry/images/tierry.jpg"}},{"id":"3ade68b7g1d902ea3","name":"Maiara e Maraisa","url":"https://www.vagalume.com.br/maiara-e-maraisa/","slug":"maiara-e-maraisa","img":{"small":"https://s2.vagalume.com/maiara-e-maraisa/images/profile.jpg","medium":"https://s2.vagalume.com/maiara-e-maraisa/images/maiara-e-maraisa.jpg"}},{"id":"3ade68b7g09712ea3","name":"Zé Neto e Cristiano","url":"https://www.vagalume.com.br/ze-neto-e-cristiano/","slug":"ze-neto-e-cristiano","img":{"small":"https://s2.vagalume.com/ze-neto-e-cristiano/images/profile.jpg","medium":"https://s2.vagalume.com/ze-neto-e-cristiano/images/ze-neto-e-cristiano.jpg"}}],"related":[{"id":"1470155128108369","name":"Country Hits","slug":"country-hits","desc_station":"Os grandes sucessos da Country Music, com Shania Twain, Blake Shelton, Taylor Swift e muito mais!","status":"active","ts":"1470155128","duration_minutes":"332.61","active_musics":"90","updated":"2021-05-28 19:44:17","img":{"bg":"https://img.vagalume.fm/1470155128108369/bg","bg-low":"https://img.vagalume.fm/1470155128108369/bg-low","featured":"https://img.vagalume.fm/1470155128108369/featured","default":"https://www.vagalume.com.br/1470155128108369/default","icon":"https://img.vagalume.fm/1470155128108369/icon"}},{"id":"1476469524740247","name":"Lançamentos","slug":"lancamentos","desc_station":"Escute os mais recentes lançamentos, em nossa estação sempre atualizada com as melhores novidades!","status":"active","ts":"1476469524","duration_minutes":"297.16","active_musics":"94","updated":"2022-04-12 00:19:59","img":{"bg":"https://img.vagalume.fm/1476469524740247/bg","bg-low":"https://img.vagalume.fm/1476469524740247/bg-low","featured":"https://img.vagalume.fm/1476469524740247/featured","default":"https://www.vagalume.com.br/1476469524740247/default","icon":"https://img.vagalume.fm/1476469524740247/icon"}},{"id":"1486574587925026","name":"Sertanejo Raiz","slug":"sertanejo-raiz","desc_station":"O melhor da música caipira, moda de viola e alguns dos clássicos do Sertanejo!","status":"active","ts":"1486574587","duration_minutes":"3.07","active_musics":"1","updated":"2020-07-22 00:25:56","img":{"bg":"https://img.vagalume.fm/1486574587925026/bg","bg-low":"https://img.vagalume.fm/1486574587925026/bg-low","featured":"https://img.vagalume.fm/1486574587925026/featured","default":"https://www.vagalume.com.br/1486574587925026/default","icon":"https://img.vagalume.fm/1486574587925026/icon"}},{"id":"1520610884317212","name":"Divas do Sertanejo","slug":"divas-do-sertanejo","desc_station":"Uma estação apenas com os grandes nomes femininos da música sertaneja brasileira!","status":"active","ts":"1527699562","duration_minutes":"201.41","active_musics":"68","updated":"2020-10-27 01:31:06","img":{"bg":"https://img.vagalume.fm/1520610884317212/bg","bg-low":"https://img.vagalume.fm/1520610884317212/bg-low","featured":"https://img.vagalume.fm/1520610884317212/featured","default":"https://www.vagalume.com.br/1520610884317212/default","icon":"https://img.vagalume.fm/1520610884317212/icon"}},{"id":"1520958056484488","name":"Country Clássicos","slug":"country-classicos","desc_station":"As músicas e artistas que marcaram época da Country Music!","status":"active","ts":"1523398174","duration_minutes":"225.78","active_musics":"75","updated":"2020-10-23 14:17:23","img":{"bg":"https://img.vagalume.fm/1520958056484488/bg","bg-low":"https://img.vagalume.fm/1520958056484488/bg-low","featured":"https://img.vagalume.fm/1520958056484488/featured","default":"https://www.vagalume.com.br/1520958056484488/default","icon":"https://img.vagalume.fm/1520958056484488/icon"}},{"id":"1529095568377255","name":"Sertanejo Sofrência","slug":"sertanejo-sofrencia","desc_station":"Uma seleção de músicas para acompanhar as lágrimas e solidão ao ritmo do sertanejo!","status":"active","ts":"1532981053","duration_minutes":"2.47","active_musics":"1","updated":"2020-07-22 00:26:13","img":{"bg":"https://img.vagalume.fm/1529095568377255/bg","bg-low":"https://img.vagalume.fm/1529095568377255/bg-low","featured":"https://img.vagalume.fm/1529095568377255/featured","default":"https://www.vagalume.com.br/1529095568377255/default","icon":"https://img.vagalume.fm/1529095568377255/icon"}},{"id":"14619606471054026608","name":"Sertanejo Hits","slug":"sertanejo","desc_station":"O melhor da música nacional sertaneja com lançamentos e grandes sucessos!","status":"active","ts":"1467301757","duration_minutes":"941.07","active_musics":"308","updated":"2022-08-09 18:53:34","img":{"bg":"https://img.vagalume.fm/14619606471054026608/bg","bg-low":"https://img.vagalume.fm/14619606471054026608/bg-low","featured":"https://img.vagalume.fm/14619606471054026608/featured","default":"https://www.vagalume.com.br/14619606471054026608/default","icon":"https://img.vagalume.fm/14619606471054026608/icon"}},{"id":"14623883771774082279","name":"Vagalume Vibe","slug":"vagalume-vibe","desc_station":"A estação principal do Vagalume com uma seleção de músicas com a nossa vibe.","status":"active","ts":"1467301757","duration_minutes":"2598.94","active_musics":"712","updated":"2022-06-30 06:20:33","img":{"bg":"https://img.vagalume.fm/14623883771774082279/bg","bg-low":"https://img.vagalume.fm/14623883771774082279/bg-low","featured":"https://img.vagalume.fm/14623883771774082279/featured","default":"https://www.vagalume.com.br/14623883771774082279/default","icon":"https://img.vagalume.fm/14623883771774082279/icon"}},{"id":"14647977281792658143","name":"Rock Clássico","slug":"rock-classico","desc_station":"Relembre os clássicos e artistas que ajudaram a tornar o rock um dos estilos mais queridos da música.","status":"active","ts":"1464797728","duration_minutes":"3.12","active_musics":"1","updated":"2020-07-22 00:24:16","img":{"bg":"https://img.vagalume.fm/14647977281792658143/bg","bg-low":"https://img.vagalume.fm/14647977281792658143/bg-low","featured":"https://img.vagalume.fm/14647977281792658143/featured","default":"https://www.vagalume.com.br/14647977281792658143/default","icon":"https://img.vagalume.fm/14647977281792658143/icon"}},{"id":"14660050141766497579","name":"Pop","slug":"pop","desc_station":"Os maiores hits da música pop do século XXI!","status":"active","ts":"1466005014","duration_minutes":"2516.08","active_musics":"698","updated":"2021-02-18 02:18:26","img":{"bg":"https://img.vagalume.fm/14660050141766497579/bg","bg-low":"https://img.vagalume.fm/14660050141766497579/bg-low","featured":"https://img.vagalume.fm/14660050141766497579/featured","default":"https://www.vagalume.com.br/14660050141766497579/default","icon":"https://img.vagalume.fm/14660050141766497579/icon"}}],"img":{"bg":"https://img.vagalume.fm/14619606471054026608/bg","bg-low":"https://img.vagalume.fm/14619606471054026608/bg-low","featured":"https://img.vagalume.fm/14619606471054026608/featured","default":"https://www.vagalume.com.br/14619606471054026608/default","icon":"https://img.vagalume.fm/14619606471054026608/icon"},"stream":{"hls":"http://stream.vagalume.fm/hls/14619606471054026608.m3u8","aac":"http://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8","master":"http://stream.vagalume.fm/hls/14619606471054026608/master.m3u8","master_ts":"http://stream.vagalume.fm/hls/14619606471054026608/master-ts.m3u8"},"stream_ssl":{"hls":"https://stream.vagalume.fm/hls/14619606471054026608.m3u8","aac":"https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8","master":"https://stream.vagalume.fm/hls/14619606471054026608/master.m3u8","master_ts":"https://stream.vagalume.fm/hls/14619606471054026608/master-ts.m3u8"}};
+   </script>
+   
+
+   <title>Sertanejo Hits - Vagalume.FM 📻</title>
+
+   <link rel="apple-touch-icon" sizes="180x180" href="//img.vagalume.fm/img/apple-touch-icon.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="//img.vagalume.fm/img/favicon-32x32.png">
+   <link rel="icon" type="image/png" sizes="16x16" href="//img.vagalume.fm/img/favicon-16x16.png">
+   <link rel="manifest" href="/manifest.json">
+   <link rel="mask-icon" href="//img.vagalume.fm/img/safari-pinned-tab.svg" color="#5bbad5">
+   <link rel="shortcut icon" href="//img.vagalume.fm/img/favicon.ico">
+   <meta name="msapplication-TileColor" content="#ccff00">
+   <meta name="msapplication-config" content="/config/browserconfig.xml">
+   <meta name="theme-color" content="#333">
+
+   <meta property="og:title" content="Sertanejo Hits - Vagalume.FM 📻">
+   <meta property="og:site_name" content="Vagalume.FM">
+   <meta property="og:description" content="O melhor da música nacional sertaneja com lançamentos e grandes sucessos! Só música, sem propaganda! Sertanejo Hits">
+   
+      <meta property="og:image" content="https://img.vagalume.fm/14619606471054026608/featured">
+   
+
+   <meta name="twitter:card" content="app">
+   <meta name="twitter:title" content="Sertanejo Hits - Vagalume.FM 📻">
+   <meta name="twitter:description" content="">
+   <meta name="twitter:app:country" content="BR">
+   <meta name="twitter:app:name:iphone" content="Vagalume.FM">
+   <meta name="twitter:app:id:iphone" content="1154246231">
+   <meta name="twitter:app:url:iphone" content="vagalumefm://home/">
+   <meta name="twitter:app:name:ipad" content="Vagalume.FM">
+   <meta name="twitter:app:id:ipad" content="1154246231">
+   <meta name="twitter:app:url:ipad" content="vagalumefm://home/">
+   <meta name="twitter:app:name:googleplay" content="Vagalume.FM">
+   <meta name="twitter:app:id:googleplay" content="br.com.vagalume.fm">
+   <meta name="twitter:app:url:googleplay" content="vagalumefm://home/">
+
+   <link rel="stylesheet" type="text/css" href="/css/fm.min.css">
+   <script src="https://www.googletagservices.com/tag/js/gpt.js" async=""></script>
+   <script>
+   // Inicializa o Firebase
+   var config = {
+      apiKey: "AIzaSyARA4hmHvachafjAnVoD816nG0xwgO7vzA",
+      authDomain: "vagalume-fm.firebaseapp.com",
+      databaseURL: "https://vagalume-fm.firebaseio.com",
+      projectId: "vagalume-fm",
+      storageBucket: "vagalume-fm.appspot.com",
+      messagingSenderId: "10204735076"
+   };
+   </script>
+   <script async="" src="https://www.gstatic.com/firebasejs/4.6.0/firebase.js" onload="firebase.initializeApp(config);"></script>
+
+                 <script id="adUnitAndHB" type="text/javascript">
+                 window.preAdUnitSlots = {"desktop":{"adStation1":{"slot":"vagalumefm/desktop_station_informacao","size":"[[970,250],[970,90],[728,90]]"},"adStation2":{"slot":"vagalumefm/desktop_station_informacao","size":"[[728,90]]"}},"mobile":{"adStation3":{"slot":"vagalumefm/mobile_station_informacao","size":"[[320,50],[320,100]]"}}};
+                 </script>
+             </head>
+<body data-plugin="ads">
+   <div id="parent">
+      <div id="content">
+         <header data-plugin="header">
+<a href="/">
+   <div title="Vagalume.FM" id="logo"></div>
+</a>
+<div id="menuContent">
+   <ul>
+      <li data-plugin="sub-menu">
+         <a title="Baixe o app" class="download-app">BAIXE O APP</a>
+         <ul class="sub-menu hide">
+            <li>
+               <a target="_blank" title="Baixe para Android" href="https://play.google.com/store/apps/details?id=br.com.vagalume.fm&amp;referrer=utm_source%3DHotsite+FM%26utm_campaign%3DMenu" onclick="ga('send', 'event', 'Download App', 'Android', 'Menu');">Android</a>
+            </li>
+            <li>
+               <a target="_blank" title="Baixe para iOS" href="https://itunes.apple.com/us/app/vagalume.fm/id1154246231?pt=677321&amp;ct=Hotsite%20FM%20-%20Menu&amp;mt=8" onclick="ga('send', 'event', 'Download App', 'iOS', 'Menu');">iOS</a>
+            </li>
+            <li>
+               <a target="_blank" title="Baixe para Amazon Alexa" href="https://www.amazon.com.br/gp/product/B08H5VFMVB" onclick="ga('send', 'event', 'Download App', 'Amazon Alexa', 'Menu');">Amazon Alexa</a>
+            </li>
+         </ul>
+      </li>
+      <li>
+         <a title="Sobre" href="/sobre/">SOBRE</a>
+      </li>
+   </ul>
+   <div id="search" data-plugin="search-box">
+      <input type="text" name="Busca" value="" placeholder="O que você quer ouvir?">
+      <div class="search-result hide">
+         <ul></ul>
+      </div>
+   </div>
+</div>
+<div class="app-badges">
+   <a target="_blank" title="Disponível no Google Play" href="https://play.google.com/store/apps/details?id=br.com.vagalume.fm&amp;referrer=utm_source%3DHotsite+FM%26utm_campaign%3DHeader" onclick="ga('send', 'event', 'Download App', 'Android', 'Header');"><img title="Disponível no Google Play" src="//img.vagalume.fm/img/google-play.png"></a>
+     <a target="_blank" title="Baixar na App Store" href="https://itunes.apple.com/us/app/vagalume.fm/id1154246231?pt=677321&amp;ct=Hotsite%20FM%20-%20Header&amp;mt=8" onclick="ga('send', 'event', 'Download App', 'iOS', 'Header');"><img title="Baixar na App Store" src="//img.vagalume.fm/img/app-store.png"></a>
+     <a target="_blank" title="Baixar na Amazon Alexa" href="https://www.amazon.com.br/gp/product/B08H5VFMVB" onclick="ga('send', 'event', 'Download App', 'Amazon Alexa', 'Header');"><img title="Baixar na Amazon Alexa" src="//img.vagalume.fm/img/amazon-alexa.png"></a>
+</div>
+</header>
+
+         <div id="pageContainer" data-plugin="station-autoplay">
+<div class="screen-padding">
+   <img src="https://img.vagalume.fm/14619606471054026608/bg-low" class="bg blur-bg" alt="Sertanejo Hits">
+   <div class="page-header">
+      <div>
+         <p>ESTAÇÃO</p>
+         <h1 id="pageTitle">Sertanejo Hits</h1>
+         <p class="breadcrumb">
+            <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+               <a itemprop="url" href="/">
+                  <span itemprop="title">
+                     Home
+                  </span>
+               </a>
+            </span>
+            <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+               <a itemprop="url" href="/sertanejo/">
+                  <b itemprop="title">
+                     Sertanejo Hits
+                  </b>
+               </a>
+            </span>
+         </p>
+      </div>
+      <div class="follow-content">
+         <button data-plugin="play-button" data-type="station" data-id="14619606471054026608" data-slug="sertanejo" class="play-pause full green play">
+            <span>PLAY</span>
+         </button>
+         <button data-id="14619606471054026608" class="follow-station" data-plugin="follow-button">
+            SEGUIR
+         </button>
+      </div>
+   </div>
+   <div class="station-info">
+      <div class="image-content station-pic">
+         <img class="img-default" src="https://www.vagalume.com.br/14619606471054026608/default" alt="Sertanejo Hits">
+         <button data-plugin="play-button" data-type="station" data-id="14619606471054026608" data-slug="sertanejo" class="play-pause green play">
+         </button>
+      </div>
+      <div class="desc-content">
+         <div data-plugin="station-listeners" data-id="14619606471054026608">
+            <h2>
+               O melhor da música nacional sertaneja com lançamentos e grandes sucessos!
+            </h2>
+            <span class="songs-qt"><b>308</b> músicas nesta estação</span>
+            
+            <span class="time-qt"><b>15h</b> de música sem repetição</span>
+         </div>
+      </div>
+      <div class="social-content">
+         
+         
+         <ul class="social-share">
+            <li class="facebook">
+               <a target="_blank" data-plugin="open-share" title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvagalume.fm%2Fsertanejo%2F" onclick="ga('send', 'event', 'Station', 'Share - Facebook', '14619606471054026608');">
+                  <span>Facebook</span>
+               </a>
+            </li>
+            <li class="twitter">
+               <a target="_blank" data-plugin="open-share" title="Twitter" href="http://twitter.com/share?text=Escutando%20a%20esta%C3%A7%C3%A3o%20Sertanejo%20Hits%20no%20Vagalume%20FM!%20%F0%9F%93%BB&amp;url=https%3A%2F%2Fvagalume.fm%2Fsertanejo%2F&amp;hashtags=nowplaying" onclick="ga('send', 'event', 'Station', 'Share - Twitter', '14619606471054026608');">
+                  <span>Twitter</span>
+               </a>
+            </li>
+            <li class="g-plus">
+               <a target="_blank" data-plugin="open-share" title="Google+" href="https://plus.google.com/share?url=https%3A%2F%2Fvagalume.fm%2Fsertanejo%2F" onclick="ga('send', 'event', 'Station', 'Share - Google', '14619606471054026608');">
+                  <span>Google+</span>
+               </a>
+            </li>
+            <li class="whatsapp">
+               <a target="_blank" data-plugin="open-share" title="WhatsApp" href="https://wa.me?text=Escutando%20a%20esta%C3%A7%C3%A3o%20Sertanejo%20Hits%20no%20Vagalume%20FM!%20%F0%9F%93%BB%20https%3A%2F%2Fvagalume.fm%2Fsertanejo%2F" onclick="ga('send', 'event', 'Station', 'Share - WhatsApp', '14619606471054026608');">
+                  <span>WhatsApp</span>
+               </a>
+            </li>
+         </ul>
+      </div>
+   </div>
+   <div id="adContent1" class="ad-content">
+      <div id="adStation1" class="ad" data-addeskslot="vagalumefm/desktop_station_informacao" data-addesksize="[[970,250],[970,90],[728,90]]"></div>
+   </div>
+   <div id="adContent2" class="ad-content">
+      <div id="adStation2" class="ad" data-addeskslot="vagalumefm/desktop_station_informacao" data-addesksize="[[728,90]]"></div>
+   </div>
+   <div id="adContent3" class="ad-content">
+      <div id="adStation3" class="ad" data-admobslot="vagalumefm/mobile_station_informacao" data-admobsize="[[320,50],[320,100]]"></div>
+   </div>
+   
+      <div class="station-artists">
+         <h3>ALGUNS ARTISTAS NESTA ESTAÇÃO</h3>
+         <ul>
+               
+                  <li>
+                     <a target="_blank" href="https://www.vagalume.com.br/marilia-mendonca/" title="Marília Mendonça">
+                        <picture>
+                           <img src="https://s2.vagalume.com/marilia-mendonca/images/marilia-mendonca.jpg" alt="Marília Mendonça">
+                        </picture>
+                        <p>Marília Mendonça</p>
+                     </a>
+                  </li>
+               
+                  <li>
+                     <a target="_blank" href="https://www.vagalume.com.br/jorge-e-mateus/" title="Jorge e Mateus">
+                        <picture>
+                           <img src="https://s2.vagalume.com/jorge-e-mateus/images/jorge-e-mateus.jpg" alt="Jorge e Mateus">
+                        </picture>
+                        <p>Jorge e Mateus</p>
+                     </a>
+                  </li>
+               
+                  <li>
+                     <a target="_blank" href="https://www.vagalume.com.br/henrique-e-juliano/" title="Henrique e Juliano">
+                        <picture>
+                           <img src="https://s2.vagalume.com/henrique-e-juliano/images/henrique-e-juliano.jpg" alt="Henrique e Juliano">
+                        </picture>
+                        <p>Henrique e Juliano</p>
+                     </a>
+                  </li>
+               
+                  <li>
+                     <a target="_blank" href="https://www.vagalume.com.br/bruno-e-marrone/" title="Bruno e Marrone">
+                        <picture>
+                           <img src="https://s2.vagalume.com/bruno-e-marrone/images/bruno-e-marrone.jpg" alt="Bruno e Marrone">
+                        </picture>
+                        <p>Bruno e Marrone</p>
+                     </a>
+                  </li>
+               
+                  <li>
+                     <a target="_blank" href="https://www.vagalume.com.br/gusttavo-lima/" title="Gusttavo Lima">
+                        <picture>
+                           <img src="https://s2.vagalume.com/gusttavo-lima/images/gusttavo-lima.jpg" alt="Gusttavo Lima">
+                        </picture>
+                        <p>Gusttavo Lima</p>
+                     </a>
+                  </li>
+               
+                  <li>
+                     <a target="_blank" href="https://www.vagalume.com.br/luan-santana/" title="Luan Santana">
+                        <picture>
+                           <img src="https://s2.vagalume.com/luan-santana/images/luan-santana.jpg" alt="Luan Santana">
+                        </picture>
+                        <p>Luan Santana</p>
+                     </a>
+                  </li>
+               
+                  <li>
+                     <a target="_blank" href="https://www.vagalume.com.br/matheus-e-kauan/" title="Matheus e Kauan">
+                        <picture>
+                           <img src="https://s2.vagalume.com/matheus-e-kauan/images/matheus-e-kauan.jpg" alt="Matheus e Kauan">
+                        </picture>
+                        <p>Matheus e Kauan</p>
+                     </a>
+                  </li>
+               
+                  <li>
+                     <a target="_blank" href="https://www.vagalume.com.br/tierry/" title="Tierry">
+                        <picture>
+                           <img src="https://s2.vagalume.com/tierry/images/tierry.jpg" alt="Tierry">
+                        </picture>
+                        <p>Tierry</p>
+                     </a>
+                  </li>
+               
+                  <li>
+                     <a target="_blank" href="https://www.vagalume.com.br/maiara-e-maraisa/" title="Maiara e Maraisa">
+                        <picture>
+                           <img src="https://s2.vagalume.com/maiara-e-maraisa/images/maiara-e-maraisa.jpg" alt="Maiara e Maraisa">
+                        </picture>
+                        <p>Maiara e Maraisa</p>
+                     </a>
+                  </li>
+               
+                  <li>
+                     <a target="_blank" href="https://www.vagalume.com.br/ze-neto-e-cristiano/" title="Zé Neto e Cristiano">
+                        <picture>
+                           <img src="https://s2.vagalume.com/ze-neto-e-cristiano/images/ze-neto-e-cristiano.jpg" alt="Zé Neto e Cristiano">
+                        </picture>
+                        <p>Zé Neto e Cristiano</p>
+                     </a>
+                  </li>
+               
+         </ul>
+      </div>
+   
+   <div class="station-songs" data-id="14619606471054026608" data-plugin="station-last-played">
+      <h3>ÚLTIMAS MÚSICAS TOCADAS</h3>
+      <ul></ul>
+   </div>
+   
+      <div class="station-related" data-plugin="station-list">
+         <h3>VEJA TAMBÉM</h3>
+         <ul>
+            
+               <li data-updated="2021-05-28 19:44:17" data-name="Country Hits" data-id="1470155128108369" data-slug="country-hits" class="station">
+<a title="Country Hits" href="/country-hits/">
+   <picture>
+      <img data-src="https://www.vagalume.com.br/1470155128108369/default" src="//img.vagalume.fm/img/lazy-placeholder.jpg" alt="Country Hits">
+      <button data-slug="country-hits" data-plugin="play-button" data-type="tile" data-id="1470155128108369" class="play-pause play">
+      </button>
+      
+   </picture>
+   <div class="desc">
+      <span class="listeners"></span>
+      <p data-plugin="limit-desc">
+         Os grandes sucessos da Country Music, com Shania Twain, Blake Shelton, Taylor Swift e muito mais!
+      </p>
+   </div>
+</a>
+</li>
+
+            
+               <li data-updated="2022-04-12 00:19:59" data-name="Lançamentos" data-id="1476469524740247" data-slug="lancamentos" class="station">
+<a title="Lançamentos" href="/lancamentos/">
+   <picture>
+      <img data-src="https://www.vagalume.com.br/1476469524740247/default" src="//img.vagalume.fm/img/lazy-placeholder.jpg" alt="Lançamentos">
+      <button data-slug="lancamentos" data-plugin="play-button" data-type="tile" data-id="1476469524740247" class="play-pause play">
+      </button>
+      
+   </picture>
+   <div class="desc">
+      <span class="listeners"></span>
+      <p data-plugin="limit-desc">
+         Escute os mais recentes lançamentos, em nossa estação sempre atualizada com as melhores novidades!
+      </p>
+   </div>
+</a>
+</li>
+
+            
+               <li data-updated="2020-07-22 00:25:56" data-name="Sertanejo Raiz" data-id="1486574587925026" data-slug="sertanejo-raiz" class="station">
+<a title="Sertanejo Raiz" href="/sertanejo-raiz/">
+   <picture>
+      <img data-src="https://www.vagalume.com.br/1486574587925026/default" src="//img.vagalume.fm/img/lazy-placeholder.jpg" alt="Sertanejo Raiz">
+      <button data-slug="sertanejo-raiz" data-plugin="play-button" data-type="tile" data-id="1486574587925026" class="play-pause play">
+      </button>
+      
+   </picture>
+   <div class="desc">
+      <span class="listeners"></span>
+      <p data-plugin="limit-desc">
+         O melhor da música caipira, moda de viola e alguns dos clássicos do Sertanejo!
+      </p>
+   </div>
+</a>
+</li>
+
+            
+               <li data-updated="2020-10-27 01:31:06" data-name="Divas do Sertanejo" data-id="1520610884317212" data-slug="divas-do-sertanejo" class="station">
+<a title="Divas do Sertanejo" href="/divas-do-sertanejo/">
+   <picture>
+      <img data-src="https://www.vagalume.com.br/1520610884317212/default" src="//img.vagalume.fm/img/lazy-placeholder.jpg" alt="Divas do Sertanejo">
+      <button data-slug="divas-do-sertanejo" data-plugin="play-button" data-type="tile" data-id="1520610884317212" class="play-pause play">
+      </button>
+      
+   </picture>
+   <div class="desc">
+      <span class="listeners"></span>
+      <p data-plugin="limit-desc">
+         Uma estação apenas com os grandes nomes femininos da música sertaneja brasileira!
+      </p>
+   </div>
+</a>
+</li>
+
+            
+               <li data-updated="2020-10-23 14:17:23" data-name="Country Clássicos" data-id="1520958056484488" data-slug="country-classicos" class="station">
+<a title="Country Clássicos" href="/country-classicos/">
+   <picture>
+      <img data-src="https://www.vagalume.com.br/1520958056484488/default" src="//img.vagalume.fm/img/lazy-placeholder.jpg" alt="Country Clássicos">
+      <button data-slug="country-classicos" data-plugin="play-button" data-type="tile" data-id="1520958056484488" class="play-pause play">
+      </button>
+      
+   </picture>
+   <div class="desc">
+      <span class="listeners"></span>
+      <p data-plugin="limit-desc">
+         As músicas e artistas que marcaram época da Country Music!
+      </p>
+   </div>
+</a>
+</li>
+
+            
+               <li data-updated="2020-07-22 00:26:13" data-name="Sertanejo Sofrência" data-id="1529095568377255" data-slug="sertanejo-sofrencia" class="station">
+<a title="Sertanejo Sofrência" href="/sertanejo-sofrencia/">
+   <picture>
+      <img data-src="https://www.vagalume.com.br/1529095568377255/default" src="//img.vagalume.fm/img/lazy-placeholder.jpg" alt="Sertanejo Sofrência">
+      <button data-slug="sertanejo-sofrencia" data-plugin="play-button" data-type="tile" data-id="1529095568377255" class="play-pause play">
+      </button>
+      
+   </picture>
+   <div class="desc">
+      <span class="listeners"></span>
+      <p data-plugin="limit-desc">
+         Uma seleção de músicas para acompanhar as lágrimas e solidão ao ritmo do sertanejo!
+      </p>
+   </div>
+</a>
+</li>
+
+            
+               <li data-updated="2022-08-09 18:53:34" data-name="Sertanejo Hits" data-id="14619606471054026608" data-slug="sertanejo" class="station">
+<a title="Sertanejo Hits" href="/sertanejo/">
+   <picture>
+      <img data-src="https://www.vagalume.com.br/14619606471054026608/default" src="//img.vagalume.fm/img/lazy-placeholder.jpg" alt="Sertanejo Hits">
+      <button data-slug="sertanejo" data-plugin="play-button" data-type="tile" data-id="14619606471054026608" class="play-pause play">
+      </button>
+      
+   </picture>
+   <div class="desc">
+      <span class="listeners"></span>
+      <p data-plugin="limit-desc">
+         O melhor da música nacional sertaneja com lançamentos e grandes sucessos!
+      </p>
+   </div>
+</a>
+</li>
+
+            
+               <li data-updated="2022-06-30 06:20:33" data-name="Vagalume Vibe" data-id="14623883771774082279" data-slug="vagalume-vibe" class="station">
+<a title="Vagalume Vibe" href="/vagalume-vibe/">
+   <picture>
+      <img data-src="https://www.vagalume.com.br/14623883771774082279/default" src="//img.vagalume.fm/img/lazy-placeholder.jpg" alt="Vagalume Vibe">
+      <button data-slug="vagalume-vibe" data-plugin="play-button" data-type="tile" data-id="14623883771774082279" class="play-pause play">
+      </button>
+      
+   </picture>
+   <div class="desc">
+      <span class="listeners"></span>
+      <p data-plugin="limit-desc">
+         A estação principal do Vagalume com uma seleção de músicas com a nossa vibe.
+      </p>
+   </div>
+</a>
+</li>
+
+            
+               <li data-updated="2020-07-22 00:24:16" data-name="Rock Clássico" data-id="14647977281792658143" data-slug="rock-classico" class="station">
+<a title="Rock Clássico" href="/rock-classico/">
+   <picture>
+      <img data-src="https://www.vagalume.com.br/14647977281792658143/default" src="//img.vagalume.fm/img/lazy-placeholder.jpg" alt="Rock Clássico">
+      <button data-slug="rock-classico" data-plugin="play-button" data-type="tile" data-id="14647977281792658143" class="play-pause play">
+      </button>
+      
+   </picture>
+   <div class="desc">
+      <span class="listeners"></span>
+      <p data-plugin="limit-desc">
+         Relembre os clássicos e artistas que ajudaram a tornar o rock um dos estilos mais queridos da música.
+      </p>
+   </div>
+</a>
+</li>
+
+            
+               <li data-updated="2021-02-18 02:18:26" data-name="Pop" data-id="14660050141766497579" data-slug="pop" class="station">
+<a title="Pop" href="/pop/">
+   <picture>
+      <img data-src="https://www.vagalume.com.br/14660050141766497579/default" src="//img.vagalume.fm/img/lazy-placeholder.jpg" alt="Pop">
+      <button data-slug="pop" data-plugin="play-button" data-type="tile" data-id="14660050141766497579" class="play-pause play">
+      </button>
+      
+   </picture>
+   <div class="desc">
+      <span class="listeners"></span>
+      <p data-plugin="limit-desc">
+         Os maiores hits da música pop do século XXI!
+      </p>
+   </div>
+</a>
+</li>
+
+            
+         </ul>
+      </div>
+   
+</div>
+</div>
+
+         <footer>
+<img class="fm-footer" src="//img.vagalume.fm/img/fm-footer.png" alt="Vagalume.FM">
+<div class="app-download">
+   <p>NO SEU SMARTPHONE</p>
+   <div>
+      <a target="_blank" title="Disponível no Google Play" href="https://play.google.com/store/apps/details?id=br.com.vagalume.fm&amp;referrer=utm_source%3DHotsite+FM%26utm_campaign%3DFooter" onclick="ga('send', 'event', 'Download App', 'Android', 'Footer');"><img title="Disponível no Google Play" src="//img.vagalume.fm/img/google-play.png"></a>
+         <a target="_blank" title="Baixar na App Store" href="https://itunes.apple.com/us/app/vagalume.fm/id1154246231?pt=677321&amp;ct=Hotsite%20FM%20-%20Footer&amp;mt=8" onclick="ga('send', 'event', 'Download App', 'iOS', 'Footer');"><img title="Baixar na App Store" src="//img.vagalume.fm/img/app-store.png"></a>
+         <a target="_blank" title="Baixar na Amazon Alexa" href="https://www.amazon.com.br/gp/product/B08H5VFMVB" onclick="ga('send', 'event', 'Download App', 'Amazon Alexa', 'Footer');"><img title="Baixar na Amazon Alexa" src="//img.vagalume.fm/img/amazon-alexa.png"></a>
+   </div>
+</div>
+<div class="follow">
+   <p>SIGA O VAGALUME</p>
+   <div>
+      <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fvagalume.fm%2F&amp;width=100&amp;layout=button_count&amp;action=like&amp;size=small&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId" width="100" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <a href="https://twitter.com/VagalumeFM?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @VagalumeFM</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   </div>
+</div>
+<div class="info">
+   <a target="_blank" title="Vagalume" href="https://www.vagalume.com.br"><img src="//img.vagalume.fm/img/vgl-footer.png" alt="Vagalume"></a>
+   <p>ⓒ Vagalume Mídia</p>
+</div>
+</footer>
+
+      </div>
+      <div data-plugin="min-player" id="minPlayer">
+<img class="bg blur-bg" src="https://www.vagalume.com.br/14619606471054026608/default" alt="Sertanejo Hits">
+<div>
+   <button class="open-player"></button>
+   <div class="min-info">
+      <img class="band-img" src="https://www.vagalume.com.br/14619606471054026608/default">
+      <div>
+         <p class="band-name">Estação</p>
+         <p class="song-name">Sertanejo Hits</p>
+      </div>
+   </div>
+</div>
+<button title="Play/Pause" data-plugin="play-button" data-type="player" class="play-pause play"></button>
+</div>
+<div data-plugin="player" data-id="14619606471054026608" data-slug="sertanejo" id="player">
+<img class="bg blur-bg" src="https://www.vagalume.com.br/14619606471054026608/default">
+<div class="player-body" data-plugin="geoip">
+   <div class="player-header">
+      <button title="Fechar player" class="close-player"></button>
+      <span>ESTAÇÃO</span>
+      <a href="/sertanejo/" title="Sertanejo Hits"><h2>Sertanejo Hits</h2></a>
+      <div class="flex-content">
+         <div>
+            <img src="//img.vagalume.fm/img/waves-faded.svg" class="waves">
+            <div class="station-img">
+               <img class="station-artist-img" src="//img.vagalume.fm/img/no-track.png">
+               <img class="station-icon" src="https://img.vagalume.fm/14619606471054026608/icon" alt="Sertanejo Hits">
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="player-content">
+      <div class="player-song">
+         <p class="band"></p>
+         <p class="title"></p>
+         <div class="lyrics-content">
+            <a target="_blank" class="subtitle">Aperte o "play" para começar a ouvir</a>
+         </div>
+      </div>
+      <div class="player-controls">
+         <div class="progress-container">
+            <a target="_blank" class="next-song"></a>
+            <div data-plugin="progress-bar">
+               <div class="progress-bar">
+                  <div style="width: 0%;" class="bar-overflow">
+                     <div class="progress">
+                     </div>
+                  </div>
+               </div>
+               <div class="timer">
+                  <span class="start">
+                     00:00
+                  </span>
+                  <span class="end empty">
+                     ∞
+                  </span>
+               </div>
+            </div>
+         </div>
+         <div class="controls">
+            <div>
+               <button title="Volume" class="volume volume-4"></button>
+               <div id="volControl">
+                  <input type="range" value="100" min="0" max="100" step="1">
+               </div>
+            </div>
+            <button data-type="like" data-plugin="avaliate-song" title="Like" class="like"></button>
+            <button title="Play/Pause" data-type="player" data-plugin="play-button" class="play-pause play"></button>
+            <button data-type="dislike" data-plugin="avaliate-song" title="Dislike" class="dislike"></button>
+            <div>
+               <button title="Compartilhar" class="share"></button>
+               
+               
+               <ul id="shareContent">
+                  <li class="facebook">
+                     <a target="_blank" data-plugin="open-share" title="Facebook" onclick="ga('send', 'event', 'Station', 'Share - Facebook', '14619606471054026608');" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvagalume.fm%2Fsertanejo%2F">
+                     </a>
+                  </li>
+                  <li class="twitter">
+                     <a target="_blank" data-plugin="open-share" title="Twitter" onclick="ga('send', 'event', 'Station', 'Share - Twitter', '14619606471054026608');" href="http://twitter.com/share?text=Escutando%20a%20esta%C3%A7%C3%A3o%20Sertanejo%20Hits%20no%20Vagalume%20FM!%20%F0%9F%93%BB&amp;url=https%3A%2F%2Fvagalume.fm%2Fsertanejo%2F&amp;hashtags=nowplaying">
+                     </a>
+                  </li>
+                  <li class="g-plus">
+                     <a target="_blank" data-plugin="open-share" title="Google+" onclick="ga('send', 'event', 'Station', 'Share - Google', '14619606471054026608');" href="https://plus.google.com/share?url=https%3A%2F%2Fvagalume.fm%2Fsertanejo%2F">
+                     </a>
+                  </li>
+                  <li class="whatsapp">
+                     <a target="_blank" data-plugin="open-share" title="WhatsApp" onclick="ga('send', 'event', 'Station', 'Share - WhatsApp', '14619606471054026608');" href="https://wa.me?text=Escutando%20a%20esta%C3%A7%C3%A3o%20Sertanejo%20Hits%20no%20Vagalume%20FM!%20%F0%9F%93%BB%20https%3A%2F%2Fvagalume.fm%2Fsertanejo%2F">
+                     </a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="info-button">
+         <button title="Abrir informações" class="open-info"></button>
+      </div>
+   </div>
+   <div class="player-info">
+      <div class="close-info">
+         <button title="Fechar informações"></button>
+      </div>
+      <ul class="tabs" data-plugin="player-tabs">
+         <li title="Próximas" data-type="next" class="active">
+            PRÓXIMAS
+         </li>
+         <li title="Últimas" data-type="history">
+            ÚLTIMAS
+         </li>
+      </ul>
+      <ul class="recent info-list">
+         <span class="loading-list">Carregando lista...</span>
+      </ul>
+   </div>
+</div>
+</div>
+
+   </div>
+
+<script src="/js/fm.min.js" async="" defer=""></script>
+
+</body></html>
