@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.plyr.io/3.6.12/plyr.js"></script>
+        <link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css" /> 
+        <style>
+            #playlist{
+                        list-style: none;
+                    }
+                    #playlist li a{
+                        color:white;
+                        text-decoration: none;
+                    }
+                    #playlist .current-song a{
+                        color:blue;
+                    }
+                 #videoPlayer{}
+              
+              video::-webkit-media-controls-timeline { display:inline-flex;}
+              
+                video::-webkit-media-controls-panel {background-color: #00CED1;}
+              </style>
+              <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+    <center>
+
+        <video controls="" id="videoPlayer" preload="auto" tabindex="0">
+   
+          <source src="https://dc598.4shared.com/img/038xkCGOda/d48a207/dlink__2Fdownload_2F038xkCGOda_2FTED_5FMAX_5F-_5FFLORES_5FPARA_5FO_5FMEU_5FBE.mp3_3Fsbsr_3D346ef58f2aeb0505bfb643c99708b970ac2_26bip_3DMTY3LjI0OS4yMDkuMjMx_26lgfp_3D52_26bip_3DMTY3LjI0OS4yMDkuMjMx/preview.mp3" type="video/mp3"></source>
+          <source src="https://dc598.4shared.com/img/038xkCGOda/d48a207/dlink__2Fdownload_2F038xkCGOda_2FTED_5FMAX_5F-_5FFLORES_5FPARA_5FO_5FMEU_5FBE.mp3_3Fsbsr_3D346ef58f2aeb0505bfb643c99708b970ac2_26bip_3DMTY3LjI0OS4yMDkuMjMx_26lgfp_3D52_26bip_3DMTY3LjI0OS4yMDkuMjMx/preview.mp3" type="video/m3u8"></source>
+           <source src="https://dc598.4shared.com/img/038xkCGOda/d48a207/dlink__2Fdownload_2F038xkCGOda_2FTED_5FMAX_5F-_5FFLORES_5FPARA_5FO_5FMEU_5FBE.mp3_3Fsbsr_3D346ef58f2aeb0505bfb643c99708b970ac2_26bip_3DMTY3LjI0OS4yMDkuMjMx_26lgfp_3D52_26bip_3DMTY3LjI0OS4yMDkuMjMx/preview.mp3" type="video/ogg"></source>
+  
+  
+        </video>
+        <ul id="playlist">
+          <img heigth="300px" src="https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png" width="300px">
+          <li class="current-song"> <a href="https://dc598.4shared.com/img/038xkCGOda/d48a207/dlink__2Fdownload_2F038xkCGOda_2FTED_5FMAX_5F-_5FFLORES_5FPARA_5FO_5FMEU_5FBE.mp3_3Fsbsr_3D346ef58f2aeb0505bfb643c99708b970ac2_26bip_3DMTY3LjI0OS4yMDkuMjMx_26lgfp_3D52_26bip_3DMTY3LjI0OS4yMDkuMjMx/preview.mp3">1- Estação I</a></li>
+          
+          <img heigth="300px" src="https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png" width="300px">
+
+          <li><a href="https://dc589.4shared.com/img/_WeVrCcniq/95553427/dlink__2Fdownload_2F_5FWeVrCcniq_2F009_5FCHICO_5FROQUE_5F-_5FAH_5FCORAO.mp3_3Fsbsr_3Dd46470c9d0cd09ccb5c446bddca02051ac2_26bip_3DMTY3LjI0OS4yMDkuMjMx_26lgfp_3D52_26bip_3DMTY3LjI0OS4yMDkuMjMx/preview.mp3">2- Estação II</a></li>
+
+          <img heigth="300px" src="https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png" width="300px">
+
+          <li><a href="https://dc722.4shared.com/img/i_Y5Rt7mgm/6fff33b4/dlink__2Fdownload_2Fi_5FY5Rt7mgm_2FCHICO_5FROQUE_5F-_5FVOLTE_5FLOGO.mp3_3Fsbsr_3Dc5658f3e242a91b2256b553f0b2f38acac2_26bip_3DMTY3LjI0OS4yMDkuMjMx_26lgfp_3D52_26bip_3DMTY3LjI0OS4yMDkuMjMx/preview.mp3">2- Estação III</a></li>
+         
+          
+          
+  
+  
+      
+  
+  
+  
+  
+        </ul></center>
+  
+        <script type="text/javascript">
+  
+  function videoPlayer(){
+              var currentSong = 0;
+              $("#videoPlayer")[0].src = $("#playlist li a")[0];
+              $("#videoPlayer")[0].play();
+              $("#playlist li a").click(function(e){
+                 e.preventDefault(); 
+                 $("#videoPlayer")[0].src = this;
+                 $("#videoPlayer")[0].play();
+                 $("#playlist li").removeClass("current-song");
+                  currentSong = $(this).parent().index();
+                  $(this).parent().addClass("current-song");
+              });
+              
+              $("#videoPlayer")[0].addEventListener("ended", function(){
+                 currentSong++;
+                  if(currentSong == $("#playlist li a").length)
+                      currentSong = 0;
+                  $("#playlist li").removeClass("current-song");
+                  $("#playlist li:eq("+currentSong+")").addClass("current-song");
+                  $("#videoPlayer")[0].src = $("#playlist li a")[currentSong].href;
+                  $("#videoPlayer")[0].play();
+              });
+          }
+  
+  
+  
+        </script>
+  
+        <script>
+          // loads the video player
+          videoPlayer();
+      </script>
+  
+        
+</body>
+</html>
