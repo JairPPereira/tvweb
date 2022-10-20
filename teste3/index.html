@@ -1,13 +1,24 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <!-- Meta tags Obrigatórias -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Simple VLC activeX page playing Nasa stream</title>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>HARPA CRISTÃ Letras</title>
+<meta name="description" content="Seleção de filmes do youtube">
+
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:title" content="HARPA CRISTÃ Letras" />
+<meta property="og:type" content="website" />
+
+<meta property="og:site_name" content="HARPA CRISTÃ Letras" />
+<meta property="og:description" content="Seleção de filmes do youtube" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@460&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.5.0/css/all.css" crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="./jwplayer-7.12.13/jwplayer.js"></script>
+<script>jwplayer.key="cyqyemUR5d0lUIqO0pP3uLOfnm5mjt0K6pOJkB4e5fA=";</script>
 </head>
 <style>
     audio{
@@ -36,113 +47,79 @@
    <div class="container"><nav class="navbar navbar-default fixed-top">
       <audio controls="" id="audioPlayer" preload="auto" tabindex="0">
       
-         <source src="https://drive.google.com/uc?export&amp;id=13c0_LlrovyUFKVBzfSXxKbNHKoplD1Ie" type="audio/mp3"></source>
+         <source src="https://drive.google.com/uc?export&amp;id=13SSfytejJz8LGEeYUcIRD7LBFyn6kMEQ" type="audio/mp3"></source>
       </audio></nav>
       <br></br></p> <center>
       <ul id="playlist">
-         <li class="current-song"> <a href="https://drive.google.com/uc?export&amp;id=13c0_LlrovyUFKVBzfSXxKbNHKoplD1Ie"><h5>1 - CHUVAS DE GRAÇA</h5> 
+         <li class="current-song"> <a href="https://drive.google.com/uc?export&amp;id=13SSfytejJz8LGEeYUcIRD7LBFyn6kMEQ"><h5>1 - CHUVAS DE GRAÇA</h5> 
          
          </a>
-         <p>Deus prometeu com certeza<br/>Chuvas de graça mandar<br/>Ele nos dá fortaleza<br/>E ricas bênçãos sem par</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Cristo nos tem concedido<br/>O Santo Consolador<br/>De plena paz nos enchido<br/>Para o reinado de amor</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Dá-nos, Senhor, amplamente<br/>Teu grande gozo e poder<br/>Fonte de amor permanente<br/>Põe dentro de nosso ser</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Faze os Teus servos piedosos<br/>Dá-lhes virtude e valor<br/>Dando os Teus dons preciosos<br/>Do Santo Preceptor</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p>
-         
+         <center>
+          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+              Letra & video
+            </button>
+            </p>
+            <div class="collapse" id="collapseExample">
+            <div class="card card-body"><div id="myElement">Loading the player...</div>
+            <script type="text/javascript">var playerInstance = jwplayer("myElement");
+                playerInstance.setup({file: "https://youtu.be/hQVEh5n5svU",type: "video/mp4",autostart: false,volume: 100, width: '100%',
+                       height: 460,
+                       image: "https://i.ytimg.com/vi/hQVEh5n5svU/hqdefault.jpg",
+                       title: "1 - CHUVAS DE GRAÇA",
+                       play:true,
+                       pause:true,
+                       });</script>
+              <h5>1 - CHUVAS DE GRAÇA</h5>
+                  <p>Deus prometeu com certeza<br/>Chuvas de graça mandar<br/>Ele nos dá fortaleza<br/>E ricas bênçãos sem par</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Cristo nos tem concedido<br/>O Santo Consolador<br/>De plena paz nos enchido<br/>Para o reinado de amor</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Dá-nos, Senhor, amplamente<br/>Teu grande gozo e poder<br/>Fonte de amor permanente<br/>Põe dentro de nosso ser</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Faze os Teus servos piedosos<br/>Dá-lhes virtude e valor<br/>Dando os Teus dons preciosos<br/>Do Santo Preceptor</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p> 
+            </div>
+            </div></center>
          </li>
          
-         <li><a href="https://drive.google.com/uc?export&amp;id=13cjT-w_mbiZUeUzKs6sQ-eyRnujnaERC">2- Alô</a>
+         <li><a href="https://drive.google.com/uc?export&amp;id=13TF6_o9FrRgpQy-sAqGh1aTb48ntNMms"><h5>2 - Saudosa Lembrança</h5></a>
          
             <center>
                <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample">
-                   Letra
+                   Letra & video
                  </button>
                  </p>
                  <div class="collapse" id="collapseExample1">
-                 <div class="card card-body">
-                   <h5>1 - CHUVAS DE GRAÇA</h5>
-                       <p>Deus prometeu com certeza<br/>Chuvas de graça mandar<br/>Ele nos dá fortaleza<br/>E ricas bênçãos sem par</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Cristo nos tem concedido<br/>O Santo Consolador<br/>De plena paz nos enchido<br/>Para o reinado de amor</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Dá-nos, Senhor, amplamente<br/>Teu grande gozo e poder<br/>Fonte de amor permanente<br/>Põe dentro de nosso ser</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Faze os Teus servos piedosos<br/>Dá-lhes virtude e valor<br/>Dando os Teus dons preciosos<br/>Do Santo Preceptor</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p> 
+                 <div class="card card-body"><div id="myElement1">Loading the player...</div>
+                 <script type="text/javascript">var playerInstance = jwplayer("myElement1");
+                     playerInstance.setup({file: "https://youtu.be/jXi_imzrx08",type: "video/mp4",autostart: false,volume: 100, width: '100%',
+                            height: 460,
+                            image: "https://i.ytimg.com/vi/jXi_imzrx08/hqdefault.jpg",
+                            title: "2 - Saudosa Lembrança",
+                            play:true,
+                            pause:true,
+                            });</script>
+                  <h5>2 - Saudosa Lembrança</h5>
+                  <p>Oh! Que saudosa lembrança<br/>Tenho de Ti, ó Sião<br/>Terra que eu tanto amo<br/>Pois és do meu coração<br/>Eu para Ti voarei<br/>Quando o Senhor meu voltar<br/>Pois Ele foi para o Céu<br/>E breve vem me buscar</p><p>Sim, eu porfiarei por essa terra de além<br/>E lá terminarei as muitas lutas de aquém<br/>Lá está meu bom Senhor, ao qual eu desejo ver<br/>Ele é tudo pra mim, e sem Ele eu não posso viver</p><p>Bela, mui bela, é a esperança<br/>Dos que vigiam por ti<br/>Pois eles recebem força<br/>Que só se encontra ali<br/>Os que procuram chegar<br/>Ao teu regaço, ó Sião<br/>Livres serão de pecar<br/>E de toda a tentação</p><p>Sim, eu porfiarei por essa terra de além<br/>E lá terminarei as muitas lutas de aquém<br/>Lá está meu bom Senhor, ao qual eu desejo ver<br/>Ele é tudo pra mim, e sem Ele eu não posso viver</p><p>Diz a Sagrada Escritura<br/>Que são formosos os pés<br/>Daqueles que boas novas<br/>Levam para os infiéis<br/>E, se tão belo é falar<br/>Dessas grandezas, aqui<br/>Que não será o gozar<br/>A graça que existe ali</p><p>Sim, eu porfiarei por essa terra de além<br/>E lá terminarei as muitas lutas de aquém<br/>Lá está meu bom Senhor, ao qual eu desejo ver<br/>Ele é tudo pra mim, e sem Ele eu não posso viver</p>
                  </div>
                  </div></center>
          </li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=13lSjXS6GMZTXoxa4F4F1H8IRNjjRGuPA">3- Amigo, não chore por ela</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=13mcqhgE1bFR0zJzoVx48301fLyoyR204">4- Amigo</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=13pQmN2vQNMmphkG7TML4fMhpQZbJZROm">5- Apocalipse</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=13p_1wfkoYJU5eZh4uShDoVrp-kBWZ4J6">6- Detalhes</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=13voAjiLhOqX_R1F1dAzGGYejs5zyt4HQ">7- Ele está pra chegar</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=13vx_SMRDsrs5KZLFJ5M5qo8B2f-a2Aiw">8- Eu sou terrível</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=13vzncSs_ktoLVUh0OLqv58HM-tQEHpou">9- Eu te darei o céu</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=1409gc2_MP6DtmH1rIGeOKxJkLqajThFa">10- Fé</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=1435GMMhIxMPEF71vn-tV-JegG1cWNuUk">11- História de um homem mau</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14ClL7rTlLDff5sgC_6RNGX3WtogPkl9y">12- Ilegal, imoral ou engorda</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14M-TcAWC6b3ja8Y7DtB0qQQ0ebweG47z">13- Mulher de 40</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14NY5A3QCMIGxY8jv6eP6KPN4f1zaCaQd">14- Na paz do seu sorriso</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14OHBmENhv8GSI99cTfomMtP4up3rjomU">15- O velho caminhoneiro</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14UfL6GduWmqhUVllj_lRtXdSAsZBsDjU">16- Quero que vá tudo pro inferno</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14UnUaoLT8TCsw5VQnxHRyyibK3b6S91U">17- Verde e amarelo</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14Vjw-7gNR0S2R8NNRzDBRx74k4yxBuKT">18- Sentado à beira do caminho</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14cZAJqqh_mav4RPgIrvaRNSUA8vUkF6h">19- Pega ladrão</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14f2389REWpHr7IHfx_vJiuM2T8vAY1TD">20- Não quero ver você triste</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14fxpKfGgfxc6GCmaLzRzwLC8vXF_cgPw">21- Amor sem limite</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14iDnP-vNkStFzTAYL3hCM2lnaMv3hEKz">22- Cheirosa</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14jn-16cY-XV-Jhs0Pr2jSle1OOSck8FN">23- Coisa bonita</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14v6tHr9z7c88xHFbKItiycadKQKX01Kt">24- Eu daria a minha vida</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14vD_eIUyq5-l_nEi133CumbaMo_VQrNx">25- Furdúncio</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14yDJZfLydubNMd-SIZ2QkHn4GnDRu7UR">26- Ninguém vai tira você de mim</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=14yyO1cqvlx78nmdP54xUG5cfDv3xCaPK">27- Noite de terror</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=151b_pVJBe8WpCusrehuVM8gPHGpBAWRg">28- Nossa canção</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=156G_awFMU5TNq1n30wI1nub3dma0qqtI">29- Quero lhe falar do meu amor</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=156aZQ0cA66-WKxVPdMPM0i6XzzABhwrG">30- Coimbra</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=159Asx3mBZxylOQRy8f448qD_n7if2jp2">31- Se você pensa</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=15A-zXmeRgepA0Uvch8ccmt21nXDDk77Z">32- Se você quer</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=15GsWVp6gihPdRsgZy9uAj95q-EKw3Rs8">33- Só vou se você for</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=15HbGGCp_tL0y93vCmNrfbTtUhT9VjzKZ">34- Cama e mesa</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=15Moj94FpHYAiRWNv-DjGR9TPMU_xILxe">35- Esqueça</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=15WTfHbFsklnUoSmw5qSBN_Ivxq3akNIa">36- Sorrindo pra mim</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=15Y1kuFX5yTf_4-124CvE-3Uaenw15HWv">37- Você deixou alguém a esperar</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=15ZCKJcj30-vNjGV8GYrY7adAG9ylLYtx">38- Como é grande o meu amor por você</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=15_IOLyoOSGHV4lIuBBWZ7uPdyRPikAUE">39- De que vale tudo isso</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=15a9ubLk3CAZVgxmaHL3vQkXCqqVUDWnz">40- O feio</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=15mOBsnZz0_BQXqhgrPQgJzyVoXLKHsUw">41- Por isso corro demais</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=15vepXVqLV0T-67Tst8ZzJ0RIkAd-QFnB">42- Desabafo</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16-k9hl78lFcQYUNcGXnd6RKggPn9IDTy">43- É proibido fumar</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=168jEVpN_EdIVCwYrAfXb8QISP7ECfESW">44- O velho homem do mar</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16An1UHq_mPT4o8lgy6QVNNtNgLygn6Hq">45- Pelo avesso</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16H2JrlTmfog5VItO4RLZ-J9RcQv_c1vV">46- Além do horizonte</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16IfZ7qqm4O5y1tfUxj1s6kMoLHzjeALE">47- Café da manhã</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16OCNCT9yv7GVH8NhV9H9nWf_7ZLrYu7I">48- Todos estão surdos</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16QThHOC4QW0ssWIVkAgyHkvv59L-2cYE">49- Eu quero apenas</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16RSFkhctS5sw_k6NjYMswHPsjSioVtPy">50- Índia</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16UtkFoWfzyNzfAQ36NuDHbuI9Vh3_fgO">51- Namoradinha de um amigo meu</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16WccXnP--uOa_Bh0twVZNcYsTjadP0PT">52- O calhambeque</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16fHxL1x4rZ3EVDWaUKOuSqo8hZv2xOh4">53- Preciso lhe encontrar</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16kFxnZ56WwlQdsotruP_eZzunT9LfpQ1">54- Quando a gente ama</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=16mRGPdho8Ypd1rRMbBuuCZ0ZkQHr5OYb">55- Quando</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=171ZQqXKntoK7zvXa2yyLpJYy7HtVk-GW">56- Un gatto nel blu</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=172rbUmOzMgVtToPILNCUUeGedZNbGDL4">57- Não vou ficar</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=173b6TDKX2BbnoCw-KZ8ObOd-2fHCwH4j">58- Custe o que custar</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=175EI9J3DLJTNdWasBMH2sXziRckv1eda">59- Aquele beijo que te dei</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17BwK__yJY79KMX0gg7Cctmb3-9AcReSo">60- Comandante do seu coração</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17DLtX9bzBMAX_MV72IyMoVbCHna2DQ_z">61- Debaixo dos caracóis dos seus cabelos</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17Okk8_pw4UeceFPZzKONYutviKJNOzN9">62- Meu querido, meu velho, meu amigo</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17Okph8qq8-mnBKzb7UKosYNLPdHnCNbx">63- Minha história de amor</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17QhJwCV0VdnqmLaknZWzfmIf8qximSfv">64- Mulher pequena</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17Sk-AdYMcLKmO0vcQdqV_SPLSQw9rZch">65- As curvas da estrada de Santos</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17URihtwrZZ1ClABofTiZnmEcnj_Fk-mk">66- Dizem que um homem não deve chorar</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17UopXj68QZWBnBUcvD287HGCpe6RbZHX">67- Você não serve pra mim</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17YHuZo2-z2UUBmud-Vw83BijWNoBAhnC">68- É papo firme</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17kwv7-t681jZ_dNpRLbrdVhs0RiBsPSP">69- Escreva uma carta meu amor</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17n5H4YVQlRz38WkVI4WMnpLVw485Ca0T">70- Eu te amo, te amo, te amo</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17nTRDGBIfHmcN5tJGmhNOumumza3RO3k">71- Rotina</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17uaewScXSicKd823UHVXkAl8nqxvnGrf">72- 120... 150... 200 km por hora</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=17ujXxWwXA_vmnDZ8EDO1i6J3SmNRThlq">73- A garota do baile</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=180t9ERD42TjIgDgcxmOILc77Pj1BSvEj">74- Não é papo pra mim</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=184S8Ny10Db_ZHgihxUag05fouFH0_D2d">75- O sósia</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=187PGOYsKIs5dbPn4IaIZriOIRwuS6oY8">76- Ar de moço bom</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=18BNPM1MIOWv3YqQns1ZRvOJbzYbQPC1i">77- É preciso saber viver</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=18BuFlvpTUBqrOVOPqCqiFg1SBe0W82L4">78- Mexerico da Candinha</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=18HIcsV3HnjFPcIxd0I2fQGiT9qGUoZme">79- Só vou gostar de quem gosta de mim</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=18IlXV5KXNW13EC1SJyD2__Q6aSUPiJ6I">80- Emoções</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=18KVssGTpRC8tRtGpI6--cyax7qgVGu3d">81- Jesus Cristo</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=18MimjvHZRpQEWfeI9v9vi5yAPiEMhCon">82- A volta</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=18Ta3UJsQXdL7e8trf6OmlQX8lTGbVE0R">83- De coração pra coração</a></li>
-         <li><a href="https://drive.google.com/uc?export&amp;id=18VqCY7X1-o8EDerrruGurvGzaRNNvUkC">84- A montanha</a></li>
+        
+         <li><a href="https://drive.google.com/uc?export&amp;id=13TfNvwg3y74T-2RW53n1gbmt9Pq-1XRy"><h5><h5>3 - Plena Paz</h5></h5></a>
+         
+          <center>
+             <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample">
+                 Letra & video
+               </button>
+               </p>
+               <div class="collapse" id="collapseExample3">
+               <div class="card card-body"><div id="myElement3">Loading the player...</div>
+               <script type="text/javascript">var playerInstance = jwplayer("myElement3");
+                   playerInstance.setup({file: "https://youtu.be/g5bPSHRGcpU",type: "video/mp4",autostart: false,volume: 100, width: '100%',
+                          height: 460,
+                          image: "https://i.ytimg.com/vi/g5bPSHRGcpU/hqdefault.jpg",
+                          title: "<h5>3 - Plena Paz</h5>",
+                          play:true,
+                          pause:true,
+                          });</script>
+                <h5>3 - Plena Paz</h5>
+                <p>Plena paz e santo gozo<br/>Tenho em ti, ó meu Jesus!<br/>Pois eu creio em Tua morte sobre a cruz<br/>No Senhor só confiando<br/>Neste mundo viverei<br/>Entoando aleluia ao meu Rei!</p><p>Oh! Glória ao meu Jesus!<br/>Pois é digno de louvor<br/>É meu Rei, meu bom Pastor<br/>E meu Senhor<br/>Como os anjos, que O louvam<br/>Eu também O louvarei<br/>Entoando aleluia ao meu Rei</p><p>O amor de Jesus Cristo<br/>É mui grande para mim<br/>Pois Sua graça me encheu de amor sem fim<br/>Meu Jesus foi para a glória<br/>Mas um dia eu O verei<br/>Entoando aleluia ao meu Rei!</p><p>Oh! Glória ao meu Jesus!<br/>Pois é digno de louvor<br/>É meu Rei, meu bom Pastor<br/>E meu Senhor<br/>Como os anjos, que O louvam<br/>Eu também O louvarei<br/>Entoando aleluia ao meu Rei!</p><p>Este mundo não deseja<br/>Tão bondoso Salvador<br/>Não sabendo agradecer Seu grande amor<br/>Eu, porém, estou gozando<br/>Do favor da Sua lei<br/>Entoando aleluia ao meu Rei!</p><p>Oh! Glória ao meu Jesus!<br/>Pois é digno de louvor<br/>É meu Rei, meu bom Pastor<br/>E meu Senhor<br/>Como os anjos, que O louvam<br/>Eu também O louvarei<br/>Entoando aleluia ao meu Rei!</p><p>Quando o povo israelita<br/>Com Jesus se consertar<br/>Dando glória ao Seu nome, sem cessar<br/>Nesse tempo, céu e terra<br/>Hão de ser a mesma grei<br/>Entoando aleluia ao meu Rei!</p><p>Oh! Glória ao meu Jesus!<br/>Pois é digno de louvor<br/>É meu Rei, meu bom Pastor<br/>E meu Senhor<br/>Como os anjos, que O louvam<br/>Eu também O louvarei<br/>Entoando aleluia ao meu Rei!</p>
+               </div>
+               </div></center>
+       </li>         
  
        </ul></center>
  
