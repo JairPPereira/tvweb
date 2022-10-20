@@ -1,12 +1,19 @@
-<!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <!-- Meta tags Obrigatórias -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Simple VLC activeX page playing Nasa stream</title>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>HARPA CRISTÃ Letras</title>
+<meta name="description" content="Seleção de filmes do youtube">
+
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:title" content="HARPA CRISTÃ Letras" />
+<meta property="og:type" content="website" />
+
+<meta property="og:site_name" content="HARPA CRISTÃ Letras" />
+<meta property="og:description" content="Seleção de filmes do youtube" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@460&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.5.0/css/all.css" crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
 <style>
@@ -14,53 +21,16 @@
     width: 100%;
     overflow: hidden;
   }
-
-#playlist{
-            list-style: none;
-        }
-        #playlist li a{
-            color:rgb(4, 4, 4);
-            text-decoration: none;
-        }
-        #playlist .current-song a{
-            color:blue;
-        }
-     #audioPlayer{}
-  
-  audio::-webkit-media-controls-timeline { display:inline-flex;}
-  
-    audio::-webkit-media-controls-panel {background-color: #00CED1;}
-  </style>
-
+ 
+</style>
 <body>
-   <div class="container"><nav class="navbar navbar-default fixed-top">
-      <audio controls="" id="audioPlayer" preload="auto" tabindex="0">
-      
-         <source src="https://drive.google.com/uc?export&amp;id=13c0_LlrovyUFKVBzfSXxKbNHKoplD1Ie" type="audio/mp3"></source>
-      </audio></nav>
-      <br></br></p> <center>
+   <div class="container">
+
+  <video id="player" width="320" height="320" controls></video><br>
+       <input id="input" type="file" href="https://drive.google.com/uc?export&amp;id=13c0_LlrovyUFKVBzfSXxKbNHKoplD1Ie" accept="audio/mpeg, audio/mp4, audio/flac, .mp4" />
       <ul id="playlist">
-         <li class="current-song"> <a href="https://drive.google.com/uc?export&amp;id=13c0_LlrovyUFKVBzfSXxKbNHKoplD1Ie"><h5>1 - CHUVAS DE GRAÇA</h5> 
-         
-         </a>
-         <p>Deus prometeu com certeza<br/>Chuvas de graça mandar<br/>Ele nos dá fortaleza<br/>E ricas bênçãos sem par</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Cristo nos tem concedido<br/>O Santo Consolador<br/>De plena paz nos enchido<br/>Para o reinado de amor</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Dá-nos, Senhor, amplamente<br/>Teu grande gozo e poder<br/>Fonte de amor permanente<br/>Põe dentro de nosso ser</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Faze os Teus servos piedosos<br/>Dá-lhes virtude e valor<br/>Dando os Teus dons preciosos<br/>Do Santo Preceptor</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p>
-         
-         </li>
-         
-         <li><a href="https://drive.google.com/uc?export&amp;id=13cjT-w_mbiZUeUzKs6sQ-eyRnujnaERC">2- Alô</a>
-         
-            <center>
-               <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample">
-                   Letra
-                 </button>
-                 </p>
-                 <div class="collapse" id="collapseExample1">
-                 <div class="card card-body">
-                   <h5>1 - CHUVAS DE GRAÇA</h5>
-                       <p>Deus prometeu com certeza<br/>Chuvas de graça mandar<br/>Ele nos dá fortaleza<br/>E ricas bênçãos sem par</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Cristo nos tem concedido<br/>O Santo Consolador<br/>De plena paz nos enchido<br/>Para o reinado de amor</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Dá-nos, Senhor, amplamente<br/>Teu grande gozo e poder<br/>Fonte de amor permanente<br/>Põe dentro de nosso ser</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p><p>Faze os Teus servos piedosos<br/>Dá-lhes virtude e valor<br/>Dando os Teus dons preciosos<br/>Do Santo Preceptor</p><p>Chuvas de graça<br/>Chuvas pedimos, Senhor<br/>Manda-nos chuvas constantes<br/>Chuvas do Consolador</p> 
-                 </div>
-                 </div></center>
-         </li>
+         <li class="input" type="file" src="https://drive.google.com/uc?export&amp;id=13c0_LlrovyUFKVBzfSXxKbNHKoplD1Ie"> <a href="https://drive.google.com/uc?export&amp;id=13c0_LlrovyUFKVBzfSXxKbNHKoplD1Ie">1- A guerra dos meninos</a></li>
+         <li><a href="https://drive.google.com/uc?export&amp;id=13cjT-w_mbiZUeUzKs6sQ-eyRnujnaERC">2- Alô</a></li>
          <li><a href="https://drive.google.com/uc?export&amp;id=13lSjXS6GMZTXoxa4F4F1H8IRNjjRGuPA">3- Amigo, não chore por ela</a></li>
          <li><a href="https://drive.google.com/uc?export&amp;id=13mcqhgE1bFR0zJzoVx48301fLyoyR204">4- Amigo</a></li>
          <li><a href="https://drive.google.com/uc?export&amp;id=13pQmN2vQNMmphkG7TML4fMhpQZbJZROm">5- Apocalipse</a></li>
@@ -148,40 +118,39 @@
  
        <script type="text/javascript">
  
- function audioPlayer(){
-             var currentSong = 0;
-             $("#audioPlayer")[0].src = $("#playlist li a")[0];
-             $("#audioPlayer")[0].play();
-             $("#playlist li a").click(function(e){
-                e.preventDefault(); 
-                $("#audioPlayer")[0].src = this;
-                $("#audioPlayer")[0].play();
-                $("#playlist li").removeClass("current-song");
-                 currentSong = $(this).parent().index();
-                 $(this).parent().addClass("current-song");
-             });
-             
-             $("#audioPlayer")[0].addEventListener("ended", function(){
-                currentSong++;
-                 if(currentSong == $("#playlist li a").length)
-                     currentSong = 0;
-                 $("#playlist li").removeClass("current-song");
-                 $("#playlist li:eq("+currentSong+")").addClass("current-song");
-                 $("#audioPlayer")[0].src = $("#playlist li a")[currentSong].href;
-                 $("#audioPlayer")[0].play();
-             });
-         }
- 
- 
- 
-       </script>
- 
+       let reader = new FileReader(), file;
+       reader.onloadend = () => {
+       player.src = URL.createObjectURL( file );
+       
+       let picturesindex = [];
+       let buffer = reader.result;
+       
+       void new Uint8Array( buffer ).forEach( ( v, i, a ) => 
+                                             ( a[i] == 0xFF ||   a[i] == 0x89 ) && 
+                                           ( a[i+1] == 0xD8 || a[i+1] == 0x50 ) && 
+                                           ( a[i+2] == 0xFF || a[i+2] == 0x4E ) && 
+       ( a[i+3] == 0xE0 || a[i+3] == 0xEE || a[i+3] == 0xE1 || a[i+3] == 0x47 ) && 
+       picturesindex.push( i ) 
+       );
+       
+       let picturescollection = picturesindex.map( ( v ) => 
+       URL.createObjectURL( new Blob( [ buffer.slice( v ) ] ) ) 
+       );
+       
+       let frontcover = picturescollection[0]? picturescollection.shift( ) : '';
+       player.poster = frontcover;
+       player.play();
+       };
+       
+       input.onchange = () => 
+       input.files[0] && reader.readAsArrayBuffer( file = input.files[0] );
+     
+  </script>
        <script>
          // loads the audio player
          audioPlayer();
      </script>
-   <!-- JavaScript (Opcional) -->
-<!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
