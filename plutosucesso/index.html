@@ -1,60 +1,151 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="theme-color" content="#000" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="#000" />
-    <meta name="msapplication-navbutton-color" content="#7ac525" />
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <title>Pluto Sucessos</title>
-    <script src="https://cdn.plyr.io/3.6.12/plyr.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.14.5/hls.min.js.map"></script>
-    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css" /> 
-    <link href="style.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <script>window.HELP_IMPROVE_VIDEOJS = false;</script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    <link rel="stylesheet" href="mediaelementplayer.css">
+    <link rel="stylesheet" href="mediaelementplayer-legacy.css">
+    <link rel="stylesheet" href="mediaelementplayer-legacy.min.css">
+    <link rel="stylesheet" href="mediaelementplayer.min.css">
+
+    <style>
+
+        html, body {
+            overflow-x: hidden;
+            height: 100%;
+            width: 98%;
+            padding: 1rem;
+          
+           
+        }
+
+        #container {
+            padding: 0 20px 20px;
+        }
+        .error {
+            color: red;
+        }
+        a {
+            word-wrap: break-word;
+        }
+
+        code {
+            font-size: 0.8em;
+        }
+
+        #player2-container .mejs__time-buffering, #player2-container .mejs__time-current, #player2-container .mejs__time-handle,
+        #player2-container .mejs__time-loaded, #player2-container .mejs__time-hovered, #player2-container .mejs__time-marker, #player2-container .mejs__time-total {
+            height: 2px;
+        }
+
+        #player2-container .mejs__time-total {
+            margin-top: 9px;
+        }
+        #player2-container .mejs__time-handle {
+            left: -5px;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: #ffffff;
+            top: -5px;
+            cursor: pointer;
+            display: block;
+            position: absolute;
+            z-index: 2;
+            border: none;
+        }
+        #player2-container .mejs__time-handle-content {
+            top: 0;
+            left: 0;
+            width: 12px;
+            height: 12px;
+        }
+    </style>
 </head>
+
 <body>
-  <script src="hls.js"></script><center>
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-
-      <video height="380" id="video" crossorigin="anonymous" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" controls></video>
-    </tr>
-  </table></center>
+   
+    <div id="container">
   
-  <script>
-    var iOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform); 
-    console.log(iOS)
-    if (Hls.isSupported() && !iOS) {
-      var video = document.getElementById('video');
-      crossorigin="anonymous"
+
+
+            <form action="#" method="get">
+                <label><select name="lang">
+
+                    <option value="pt"  selected></option>
+                 
+                </select>
+                </label>
+                <label><select name="stretching">
+                    <option value="auto" selected></option>
+
+                </select>
+                </label>
+            </form>
+
+
+        <br>
+
     
-      var hls = new Hls();
-      hls.loadSource('http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9c0804dc98a54146bab955f119f9a09e&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=19cec34c09e111ecbb4866b58672c325&userId=');
-      hls.attachMedia(video);
-      hls.on(Hls.Events.MANIFEST_PARSED, function () {
-        video.play();
-      });
-    }
-    else {
-      document.location = 'https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9c0804dc98a54146bab955f119f9a09e&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=19cec34c09e111ecbb4866b58672c325&userId=';	
-    }
-    </script>
+
+    
+   
+
+
+
+        
+
+            <div class="media-wrapper">
+
+            </div>
+            <br>
+            <div>
+                <label>Sources <select name="sources">
+                    <option value="https://ottvsmediaservice.ottvs.com.br/9e6e9196-4166-4ae5-b898-cb692145093d/0271478_movie.ism/manifest(format=mpd-time-csf)" type="application/x-mpegURL" crossorigin="anonymous" ></option>
+                   
+                </select>
+                </label>
+            </div>
+            <br>
+
+            </div>
+        </div>
+
+        <br>
+        <hr>
+       
+           
+            <div class="media-wrapper">
+                
+            </div>
+            <video id="player1" width="98%" height="420px" poster="Adrenalina Freezone" preload="none" controls playsinline webkit-playsinline>
+                <source src="https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=live&deviceModel=live&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=" type="application/x-mpegURL" >
+                <track srclang="pt" kind="subtitles" src="mediaelement.vtt">
+                <track srclang="pt" kind="chapters" src="chapters.vtt">
+            </video>
   <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-46794744-6', 'auto');
-    ga('send', 'pageview');
-
+      document.getElementById("container").style.display = "none";
   </script>
+
+    <script src="mediaelement-and-player.js"></script>
+    <script src="mediaelement-and-player.min.js"></script>
+    <script src="mediaelement-flash-audio-ogg.swf"></script>
+    <script src="mediaelement.js"></script>
+    <script src="mediaelement.min.js"></script>
+    <script src="chapters.vtt"></script>
+    <script src="mediaelement-flash-video-hls.swf"></script>
+    <script src="mediaelement-flash-video-mdash.swf"></script>
+    <script src="mediaelement-flash-video.swf"></script>
+
+    <script src="./lang/pt.js"></script>
+  
+
+    <script src="demo.min.js"></script>
 </body>
 </html>
