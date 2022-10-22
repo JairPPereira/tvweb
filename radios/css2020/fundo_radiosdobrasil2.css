@@ -35,20 +35,7 @@ h4 {
 	font-size: 24px;
 	color: #0F0;
 }
-a:link {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 24px;	
-color: #FFF;
-}
-a:visited {
-color: #FFF;
-}
-a:hover {
-color: #FFF;
-}
-a:active {
-color: #FFF;
-}
+
 ul {
 margin: 0;
 padding-left: 1em;
