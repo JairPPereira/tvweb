@@ -1,0 +1,76 @@
+@import "base16.less";
+
+html body {
+    width: 100%;
+}
+
+body {
+    background-color: @base02;
+    overflow-x: hidden;
+}
+
+.logo {
+    text-align: center;
+    color: @base0E;
+    transition: letter-spacing 0.5s ease;
+    
+    span {
+        font-size: 0.5em;
+    }
+    
+    &:hover {
+        letter-spacing: 3px;
+    }
+}
+
+.player {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    width: 30em;
+    transition: width 0.5s ease, background-color 0.5s ease;
+    
+    &:hover {
+        width: 33em;
+        background-color: @base08;
+    }
+}
+
+.channels {
+    margin-left: -2em;
+    text-align: center;
+    
+    ul {
+        list-style: none;
+    }
+}
+
+.category {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: @base0B;
+}
+
+.station {
+    color: @base0D;
+    transition: letter-spacing 0.3s ease;
+    
+    &:hover {
+        letter-spacing: 3px;
+    }
+}
+
+.footer {
+    color: @base03;
+    
+    hr {
+        width: 90%;
+        border-color: @base03;
+    }
+    
+    span {
+        display: inline;
+        float: right;
+        margin-right: 2em;
+    }
+}

@@ -1,0 +1,20 @@
+[
+    {"name": "Pop Music", "channels": [
+        {"name": "Top 100 Station", "url": "http://87.230.103.58:80/top100station.mp3"},
+        {"name": "Antenne Bayern", "url": "http://mp3channels.webradio.antenne.de:80/antenne"},
+        {"name": "Hitradio OE3", "url": "http://194.232.200.156:8000/;?icy=http"},
+        {"name": "PopRadio", "url": "http://streaming208.radionomy.com:80/-PopRadio"},
+        {"name": "Fenomen", "url": "http://cdn-icast.radyofenomen.com/fenomen/fenomenweb/mpeg/256/home"},
+        {"name": "Number One FM", "url": "http://31.210.157.109/rto/numberonefm/icecast.audio"}
+    ]},
+    {"name": "Other", "channels": [
+        {"name": "TheRadio.CC", "url": "http://stream.theradio.cc:8000/trcc-stream.opus"}
+    ]},
+    {"name": "Electronic", "channels": [
+        {"name": "SomaFM - Groove Salad", "url": "http://ice1.somafm.com/groovesalad-128-mp3"},
+        {"name": "SomaFM - Space Station", "url": "http://ice1.somafm.com/spacestation-128-mp3"}
+    ]},
+    {"name": "Classical Music", "channels": [
+        {"name": "Public Domain Radio", "url": "http://stream2137.init7.net:80/;"}
+    ]}
+]
