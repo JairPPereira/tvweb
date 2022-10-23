@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<!DOCTYPE html>
+		<html lang='pt-BR'>
+			<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+				<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		
+				<!-- Bootstrap CSS -->
+	
+			
+		<title>Radio Jukebox</title>
+
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+		<script type="text/javascript" src="playback.js" ></script>
+	</head>
+	
+	<body class="loading"  overflow="scroll";>
+	
+		<div id="wrapper">
+			
+			<div id="bg"></div>
+			
+			<div id="overlay"></div>
+			<div id="main" overflow="scroll">
+				<!-- Header -->
+					<header id="header" style="background-color: black;">
+						
+
+				
+						
+
+						<nav>
+							<ul>
+								<li><a id="playbackButton" href="#" class="icon fa-play" onclick="changePlayback()"><span class="label">Music</span></a></li>
+							</ul>
+							<div id="label">
+
+							</div>
+						</nav>
+						<p>
+							<a id="paradise" onclick="loadStream(0)" style="cursor:pointer"> <h1>Passado </h1> </a>&nbsp;&bull;&nbsp;
+							<a id="paradise" onclick="loadStream(1)" style="cursor:pointer">  <h1>Top hits</h1> </a>&nbsp;&bull;&nbsp;
+							<a id="paradise" onclick="loadStream(2)" style="cursor:pointer"><h1>Atualidade</h1> </a>&nbsp;&bull;&nbsp;
+							<a id="paradise" onclick="loadStream(3)" style="cursor:pointer"><h1>Pop Rock</h1> </a>&nbsp;&bull;&nbsp;
+							<a id="paradise" onclick="loadStream(4)" style="cursor:pointer"><h1>Harpa Cristã</h1> </a>&nbsp;&bull;&nbsp;
+						</p>
+					
+
+						</div>
+
+					</header>
+					<p>
+						<a id="paradise" onclick="loadStream(0)" style="cursor:pointer"> <h1>Passado </h1> </a>&nbsp;&bull;&nbsp;
+						<a id="paradise" onclick="loadStream(1)" style="cursor:pointer">  <h1>Top hits </h1>  </a>&nbsp;&bull;&nbsp;
+						<a id="paradise" onclick="loadStream(2)" style="cursor:pointer"><h1>Atualidade</h1> </a>&nbsp;&bull;&nbsp;
+						<a id="paradise" onclick="loadStream(3)" style="cursor:pointer"><h1>Pop Rock</h1> </a>
+						&nbsp;&bull;&nbsp;
+						<a id="paradise" onclick="loadStream(4)" style="cursor:pointer"><h1>Harpa cristã</h1> </a>
+					</p>
+					
+			</div>
+		</div>
+		
+		<script>
+			window.onload = function() { document.body.className = ''; }
+			window.ontouchmove = function() { return false; }
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+	</body>
+</html>
