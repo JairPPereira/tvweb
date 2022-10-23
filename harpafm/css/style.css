@@ -6,6 +6,7 @@ body {
     margin: 0;
     font-family: 'Dosis', sans-serif;
     overflow: hidden;
+    background-color: rgba(0,0,205);
 }
 
 .bg {
