@@ -9,15 +9,15 @@
     
         <meta name="theme-color" content="#000000">
     
-        <meta name="apple-mobile-web-app-title" content="HARPA CRISTÃ">
+        <meta name="apple-mobile-web-app-title" content="HARPA CRISTÃ FM">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         <!--    <link rel="apple-touch-startup-image" href="img/bg-apple.jpg">-->
     
     
-        <title>HARPA CRISTÃ</title>
-        <meta name="description" content="HARPA CRISTÃ" />
+        <title>HARPA CRISTÃ FM</title>
+        <meta name="description" content="HARPA CRISTÃ FM" />
 
 
         <!-- CSS  -->
@@ -100,11 +100,11 @@
                       </li>
             
                       <li class="nav-item">
-                        <a class="nav-link" href="https://jpp-ap.onrender.com/harpafm/">HARPA CRISTÃ FM</a>
+                        <a class="nav-link" href="https://jpp-ap.onrender.com/harpafm/">HARPA CRISTÃ FM FM</a>
                       </li>
             
                       <li class="nav-item">
-                        <a class="nav-link" href="https://jpp-ap.onrender.com/estacoes/index6.html">HARPA CRISTÃ Letras</a>
+                        <a class="nav-link" href="https://jpp-ap.onrender.com/estacoes/index6.html">HARPA CRISTÃ FM Letras</a>
                       </li>
                       
                       
@@ -150,7 +150,7 @@
                 <a class="btn play" href="#" id="playBtn"><i class="material-icons">play_arrow</i></a>
                 <a class="btn pause" href="#" id="pauseBtn" style="display:none;"><i class="material-icons">pause</i></a>
                 <a class="btn loading" href="#">
-                    <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+                    <i class="fa fa-spinner fa-spin fa-3x fa-fw" aria-hidden="true"></i>
                 </a>
               
             </div>
@@ -177,6 +177,7 @@
         </script>
         <script type="text/javascript">
             var source = "https://stream-41.zeno.fm/yyv0vgxz4rhvv?zs=xP4k0slFQTmUc4oKWb86hg&aw_0_req_lsid=1665535484228_0.3879091453241035&an-uid=7245416173759505668&triton-uid=cookie%3A6e29eb36-65fb-44bd-a64e-9f6c50e9599c"
+
             var audio = document.createElement("audio");
             audio.src = source;
             audio.onplaying = function() {
