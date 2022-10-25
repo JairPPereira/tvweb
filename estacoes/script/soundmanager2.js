@@ -192,6 +192,11 @@
         flac: {
           type: ['audio/flac'],
           required: false
+        },
+
+        m3u8: {
+          type: ['audio/m3u8'],
+          required: false
         }
     
       };
