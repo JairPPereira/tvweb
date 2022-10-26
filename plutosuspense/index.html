@@ -21,13 +21,13 @@
             overflow-x: hidden;
             height: 100%;
             width: 100%;
-            padding: 1rem;
+           
           
            
         }
 
         #container {
-            padding: 0 20px 20px;
+            padding: 0,
         }
         .error {
             color: red;
@@ -53,7 +53,7 @@
             width: 12px;
             height: 12px;
             border-radius: 50%;
-            background: #ffffff;
+            background: #0e0e0e;
             top: -5px;
             cursor: pointer;
             display: block;
@@ -137,7 +137,7 @@
       </nav>
     <center>
     <h1>Somente para dispositivos mobile</h1>
-    <video id="player1" width="100%" height="420px" poster="Adrenalina Freezone" preload="none" controls playsinline webkit-playsinline>
+    <video width="100%" height="420px" poster="Adrenalina Freezone" preload="none" controls playsinline webkit-playsinline>
         <source src="https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=" type="application/x-mpegURL" >
         <track srclang="pt" kind="subtitles" src="mediaelement.vtt">
         <track srclang="pt" kind="chapters" src="chapters.vtt">
@@ -147,19 +147,6 @@
   
 
 
-            <form action="#" method="get">
-                <label><select name="lang">
-
-                    <option value="pt"  selected></option>
-                 
-                </select>
-                </label>
-                <label><select name="stretching">
-                    <option value="auto" selected></option>
-
-                </select>
-                </label>
-            </form>
 
 
         <br>
@@ -169,34 +156,22 @@
     
    
 
+        <form action="#" method="get">
+          <label><select name="lang">
 
-
-        
-
-            <div class="media-wrapper">
-
-            </div>
-            <br>
-            <div>
-                <label>Sources <select name="sources">
-                    <option value="https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=" type="application/x-mpegURL" crossorigin="anonymous" ></option>
-                   
-                </select>
-                </label>
-            </div>
-            <br>
-
-            </div>
-        </div>
-
-        <br>
-        <hr>
-       
+              <option value="pt"  selected></option>
            
-            <div class="media-wrapper">
-                
-            </div>
-    
+          </select>
+          </label>
+          <label><select name="stretching">
+              <option value="auto" selected></option>
+
+          </select>
+          </label>
+      </form>
+
+        <label>Sources <select name="sources"></select></label>
+
   <script>
       document.getElementById("container").style.display = "none";
   </script>
