@@ -2,8 +2,8 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-15">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -11,10 +11,12 @@
   " />
   <meta name="apple-mobile-web-app-status-bar-style" content="black
   " />
+
   <meta name="msapplication-navbutton-color" content="black
   " />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <title>Rede Brasil de Televisão - RBTV</title>
+  <title>Pluto Plantão noturno</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <link href="./video-js.css" rel="stylesheet">
   <link href="./videojs-mobile-ui.css" rel="stylesheet">
   <link href="videojs-playlist-ui.css" rel="stylesheet">
@@ -41,17 +43,90 @@
 
 
 <body> 
-  <div class="player-container" width="100%">
 
-    <video-js id="videojs-mobile-ui-player" class="video-js vjs-default-skin vjs-fluid" controls playsinline
-      poster="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSaEH5OWoDR005OitnIhmXvYATbjS7-AknEfWiiu55Z4x9TXj1TttJhtBg3jdAuaeaqfPnzzzAqCfBRQkAwN2PNWpeDx1d2ipxSEYVn_rMBWPAOqQdSMeJ1O60cpwT4qJP3RCdVChqSutCp7n-skVfeLkrCDIUd-yD6JrvmIO_i4l9xrEkX_NYOfTj/s1600/redebrasil.webp">
-      <source src="https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w146843650.m3u8" type='application/x-mpegURL'>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="https://jpp-ap.onrender.com/">JPFILMES</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="https://jpp-ap.onrender.com/">HOME<span class="sr-only">(página atual)</span></a>
+          </li>
+          <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  CANAIS DE TV
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="https://jpp-ap.onrender.com/jornalismo.html">JORNALISMO</a>
+                <a class="dropdown-item" href="https://jpp-ap.onrender.com/tvaberta.html">TV ABERTA</a>
+                <a class="dropdown-item" href="https://jpp-ap.onrender.com/religiosos.html">RELIGIOSOS</a>
+                <a class="dropdown-item" href="https://jpp-ap.onrender.com/tvfilmes.html">TV FILMES</a>
+                <a class="dropdown-item" href="https://jpp-ap.onrender.com/sportv.html">SPORT</a>
+              </div>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                RÁDIOS
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="https://jpp-ap.onrender.com/radiowebtv.html">Rádios Web TV</a>
+                <a class="dropdown-item" href="https://jpp-ap.onrender.com/radios/">Rádios</a>
+                <a class="dropdown-item" href="https://jpp-ap.onrender.com/estacoes/">Seleções de músicas</a>
+                
+            </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://jpp-ap.onrender.com/jpiptv/">JP IPTV</a>
+          </li>
+
+          <li class="nav-item">
+              <a class="nav-link" href="https://jp-app.netlify.app/">FILMES ON DEMAND</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://jpp-ap.onrender.com/filmesy/">FILMES YOUTUBE</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://jpp-ap.onrender.com/minuto/">MINUTO DE SABEDORIA</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://jpp-ap.onrender.com/harpafm/">HARPA CRISTÃ FM</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://jpp-ap.onrender.com/estacoes/index6.html">HARPA CRISTÃ Letras</a>
+            </li>
+            
+            
+       
+        </ul>
+        
+      </div>
+    </nav>
+
+    <video-js id="videojs-mobile-ui-player" class="video-js vjs-default-skin vjs-big-play-centered" controls playsinline
+      poster="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75">
+      <source src="https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=" type='application/x-mpegURL'>
 
 
 
 
     </video-js>
-
+  
+    <footer class="bg-light text-center" style="background-color: black;">
+      <img src="https://jpp-ap.onrender.com/img/logo2.png" width="100" height="50" alt="Rádio JP FM" />
+                          <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(253, 245, 245, 0.864);">
+                          <p style="background-color: black;">  © 2022 Copyright:
+    <a class="text-dark" href="https://jpp-ap.onrender.com/">JP.Pereira</a></p>
+                          </div>
+                          <!-- Copyright -->
+    </footer>
 
     <script src="./video.js"></script>
     <script src="./videojs-mobile-ui.js"></script>
@@ -74,43 +149,6 @@
 
 
 
-      player.playlist([
-
-      {
-        name: 'Rede Brasil de Televisão - RBTV',
-
-        sources: [
-        { src: 'https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w146843650.m3u8', type: 'application/x-mpegURL' },         
-
-        ],
-
-        thumbnail: [
-          {
-            srcset: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSaEH5OWoDR005OitnIhmXvYATbjS7-AknEfWiiu55Z4x9TXj1TttJhtBg3jdAuaeaqfPnzzzAqCfBRQkAwN2PNWpeDx1d2ipxSEYVn_rMBWPAOqQdSMeJ1O60cpwT4qJP3RCdVChqSutCp7n-skVfeLkrCDIUd-yD6JrvmIO_i4l9xrEkX_NYOfTj/s1600/redebrasil.webp',
-            type: 'image/png',
-            media: '(min-width: 400px;)'
-          },
-          {
-            src: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSaEH5OWoDR005OitnIhmXvYATbjS7-AknEfWiiu55Z4x9TXj1TttJhtBg3jdAuaeaqfPnzzzAqCfBRQkAwN2PNWpeDx1d2ipxSEYVn_rMBWPAOqQdSMeJ1O60cpwT4qJP3RCdVChqSutCp7n-skVfeLkrCDIUd-yD6JrvmIO_i4l9xrEkX_NYOfTj/s1600/redebrasil.webp'
-          }
-        ],
-        poster: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSaEH5OWoDR005OitnIhmXvYATbjS7-AknEfWiiu55Z4x9TXj1TttJhtBg3jdAuaeaqfPnzzzAqCfBRQkAwN2PNWpeDx1d2ipxSEYVn_rMBWPAOqQdSMeJ1O60cpwT4qJP3RCdVChqSutCp7n-skVfeLkrCDIUd-yD6JrvmIO_i4l9xrEkX_NYOfTj/s1600/redebrasil.webp'
-      },
-
-
-
-
-
-      ]);
-
-
-
-
-
-
-
-      player.playlistUi({ horizontal: true },);
-      player.playlist.autoadvance(0);
 
 
 
@@ -201,7 +239,9 @@
 
   
 </script>   
-
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
 </body>
 
