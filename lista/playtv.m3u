@@ -2,6 +2,9 @@
 
 #################################################################################
 
+#EXTINF:-1 tvg-id="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="Documentarios",Pluto Sucesso
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUHvAhY0D_I72Ay2Awl-woMRPDy1tVcGEonhts8SKEaJuw5MIFebcUh4zGa0JJVWFvN7FpRJ5G5is2jppbRE-ycM9DZjxPDbagvsj8LHGTYttV7t-bg_4kAWASVPXXEMf3aiP6NdifgBgPL0CRK0osbvOhrRIVUvtI9n33SwYqJ383wpTxcPpI85FV/s1600/mile.jpeg" group-title="Documentarios",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 
