@@ -4,59 +4,59 @@
 #
 
 
-#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="Documentarios",AgroBrasil TV
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="TV ABERTA",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2-oWeQgNszafaOMjHAB_EDjNXaY3Jt2PqhQ5HuMGbwZ4MeDZ6gBxIVX-_S6NzW6_Y4fhyqHkCOhGTHyo4YjwSf8kavvKmKZ8mHQ_Kqi-F8naW0uSPlXX3voQW5gfSmKjMJWHGPnhQLYJ1PXxhuWlBQV0nQ4AmO0GPN8WCkUygqZXVhDLkXhcTZs8l/s1600/jundiai.jpeg" group-title="Documentarios",Canal25Jundiai.br
+#EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2-oWeQgNszafaOMjHAB_EDjNXaY3Jt2PqhQ5HuMGbwZ4MeDZ6gBxIVX-_S6NzW6_Y4fhyqHkCOhGTHyo4YjwSf8kavvKmKZ8mHQ_Kqi-F8naW0uSPlXX3voQW5gfSmKjMJWHGPnhQLYJ1PXxhuWlBQV0nQ4AmO0GPN8WCkUygqZXVhDLkXhcTZs8l/s1600/jundiai.jpeg" group-title="TV ABERTA",Canal25Jundiai.br
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 
-#EXTINF:-1 tvg-id="Tv Grão Pará Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/13a4885d7e34a1750c01cb4f1daf5e7f.webp" group-title="Documentarios",Tv Grão Pará Ao Vivo
+#EXTINF:-1 tvg-id="Tv Grão Pará Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/13a4885d7e34a1750c01cb4f1daf5e7f.webp" group-title="TV ABERTA",Tv Grão Pará Ao Vivo
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1936544708.m3u8
 
-#EXTINF:-1 tvg-id="CBTV NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRenubI6TtoUbI223ZA5j4e8e0hu4weTloduIN1d7fvzcLswWi6PZpcTYZ6XAIVEd_Ro_A&usqp=CAU" group-title="Documentarios",CBTV NOW
+#EXTINF:-1 tvg-id="CBTV NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRenubI6TtoUbI223ZA5j4e8e0hu4weTloduIN1d7fvzcLswWi6PZpcTYZ6XAIVEd_Ro_A&usqp=CAU" group-title="TV ABERTA",CBTV NOW
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Documentarios",CANÇÃO NOVA
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="TV ABERTA",CANÇÃO NOVA
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
 
-#EXTINF:-1 tvg-id="TV Channel Network" tvg-logo="https://assets.iptv2022.com/uploads/channel/11355/thumb_TV_Channel_Network.jpeg" group-title="Documentarios",TV Channel Network
+#EXTINF:-1 tvg-id="TV Channel Network" tvg-logo="https://assets.iptv2022.com/uploads/channel/11355/thumb_TV_Channel_Network.jpeg" group-title="TV ABERTA",TV Channel Network
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1918807699.m3u8
 
-#EXTINF:-1 tvg-id="Rede Família" tvg-logo="https://assets.iptv2022.com/uploads/channel/11348/thumb_Rede__correct_.png" group-title="Documentarios",Rede Família
+#EXTINF:-1 tvg-id="Rede Família" tvg-logo="https://assets.iptv2022.com/uploads/channel/11348/thumb_Rede__correct_.png" group-title="TV ABERTA",Rede Família
 https://alanza.iptv2022.com/Rede_Familia/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Rede Sul de Televisão" tvg-logo="https://assets.iptv2022.com/uploads/channel/13322/thumb_Rede_Sul_de_Televisa%CC%83o.png" group-title="Documentarios",Rede Sul de Televisão
+#EXTINF:-1 tvg-id="Rede Sul de Televisão" tvg-logo="https://assets.iptv2022.com/uploads/channel/13322/thumb_Rede_Sul_de_Televisa%CC%83o.png" group-title="TV ABERTA",Rede Sul de Televisão
 https://alanza.iptv2022.com/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TV Brusque" tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="Documentarios",TV Brusque
+#EXTINF:-1 tvg-id="TV Brusque" tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="TV ABERTA",TV Brusque
 https://alanza.iptv2022.com/TV_Brusque/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="BR Super TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11446/thumb_BRsupertv.jpeg" group-title="Documentarios",BR Super TV
+#EXTINF:-1 tvg-id="BR Super TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11446/thumb_BRsupertv.jpeg" group-title="TV ABERTA",BR Super TV
 https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Central TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11439/thumb_Group_60.png" group-title="Documentarios",Central TV
+#EXTINF:-1 tvg-id="Central TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11439/thumb_Group_60.png" group-title="TV ABERTA",Central TV
 https://alanza.iptv2022.com/Central_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TV Aracati" tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="Documentarios",TV Aracati
+#EXTINF:-1 tvg-id="TV Aracati" tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="TV ABERTA",TV Aracati
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="JPL TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/13539/thumb_JPL_TV.png" group-title="Documentarios",JPL TV
+#EXTINF:-1 tvg-id="JPL TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/13539/thumb_JPL_TV.png" group-title="TV ABERTA",JPL TV
 https://streaming.jplproducoes.com.br/JPL1/video.m3u
 
-#EXTINF:-1 tvg-id="REDE TV BELEM" tvg-logo="https://assets.iptv2022.com/uploads/channel/13385/thumb_REDE_TV_BELEM_.jpeg" group-title="Documentarios",REDE TV BELEM
+#EXTINF:-1 tvg-id="REDE TV BELEM" tvg-logo="https://assets.iptv2022.com/uploads/channel/13385/thumb_REDE_TV_BELEM_.jpeg" group-title="TV ABERTA",REDE TV BELEM
 https://alanza.iptv2022.com/Rede_TV_belem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Diário do Sertão Ao Vivo" tvg-logo="https://assets.iptv2022.com/uploads/channel/11957/thumb_Dia%CC%81rio_do_Serta%CC%83o_.jpeg" group-title="Documentarios",Diário do Sertão Ao Vivo
+#EXTINF:-1 tvg-id="Diário do Sertão Ao Vivo" tvg-logo="https://assets.iptv2022.com/uploads/channel/11957/thumb_Dia%CC%81rio_do_Serta%CC%83o_.jpeg" group-title="TV ABERTA",Diário do Sertão Ao Vivo
 https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1077237079.m3u8
 
-#EXTINF:-1 tvg-id="Com Brasil Ao Vivo" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="Documentarios",Com Brasil Ao Vivo
+#EXTINF:-1 tvg-id="Com Brasil Ao Vivo" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="TV ABERTA",Com Brasil Ao Vivo
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w1884885417.m3u8
 
-#EXTINF:-1 tvg-id="TV BRASIL HITS Ao Vivo" tvg-logo="https://assets.iptv2022.com/uploads/channel/13308/thumb_TV_BRASIL_HITS_.png" group-title="Documentarios",TV BRASIL HITS Ao Vivo
+#EXTINF:-1 tvg-id="TV BRASIL HITS Ao Vivo" tvg-logo="https://assets.iptv2022.com/uploads/channel/13308/thumb_TV_BRASIL_HITS_.png" group-title="TV ABERTA",TV BRASIL HITS Ao Vivo
 https://alanza.iptv2022.com/TV_BRASIL_HITS/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="VV8 TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/14127/thumb_VV8_TV.png" group-title="Documentarios",VV8 TV
+#EXTINF:-1 tvg-id="VV8 TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/14127/thumb_VV8_TV.png" group-title="TV ABERTA",VV8 TV
 https://video01.kshost.com.br:4443/seap8272/seap8272/chunklist_w1424929919.m3u8
 
 
@@ -127,11 +127,11 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="REDE SULAMÉRICA" tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="Musicas",REDE SULAMÉRICA
 https://alanza.iptv2022.com/REDE_SULAMERICA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="Documentarios",Pluto Sucesso
+#EXTINF:-1 tvg-id="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="TV ABERTA",Pluto Sucesso
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
 
 
-#EXTINF:-1 tvg-id="Pluto Ficcao cientifica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="Documentarios",Pluto Ficção cientifica
+#EXTINF:-1 tvg-id="Pluto Ficcao cientifica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="TV ABERTA",Pluto Ficção cientifica
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
 
 
