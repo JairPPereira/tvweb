@@ -48,6 +48,9 @@ https://alanza.iptv2022.com/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV Brusque" tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="TV ABERTA",TV Brusque
 https://alanza.iptv2022.com/TV_Brusque/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="REDE FAMILIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP0Qxr0AcZXGeO5MDLHdIBqaiGTqTJQeSrVPyblTLYxeybfa6DcN12oNnlltMg_OTkJPwtnZdMKT1_WwR40OOHTyHfCrGiGD90qgEU2LNLkSw3TdZ8qxkjxgO5sGO-8d3_gSnJxRnBhfcY8sAxUCbxfQPylYRNzWkTfye0HxSe-jNQLVUneEYSxae3/w945-h600-p-k-no-nu/redef.jpg" group-title="TV ABERTA",REDE FAMILIA
+https://alanza.iptv2022.com/Rede_Familia/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="BR Super TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11446/thumb_BRsupertv.jpeg" group-title="TV ABERTA",BR Super TV
 https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
 
