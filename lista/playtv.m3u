@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-id="REDE TV BELEM" tvg-logo="https://assets.iptv2022.com/uploads/channel/13385/thumb_REDE_TV_BELEM_.jpeg" group-title="TV ABERTA",REDE TV BELEM
 https://alanza.iptv2022.com/Rede_TV_belem/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="RBA" tvg-logo="https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg" group-title="TV ABERTA",RBA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Tv Grão Pará Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/13a4885d7e34a1750c01cb4f1daf5e7f.webp" group-title="TV ABERTA",Tv Grão Pará Ao Vivo
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1936544708.m3u8
 
