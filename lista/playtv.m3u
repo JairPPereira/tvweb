@@ -9,8 +9,9 @@ https://alanza.iptv2022.com/Rede_TV_belem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tv Grão Pará Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/13a4885d7e34a1750c01cb4f1daf5e7f.webp" group-title="TV ABERTA",Tv Grão Pará Ao Vivo
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1936544708.m3u8
 
-#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="JORNALISMO",Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w375796097.m3u8
+#EXTINF:-1 tvg-id="Tv CULTURA" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="TV ABERTA",TV CULTURA
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
 
 
 
@@ -67,7 +68,10 @@ https://alanza.iptv2022.com/TV_BRASIL_HITS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VV8 TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/14127/thumb_VV8_TV.png" group-title="TV ABERTA",VV8 TV
 https://video01.kshost.com.br:4443/seap8272/seap8272/chunklist_w1424929919.m3u8
 
+##################################################################################
 
+#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="JORNALISMO",Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w375796097.m3u8
 
 
 #################################################################################
