@@ -89,7 +89,17 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Século 21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXuL_DJFsAuv-WzUnMni-KIQGG171A_4O5SLueVn75MKw4EYOvtuCBvFJQ6Os0Gmr4V4lVR7jmLUXJa2EDnVn9nGwhMw3hA4OVYIM-6Sajg-ZrPCicv2nNY4rf4Vie4HDSgVSfJ-buy96k8jPLWIOUQDrtB88HJUnP2OnjR0YYeJnbjc4WowyiFZ49=s200" group-title="RELIGIOSOS",TV Século 21
-https://player.jmvstream.com/lvw/DhqfxTybrvDUu7iMnuVVrGTZV2miq1
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV AD Belém" tvg-logo="https://1.bp.blogspot.com/-Ewql76e9TBQ/YVOvWWPyvqI/AAAAAAAABKo/YH-INHNmMfElgO9xllVx5yhy0uvgNbY9gCLcBGAsYHQ/s200/tvassbelem200.jpg" group-title="RELIGIOSOS",TV AD Belém
+https://cdn.jmvstream.com/w/AVJ-9106/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Boas Novas" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgsHvhOKzzBbKjnZ53gIEW4GbyhlANiXTuFzsGYmpiwfX4D4-nbywik-J8A4LFN5VmUyI4oH2_qgQHteFdQXyuHFYE207Q05THqyOsZp9N6JfSoto-61BT3fzyeQ6oi7A9qDH0Kxwn1sSs5sx8RQQMeTDZMGPbEiaIG1w-S3QG_RWovmGaIUgHXHL4W=s200" group-title="RELIGIOSOS",Tv Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv IMPD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="RELIGIOSOS",Tv IMPD
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
 
 ####################################################################################
 
