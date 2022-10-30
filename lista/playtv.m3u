@@ -9,7 +9,7 @@ https://alanza.iptv2022.com/Rede_TV_belem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tv Grão Pará Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/13a4885d7e34a1750c01cb4f1daf5e7f.webp" group-title="TV ABERTA",Tv Grão Pará Ao Vivo
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1936544708.m3u8
 
-#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band
+#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="JORNALISMO",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w375796097.m3u8
 
 
@@ -73,42 +73,42 @@ https://video01.kshost.com.br:4443/seap8272/seap8272/chunklist_w1424929919.m3u8
 #################################################################################
 
 
-#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="Esportes",All Sports
+#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="ESPORTES",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 
 #################################################################################
-#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1lVcMCyE8GHc7hFGuLycugRbUKqz-X0SrYnjaxFSUiyFb3-TjlOdfzgiRNN3qe1WeSOKyOBq9tJ67QRrAQI9WXvTtuMm_XXuFL6SqACcXJlSs_elRrVep27ln2qMsUfZl81pfwWV_Cpf712QvMkkhe3ETmW62s43_VN1ld9mi3Q1X57ErPFGO-21R/s1600/animetv.jpg" group-title="Filmes & Series",Anime TV
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1lVcMCyE8GHc7hFGuLycugRbUKqz-X0SrYnjaxFSUiyFb3-TjlOdfzgiRNN3qe1WeSOKyOBq9tJ67QRrAQI9WXvTtuMm_XXuFL6SqACcXJlSs_elRrVep27ln2qMsUfZl81pfwWV_Cpf712QvMkkhe3ETmW62s43_VN1ld9mi3Q1X57ErPFGO-21R/s1600/animetv.jpg" group-title="FILMES E SÉRIES",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv Nova Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="Filmes & Series",Tv Nova Play Ao Vivo
+#EXTINF:-1 tvg-id="Tv Nova Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="FILMES E SÉRIES",Tv Nova Play Ao Vivo
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1874174887.m3u8
 
-#EXTINF:-1 tvg-id="Web Tv Cine Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="Filmes & Series",Web Tv Cine Ao Vivo
+#EXTINF:-1 tvg-id="Web Tv Cine Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES",Web Tv Cine Ao Vivo
 https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w148197557.m3u8
 
-#EXTINF:-1 tvg-id="Bons Tempos Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="Filmes & Series",Bons Tempos Ao Vivo
+#EXTINF:-1 tvg-id="Bons Tempos Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="FILMES E SÉRIES",Bons Tempos Ao Vivo
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w305418487.m3u8
 
-#EXTINF:-1 tvg-id="GOSPEL MOVIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="Filmes & Series",GOSPEL MOVIE
+#EXTINF:-1 tvg-id="GOSPEL MOVIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="FILMES E SÉRIES",GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fandom TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/12069/thumb_Fandom_TV_.jpg" group-title="Filmes & Series",Fandom TV
+#EXTINF:-1 tvg-id="Fandom TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/12069/thumb_Fandom_TV_.jpg" group-title="FILMES E SÉRIES",Fandom TV
 https://alanza.iptv2022.com/Fandom_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CLC (Cine Life Classic)" tvg-logo="https://assets.iptv2022.com/uploads/channel/12076/thumb_CLC____Cine_Life_Classic__.jpg" group-title="Filmes & Series",CLC (Cine Life Classic)
+#EXTINF:-1 tvg-id="CLC (Cine Life Classic)" tvg-logo="https://assets.iptv2022.com/uploads/channel/12076/thumb_CLC____Cine_Life_Classic__.jpg" group-title="FILMES E SÉRIES",CLC (Cine Life Classic)
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CANAL 29" tvg-logo="https://canal29.weebly.com/uploads/1/0/5/3/105352943/published/2_1.png?1620962596" group-title="Filmes & Series",CANAL 29
+#EXTINF:-1 tvg-id="CANAL 29" tvg-logo="https://canal29.weebly.com/uploads/1/0/5/3/105352943/published/2_1.png?1620962596" group-title="FILMES E SÉRIES",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w960384045.m3u8
 
-#EXTINF:-1 tvg-id="TV Séries" tvg-logo="https://assets.iptv2022.com/uploads/channel/14155/thumb_TV_Se%CC%81ries.png" group-title="Filmes & Series",TV Séries
+#EXTINF:-1 tvg-id="TV Séries" tvg-logo="https://assets.iptv2022.com/uploads/channel/14155/thumb_TV_Se%CC%81ries.png" group-title="FILMES E SÉRIES",TV Séries
 https://alanza.iptv2022.com/TV_SERIE/tracks-v1a1/mono.m3u8
 
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="CANAL SAUDE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxOGHoNXEwatnJVTW269RHbMwPtOwKZowJPoA1COoyOnvQcpoRoXyjzPT-MXzwliE4IlBfs6QHO15XaC4Q18Cz42Wsx6HqCsMJkDAJAwS20axKqKqbvJ17Y5wz91XWNwN71NvAiY3jzILrLLyovvsoxwX6TWKGV4O-3A4auV4Sh0ukpmOFS05Bsw2m/s1600/sa%C3%BAde.jpeg" group-title="Jornalismo",CANAL SAÚDE
+#EXTINF:-1 tvg-id="CANAL SAUDE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxOGHoNXEwatnJVTW269RHbMwPtOwKZowJPoA1COoyOnvQcpoRoXyjzPT-MXzwliE4IlBfs6QHO15XaC4Q18Cz42Wsx6HqCsMJkDAJAwS20axKqKqbvJ17Y5wz91XWNwN71NvAiY3jzILrLLyovvsoxwX6TWKGV4O-3A4auV4Sh0ukpmOFS05Bsw2m/s1600/sa%C3%BAde.jpeg" group-title="JORNALISMO",CANAL SAÚDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
 
@@ -117,22 +117,22 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="TOP TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3858200bc307bc603e159858383c367c.webp" group-title="Musicas",TOP TV
+#EXTINF:-1 tvg-id="TOP TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3858200bc307bc603e159858383c367c.webp" group-title="MUSICAS",TOP TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
 
-#EXTINF:-1 tvg-id="Kpop TV Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="Musicas",Kpop TV Play Ao Vivo
+#EXTINF:-1 tvg-id="Kpop TV Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="MUSICAS",Kpop TV Play Ao Vivo
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w489520488.m3u8
 
-#EXTINF:-1 tvg-id="TOP MIX TV Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ab499d9cc282fd063424971ef738fec.webp" group-title="Musicas",TOP MIX TV Ao Vivo
+#EXTINF:-1 tvg-id="TOP MIX TV Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ab499d9cc282fd063424971ef738fec.webp" group-title="MUSICAS",TOP MIX TV Ao Vivo
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w906310315.m3u8
 
-#EXTINF:-1 tvg-id="Kronehit" tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=AT&name=27835-6617440.png&size=200" group-title="Musicas",Kronehit
+#EXTINF:-1 tvg-id="Kronehit" tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=AT&name=27835-6617440.png&size=200" group-title="MUSICAS",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="REDE SULAMÉRICA" tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="Musicas",REDE SULAMÉRICA
+#EXTINF:-1 tvg-id="REDE SULAMÉRICA" tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="MUSICAS",REDE SULAMÉRICA
 https://alanza.iptv2022.com/REDE_SULAMERICA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Filme" tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="Musicas",Filme
+#EXTINF:-1 tvg-id="Filme" tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="MUSICAS",Filme
 https://youtu.be/ko8uE1gMN_8.mp4
 
 ########################################################################################
