@@ -86,6 +86,9 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 
 #################################################################################
+#EXTINF:-1 tvg-id="Rede Clone" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title="FILMES E SÉRIES",Rede Clone
+https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w1266953032.m3u8
+
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1lVcMCyE8GHc7hFGuLycugRbUKqz-X0SrYnjaxFSUiyFb3-TjlOdfzgiRNN3qe1WeSOKyOBq9tJ67QRrAQI9WXvTtuMm_XXuFL6SqACcXJlSs_elRrVep27ln2qMsUfZl81pfwWV_Cpf712QvMkkhe3ETmW62s43_VN1ld9mi3Q1X57ErPFGO-21R/s1600/animetv.jpg" group-title="FILMES E SÉRIES",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
@@ -140,8 +143,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="REDE SULAMÉRICA" tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="MUSICAS",REDE SULAMÉRICA
 https://alanza.iptv2022.com/REDE_SULAMERICA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Filme" tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="MUSICAS",Filme
-https://youtu.be/ko8uE1gMN_8.mp4
+
 
 ########################################################################################
 
