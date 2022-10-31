@@ -244,13 +244,13 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6079c058aa05a
 
 #########################################################################################
 
-#EXTINF:-1 tvg-id="FILMES" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_1920x1080_0.jpg" group-title="CANAIS RUN:TIME",FILMES
+#EXTINF:-1 tvg-id="FILMES" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_1920x1080_0.jpg" group-title="CANAIS RUN:TIME",FILMES RUN:TIME
 https://stream.ads.ottera.tv/cl/01df6c48-60b3-4b8d-a296-73937ac8b9f4/1280x720_3071200_0_f.m3u8
 
-#EXTINF:-1 tvg-id="AÇÃO" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_action_bg.jpg" group-title="CANAIS RUN:TIME",AÇÃO
+#EXTINF:-1 tvg-id="AÇÃO" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_action_bg.jpg" group-title="CANAIS RUN:TIME",AÇÃO RUN:TIME
 https://stream.ads.ottera.tv/cl/d24c764b-2185-4597-9af3-a0a553b4696d/1280x720_3071200_0_f.m3u8
 
-#EXTINF:-1 tvg-id="COMÉDIA" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/br_comedy_bg.jpg" group-title="CANAIS RUN:TIME",COMÉDIA
+#EXTINF:-1 tvg-id="COMÉDIA" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/br_comedy_bg.jpg" group-title="CANAIS RUN:TIME",COMÉDIA RUN:TIME
 https://stream.ads.ottera.tv/cl/b9f497df-7e0e-4005-88ae-254d7e9a9a4f/1280x720_3071200_0_f.m3u8
 
 #################################################################################
