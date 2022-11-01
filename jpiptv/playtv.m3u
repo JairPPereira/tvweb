@@ -1,135 +1,300 @@
 #EXTM3U
 
 #################################################################################
+#
 
-
-#EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUHvAhY0D_I72Ay2Awl-woMRPDy1tVcGEonhts8SKEaJuw5MIFebcUh4zGa0JJVWFvN7FpRJ5G5is2jppbRE-ycM9DZjxPDbagvsj8LHGTYttV7t-bg_4kAWASVPXXEMf3aiP6NdifgBgPL0CRK0osbvOhrRIVUvtI9n33SwYqJ383wpTxcPpI85FV/s1600/mile.jpeg" group-title="Documentarios",1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="Documentarios",AgroBrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2-oWeQgNszafaOMjHAB_EDjNXaY3Jt2PqhQ5HuMGbwZ4MeDZ6gBxIVX-_S6NzW6_Y4fhyqHkCOhGTHyo4YjwSf8kavvKmKZ8mHQ_Kqi-F8naW0uSPlXX3voQW5gfSmKjMJWHGPnhQLYJ1PXxhuWlBQV0nQ4AmO0GPN8WCkUygqZXVhDLkXhcTZs8l/s1600/jundiai.jpeg" group-title="Documentarios",Canal25Jundiai.br
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-
-#EXTINF:-1 tvg-id="Tv Grão Pará Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/13a4885d7e34a1750c01cb4f1daf5e7f.webp" group-title="Documentarios",Tv Grão Pará Ao Vivo
-https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1936544708.m3u8
-
-#EXTINF:-1 tvg-id="CBTV NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRenubI6TtoUbI223ZA5j4e8e0hu4weTloduIN1d7fvzcLswWi6PZpcTYZ6XAIVEd_Ro_A&usqp=CAU" group-title="Documentarios",CBTV NOW
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-
-#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Documentarios",CANÇÃO NOVA
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
-
-#EXTINF:-1 tvg-id="TV Channel Network" tvg-logo="https://assets.iptv2022.com/uploads/channel/11355/thumb_TV_Channel_Network.jpeg" group-title="Documentarios",TV Channel Network
-https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1918807699.m3u8
-
-#EXTINF:-1 tvg-id="Rede Família" tvg-logo="https://assets.iptv2022.com/uploads/channel/11348/thumb_Rede__correct_.png" group-title="Documentarios",Rede Família
-https://alanza.iptv2022.com/Rede_Familia/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Rede Sul de Televisão" tvg-logo="https://assets.iptv2022.com/uploads/channel/13322/thumb_Rede_Sul_de_Televisa%CC%83o.png" group-title="Documentarios",Rede Sul de Televisão
-https://alanza.iptv2022.com/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TV Brusque" tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="Documentarios",TV Brusque
-https://alanza.iptv2022.com/TV_Brusque/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="BR Super TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11446/thumb_BRsupertv.jpeg" group-title="Documentarios",BR Super TV
-https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Central TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11439/thumb_Group_60.png" group-title="Documentarios",Central TV
-https://alanza.iptv2022.com/Central_TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TV Aracati" tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="Documentarios",TV Aracati
-https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="JPL TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/13539/thumb_JPL_TV.png" group-title="Documentarios",JPL TV
-https://streaming.jplproducoes.com.br/JPL1/video.m3u
-
-#EXTINF:-1 tvg-id="REDE TV BELEM" tvg-logo="https://assets.iptv2022.com/uploads/channel/13385/thumb_REDE_TV_BELEM_.jpeg" group-title="Documentarios",REDE TV BELEM
+#EXTINF:-1 tvg-id="REDE TV BELEM" tvg-logo="https://assets.iptv2022.com/uploads/channel/13385/thumb_REDE_TV_BELEM_.jpeg" group-title="documentarios",REDE TV BELEM
 https://alanza.iptv2022.com/Rede_TV_belem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Diário do Sertão Ao Vivo" tvg-logo="https://assets.iptv2022.com/uploads/channel/11957/thumb_Dia%CC%81rio_do_Serta%CC%83o_.jpeg" group-title="Documentarios",Diário do Sertão Ao Vivo
+#EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="documentarios",TV Marajoara
+https://video01.kshost.com.br/tv31966/tv31966/chunklist_w1874400382.m3u8
+
+#EXTINF:-1 tvg-id="RBA" tvg-logo="https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg" group-title="documentarios",RBA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Grão Pará Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/13a4885d7e34a1750c01cb4f1daf5e7f.webp" group-title="documentarios",Tv Grão Pará Ao Vivo
+https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1936544708.m3u8
+
+#EXTINF:-1 tvg-id="Tv CULTURA" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="documentarios",TV CULTURA
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="documentarios",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2-oWeQgNszafaOMjHAB_EDjNXaY3Jt2PqhQ5HuMGbwZ4MeDZ6gBxIVX-_S6NzW6_Y4fhyqHkCOhGTHyo4YjwSf8kavvKmKZ8mHQ_Kqi-F8naW0uSPlXX3voQW5gfSmKjMJWHGPnhQLYJ1PXxhuWlBQV0nQ4AmO0GPN8WCkUygqZXVhDLkXhcTZs8l/s1600/jundiai.jpeg" group-title="documentarios",Canal25Jundiai.br
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+
+
+#EXTINF:-1 tvg-id="CBTV NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRenubI6TtoUbI223ZA5j4e8e0hu4weTloduIN1d7fvzcLswWi6PZpcTYZ6XAIVEd_Ro_A&usqp=CAU" group-title="documentarios",CBTV NOW
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="documentarios",CANÇÃO NOVA
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
+
+#EXTINF:-1 tvg-id="TV Channel Network" tvg-logo="https://assets.iptv2022.com/uploads/channel/11355/thumb_TV_Channel_Network.jpeg" group-title="documentarios",TV Channel Network
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1918807699.m3u8
+
+#EXTINF:-1 tvg-id="Rede Família" tvg-logo="https://assets.iptv2022.com/uploads/channel/11348/thumb_Rede__correct_.png" group-title="documentarios",Rede Família
+https://alanza.iptv2022.com/Rede_Familia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Rede Sul de Televisão" tvg-logo="https://assets.iptv2022.com/uploads/channel/13322/thumb_Rede_Sul_de_Televisa%CC%83o.png" group-title="documentarios",Rede Sul de Televisão
+https://alanza.iptv2022.com/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV Brusque" tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="documentarios",TV Brusque
+https://alanza.iptv2022.com/TV_Brusque/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="REDE FAMILIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP0Qxr0AcZXGeO5MDLHdIBqaiGTqTJQeSrVPyblTLYxeybfa6DcN12oNnlltMg_OTkJPwtnZdMKT1_WwR40OOHTyHfCrGiGD90qgEU2LNLkSw3TdZ8qxkjxgO5sGO-8d3_gSnJxRnBhfcY8sAxUCbxfQPylYRNzWkTfye0HxSe-jNQLVUneEYSxae3/w945-h600-p-k-no-nu/redef.jpg" group-title="documentarios",REDE FAMILIA
+https://alanza.iptv2022.com/Rede_Familia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BR Super TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11446/thumb_BRsupertv.jpeg" group-title="documentarios",BR Super TV
+https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Central TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11439/thumb_Group_60.png" group-title="documentarios",Central TV
+https://alanza.iptv2022.com/Central_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV Aracati" tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="documentarios",TV Aracati
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JPL TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/13539/thumb_JPL_TV.png" group-title="documentarios",JPL TV
+https://streaming.jplproducoes.com.br/JPL1/video.m3u
+
+#EXTINF:-1 tvg-id="TV CARAVELAS" tvg-logo="https://pa-str.srvsite.com/arquivos/4506/cabecalho-4506-20190507094833.png" group-title="documentarios",TV CARAVELAS
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Diário do Sertão Ao Vivo" tvg-logo="https://assets.iptv2022.com/uploads/channel/11957/thumb_Dia%CC%81rio_do_Serta%CC%83o_.jpeg" group-title="documentarios",Diário do Sertão Ao Vivo
 https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1077237079.m3u8
 
-#EXTINF:-1 tvg-id="Com Brasil Ao Vivo" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="Documentarios",Com Brasil Ao Vivo
+#EXTINF:-1 tvg-id="Com Brasil Ao Vivo" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="documentarios",Com Brasil Ao Vivo
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w1884885417.m3u8
 
-#EXTINF:-1 tvg-id="TV BRASIL HITS Ao Vivo" tvg-logo="https://assets.iptv2022.com/uploads/channel/13308/thumb_TV_BRASIL_HITS_.png" group-title="Documentarios",TV BRASIL HITS Ao Vivo
+#EXTINF:-1 tvg-id="TV BRASIL HITS Ao Vivo" tvg-logo="https://assets.iptv2022.com/uploads/channel/13308/thumb_TV_BRASIL_HITS_.png" group-title="documentarios",TV BRASIL HITS Ao Vivo
 https://alanza.iptv2022.com/TV_BRASIL_HITS/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="VV8 TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/14127/thumb_VV8_TV.png" group-title="Documentarios",VV8 TV
+#EXTINF:-1 tvg-id="VV8 TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/14127/thumb_VV8_TV.png" group-title="documentarios",VV8 TV
 https://video01.kshost.com.br:4443/seap8272/seap8272/chunklist_w1424929919.m3u8
 
+#EXTINF:-1 tvg-id="SIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZMpS6EVJ7IiJYUndTvB_2MpUAv7xlE7egAcTOEOK-CQCPacHPqMjvnzKmXOpAlXUQNYLcWHMoIS1J_z-ouh8a1SDbipUHtijBzU3Y0wIaPXkPt_TTJspVej7I0ph2chB11_yLFaPfvgW45OX_Ka7oNcHrqiFmJiqbwstXr99RRDvQu8A9jEIw_fTq/s1600/br_sic_m200.png" group-title="documentarios",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+##################################################################################
+
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="RELIGIOSOS",TV Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Século 21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXuL_DJFsAuv-WzUnMni-KIQGG171A_4O5SLueVn75MKw4EYOvtuCBvFJQ6Os0Gmr4V4lVR7jmLUXJa2EDnVn9nGwhMw3hA4OVYIM-6Sajg-ZrPCicv2nNY4rf4Vie4HDSgVSfJ-buy96k8jPLWIOUQDrtB88HJUnP2OnjR0YYeJnbjc4WowyiFZ49=s200" group-title="RELIGIOSOS",TV Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV AD Belém" tvg-logo="https://1.bp.blogspot.com/-Ewql76e9TBQ/YVOvWWPyvqI/AAAAAAAABKo/YH-INHNmMfElgO9xllVx5yhy0uvgNbY9gCLcBGAsYHQ/s200/tvassbelem200.jpg" group-title="RELIGIOSOS",TV AD Belém
+https://cdn.jmvstream.com/w/AVJ-9106/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Boas Novas" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgsHvhOKzzBbKjnZ53gIEW4GbyhlANiXTuFzsGYmpiwfX4D4-nbywik-J8A4LFN5VmUyI4oH2_qgQHteFdQXyuHFYE207Q05THqyOsZp9N6JfSoto-61BT3fzyeQ6oi7A9qDH0Kxwn1sSs5sx8RQQMeTDZMGPbEiaIG1w-S3QG_RWovmGaIUgHXHL4W=s200" group-title="RELIGIOSOS",Tv Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv IMPD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="RELIGIOSOS",Tv IMPD
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
 
-
-#################################################################################
-
-#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="Esportes",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+####################################################################################
 
 
-#################################################################################
-#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1lVcMCyE8GHc7hFGuLycugRbUKqz-X0SrYnjaxFSUiyFb3-TjlOdfzgiRNN3qe1WeSOKyOBq9tJ67QRrAQI9WXvTtuMm_XXuFL6SqACcXJlSs_elRrVep27ln2qMsUfZl81pfwWV_Cpf712QvMkkhe3ETmW62s43_VN1ld9mi3Q1X57ErPFGO-21R/s1600/animetv.jpg" group-title="Filmes & Series",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Nova Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="Filmes & Series",Tv Nova Play Ao Vivo
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1874174887.m3u8
-
-#EXTINF:-1 tvg-id="Web Tv Cine Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="Filmes & Series",Web Tv Cine Ao Vivo
-https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w148197557.m3u8
-
-#EXTINF:-1 tvg-id="Bons Tempos Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="Filmes & Series",Bons Tempos Ao Vivo
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w305418487.m3u8
-
-#EXTINF:-1 tvg-id="GOSPEL MOVIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="Filmes & Series",GOSPEL MOVIE
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fandom TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/12069/thumb_Fandom_TV_.jpg" group-title="Filmes & Series",Fandom TV
-https://alanza.iptv2022.com/Fandom_TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="CLC (Cine Life Classic)" tvg-logo="https://assets.iptv2022.com/uploads/channel/12076/thumb_CLC____Cine_Life_Classic__.jpg" group-title="Filmes & Series",CLC (Cine Life Classic)
-https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL 29" tvg-logo="https://canal29.weebly.com/uploads/1/0/5/3/105352943/published/2_1.png?1620962596" group-title="Filmes & Series",CANAL 29
-https://stmv1.srvif.com/canal29/canal29/chunklist_w960384045.m3u8
-
-#EXTINF:-1 tvg-id="TV Séries" tvg-logo="https://assets.iptv2022.com/uploads/channel/14155/thumb_TV_Se%CC%81ries.png" group-title="Filmes & Series",TV Séries
-https://alanza.iptv2022.com/TV_SERIE/tracks-v1a1/mono.m3u8
-
-
-#################################################################################
-
-#EXTINF:-1 tvg-id="CANAL SAUDE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxOGHoNXEwatnJVTW269RHbMwPtOwKZowJPoA1COoyOnvQcpoRoXyjzPT-MXzwliE4IlBfs6QHO15XaC4Q18Cz42Wsx6HqCsMJkDAJAwS20axKqKqbvJ17Y5wz91XWNwN71NvAiY3jzILrLLyovvsoxwX6TWKGV4O-3A4auV4Sh0ukpmOFS05Bsw2m/s1600/sa%C3%BAde.jpeg" group-title="Jornalismo",CANAL SAÚDE
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band
+#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="jornalismo",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w375796097.m3u8
 
 
 
+#################################################################################
+
+
+#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="esportes",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+
+#################################################################################
+#EXTINF:-1 tvg-id="Rede Clone" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title="filmesseries",Rede Clone
+https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w1266953032.m3u8
+
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1lVcMCyE8GHc7hFGuLycugRbUKqz-X0SrYnjaxFSUiyFb3-TjlOdfzgiRNN3qe1WeSOKyOBq9tJ67QRrAQI9WXvTtuMm_XXuFL6SqACcXJlSs_elRrVep27ln2qMsUfZl81pfwWV_Cpf712QvMkkhe3ETmW62s43_VN1ld9mi3Q1X57ErPFGO-21R/s1600/animetv.jpg" group-title="filmesseries",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Nova Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="filmesseries",Tv Nova Play Ao Vivo
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1874174887.m3u8
+
+#EXTINF:-1 tvg-id="Web Tv Cine Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="filmesseries",Web Tv Cine Ao Vivo
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w148197557.m3u8
+
+#EXTINF:-1 tvg-id="Bons Tempos Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="filmesseries",Bons Tempos Ao Vivo
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w305418487.m3u8
+
+#EXTINF:-1 tvg-id="GOSPEL MOVIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="filmesseries",GOSPEL MOVIE
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fandom TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/12069/thumb_Fandom_TV_.jpg" group-title="filmesseries",Fandom TV
+https://alanza.iptv2022.com/Fandom_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CLC (Cine Life Classic)" tvg-logo="https://assets.iptv2022.com/uploads/channel/12076/thumb_CLC____Cine_Life_Classic__.jpg" group-title="filmesseries",CLC (Cine Life Classic)
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CANAL 29" tvg-logo="https://canal29.weebly.com/uploads/1/0/5/3/105352943/published/2_1.png?1620962596" group-title="filmesseries",CANAL 29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w960384045.m3u8
+
+#EXTINF:-1 tvg-id="TV Séries" tvg-logo="https://assets.iptv2022.com/uploads/channel/14155/thumb_TV_Se%CC%81ries.png" group-title="filmesseries",TV Séries
+https://alanza.iptv2022.com/TV_SERIE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tv Loading" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEAMLifvZzErFchXZ6jJ0U7z-Q2ulMxPA9j3JSXo2GJLpjEtkX-Ol6H82vSHeey-YeecQyYgtOFgUembZjckm20FLLx6aDkZTVnVpkSAHEJLiRRP8-8EKb3wh8RDAEh0BIYT5kK98zTBeUUuBh0DmkNHJo4xMZ-eL8iRggP5UPgwtFpkMCXyIxoLS7/s1600/loading.webp" group-title="filmesseries",Tv Loading
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Retro Cartoon 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcaZTKT2vFEBQe3uRthLVr2409pEXiakeCvsScRXiJN2FuKqi22mZnetKprVFNgPF2X84C11RFm7k42hoj42LGvY9p5HyGXYm5pRv8EAscOiQ2vCxn2OODJE3GBqa9TlFDApY1Tdzvz1uFfejUPPficA419PNGpX1dIw3RYUMuyug9Pj9SqjPt5Gln/s1600/retro2.webp" group-title="filmesseries",Retro Cartoon 2
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BR Super TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd9wf8t54DKo5NhER_kISTkSNEc4VYVYDBFC6i4mNLqQkjElT4qEO3MubQorKaFmBje-DjtirUgxcI_M9V_Z6R2G4mF2ct9TkEqstqIWNxfVncIp_kR0i2t9GgDQAjCMrILGqm-hcof86-hcMB8lN13D2DwWt3HjFxVBlNwIyjjb6qlHEiweTChTXK/w945-h600-p-k-no-nu/thumb_BRsupertv.jpeg" group-title="filmesseries",BR Super TV
+https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV Osório News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTV4uULQZCdm1608GCMqt9nLjAHIpJfzLYN-7912whvgzqCzm2oUa23QIjnT84H3i4hsFCH3VDU_A21vjfXH6mNbzmQZpR0Pm2xPFvlIZr-CYbKdYq9LFeKNuAo3UOvuWBX4WQMGxC1XV7dYS5PxbcfNsO7MRblvTrmuMDZKsNWB-1zSlih5-o-MV/s1600/osorio200.jpg" group-title="filmesseries",TV Osório News
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSaEH5OWoDR005OitnIhmXvYATbjS7-AknEfWiiu55Z4x9TXj1TttJhtBg3jdAuaeaqfPnzzzAqCfBRQkAwN2PNWpeDx1d2ipxSEYVn_rMBWPAOqQdSMeJ1O60cpwT4qJP3RCdVChqSutCp7n-skVfeLkrCDIUd-yD6JrvmIO_i4l9xrEkX_NYOfTj/s1600/redebrasil.webp" group-title="filmesseries",Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w146843650.m3u8
+
+#EXTINF:-1 tvg-id="Xtreme TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/12160/thumb_image_2022-06-28_14-56-55.png" group-title="filmesseries",Xtreme TV
+https://alanza.iptv2022.com/Xtreme_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CINE KURIAKOS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOqpzCt69Zs6j8Bk2_OpD9yqQMQDKqFpgGY4M-zWteTjzfGSnMEfoTokj9tYCVS76VspAy2VqLuovJnrzeco83rV2GTSc_eF8MLdG-V5n5Fz1rEdFa8AzX_FiMn5ajSrMHbOgSPar4OxphPdc8alIzCiiPkrn42wj_Qx7IF92HJWfEEwwy8jgt41ks/w945-h600-p-k-no-nu/thumb_KURIAKOS_CINE.jpeg" group-title="filmesseries",CINE KURIAKOS
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1539688986_b30048000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="TV CHANNEL NETWORK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQZdGotqpv_06TiiyKrJwRjtG27hwXfk_4mPryQH5otrLVarNVEAdz-AjDpwdKboVSICwpqozvdRSNGLo_NT4kzdm4BA3Yb8iL56UJOr7solkMbnukQeDNB5_utFs89j1iRvo-Wj9jPNHwxO9TS35EqaI0njhjO_TyA-5YN3Y9kzptFi1msG5LkXzx/w945-h600-p-k-no-nu/channel.webp" group-title="filmesseries",TV CHANNEL NETWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1154305737.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://play-lh.googleusercontent.com/6XtEYnrmJGhVn5fNXP-eKDmU5DZBZslGa7mSF4sVW3i9q-eKH2D3O17Ux0xUr06b7s0=w240-h480-rw" group-title="filmesseries",Comedy Central
+https://cdn2.connectbr.com.br/comedy/index.m3u8
+
+#EXTINF:-1 tvg-id="TV CARIOCA.NET" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ3RIinyyVrgM2f-MaHN3HcmFouANmJwZgH8mpp-Q43wlihPbQWsYUeUDp_WAIq2nivi4J5H-80v6wCSmPVYIhprzYBPOdFQqFFDzUwSmJtUdAvl48MLuVS9SNkQsRViuaMoFmDOrfUa6xNnS7ld6zeOmwH2MQf5t7Lb_no3NE1yivZOFRE0ZV-pcF/s1600/cariocanet.webp" group-title="filmesseries",TV CARIOCA.NET
+https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w338225961.m3u8
+
+#EXTINF:-1 tvg-id="CINDIE LITE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQnVrZdcYH9PZHPOvR7GnxwqAP_UGa6wfWDrlaPLoOWrtRVDiek9Y7e_06vq8fr7Lw2l8aIwjucnGP1zCdzKauEyzAN1gTMWKtXGT7Qx6sOTfw8cjOqjtS08VeqC5WTxLJmy0MySCv0jiINs8QWm1gV7-LbqDi3EREu3ZxZGVZZNT0RIaqGJpdEsf/w945-h600-p-k-no-nu/CiNDLite.jpg" group-title="filmesseries",CINDIE LITE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
+
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="TOP TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3858200bc307bc603e159858383c367c.webp" group-title="Musicas",TOP TV
+#EXTINF:-1 tvg-id="TV Videos News" tvg-logo="https://1.bp.blogspot.com/-JMthCEPmyZ0/YTa0C5mlTHI/AAAAAAAABCs/Uxk-ZxB62E87qqKyXZI-nm7rQlzyNsQ3QCLcBGAsYHQ/s0/TVideoNews200.png" group-title="jornalismo",TV Videos News
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANAL SAUDE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxOGHoNXEwatnJVTW269RHbMwPtOwKZowJPoA1COoyOnvQcpoRoXyjzPT-MXzwliE4IlBfs6QHO15XaC4Q18Cz42Wsx6HqCsMJkDAJAwS20axKqKqbvJ17Y5wz91XWNwN71NvAiY3jzILrLLyovvsoxwX6TWKGV4O-3A4auV4Sh0ukpmOFS05Bsw2m/s1600/sa%C3%BAde.jpeg" group-title="jornalismo",CANAL SAÚDE
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+
+
+
+
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="TOP TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3858200bc307bc603e159858383c367c.webp" group-title="MUSICAS",TOP TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
 
-#EXTINF:-1 tvg-id="Kpop TV Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="Musicas",Kpop TV Play Ao Vivo
+#EXTINF:-1 tvg-id="Kpop TV Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="MUSICAS",Kpop TV Play Ao Vivo
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w489520488.m3u8
 
-#EXTINF:-1 tvg-id="TOP MIX TV Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ab499d9cc282fd063424971ef738fec.webp" group-title="Musicas",TOP MIX TV Ao Vivo
+#EXTINF:-1 tvg-id="TOP MIX TV Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ab499d9cc282fd063424971ef738fec.webp" group-title="MUSICAS",TOP MIX TV Ao Vivo
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w906310315.m3u8
 
-#EXTINF:-1 tvg-id="Kronehit" tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=AT&name=27835-6617440.png&size=200" group-title="Musicas",Kronehit
+#EXTINF:-1 tvg-id="Kronehit" tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=AT&name=27835-6617440.png&size=200" group-title="MUSICAS",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="REDE SULAMÉRICA" tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="Musicas",REDE SULAMÉRICA
+#EXTINF:-1 tvg-id="REDE SULAMÉRICA" tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="MUSICAS",REDE SULAMÉRICA
 https://alanza.iptv2022.com/REDE_SULAMERICA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="REDE SULAMÉRICA" tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="Musicas",REDE SULAMÉRICA
-https://jpp-ap.onrender.com/jpmusic/
+#EXTINF:-1 tvg-id="Tv Missão Católica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/efe8acff3378eab6348140252343f92d.webp" group-title="MUSICAS",Tv Missão Católica
+https://stmv.painelwebtv.com.br/tvweb/tvweb/chunklist_w386607323.m3u8
+
+
+
+########################################################################################
+
+#EXTINF:-1 tvg-id="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Pluto Sucesso
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+
+#EXTINF:-1 tvg-id="Pluto Ficcao cientifica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Pluto Ficção cientifica
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Pluto Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Pluto Ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Pluto Cine familia" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Pluto Cine familia
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Pluto Cine romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Pluto Cine romance
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Pluto Cinema nacional" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Pluto Cinema nacional
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Pluto Séries" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Pluto Séries
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Pluto Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Pluto Drama
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Paramount+" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Paramount+
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Adrenaline Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Adrenaline Freezone
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Cine Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Cine Suspense
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",TV Cultura
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Cine Comédia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Cine Terror
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Plantão noturno" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Plantão noturno
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Comédia romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Comédia romântica
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Cine Clássicos
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="A feiticeira" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",A feiticeira
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/631fa8dd7f25240007099a40/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-id="Jeannie é um Gênio" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Jeannie é um Gênio
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#########################################################################################
+
+#EXTINF:-1 tvg-id="FILMES" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_1920x1080_0.jpg" group-title="runtime",FILMES RUN:TIME
+https://stream.ads.ottera.tv/cl/01df6c48-60b3-4b8d-a296-73937ac8b9f4/1280x720_3071200_0_f.m3u8
+
+#EXTINF:-1 tvg-id="AÇÃO" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_action_bg.jpg" group-title="runtime",AÇÃO RUN:TIME
+https://stream.ads.ottera.tv/cl/d24c764b-2185-4597-9af3-a0a553b4696d/1280x720_3071200_0_f.m3u8
+
+#EXTINF:-1 tvg-id="COMÉDIA" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/br_comedy_bg.jpg" group-title="runtime",COMÉDIA RUN:TIME
+https://stream.ads.ottera.tv/cl/b9f497df-7e0e-4005-88ae-254d7e9a9a4f/1280x720_3071200_0_f.m3u8
 
 #################################################################################
+
+#EXTINF:-1 tvg-id="FILMES ON DEMAND" tvg-logo="https://image.tmdb.org/t/p/w500//i4iyR0AhCsOWkmyFgFjyWj0U3YI.jpg" group-title="filmes",O Salvador
+https://play.prod.gcp.vix.services/the-savior_pt/the-savior_pt_1-1/play_v1_hls_1080p.m3u8
+
+
+
+
+
+
+###############################################################################################
