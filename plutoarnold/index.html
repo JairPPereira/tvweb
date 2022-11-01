@@ -1,6 +1,10 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 <head>
     <meta charset="utf-8" />
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
     <link rel="stylesheet" href="style.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -14,9 +18,126 @@
     rel="stylesheet"
     href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"
   />
+  <style>
+
+    html, body {
+        overflow-x: hidden;
+        height: 100%;
+        width: 100%;
+
+      
+       
+    }
+
+    #container {
+        padding: 0 20px 20px;
+    }
+    .error {
+        color: red;
+    }
+    a {
+        word-wrap: break-word;
+    }
+
+    code {
+        font-size: 0.8em;
+    }
+
+    #player2-container .mejs__time-buffering, #player2-container .mejs__time-current, #player2-container .mejs__time-handle,
+    #player2-container .mejs__time-loaded, #player2-container .mejs__time-hovered, #player2-container .mejs__time-marker, #player2-container .mejs__time-total {
+        height: 2px;
+    }
+
+    #player2-container .mejs__time-total {
+        margin-top: 9px;
+    }
+    #player2-container .mejs__time-handle {
+        left: -5px;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        background: #ffffff;
+        top: -5px;
+        cursor: pointer;
+        display: block;
+        position: absolute;
+        z-index: 2;
+        border: none;
+    }
+    #player2-container .mejs__time-handle-content {
+        top: 0;
+        left: 0;
+        width: 12px;
+        height: 12px;
+    }
+</style>
 </head>
 <body>
-    <video id="video" controls crossorigin="anonymous"></video>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="https://jpp-ap.onrender.com/">JPFILMES</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegOs 3 patetas">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="https://jpp-ap.onrender.com/">HOME<span class="sr-only">(página atual)</span></a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    CANAIS DE TV
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/jornalismo.html">JORNALISMO</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/tvaberta.html">TV ABERTA</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/religiosos.html">RELIGIOSOS</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/tvfilmes.html">TV FILMES</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/sportv.html">SPORT</a>
+                </div>
+              </li>
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  RÁDIOS
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/radiowebtv.html">Rádios Web TV</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/radios/">Rádios</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/estacoes/">Seleções de músicas</a>
+                  
+              </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://jpp-ap.onrender.com/jpiptv/">JP IPTV</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="https://jp-app.netlify.app/">FILMES ON DEMAND</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="https://jpp-ap.onrender.com/filmesy/">FILMES YOUTUBE</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="https://jpp-ap.onrender.com/minuto/">MINUTO DE SABEDORIA</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="https://jpp-ap.onrender.com/harpafm/">HARPA CRISTÃ FM</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="https://jpp-ap.onrender.com/estacoes/index6.html">HARPA CRISTÃ Letras</a>
+              </li>
+              
+              
+         
+          </ul>
+          
+        </div>
+      </nav> 
+    <video id="video" poster="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" width="100%" height="420px" controls crossorigin="anonymous"></video>
     <script>
         if (Hls.isSupported()) {
             const video = document.getElementById('video');
@@ -24,7 +145,7 @@
             hls.attachMedia(video);
             hls.on(Hls.Events.MEDIA_ATTACHED, () => {
                 hls.loadSource(
-                    'https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId='
+                    'https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId='
                 );
             });
         }
@@ -36,7 +157,8 @@
     <script src="jaj.js"></script>
     <script src="jquery.min.js"></script>
     <script src="hls.1.1.5.min.js"></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
 </body>
 </html>
