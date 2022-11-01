@@ -1,7 +1,4 @@
 {
-  "devDependencies": {
-    "video.js": "^7.19.2"
-  },
   "dependencies": {
     "bootstrap": "^3.4.1",
     "jquery": "^3.6.1"
