@@ -89,6 +89,9 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:-1 tvg-id="TV TROPICAL" tvg-logo="https://img.r7.com/images/tv-tropical-04042022165757668" group-title="TV ABERTA",TV TROPICAL
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
 
+#EXTINF:-1 tvg-id="TV REAL" tvg-logo="https://img.r7.com/images/og-tv-vila-real-06112019120151422" group-title="TV ABERTA",TV REAL
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+
 ##################################################################################
 
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="RELIGIOSOS",TV Novo Tempo
