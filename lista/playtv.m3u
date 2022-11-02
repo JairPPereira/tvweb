@@ -83,6 +83,9 @@ https://video01.kshost.com.br:4443/seap8272/seap8272/chunklist_w1424929919.m3u8
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZMpS6EVJ7IiJYUndTvB_2MpUAv7xlE7egAcTOEOK-CQCPacHPqMjvnzKmXOpAlXUQNYLcWHMoIS1J_z-ouh8a1SDbipUHtijBzU3Y0wIaPXkPt_TTJspVej7I0ph2chB11_yLFaPfvgW45OX_Ka7oNcHrqiFmJiqbwstXr99RRDvQu8A9jEIw_fTq/s1600/br_sic_m200.png" group-title="TV ABERTA",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
+#EXTINF:-1 tvg-id="NDTV SC" tvg-logo="https://static.ndmais.com.br/2019/12/ndtv-logo.png" group-title="TV ABERTA",NDTV SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
 #EXTINF:-1 tvg-id="TV TROPICAL" tvg-logo="https://img.r7.com/images/tv-tropical-04042022165757668" group-title="TV ABERTA",TV TROPICAL
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
 
@@ -180,6 +183,9 @@ https://cdn2.connectbr.com.br/comedy/index.m3u8
 
 #EXTINF:-1 tvg-id="TV CARIOCA.NET" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ3RIinyyVrgM2f-MaHN3HcmFouANmJwZgH8mpp-Q43wlihPbQWsYUeUDp_WAIq2nivi4J5H-80v6wCSmPVYIhprzYBPOdFQqFFDzUwSmJtUdAvl48MLuVS9SNkQsRViuaMoFmDOrfUa6xNnS7ld6zeOmwH2MQf5t7Lb_no3NE1yivZOFRE0ZV-pcF/s1600/cariocanet.webp" group-title="FILMES E SÉRIES",TV CARIOCA.NET
 https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w338225961.m3u8
+
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://yt3.ggpht.com/HB73UhOxhgiBeKmDZKPcE2AL9g1Yp-haVhotufg76JsAA-0LmAjCzsedZcr0kpCHTcsWvyFk=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES E SÉRIES",CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="CINDIE LITE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQnVrZdcYH9PZHPOvR7GnxwqAP_UGa6wfWDrlaPLoOWrtRVDiek9Y7e_06vq8fr7Lw2l8aIwjucnGP1zCdzKauEyzAN1gTMWKtXGT7Qx6sOTfw8cjOqjtS08VeqC5WTxLJmy0MySCv0jiINs8QWm1gV7-LbqDi3EREu3ZxZGVZZNT0RIaqGJpdEsf/w945-h600-p-k-no-nu/CiNDLite.jpg" group-title="FILMES E SÉRIES",CINDIE LITE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
