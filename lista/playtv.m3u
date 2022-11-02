@@ -297,6 +297,9 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f1212ad17280
 #EXTINF:-1 tvg-id="Arnold" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="CANAIS PLUTO",Arnold
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
 
+#EXTINF:-1 tvg-id="Pluto UOL" tvg-logo="https://images.pluto.tv/channels/6238c63deec07b000723dd77/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="CANAIS PLUTO",Pluto UOL
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6238c63deec07b000723dd77/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
 #########################################################################################
 
 
