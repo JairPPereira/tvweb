@@ -1,34 +1,41 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-	<head>
-		<meta charset="utf-8">
-		<title>Calculadora</title>		
-		<script src="calculadora.js"></script>
-	</head>
-	<body bgcolor="beige">
-		<h1>Calculadora 1.0</h1>
-		<input type="text" id="txtValor1">
-			<select id="operadores" onchange="ControleDeSelecao();">
-				<optgroup label="Basico">
-					<option value="+">	+(somar)</option>
-					<option value="-">	-(subtrair)</option>
-					<option value="*">	*(multiplicar)</option>
-					<option value="/">	/(dividir)</option>
-				</optgroup>
-				<optgroup label="Outros">
-					<option value="raiz">	 	  Raiz	</option>
-					<option value="potencia">	Potência</option>
-					<option value="fatorial">	Fatorial</option>
-					<option value="fibonacci">Fibonaci</option>					
-					<option value="porcento">	Porcentagem</option>
-					<option value="media">		Média</option>
-					<option value="calc">		  Develop Calc</option>
-				</optgroup>
-			</select>
-		<input type="text" id="txtValor2" size="5"><br>		
-		<input type="button" onclick="Calcular('txtValor1', 'txtValor2')" value="Calcular">
-		<input type="button" onclick="Limpar('txtValor1', 'txtValor2')" value="Limpar">
-		<p id="saida">Resultado:</p>
-		<hr>		
-	</body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces&display=swap" rel="stylesheet">
+    <link href="index.css" rel="stylesheet" />
+    <script src="Display.js" type="text/javascript"></script>
+    <script src="Calculadora.js" type="text/javascript"></script>
+    <script src="index.js" type="text/javascript" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="calculadora">
+            <div class="display">
+                <div id="valor-anterior"></div>
+                <div id="valor-actual"></div>
+            </div>
+            <button class="col-2" onclick="display.borrarTodo()">C</button>
+            <button onclick="display.borrar()">&larr;</button>
+            <button class="operador" value="dividir">%</button>
+            <button class="numero">7</button>
+            <button class="numero">8</button>
+            <button class="numero">9</button>
+            <button class="operador" value="multiplicar">X</button>
+            <button class="numero">4</button>
+            <button class="numero">5</button>
+            <button class="numero">6</button>
+            <button class="operador" value="restar">-</button>
+            <button class="numero">1</button>
+            <button class="numero">2</button>
+            <button class="numero">3</button>
+            <button class="operador" value="sumar">+</button>
+            <button class="col-2 numero">0</button>
+            <button class="numero">.</button>
+            <button class="operador" value="igual">=</button>
+        </div>
+    </div>
+</body>
 </html>
