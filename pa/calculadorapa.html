@@ -6,6 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculadora de PA - Turma 4MATN</title>
     <script src="https://code.jquery.com/jquery-1.7.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="menu_carousel_bpw_vs2.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(window).scroll(function(){
+               if ($(this).scrollTop() > 150) {
+                 $('.scroll-top').fadeIn();
+                    } else {
+                 $('.scroll-top').fadeOut();
+                  }
+                 });
+               $('.scroll-top').click(function(){
+                  $('html, body').animate({scrollTop : 0},800);
+              return false;
+                  }); 
+           });
+    </script>
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
     <style type="text/css"> 
      #pa  .titulo {font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;  font-size:25px;  color:#000080;  text-align:center;   font-weight:bold;  margin: 3px 0 0 3px }
     
@@ -50,8 +67,7 @@
     
     <head>
         <script src="https://blogdoprofwarles.com/JS/Mat_codigo_JS2.js"></script>  
-    
-    </head>
+ 
 
     
     <body>
