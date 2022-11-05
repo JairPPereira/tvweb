@@ -315,6 +315,9 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_mx8ih3
 #EXTINF:-1 tvg-id="O Salvador" tvg-logo="https://image.tmdb.org/t/p/w500//i4iyR0AhCsOWkmyFgFjyWj0U3YI.jpg" group-title="FILMES ONDEMAND",O Salvador
 https://play.prod.gcp.vix.services/the-savior_pt/the-savior_pt_1-1/play_v1_hls_1080p.m3u8
 
+#EXTINF:-1 tvg-id="Os X-Mercenários" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iLwPUqwcZGn20PirTz1arS37fXe.jpg" group-title="FILMES ONDEMAND",Os X-Mercenários
+https://siloh.pluto.tv/410_Polar/clip/62cc47c575b9dc0013c81496_Pride_of_Lions_BR/720p/20220721_121500/hls/0-end/master.m3u8
+
 
 
 
