@@ -303,6 +303,12 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61f1d27a189ed
 #EXTINF:-1 tvg-id="Pluto UOL" tvg-logo="https://images.pluto.tv/channels/6238c63deec07b000723dd77/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="CANAIS PLUTO",Pluto UOL
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6238c63deec07b000723dd77/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
 
+#EXTINF:-1 tvg-id="Pluto REDE TV" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="CANAIS PLUTO",Pluto REDE TV
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6048fc47a44e540007745d2b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b6229c29928f487d87a86d9992d09a5b&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=b4d7d9865d4111ed8e47fec5a6cdbd8c&userId=
+
+#EXTINF:-1 tvg-id="O homem que veio do Céu" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="CANAIS PLUTO",O homem que veio do Céu
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b6229c29928f487d87a86d9992d09a5b&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=b4d7d9865d4111ed8e47fec5a6cdbd8c&userId=
+
 #########################################################################################
 
 
