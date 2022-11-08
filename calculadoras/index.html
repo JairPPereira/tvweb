@@ -1,300 +1,255 @@
-<!DOCTYPE HTML>
-<html lang="pt-br" dir="ltr">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-15">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<meta name="keywords" content="científica, raiz, cúbica, enésima, quadrada, fatorial, permutação, combinação, arranjos, seno, cosseno, tangente, cotangente, secante, cossecante, exponencial, logaritmo, logaritmo natural, pi, porcentagem, operações básicas, inverso, neperiano, equação, segundo, grau, delta, bhaskara, módulo, comum, expressão, matemática, calculadora, mmc, mdc, regra de 3" />
-	<meta name="description" content="Calculadora científica online. Faça cálculos complexos com esta calculadora prática e fácil. Calculadora completa com mais de 80 funções disponíveis." />
-	<title>Calculadora Científica Completa e Grátis - Calculadora Online</title>
-	<link href="./templates/jp-hello/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-	<link href="https://jpp-ap.onrender.com/calculadoras/media/template/gzip.phpcalc_c-456eef2f.css" rel="stylesheet" type="text/css" />
-	<script src="https://jpp-ap.onrender.com/calculadoras/media/template/gzip.phpjquery.min-cfd7f229.js" type="text/javascript" defer="defer"></script>
-	<script src="https://jpp-ap.onrender.com/calculadoras/media/template/gzip.phpjquery-noconflict-79209e3d.js" type="text/javascript" defer="defer"></script>
-	<script src="https://jpp-ap.onrender.com/calculadoras/media/template/gzip.phpjquery-migrate.min-aff3b8cc.js" type="text/javascript" defer="defer"></script>
-	<script src="https://jpp-ap.onrender.com/calculadoras/media/template/gzip.phptheme-68e982c2.js" defer="defer" type="text/javascript"></script>
-	<script src="https://jpp-ap.onrender.com/calculadoras/media/template/gzip.phpjcookie-652f0218.js" defer="defer" type="text/javascript"></script>
-	<script src="https://jpp-ap.onrender.com/calculadoras/media/template/gzip.phpctf-6a172b1d.js" defer="defer" type="text/javascript"></script>
-	
-
-<link rel="apple-touch-icon-precomposed" href="/templates/jp-hello/apple_touch_icon.png">
-<link rel="preload" as="style" href="https://jpp-ap.onrender.com/calculadoras/media/template/gzip.phptheme-901e9211.css">
-<link rel="stylesheet" href="https://jpp-ap.onrender.com/calculadoras/media/template/gzip.phptheme-901e9211.css">
-
-</head>
-<body>
-	
-
-<style type="text/css">
-.tm-toolbar,.tm-content{
-	-webkit-box-shadow: 0px 0px 5px 0px rgba(204,204,204,0.6);
-	-moz-box-shadow: 0px 0px 5px 0px rgba(204,204,204,0.6);
-	box-shadow: 0px 0px 5px 0px rgba(204,204,204,0.6);
-}
-</style>
-
-
-	
-	
-	
-		
-
-
-				<div class="tm-main uk-width-medium-1-1">
-						
-						<main class="tm-content">
-			
-</div>
-
-
-	
-		<h1 class="uk-article-title">
-					Calculadora Científica			</h1>
-	
-	
-	
-	
-	
-			
-
-
-
-
-
-
-</div>
-
-
-
-
-
-<div class="calcenv">
-
-    <table class="comandos">
-    	<tr>
-    		<td data-uk-tooltip="{pos:'bottom',autofecha:true,d_:3}" title="Calcular" onclick="calc()">∑</td>
-    		<td data-uk-tooltip="{pos:'bottom',autofecha:true,d_:3}" title="Limpar" onclick="limpa()">C</td>
-    		<td data-uk-tooltip="{pos:'bottom',autofecha:true,d_:3}" title="Limpar memória" onclick="mclear()">MC</td>
-    		<td data-uk-tooltip="{pos:'bottom',autofecha:true,d_:3}" title="Guardar valor do visor na memória" onclick="msave()">MS</td>
-    		<td data-uk-tooltip="{pos:'bottom',autofecha:true,d_:3}" title="Obter a soma entre o valor da memória e o valor do visor" onclick="msum()">M+</td>
-    		<td data-uk-tooltip="{pos:'bottom',autofecha:true,d_:3}" title="Obter a subtração entre o valor do visor e o valor da memória" onclick="msub()">M-</td>
-    		<td data-uk-tooltip="{pos:'bottom',autofecha:true,d_:3}" title="Limpar histórico" onclick="hclear()">HC</td>
-    		<td data-uk-tooltip="{pos:'bottom',autofecha:true,d_:3}" title="Alternar entre resultados em Decimal, Binário, Octal e Hexadecimal" onclick="sisnum(this)">Dec</td>
-    		<td data-uk-tooltip="{pos:'bottom',autofecha:true,d_:3}" title="Alternar entre Radianos, Graus e Grados" onclick="mtrig(this)">Rad</td>
-    	</tr>
-    </table>
-
-    <div class="painel">
-    	<input type="text" id="TIExp" class="inputform uk-form-width-large" onkeyup="replexp();c_ist()" onkeydown="calc_en(event)"/>
-    	<div id="LBSubResu"></div>
-    </div>
-         		<div class="calc-hidden-small" id="painelcalcdesk">
-    			<table class='calculadora calculadoradesk'>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b1" class="bt bt1 cnum" onclick="ivlr('7')" >7</div></td>
-    					<td class='tdln'><div id="b2" class="bt bt1 cnum" onclick="ivlr('8')" >8</div></td>
-    					<td class='tdln'><div id="b3" class="bt bt1 cnum" onclick="ivlr('9')" >9</div></td>
-    					<td class='tdln'><div id="b4" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="ivlr('+')" title="Adição">+</div></td>
-    					<td class='tdln'><div id="b5" class="bt bt2 ccom" onclick="ivlr('(')" >(</div></td>
-    					<td class='tdln'><div id="b6" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('inv','b6','d','-75px')" title="Inverso<br>inv(x)" data-uk-dropdown="{mode:'click'}">x<sup>-1</sup></div></td>
-    					<td class='tdln'><div id="b7" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="ivlr('rest')" title="Resto da divisão">rest</div></td>
-    					<td class='tdln'><div id="b8" class="bt bt2 ccom" data-uk-tooltip="{pos:'left'}" onclick="pcalc('log','b8','d','-135px')" title="Logaritmo<br>log(x;y)" data-uk-dropdown="{mode:'click'}">log</div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b9" class="bt bt1 cnum" onclick="ivlr('4')" >4</div></td>
-    					<td class='tdln'><div id="b10" class="bt bt1 cnum" onclick="ivlr('5')" >5</div></td>
-    					<td class='tdln'><div id="b11" class="bt bt1 cnum" onclick="ivlr('6')" >6</div></td>
-    					<td class='tdln'><div id="b12" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="ivlr('-')" title="Subtração">-</div></td>
-    					<td class='tdln'><div id="b13" class="bt bt2 ccom" onclick="ivlr(')')" >)</div></td>
-    					<td class='tdln'><div id="b14" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="ivlr('%')" title="Porcentagem">%</div></td>
-    					<td class='tdln'><div id="b15" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('fat','b15','d','-75px')" title="Fatorial<br>fat(n)" data-uk-dropdown="{mode:'click'}">x!</div></td>
-    					<td class='tdln'><div id="b16" class="bt bt2 ccom" data-uk-tooltip="{pos:'left'}" onclick="pcalc('ln','b16','d','-135px')" title="Logaritmo natural<br>ln(x)" data-uk-dropdown="{mode:'click'}">ln</div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b17" class="bt bt1 cnum" onclick="ivlr('1')" >1</div></td>
-    					<td class='tdln'><div id="b18" class="bt bt1 cnum" onclick="ivlr('2')" >2</div></td>
-    					<td class='tdln'><div id="b19" class="bt bt1 cnum" onclick="ivlr('3')" >3</div></td>
-    					<td class='tdln'><div id="b20" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="ivlr('×')" title="Multiplicação">×</div></td>
-    					<td class='tdln'><div id="b21" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('raiz','b21','d','-75px')" title="Raiz quadrada<br>raiz(x)" data-uk-dropdown="{mode:'click'}">√</div></td>
-    					<td class='tdln'><div id="b22" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('raiz3','b22','d','-75px')" title="Raiz cúbica<br>raiz3(x)" data-uk-dropdown="{mode:'click'}"><sup>3</sup>√</div></td>
-    					<td class='tdln'><div id="b23" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('raizn','b23','d','-75px')" title="Raiz enésima<br>raizn(x;n)" data-uk-dropdown="{mode:'click'}"><sup>n</sup>√</div></td>
-    					<td class='tdln'><div id="b24" class="bt bt2 ccom" data-uk-tooltip="{pos:'left'}" onclick="pcalc('ex','b24','d','-135px')" title="Antilogaritmo natural<br>ex(x)" data-uk-dropdown="{mode:'click'}">e<sup>x</sup></div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b25" class="bt bt1 cnum" onclick="ivlr('0')" >0</div></td>
-    					<td class='tdln'><div id="b26" class="bt bt1 cnum" onclick="ivlr(',')" >,</div></td>
-    					<td class='tdln'><div id="b27" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="calc()" title="Calcular">=</div></td>
-    					<td class='tdln'><div id="b28" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="ivlr('/')" title="Divisão">/</div></td>
-    					<td class='tdln'><div id="b29" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('x2','b29','d','-75px')" title="Ao quadrado<br>x2(x)" data-uk-dropdown="{mode:'click'}">x<sup>2</sup></div></td>
-    					<td class='tdln'><div id="b30" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('x3','b30','d','-75px')" title="Ao cubo<br>x3(x)" data-uk-dropdown="{mode:'click'}">x<sup>3</sup></div></td>
-    					<td class='tdln'><div id="b31" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('exp','b31','d','-75px')" title="Exponencial<br>exp(x;n)" data-uk-dropdown="{mode:'click'}">x<sup>n</sup></div></td>
-    					<td class='tdln'><div id="b32" class="bt bt2 ccom" data-uk-tooltip="{pos:'left'}" onclick="pcalc('x10','b32','d','-135px')" title="Antilogaritmo comum<br>x10(x)" data-uk-dropdown="{mode:'click'}">10<sup>x</sup></div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b33" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('dpf','b33','d','0px')" title="Decimal para Fração<br>dpf(x)" data-uk-dropdown="{mode:'click'}">a/b</div></td>
-    					<td class='tdln'><div id="b34" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('por','b34','d','-75px')" title="Descobrir Porcentagem<br>por(i,f)" data-uk-dropdown="{mode:'click'}">%?</div></td>
-    					<td class='tdln'><div id="b35" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('pd','b35','d','-75px')" title="Porcentagem por dentro<br>pd(p;v)" data-uk-dropdown="{mode:'click'}">%D</div></td>
-    					<td class='tdln'><div id="b36" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('pf','b36','d','-75px')" title="Porcentagem por fora<br>pf(p;v)" data-uk-dropdown="{mode:'click'}">%F</div></td>
-    					<td class='tdln'><div id="b37" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('pdif','b37','d','-75px')" title="Diferença percentual de y em relação a x<br>pdif(x;y)" data-uk-dropdown="{mode:'click'}">%Δ</div></td>
-    					<td class='tdln'><div id="b38" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('aum','b38','d','-75px')" title="Porcentagem de aumento<br>aum(i;f)" data-uk-dropdown="{mode:'click'}">%A</div></td>
-    					<td class='tdln'><div id="b39" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('redu','b39','d','-75px')" title="Porcentagem de redução<br>redu(i;f)" data-uk-dropdown="{mode:'click'}">%R</div></td>
-    					<td class='tdln'><div id="b40" class="bt bt2 ccom" data-uk-tooltip="{pos:'left'}" onclick="pcalc('lb','b40','d','-135px')" title="Logaritmo Binário<br>lb(x)" data-uk-dropdown="{mode:'click'}">lb</div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b41" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('sen','b41','d','0px')" title="Seno<br>sen(x)" data-uk-dropdown="{mode:'click'}">sen</div></td>
-    					<td class='tdln'><div id="b42" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('cos','b42','d','-75px')" title="Cosseno<br>cos(x)" data-uk-dropdown="{mode:'click'}">cos</div></td>
-    					<td class='tdln'><div id="b43" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('tg','b43','d','-75px')" title="Tangente<br>tg(x)" data-uk-dropdown="{mode:'click'}">tg</div></td>
-    					<td class='tdln'><div id="b44" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('cotg','b44','d','-75px')" title="Cotangente<br>cotg(x)" data-uk-dropdown="{mode:'click'}">cotg</div></td>
-    					<td class='tdln'><div id="b45" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('sec','b45','d','-75px')" title="Secante<br>sec(x)" data-uk-dropdown="{mode:'click'}">sec</div></td>
-    					<td class='tdln'><div id="b46" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('cosec','b46','d','-75px')" title="Cossecante<br>cosec(x)" data-uk-dropdown="{mode:'click'}">cosec</div></td>
-    					<td class='tdln'><div id="b47" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('gpr','b47','d','-75px')" title="Grau para Radiano<br>gpr(x)" data-uk-dropdown="{mode:'click'}">g/r</div></td>
-    					<td class='tdln'><div id="b48" class="bt bt5 ctrig" data-uk-tooltip="{pos:'left'}" onclick="pcalc('rpg','b48','d','-135px')" title="Radiano para Grau<br>rpg(x)" data-uk-dropdown="{mode:'click'}">r/g</div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b49" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('asen','b49','d','0px')" title="Arco Seno<br>asen(x)" data-uk-dropdown="{mode:'click'}">sen<sup>-1</sup></div></td>
-    					<td class='tdln'><div id="b50" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('acos','b50','d','-75px')" title="Arco Cosseno<br>acos(x)" data-uk-dropdown="{mode:'click'}">cos<sup>-1</sup></div></td>
-    					<td class='tdln'><div id="b51" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('atg','b51','d','-75px')" title="Arco Tangente<br>atg(x)" data-uk-dropdown="{mode:'click'}">tg<sup>-1</sup></div></td>
-    					<td class='tdln'><div id="b52" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('acotg','b52','d','-75px')" title="Arco Cotangente<br>acotg(x)" data-uk-dropdown="{mode:'click'}">cotg<sup>-1</sup></div></td>
-    					<td class='tdln'><div id="b53" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('asec','b53','d','-75px')" title="Arco Secante<br>asec(x)" data-uk-dropdown="{mode:'click'}">sec<sup>-1</sup></div></td>
-    					<td class='tdln'><div id="b54" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('acsc','b54','d','-75px')" title="Arco Cossecante<br>acsc(x)" data-uk-dropdown="{mode:'click'}">cosec<sup>-1</sup></div></td>
-    					<td class='tdln'><div id="b55" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('hip','b55','d','-75px')" title="Hipotenusa<br>hip(c1;c2)" data-uk-dropdown="{mode:'click'}">hip</div></td>
-    					<td class='tdln'><div id="b56" class="bt bt5 ctrig" data-uk-tooltip="{pos:'left'}" onclick="ivlr('π')" title="π">π</div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b57" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('fatorar','b57','d','0px')" title="Fatoração<br>fatorar(x)" data-uk-dropdown="{mode:'click'}">a*b</div></td>
-    					<td class='tdln'><div id="b58" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('simp','b58','d','-75px')" title="Simplificar Fração<br>simp(a;b)" data-uk-dropdown="{mode:'click'}">simp</div></td>
-    					<td class='tdln'><div id="b59" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('abs','b59','d','-75px')" title="Valor Absoluto |x|<br>abs(x)" data-uk-dropdown="{mode:'click'}">abs</div></td>
-    					<td class='tdln'><div id="b60" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('sum','b60','d','-75px')" title="Somatório de n até N<br>sum('f';n;N)" data-uk-dropdown="{mode:'click'}">sum</div></td>
-    					<td class='tdln'><div id="b61" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}"  title="Tabela Numérica de Funções" data-uk-modal="{target:'#atabla'}" onclick='meesc(31)'>tb</div></td>
-    					<td class='tdln'><div id="b62" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('angtg','b62','d','-75px')" title="Ângulo entre o eixo x positivo (0,0) e o raio em (x,y)<br>angtg(x;y)" data-uk-dropdown="{mode:'click'}">angtg</div></td>
-    					<td class='tdln'><div id="b63" class="bt bt5 ctrig" data-uk-tooltip="{pos:'right'}" onclick="pcalc('ppc','b63','d','-75px')" title="Converte coordenada polar para cartesiana (retangular)<br>ppc(r;o)" data-uk-dropdown="{mode:'click'}">ppc</div></td>
-    					<td class='tdln'><div id="b64" class="bt bt5 ctrig" data-uk-tooltip="{pos:'left'}" onclick="pcalc('cpp','b64','d','-135px')" title="Converte coordenada cartesiana (retangular) para polar<br>cpp(x;y)" data-uk-dropdown="{mode:'click'}">cpp</div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b65" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('r3d','b65','d','0px')" title="Regra de três simples<br>Diretamente proporcional<br>r3d(a;b;c)" data-uk-dropdown="{mode:'click'}">r3d</div></td>
-    					<td class='tdln'><div id="b66" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('r3i','b66','d','-75px')" title="Regra de três simples<br>Inversamente proporcional<br>r3i(a;b;c)" data-uk-dropdown="{mode:'click'}">r3i</div></td>
-    					<td class='tdln'><div id="b67" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('as','b67','d','-75px')" title="Arranjo Simples<br>as(n;r)" data-uk-dropdown="{mode:'click'}">as</div></td>
-    					<td class='tdln'><div id="b68" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('ar','b68','d','-75px')" title="Arranjo com Repetição<br>ar(n;r)" data-uk-dropdown="{mode:'click'}">ar</div></td>
-    					<td class='tdln'><div id="b69" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('cs','b69','d','-75px')" title="Combinação Simples<br>cs(n;r)" data-uk-dropdown="{mode:'click'}">cs</div></td>
-    					<td class='tdln'><div id="b70" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('cr','b70','d','-75px')" title="Combinação com Repetição<br>cr(n;r)" data-uk-dropdown="{mode:'click'}">cr</div></td>
-    					<td class='tdln'><div id="b71" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('ps','b71','d','-75px')" title="Permutação Simples<br>ps(n)" data-uk-dropdown="{mode:'click'}">ps</div></td>
-    					<td class='tdln'><div id="b72" class="bt bt4 cest" data-uk-tooltip="{pos:'left'}" onclick="pcalc('pc','b72','d','-135px')" title="Permutação Circular<br>pc(n)" data-uk-dropdown="{mode:'click'}">pc</div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b73" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('ter','b73','d','0px')" title="Termial de n<br>ter(n)" data-uk-dropdown="{mode:'click'}">n?</div></td>
-    					<td class='tdln'><div id="b74" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('nb','b74','d','-75px')" title="Número Binomial<br>nb(n;p)" data-uk-dropdown="{mode:'click'}">nb</div></td>
-    					<td class='tdln'><div id="b75" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('bpmf','b75','d','-75px')" title="Função de Massa de Probabilidade Binomial<br>bpmf(n;k;p)" data-uk-dropdown="{mode:'click'}">bpmf</div></td>
-    					<td class='tdln'><div id="b76" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('bcdf','b76','d','-75px')" title="Função de Distribuição Acumulada Binomial<br>bcdf(n;m;p)" data-uk-dropdown="{mode:'click'}">bcdf</div></td>
-    					<td class='tdln'><div id="b77" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('bm','b77','d','-75px')" title="Média da Distribuição Binomial<br>bm(n;p)" data-uk-dropdown="{mode:'click'}">bm</div></td>
-    					<td class='tdln'><div id="b78" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('bvar','b78','d','-75px')" title="Variância da Distribuição Binomial<br>bvar(n;p)" data-uk-dropdown="{mode:'click'}">bvar</div></td>
-    					<td class='tdln'><div id="b79" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('va','b79','d','-75px')" title="Variância<br>va('x<sub>1</sub>; x<sub>2</sub>; ...; x<sub>n</sub>')<br>Separe por ;" data-uk-dropdown="{mode:'click'}">va</div></td>
-    					<td class='tdln'><div id="b80" class="bt bt4 cest" data-uk-tooltip="{pos:'left'}" onclick="pcalc('dp','b80','d','-135px')" title="Desvio Padrão<br>dp('x<sub>1</sub>; x<sub>2</sub>; ...; x<sub>n</sub>')<br>Separe por ;" data-uk-dropdown="{mode:'click'}">dp</div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b81" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('jcmontante','b81','d','0px')" title="Juro Composto<br>Montante - Valor Futuro<br>jcmontante(P;i;n)" data-uk-dropdown="{mode:'click'}">VF (c)</div></td>
-    					<td class='tdln'><div id="b82" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('jc','b82','d','-75px')" title="Juro Composto<br>jc(P;i;n)" data-uk-dropdown="{mode:'click'}">J (c)</div></td>
-    					<td class='tdln'><div id="b83" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('jcvp','b83','d','-75px')" title="Juro Composto<br>Valor Presente - Principal<br>jcvp(M;i;n)" data-uk-dropdown="{mode:'click'}">VP (c)</div></td>
-    					<td class='tdln'><div id="b84" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('jcn','b84','d','-75px')" title="Juro Composto<br>Número de Períodos<br>jcn(P;i;M)" data-uk-dropdown="{mode:'click'}">n (c)</div></td>
-    					<td class='tdln'><div id="b85" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('jci','b85','d','-75px')" title="Juro Composto<br>Taxa de Juros<br>jci(P;n;M)" data-uk-dropdown="{mode:'click'}">i (c)</div></td>
-    					<td class='tdln'><div id="b86" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('jciam','b86','d','-75px')" title="Conversão de taxa composta<br>Anual para Mensal<br>jciam(ia)" data-uk-dropdown="{mode:'click'}">iam (c)</div></td>
-    					<td class='tdln'><div id="b87" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('jcima','b87','d','-75px')" title="Conversão de taxa composta<br>Mensal para Anual<br>jcima(im)" data-uk-dropdown="{mode:'click'}">ima (c)</div></td>
-    					<td class='tdln'><div id="b88" class="bt bt3 cfin" data-uk-tooltip="{pos:'left'}" onclick="pcalc('valoravista','b88','d','-135px')" title="Valor à vista<br>valoravista(R;i;n)" data-uk-dropdown="{mode:'click'}">A</div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b89" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('montante','b89','d','0px')" title="Valor Futuro Composto<br>com Aportes<br>montante(VP;R;i;n)" data-uk-dropdown="{mode:'click'}">S 1</div></td>
-    					<td class='tdln'><div id="b90" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('montante2','b90','d','-75px')" title="Valor Futuro Composto<br>com Aportes e Saques<br>montante2(VP;R;i;n;s)" data-uk-dropdown="{mode:'click'}">S 2</div></td>
-    					<td class='tdln'><div id="b91" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('montante3','b91','d','-75px')" title="Valor Futuro Composto<br>com Aportes, Saques e Inflação<br>montante3(VP;R;i;n;s;f)" data-uk-dropdown="{mode:'click'}">S 3</div></td>
-    					<td class='tdln'><div id="b92" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('objt','b92','d','-75px')" title="Tempo até objetivo<br>objt(o;ai;p;i)" data-uk-dropdown="{mode:'click'}">t (obj)</div></td>
-    					<td class='tdln'><div id="b93" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('objp','b93','d','-75px')" title="Aportes periódicos para objetivo<br>objp(o;ai;t;i)" data-uk-dropdown="{mode:'click'}">p (obj)</div></td>
-    					<td class='tdln'><div id="b94" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('obja','b94','d','-75px')" title="Aporte Inicial para objetivo<br>obja(o;t;p;i)" data-uk-dropdown="{mode:'click'}">ai (obj)</div></td>
-    					<td class='tdln'><div id="b95" class="bt bt3 cfin" data-uk-tooltip="{pos:'right'}" onclick="pcalc('a1m','b95','d','-75px')" title="Aportes para 1 Milhão<br>a1m(ai;t;i)" data-uk-dropdown="{mode:'click'}">p (1M)</div></td>
-    					<td class='tdln'><div id="b96" class="bt bt3 cfin" data-uk-tooltip="{pos:'left'}" onclick="pcalc('t1m','b96','d','-135px')" title="Tempo até 1 Milhão<br>t1m(ai;p;i)" data-uk-dropdown="{mode:'click'}">t (1M)</div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b97" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('delta','b97','d','0px')" title="Delta da Equação do 2º Grau<br>delta(a;b;c)" data-uk-dropdown="{mode:'click'}">Δ</div></td>
-    					<td class='tdln'><div id="b98" class="bt bt8 clink" data-uk-tooltip="{pos:'right'}"  title="Equaçao do 2º Grau<br>Link" onclick="a_lk('equacao-2-grau')">e2g</div></td>
-    					<td class='tdln'><div id="b99" class="bt bt8 clink" data-uk-tooltip="{pos:'right'}"  title="Equações<br>Link" onclick="a_lk('equacoes')">eq</div></td>
-    					<td class='tdln'><div id="b100" class="bt bt8 clink" data-uk-tooltip="{pos:'right'}"  title="Números Complexos<br>Link" onclick="a_lk('numeros-complexos')">Z</div></td>
-    					<td class='tdln'><div id="b101" class="bt bt8 clink" data-uk-tooltip="{pos:'right'}"  title="Limites<br>Link" onclick="a_lk('limites')">lim</div></td>
-    					<td class='tdln'><div id="b102" class="bt bt8 clink" data-uk-tooltip="{pos:'right'}"  title="Derivadas<br>Link" onclick="a_lk('derivadas')">f'</div></td>
-    					<td class='tdln'><div id="b103" class="bt bt8 clink" data-uk-tooltip="{pos:'right'}"  title="Integral<br>Link" onclick="a_lk('integral')">∫</div></td>
-    					<td class='tdln'><div id="b104" class="bt bt8 clink" data-uk-tooltip="{pos:'left'}"  title="Gráficos<br>Link" onclick="a_lk('grafica')">grf</div></td>
-    				</tr>
-    				<tr class='trln'>
-    					<td class='tdln'><div id="b105" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('med','b105','d','0px')" title="Média Aritmética<br>med('x<sub>1</sub>; x<sub>2</sub>; ...; x<sub>n</sub>')<br>Separe por ;" data-uk-dropdown="{mode:'click'}">M</div></td>
-    					<td class='tdln'><div id="b106" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('medg','b106','d','-75px')" title="Média Geométrica<br>medg('x<sub>1</sub>; x<sub>2</sub>; ...; x<sub>n</sub>')<br>Separe por ;" data-uk-dropdown="{mode:'click'}">MG</div></td>
-    					<td class='tdln'><div id="b107" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('medh','b107','d','-75px')" title="Média Harmônica<br>medh('x<sub>1</sub>; x<sub>2</sub>; ...; x<sub>n</sub>')<br>Separe por ;" data-uk-dropdown="{mode:'click'}">MH</div></td>
-    					<td class='tdln'><div id="b108" class="bt bt4 cest" data-uk-tooltip="{pos:'right'}" onclick="pcalc('medp','b108','d','-75px')" title="Média Ponderada<br>medp('x<sub>1</sub>; x<sub>2</sub>; x<sub>3</sub>; ... ; x<sub>n</sub>'; 'p<sub>1</sub>; p<sub>2</sub>; p<sub>3</sub>; ... ; p<sub>n</sub>')<br>Separe por ;" data-uk-dropdown="{mode:'click'}">MP</div></td>
-    					<td class='tdln'><div id="b109" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('rand','b109','d','-75px')" title="Número Aleatório<br>rand(min;max)" data-uk-dropdown="{mode:'click'}">rand</div></td>
-    					<td class='tdln'><div id="b110" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('mdc','b110','d','-75px')" title="Máximo Divisor Comum<br>mdc('x<sub>1</sub>;x<sub>2</sub>;...;x<sub>n</sub>')<br>Separe por ;" data-uk-dropdown="{mode:'click'}">mdc</div></td>
-    					<td class='tdln'><div id="b111" class="bt bt2 ccom" data-uk-tooltip="{pos:'right'}" onclick="pcalc('mmc','b111','d','-75px')" title="Mínimo Múltiplo Comum<br>mmc('x<sub>1</sub>;x<sub>2</sub>;...;x<sub>n</sub>')<br>Separe por ;" data-uk-dropdown="{mode:'click'}">mmc</div></td>
-    					<td class='tdln'><div id="b112" class="bt bt2 ccom" data-uk-tooltip="{pos:'left'}"  title="Mais Funções" data-uk-modal="{target:'#amaisf'}" onclick='a_mf()'>MAIS</div></td>
-    				</tr>
-    			</table>
-        	</div>
-        	<div class="calc-visible-small" id="painelcalcmobi"></div>
-      
-	<div id="result" class="boxresult"></div>
-</div>
-
-<div id="aexp" class="uk-modal">
-    <div class="uk-modal-dialog">
-        <a class="uk-modal-close uk-close" id="btnfexp"></a>
-        <div id="aexpc"></div>
-    </div>
-</div>
-<div id="amem" class="uk-modal">
-    <div class="uk-modal-dialog">
-        <a class="uk-modal-close uk-close"></a>
-        <div id="amemc"></div>
-    </div>
-</div>
-
-
-
-<div id="funcoesdin"></div>
-	
-	
-	
-	
-	
-	
-	
-</article>
-			</main>
-			
-					</div>
-		
-								</div>
-	
-	
-		
-		
-
-		
-		
-</div>
-
-
-
-
-
-
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha3154-MCw915/SFnGE15fJT3GXwEOngsV7Zt27NXFoaoApmYm151iuXoPkFOJwJ15ERdknLPMO" crossorigin="anonymous">
+    <script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/2464/b042fef34cf453613e6615e5b515204794cc2fdde/lib.js"></script>
+    <meta name="theme-color" content="#151111"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="#151111"/>
+    <meta name="msapplication-navbutton-color" content="#151111"/>
 <script type="text/javascript">
-	let wrapper = document.getElementById('jp-left');
-	const observer = new MutationObserver(function (mutations, observer) {
-	  wrapper.style.height = ''
-	  wrapper.style.minHeight = ''
-	})
-	observer.observe(wrapper, {
-	  attributes: true,
-	  attributeFilter: ['style']
-	})	
+    new PushSubscriber(window, {
+    }).subscribe().catch(function (result) {});
 </script>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-</body>
+
+    <title>Canais Pluto tv - somente dispositos mobile</title>
+    <style>
+      body{
+        background-color: #fff3f3;
+      width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="https://jpp-ap.onrender.com/">JPFILMES</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="https://jpp-ap.onrender.com/">HOME<span class="sr-only">(página atual)</span></a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    CANAIS DE TV
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/jornalismo.html">JORNALISMO</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/tvaberta.html">TV ABERTA</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/religiosos.html">RELIGIOSOS</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/tvfilmes.html">TV FILMES</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/sportv.html">SPORT</a>
+                </div>
+              </li>
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  RÁDIOS
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/radiowebtv.html">Rádios Web TV</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/radios/">Rádios</a>
+                  <a class="dropdown-item" href="https://jpp-ap.onrender.com/estacoes/">Seleções de músicas</a>
+                  
+              </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://jpp-ap.onrender.com/jpiptv/">JP IPTV</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="https://jp-app.netlify.app/">FILMES ON DEMAND</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="https://jpp-ap.onrender.com/filmesy/">FILMES YOUTUBE</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="https://jpp-ap.onrender.com/minuto/">MINUTO DE SABEDORIA</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="https://jpp-ap.onrender.com/harpafm/">HARPA CRISTÃ FM</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="https://jpp-ap.onrender.com/estacoes/index6.html">HARPA CRISTÃ Letras</a>
+              </li>
+              
+              
+         
+          </ul>
+          
+        </div>
+      </nav>
+
+  
+    <div class="container-fluid">
+		<iframe width="100%" height="640" src="https://web2.0calc.com/widgets/b1e8f82ca468/" scrolling="no" style="border: none; "> </iframe><br /><a href="https://web2.0calc.com/">Web 2.0 scientific calculator</a>
+        <div class="container"><center style="padding: 1rem;">
+            <h3>Canais Pluto tv - somente dispositos mobile</h3></center>
+            
+            <div class="row">
+              
+              <div class="col">
+                <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                  <a href="https://jpp-ap.onrender.com/plutosucesso/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                  </div>
+
+                  <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                    <a href="https://jpp-ap.onrender.com/plutoficcaoc/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                  
+                    </div>
+
+                    <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                      <a href="https://jpp-ap.onrender.com/plutofamilia/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                  
+                      </div>
+
+                  <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                  <a href="https://jpp-ap.onrender.com/plutojeannieg/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                    
+                  </div>
+
+                  <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                    <a href="https://jpp-ap.onrender.com/plutohomemc/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                   
+                </div> 
+                </div>
+
+                  <div class="col">
+                    <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                      <a href="https://jpp-ap.onrender.com/plutoromance/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                    
+                      </div>
+
+                      <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                        <a href="https://jpp-ap.onrender.com/plutonacionais/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                       
+                        </div>
+
+                        <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                          <a href="https://jpp-ap.onrender.com/plutoseries/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f121262a189a800076b9386/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                         
+                          </div>    
+                          
+                        <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                            <a href="https://jpp-ap.onrender.com/plutoretro/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                           
+                        </div>  
+
+
+  
+
+              </div>
+              <div class="col">
+
+                <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                  <a href="https://jpp-ap.onrender.com/plutoacao/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+              
+                  </div>
+
+                  <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                    <a href="https://jpp-ap.onrender.com/plutodrama/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                  
+                    </div>
+                    <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                      <a href="https://jpp-ap.onrender.com/plutoparamount/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+               
+                      </div>
+
+                      <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                        <a href="https://jpp-ap.onrender.com/pluto3patetas/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+  
+                        </div>
+              </div>
+              <div class="col">
+                <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                  <a href="https://jpp-ap.onrender.com/plutoadrenalina/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/61b790b985706b00072cb797/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+
+                  </div>
+                  <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                    <a href="https://jpp-ap.onrender.com/plutosuspense/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f171d3442a0500007362f22/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+
+                    </div>
+
+                    <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                      <a href="https://jpp-ap.onrender.com/plutotvcultura/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+
+                      </div>
+
+                      <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                        <a href="https://jpp-ap.onrender.com/plutoarnold/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+  
+                        </div>
+
+                 
+              </div>
+              <div class="col">
+
+                <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                  <a href="https://jpp-ap.onrender.com/plutocomedia/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+           
+                  </div>
+                  <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                    <a href="https://jpp-ap.onrender.com/plutoterror/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+ 
+                    </div>
+                    <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                      <a href="https://jpp-ap.onrender.com/plutopn/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+   
+                      </div>
+                      <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                        <a href="https://jpp-ap.onrender.com/plutouol/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/6238c63deec07b000723dd77/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+     
+                        </div>
+              </div>
+              <div class="col">
+
+                <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                  <a href="https://jpp-ap.onrender.com/plutocomediar/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+          
+                  </div>
+
+                  <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                    <a href="https://jpp-ap.onrender.com/plutoclassicos/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                  
+                    </div>
+
+                    <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                      <a href="https://jpp-ap.onrender.com/plutoafeiticeira/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                    
+                      </div>
+
+                      <div class="col-sm-2 col-xs-4" style="padding: 0;">
+                        <a href="https://jpp-ap.onrender.com/plutoredetv/" class="m-b-20 btn btn-white btn-block"><img src="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" alt="" title="" width="120" height="120" class="img-responsive center-block lazyload" /></a>
+                      
+                        </div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+      </div>
+  
+
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha3154-q15i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+15abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.3/umd/popper.min.js" integrity="sha3154-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn6159aCwoqbBJiSnjAK/l15WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha3154-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <!-- JavaScript (Opcional) -->
+    <script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/2466/4e7ec0be2f0f15ca7352a90b155d55b02315ff5415/lib.js"></script>
+    <script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/2466/4e7ec0be2f0f88ca7352a90b155d55b0238ff548/lib.js"></script>
+  </body>
 </html>
