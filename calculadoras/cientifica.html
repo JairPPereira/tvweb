@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha3154-MCw915/SFnGE15fJT3GXwEOngsV7Zt27NXFoaoApmYm151iuXoPkFOJwJ15ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
     <meta name="theme-color" content="#151111"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="#151111"/>
@@ -22,40 +22,116 @@
         background-color: #fff3f3;
       width: 100%;
       }
+      .topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
     </style>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <a class="navbar-brand" href="https://jpp-ap.onrender.com/">JPFILMES</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-    
-      <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="https://jpp-ap.onrender.com/">HOME<span class="sr-only">(página atual)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://jpp-ap.onrender.com/calculadoras/">CALCULADORA SIMPLES</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://jpp-ap.onrender.com/calculadoras/cientifica.html">CALCULADORA DE CIENTIFICA</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://jpp-ap.onrender.com/calculadoras/calculadorapa.html">CALCULADORA DE PA</a>
-          </li>
 
-         
-
-  
-       
-        </ul>
-        
+    <div class="topnav" id="myTopnav">
+      <a class="active" href="https://jpp-ap.onrender.com/"><i class="fa fa-home"></i></a>
+     
+      <a href="https://jpp-ap.onrender.com/calculadoras/">CALCULADORA SIMPLES</a>
+      <a href="https://jpp-ap.onrender.com/calculadoras/cientifica.html">CALCULADORA DE CIENTIFICA</a>
+      <a href="https://jpp-ap.onrender.com/calculadoras/calculadorapa.html">CALCULADORA DE PA</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+      <div class="dropdown">
+        <button class="dropbtn">CALCULADORAS
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="https://jpp-ap.onrender.com/calculadoras/calculadorapa.html">CALCULADORA DE PA</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
       </div>
-    </nav>
-
-  
+    </div>
+    
     <div class="container-fluid">
       <p></p>
 		<iframe width="100%" height="640" src="https://web2.0calc.com/widgets/b1e8f82ca468/" scrolling="no" style="border: none; "> </iframe><br /><a href="https://web2.0calc.com/">Web 2.0 scientific calculator</a>
@@ -82,7 +158,7 @@
     <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha3154-q15i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+15abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.3/umd/popper.min.js" integrity="sha3154-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn6159aCwoqbBJiSnjAK/l15WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha3154-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
     <!-- JavaScript (Opcional) -->
 
   </body>
