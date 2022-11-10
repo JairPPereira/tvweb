@@ -1,0 +1,28 @@
+<html><head>
+    <meta charset="utf-8">
+    <script src="jquery.min.js"></script>
+   
+    <link rel="stylesheet" href="style.css">
+  <script src="/hlsjs/hls.1.1.5.min.js"></script><title>https://alanza.iptv2022.com/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8</title></head>
+  <body>
+    <video id="video" controls></video>
+    <script>
+        if (Hls.isSupported()) {
+            const video = document.getElementById('video');
+            const hls = new Hls();
+            hls.attachMedia(video);
+            hls.on(Hls.Events.MEDIA_ATTACHED, () => {
+                hls.loadSource(
+                    'https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b6229c29928f487d87a86d9992d09a5b&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=b4d7d9865d4111ed8e47fec5a6cdbd8c&userId='
+                );
+            });
+        }
+
+        video.play();
+    </script>
+    <script src="global.js"></script>
+    <script src="player.js"></script>
+  
+  
+  </body></html>
+
