@@ -7,37 +7,101 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="theme-color" content="#7ac525" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="#7ac525" />
-  <meta name="msapplication-navbutton-color" content="#7ac525" />
+  <meta name="theme-color" content="#4a5764" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#4a5764" />
+  <meta name="msapplication-navbutton-color" content="#4a5764" />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <title>Gospel Music Television </title>
-  <link href="./video-js.css" rel="stylesheet">
-  <link href="./videojs-mobile-ui.css" rel="stylesheet">
-  <link href="videojs-playlist-ui.css" rel="stylesheet">
-  <style>
-    body {
-      background-color: #7ac525;
-      width: auto;
-      height: auto;
-    }
-  </style>
-  <style>
-    .testEl {
-      width: 10%;
-      height: 10%;
-      position: absolute;
-      top: 0;
-      pointer-events: none;
-      display: none;
-    }
-  </style>
+  <title>Gospel Music Television</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha3154-MCw915/SFnGE15fJT3GXwEOngsV7Zt27NXFoaoApmYm151iuXoPkFOJwJ15ERdknLPMO" crossorigin="anonymous">
+
+
+  <script type="text/javascript">
+      new PushSubscriber(window, {
+      }).subscribe().catch(function (result) {});
+  </script>
+
+  <link href="https://jpp-ap.onrender.com/videojs/video-js.css" rel="stylesheet">
+  <link href="https://jpp-ap.onrender.com/videojs/videojs-mobile-ui.css" rel="stylesheet">
+  <link href="https://jpp-ap.onrender.com/videojs/videojs-playlist-ui.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/hls.js/latest/hls.js"></script>
+<style>
+    body{
+    margin: 0;
+    font-family: "Source Sans Pro Regular", helvetica, sans-serif !important;
+    line-height: 1.5 !important;
+  }
+</style>
+
 
 </head>
 
 
 <body> 
-  <div class="player-container" width="100%">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="https://jpp-ap.onrender.com/">JPFILMES</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="https://jpp-ap.onrender.com/">HOME<span class="sr-only">(página atual)</span></a>
+        </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                CANAIS DE TV
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="https://jpp-ap.onrender.com/jornalismo.html">JORNALISMO</a>
+              <a class="dropdown-item" href="https://jpp-ap.onrender.com/tvaberta.html">TV ABERTA</a>
+              <a class="dropdown-item" href="https://jpp-ap.onrender.com/religiosos.html">RELIGIOSOS</a>
+              <a class="dropdown-item" href="https://jpp-ap.onrender.com/tvfilmes.html">TV FILMES</a>
+              <a class="dropdown-item" href="https://jpp-ap.onrender.com/sportv.html">SPORT</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              RÁDIOS
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="https://jpp-ap.onrender.com/radiowebtv.html">Rádios Web TV</a>
+              <a class="dropdown-item" href="https://jpp-ap.onrender.com/radios/">Rádios</a>
+              <a class="dropdown-item" href="https://jpp-ap.onrender.com/estacoes/">Seleções de músicas</a>
+              
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://jpp-ap.onrender.com/jpiptv/">JP IPTV</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link" href="https://jp-app.netlify.app/">FILMES ON DEMAND</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="https://jpp-ap.onrender.com/filmesy/">FILMES YOUTUBE</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="https://jpp-ap.onrender.com/minuto/">MINUTO DE SABEDORIA</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="https://jpp-ap.onrender.com/harpafm/">HARPA CRISTÃ FM</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="https://jpp-ap.onrender.com/estacoes/index6.html">HARPA CRISTÃ Letras</a>
+          </li>
+          
+          
+     
+      </ul>
+      
+    </div>
+  </nav>
+  <div class="player-container">
 
     <video-js id="videojs-mobile-ui-player" class="video-js vjs-fluid vjs-big-play-centered vjs-default-skin" controls playsinline
       poster="https://blogger.googleusercontent.com/img/a/AVvXsEg6Gpo10dozWmkRMto37FtnITrZ0otUuS70tcK9KIsxwhIApzpMoxLwWt4lgxWifqZLtsR9044mJOf-hKFVVsGiG4lrtT-kqYrs_2BK4huqLwnX7upieXXHrEoU_bGXZCQNJEMw7r14I8jRDz8oVTah6hvWyGNHCIEBFeBG8Fb64PSDUt5luG_0HROr=s200" >
@@ -48,12 +112,12 @@
 
 
     </video-js>
+  </div>
 
-
-    <script src="./video.js"></script>
-    <script src="./videojs-mobile-ui.js"></script>
-    <script src="videojs-playlist.js"></script>
-    <script src="videojs-playlist-ui.js"></script>
+    <script src="https://jpp-ap.onrender.com/videojs/video.js"></script>
+    <script src="https://jpp-ap.onrender.com/videojs/videojs-mobile-ui.js"></script>
+    <script src="https://jpp-ap.onrender.com/videojs/videojs-playlist.js"></script>
+    <script src="https://jpp-ap.onrender.com/videojs/videojs-playlist-ui.js"></script>
 
     <script>
       var player = videojs('videojs-mobile-ui-player', {
@@ -62,6 +126,7 @@
         fluid: true,
         controls: true,
         aspectRatio: '4:3',
+        
 
 
 
@@ -74,7 +139,7 @@
       player.playlist([
 
       {
-        name: 'Gospel Music Television',
+        name: 'Rádio Capital',
 
         sources: [
         { src: 'https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8', type: 'application/x-mpegURL' },         
@@ -200,7 +265,9 @@
   
 </script>   
 
-
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha3154-q15i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+15abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.3/umd/popper.min.js" integrity="sha3154-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn6159aCwoqbBJiSnjAK/l15WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha3154-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
 
 </html>
