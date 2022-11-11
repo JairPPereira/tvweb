@@ -164,7 +164,7 @@
          */
     
         mp3: {
-          type: ['audio/mpeg; codecs="mp3"', 'audio/mpeg', 'audio/mp3', 'audio/MPA', 'audio/mpa-robust'],
+          type: ['audio/mpeg; codecs="mp3"', 'audio/mpeg', 'audio/mp3', 'audio/MPA', 'audio/mpa-robust', 'audio/m3u8', 'application/x-mpegURL'],
           required: true
         },
     
