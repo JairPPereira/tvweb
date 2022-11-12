@@ -315,6 +315,9 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/62052d3b4eeb7
 #########################################################################################
 
 
+#EXTINF:-1 tvg-id="A Era do Gelo 2" tvg-logo="https://www.themoviedb.org/t/p/w185_and_h278_multi_faces/5BSEXwvi0xDC2CbMkZQ0LngaVOh.jpg" group-title="FILMES ONDEMAND",A Era do Gelo 2
+https://vod.provider.plex.tv/library/parts/6308468981112-dash.mpd?X-Plex-Session-Identifier=nxe9bsfvnbgauzk9kacgy9h1&X-Plex-Product=Plex%20Web&X-Plex-Version=4.89.1&X-Plex-Client-Identifier=d0yzzrm42oucmj03766m2cfs&X-Plex-Platform=Chrome&X-Plex-Platform-Version=104.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Android&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=980x1780%2C320x712&X-Plex-Token=EKXrK4UGPTk2os736AYM&X-Plex-Language=pt-BR&Accept-Language=pt-BR
+
 #EXTINF:-1 tvg-id="A Filha do Rei" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg" group-title="FILMES ONDEMAND",A Filha do Rei
 https://video.wixstatic.com/video/e16db6_7c2d4c1a95c9447695d00457aad28d60/1080p/mp4/file.mp4
 
