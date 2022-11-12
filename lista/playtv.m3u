@@ -324,6 +324,12 @@ https://video.wixstatic.com/video/e16db6_7c2d4c1a95c9447695d00457aad28d60/1080p/
 #EXTINF:-1 tvg-id="A Recompensa" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9pSIXG7wBSlUufbklolD5E9oald.jpg" group-title="FILMES ONDEMAND",A Recompensa
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_25rrfxqy/format/applehttp/protocol/https/flavorIds/1_zdle1ses,1_t2mwavgx,1_dkjnw7na,1_yucx9g09,1_0nwqbpfk,1_t99z4u9b,1_mypu91ke/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1667421303&id=3340&ip=167.249.209.179&override_expiration=1500&sign=PRWKYh99G8G4%2FLhXlTBy5ADTynU2Pfiw051WeaaULXc%3D&playSessionId=78678a3f-c278-fdfd-3065-522321b37720:11918c64-23a8-7eea-7c44-d6959a9952ad&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3JlY29tcGVuc2E=&clientTag=html5:v7.54
 
+#EXTINF:-1 tvg-id="Acerto de Contas" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qOBaU0NKpQTLoN161od9t7E50Up.jpg" group-title="FILMES ONDEMAND",Acerto de Contas
+https://siloh.pluto.tv/186_pluto/clip/627e7810c51411001347a8a3_Recoil_BR/720p/20220513_082400/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Assassinatos do Passado" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rqWRBpQ4Hf69e5bSsVYrooMTQVb.jpg" group-title="FILMES ONDEMAND",Assassinatos do Passado
+https://siloh.pluto.tv/494_pluto/clip/627e8369b55dbf0013581eaf_House_of_Bodies_BR/720p/20220513_091226/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Hellraiser: Renascido do Inferno" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gQsqWWy9ezNI2dOmTnICt2SS5Uz.jpg" group-title="FILMES ONDEMAND",Hellraiser: Renascido do Inferno
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_mx8ih37s/format/applehttp/protocol/https/flavorIds/1_5ockhd6v,1_0glp91vr,1_jnogvbat,1_2rzbzvpw,1_umvdd37o,1_t2jialyn,1_97es4oe7/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1667421027&id=6245&ip=167.249.209.179&override_expiration=1500&sign=mlfnO1mtPWyVGAprscpuNGqU3JddrMA%2Bj3BoECEUrSU%3D&playSessionId=a1ec7d8d-33b2-e65b-26b5-c46bc1269ae5:be9bfb57-796d-22aa-01cf-eba77267477d&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2hlbGxyYWlzZXItcmVuYXNjaWRvLWRvLWluZmVybm8=&clientTag=html5:v7.54
 
