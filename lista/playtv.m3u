@@ -315,6 +315,9 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/62052d3b4eeb7
 #########################################################################################
 
 
+#EXTINF:-1 tvg-id="A Filha do Rei" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg" group-title="FILMES ONDEMAND",A Filha do Rei
+https://video.wixstatic.com/video/e16db6_7c2d4c1a95c9447695d00457aad28d60/1080p/mp4/file.mp4
+
 #EXTINF:-1 tvg-id="A Recompensa" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9pSIXG7wBSlUufbklolD5E9oald.jpg" group-title="FILMES ONDEMAND",A Recompensa
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_25rrfxqy/format/applehttp/protocol/https/flavorIds/1_zdle1ses,1_t2mwavgx,1_dkjnw7na,1_yucx9g09,1_0nwqbpfk,1_t99z4u9b,1_mypu91ke/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1667421303&id=3340&ip=167.249.209.179&override_expiration=1500&sign=PRWKYh99G8G4%2FLhXlTBy5ADTynU2Pfiw051WeaaULXc%3D&playSessionId=78678a3f-c278-fdfd-3065-522321b37720:11918c64-23a8-7eea-7c44-d6959a9952ad&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3JlY29tcGVuc2E=&clientTag=html5:v7.54
 
