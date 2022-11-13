@@ -349,6 +349,9 @@ https://video.wixstatic.com/video/e16db6_ccb7e03daf3f49389ff663d79b73c8dc/720p/m
 https://siloh.pluto.tv/820_pluto/clip/6272df8fb55dbf001353a231_Empire_of_Lust_BR/720p/20220504_131823/hls/0-end/master.m3u8
 
 
+#EXTINF:-1 tvg-id="Assassinos de Aluguel" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iEql7EXfQqURvGTEC9GJ3Rx9Baa.jpg" group-title="FILMES ONDEMAND",Assassinos de Aluguel
+https://siloh.pluto.tv/c6009f_pluto/clip/604b923eb2b870001a05f840_Freelancers_BR/720p/20210312_080934/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Assassinatos do Passado" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rqWRBpQ4Hf69e5bSsVYrooMTQVb.jpg" group-title="FILMES ONDEMAND",Assassinatos do Passado
 https://siloh.pluto.tv/494_pluto/clip/627e8369b55dbf0013581eaf_House_of_Bodies_BR/720p/20220513_091226/hls/0-end/master.m3u8
 
