@@ -21,6 +21,8 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="TV ABERTA",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
