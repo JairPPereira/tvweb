@@ -324,6 +324,9 @@ https://video.wixstatic.com/video/e16db6_7c2d4c1a95c9447695d00457aad28d60/1080p/
 #EXTINF:-1 tvg-id="A Justiceira" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q9xUGMmjtVw53fMA68aJyb7nLMR.jpg" group-title="FILMES ONDEMAND",A Justiceira
 https://siloh.pluto.tv/367_pluto/clip/6272df8bb55dbf001353a1ba_Miss_Meadows_BR/720p/20220504_131819/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="A Nova Onda do Imperador" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wLeHgN6zdW1rfKP3KXJwa4AbJx.jpg" group-title="FILMES ONDEMAND",A Nova Onda do Imperador
+https://video.wixstatic.com/video/e16db6_a4d979cfee8640b4a8e9da6d128f4d8f/1080p/mp4/file.mp4
+
 #EXTINF:-1 tvg-id="A Recompensa" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9pSIXG7wBSlUufbklolD5E9oald.jpg" group-title="FILMES ONDEMAND",A Recompensa
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_25rrfxqy/format/applehttp/protocol/https/flavorIds/1_zdle1ses,1_t2mwavgx,1_dkjnw7na,1_yucx9g09,1_0nwqbpfk,1_t99z4u9b,1_mypu91ke/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1667421303&id=3340&ip=167.249.209.179&override_expiration=1500&sign=PRWKYh99G8G4%2FLhXlTBy5ADTynU2Pfiw051WeaaULXc%3D&playSessionId=78678a3f-c278-fdfd-3065-522321b37720:11918c64-23a8-7eea-7c44-d6959a9952ad&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3JlY29tcGVuc2E=&clientTag=html5:v7.54
 
@@ -335,6 +338,7 @@ https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/614242d5d982620013b9fc0a_I_Think
 
 #EXTINF:-1 tvg-id="Albert Nobbs" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hWMYaSb0ypEGnomdHdZ6fkRJN9d.jpg" group-title="FILMES ONDEMAND",Albert Nobbs
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hon8tcs9/format/applehttp/protocol/https/flavorIds/1_1dgre6m6,1_5418gt6x,1_13ujo6tj,1_eig5y4kg,1_3knwsrex,1_qo6wg3g6/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1657570151&id=904&ip=167.249.209.218&override_expiration=1500&sign=FVTen8HHGBywwXKg3n5DbcTY%2FojAI0Lu0cgooulFIg4%3D&playSessionId=64c15bf3-ac88-dc2e-3362-6f75adf4d2ab:0aac8de6-2d41-146a-cbcd-bac35e516bb0&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2FsYmVydC1ub2Jicw==&clientTag=html5:v7.49
+
 
 #EXTINF:-1 tvg-id="Assassinatos do Passado" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rqWRBpQ4Hf69e5bSsVYrooMTQVb.jpg" group-title="FILMES ONDEMAND",Assassinatos do Passado
 https://siloh.pluto.tv/494_pluto/clip/627e8369b55dbf0013581eaf_House_of_Bodies_BR/720p/20220513_091226/hls/0-end/master.m3u8
