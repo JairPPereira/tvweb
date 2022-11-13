@@ -333,6 +333,9 @@ https://siloh.pluto.tv/186_pluto/clip/627e7810c51411001347a8a3_Recoil_BR/720p/20
 #EXTINF:-1 tvg-id="Agora Estamos Sozinhos" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dnW8wWx1xulYgHqXuVn9Pj7HnCX.jpg" group-title="FILMES ONDEMAND",Agora Estamos Sozinhos
 https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/614242d5d982620013b9fc0a_I_Think_We_are_Alone_Now_BR/720p/20210921_091358/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Albert Nobbs" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hWMYaSb0ypEGnomdHdZ6fkRJN9d.jpg" group-title="FILMES ONDEMAND",Albert Nobbs
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hon8tcs9/format/applehttp/protocol/https/flavorIds/1_1dgre6m6,1_5418gt6x,1_13ujo6tj,1_eig5y4kg,1_3knwsrex,1_qo6wg3g6/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1657570151&id=904&ip=167.249.209.218&override_expiration=1500&sign=FVTen8HHGBywwXKg3n5DbcTY%2FojAI0Lu0cgooulFIg4%3D&playSessionId=64c15bf3-ac88-dc2e-3362-6f75adf4d2ab:0aac8de6-2d41-146a-cbcd-bac35e516bb0&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2FsYmVydC1ub2Jicw==&clientTag=html5:v7.49
+
 #EXTINF:-1 tvg-id="Assassinatos do Passado" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rqWRBpQ4Hf69e5bSsVYrooMTQVb.jpg" group-title="FILMES ONDEMAND",Assassinatos do Passado
 https://siloh.pluto.tv/494_pluto/clip/627e8369b55dbf0013581eaf_House_of_Bodies_BR/720p/20220513_091226/hls/0-end/master.m3u8
 
