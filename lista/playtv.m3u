@@ -333,6 +333,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/600ae7fc2816a5001aa14606_CIVIL_ACTION_A
 #EXTINF:-1 tvg-id="A Recompensa" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9pSIXG7wBSlUufbklolD5E9oald.jpg" group-title="FILMES ONDEMAND",A Recompensa
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_25rrfxqy/format/applehttp/protocol/https/flavorIds/1_zdle1ses,1_t2mwavgx,1_dkjnw7na,1_yucx9g09,1_0nwqbpfk,1_t99z4u9b,1_mypu91ke/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1667421303&id=3340&ip=167.249.209.179&override_expiration=1500&sign=PRWKYh99G8G4%2FLhXlTBy5ADTynU2Pfiw051WeaaULXc%3D&playSessionId=78678a3f-c278-fdfd-3065-522321b37720:11918c64-23a8-7eea-7c44-d6959a9952ad&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3JlY29tcGVuc2E=&clientTag=html5:v7.54
 
+#EXTINF:-1 tvg-id="A Travessia" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cQbQNdOr6S7XNJAV5woU1KdbHUQ.jpg" group-title="FILMES ONDEMAND",A Travessia
+https://play.prod.gcp.vix.services/crossing-point_pt/crossing-point_pt_1-1/play_v1_hls_1080p.m3u8
+
 #EXTINF:-1 tvg-id="Acerto de Contas" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qOBaU0NKpQTLoN161od9t7E50Up.jpg" group-title="FILMES ONDEMAND",Acerto de Contas
 https://siloh.pluto.tv/186_pluto/clip/627e7810c51411001347a8a3_Recoil_BR/720p/20220513_082400/hls/0-end/master.m3u8
 
@@ -355,6 +358,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/604b923eb2b870001a05f840_Freelancers_BR
 #EXTINF:-1 tvg-id="Assassinatos do Passado" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rqWRBpQ4Hf69e5bSsVYrooMTQVb.jpg" group-title="FILMES ONDEMAND",Assassinatos do Passado
 https://siloh.pluto.tv/494_pluto/clip/627e8369b55dbf0013581eaf_House_of_Bodies_BR/720p/20220513_091226/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Batalha dos Impérios" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jehJ5TlgBqfP6DkWqOjcCkMYxgd.jpg" group-title="FILMES ONDEMAND",Batalha dos Impérios
+https://siloh.pluto.tv/c6009f_pluto/clip/5f86fe5f3bd42e001ac65616_Dragon_Blade_BR/720p/20201014_063423/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Como Hackear Seu Chefe" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sXIIGA2VeK1FAhd9c547kcBIryq.jpg" group-title="FILMES ONDEMAND",Como Hackear Seu Chefe
 https://video.wixstatic.com/video/e16db6_cd4f9ef80a624f45b6fb458074065b59/1080p/mp4/file.mp4
 
@@ -367,11 +373,17 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_mx8ih3
 #EXTINF:-1 tvg-id="Lâminas da Morte - A Maldição de Jack, o Estripador" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nLv9BtevXUGzoXcjaO47o0uUjQT.jpg" group-title="FILMES ONDEMAND",Lâminas da Morte - A Maldição de Jack, o Estripador
 https://siloh.pluto.tv/824_Indigenius/clip/62605c68228ab000133ef78c_As_Laminas_de_Jack_o_Estripador_BR/720p/20220420_141746/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="O Alvo: Bem-Vindo ao Inferno" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aIpVfGq2dBI2XTamMdnZbP8QFBw.jpg" group-title="FILMES ONDEMAND",O Alvo: Bem-Vindo ao Inferno
+https://siloh.pluto.tv/c6009f_pluto/clip/60bf76c71f07220014c0c43e_Devils_Tomb_BR/720p/20210608_065520/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="O Salvador" tvg-logo="https://image.tmdb.org/t/p/w500//i4iyR0AhCsOWkmyFgFjyWj0U3YI.jpg" group-title="FILMES ONDEMAND",O Salvador
 https://play.prod.gcp.vix.services/the-savior_pt/the-savior_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Os X-Mercenários" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iLwPUqwcZGn20PirTz1arS37fXe.jpg" group-title="FILMES ONDEMAND",Os X-Mercenários
 https://siloh.pluto.tv/410_Polar/clip/62cc47c575b9dc0013c81496_Pride_of_Lions_BR/720p/20220721_121500/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Pesadelo no Inferno" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/j7p3JKIAwysHpZsmdINLNeVjApg.jpg" group-title="FILMES ONDEMAND",Pesadelo no Inferno
+https://video.wixstatic.com/video/e16db6_e04b7ff875f84da6af6aead3aa711666/720p/mp4/file.mp4
 
 
 #EXTINF:-1 tvg-id="Skyline - Além do Horizonte" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5quRHrVGxJyhA1GLr8tk5RRNzET.jpg" group-title="FILMES ONDEMAND",Skyline - Além do Horizonte
