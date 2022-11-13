@@ -119,10 +119,7 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV ABERTA", RecordTV NDTV SC
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="TV ABERTA",Band Indisponível
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="TV ABERTA",Band - RBA TV (PA)
-https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="TV ABERTA", RedeTV! TV Arapuan HD (PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="TV ABERTA", TV Pampa - RedeTV! RS
