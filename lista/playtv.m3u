@@ -339,6 +339,9 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hon8tc
 #EXTINF:-1 tvg-id="Assassinatos do Passado" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rqWRBpQ4Hf69e5bSsVYrooMTQVb.jpg" group-title="FILMES ONDEMAND",Assassinatos do Passado
 https://siloh.pluto.tv/494_pluto/clip/627e8369b55dbf0013581eaf_House_of_Bodies_BR/720p/20220513_091226/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Como Hackear Seu Chefe" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sXIIGA2VeK1FAhd9c547kcBIryq.jpg" group-title="FILMES ONDEMAND",Como Hackear Seu Chefe
+https://video.wixstatic.com/video/e16db6_cd4f9ef80a624f45b6fb458074065b59/1080p/mp4/file.mp4
+
 #EXTINF:-1 tvg-id="Fuga do Vulcão" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8BSo6rhPljuBKWiTQVbST07JkQF.jpg" group-title="FILMES ONDEMAND",Fuga do Vulcão
 https://siloh.pluto.tv/c6009f_pluto/clip/603fb51405d744001a21f933_Airplane_vs_Volcano_BR/720p/20210303_081101/hls/0-end/master.m3u8
 
@@ -350,6 +353,9 @@ https://play.prod.gcp.vix.services/the-savior_pt/the-savior_pt_1-1/play_v1_hls_1
 
 #EXTINF:-1 tvg-id="Os X-Mercenários" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iLwPUqwcZGn20PirTz1arS37fXe.jpg" group-title="FILMES ONDEMAND",Os X-Mercenários
 https://siloh.pluto.tv/410_Polar/clip/62cc47c575b9dc0013c81496_Pride_of_Lions_BR/720p/20220721_121500/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Skyline - Além do Horizonte" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5quRHrVGxJyhA1GLr8tk5RRNzET.jpg" group-title="FILMES ONDEMAND",Skyline - Além do Horizonte
+https://siloh.pluto.tv/355_Sofa_Digital/clip/620d047533b8100013ba34e5_Alem_do_Horizonte/720p/20220221_082013/hls/0-end/master.m3u8
 
 
 
