@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="js/dash.all.js"></script>
+    <link href="/css/ac84d61aa26018104f12.css" rel="stylesheet">
+    <link href="/css/a1533a8354c723126905.css" rel="stylesheet">
+    <style>
+        video {
+          width: 80%;
+          height: 80%;
+        }
+        </style>
+</head>
+<body onload="setupVideo()">
+    <h1>Adaptive Streaming with HTML5</h1>
+    <video id="videoplayer" crossorigin="anonymous" controls></video>
+
+
+
+    <script>
+        // setup the video element and attach it to the Dash player
+        function setupVideo() {
+          var url = "https://ottvsmediaservice.ottvs.com.br/abfff085-d36f-4273-be1c-e997bac3c4b7/0011140_movie.ism/manifest(format=mpd-time-csf,encryption=cenc)";
+          var context = new Dash.di.DashContext();
+          var player = new MediaPlayer(context);
+                          player.startup();
+                          player.attachView(document.querySelector("#videoplayer"));
+                          player.attachSource(url);
+        }
+        </script>
+        
+        <script nomodule="" src="js/polyfills-4ab628b2b1282518d730.js"></script>
+        <script src="js/ssgManifest.js"></script>
+        <script src="js/webpack-f12cc5f6e48bc5fd6cb2.js"></script>
+        <script src="js/buildManifest.js"></script>
+        <script src="js/main-a21ff4a6eebb36e1bb38.js"></script>
+        <script src="js/framework.02ff6a891ca1415a4441.js"></script>
+        <script src="js/commons.3263db1be22ed57f6843.js"></script>
+        <script src="js/b06a0169f6d334eb0ea1dbb5126ebee0ec3de00e.5ee2ca2c3df971487b7c.js"></script>
+        <script src="js/dc71fd6.js"></script>
+        <script src="js/app-2e4448367b5b79228590.js"></script>
+        <script src="js/ac22e870ff55b6bdc71fd6.js"></script>
+        
+</body>
+</html>
