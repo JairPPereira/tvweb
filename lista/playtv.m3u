@@ -5749,3 +5749,72 @@ https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2009%20-%20
 #EXTINF:-1 tvg-logo="https://imgur.com/lDA5iKc.png" group-title="Zoboomafoo",Ep.10
 https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2010%20-%20Escaladores%20%28Dublado%29.mp4
 
+
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml"
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0FVjFVd.png" group-title="ALERTA",NOVO LINK DA LISTA ESCANEIE O QR CODE!
+https://i.imgur.com/XKJJdal.mp4
+
+#EXTINF:-1 tvg-chno="01" tvg-id="Tvbrasil.br" tvg-logo="https://i.imgur.com/kLWg5sp.png" group-title="TV", TVE BAHIA
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-chno="02" tvg-id="Tvcultura.br" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="TV",TV CULTURA
+https://canal1.proxy.tokplay.com.br/videos/event5/auto.m3u8
+
+#EXTINF:-1 tvg-chno="04" tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="05" tvg-id="Sbt.br" tvg-name="TV Aratu" tvg-logo="https://imgur.com/6ikejI1.png" group-title="TV", SBT - TV ARATU (BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="06" tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV", REDETV! ES
+https://hls.brasilstream.com.br/live/redetves/redetves/index.m3u8
+
+#EXTINF:-1 tvg-chno="07" tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" tvg-shift="0" group-title="TV", BAND
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
+
+#EXTINF:-1 tvg-chno="09" tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/CQCa3Bk.png" group-title="TV", RBTV
+https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Tvbahia.br" tvg-logo="https://imgur.com/g4Olb7O.png" group-title="TV", TV BAHIA
+http://50.7.34.155:2200/BR/TV_Bahia_HD-br/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="11.2" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/9gIiEvG.png" group-title="TV",GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-id="RecordTV Itapoan" tvg-logo="https://imgur.com/xmAzIRn.png" group-title="TV",RecordTV BAHIA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 tvg-chno="12.2" tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/HcdW6B4.png" tvg-shift="0" group-title="TV",RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/IZXPrli.png" tvg-shift="0" group-title="TV",RECORD NEWS
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://imgur.com/3zZVFPD.png" group-title="TV",TV GAZETA
+http://origin-02.nxplay.com.br/TV_GAZETA_NX/index.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Futura.br" tvg-name="Futura" tvg-logo="https://imgur.com/MUdGsN0.png" group-title="TV",FUTURA
+https://canal1.proxy.tokplay.com.br/videos/event9/auto.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/j4jnnL0.png" group-title="TV",TV BRASIL
+https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",BAND NEWS
+http://50.7.34.155:2200/BR/Band_News_HD-br/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Globonews.br" tvg-logo="https://imgur.com/AAUwtnk.png" group-title="TV",GLOBO NEWS
+http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_3539/playlist.m3u8	
+
+#EXTINF:-1 tvg-chno="27" tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://imgur.com/c849FNd.png" tvg-shift="0" group-title="TV",CNN BRASIL
+http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="TV",LOADING TV
+https://origin-02.nxplay.com.br/IDEAL_TV_HD_01/index.m3u8
+
+#EXTINF:-1 tvg-chno="30 tvg-id="RedeUTV" tvg-logo="https://imgur.com/QeWCq65.png" group-title="TV", REDE UTV BRASIL
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/oN5lTb9.png" group-title="TV",TV MANCHETE
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
