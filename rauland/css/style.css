@@ -5,20 +5,14 @@
     outline: none;
 }
 
-body{
-	font-family:arial;
-	font-size:13px;
-	line-height:1.5em;
-	color:#fff;
-	background: url(../images/bg.png);
-}
+
 
 .clearfix{
 	clear:both;
 }
 
 #container{
-	width:330px;
+	width:60%;
 	min-height:400px;
 	background:#333;
 	overflow:auto;
@@ -43,7 +37,10 @@ body{
 #audio-info .artist{
 	font-weight:bold;
 }
-
+.datai{
+	width: 100%;
+	height: 200px;
+}
 .cover{
 	width:100%;
 	z-index:1;
@@ -76,6 +73,7 @@ input#volume::-webkit-slider-thumb {
 button#play{
 	width:70px;
 	height:70px;
+
 	background:url(../images/play.png) no-repeat;float:left;
 }
 
