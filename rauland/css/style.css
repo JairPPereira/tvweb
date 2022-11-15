@@ -12,7 +12,7 @@
 }
 
 #container{
-	width:60%;
+	max-width:250px;
 	min-height:400px;
 	background:#333;
 	overflow:auto;
