@@ -47,7 +47,7 @@ var title = 'JP';
 var radioName = 'AMAZÔNIA FM';
                 
                 
-var host = "https://s18.maxcast.com.br:8707/live";
+var host = "https://ice01.kshost.com.br:8000/live";
 
 function getUrlVars() {
     var vars = {};

@@ -13,7 +13,7 @@ function initAudio(element){
     var artist = element.attr('artist');
 
 	//Create a New Audio Object
-	audio = new Audio('https://ice01.kshost.com.br:8000/live' + song);
+	audio = new Audio('https://s18.maxcast.com.br:8707/live' + song);
 	
 	if(!audio.currentTime){
 		$('#duration').html('0.00');
