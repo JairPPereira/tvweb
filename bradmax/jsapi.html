@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>bradmax player javascript api example</title>
+    <script src="bradmax_player.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <div id="player" style="width: 955px; height: 397px;"></div>
+    <script type="text/javascript">
+
+        var playerConfigBase64 = "eyJkYXRhUHJvdmlkZXIiOnsidGl0bGUiOiJUZWFycyBvZiBzdGVlbCIsImR1cmF0aW9uIjo3MzQuMDk3NDE1LCJzb3VyY2UiOlt7ImNvbnRlbnRUeXBlIjoibW92aWUiLCJ1cmwiOiJodHRwOi8vYnJhZG1heC5jb20vc3RhdGljL3ZpZGVvL3RlYXJzX29mX3N0ZWVsLm1wNCIsImJpdHJhdGUiOjE5MTk5OSwid2lkdGgiOjEyODAsImhlaWdodCI6NTM0fV0sInNwbGFzaEltYWdlcyI6W3sidXJsIjoiaHR0cDovL2JyYWRtYXguY29tL3N0YXRpYy9pbWFnZXMvc3RhcnRzcGxhc2guanBnIiwid2lkdGgiOjk1NSwiaGVpZ2h0IjozOTd9XX19";
+
+        function removePlayer()
+        {
+            window.bigsoda.player.destroy(player);
+        }
+
+        var element = document.getElementById("player");
+        var player = window.bigsoda.player.create(element, playerConfigBase64);
+        var jsapi = player.modules.JavascriptApi;
+
+        jsapi.on("close", removePlayer);
+
+        jsapi.add("VideoEvent.paused", onPause);
+        jsapi.add("VideoEvent.currentTimeChange", onCurrentTimeChange);
+        jsapi.add("VideoEvent.complete", onComplete);
+        jsapi.add("DataProviderEvent.mediaMetadataData", onNewMovieSet);
+
+        //movie data recived by player
+
+        function onNewMovieSet(e) {
+            console.log("player.jsapi.onNewMovieSet");
+            jsapi.remove("VideoEvent.playing", onPlay);
+            jsapi.addOnce("VideoEvent.playing", onFirstPlay);
+        }
+
+        //first play event
+        function onFirstPlay(e) {
+            console.log("player.jsapi.onFirstPlay");
+            jsapi.add("VideoEvent.playing", onPlay);
+        }
+
+        //play event, does not triggered with first play
+        function onPlay(e) {
+            console.log("player.jsapi.onPlay");
+        }
+
+        //pause event
+        function onPause(e) {
+            console.log("player.jsapi.onPause");
+        }
+
+        //movie progress event
+        function onCurrentTimeChange(e) {
+            console.log("player.jsapi.onCurrentTimeChange");
+        }
+
+        //movie complete event
+        function onComplete(e) {
+            console.log("player.jsapi.onComplete");
+        }
+
+    </script>
+    <br/>
+    <button onclick="jsapi.play()">play</button>
+    <button onclick="jsapi.pause()">pause</button>
+    <button onclick="removePlayer()">remove player</button>
+
+    <div style="margin-top:40px; font-family: sans-serif, Arial;">
+        <a href="https://bradmax.com/static/player-doc" target="_blank">Read player on-line documentation</a>
+    </div>
+
+    <h6>© Copyright Bradmax Ltd. 2022</h6>
+    <noscript>Your browser does not support JavaScript!</noscript>
+</body>
+
+</html>
