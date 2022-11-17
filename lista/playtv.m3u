@@ -2887,11 +2887,6 @@ https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2009%20-%20
 https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2010%20-%20Escaladores%20%28Dublado%29.mp4
 
 
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml"
-
-#EXTINF:-1 tvg-logo="https://imgur.com/0FVjFVd.png" group-title="ALERTA",NOVO LINK DA LISTA ESCANEIE O QR CODE!
-https://i.imgur.com/XKJJdal.mp4
-
 #EXTINF:-1 tvg-chno="01" tvg-id="Tvbrasil.br" tvg-logo="https://i.imgur.com/kLWg5sp.png" group-title="TV", TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
@@ -2919,14 +2914,9 @@ http://50.7.34.155:2200/BR/TV_Bahia_HD-br/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="11.2" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/9gIiEvG.png" group-title="TV",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-id="RecordTV Itapoan" tvg-logo="https://imgur.com/xmAzIRn.png" group-title="TV",RecordTV BAHIA
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 
-#EXTINF:-1 tvg-chno="12.2" tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/HcdW6B4.png" tvg-shift="0" group-title="TV",RecordTV
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/IZXPrli.png" tvg-shift="0" group-title="TV",RECORD NEWS
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://imgur.com/3zZVFPD.png" group-title="TV",TV GAZETA
 http://origin-02.nxplay.com.br/TV_GAZETA_NX/index.m3u8
