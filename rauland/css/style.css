@@ -12,7 +12,7 @@
 }
 
 #container{
-	max-width:250px;
+	max-width:240px;
 	min-height:400px;
 	background:#333;
 	overflow:auto;
@@ -62,10 +62,10 @@ input#volume::-webkit-slider-thumb {
 }
 
 #buttons{
-	width:90%;
+	width:80%;
 	display: block;
-    margin: 15px auto;
-	margin-left:23px;
+    margin: 10px auto;
+	margin-left:40px;
 	overflow:auto;
 }
 
@@ -147,7 +147,7 @@ button#next{
 	top:0;
 	right:10px;
 	padding:4px 8px;
-	background:#000;
+	background:rgb(195, 181, 181);
 	border-radius:5px;
 }
 
