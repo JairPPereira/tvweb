@@ -395,7 +395,7 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5f86fe5f3bd42e001ac65616_Dragon_Blade_B
 #EXTINF:-1 tvg-id="Como Hackear Seu Chefe" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sXIIGA2VeK1FAhd9c547kcBIryq.jpg" group-title="FILMES ONDEMAND",Como Hackear Seu Chefe
 https://video.wixstatic.com/video/e16db6_cd4f9ef80a624f45b6fb458074065b59/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-id="Desejo de Natal" tvg-logo="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/wj7XhEOlSeTO6Yh2m2Rpz08Nc5P.jpg" group-title="FILMES ONDEMAND",Desejo de Natal
+#EXTINF:-1 tvg-id="Desejo de Natal" tvg-logo="https://image.tmdb.org/t/p/w500//kSaEz6bcUKdnI8LLFaXBfbfCdBp.jpg" group-title="FILMES ONDEMAND",Desejo de Natal
 https://play.prod.gcp.vix.services/a-christmas-wish_pt/a-christmas-wish_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Fuga do Vulcão" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8BSo6rhPljuBKWiTQVbST07JkQF.jpg" group-title="FILMES ONDEMAND",Fuga do Vulcão
@@ -404,7 +404,7 @@ https://siloh.pluto.tv/c6009f_pluto/clip/603fb51405d744001a21f933_Airplane_vs_Vo
 #EXTINF:-1 tvg-id="Hellraiser: Renascido do Inferno" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gQsqWWy9ezNI2dOmTnICt2SS5Uz.jpg" group-title="FILMES ONDEMAND",Hellraiser: Renascido do Inferno
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_mx8ih37s/format/applehttp/protocol/https/flavorIds/1_5ockhd6v,1_0glp91vr,1_jnogvbat,1_2rzbzvpw,1_umvdd37o,1_t2jialyn,1_97es4oe7/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1667421027&id=6245&ip=167.249.209.179&override_expiration=1500&sign=mlfnO1mtPWyVGAprscpuNGqU3JddrMA%2Bj3BoECEUrSU%3D&playSessionId=a1ec7d8d-33b2-e65b-26b5-c46bc1269ae5:be9bfb57-796d-22aa-01cf-eba77267477d&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2hlbGxyYWlzZXItcmVuYXNjaWRvLWRvLWluZmVybm8=&clientTag=html5:v7.54
 
-#EXTINF:-1 tvg-id="No Rastro da Bala" tvg-logo="https://www.themoviedb.org/t/p/w500_and_h282_face/g3U1WxugRItzMqlCM3LdcNnBHu0.jpg" group-title="FILMES ONDEMAND",No Rastro da Bala
+#EXTINF:-1 tvg-id="No Rastro da Bala" tvg-logo="https://image.tmdb.org/t/p/w500//p8pQ8NZATylXjfIGLpT2FO4LyV7.jpg" group-title="FILMES ONDEMAND",No Rastro da Bala
 https://play.prod.gcp.vix.services/running-scared_pt/running-scared_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Lâminas da Morte - A Maldição de Jack, o Estripador" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nLv9BtevXUGzoXcjaO47o0uUjQT.jpg" group-title="FILMES ONDEMAND",Lâminas da Morte - A Maldição de Jack, o Estripador
@@ -1371,10 +1371,6 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="Música",RADIO 21
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
-
-#EXTINF:-1 tvg-logo="https://imgur.com/rBsqH2f.png" group-title="ATUALIZADA EM 13-11-22",ATUALIZADA EM 13-11-22
-http://swqwqqqw.com
 
 
 
