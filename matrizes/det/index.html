@@ -1,0 +1,453 @@
+
+<!doctype html>
+<html lang="pt" dir="ltr" manifest="dozapro.appcache">
+	<meta charset="utf-8">
+	
+		<!-- top with site name -->
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+
+	<!-- logo icon -->
+	<link rel="shortcut icon" href="/menu/img/favicon.ico" type="image/x-icon"/>
+	<link rel="apple-touch-icon" href="/menu/img/icon.ico" />
+	<link rel="apple-touch-icon" sizes="192x192" href="/menu/img/icon_apple.png">
+	<meta name="msapplication-TileImage" content="/menu/img/icon_apple.png">
+	
+	<link rel="icon" type="image/png" sizes="192x192" href="/menu/img/icon_apple.png">
+	<link rel="icon" type="image/png" sizes="128x128" href="/menu/img/icon_128.png">
+	<link rel="icon" type="image/png" sizes="64x64" href="/menu/img/icon_64.png">
+	<link rel="icon" type="image/png" sizes="56x56" href="/menu/img/icon_56.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="/menu/img/icon_48.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/menu/img/icon_32.png">
+
+	<!-- styles css -->
+	<link rel="stylesheet" type="text/css" href="/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="/css/structure.css">
+	<link rel="stylesheet" type="text/css" href="/css/media-structure.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<link rel="stylesheet" type="text/css" href="/css/media-style.css">
+	<link rel="stylesheet" type="text/css" href="/css/menu.css">	<!-- top menu including option for mobile devices -->
+	<link rel="stylesheet" type="text/css" href="/modules/lightbox/dist/css/lightbox.css">	<!-- connect the module to view images -->
+	<link rel="stylesheet" href="/css/jquery.modal.css" /><!-- modal windows -->
+	
+<!-- variables for home page paths and for other pages -->
+	
+
+	<!-- основной файл стилей для матриц -->
+	<link rel="stylesheet" type="text/css" href="/art/math/matrix/css/style_matrix.css" >
+
+	<script defer="" src="/art/math/matrix/js/pt/title-matrix-pt.js"></script>
+	<script defer="" src="/art/math/matrix/js/calculation.js"></script>	
+
+	<title>O determinante da matriz</title>
+	<meta name="title" content="O determinante da matriz">
+
+    <meta name="keywords" content="o determinante da matriz do método de Gauss da calculadora on-line de governar os triângulos da regra de Sarrius usando a fórmula de Leibniz usando o método de Gauss-Montante (algoritmo de Barej)">
+    <meta name="description" content="Calculadora on-line irá ajudá-lo a aprender a encontrar o determinante da matriz de várias maneiras. O serviço fornece uma sequência de soluções com explicações e comentários." />    
+    
+    <link rel="canonical" href="https://doza.pro/art/math/matrix/pt/det" />  <!-- ссылка для поисковика -->
+	
+		<link rel="alternate" hreflang="ru" href="https://doza.pro/art/math/matrix/det">	
+	<link rel="alternate" hreflang="ar" href="https://doza.pro/art/math/matrix/ar/det">
+	<link rel="alternate" hreflang="bg" href="https://doza.pro/art/math/matrix/bg/det">
+	<link rel="alternate" hreflang="cs" href="https://doza.pro/art/math/matrix/cs/det">
+	<link rel="alternate" hreflang="de" href="https://doza.pro/art/math/matrix/de/det">
+	<link rel="alternate" hreflang="en" href="https://doza.pro/art/math/matrix/en/det">
+	<link rel="alternate" hreflang="es" href="https://doza.pro/art/math/matrix/es/det">
+	<link rel="alternate" hreflang="fr" href="https://doza.pro/art/math/matrix/fr/det">
+	<link rel="alternate" hreflang="hi" href="https://doza.pro/art/math/matrix/hi/det">
+	<link rel="alternate" hreflang="it" href="https://doza.pro/art/math/matrix/it/det">
+	<link rel="alternate" hreflang="ja" href="https://doza.pro/art/math/matrix/ja/det">
+	<link rel="alternate" hreflang="mk" href="https://doza.pro/art/math/matrix/mk/det">
+	<link rel="alternate" hreflang="no" href="https://doza.pro/art/math/matrix/no/det">
+	<link rel="alternate" hreflang="pt" href="https://doza.pro/art/math/matrix/pt/det">
+	<link rel="alternate" hreflang="tr" href="https://doza.pro/art/math/matrix/tr/det">
+	<link rel="alternate" hreflang="vi" href="https://doza.pro/art/math/matrix/vi/det">
+	<link rel="alternate" hreflang="zh" href="https://doza.pro/art/math/matrix/zh/det">
+	<link rel="alternate" hreflang="fa" href="https://doza.pro/art/math/matrix/fa/det">
+	<link rel="alternate" hreflang="hu" href="https://doza.pro/art/math/matrix/hu/det">
+	<link rel="alternate" hreflang="ro" href="https://doza.pro/art/math/matrix/ro/det">
+	<link rel="alternate" hreflang="pl" href="https://doza.pro/art/math/matrix/pl/det"><!-- альтернативные страницы на другом языке -->
+	   
+	<link rel="image_src" href="https://doza.pro/art/math/matrix/img/det-0-1.jpg" />	
+	
+    <link rel="author" href="https://plus.google.com/u/0/111630351641303464636" />  
+	
+</head>
+<body class=""> 
+	<div class="container">
+		
+			
+	<noscript>
+		<p style="text-align: center;">Para a funcionalidade completa do site, é desejável habilitar o JavaScript nas configurações do seu navegador.</p><br>
+	</noscript>
+			
+		<header>
+			<div class="header-img-box">
+				
+				<div class="logo-site-box">
+					<p>Matrizes</p>				</div>	<!-- /logo-site-box -->
+			</div>	<!-- /header-img-box -->
+
+			<nav class="menu-up-box-2 ">
+				<ul class="topmenu">
+					<li>
+						<a class="submenu-link">Geometria</a>
+						<ul class="submenu">
+							
+	<li><a href="/art/math/geometry/pt/area-parallelogram">A área do paralelogramo</a></li>
+	<li><a href="/art/math/geometry/pt/area-rectangle">Área do retângulo</a></li>
+	<li><a href="/art/math/geometry/pt/area-rhombus">Área de um losango</a></li>
+	<li><a href="/art/math/geometry/pt/area-square">Área de um quadrado</a></li>
+	<li><a href="/art/math/geometry/pt/area-trapezium">Área do trapézio</a></li>
+	<li><a href="/art/math/geometry/pt/area-triangle">A área do triângulo</a></li>
+	<li><a href="/art/math/geometry/pt/area-circle">Área do círculo</a></li>
+	<li><a href="/art/math/geometry/pt/area-tetragon">Quadrangle area</a></li>
+	<li><a href="/art/math/geometry/pt/trig-formulas">Fórmulas de trigonometria</a></li>		
+						</ul><!-- /submenu-->	
+					</li>				
+
+					<li>
+						<a class="submenu-link">Álgebra</a>
+						<ul class="submenu">
+							
+	<li><a href="/art/math/algebra/pt/mt">Tabela de multiplicação</a></li>
+	<li><a href="/art/math/algebra/pt/table-squares">Tabela de praças</a></li>
+	<li><a href="/art/math/algebra/pt/table-cubes">Tabela de cubos</a></li>
+	<li><a href="/art/math/algebra/pt/table-degrees">Tabela de graus</a></li>
+	<li><a href="/art/math/algebra/pt/sin">Tabela de senos, cossenos ...</a></li>
+	<li><a href="/art/math/algebra/pt/reduced-mult">Fórmulas de multiplicação resumida</a></li>
+	<li><a href="/art/math/geometry/pt/trig-formulas">Fórmulas de trigonometria</a></li>
+						</ul><!-- /submenu-->	
+					</li>			
+
+					<li>
+						<a class="submenu-link">Matemática superior</a>
+						<ul class="submenu">
+							
+	<li><a href="/art/math/matrix/pt/calcs">Calculadora Matrix</a></li>
+	<li><a href="/art/math/matrix/pt/det">O determinante da matriz</a></li>
+	<li><a href="/art/math/matrix/pt/slur">Sistema de equações lineares</a></li>
+						</ul>	
+					</li>
+					
+					<li>
+						<a class="submenu-link">De outros</a>
+						<ul class="submenu">
+							
+	<li><a href="/art/calcs/pt/age">Anos calculadora</a></li>		
+						</ul>	
+					</li>					
+				</ul>	<!-- //topmenu -->
+
+
+				<!-- ***************************************************************** -->
+				<!--  Menu for mobile devices  -->
+				<!-- ***************************************************************** -->
+				<a href="" class="menu-mobile-title modal-menu-mobile">
+					<img class="img-float-left" src="/menu/img/short-menu-big.png" width="45" height="45" alt="mobile menu" title="" />
+				</a>
+				<div class="menu-mobile">			
+				<ul id="accordion" class="accordion">
+					<li><div class="top-close-2"><a href="#" class="close-2">Fechar</a></div></li>				  
+					<li>
+						<a class="link">Geometria</a>
+						<ul class="submenu-acord">
+							
+	<li><a href="/art/math/geometry/pt/area-parallelogram">A área do paralelogramo</a></li>
+	<li><a href="/art/math/geometry/pt/area-rectangle">Área do retângulo</a></li>
+	<li><a href="/art/math/geometry/pt/area-rhombus">Área de um losango</a></li>
+	<li><a href="/art/math/geometry/pt/area-square">Área de um quadrado</a></li>
+	<li><a href="/art/math/geometry/pt/area-trapezium">Área do trapézio</a></li>
+	<li><a href="/art/math/geometry/pt/area-triangle">A área do triângulo</a></li>
+	<li><a href="/art/math/geometry/pt/area-circle">Área do círculo</a></li>
+	<li><a href="/art/math/geometry/pt/area-tetragon">Quadrangle area</a></li>
+	<li><a href="/art/math/geometry/pt/trig-formulas">Fórmulas de trigonometria</a></li>		
+						</ul>	
+					</li>
+
+					<li>
+						<a class="link">Álgebra</a>
+						<ul class="submenu-acord">
+							
+	<li><a href="/art/math/algebra/pt/mt">Tabela de multiplicação</a></li>
+	<li><a href="/art/math/algebra/pt/table-squares">Tabela de praças</a></li>
+	<li><a href="/art/math/algebra/pt/table-cubes">Tabela de cubos</a></li>
+	<li><a href="/art/math/algebra/pt/table-degrees">Tabela de graus</a></li>
+	<li><a href="/art/math/algebra/pt/sin">Tabela de senos, cossenos ...</a></li>
+	<li><a href="/art/math/algebra/pt/reduced-mult">Fórmulas de multiplicação resumida</a></li>
+	<li><a href="/art/math/geometry/pt/trig-formulas">Fórmulas de trigonometria</a></li>
+						</ul>	
+					</li>					
+
+					<li>
+						<a class="link">Matemática superior</a>
+						<ul class="submenu-acord">
+							
+	<li><a href="https://jairppereira.github.io/matrizes/calcs/">Calculadora Matrix</a></li>
+	<li><a href="https://jairppereira.github.io/matrizes/det/">O determinante da matriz</a></li>
+	<li><a href="https://jairppereira.github.io/matrizes/slur/">Sistema de equações lineares</a></li>
+						</ul>	
+					</li>	
+									
+					<li>
+						<a class="link">De outros</a>
+						<ul class="submenu-acord">
+							
+	<li><a href="/art/calcs/pt/age">Anos calculadora</a></li>		
+								
+						</ul>					
+					</li>
+
+				</ul>
+				</div> <!--// Menu for mobile devices -->			
+			</nav>	
+							
+			<!-- mask -->	
+			<div class="mask-2"></div>		
+			<div class="end"></div>										
+		</header>	
+
+		<div class="content">
+			<div class="content-box">
+				<div class="page-menu">				
+					<p>O determinante da matriz</p>
+				</div>
+				
+								<div class="language-box ">
+					<span>Linguagem:</span>
+					<ul class="topmenu">			  
+						<li>
+							<a class="submenu-link" >Portugues&ensp;<span id="pt">&emsp;&ensp;&ensp;&ensp;</span></a>
+							<div class="submenu">
+								
+								<span class="submenu-col">
+									<ul>
+										<li id="ar"><a href="/art/math/matrix/ar/det">العربية</a></li>
+										<li id="bg"><a href="/art/math/matrix/bg/det">български</a></li>
+										<li id="cs"><a href="/art/math/matrix/cs/det">Česky</a></li>
+										<li id="de"><a href="/art/math/matrix/de/det">Deutsch</a></li>
+										<li id="en"><a href="/art/math/matrix/en/det">English</a></li>
+										<li id="es"><a href="/art/math/matrix/es/det">Español</a></li>
+										<li id="fa"><a href="/art/math/matrix/fa/det">فارسی</a></li>
+										
+									</ul>
+								</span>	
+								<span class="submenu-col">
+									<ul>									
+										<li id="fr"><a href="/art/math/matrix/fr/det">Français</a></li>
+										<li id="hi"><a href="/art/math/matrix/hi/det">हिन्दी</a></li>
+										<li id="hu"><a href="/art/math/matrix/hu/det">magyar</a></li>
+										<li id="it"><a href="/art/math/matrix/it/det">italiano</a></li>
+										<li id="ja"><a href="/art/math/matrix/ja/det">日本語</a></li>
+										<li id="mk"><a href="/art/math/matrix/mk/det">Македонски</a></li>
+										<li id="no"><a href="/art/math/matrix/no/det">Norsk</a></li>
+									</ul>
+								</span>	
+								<span class="submenu-col">
+									<ul>
+										<li id="pl"><a href="/art/math/matrix/pl/det">Polski</a></li>
+										<li id="pt"><a href="/art/math/matrix/pt/det">Portugues</a></li>
+										<li id="ro"><a href="/art/math/matrix/ro/det">românesc</a></li>
+										<li id="ru"><a href="/art/math/matrix/det">Русский</a></li>
+										<li id="tr"><a href="/art/math/matrix/tr/det">Türk</a></li>
+										<li id="vi"><a href="/art/math/matrix/vi/det">Tiếng Việt</a></li>
+										<li id="zh"><a href="/art/math/matrix/zh/det">中國</a></li>
+
+									</ul>
+								</span>										
+									
+							</div>
+						</li>					
+					</ul>	
+				</div><!-- /.language-box -->
+		
+				<div class="end"></div>
+				<div class="fon"></div><br>
+				
+				<div class="caption-h1">
+					<h1>O determinante da matriz</h1>
+				</div>	<!-- /caption-h1 -->
+
+				<div class="reclame-adaptive-art">
+	<!-- адаптивный блок 1 -->
+	<ins class="adsbygoogle"
+		 style="display:block"
+		 data-ad-client="ca-pub-7091221916505615"
+		 data-ad-slot="4991437654"
+		 data-ad-format="auto"
+		 data-full-width-responsive="true"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>					
+
+				<div class="art">
+				
+					<div id="bigtable">
+						<main id="right">						
+							<form class="main">
+								<div>
+									<div class="tdmatrix">
+										<fieldset>
+											<legend align="center">Matriz A:</legend>
+											<div class="insert-table" data-id="A" data-sizes="3x3" data-type="simple" dropzone="copy string:text/plain" title="Matriz A:"></div>
+										</fieldset>
+										
+										<hr class="line-of-separation-3">
+
+										<div class="bbox det-buttons">
+										  <div><span class="button-before-input"><button type="button" class="expression-button" data-expression="A expand-along-column k">Ordenar por coluna</button><input type="number" min="1" step="1" value="1" id="k-A-e-c" name="k-A-e-c"></span></div>
+										  <div><span class="button-before-input"><button type="button" class="expression-button" data-expression="A expand-along-row k">Expandir por linha</button><input type="number" min="1" step="1" value="1" id="k-A-e-r" name="k-A-e-r"></span></div>
+										  <div><span class="button-before-input"><button type="button" class="expression-button" data-expression="A obtain-zeros-in-column k">Obter os zeros na coluna</button><input type="number" min="1" step="1" value="1" id="k-A-o-c" name="k-A-o-c"></span></div>
+										  <div><span class="button-before-input"><button type="button" class="expression-button" data-expression="A obtain-zeros-in-row k">Obter zeros seguidos</button><input type="number" min="1" step="1" value="1" id="k-A-o-r" name="k-A-o-r"></span></div>
+										</div>											
+									</div>
+
+								</div>
+							</form>
+
+							<div class="line">
+								<div>
+									<br>
+									<div class="text-align-right">
+										<button type="button" class="clear-all-button" style="color: red;">Excluir todas as soluções</button>
+									</div>
+								</div>
+							</div>
+							<p>Solução:</p>
+							<br>
+							<section id="resdiv" aria-live="polite"></section>				
+						</main>
+
+					</div><!--/#bigtable -->
+					<br>
+					<div class="from-cookie" data-example="data-example"></div>
+					<br>
+					<hr class="line-of-separation-2">
+					<br>		
+					<!-- строка с наименованием вкладок -->														
+					<div class="feature-box">
+						<ul class="feature-title">
+							<li><a id="feature-1">Descrição</a></li>
+							<li><a id="feature-2">Como usar</a></li>
+						</ul>													
+						<!-- содержание вкладок -->		
+							<!-- Описание -->										
+						<div class="feature-content" id="feature-content-1">
+							<p>Esta calculadora ajudará você a aprender como encontrar o determinante da matriz de várias maneiras:</p>
+								<ul class="list-box">
+									<li>usando o método de Gauss</li>
+									<li>Usando a regra dos triângulos</li>
+									<li>pela Regra de Sarrius</li>
+									<li>usando a fórmula de Leibniz</li>
+									<li>pelo método de Gauss-Montante (o algoritmo de Bareys)</li>
+								</ul>
+							<p>Nosso serviço não só permite que você obtenha um matador, mas também fornece uma sequência de soluções com comentários e explicações on-line, gratuitamente. Além disso, uma calculadora pode ser útil para verificar a exatidão da solução auto-executada.</p>
+						</div>
+
+							<!-- Как пользоваться -->	
+						<div class="feature-content" id="feature-content-2">
+							<p>Preencha os campos para os elementos da matriz e clique no botão correspondente.</p>
+							<ul class="list-box">
+								<li>Use + e - para selecionar o tamanho da matriz desejado. Se você precisar de uma matriz não quadrada, deixe as células desnecessárias vazias.</li>
+								<li>Digite o valor dos elementos da matriz nas células. Os valores podem ser:									<ul class="list-box-2">
+										<li>inteiros: <code>7</code>, <code>-3</code>, <code>0</code></li>
+										<li>frações decimais (finitas e periódicas): <code>7/8</code>, 	<code>6.13</code>, <code>-1.3(56)</code>, <code>1.2e-4</code> </li>
+										<li>expressões aritméticas: <code>1/2+3*(6-4)</code>, <code>(6-y)/x^3</code>, <code>2^0.5</code></li>
+									</ul>
+								</li>
+								<li>Clique no botão com o nome da operação matemática requerida.</li>
+								<li>Valores nos resultados da solução podem ser arrastados com o mouse para diferentes campos. Por exemplo, a matriz resultante pode arrastar-se os dados brutos para outras soluções.</li>
+							</ul>
+						</div>
+					</div>	<!-- /.feature-box -->																			
+																				
+				</div>	<!-- /art -->
+				
+			</div>	<!-- /content-box -->
+		</div>	<!-- /content -->
+		
+		<!-- *** check for phrases - Share link and comments  ***-->  	
+
+
+	<br>
+	<!-- Block with links to social networks - Yandex option -->
+	<center>
+		<div class="ikon-social-box">	
+			<div class="ikon-social">
+				<p>Compartilhe este link:</p>
+				<script async src="/js/social_networks_yandex/share.js"></script>				
+				<div class="ya-share2" 
+					data-services="facebook,twitter,linkedin,telegram,whatsapp,skype,sinaWeibo,blogger,evernote,viber,tencentWeibo"
+					data-lang = "en"
+					data-title = "O determinante da matriz"
+					data-description = "Calculadora on-line irá ajudá-lo a aprender a encontrar o determinante da matriz de várias maneiras. O serviço fornece uma sequência de soluções com explicações e comentários."
+					data-image = "det-0-1.jpg"
+					data-url = ""
+					data-size="m" data-limit="7" data-popup-direction="top">
+				</div>
+			</div>
+			<hr class="line-of-separation-5">	
+			
+			<!-- reсlame-recomend-content google -->
+			<br>
+			<div class="reclame-adaptive-art" style="width: 98%;">
+	<ins class="adsbygoogle"
+		 style="display:block"
+		 data-ad-format="autorelaxed"
+		 data-ad-client="ca-pub-7091221916505615"
+		 data-ad-slot="7488574640"></ins>
+	<script>
+		 (adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>	
+			<br>		
+			
+		</div><!-- //.ikon-social-box -->
+	</center>
+	
+	<!-- The bottom block of the site with an information bar, statistics and links -->
+	<footer>	
+		<a href="/w/pt/" title="Principal"><p style="font-size: 80%; margin-left: 2em;">Matrizes</p></a><!-- Exchange Rates  -->
+
+		<aside class="counter">
+			
+		</aside>
+	</footer> 
+
+	<!-- Authorship of an article -->     
+	<span itemscope itemtype="http://schema.org/Person"><!-- authorship -->
+		<meta itemprop="name" content="7AS5TOMTGBJAY3272IT3MNDLFLKO6INI6">
+	</span>
+
+	<p id="back-top"><a href="#top"><span></span></a></p>	<!-- page scroll button -->
+
+	<!-- modules JS-->
+	<script src="/modules/jquery-3.2.1.min.js"></script><!-- jquery -->
+	<script src="/modules/jquery.lazyloadxt.js"></script><!-- delayed image loading - data-src -->
+	<script async src="/js/modules.js"></script><!-- common individual scripts -->
+	<script async src="/modules/lightbox/dist/js/lightbox.min.js"></script><!-- connect the module to view images -->
+	<script src="/modules/jquery.modal.min.js"></script><!-- modal windows -->
+	
+	<!-- site statistics -->
+		<script async src="/js/google_statistics.js"></script><!-- statistics Google - this is the first file - the second file in - statistics.js -->	
+		<script async src="/js/statistics.js"></script>
+	<!-- //site statistics -->
+	
+	<!-- ad -->
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ad script google -->
+		<!-- mobile ad script google -->
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({
+				google_ad_client: "ca-pub-7091221916505615",
+				enable_page_level_ads: true
+			});
+		</script>
+	<!-- ad -->			
+		
+	</div> <!-- /container -->
+</body>
+</html>

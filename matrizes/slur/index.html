@@ -1,0 +1,361 @@
+
+<!doctype html>
+
+
+<html lang="pt" manifest="dozapro.appcache" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	
+		<!-- top with site name -->
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+
+	<!-- logo icon -->
+	<link rel="shortcut icon" href="/menu/img/favicon.ico" type="image/x-icon"/>
+	<link rel="apple-touch-icon" href="/menu/img/icon.ico" />
+	<link rel="apple-touch-icon" sizes="192x192" href="/menu/img/icon_apple.png">
+	<meta name="msapplication-TileImage" content="/menu/img/icon_apple.png">
+	
+	<link rel="icon" type="image/png" sizes="192x192" href="/menu/img/icon_apple.png">
+	<link rel="icon" type="image/png" sizes="128x128" href="/menu/img/icon_128.png">
+	<link rel="icon" type="image/png" sizes="64x64" href="/menu/img/icon_64.png">
+	<link rel="icon" type="image/png" sizes="56x56" href="/menu/img/icon_56.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="/menu/img/icon_48.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/menu/img/icon_32.png">
+
+	<!-- styles css -->
+	<link rel="stylesheet" type="text/css" href="https://jairppereira.github.io/matrizes/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="https://jairppereira.github.io/matrizes/css/structure.css">
+	<link rel="stylesheet" type="text/css" href="https://jairppereira.github.io/matrizes/css/media-structure.css">
+	<link rel="stylesheet" type="text/css" href="https://jairppereira.github.io/matrizes/css/style.css">
+	<link rel="stylesheet" type="text/css" href="https://jairppereira.github.io/matrizes/css/media-style.css">
+	<link rel="stylesheet" type="text/css" href="https://jairppereira.github.io/matrizes/css/menu.css">	<!-- top menu including option for mobile devices -->
+	<link rel="stylesheet" type="text/css" href="https://jairppereira.github.io/matrizes/modules/lightbox/dist/css/lightbox.css">	<!-- connect the module to view images -->
+	<link rel="stylesheet" href="https://jairppereira.github.io/matrizes/css/jquery.modal.css" /><!-- modal windows -->
+	
+<!-- variables for home page paths and for other pages -->
+	
+
+	<!-- основной файл стилей для матриц -->
+	<link rel="stylesheet" type="text/css" href="https://jairppereira.github.io/matrizes/art/math/matrix/css/style_matrix.css" >
+
+	<script defer="" src="https://jairppereira.github.io/matrizes/art/math/matrix/js/pt/title-matrix-pt.js"></script>
+	<script defer="" src="https://jairppereira.github.io/matrizes/art/math/matrix/js/calculation.js"></script>	
+
+	<title>Solução de sistemas de equações lineares</title>
+	<meta name="title" content="Solução de sistemas de equações lineares">
+
+    <meta name="keywords" content="solução de sistemas de equações lineares, de várias maneiras, passo a passo, on-line, de graça, com explicações de um estudo sobre a совместность, lineares de equações algébricas, o método, a regra de cramer, inversa de uma matriz, de gauss-монтанте, o algoritmo барейса, gauss, o método seqüencial de exclusão de variáveis, o método de жордана-gauss, gauss-жордана, o método de exclusão total desconhecido, com duas variáveis, матричным método, Кронекера-Capelli, o número de soluções">
+    <meta name="description" content="Solução de sistemas de equações lineares é encontrar o desconhecido variáveis incluídas na equação, ao fazer uma pesquisa de qual o sistema entra em igualdade." />    
+    
+    <link rel="canonical" href="https://doza.pro/art/math/matrix/pt/slur" />  <!-- ссылка для поисковика -->
+	
+		<link rel="alternate" hreflang="ru" href="https://doza.pro/art/math/matrix/slur">	
+	<link rel="alternate" hreflang="ar" href="https://doza.pro/art/math/matrix/ar/slur">
+	<link rel="alternate" hreflang="bg" href="https://doza.pro/art/math/matrix/bg/slur">
+	<link rel="alternate" hreflang="cs" href="https://doza.pro/art/math/matrix/cs/slur">
+	<link rel="alternate" hreflang="de" href="https://doza.pro/art/math/matrix/de/slur">
+	<link rel="alternate" hreflang="en" href="https://doza.pro/art/math/matrix/en/slur">
+	<link rel="alternate" hreflang="es" href="https://doza.pro/art/math/matrix/es/slur">
+	<link rel="alternate" hreflang="fr" href="https://doza.pro/art/math/matrix/fr/slur">
+	<link rel="alternate" hreflang="hi" href="https://doza.pro/art/math/matrix/hi/slur">
+	<link rel="alternate" hreflang="it" href="https://doza.pro/art/math/matrix/it/slur">
+	<link rel="alternate" hreflang="ja" href="https://doza.pro/art/math/matrix/ja/slur">
+	<link rel="alternate" hreflang="mk" href="https://doza.pro/art/math/matrix/mk/slur">
+	<link rel="alternate" hreflang="no" href="https://doza.pro/art/math/matrix/no/slur">
+	<link rel="alternate" hreflang="pt" href="https://doza.pro/art/math/matrix/pt/slur">
+	<link rel="alternate" hreflang="tr" href="https://doza.pro/art/math/matrix/tr/slur">
+	<link rel="alternate" hreflang="vi" href="https://doza.pro/art/math/matrix/vi/slur">
+	<link rel="alternate" hreflang="zh" href="https://doza.pro/art/math/matrix/zh/slur">
+	<link rel="alternate" hreflang="fa" href="https://doza.pro/art/math/matrix/fa/slur">
+	<link rel="alternate" hreflang="hu" href="https://doza.pro/art/math/matrix/hu/slur">
+	<link rel="alternate" hreflang="ro" href="https://doza.pro/art/math/matrix/ro/slur">
+	<link rel="alternate" hreflang="pl" href="https://doza.pro/art/math/matrix/pl/slur"><!-- альтернативные страницы на другом языке -->
+	   
+	<link rel="image_src" href="https://doza.pro/art/math/matrix/img/slur-0-pt.jpg" />	
+	
+    <link rel="author" href="https://plus.google.com/u/0/111630351641303464636" />   
+	
+</head>
+<body class=""> 
+
+	<div class="container">
+		
+			
+	<noscript>
+		<p style="text-align: center;">Para a funcionalidade completa do site, é desejável habilitar o JavaScript nas configurações do seu navegador.</p><br>
+	</noscript>
+			
+		<header>
+			<div class="header-img-box">
+				
+				<div class="logo-site-box">
+					<p>Matrizes</p>				</div>	<!-- /logo-site-box -->
+			</div>	<!-- /header-img-box -->
+
+			<nav class="menu-up-box-2 ">
+				<ul class="topmenu">
+					<li>
+						<a class="submenu-link">Geometria</a>
+						<ul class="submenu">
+							
+	<li><a href="/art/math/geometry/pt/area-parallelogram">A área do paralelogramo</a></li>
+	<li><a href="/art/math/geometry/pt/area-rectangle">Área do retângulo</a></li>
+	<li><a href="/art/math/geometry/pt/area-rhombus">Área de um losango</a></li>
+	<li><a href="/art/math/geometry/pt/area-square">Área de um quadrado</a></li>
+	<li><a href="/art/math/geometry/pt/area-trapezium">Área do trapézio</a></li>
+	<li><a href="/art/math/geometry/pt/area-triangle">A área do triângulo</a></li>
+	<li><a href="/art/math/geometry/pt/area-circle">Área do círculo</a></li>
+	<li><a href="/art/math/geometry/pt/area-tetragon">Quadrangle area</a></li>
+	<li><a href="/art/math/geometry/pt/trig-formulas">Fórmulas de trigonometria</a></li>		
+						</ul><!-- /submenu-->	
+					</li>				
+
+					<li>
+						<a class="submenu-link">Álgebra</a>
+						<ul class="submenu">
+							
+	<li><a href="/art/math/algebra/pt/mt">Tabela de multiplicação</a></li>
+	<li><a href="/art/math/algebra/pt/table-squares">Tabela de praças</a></li>
+	<li><a href="/art/math/algebra/pt/table-cubes">Tabela de cubos</a></li>
+	<li><a href="/art/math/algebra/pt/table-degrees">Tabela de graus</a></li>
+	<li><a href="/art/math/algebra/pt/sin">Tabela de senos, cossenos ...</a></li>
+	<li><a href="/art/math/algebra/pt/reduced-mult">Fórmulas de multiplicação resumida</a></li>
+	<li><a href="/art/math/geometry/pt/trig-formulas">Fórmulas de trigonometria</a></li>
+						</ul><!-- /submenu-->	
+					</li>			
+
+					<li>
+						<a class="submenu-link">Matemática superior</a>
+						<ul class="submenu">
+							
+	<li><a href="https://jairppereira.github.io/matrizes/calcs/">Calculadora Matrix</a></li>
+	<li><a href="https://jairppereira.github.io/matrizes/det/">O determinante da matriz</a></li>
+	<li><a href="https://jairppereira.github.io/matrizes/slur/">Sistema de equações lineares</a></li>
+						</ul>	
+					</li>
+					
+					<li>
+						<a class="submenu-link">De outros</a>
+						<ul class="submenu">
+							
+	<li><a href="/art/calcs/pt/age">Anos calculadora</a></li>		
+						</ul>	
+					</li>					
+				</ul>	<!-- //topmenu -->
+
+
+				<!-- ***************************************************************** -->
+				<!--  Menu for mobile devices  -->
+				<!-- ***************************************************************** -->
+				<a href="" class="menu-mobile-title modal-menu-mobile">
+					<img class="img-float-left" src="/menu/img/short-menu-big.png" width="45" height="45" alt="mobile menu" title="" />
+				</a>
+				<div class="menu-mobile">			
+				<ul id="accordion" class="accordion">
+					<li><div class="top-close-2"><a href="#" class="close-2">Fechar</a></div></li>				  
+					<li>
+						<a class="link">Geometria</a>
+						<ul class="submenu-acord">
+							
+	<li><a href="/art/math/geometry/pt/area-parallelogram">A área do paralelogramo</a></li>
+	<li><a href="/art/math/geometry/pt/area-rectangle">Área do retângulo</a></li>
+	<li><a href="/art/math/geometry/pt/area-rhombus">Área de um losango</a></li>
+	<li><a href="/art/math/geometry/pt/area-square">Área de um quadrado</a></li>
+	<li><a href="/art/math/geometry/pt/area-trapezium">Área do trapézio</a></li>
+	<li><a href="/art/math/geometry/pt/area-triangle">A área do triângulo</a></li>
+	<li><a href="/art/math/geometry/pt/area-circle">Área do círculo</a></li>
+	<li><a href="/art/math/geometry/pt/area-tetragon">Quadrangle area</a></li>
+	<li><a href="/art/math/geometry/pt/trig-formulas">Fórmulas de trigonometria</a></li>		
+						</ul>	
+					</li>
+
+					<li>
+						<a class="link">Álgebra</a>
+						<ul class="submenu-acord">
+							
+	<li><a href="/art/math/algebra/pt/mt">Tabela de multiplicação</a></li>
+	<li><a href="/art/math/algebra/pt/table-squares">Tabela de praças</a></li>
+	<li><a href="/art/math/algebra/pt/table-cubes">Tabela de cubos</a></li>
+	<li><a href="/art/math/algebra/pt/table-degrees">Tabela de graus</a></li>
+	<li><a href="/art/math/algebra/pt/sin">Tabela de senos, cossenos ...</a></li>
+	<li><a href="/art/math/algebra/pt/reduced-mult">Fórmulas de multiplicação resumida</a></li>
+	<li><a href="/art/math/geometry/pt/trig-formulas">Fórmulas de trigonometria</a></li>
+						</ul>	
+					</li>					
+
+					<li>
+						<a class="link">Matemática superior</a>
+						<ul class="submenu-acord">
+							
+	<li><a href="https://jairppereira.github.io/matrizes/calcs/">Calculadora Matrix</a></li>
+	<li><a href="https://jairppereira.github.io/matrizes//det/">O determinante da matriz</a></li>
+	<li><a href="https://jairppereira.github.io/matrizes/slur/">Sistema de equações lineares</a></li>
+						</ul>	
+					</li>	
+									
+					<li>
+						<a class="link">De outros</a>
+						<ul class="submenu-acord">
+							
+	<li><a href="/art/calcs/pt/age">Anos calculadora</a></li>		
+								
+						</ul>					
+					</li>
+
+				</ul>
+				</div> <!--// Menu for mobile devices -->			
+			</nav>	
+							
+			<!-- mask -->	
+			<div class="mask-2"></div>		
+			<div class="end"></div>										
+		</header>	
+
+		<div class="content">
+			<div class="content-box">
+				<div class="page-menu">							
+					<p>equações lineares</p>
+				</div>
+								<div class="language-box ">
+					<span>Linguagem:</span>
+					<ul class="topmenu">			  
+						<li>
+							<a class="submenu-link" >Portugues&ensp;<span id="pt">&emsp;&ensp;&ensp;&ensp;</span></a>
+							<div class="submenu">
+								
+							
+					
+							</div>
+						</li>					
+					</ul>	
+				</div><!-- /.language-box -->
+		
+				<div class="end"></div>
+				<div class="fon"></div>				<div class="caption-h1">
+					<h1>Solução de sistemas de equações lineares</h1>
+				</div>	<!-- /caption-h1 -->
+		<br>
+				<div class="art">
+					<p>Solução de sistemas de equações lineares é encontrar o desconhecido variáveis incluídas na equação, ao fazer uma pesquisa de qual o sistema entra em igualdade.</p>
+					<p>Resolver o sistema de equações lineares pode ser de várias maneiras, por exemplo, o método de Cramer método ou Gause ou de outras formas. Usando o nosso serviço, você será capaz de graça no modo on-line para obter a solução com passo-a-passo as ações e explicações. Nossa a calculadora é também útil se você precisa testar executadas de forma independente do cálculo.</p>
+					<br>
+				
+					<div id="bigtable">
+						<main id="right">						
+							
+							<div class="decimal-fraction-digits-controls">
+								<label><input type="checkbox" id="decfraccheckbox">Decimal de saída</label>
+								<span hidden="" id="frdigitsspan">, <label>número de casas decimais: <input type="number" min="0" step="1" id="frdigits" value="2"></label></span>
+							</div>
+							<hr class="line-of-separation-2">
+
+							<form class="main-form" style="text-align: center">	
+							  <fieldset>
+								<div class="insert-table" data-id="A" data-sizes="3x4" data-type="system" dropzone="copy string:text/plain"></div>
+								<hr class="line-of-separation-1">
+							  </fieldset>
+							  <div class="bbox slu-buttons">
+								<div><button type="button" class="expression-button" data-expression="analyse-compatibility A">Explore para consistência</button></div>
+							  </div>
+							</form>
+
+							<div class="line">
+								<br>
+								<div>
+									<div class="text-align-right">
+										<button type="button" class="clear-all-button" style="color: red;">Apague todas as soluções</button>
+									</div>
+								</div>
+							</div>
+							<p>Solução:</p>
+							<br>
+							<section id="resdiv" aria-live="polite"></section>
+							
+						</main>
+
+					</div><!--/#bigtable -->
+					<br>
+					<div class="from-cookie" data-example="data-example"></div>
+					<br>
+					<hr class="line-of-separation-2">
+					<br>		
+					<!-- строка с наименованием вкладок -->														
+					<div class="feature-box">
+						<ul class="feature-title">
+							<li><a id="feature-1">Descrição</a></li>
+							<li><a id="feature-2">Como usar</a></li>		
+						<!--	<li><a id="feature-3">Немного теории</a></li>		-->													
+						</ul>													
+						<!-- содержание вкладок -->		
+							<!-- Описание -->										
+						<div class="feature-content" id="feature-content-1">
+							<p>Nosso serviço on-line nos permite resolver sistemas de equações algébricas lineares de várias maneiras:</p>
+							<ul class="list-box">
+								<li>pelo método de Cramer (regra de Cramer)</li>
+								<li>método da matriz inversa</li>
+								<li>pelo método Gauss-Montante (o algoritmo Bareys)</li>
+								<li>pelo método de Gauss (método de eliminação sequencial de variáveis)</li>
+								<li>pelo método de Gauss-Jordan (o método de eliminar completamente as incógnitas)</li>
+							</ul>
+							<p>Nesse caso, o serviço fornece uma seqüência de soluções, não apenas a resposta.</p>
+							<p>Além disso, você pode verificar o sistema de equações para compatibilidade.</p>
+					  	</div>
+
+							<!-- Как пользоваться -->	
+					  <div class="feature-content" id="feature-content-2">
+						
+						<ul class="list-box">
+							<li>Use os sinais <strong>+</strong> e <strong>-</strong> para especificar o número de variáveis necessárias na equação. Se a sua equação não incluir quaisquer incógnitas, então deixe os campos em branco (em branco).</li>
+							<li>Nas células, especifique os coeficientes (valores) para incógnitas. Se os dados iniciais indicar o valor x<sub>1</sub>, x<sub>2</sub> e assim por diante, na célula antes das incógnitas especificadas, especifique o valor 1.</li>
+							<li>Os valores para incógnitas podem ser:								<ul class="list-box-2">
+									<li>Inteiros: <code>7</code>, <code>-3</code>, <code>0</code></li>
+									<li>frações decimais (finitas e periódicas): <code>7/8</code>, 	<code>6.13</code>, <code>-1.3(56)</code>, <code>1.2e-4</code> </li>
+									<li>Expressões aritméticas: <code>1/2+3*(6-4)</code>, <code>(6-y)/x^3</code>, <code>2^0.5</code></li>
+								</ul>
+							</li>
+							<li>Em seguida, clique no botão com o nome da operação matemática necessária.</li>
+							<li>Os valores nos resultados da solução podem ser arrastados com o mouse para o campo de dados de origem.</li>
+						</ul>
+						<br>
+						</div>
+	
+					</div>																				
+																				
+				</div>	<!-- /art -->
+				
+			</div>	<!-- /content-box -->
+		</div>	<!-- /content -->
+		
+		<!-- *** check for phrases - Share link and comments  ***-->  	
+
+
+	<br>
+	<!-- Block with links to social networks - Yandex option -->
+
+	<!-- The bottom block of the site with an information bar, statistics and links -->
+	<footer>	
+	
+
+		<aside class="counter">
+			
+		</aside>
+	</footer> 
+
+
+
+	<p id="back-top"><a href="#top"><span></span></a></p>	<!-- page scroll button -->
+
+	<!-- modules JS-->
+	<script src="/modules/jquery-3.2.1.min.js"></script><!-- jquery -->
+	<script src="/modules/jquery.lazyloadxt.js"></script><!-- delayed image loading - data-src -->
+	<script async src="/js/modules.js"></script><!-- common individual scripts -->
+	<script async src="/modules/lightbox/dist/js/lightbox.min.js"></script><!-- connect the module to view images -->
+	<script src="/modules/jquery.modal.min.js"></script><!-- modal windows -->
+
+			
+	</div> <!-- /container -->
+</body>
+</html>

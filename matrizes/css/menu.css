@@ -1,0 +1,656 @@
+@charset "UTF-8";
+/* позиционируем блок на странице */
+.menu-up-box-2{
+	float: left;
+	width: 100%; /* делаем из блока полоску меню */
+	margin-bottom: 1em;
+	height: auto;
+	background: rgb(9, 140, 0);	
+	-webkit-box-shadow: 
+		0px 0px 0px 1px rgba(155,155,155,0.3), 
+		1px 0px 0px 0px rgba(255,255,255,0.9) inset, 
+		0px 2px 2px rgba(0,0,0,0.1);	
+	        box-shadow: 
+		0px 0px 0px 1px rgba(155,155,155,0.3), 
+		1px 0px 0px 0px rgba(255,255,255,0.9) inset, 
+		0px 2px 2px rgba(0,0,0,0.1);	
+}
+/*у списков ибираем маркеры и левый отступ*/
+.topmenu, .submenu, .submenu-col{
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+  padding-left: 0; /*убираем левый отступ, равный 40px*/	
+}
+.topmenu a, .submenu a, .submenu-col a{
+	text-decoration: none;/* у ссылок убираем подчеркивание */
+}
+/* делаем элементы списка плавающими для выравнивания в одну строку*/
+ul.topmenu > li {
+	float: left;
+	border-right: solid 1px #dddddd;	
+}
+ul.topmenu > li:last-child {
+	border-right: none;
+}
+/* растягиваем ссылку на всю величину полоски меню и оформляем пункты*/
+ul.topmenu > li > a {
+	display: block;
+	line-height: 2.5em; /*задаем высоту каждого пункта на полоске меню*/
+	padding: 0 0.8em; /*задаем ширину каждого пункта на полоске меню*/
+	font-size: 0.9em;
+	font-weight: 300;
+	color: #FFFFFF;
+	text-shadow: 1px 1px 2px #590000;
+	-webkit-transition: .3s linear;
+	-o-transition: .3s linear;
+	transition: .3s linear;
+	cursor: pointer;
+}
+
+/*цвет пункта на полоске меню при наведении курсора*/
+.menu-up-box-2 >.topmenu > li:hover > a, .submenu li:hover a, ul.topmenu > li a:active{
+	background:rgb(22, 67, 3);
+}
+
+
+/*цвет пункта при наведении курсора*/
+.topmenu > li:hover > a, .submenu li:hover a, ul.topmenu > li a:active{
+	background: rgba(62, 186, 0, 0.593);
+}
+
+/* скрываем выпадающее меню */
+.submenu{
+	-ms-transform: scaleY(0);
+	    transform: scaleY(0);
+	-moz-transform: scaleY(0);
+	-o-transform: scaleY(0);
+	-webkit-transform: scaleY(0);
+}
+/* офрмляем выпадающее меню */
+.submenu{
+	background: rgb(22, 67, 3);
+	position:absolute;
+	margin: 0;
+	width: auto;
+	height: auto;
+	opacity: 0;
+	z-index: 9999;
+	transition-property: opacity, visibility; /* задержка скрытия меню при убиарнии курсора */
+	-webkit-transform: scaleY(0);
+	    -ms-transform: scaleY(0);
+	        transform: scaleY(0);
+	-webkit-transform-origin: 0 0;
+	    -ms-transform-origin: 0 0;
+	        transform-origin: 0 0;
+	-webkit-transition: .6s ease-in-out;
+	-o-transition: .6s ease-in-out;
+	transition: .6s ease-in-out;
+    -webkit-box-shadow: 0 10px 20px -5px rgba(0,0,0,.8);
+            box-shadow: 0 10px 20px -5px rgba(0,0,0,.8);			
+	/* задержка скрытия меню при убиарнии курсора */
+	 -webkit-transition-delay: 0.3s;
+	 -o-transition-delay: 0.3s;
+	 -moz-transition-delay: 0.3s;
+	 transition-delay: 0.3s;
+}
+/* колонки шириной 50% в выпадающем меню*/
+.submenu-col{
+	float: left;
+	width: 50%;
+}
+/*вертикальная черта справа для первой колонки*/
+.submenu ul:first-child a{
+	border-right: solid 1px #ffffff;
+}
+/*вертикальная черта празрачная слева для последующих колонок*/
+.submenu ul:nth-child(2) a{
+	border-left: solid 1px  hsla(0,27%,98%,0.00);
+}
+.submenu a {
+	display: block;
+	white-space: nowrap; /*запрещаем перенос строки*/
+	line-height: 2.1em; /*задаем высоту каждого пункта*/
+	padding: 0 1em 0 1em; /*задаем ширину пункта на полоске меню*/
+	font-size: 0.8em;
+	letter-spacing: 0.05em; /*интервал между буквами*/
+	font-weight: 200;
+	color: white;
+	-webkit-transition: .3s linear;
+	-o-transition: .3s linear;
+	transition: .3s linear;
+	cursor: pointer;	
+	border-bottom: solid 1px #ffffff;	/* разделяем пункты полоской */
+}
+.submenu li:last-child a {
+	border-bottom: none; /* убираем подчеркиание у последнего элемента */
+}
+/* показываем выпадающее меню при наведении курсора на пукнкт */
+ul.topmenu > li:hover .submenu, ul.topmenu > li:active .submenu, ul.topmenu > li:focus .submenu{
+	display: block;
+	opacity: 1;
+	-ms-transform: scaleY(1);
+	    transform: scaleY(1);
+	-moz-transform: scaleY(1);
+	-o-transform: scaleY(1);
+	-webkit-transform: scaleY(1);	
+		 /* задержка при наведении курсора */
+	 -webkit-transition-delay: 0.25s;
+	 -o-transition-delay: 0.25s;
+	 -moz-transition-delay: 0.25s;
+	 transition-delay: 0.25s;
+
+}
+
+/*ссылка для меню на мобильных устройствах*/
+.menu-mobile-title{
+	display: none;
+}
+.menu-mobile{
+	display: none;
+}
+
+/*******  Меню с перечнем языковых исполнений стриницы   ********/
+/* общий контейнер с надписью и меню */
+.content .language-box {
+	float: right;
+	display: table;
+	vertical-align:middle;
+	width: auto;
+	margin: -0.3em 0 0 0;
+}	
+/* надпись Язык */
+.content .language-box > span {
+	line-height: 2.5em;
+	padding: 0 0.3em;
+	font-size: 0.9em;
+	vertical-align: middle;
+}
+
+/* пункт с названием языка */
+.content .language-box .topmenu {
+	float: right;
+	margin: 0;
+	text-align: left;
+}
+.content .language-box .topmenu .submenu-link{
+	min-width: 6em;
+	color: darkblue;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}	
+/*цвет заголовка при наведении курсора */
+.content .language-box .topmenu .submenu-link:hover, .content .language-box .topmenu .submenu-link:active, .content .language-box .topmenu .submenu-link:focus{
+	background-color: #FFFFFF;
+}
+/*цвет заголовка при наведении курсора на выпадающий пункт меню */
+.language-box .topmenu > li:hover > a{
+	background-color: #FFFFFF;
+}
+/* создаем якорь относительно которого бедеп позиионировано выподающе меню */
+.language-box .topmenu{
+	position: relative; 
+}
+/* скрываем выпадающее меню */
+.language-box .submenu{
+	-ms-transform: scaleY(0);
+	    transform: scaleY(0);
+	-moz-transform: scaleY(0);
+	-o-transform: scaleY(0);
+	-webkit-transform: scaleY(0);
+}
+
+#en, #fr, #de, #ru, #zh, #hi, #es, #it, #pt, #tr, #ar, #ja, #ko, #sv, 
+#id, #fa, #vi, #bg, #cs, #mk, #no, #pl, #ro, #uk, #el, #ka, #th, #hu, 
+#he, #az, #eu, #kz, #au, #gb, #by, #zh, #ch, #da, #se, #nl{
+	background-repeat: no-repeat;
+	background-size:auto;
+	background-position: right;	
+}
+.en, .fr, .de, .ru, .zh, .hi, .es, .it, .pt, .tr, .ar, .ja, .ko, .sv, 
+.id, .fa, .vi, .bg, .cs, .mk, .no, .pl, .ro, .uk, .el, .ka, .th, .hu, 
+.he, .az, .eu, .kz, .au, .gb, .by, .zh, .ch, .da, .se, .nl{
+	background-repeat: no-repeat;
+	background-size:auto;
+	background-position: right;	
+}
+
+#en, .en{background-image:url(/menu/img/flag/32/right/US.png);}
+#fr, .fr{background-image:url(/menu/img/flag/32/right/FR.png);}	
+#de, .de{background-image:url(/menu/img/flag/32/right/DE.png);}	
+#ru, .ru{background-image:url(/menu/img/flag/32/right/RU.png);}	
+#zh, .zh{background-image:url(/menu/img/flag/32/right/ZH.png);}
+#hi, .hi{background-image:url(/menu/img/flag/32/right/HI.png);}
+#es, .es{background-image:url(/menu/img/flag/32/right/ES.png);}
+#it, .it{background-image:url(/menu/img/flag/32/right/IT.png);}
+#pt, .pt{background-image:url(/menu/img/flag/32/right/PT.png);}
+#tr, .tr{background-image:url(/menu/img/flag/32/right/TR.png);}
+#ar, .ar{background-image:url(/menu/img/flag/32/right/AR.png);}
+#ja, .ja{background-image:url(/menu/img/flag/32/right/JA.png);}
+#ko, .ko{background-image:url(/menu/img/flag/32/right/KO.png);}
+#sv, .sv{background-image:url(/menu/img/flag/32/right/SV.png);}
+#id, .id{background-image:url(/menu/img/flag/32/right/ID.png);}
+#fa, .fa{background-image:url(/menu/img/flag/32/right/FA.png);}
+#vi, .vi{background-image:url(/menu/img/flag/32/right/VI.png);}
+#bg, .bg{background-image:url(/menu/img/flag/32/right/BG.png);}
+#cs, .cs{background-image:url(/menu/img/flag/32/right/CS.png);}
+#mk, .mk{background-image:url(/menu/img/flag/32/right/MK.png);}
+#no, .no{background-image:url(/menu/img/flag/32/right/NO.png);}
+#pl, .pl{background-image:url(/menu/img/flag/32/right/PL.png);}
+#ro, .ro{background-image:url(/menu/img/flag/32/right/RO.png);}
+#uk, .uk{background-image:url(/menu/img/flag/32/right/UK.png);}
+#el, .el{background-image:url(/menu/img/flag/32/right/EL.png);}
+#ka, .ka{background-image:url(/menu/img/flag/32/right/KA.png);}
+#th, .th{background-image:url(/menu/img/flag/32/right/TH.png);}
+#hu, .hu{background-image:url(/menu/img/flag/32/right/HU.png);}
+#he, .he{background-image:url(/menu/img/flag/32/right/HE.png);}
+#az, .az{background-image:url(/menu/img/flag/32/right/AZ.png);}
+#eu, .eu{background-image:url(/menu/img/flag/32/right/EU.png);}
+#kz, .kz{background-image:url(/menu/img/flag/32/right/KZ.png);}
+#au, .au{background-image:url(/menu/img/flag/32/right/AU.png);}
+#gb, .gb{background-image:url(/menu/img/flag/32/right/GB.png);}
+#be, .be{background-image:url(/menu/img/flag/32/right/BY.png);}
+#ch, .ch{background-image:url(/menu/img/flag/32/right/CH.png);}
+#da, .da{background-image:url(/menu/img/flag/32/right/DA.png);}	
+#se, .se{background-image:url(/menu/img/flag/32/right/SE.png);}
+#nl, .nl{background-image:url(/menu/img/flag/32/right/NL.png);}
+
+/* офрмляем выпадающее меню */
+.language-box .submenu{
+	margin: 0;
+	width: auto;
+	min-width:21em;	/*нужно увеличить при увеличении числа колонок -примерно 6 em на колонку*/
+	height: auto;	
+	position: absolute;
+	left: -14em; /*смещаем все выдающе мею вправо*/
+	opacity: 0;
+	transition-property: opacity, visibility; /* задержка скрытия меню при убиарнии курсора */
+	-webkit-transform: scaleY(0);
+	    -ms-transform: scaleY(0);
+	        transform: scaleY(0);
+	-webkit-transform-origin: 0 0;
+	    -ms-transform-origin: 0 0;
+	        transform-origin: 0 0;
+	-webkit-transition: 0.6s ease-in-out;
+	-o-transition: 0.6s ease-in-out;
+	transition: 0.6s ease-in-out;
+	background-color:hsla(0,0%,98%,1.00);	
+    -webkit-box-shadow: 0 10px 20px -5px rgba(0,0,0,1);	
+            box-shadow: 0 10px 20px -5px rgba(0,0,0,1);	
+	z-index: 9999;
+	border: solid 1px hsla(0,0%,87%,1.00);
+		/* задержка скрытия меню при убиарнии курсора */
+	 -webkit-transition-delay: 0.35s;
+	 -o-transition-delay: 0.35s;
+	 -moz-transition-delay: 0.35s;
+	 transition-delay: 0.35s;
+	
+}
+	/*меню языков для страниц таблица умножения*/
+.language-box #language-menu-multiplication-table.submenu{
+	min-width:7em;
+	left: 0em;	
+}
+.language-box #language-menu-multiplication-table.submenu .submenu-col{
+	width: 100%;
+}
+
+	/*меню языков для страниц с двумя столбцами*/
+.language-box #language-menu-slur.submenu{
+	min-width:14em;
+	left: -7em;	
+}
+.language-box #language-menu-slur.submenu .submenu-col{
+	width: 50%;
+}
+
+	/*колонки в меню*/
+.language-box .submenu .submenu-col{
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 33.33333333333333333%;		/*одна колонка. 50/25/*/
+	height: 100%;
+	text-indent: 0;
+	border: none;
+}
+.language-box .submenu span:nth-child(2) li a, .language-box .submenu div:nth-child(2) li a,
+.language-box .submenu span:nth-child(3) li a, .language-box .submenu div:nth-child(3) li a,
+.language-box .submenu span:nth-child(4) li a, .language-box .submenu div:nth-child(4) li a {
+	border-left: solid 1px rgb(255,149,17); /*вертикальная полоса разделяющая столбцы*/ 
+}
+.language-box .submenu .submenu-col ul{
+ list-style: none;
+  margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+  padding: 0; /*убираем левый отступ, равный 40px*/			
+}	
+
+.language-box .submenu a {
+	display: block;
+	width: auto;
+	line-height: 2.1em; /*задаем высоту каждого пункта*/
+	padding: 0 1em; /*задаем ширину пункта на полоске меню*/
+	font-size: 0.8em;
+	letter-spacing: 0.05em; /*интервал между буквами*/
+	font-weight: 300;
+	color:darkblue;
+	-webkit-transition: .3s linear;
+	-o-transition: .3s linear;
+	transition: .3s linear;
+	cursor: pointer;	
+	border-bottom: solid 1px rgb(255,149,17);	/* разделяем пункты полоской */
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+.language-box .submenu #mk > a, .language-box .submenu .mk > a, .language-box .submenu #nl > a, .language-box .submenu .nl > a{
+	padding: 0 0.2em; /*задаем ширину пункта на полоске меню*/
+}
+.language-box .submenu li:last-child a {
+	border-bottom: none; /* убираем подчеркиание у последнего элемента */
+}
+/* показываем выпадающее меню при наведении курсора на пукнкт */
+.language-box ul.topmenu > li:hover .submenu, .language-box ul.topmenu > li:active .submenu, .language-box ul.topmenu > li:focus .submenu{
+	display: block;
+	opacity: 1;
+	-ms-transform: scaleY(1);
+	    transform: scaleY(1);
+	-moz-transform: scaleY(1);
+	-o-transform: scaleY(1);
+	-webkit-transform: scaleY(1);
+		 /* задержка при наведении курсора */
+	 -webkit-transition-delay: 0.35s;
+	 -o-transition-delay: 0.35s;
+	 -moz-transition-delay: 0.35s;
+	 transition-delay: 0.35s;
+}	
+
+	/*********** для арабских языков **********/	
+.lang_ar{
+	text-align: right;
+}
+.menu-up-box-2.lang_ar .topmenu, .menu-up-box-2.lang_ar .submenu{
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+  padding-right: 0; /*убираем левый отступ, равный 40px*/	
+}
+/*позиционируем основное меню - верхняя полоса*/
+.menu-up-box-2.lang_ar ul.topmenu > li{
+	float: right;
+	margin: 0;
+}
+/* для названия основного пункта меню на полоске*/
+.menu-up-box-2.lang_ar ul.topmenu {
+	padding: 0 ;
+	margin-right: 0;
+}
+/*вертикальная черта справа для последнего пункта*/
+.menu-up-box-2.lang_ar ul.topmenu > li:last-child {
+	border-right: solid 1px #dddddd;		
+	border-left: none;
+}
+
+.menu-up-box-2.lang_ar ul.topmenu > li a{
+	margin: 0;
+}
+/* пункт с названием языка */
+.content .language-box.lang_ar .topmenu {
+text-align: right;
+	padding-right: 0;
+}
+/* надпись Язык */
+.content .language-box.lang_ar > span {
+float: right;
+}
+.lang_ar #en, .lang_ar #fr, .lang_ar #de, .lang_ar #ru, .lang_ar #zh, .lang_ar #hi, .lang_ar #es, .lang_ar #it, .lang_ar #pt, .lang_ar #tr, .lang_ar #ar, .lang_ar #ja, .lang_ar #ko, .lang_ar #sv, .lang_ar #id, .lang_ar #fa, .lang_ar #vi, .lang_ar #bg, .lang_ar #cs, .lang_ar #mk, .lang_ar #no, .lang_ar #pl, .lang_ar #ro, .lang_ar #uk, .lang_ar #el, .lang_ar #ka, .lang_ar #th, .lang_ar #hu, .lang_ar #he, .lang_ar #az, .lang_ar #da, .lang_ar #se, .lang_ar #nl{
+	background-repeat: no-repeat;
+	background-size:auto;
+	background-position: left;	
+}
+.lang_ar .en, .lang_ar .fr, .lang_ar .de, .lang_ar .ru, .lang_ar .zh, .lang_ar .hi, .lang_ar .es, .lang_ar .it, .lang_ar .pt, .lang_ar .tr, .lang_ar .ar, .lang_ar .ja, .lang_ar .ko, .lang_ar .sv, .lang_ar .id, .lang_ar .fa, .lang_ar .vi, .lang_ar .bg, .lang_ar .cs, .lang_ar .mk, .lang_ar .no, .lang_ar .pl, .lang_ar .ro, .lang_ar .uk, .lang_ar .el, .lang_ar .ka, .lang_ar .th, .lang_ar .hu, .lang_ar .he, .lang_ar .az, .lang_ar .da, .lang_ar .se, .lang_ar .nl{
+	background-repeat: no-repeat;
+	background-size:auto;
+	background-position: left;	
+}
+	/*для списков*/
+.lang_ar .art .feature-box ul.list-box{
+	text-align: right;
+}
+
+@media (max-width:840px) {
+		/* скрываем верхнее меню с контактами */
+	#menu-up-1{
+		display: none;
+	}		
+		/* скрываем меню для большого разрешения */
+	.topmenu{
+		display: none;
+	}	
+
+	/* задаем высоту верхней картинки с помощью отступов сверху и снизу */
+	.logo-site-box p{
+		font-size: 90%;
+		margin: 0.5em 0 0.8em 0;
+		padding: 0;	
+	}
+
+		/* формируем пункт меню */
+	.menu-mobile-title{
+		display: block;
+		float: left;
+		width: auto;
+		line-height: 2.5em; /*задаем высоту каждого пункта на полоске меню*/
+		padding: 0 0.8em; /*задаем ширину каждого пункта на полоске меню*/
+		font-size: 0.9em;
+		font-weight: 300;
+		color: #FFFFFF;
+		text-shadow: 1px 1px 2px #590000;
+		-webkit-transition: .3s linear;
+		-o-transition: .3s linear;
+		transition: .3s linear;
+		cursor: pointer;
+	}	
+
+	/* для картинки меню задаем размер, чтобы полоса не была широкой */
+	.menu-mobile-title img.img-float-left{
+		display: block;
+		float: none;
+		margin: 0 auto;
+		min-width: 60%;
+		max-width: 100%;
+		height: auto;
+	}
+
+	/*цвет пункта при наведении курсора*/
+	a.menu-mobile-title:hover{
+		background: rgba(0,0,0,.3);
+	}	
+
+	/*модальное окно с меню*/	 
+	.mask-2 {
+		position:absolute;
+		left:0;
+		top:0;
+		z-index:9000;
+		background-color:#000000;
+		display:none;
+		}
+		/* контейнер модального окна */
+	.menu-mobile{
+		display:none;	
+		position:absolute;
+		left:0;
+		top:0px;
+		margin: 0;
+		width: 100%;
+		height: auto;
+		z-index:9999;
+		padding: 0;
+		overflow: auto;
+		}  
+		/* верхняя полоска с надписью закрыть */
+	.top-close-2 {
+		display: inline-block;
+		width:100%;
+		height:auto;
+		margin: 0;
+		padding: 0;	
+		background: #0085cc;
+	}
+	.close-2 {
+	   float:right;
+		padding: 5px 15px;
+		color: #FFFFFF;
+		}
+
+	/*****************************************/
+	/*усеченное меню для мобильных устройств*/
+	/*****************************************/
+	/*позиция блока на экране*/
+	#accordion {
+	  width:100%;
+	  margin: 0;
+	  padding: 0;
+	  background: #FFF;
+		overflow: auto;
+	}
+
+	#accordion .link {
+		width: auto;
+		height: auto;
+	  cursor: pointer;
+	  display: block;
+	  padding: 5px 15px 5px 15px;/*левый отступ для названия вкладки*/
+	  color: #4D4D4D;
+	  border-bottom: 1px solid #CCC;
+	  position: relative;
+	  -webkit-transition: all 0.4s ease;
+	  -o-transition: all 0.4s ease;
+	  transition: all 0.4s ease;
+	}
+	/*выделяем вкладку при наведении*/
+	#accordion .link:hover {
+	  background: #b63b4d;
+	  color: #FFFFFF;
+	}
+	/**
+	 * Submenu
+	 -----------------------------*/
+	#accordion .submenu-acord {
+		display: none;
+		margin: 0;
+		padding-left: 0;	
+		background:hsla(0,0%,65%,1.00);
+	}
+
+	#accordion .submenu-acord li { 
+		margin: 0;
+		padding:0;		
+		border-bottom: 1px solid #FFFFFF; 
+	}
+	#accordion .submenu-acord li a{ 
+		padding-left: 15px
+	}
+	#accordion .submenu-acord a {
+		display: block;
+		line-height: 2em; /*задаем высоту каждого пункта на полоске меню*/	
+		text-decoration: none;
+		color:hsla(0,0%,94%,1.00);
+		font-weight: 200;
+		font-size: 0.9em;
+		padding: 0 0 0 15px;
+		padding-left: 0;
+		-webkit-transition: all 0.25s ease;
+		-o-transition: all 0.25s ease;
+		transition: all 0.25s ease;	
+	}
+
+	#accordion .submenu-acord a:hover {
+	  background: #b63b4d;
+	  color: #FFFFFF;
+	}	
+	
+	/** меню с перечнем языков **/
+	/* показать название языка при малом разрешении - это пункт меню*/
+	.language-box .topmenu {
+		display: block;
+	}
+	.content .language-box {
+		font-size: 80%;
+	}	
+
+	/* офрмляем выпадающее меню */
+	.language-box .submenu{
+		min-width:21em;	/*нужно увеличить при увеличении числа колонок -примерно 6 em на колонку*/
+		left: -14em; /*смещаем все выдающе мею вправо*/
+	}	
+	.language-box .submenu a {
+		line-height: 2.1em; /*задаем высоту каждого пункта*/
+		padding: 0 0.3em; /*задаем ширину пункта на полоске меню*/
+
+	}	
+}
+
+/*для телефонов меню языков*/
+@media (max-width:560px){
+	/*меню языков в одну колонку*/
+	/* оформляем выпадающее меню */
+	.language-box .submenu{
+		width: 10em;
+		min-width:8em;	/*нужно увеличить при увеличении числа колонок -примерно 6 em на колонку*/	
+		left: -3em; /*смещаем все выдающе мею вправо*/
+		overflow: auto;
+	}
+	.language-box .submenu .submenu-col{
+		width: 100%;		/*одна колонка. 50/25/*/
+	}
+	.language-box .submenu a {
+		line-height: 2.1em; /*задаем высоту каждого пункта*/
+		padding: 0 1em; /*задаем ширину пункта на полоске меню*/
+		border-bottom: none;	/* разделяем пункты полоской */
+	}
+	.language-box .submenu #mk > a, .language-box .submenu .mk > a, .language-box .submenu #nl > a, .language-box .submenu .nl > a{
+	padding: 0 1em; /*задаем ширину пункта на полоске меню*/
+}
+	/*убираем вертикальную полосу*/
+	.language-box .submenu span:nth-child(2) li a,
+	.language-box .submenu span:nth-child(3) li a,
+	.language-box .submenu span:nth-child(4) li a{
+		border-left: none; /*вертикальная полоса разделяющая столбцы*/ 
+	}
+		/*меню языков для страниц таблица умножения*/
+	.language-box #language-menu-multiplication-table.submenu{
+		left: -3em;	
+	}
+/*картинка меню*/
+	.modal-menu-mobile img{
+		margin: 0;
+	}	
+}
+
+
+/****** затемнение фона при наведени на объект *******/
+/*для языкового меню
+.language-box:hover~.fon{
+	display:block;
+}
+.language-box:hover{
+	z-index:100;
+}
+.fon{
+	display:none;
+	margin: 0;
+	padding: 0;
+	background:#DDD;
+	opacity:0.7;
+	position:absolute;
+	top:0px;
+	left: 0;
+	width:100%;
+	height:1600px;
+	z-index:99;
+}
+.language-box{
+	position:relative;    
+	display:block;
+}*/

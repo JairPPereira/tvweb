@@ -1,0 +1,1992 @@
+@charset "UTF-8";
+dialog {
+  display: none;
+  position: absolute;
+  margin: auto;
+  border: solid;
+  padding: 1em;
+  background: white;
+  color: black;
+}
+
+dialog[open] {
+  display: block;
+}
+
+dialog::backdrop {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+
+details {
+  display: block;
+}
+
+summary {
+  display: block;
+}
+
+/* IE 11 ? */
+address, aside, main, section{
+  display: block;
+}
+
+address {
+  font-style: normal;
+}
+
+input, textarea, select {
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+}
+
+button {
+  display: inline-block;
+  padding: 2px 12px;
+  margin: 3px;
+  line-height: 1.5em;
+  color: #333333;
+  text-align: center;
+  text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.75);
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: #F5F5F5;
+  background-image: linear-gradient(to bottom, #FFFFFF, #E6E6E6);
+  border: 1px solid #CCCCCC;
+  border-color: #E6E6E6;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-bottom-color: #B3B3B3;
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  border-radius: 0px;
+  box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button:hover,
+button:focus {
+  background-color: #C5C5C5;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.15);
+	-webkit-box-shadow: 0px 2px 10px 2px hsla(227,100%,79%,0.67);
+	-moz-box-shadow: 0px 2px 10px 2px hsla(227,100%,79%,0.67);
+	box-shadow: 0px 2px 10px 4px hsla(227,100%,79%,0.67);	
+}
+
+button:active {
+  background-color: #A5A5A5;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.15), inset 0px 0px 12px rgba(0, 0, 0, 0.55);
+}
+
+button:disabled,
+button:hover:disabled {
+  color: graytext;
+  opacity: 0.7;
+  box-shadow: none;
+}
+
+select,
+textarea,
+input[type="number"],
+input[type="text"] {
+  width: 206px;
+  display: inline-block;
+  height: 26px;
+  padding: 2px 6px;
+  margin: 1px;
+  font-size: 15px;
+  line-height: 20px;
+  color: black;
+  vertical-align: middle;
+  border-radius: 0px;
+  background: white;
+  border: 1px solid #3E3E3E;
+  box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+input[type="number"]:disabled,
+input[type="text"]:disabled {
+  background: #EBEBE4;
+  color: #545454;
+}
+
+/*To nail buttons in Chrome 49*/
+input[type="number"] {
+  padding: 0px;
+  padding-left: 6px;
+  line-height: 24px;
+}
+
+textarea {
+  height: auto;
+  -moz-resize: both;
+  resize: both;
+}
+
+/* контейнер с матрицами и их решением */
+#bigtable{
+	 font-family: "Times New Roman", Times, serif;
+	 background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wMGQ0NJbe7urkAAABPSURBVFjD7dehDQAgDEXBgur+y4IrhgkwhHDPNzlR81tVxVFzRmZcue3xYNDQ0NDQ0NDQ0NDQn6HbGPUe2kb009DQ0NDQ0NDQ0NDQNuJuARrpGAHptOaWAAAAAElFTkSuQmCC");
+}
+/* поле с решением */
+#bigtable .actline{
+	font-size: 90%;	
+}
+/* [tabindex] is needed for IE 11 to not draw the outline on a <div> with `display: table-cell` */
+menclose[tabindex]:focus,
+mrow[tabindex]:focus,
+mtd[tabindex]:focus,
+div[tabindex]:focus, /* .matrix-table-inner or .matrix-table */
+img[tabindex]:focus,
+a:focus,
+summary:focus,
+button:focus,
+input:focus,
+select:focus,
+textarea:focus {
+  outline: 2px solid #4D90FE;
+  outline-offset: -1px; /* Overrides this property in Chrome, fixes the positioning under the outline after Home/End */
+}
+
+::-moz-focus-inner {
+  padding: 0px;
+  border: 0px;
+}
+
+menclose[tabindex],
+mrow[tabindex],
+mtd[tabindex],
+div[tabindex], /* .matrix-table-inner or .matrix-table */
+img[tabindex],
+a,
+summary {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+#bigtable a:focus,
+#bigtable a:hover,
+#bigtable a:active,
+#bigtable summary:focus,
+#bigtable summary:hover,
+#bigtable summary:active {
+    text-decoration: none;
+}
+
+#bigtable a:active,
+summary:active {
+  color: #2163A4;
+  text-decoration: none;	
+}
+
+/* кнопки для названия действий с матрицами */
+input, button, select, textarea, optgroup, option {
+  font-family: "Clear Sans", Arial, sans-serif;	
+  font-size: 0.85em;
+font-weight: 300;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* note: more specific rules are used to increase the priority */
+textarea.invalid,
+input[type="number"].invalid,
+input[type="text"].invalid,
+.a-input.invalid {
+  background-color: #FFEEEE;
+}
+
+
+#bigtable label,
+#bigtable input[type="checkbox"],
+#bigtable button {
+  cursor: pointer;
+}
+
+#header {
+  width: 100%;
+  padding-bottom: 2px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 12px;
+  display: table;
+}
+
+#right {
+  vertical-align: top;
+  padding: 8px;
+  padding-top: 0px;
+}
+
+#bigtable {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+#bigtable > div {
+  display: table-cell;
+}
+
+
+
+#resdiv {
+  text-align: left;
+  vertical-align: middle;
+  padding-left: 2px;
+  padding-right: 2px;
+  border: 0px;
+  /*overflow-y: hidden;*/
+  position: relative;
+  border-bottom: 1px solid silver;
+}
+
+.line {
+  display: table;
+  clear: none;
+  width: 100%;
+  padding: 0px;
+}
+
+.line > div {
+  display: table-row;
+}
+
+.line > div > div {
+  display: table-cell;
+  line-height: 28px; /* to avoid jerks with #frdigitsspan[hidden] */
+}
+
+.text-align-right {
+  text-align: right;
+}
+
+/* workaround for line-breaking issue in Chrome, IE */
+.bbox > span {
+  display: inline-block;
+}
+
+.change-button {
+  height: auto;
+  width: auto;
+}
+
+.bbox > button,
+.bbox > div > button {
+  width: 11em;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.bbox > .button-before-input > button {
+  width: 11em;
+}
+
+.bbox > .button-before-input > .a-input > input,
+.bbox > .button-before-input > input {
+  width: 2em;
+}
+
+.det-buttons > div > .button-before-input > button {
+  width: 16em;
+}
+
+.det-buttons > div > .button-before-input > .a-input > input,
+.det-buttons > div > .button-before-input > input {
+  width: 3em;
+}
+
+.det-buttons > div > button {
+  width: 19em;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.button-after-input,
+.button-before-input {
+  white-space: nowrap;
+}
+
+.button-after-input > .a-input > input,
+.button-after-input > input,
+.button-before-input > button {
+  margin-right: 0px;
+  border-right: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.button-after-input > button,
+.button-before-input > input,
+.button-before-input > .a-input > input {
+  margin-left: 0px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+.expression-input-container > .button-after-input > input {
+  width: 21em;
+}
+
+.expression-input-container > .button-after-input > .a-input > input {
+  width: 21em;
+  max-width: 100%;
+}
+
+.expression-input-container > .button-after-input > .a-input {
+  min-width: 8em;/* IE 8 */
+  max-width: 50%;
+  max-width: -webkit-calc(100% - 4em);
+  max-width: -moz-calc(100% - 4em);
+  max-width: calc(100% - 4em);
+}
+
+.expression-input-container {
+  text-align: center;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+.bbox2 > div > button {
+  width: 6em;
+}
+
+.bbox2 > div > .change-button {
+  width: auto;
+}
+
+.bbox2 > div > button > .operator {
+  display: inline-block;
+  width: 1em;
+  vertical-align: middle;
+}
+
+hr {
+	width: 85%;
+	text-align:center;
+ 	border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), hsla(120,73%,75%,1.00), rgba(0,0,0,0)); 
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), hsla(120,73%,75%,1.00), rgba(0,0,0,0)); 
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), hsla(120,73%,75%,1.00), rgba(0,0,0,0)); 
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), hsla(120,73%,75%,1.00), rgba(0,0,0,0)); 
+}
+
+.insert-buttons > div > button {
+  width: 8em;
+}
+
+.actline {
+  text-align: left;
+  border-top: 1px solid #999999;
+  padding-bottom: 16px;
+  padding-top: 6px;
+  clear: right;
+}
+
+.actline > .insert-buttons {
+  float: right;
+}
+
+
+
+#bigtable p {
+  margin: 0.5em 0em;
+  padding: 0em 1em;
+  text-indent: 2em;
+}
+
+#bigtable strong {
+  color: #CC3333;
+}
+
+#bigtable button {
+  vertical-align: middle;
+  height: auto;
+}
+
+.main {
+  display: table;
+  width: 100%;
+  border-spacing: 0px;
+  border: 0px;
+  text-align: center;
+  empty-cells: show;
+}
+
+.main > div {
+  display: table-row;
+}
+
+.main > div > div {
+  display: table-cell;
+}
+
+.main > div > div {
+  vertical-align: middle;
+  text-align: center;
+  border: 0px;
+  padding: 2px;
+  margin: 0px;
+}
+
+.main > div > div.tdmatrix {
+  width: 46%;
+  vertical-align: top;
+}
+
+#bigtable .top {
+  vertical-align: top;
+}
+
+/* matrix */
+
+.expression-input {
+  font-family: monospace;
+}
+
+.matrix-table-inner > table {
+  border: 0px;
+  text-indent: 0px;
+  border-spacing: 0px;
+  border-collapse: separate;
+  margin-left: auto;
+  margin-right: auto;
+  empty-cells: show;
+  white-space: nowrap;
+}
+
+.matrix-table-cell {
+  vertical-align: middle;
+  padding: 0px;
+  border: 0px;
+}
+
+.matrix-table-input {
+  margin: 1px;
+  text-align: right;
+  max-width: 3.8em;
+  min-width: 3.8em;
+  width: 100em;
+}
+
+.matrix-table > div {
+  position: relative;
+}
+
+.textarea > .matrix-table-inner > table {
+  display: none;
+}
+
+.cells > .matrix-table-inner > .textarea-container {
+  display: none;
+}
+
+/* Opera 12 needs wrap="off" */
+textarea[wrap="off"] {
+  white-space: pre;
+  word-wrap: normal;
+}
+
+.matrix-table-textarea {
+  overflow: auto;
+  width: 100%;
+  min-width: 230px;
+  min-height: 90px;
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+}
+
+.langEnOnly,
+.langRuOnly {
+  display: none;
+}
+
+.langEnOnly:lang(en),
+.langRuOnly:lang(ru) {
+  display: block;
+}
+
+/* (!) more specific selectors */
+
+a.langEnOnly,
+a.langRuOnly {
+  display: none;
+}
+
+a.langEnOnly:lang(en),
+a.langRuOnly:lang(ru) {
+  display: block;
+}
+
+/* .matrix-menu */
+
+[draggable="true"] {
+  cursor: move;
+}
+.no-draggable [draggable="true"] {
+  cursor: default;
+}
+/* this can make it draggable in Opera 12 */
+menclose[href="#"] {
+ -o-link: '#';
+ -o-link-source: current;
+}
+
+.matrix-menu-show {
+  /* button */
+  box-shadow: none;
+  border: none;
+  background-color: transparent;
+  line-height: 8px;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  right: -12px;
+  bottom: 0px;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAD+SURBVHjaYvz//z8DJYCJgUIwDAxggTFycnL+MzMzM4AwOzs7Azc3NwMnJyeY5uLiAouBMBsbGwMw4L96e3vzoBjw69evOXJycinq6uoMrKysYIUwDOKDMMjwJ0+e/GdkZJwM08eIHI0ZGRkLgIbEgwz58+cPAxMTE9hWHh4esEvev3/P8OXLl46QkJBKrGEwY8aMBKANi2/dugW2GWgTGLOwsIBsZnj+/Hk/smYMF8BAdnb2SllZ2TAtLS2wQS9evADZPr+wsDAJXS0jrpSYm5u7Rl5ePhjk9zdv3ixtbm6OwRsL6AAYqBFAZ68HekG/v78/Bpc6xtG8wAAQYADNAlnnEq1XFAAAAABJRU5ErkJggg==");
+  cursor: pointer;
+  padding: 4px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  /*TODO: fix ? */
+  z-index: 1;
+}
+
+.matrix-menu-show-new {
+  /* button */
+  box-shadow: none;
+  border: none;
+  background-color: transparent;
+  padding: 0px;
+  margin: 0px;
+  line-height: 12px;
+  font-size: 12px;
+  color: gray;
+  cursor: pointer;
+  position: relative;
+  left: auto;
+  right: auto;
+  bottom: auto;
+  top: auto;
+  background-image: none;
+}
+
+.matrix-menu-show::-moz-selection {
+  background: transparent;
+}
+
+.matrix-menu-show::selection {
+  background: transparent;
+}
+
+.matrix-menu-show:hover {
+  background-color: #CCCCCC;
+  background-color: rgba(0, 0, 0, 0.2);
+  box-shadow: none;/* ? */
+}
+
+.matrix-menu-show:active {
+  background-color: #AAAAAA;
+}
+
+.matrix-menu-dialog {
+  margin: 0px;
+  margin-left: -6px;
+  padding: 0px;
+  z-index: 1;
+  background: white;
+  border: 1px solid silver;
+  list-style: none;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.275);
+}
+
+.matrix-menu-dialog > .menuitem {
+  padding: 6px;
+  display: block;
+  font-size: smaller;
+  white-space: nowrap;
+  cursor: pointer;
+  color: #333333;
+}
+
+.matrix-menu-dialog > .menuitem:hover {
+  background: #BBBBCC;
+}
+
+.matrix-menu-dialog > .menuitem:active {
+  background: #9999BB;
+}
+
+#frdigits {
+  width: 5em;
+  vertical-align: baseline;
+}
+
+.slu-buttons {
+  display: inline-table;
+}
+
+.slu-buttons > div {
+  display: table-row;
+}
+
+.slu-buttons > div > button {
+  width: 100%;
+  min-width: 18em;
+}
+
+.language {
+  display: table-cell;
+  text-align: right;
+  vertical-align: top;
+}
+
+.clear {
+  clear: both;
+}
+
+.ads-container {
+  text-align: center;
+}
+.toggle-ads-button {
+  border: none;
+  background: none;
+  box-shadow: none;
+  text-decoration: underline;
+}
+
+.matrix-table.valid-drop-target,
+.expression-input.valid-drop-target {
+  outline: 1px solid red;
+  outline-offset: -1px;
+  box-shadow: inset 0px 0px 12px red;
+}
+
+.matrix-table-inner {
+  display: inline-block;
+}
+
+.matrix-system,
+.matrix-determinant,
+.matrix-with-braces {
+  border: 2px solid #555555;
+  padding: 8px;
+  display: inline-block;
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+  margin: 0em 0.1em;
+}
+
+.matrix-with-braces {
+  -webkit-border-radius: 10px/40px;
+  -moz-border-radius: 10px/40px;
+  border-radius: 10px/40px;/*TODO: fix*/
+}
+
+.matrix-determinant {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.matrix-system {
+  border: none;
+  padding: 6px 8px 6px 16px;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAABvCAIAAABjDndYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALbSURBVFhH7ZnfS5NRGMef/8SLSNguGnUZscirfniRNwWWgSQUFOGFkDQoQ/rBRj9wRUpQijAKrUSzthgrKTCYzkiqgRsV6GrNRv6ALTZ4O+P97t3evee822FEWe/nzi98OOycx2fPOSOlDjaEnHgbvNvf/2Q2hb9rlpO+zh2k0hNGVpOcWejdApEOed+v5pHXIC+6d0G0dU9kEAJzOec/swmq3bOIsISZnPCfhUl0P5ZFWoZYzr87BpFsp58j1COUE/4uqNQy9Q1hBSJ5xXcYqv1UIIewEoG8Ft4Pl5qvzyE0IJCz4Ta4dGlqGaEBvpyN3oZKdG1mHakBvrw2fwMqk2d/IDVgyUUsWVJOTR6BytrWyFekBgQrv3BBJeoKSf5jWEclK0euQGVtaFpSXp+7uLWh0eFwNDZsu/BqBakB0co3sa51VBVYcpG/QnY8+sQZZVT4ciKkzUEtM6sIjfDl+YHdcMm1IJpIBHJuvHOzqtq6A8h48OTUsyZVZbsl7gQMjvyydztUuyeJjI9BTjx2QKXhDz8RCqiQM9rsZjJ+aejk6OhJqK1DaWRmlOToyDmYOz0fxcdTDuSor10VnecnallTRZMPqHLz5YC0zAojMlj8wE6vcajnotuwyMBB+K1D4oouoZPZmD1YPKp9tySPqkBZbcoWSYFI3x7YTq9keTJSpQo1aSMMnqx879MuYoJ7jQpXZs2guO3kMqk2vlzWw+TbkL4Blm6eFVSV/8dvDEvW8xvk1GQHVKL2Mck7xvL4UahEbWPCjvBPbdgflK07BlIDllxko8r1VFj+88NaJgu+rGTfaA+I0m+A5bL806X+iVjUPkWybs+Gea/EDKGsKEm39ibe8aDiZVvFRFay8XuQiXqCX5CWYSYz4qMnYFNTcAmhRhWZ7VxIuynR8Wn9IF9VZmRC7r3QyXHndQJxbXKB+NOrqDm5nyI0MulYLLaULm28jGygDllRfgEf9NDFRzL8pQAAAABJRU5ErkJggg==");
+  background-position: 0% 50%;
+  background-repeat: no-repeat;
+  -moz-background-size: 12px 100%;
+  background-size: 12px 100%;
+}
+
+input.matrix-table-input {
+  font-family: monospace;
+  margin: 1px 2px 1px 2px; /* for touch devices */
+}
+
+label > .swap-mode-input {
+  opacity: 0;
+  height: 0px;
+  width: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+/* нажатая кнопка - ячейки */
+label > input:checked + button {
+ 	box-shadow: inset 0px 0px 20px rgba(130, 200, 255, 0.5);
+}
+
+.facebook-share-button,
+.google-plus-share-button,
+.twitter-share-button {
+  vertical-align: top;
+  display: inline-block;
+  padding: 2px 4px 2px 24px;
+  border: 1px solid #CCCCCC;
+  color: #333333;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.5);
+  border-radius: 2px;
+  cursor: pointer;
+  overflow: hidden;
+  background-color: #F8F8F8;
+  background-position: 4px center;
+  background-repeat: no-repeat;
+}
+
+kbd,
+code {
+  display: inline-block;
+  margin: 2px;
+  padding: 0px 5px;
+  border: 1px solid #DDDDDD;
+  background-color: #F8F8F8;
+  border-radius: 2px;
+}
+
+kbd {
+  border-color: #DDDDDD #BBBBBB #BBBBBB #DDDDDD;
+  border-bottom-width: 2px;
+  border-radius: 2px;
+  font-family: inherit;
+  white-space: nowrap;
+  /* same width */
+  min-width: 1em;
+  text-align: center;
+}
+
+
+/* Wikipedia */
+a[href*="wikipedia.org"]:after {
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAARNAAAETQHvMrKRAAAABGdBTUEAALGOfPtRkwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAACm0lEQVR42mL4jwo+ffqEzP379y+aAoAAYmKAgTt37ujq6p48eRLIvnfv3vHjx8+fP798+fK0tLSzZ8/ClQEEECNQE5D6+vVrW1sbUB1QxcuXL2tra4GCysrKoqKihw4dArITEhIcHByADIAAYgFioIrfv3//+PHD1tZ27dq127dv//fvn7u7OwcHx58/f0xMTB4/ftzS0gJU4OHhARBAIBuePHny/PlzMzMzZmZmBQUFTU3N4uJiVlbWz58/A6WAJFD/zJkzubm59+3bBxBAzPn5+UxMTN++fePj4/v161dYWFhNTQ1QEdC7nZ2d79+/V1RUBHJ5eXnv3r0rIiICEEDMQD+tW7fO2NjY399fWlqai4sLaDU7Ozs/P7+8vLy4uDjQzcCg+/79+/379589ewYQQCxA64BmA936+vXr69evA21TU1P7DAZAtrCwMDAk/oDBazAACCDG27dvA0WBfmBhYfn58ydQAhLEnJycQC4wiE6dOmVlZQVUCmQAbQYIIFA8AMMbGEpAaaDVV65cAcpJSUkBuUBTLl68KCcnB2QDnQQMK6BzAAIIpOH06dPAEAA6HSjd2tq6ZMkSoG1A7woKCnp7e+vp6QGtffv2LTBggGyAAGIE6j527BjQLmDcsbGxAUWBIsDgAgYo0BSgR4FB+fHjR6ACoA9v3LgBEEBMQEVAS4ABBfQl0KRHjx4BXQJ0FdB2oKlAEmgPUP/ly5ebm5uVlJQAAggU03Z2dkAHAOMbKH3p0qWHDx9KSkoCw/TVq1dAs798+QK0Bxg/paWlQMUAAQRNSxCf7NmzBygNtAeoE2ghMKyADgPak5KSAvQbMJSBygACCKEBCIDSR48eBQYU0JI3b94AU4eGhkZERIShoSFcDUCAAQDeX8MsibcVMwAAAABJRU5ErkJggg==");
+}
+
+
+@media (min-width: 451px) and (max-width: 800px) {
+  html {
+    padding: 1px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  #bigtable,
+  #bigtable > div {
+    display: block;
+  }
+
+  #left {
+    width: auto;
+  }
+
+  .ads-container {
+    display: none;
+  }
+
+  body {
+	font-size: 1em;
+    padding-bottom: 100px;
+  }
+  .matrix-table-textarea {
+    min-width: 200px;
+  }
+/* кнопки для названия действий с матрицами */
+input, button, select, textarea, optgroup, option {
+  font-size: 1.2em;
+  font-weight: 300;
+}
+		.art .list-box{
+		line-height: 1.15em;
+	}
+}
+@media (min-width: 321px) and (max-width: 450px) {
+/* кнопки для названия действий с матрицами */
+input, button, select, textarea, optgroup, option {
+  font-size: 0.9em;
+  font-weight: 300;
+}		
+	.bbox > button, .bbox > div > button{
+		width: auto;
+	}
+	.art .list-box{
+		line-height: 1.05em;
+	}
+}
+@media (max-width: 320px){
+/* кнопки для названия действий с матрицами */
+input, button, select, textarea, optgroup, option {
+  font-size: 0.7em;
+  font-weight: 300;
+}	
+	.bbox > button, .bbox > div > button{
+		width: auto;
+	}
+	select, textarea, input[type="number"], input[type="text"]{
+		font-size: 0.6em;
+	}
+	.art .list-box{
+		line-height: 1.05em;
+	}
+}
+
+/* отображение блоков с матрицами при малых разрешениях */
+.width-800{
+	display: none;
+}
+@media screen and (max-width: 860px) {
+  .main > div > div.tdmatrix,
+  .main > div > div {
+    width: auto;
+    display: inline-block;
+	}
+	.width-800{
+		display: block;
+	}	
+}
+
+
+/* new */
+
+.arrow-with-label {
+  display: inline-block;
+  vertical-align: baseline;
+  padding-left: 16px;
+  position: relative;
+}
+
+.arrow-with-label[data-type="divide"] {
+  padding-left: 0px;
+}
+
+.arrow {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 0px;
+  width: 12px;
+}
+
+.arrow-head-top,
+.arrow-head-bottom {
+  position: absolute;
+  left: -1.5px;
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 4px 8px 4px 0px;
+  border-color: transparent black transparent transparent;
+}
+
+.arrow-head-top {
+  top: -3.5px;
+}
+
+.arrow-head-bottom {
+  bottom: -3.5px;
+}
+
+.arrow-line {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border: 1px solid black;
+  border-left: 0px;
+}
+
+.footer-table {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+.footer-table > div {
+  display: table-cell;
+  width: 19%;
+  text-align: left;
+}
+.footer-table > div + div {
+  display: table-cell;
+  width: 62%;
+  text-align: center;
+}
+.footer-table > div + div + div {
+  display: table-cell;
+  width: 19%;
+  text-align: right;
+}
+
+.input-example-code {
+  padding: 0.809em;
+}
+
+/* a <div> cannot be a child <code> (Firefox 3.6.28) + clipboard.js */
+.input-example-code > span {
+  display: block;
+}
+
+#results-container {
+  will-change: transform;
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+.relative {
+  position: relative;
+}
+/* знак вопроса для всплывающего диологовога окна */
+.question-icon {
+  position: absolute;
+  top: -1em;
+  text-align: center;
+  width: 1em;
+  margin-left: -0.5em;
+  left: 50%;
+  display: inline-block;
+  background-color: #BCDBEA;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+
+[hidden] {
+  display: none;
+}
+
+/*TODO: remove ?*/
+.highlight {
+  background-color: antiquewhite;
+}
+/* всплывающее диалоговое окно при наведении на знак вопроса*/
+.tooltip-dialog {
+  padding: 0.25em;
+  margin: 0.25em;	
+  max-width: 18em;/*?*/	
+  z-index: 1;
+  border-radius: 0px;
+  pointer-events: none;
+  font-family: "Times New Roman", Times, serif;	
+  font-size: 75%;
+}
+.tooltip-dialog,
+.tooltip-arrow {
+  background-color:aliceblue;
+  border: none;
+	-webkit-box-shadow: 0px 2px 10px 2px hsla(227,100%,79%,0.67);
+	-moz-box-shadow: 0px 2px 10px 2px hsla(227,100%,79%,0.67);
+	box-shadow: 0px 2px 10px 4px hsla(227,100%,79%,0.67);		
+}
+
+.unfocused-placeholder:-webkit-input-placeholder {
+  color: silver;
+  opacity: 1;
+}
+.unfocused-placeholder::-webkit-input-placeholder {
+  color: silver;
+  opacity: 1;
+}
+.unfocused-placeholder:-moz-placeholder {
+  color: silver;
+  opacity: 1;
+}
+.unfocused-placeholder::-moz-placeholder {
+  color: silver;
+  opacity: 1;
+}
+.unfocused-placeholder:-ms-input-placeholder {
+  color: silver;
+  opacity: 1;
+}
+.unfocused-placeholder::-ms-input-placeholder {
+  color: silver;
+  opacity: 1;
+}
+.unfocused-placeholder::placeholder {
+  color: silver;
+  opacity: 1;
+}
+
+.unfocused-placeholder:focus:-webkit-input-placeholder {
+  color: transparent;
+}
+.unfocused-placeholder:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+.unfocused-placeholder:focus:-moz-placeholder {
+  color: transparent;
+}
+.unfocused-placeholder:focus::-moz-placeholder {
+  color: transparent;
+}
+.unfocused-placeholder:focus:-ms-input-placeholder {
+  color: transparent;
+}
+.unfocused-placeholder:focus::-ms-input-placeholder {
+  color: transparent;
+}
+.unfocused-placeholder:focus::placeholder {
+  color: transparent;
+}
+
+input.matrix-table-input.far {
+  opacity: 0.3333333333333333;
+}
+input.matrix-table-input.far:focus,
+input.matrix-table-input.far:hover {
+  opacity: 1;
+}
+span.far {
+  opacity: 0.3333333333333333;
+}
+
+#advices {
+  /*
+  padding: 1em;
+  margin-top: 1em;
+  */
+}
+
+#examples > div > details > div > ul > li > a {
+  display: inline-block;
+}
+
+math {
+  display: inline-block;
+  text-indent: 0px;
+}
+
+.indented {
+  margin-left: 12px;
+  border-left: 1px solid silver;
+  padding-left: 12px;
+}
+
+menclose[href="#"] {
+  color: #242424;
+}
+.some-details-table {
+  vertical-align: top;
+  display: inline-table;
+}
+.some-details-table > tbody > tr > td:first-child {
+  text-align: left;
+  padding-bottom: 0.5em;
+  border-right: 2px solid #CB8087;
+}
+span[data-custom-paint="custom-menclose"] {
+  display: inline-block;
+  text-indent: 0px;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.input-error-wrapper {
+  font-family: monospace;
+  margin-top: 1em;
+  position: relative;
+}
+.input-error-wrapper > .input-error-position {
+  display: inline-block;
+  position: relative;
+}
+.input-error-wrapper > .input-error-position > span {
+  background-color: #FFEEEE;
+  font-weight: bold;
+  white-space: pre;
+}
+.input-error-wrapper > .input-error-position:after {
+  content: "^";
+  display: block;
+  position: absolute;
+  top: 100%;
+  left: 0%;
+}
+
+fieldset {
+  border: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+/* ? */
+.like-table {
+  display: inline-table;
+}
+.like-table > div {
+  display: table-row;
+}
+.like-table > div > div {
+  display: table-cell;
+  padding-right: 2em;
+  vertical-align: middle;
+}
+
+.system-table > tbody > tr > td {
+  vertical-align: baseline;
+}
+
+
+.anchor:target {
+  /* from Wikipedia */
+  background-color: rgba( 0,127,255,0.133 );
+}
+
+.css-profile math,
+.css-profile mfrac,
+.css-profile mfrac > mrow,
+.css-profile mfrac > mrow + mrow,
+.css-profile msub,
+.css-profile msup,
+.css-profile msub > mrow,
+.css-profile msup > mrow,
+.css-profile msub > mrow + mrow,
+.css-profile msup > mrow + mrow,
+.css-profile msub > mrow:after,
+.css-profile msub > mrow:before,
+.css-profile msup > mrow:after,
+.css-profile msup > mrow:before,
+.css-profile munder,
+.css-profile msqrt:before,
+.css-profile mroot,
+.css-profile mroot > mrow,
+.css-profile mroot > mrow + mrow,
+.css-profile mrow,
+.css-profile mfenced,
+.css-profile mfenced > mrow,
+.css-profile mfenced[open="("] > mrow:before,
+.css-profile mfenced[close=")"] > mrow:after,
+.css-profile mfenced[open="|"] > mrow:before,
+.css-profile mfenced[close="|"] > mrow:after,
+.css-profile mfenced[open="{"] > mrow:before,
+.css-profile mfenced[close="}"] > mrow:after,
+.css-profile mtable,
+.css-profile menclose[notation="horizontalstrike"] {
+  display: inline-block; /* ! */
+  line-height: inherit;
+  font-size: inherit;
+  direction: inherit;
+  white-space: inherit;
+  text-align: inherit;
+  text-decoration: none;
+  vertical-align: baseline;
+  background-image: none;
+  content: normal;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none currentColor;
+  width: auto;
+  height: auto;
+}
+
+
+.math menclose,
+.math mfenced,
+.math mfrac,
+.math mi,
+.math mn,
+.math mo,
+.math mrow,
+.math msqrt,
+.math mroot,
+.math msub,
+.math msup,
+.math munder {
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+.math mtext {
+  vertical-align: baseline;
+}
+
+/* TODO: It does not work on Android Browser, Konqueror, IE 8 - 11, Safari 5.1 */
+
+.math mfrac {
+  vertical-align: -50%;
+  text-align: center;
+  font-size: smaller;
+}
+
+.math mfrac > mrow {
+  display: block;
+  border-bottom: 1px solid;
+}
+
+.math mfrac > mrow + mrow {
+  display: inline-block;
+  border-bottom: none;
+  vertical-align: top;
+}
+
+.math mfenced {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  position: relative;
+}
+
+.math mfenced:before,
+.math mfenced:after {
+  border: 2px solid;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  width: 21px;
+}
+
+.math mfenced:before {
+  left: 0px;
+  content: "";
+  border-right-width: 0px;
+}
+
+.math mfenced:after {
+  right: 0px;
+  content: "";
+  border-left-width: 0px;
+}
+
+/* to fix the :hover issue */
+.math mfenced[open="("]:before {
+  clip: rect(auto 9px auto auto);
+}
+.math mfenced[close=")"]:after {
+  clip: rect(auto auto auto 14px);
+}
+
+.math mfenced[open="|"]:before,
+.math mfenced[close="|"]:after {
+  content: "";
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  width: 0px;
+  border-width: 1px;
+}
+
+.math mfenced[open="|"][close="|"] {
+  padding-left: 0.1em;
+  padding-right: 0.1em;
+}
+
+.math mfenced[open="|"]:before {
+  border-left: none;
+}
+
+.math mfenced[close="|"]:after {
+  border-right: none;
+}
+
+.math mfenced[open="{"]:before,
+.math mfenced[close=" "]:after {
+  content: "";
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  width: 0px;
+  border-width: 0px;
+}
+
+.math mtable {
+  display: inline-table;
+  vertical-align: middle;
+  border-collapse: separate;
+  border-spacing: 0px;
+}
+
+.math mtr {
+  display: table-row;
+}
+
+.math mtd {
+  display: table-cell;
+  text-align: center;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+  padding-top: 0.5ex;
+  padding-bottom: 0.5ex;
+}
+
+.math mtable[columnalign="right"] > mtr > mtd {
+  text-align: right;
+}
+
+/* (!) CSS 3 */
+.math mtable[columnlines$="solid"] > mtr > mtd:last-child {
+  border-left: 1px solid;
+}
+
+/* TODO: fix */
+.math mtable[columnlines="none none none none solid none none none none"] > mtr > mtd:first-child + mtd + mtd + mtd + mtd + mtd,
+.math mtable[columnlines="none none none solid none none none"] > mtr > mtd:first-child + mtd + mtd + mtd + mtd,
+.math mtable[columnlines="none none solid none none"] > mtr > mtd:first-child + mtd + mtd + mtd,
+.math mtable[columnlines="none solid none"] > mtr > mtd:first-child + mtd + mtd,
+.math mtable[columnlines="solid"] > mtr > mtd:first-child + mtd {
+  border-left: 1px solid;
+}
+
+.math mi {
+  font-style: italic;
+}
+
+.math mo {
+  padding-left: 0.15em;
+  padding-right: 0.15em;
+}
+
+.math msub,
+.math msup {
+  white-space: nowrap;
+}
+
+.math msub > mrow,
+.math msup > mrow {
+  white-space: normal;
+}
+
+.math msub > mrow + mrow,
+.math msup > mrow + mrow {
+  padding-left: 0.2em;
+  font-size: smaller;
+}
+
+.math msup > mrow:first-child {
+  margin-top: 0.25em;
+}
+
+.math msup > mrow + mrow {
+  vertical-align: top;
+}
+
+.math msub > mrow:first-child {
+  margin-bottom: 0.25em;
+}
+
+.math msub > mrow + mrow {
+  vertical-align: bottom;
+}
+
+/* Thanks to http://www.w3.org/TR/mathml-for-css/ */
+
+.math mroot,
+.math msqrt {
+  white-space: nowrap;
+}
+
+.math msqrt > mrow {
+  border-top: 1px solid;
+}
+
+.math msqrt:before {
+  display: inline-block;
+  content: "\221A";
+}
+
+.math mroot {
+  position: relative;
+}
+.math mroot > mrow:first-child {
+  margin-top: 0.4em;
+  border-top: 1px solid;
+}
+.math mroot:before {
+  display: inline-block;
+  content: "\221A";
+}
+.math mroot > mrow:first-child + mrow {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: smaller;
+}
+
+.math mfenced[open="{"] {
+  border: none;
+  padding: 6px 0px 6px 12px;
+}
+
+.math mfenced[open="{"]:before {
+  border-left: 2px solid;
+  -webkit-border-top-left-radius: 100% 16px;
+  -moz-border-radius-topleft: 100% 16px;
+  border-top-left-radius: 100% 16px;
+  content: "";
+  position: absolute;
+  top: 3px;
+  bottom: auto;
+  height: 25%;
+  width: 8px;
+  left: 5px;
+}
+.math mfenced[open="{"]:after {
+  border-left: 2px solid;
+  -webkit-border-bottom-left-radius: 100% 16px;
+  -moz-border-radius-bottomleft: 100% 16px;
+  border-bottom-left-radius: 100% 16px;
+  content: "";
+  position: absolute;
+  bottom: 3px;
+  top: auto;
+  height: 25%;
+  width: 8px;
+  left: 5px;
+}
+
+/* TODO: fix */
+.math mfenced[open="{"] > mrow:before,
+.math mfenced[open="{"] > mtable:before {
+  border-right: 2px solid;
+  border-bottom: 2px solid transparent;
+  -webkit-border-bottom-right-radius: 100% 16px;
+  -moz-border-radius-bottomright: 100% 16px;
+  border-bottom-right-radius: 100% 16px;
+  content: "";
+  position: absolute;
+  top: 25%;
+  bottom: auto;
+  height: 25%;
+  padding-bottom: 4px;
+  width: 12px;
+  left: -7px;
+}
+
+/* TODO: fix */
+.math mfenced[open="{"] > mrow:after,
+.math mfenced[open="{"] > mtable:after {
+  border-right: 2px solid;
+  border-top: 2px solid transparent;
+  -webkit-border-top-right-radius: 100% 16px;
+  -moz-border-radius-topright: 100% 16px;
+  border-top-right-radius: 100% 16px;
+  content: "";
+  position: absolute;
+  top: auto;
+  bottom: 25%;
+  height: 25%;
+  padding-top: 4px;
+  width: 12px;
+  left: -7px;
+}
+
+.math mtable[columnspacing="0em"] > mtr > mtd {
+  padding-left: 0em;
+  padding-right: 0em;
+}
+
+.math mtable[rowspacing="0ex"] > mtr > mtd {
+  padding-top: 0ex;
+  padding-bottom: 0ex;
+}
+
+.math menclose {
+  position: relative;
+}
+
+.math menclose[notation~="verticalstrike"]:after {
+  content: "";
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 50%;
+  border-right: 1px solid;
+}
+.math menclose[notation~="horizontalstrike"]:before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0px;
+  right: 0px;
+  border-bottom: 1px solid;
+}
+
+/* new */
+.math munder {
+  display: inline-table;
+  text-align: center;
+}
+.math munder > mrow {
+  display: table-row;
+}
+
+.math mpadded[width="+0.8em"][lspace="+0.4em"] {
+  display: inline-block;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+}
+
+.math menclose[notation~="circle"] {
+  border: 1px solid;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.math mrow[mathbackground="#80FF80"] {
+  background-color: #80FF80;
+}
+.math mtd[mathbackground="#80FF80"] {
+  background-color: #80FF80;
+}
+.math mstyle[mathvariant="bold"] {
+  display: inline-block;
+  font-weight: bold;
+}
+
+/* someDetails */
+.math mtable[columnlines="none none dashed none"] > mtr > mtd:first-child + mtd + mtd + mtd {
+  border-left: 1px dashed;
+}
+.math mrow[mathcolor="#D64040"] {
+  color: #D64040;
+}
+.math mrow[mathcolor="#4040D6"] {
+  color: #4040D6;
+}
+.math mtd[mathcolor="#808080"] {
+  color: #808080;
+}
+
+/* highlight */
+.math mrow[mathbackground="#FAEBD7"] {
+  background-color: #FAEBD7;
+}
+.math mtd[mathbackground="#FAEBD7"] {
+  background-color: #FAEBD7;
+}
+
+@supports(-webkit-user-drag: element) { /* @supports is needed for Firefox, where -webkit-user-select is supported, but -webkit-user-drag is not */
+
+  /* Chrome 49 needs this to make a MathML element draggable + Safari (https://bugs.webkit.org/show_bug.cgi?id=164280) */
+  menclose[draggable="true"] {
+    -webkit-user-drag: element;
+    -webkit-user-select: none;
+  }
+  .altKey menclose[draggable="true"] {
+    -webkit-user-drag: auto;
+    -webkit-user-select: auto;
+    cursor: initial;
+  }
+
+}
+
+/* TODO: merge with .math - ? */
+.no-columnspacing mtable[columnspacing="0em"] > mtr > mtd {
+  padding-left: 0em;
+  padding-right: 0em;
+}
+.no-mpadded mpadded[width="+0.8em"][lspace="+0.4em"] {
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+}
+.no-columnlines mtable[columnlines$="solid"] > mtr > mtd:last-child {
+  border-left: 1px solid;
+}
+.no-columnlines mtable[columnlines="none none none none solid none none none none"] > mtr > mtd:first-child + mtd + mtd + mtd + mtd + mtd,
+.no-columnlines mtable[columnlines="none none none solid none none none"] > mtr > mtd:first-child + mtd + mtd + mtd + mtd,
+.no-columnlines mtable[columnlines="none none solid none none"] > mtr > mtd:first-child + mtd + mtd + mtd,
+.no-columnlines mtable[columnlines="none solid none"] > mtr > mtd:first-child + mtd + mtd,
+.no-columnlines mtable[columnlines="solid"] > mtr > mtd:first-child + mtd {
+  border-left: 1px solid;
+}
+.no-columnlines mtable[columnlines="none none dashed none"] > mtr > mtd:first-child + mtd + mtd + mtd {
+  border-left: 1px dashed;
+}
+.no-rowspacing mtable[rowspacing="0ex"] > mtr > mtd {
+  padding-top: 0ex;
+  padding-bottom: 0ex;
+}
+
+
+
+/* from https://github.com/fred-wang/mathml.css/blob/master/mathml.css */
+
+/* roots */
+@supports(display: inline-flex) {
+  .math mroot {
+    position: static;
+  }
+  .math mroot > mrow:first-child + mrow {
+    position: static;
+  }
+  .math mroot {
+    display: inline-flex;
+    align-items: baseline;
+  }
+  .math mroot > mrow:first-child + mrow {
+    font-size: smaller;
+    order: -1;
+    align-self: flex-start;
+    margin-right: -0.4em;
+  }
+}
+
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details {
+  display: block;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+details > summary,
+details > div {
+  display: none;
+}
+
+details[open] > summary,
+details[open] > div {
+  display: block;
+}
+
+details > summary:hover,
+details > summary:focus {
+  text-shadow: 0px 0px 8px white;
+  background: #DDDDDD;
+}
+
+details > summary:focus {
+  box-shadow: 0px 0px 3px 3px #80B4F4;
+}
+
+details > summary:before {
+  content: "\25BA";
+  display: inline-block;
+  text-align: center;
+  width: 24px;
+  color: black;
+}
+
+details[open] > summary:before {
+  content: "\25BC";
+  width: 24px;
+  text-align: center;
+}
+
+details > summary {
+  cursor: pointer;
+  display: block;
+  margin-bottom: 3px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.standard-dialog {
+  z-index: 2;/* !? */
+}
+
+.standard-dialog > form > .close {
+  position: absolute;
+  right: 0.3em;
+  top: 0.3em;
+  font-weight: bold;
+  width: 1.2em;
+  height: 1.2em;
+  display: block;
+  text-align: center;
+  line-height: 1.2em;
+  cursor: pointer;
+  padding: 0em;
+  box-shadow: none;
+  border: none;
+  background: transparent;
+}
+
+.standard-dialog::backdrop {
+  display: none;
+}
+
+.backdrop {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.1);
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.standard-dialog {
+  position: absolute;
+  width: auto;
+  height: auto;
+  padding: 1em;
+  left: 0px;
+  right: auto;
+  margin: 0em;
+  max-width: 20em;
+  color: black;
+  background: white;
+  border: 1px solid #CCCCCC;
+  border-radius: 4px;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.5);
+}
+
+.standard-dialog > form {
+  padding: 0em;
+  margin: 0em;
+}
+.standard-dialog > form > .content {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.standard-dialog > form > .content > input {
+  width: 100%;
+}
+.standard-dialog > form > .buttons {
+  text-align: center;
+}
+
+@media screen and (max-width: 22em),
+@media screen and (max-height: 200px) {
+  .standard-dialog {
+    border-radius: 0px;
+  }
+}
+
+.a-input {
+  display: inline-block;
+  position: relative;
+  background: white;
+}
+
+.a-input > div,
+.a-input > input,
+.a-input > textarea {
+  letter-spacing: normal;
+  word-spacing: normal;
+  white-space: pre;
+  word-wrap: normal;
+  -o-tab-size: 4;
+  -moz-tab-size: 4;
+  tab-size: 4;
+  font-family: monospace;
+  background: transparent;
+  position: relative;
+}
+
+.a-input > div {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  overflow: hidden;
+}
+
+
+.tooltip-arrow-wrapper {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 100%;
+  height: 1em;
+}
+
+.tooltip-arrow {
+  position: absolute;
+  left: 0.5em;
+  bottom: -0.85em;
+  width: 1em;
+  height: 1em;
+  transform: rotate(45deg);
+}
+
+.exclamation {
+  display: inline-block;
+  background: orange;
+  color: white;
+  font-weight: bold;
+  padding: 0em 0.5em 0em 0.5em;
+  border-radius: 4px;
+}
+
+/**********************************************/
+/******** Дополнительные настойки  ************/
+	/* кнопка очистить под матрицей */
+#bigtable fieldset .clear-table-button{
+	margin: auto 0.8em;
+	color:red;
+}
+	/* кнопки - возведения в степень и умножить на число */
+#bigtable .button-before-input .expression-button{
+	width: 12em;
+	margin-right: 6px;
+	text-align: center;
+	background-color: #F5F5F5;
+	background-image: linear-gradient(to bottom, #FFFFFF, #E6E6E6);
+	border: 1px solid #CCCCCC;
+}		
+/* поле чисел */
+#bigtable .a-input .fraction-input{
+	width: 3em;
+	height: 1.5em;
+	font-family: "Clear Sans", Arial, sans-serif;
+	font-size: 0.85em;
+	text-align: left;
+	border: 1px solid #A7A7A7;			
+}
+
+	/* поле ручного ввода выражения */
+#bigtable .a-input .expression-input {
+	padding: 0 auto;
+	margin-right: 0.5em;
+	height: 1.7em;
+	width: auto;
+	font-family: "Clear Sans", Arial, sans-serif; 			
+	font-size: 1em;
+	font-weight: 200;
+	text-align: right;
+	border: 1px solid #CCCCCC;
+}
+/* поле с кнопкой для отображения десятичных знаков */
+#bigtable .decimal-fraction-digits-controls{
+	font-size: 90%;
+}
+	/* кнопки сложения и вычитания матриц */
+#bigtable .bbox2 button{
+	margin-bottom: 5px;
+	background-image: none;
+	background-color: #4CAF50;			
+	border:none;
+	border-radius: 0;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	color: aliceblue;
+	text-shadow: 1px 1px 2px hsla(0,0%,0%,0.77);			
+}
+
+#bigtable .bbox2 button:hover, #bigtable .bbox2 button:focus{
+	background-color:hsla(288,92%,20%,1.00);
+}
+
+#decfraccheckbox {
+	margin-right: 0.5em;
+	width: 1.1em;
+	height: 1.1em;
+	vertical-align:middle;		
+}
+/* список второго уровня */
+.feature-content .list-box-2{
+	padding-left: 2em;
+}	
+
+/*поле с решением*/
+	.actline{
+		display: block;
+		height: auto;
+		min-height: 6em;
+		border-top: solid 3px green;
+	}
+#results-container li.actline:last-child{
+	border-bottom: solid 3px green;
+}
+/* кнопка очистить на поле с решением */
+	.actline .insert-buttons{
+	margin-bottom: 1em;
+	}		
+
+
+/* checkbox - цветной дизайн движка*/
+.checkbox {
+	position: absolute;
+	z-index: -1;
+	opacity: 0;
+	margin: 10px 0 0 20px;
+}
+.checkbox + label {
+	position: relative;
+	padding: 0 0 0 60px;
+	cursor: pointer;
+}
+.checkbox + label:before {
+	content: '';
+	position: absolute;
+	top: -4px;
+	left: 0;
+	width: 50px;
+	height: 26px;
+	border-radius: 13px;
+	background: #CDD1DA;
+	box-shadow: inset 0 2px 3px rgba(0,0,0,.2);
+	transition: .2s;
+}
+.checkbox + label:after {
+	content: '';
+	position: absolute;
+	top: -2px;
+	left: 2px;
+	width: 22px;
+	height: 22px;
+	border-radius: 10px;
+	background: #FFF;
+	box-shadow: 0 2px 5px rgba(0,0,0,.3);
+	transition: .2s;
+}
+		/* включенно */
+.checkbox:checked + label:before {
+	background: #9FD468;
+}
+.checkbox:checked + label:after {
+	left: 26px;
+}
+.checkbox:focus + label:before {
+	box-shadow: inset 0 2px 3px rgba(0,0,0,.2), 0 0 0 3px rgba(255,255,0,.7);
+}
+.checkbox:focus + label:before {
+	box-shadow: inset 0 2px 3px rgba(0,0,0,.2), 0 0 0 3px rgba(255,255,0,.7);
+}	
+
+/*******  для арабских языков *******/
+	/** поле с решением для арабских языков **/
+.lang_ar #bigtable .actline{
+	text-align: right;
+}
+/*убираем фигурную стрелку*/
+.lang_ar #bigtable .arrow{
+	display: none;
+}
+/*кнопку очистить сдвгаем вправо*/
+.lang_ar #bigtable .actline > .insert-buttons{
+	float: left;
+}
+/*кнопку очистить все сдвгаем вправо*/
+.lang_ar #bigtable .clear-all-button{
+	float: left;
+}
+
+/*файл det - определитель матрицы*/
+/* кнопки с вариантами решения */
+#bigtable .det-buttons > div > button{
+	width: 19em;
+}
+#bigtable .det-buttons span.button-before-input button.expression-button{
+	width: 15em;
+}		
+/* поле для вода цифр */
+#bigtable .det-buttons input[type="number"]{
+	height: 1.6em;
+	line-height: 1.6em;
+	border: solid 1px #A1A1A1;
+	font-size: 80%;
+}
