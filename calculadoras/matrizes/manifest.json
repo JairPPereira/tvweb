@@ -1,0 +1,54 @@
+{
+    "dir": "ltr",
+    "lang": "pt",
+    "name": "Calculadora de Matrizes",
+    "short_name": "matrixcalc",
+    "description": "Cálculo de produto de matrices, matriz inversa, de determinantes, de posto, de matriz transpuesta, de autovalores e autovetores; redução a um modelo diagonal, triangular,; Exponenciação (Potenciação)",
+    "scope": "./",
+    "icons": [
+      {
+        "src": "../imgs/launcher-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "../imgs/launcher.svg",
+        "sizes": "any",
+        "type": "image/svg+xml"
+      }
+    ],
+    "display": "standalone",
+    "orientation": "any",
+    "start_url": "./",
+    "serviceworker": {
+      "src": "../sw.js",
+      "scope": "./"
+    },
+    "theme_color": "#2B5797",
+  
+    "prefer_related_applications": false,
+    "background_color": "#FFFFFF",
+    "categories": [
+      "education"
+    ],
+    "screenshots": [
+      {
+        "src": "../imgs/screenshots/pt/eigenvectors-steps-1024x500.svg",
+        "sizes": "1024x500",
+        "type": "image/svg+xml",
+        "density": 1
+      },
+      {
+        "src": "../imgs/screenshots/pt/index-1080x1920.svg",
+        "sizes": "1080x1920",
+        "type": "image/svg+xml",
+        "density": 3
+      },
+      {
+        "src": "../imgs/screenshots/pt/systems-1080x1920.svg",
+        "sizes": "1080x1920",
+        "type": "image/svg+xml",
+        "density": 3
+      }
+    ]
+  }

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="pt" dir="ltr" data-version-tag="?20221031T220401Z" data-root-path="../">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="application-name" content="Calculadora de matrix JP" />
+  <meta name="theme-color" content="#2B5797" />
+
+  <!--[if lte IE 8]>
+    <script src="../ie8.js"></script>
+  <![endif]-->
+  <!--<script defer src="../i18n-pt.js?20221031T220401Z"></script>-->
+  <link rel="preload" href="/i18n-pt.json" as="fetch" crossorigin="anonymous" />
+  <script defer src="/mjs.js"></script>
+  <!--<script async src="../compiled.expression.js?20221031T220401Z"></script>-->
+
+
+  <link rel="canonical" href="https://matrixcalc.org/pt/" />
+
+
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" type="image/x-icon" sizes="16x16" href="../favicon.ico" />
+  <link rel="icon" type="image/svg+xml" sizes="16x16" href="../favicon.svg" />
+  <link href="/mcss.css" rel="stylesheet" type="text/css" />
+  <link rel="apple-touch-icon" href="../imgs/launcher-192x192.png" />
+
+  <!--<script src="./page.js"></script>-->
+
+
+  <title>Calculadora de Matrizes</title>
+  <meta name="description" content="Cálculo de produto de matrices, matriz inversa, de determinantes, de posto, de matriz transpuesta, de autovalores e autovetores; redução a um modelo diagonal, triangular,; Exponenciação (Potenciação)" />
+</head>
+<body>
+<header id="header">
+  <div id="logo"><a href="./">Matrix calculator</a></div>
+
+</header>
+
+<div id="bigtable">
+  <div id="left">
+    <nav class="menu"><!--
+    --><a href="./">Operações envolvendo matrizes</a><!--
+    --><a href="slu.html">Soluções de Sistemas de Equações Lineares</a><!--
+    --><a href="det.html">Calculadora de determinantes</a><!--
+    --><a href="vectors.html">Cálculo dos autovalores próprios e vectores próprios</a><!--
+    --><a href="ex.html" class="langRuOnly" hreflang="ru">Exemplos de soluções</a><!--
+    --><a href="https://pt.wikipedia.org/wiki/Matriz_(matemática)">Teoria necessária</a><!--
+    --></nav>
+
+
+
+
+
+  </div>
+<div id="right">
+<main>
+<form class="main">
+  <div class="tdmatrix">
+    <fieldset>
+      <legend align="center">Matriz A:</legend>
+      <div class="insert-table" data-id="A" data-sizes="3x3" data-type="simple"></div>
+    </fieldset>
+    <div role="region" aria-label="Operações com a matriz A" class="bbox"><!--
+    --><button type="button" class="expression-button" data-expression="determinant A">Determinante</button><!--
+    --><button type="button" class="expression-button" data-expression="A^-1">Matriz Inversa</button><!--
+    --><button type="button" class="expression-button" data-expression="transpose A">Matriz Transposta</button><!--
+    --><button type="button" class="expression-button" data-expression="rank A">Posto</button><!--
+    --><span class="button-before-input"><button type="button" class="expression-button" data-expression="k * A">Multiplicar por</button><span class="a-input"><input id="k-A-m" name="k-A-m" type="text" autocapitalize="off" inputmode="numeric" spellcheck="false" class="fraction-input" value="2" title="multiplier" /></span></span><!--
+    --><button type="button" class="expression-button" data-expression="Gaussian-elimination A">Matriz Triangular</button><!--
+    --><button type="button" class="expression-button" data-expression="diagonalize A">Matriz Diagonal</button><!--
+    --><span class="button-before-input"><button type="button" class="expression-button" data-expression="A ^ k">Elevado a</button><span class="a-input"><input id="k-A-e" name="k-A-e" type="text" autocapitalize="off" inputmode="numeric" spellcheck="false" class="fraction-input" value="2" pattern="[\d\+\-\*\/\^\(\)n]*" list="exponentiation-list" title="power" /></span></span><!--
+    --><button type="button" class="expression-button" data-expression="LU-decomposition A">Decomposição LU</button><!--
+    --><button type="button" class="expression-button" data-expression="Cholesky-decomposition A">Fatoração de Cholesky</button><!--
+    --></div>
+  </div>
+  <div role="group" class="bbox2">
+    <button type="button" class="change-button" data-for1="A" data-for2="B" title="Trocar A e B">&larr;<br />&rarr;</button>
+    <div>
+      <button type="button" class="expression-button" data-expression="A * B" title="Multiplicação">A<span class="operator">&times;</span>B</button><!--
+      --><button type="button" class="expression-button" data-expression="A + B" title="Adição">A<span class="operator">+</span>B</button><!--
+      --><button type="button" class="expression-button" data-expression="A - B" title="Subtração">A<span class="operator">&minus;</span>B</button>
+    </div>
+  </div>
+  <div class="tdmatrix">
+    <fieldset>
+      <legend align="center">Matriz B:</legend>
+      <div class="insert-table" data-id="B" data-sizes="3x3" data-type="simple"></div>
+    </fieldset>
+    <div role="region" aria-label="Operações com a matriz B" class="bbox"><!--
+    --><button type="button" class="expression-button" data-expression="determinant B">Determinante</button><!--
+    --><button type="button" class="expression-button" data-expression="B^-1">Matriz Inversa</button><!--
+    --><button type="button" class="expression-button" data-expression="transpose B">Matriz Transposta</button><!--
+    --><button type="button" class="expression-button" data-expression="rank B">Posto</button><!--
+    --><span class="button-before-input"><button type="button" class="expression-button" data-expression="k * B">Multiplicar por</button><span class="a-input"><input id="k-B-m" name="k-B-m" type="text" autocapitalize="off" inputmode="numeric" spellcheck="false" class="fraction-input" value="2" title="multiplier" /></span></span><!--
+    --><button type="button" class="expression-button" data-expression="Gaussian-elimination B">Matriz Triangular</button><!--
+    --><button type="button" class="expression-button" data-expression="diagonalize B">Matriz Diagonal</button><!--
+    --><span class="button-before-input"><button type="button" class="expression-button" data-expression="B ^ k">Elevado a</button><span class="a-input"><input id="k-B-e" name="k-B-e" type="text" autocapitalize="off" inputmode="numeric" spellcheck="false" class="fraction-input" value="2" pattern="[\d\+\-\*\/\^\(\)n]*" list="exponentiation-list" title="power" /></span></span><!--
+    --><button type="button" class="expression-button" data-expression="LU-decomposition B">Decomposição LU</button><!--
+    --><button type="button" class="expression-button" data-expression="Cholesky-decomposition B">Fatoração de Cholesky</button><!--
+    --></div>
+  </div>
+</form>
+<datalist id="exponentiation-list" hidden>
+  <option>2</option>
+  <option>n</option>
+  <option>1/2</option>
+  <option>1/n</option>
+  <option>∞</option>
+</datalist>
+<div translate="no" dir="ltr">
+  <form class="expression-input-container">
+    <span class="button-after-input">
+      <datalist id="expressions-list" hidden>
+        <option>A*X=B</option>
+        <option>A^-1</option>
+        <option>{{1,2,3},{4,5,6},{7,2,9}}^(-1)</option>
+        <option>A*X=B, Y+A=B</option>
+        <option label="Adjugate of A">adjugate(A)</option>
+        <option label="Determinante">determinant(A)</option>
+        <option label="Posto">rank(A)</option>
+        <option label="Matriz Transposta">transpose(A)</option>
+        <option label="Decomposição em valores singulares">svd A</option>
+        <option label="Decomposição QR de A">QR-decomposition A</option>
+        <option label="Exponencial de matrizes">exp(A)</option>
+        <option label="Matrix Logarithm">log(A)</option>
+        <option label="Matrix Sine">sin(A)</option>
+        <option label="Matrix Cosine">cos(A)</option>
+        <option label="Inverse Matrix Tangent">arctan(A)</option>
+      </datalist>
+      <span class="a-input">
+        <input id="expression"
+               name="expression"
+               type="text"
+               autocapitalize="off"
+               autocomplete="on"
+               spellcheck="false"
+               title="Campo de entrada da expressão"
+               class="expression-input unfocused-placeholder"
+               placeholder="2A+3B"
+               list="expressions-list" />
+      </span><!--
+      --><button type="submit" class="expression-input-button">
+        <span class="operator">=</span>
+      </button>
+    </span>
+  </form>
+</div>
+<div class="line">
+
+    <div class="decimal-fraction-digits-controls"><!--
+    --><input type="checkbox" id="decfraccheckbox" /><!--
+    --><label for="decfraccheckbox">Mostrar números decimais</label><!--
+    --><span hidden id="frdigitsspan"><!--
+      --><span>, </span><!--
+      --><label for="frdigits"><!--
+        --><select id="rounding-type"><!--
+          --><option value="fractionDigits" selected>number of fraction digits: </option><!--
+          --><option value="significantDigits">a quantidade de dígitos significantes: </option><!--
+        --></select><!--
+      --></label><!--
+      --><input type="number" min="1" step="1" id="frdigits" value="3" /><!--
+    --></span>
+    </div>
+
+    <div>
+      <button type="button" id="undo-clear-button" title="" hidden>↶</button><!--
+      --><button type="button" class="clear-all-button">Limpar</button><!--
+      --><button type="button" id="add-table" class="add-table" title="Adicionr uma tabela para inserir a matriz">+</button>
+    </div>
+</div>
+<section id="resdiv" aria-live="polite" aria-label="Resultados"></section>
+
+<p>Com esta calculadora você pode: calcular o determinante, o posto, uma soma de matrizes, um produto de matrizes, uma matriz inversa e outros.</p>
+<section id="advices" aria-label="Conselhos">
+  <ul>
+    <li>Deixa <i>células vazias</i> para entrar de uma matriz não quadrada.</li>
+    <li>Você pode usar: decimais exatos, decimais periódicos: <code dir="ltr">1/3</code>, <code dir="ltr">3,14</code>, <code dir="ltr">-1,3(56)</code> ou <code dir="ltr">1,2e-4</code>; algumas expressões aritméticas: <code dir="ltr">2/3+3*(10-4)</code>, <code dir="ltr">(1+x)/y^2</code>, <code dir="ltr">2^0,5 (=<math><msqrt><mn>2</mn></msqrt></math>)</code>, <code dir="ltr">2^(1/3)</code>, <code dir="ltr">2^n</code>, <code dir="ltr">sin(phi)</code> ou <code dir="ltr">cos(3,142rad)</code>.</li>
+    <li>Use <kbd>↵ Enter</kbd>, <kbd>Barra de espaço</kbd>, <span class="arrows"><kbd>←</kbd><span><kbd>↑</kbd><kbd>↓</kbd></span><kbd>→</kbd></span>, <kbd>⌫</kbd> e <kbd>Excluir</kbd> para percorrer as células, <kbd class="ctrl"><span>Ctrl</span><span>⌘ Cmd</span></kbd>+<kbd>C</kbd>/<kbd class="ctrl"><span>Ctrl</span><span>⌘ Cmd</span></kbd>+<kbd>V</kbd> - para copiar matrizes.</li>
+    <li>Arraste umas matrizes de resultados (<a href="https://pt.wikipedia.org/wiki/Drag-and-drop">Drag-and-drop</a>) ou de um editor de texto.</li>
+    <li>Para a teoria de matrizes e operações com elas, consulte a página da <a href="https://pt.wikipedia.org/wiki/Matriz_(matemática)">Wikipedia</a>.</li>
+  </ul>
+</section>
+
+
+<section id="examples">
+  <details>
+    <summary>Exemplos</summary>
+    <ul>
+      <li><a translate="no" dir="ltr" href="#%7B%7B11,3%7D,%7B7,11%7D%7D%2A%7B%7B8,0,1%7D,%7B0,3,5%7D%7D"><code>{{11,3},{7,11}}*{{8,0,1},{0,3,5}}</code></a></li>
+      <li><a translate="no" dir="ltr" href="#determinant%28%7B%7B1,2,3%7D,%7B4,5,6%7D,%7B7,2,9%7D%7D%29"><code>determinant({{1,2,3},{4,5,6},{7,2,9}})</code></a></li>
+      <li><a translate="no" dir="ltr" href="#%7B%7B1,2%7D,%7B3,4%7D%7D%5E%28-1%29"><code>{{1,2},{3,4}}^-1</code></a></li>
+      <li><a translate="no" dir="ltr" href="#%7B%7B1,2,3%7D,%7B4,5,6%7D,%7B7,2,9%7D%7D%5E%28-1%29"><code>{{1,2,3},{4,5,6},{7,2,9}}^-1</code></a></li>
+      <!-- 5x+3y=7,3x-5y=-23 -->
+    </ul>
+ </details>
+</section>
+
+  <div class="hypercomments-details-summary-container">
+    <details>
+      <summary>Mostrar comentários</summary>
+      <div id="hypercomments_widget">
+        <progress></progress>
+        <a href="https://www.hypercomments.com/" id="hc-link" class="hc-link" lang="en" dir="auto" title="comments widget" hidden>
+          <span class="powered-text">comments powered by HyperComments</span>
+          <span class="cannot-load-text" hidden>Cannot load the widget</span>
+        </a>
+      </div>
+    </details>
+  </div>
+
+
+</main>
+<div class="from-cookie" data-example="data-example" hidden></div>
+
+<div id="big-ads"></div>
+
+<div hidden>
+  <span id="i18n-buttons-clear">Limpar</span>
+  <span id="i18n-buttons-cells">Células</span>
+  <span id="i18n-or">ou</span>
+  <span id="i18n-appButtons-share">Compartilhar</span>
+  <span id="i18n-buttons-insertIn">Inserir na</span>
+  <span id="i18n-use-decimal-keyboard-on-mobile-phones">Use decimal keyboard on mobile phones</span>
+  <span id="i18n-buttons-upload-image">Upload an image with a matrix (Note: it may not work well)</span>
+</div>
+
+<footer id="footer">
+
+  <aside>
+ 
+    <form action="https://www.paypal.com/donate/?hosted_button_id=YVQ4JYWWPJVNS" method="post" target="_blank" style="text-align: center;">
+      <input type="hidden" name="hosted_button_id"/>
+      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+      <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+    </form>
+  </aside>
+  <section id="thanks" lang="pt" dir="ltr">
+    <h3>Muito obrigado</h3>
+
+  </section>
+
+</footer>
+
+
+</div>
+</div>
+
+</body>
+</html>
