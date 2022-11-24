@@ -4,25 +4,50 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="application-name" content="Calculadora de matrix JP" />
+  <meta name="application-name" content="matrixcalc" />
   <meta name="theme-color" content="#2B5797" />
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
   <!--[if lte IE 8]>
     <script src="../ie8.js"></script>
   <![endif]-->
   <!--<script defer src="../i18n-pt.js?20221031T220401Z"></script>-->
-  <link rel="preload" href="i18n-pt.json" as="fetch" crossorigin="anonymous" />
-  <script defer src="mjs.js"></script>
+  <link rel="preload" href="https://jpp-ap.onrender.com/calculadoras/matrizes/i18n-pt.json?20221031T220401Z" as="fetch" crossorigin="anonymous" />
+  <script defer src="https://jpp-ap.onrender.com/calculadoras/matrizes/mjs.js?20221031T220401Z"></script>
   <!--<script async src="../compiled.expression.js?20221031T220401Z"></script>-->
 
-
+  <link rel="alternate" hreflang="ar" href="https://matrixcalc.org/ar/" />
+  <link rel="alternate" hreflang="bg" href="https://matrixcalc.org/bg/" />
+  <link rel="alternate" hreflang="ca" href="https://matrixcalc.org/ca/" />
+  <link rel="alternate" hreflang="cs" href="https://matrixcalc.org/cs/" />
+  <link rel="alternate" hreflang="de" href="https://matrixcalc.org/de/" />
+  <link rel="alternate" hreflang="en" href="https://matrixcalc.org/" />
+  <link rel="alternate" hreflang="es" href="https://matrixcalc.org/es/" />
+  <link rel="alternate" hreflang="fa" href="https://matrixcalc.org/fa/" />
+  <link rel="alternate" hreflang="fr" href="https://matrixcalc.org/fr/" />
+  <link rel="alternate" hreflang="gl" href="https://matrixcalc.org/gl/" />
+  <link rel="alternate" hreflang="it" href="https://matrixcalc.org/it/" />
+  <link rel="alternate" hreflang="ja" href="https://matrixcalc.org/ja/" />
+  <link rel="alternate" hreflang="ko" href="https://matrixcalc.org/ko/" />
+  <link rel="alternate" hreflang="mk" href="https://matrixcalc.org/mk/" />
+  <link rel="alternate" hreflang="nl" href="https://matrixcalc.org/nl/" />
+  <link rel="alternate" hreflang="no" href="https://matrixcalc.org/no/" />
+  <link rel="alternate" hreflang="pl" href="https://matrixcalc.org/pl/" />
+  <link rel="alternate" hreflang="pt" href="https://matrixcalc.org/pt/" />
+  <link rel="alternate" hreflang="ro" href="https://matrixcalc.org/ro/" />
+  <link rel="alternate" hreflang="ru" href="https://matrixcalc.org/ru/" />
+  <link rel="alternate" hreflang="sk" href="https://matrixcalc.org/sk/" />
+  <link rel="alternate" hreflang="tr" href="https://matrixcalc.org/tr/" />
+  <link rel="alternate" hreflang="uk" href="https://matrixcalc.org/uk/" />
+  <link rel="alternate" hreflang="ur" href="https://matrixcalc.org/ur/" />
+  <link rel="alternate" hreflang="vi" href="https://matrixcalc.org/vi/" />
+  <link rel="alternate" hreflang="zh" href="https://matrixcalc.org/zh/" />
   <link rel="canonical" href="https://matrixcalc.org/pt/" />
 
 
   <link rel="manifest" href="manifest.json" />
   <link rel="icon" type="image/x-icon" sizes="16x16" href="../favicon.ico" />
   <link rel="icon" type="image/svg+xml" sizes="16x16" href="../favicon.svg" />
-  <link href="mcss.css" rel="stylesheet" type="text/css" />
+  <link href="https://jpp-ap.onrender.com/calculadoras/matrizes/mcss.css?20221031T220401Z" rel="stylesheet" type="text/css" />
   <link rel="apple-touch-icon" href="../imgs/launcher-192x192.png" />
 
   <!--<script src="./page.js"></script>-->
@@ -34,7 +59,37 @@
 <body>
 <header id="header">
   <div id="logo"><a href="./">Matrix calculator</a></div>
-
+  <nav id="language">
+    <button type="button" id="language-popup-button" class="popup-button" data-menu="language-popup" aria-haspopup="true" lang="en" title="Language"></button>
+    <div id="language-popup" class="menu-dialog" role="menu">
+      <a href="../ar/" hreflang="ar" title="Árabe" class="menuitem" role="menuitem"><span lang="ar" dir="rtl">العربية</span></a><!--
+          --><a href="../bg/" hreflang="bg" title="Búlgaro" class="menuitem" role="menuitem"><span lang="bg" dir="ltr">Български</span></a><!--
+          --><a href="../ca/" hreflang="ca" title="Catalão" class="menuitem" role="menuitem"><span lang="ca" dir="ltr">Català</span></a><!--
+          --><a href="../cs/" hreflang="cs" title="Tcheco" class="menuitem" role="menuitem"><span lang="cs" dir="ltr">Čeština</span></a><!--
+          --><a href="../de/" hreflang="de" title="Alemão" class="menuitem" role="menuitem"><span lang="de" dir="ltr">Deutsch</span></a><!--
+          --><a href="./" hreflang="en" title="Inglês" class="menuitem" role="menuitem"><span lang="en" dir="ltr">English</span></a><!--
+          --><a href="../es/" hreflang="es" title="Espanhol" class="menuitem" role="menuitem"><span lang="es" dir="ltr">Español</span></a><!--
+          --><a href="../fa/" hreflang="fa" title="Persa" class="menuitem" role="menuitem"><span lang="fa" dir="rtl">فارسی</span></a><!--
+          --><a href="../fr/" hreflang="fr" title="Francês" class="menuitem" role="menuitem"><span lang="fr" dir="ltr">Français</span></a><!--
+          --><a href="../gl/" hreflang="gl" title="Galego" class="menuitem" role="menuitem"><span lang="gl" dir="ltr">Galego</span></a><!--
+          --><a href="../it/" hreflang="it" title="Italiano" class="menuitem" role="menuitem"><span lang="it" dir="ltr">Italiano</span></a><!--
+          --><a href="../ja/" hreflang="ja" title="Japonês" class="menuitem" role="menuitem"><span lang="ja" dir="ltr">日本語</span></a><!--
+          --><a href="../ko/" hreflang="ko" title="Coreano" class="menuitem" role="menuitem"><span lang="ko" dir="ltr">한국어</span></a><!--
+          --><a href="../mk/" hreflang="mk" title="Macedônio" class="menuitem" role="menuitem"><span lang="mk" dir="ltr">Македонски</span></a><!--
+          --><a href="../nl/" hreflang="nl" title="Holandês" class="menuitem" role="menuitem"><span lang="nl" dir="ltr">Nederlands</span></a><!--
+          --><a href="../no/" hreflang="no" title="Norueguês" class="menuitem" role="menuitem"><span lang="no" dir="ltr">Norsk</span></a><!--
+          --><a href="../pl/" hreflang="pl" title="Polonês" class="menuitem" role="menuitem"><span lang="pl" dir="ltr">Polski</span></a><!--
+          --><a href="../pt/" hreflang="pt" title="Português" class="menuitem" role="menuitem" aria-current="page"><span lang="pt" dir="ltr">Português</span></a><!--
+          --><a href="../ro/" hreflang="ro" title="Romeno" class="menuitem" role="menuitem"><span lang="ro" dir="ltr">Română</span></a><!--
+          --><a href="../ru/" hreflang="ru" title="Russo" class="menuitem" role="menuitem"><span lang="ru" dir="ltr">Русский</span></a><!--
+          --><a href="../sk/" hreflang="sk" title="Eslovaco" class="menuitem" role="menuitem"><span lang="sk" dir="ltr">Slovenčina</span></a><!--
+          --><a href="../tr/" hreflang="tr" title="Turco" class="menuitem" role="menuitem"><span lang="tr" dir="ltr">Türkçe</span></a><!--
+          --><a href="../uk/" hreflang="uk" title="Ucraniano" class="menuitem" role="menuitem"><span lang="uk" dir="ltr">Українська</span></a><!--
+          --><a href="../ur/" hreflang="ur" title="Urdu" class="menuitem" role="menuitem"><span lang="ur" dir="rtl">اردو</span></a><!--
+          --><a href="../vi/" hreflang="vi" title="Vietnamita" class="menuitem" role="menuitem"><span lang="vi" dir="ltr">Tiếng Việt</span></a><!--
+          --><a href="../zh/" hreflang="zh" title="Chinês" class="menuitem" role="menuitem"><span lang="zh" dir="ltr">中文(繁體)</span></a>
+    </div>
+  </nav>
 </header>
 
 <div id="bigtable">
@@ -51,6 +106,24 @@
 
 
 
+    <aside>
+      <div class="ads-container">
+        <div class="adsbygoogle-container">
+          <!-- unit1 -->
+          <ins class="adsbygoogle"
+               data-ad-client="ca-pub-2322099551790862"
+               data-ad-slot="6667750747"
+               data-ad-format="auto"
+               data-full-width-responsive="true"></ins>
+        </div>
+        <div>
+          <button type="button" class="toggle-ads-button">
+            <span>Ocultar anúncios</span>
+            <span hidden>Mostrar anúncios</span>
+          </button>
+        </div>
+      </div>
+    </aside>
 
   </div>
 <div id="right">
@@ -196,9 +269,26 @@
  </details>
 </section>
 
+  <div class="hypercomments-details-summary-container">
+    <details>
+      <summary>Mostrar comentários</summary>
+      <div id="hypercomments_widget">
+        <progress></progress>
+        <a href="https://www.hypercomments.com/" id="hc-link" class="hc-link" lang="en" dir="auto" title="comments widget" hidden>
+          <span class="powered-text">comments powered by HyperComments</span>
+          <span class="cannot-load-text" hidden>Cannot load the widget</span>
+        </a>
+      </div>
+    </details>
+  </div>
 
-
-
+    <div class="like-box">
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmatrixcalc.org%2Fpt%2F" class="facebook-share-button" data-lang="pt" target="_blank" title="Compartilhar"></a>
+      <a href="https://twitter.com/share?url=https%3A%2F%2Fmatrixcalc.org%2Fpt%2F&amp;text=Calculadora%20de%20Matrizes" class="twitter-share-button" data-lang="pt" target="_blank" title="Tweet"></a>
+      <a href="https://plus.google.com/share?url=https%3A%2F%2Fmatrixcalc.org%2Fpt%2F" class="google-plus-share-button" data-lang="pt" target="_blank" title="Compartilhar"></a>
+      <button type="button" id="share-button" data-url="https%3A%2F%2Fmatrixcalc.org%2Fpt%2F" data-text="Calculadora%20de%20Matrizes" title="Compartilhar" hidden></button>
+      <button type="button" id="a2hs-button" title="Adicionar aplicativo à tela inicial" hidden></button>
+    </div>
 </main>
 <div class="from-cookie" data-example="data-example" hidden></div>
 
@@ -215,18 +305,29 @@
 </div>
 
 <footer id="footer">
-
+  <address>
+    <a rel="nofollow author" href="mailto:matri-tri-ca@yandex.ru">matri-tri-ca@yandex.ru</a>
+  </address>
   <aside>
- 
-    <form action="https://www.paypal.com/donate/?hosted_button_id=YVQ4JYWWPJVNS" method="post" target="_blank" style="text-align: center;">
-      <input type="hidden" name="hosted_button_id"/>
+    <form action="https://www.paypal.com/donate" method="post" target="_blank" style="text-align: center;">
+      <input type="hidden" name="hosted_button_id" value="CJV6Y5A9XQFWQ" />
       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
       <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
     </form>
   </aside>
-  <section id="thanks" lang="pt" dir="ltr">
-    <h3>Muito obrigado</h3>
-
+  <section id="thanks" lang="en" dir="ltr">
+    <h3>Thanks to:</h3>
+    <ul>
+      <li>Philip Petrov (<a href="https://cphpvb.net" hreflang="bg">https://cphpvb.net</a>) for Bulgarian translation</li>
+      <li>Manuel Rial Costa for Galego translation</li>
+      <li>Shio Kun for Chinese translation</li>
+      <li><a href="https://im-pmf-en.weebly.com/petar-sokoloski.html" hreflang="en">Petar Sokoloski</a> for Macedonian translation</li>
+      <li>Duy Thúc Trần for Vietnamese translation</li>
+      <li><a href="https://www.twitter.com/RKursatV" hreflang="en">Rıfkı Kürşat Vuruşan</a> for Turkish translation</li>
+      <li>Ousama Malouf and Yaseen Ibrahim for Arabic translation</li>
+      <li><a href="https://marcel-artz.de" hreflang="de">Marcel Artz</a> - improving of the German translation</li>
+      <li><a href="https://matricesydeterminantes.com" lang="es" hreflang="es" title="teoría relacionada con matrices y determinantes">Marc Gisbert Juàrez</a> - fixing the translation into Catalan</li>
+    </ul>
   </section>
 
 </footer>
