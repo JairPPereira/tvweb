@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.gumlytics.com/insights/1.1/gumlet-insights.min.js"></script>
+    <script src="/bradmax/hlsjs/hls.1.1.5.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  
+    <title>Document</title>
+</head>
+<body>
+    <h1>Gumlet Insights SDK</h1>
+    <div id="player" style="width: 400px"></div>
+    
+    <script type="text/javascript">
+    
+        var video = document.getElementById('my-video');
+        var time = new Date().getTime();
+        var hls = new Hls({
+          // disable preload
+          autoStartLoad: false
+        });
+      
+        hls.attachMedia(video);
+        hls.loadSource('https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8');
+          video.addEventListener('play', function() {
+          // needed for when preload disabled
+          hls.startLoad();
+        });
+      
+      </script>
+</body>
+</html>
