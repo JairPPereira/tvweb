@@ -1,0 +1,8 @@
+.container {
+  padding-top: 18vh;
+	margin: 20px auto;
+    width: 600px;
+}
+video {
+	width: 100%;
+}
