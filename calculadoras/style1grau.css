@@ -1,0 +1,42 @@
+#funç1grau  .titulo {font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;  font-size:25px;  color:#000080;  text-align:left;   font-weight:bold;  margin: 3px 0 0 3px }
+    
+#funç1grau .logomarca {text-align: center;  font-size: 12px; color: #FFFF00;   font-family:"Lucida Calligraphy";  font-weight:bold;  border-style:double;   border-radius: 5px ;  padding: 2px; width: 42px;  margin: auto;   background-color: #6A0888;   }
+
+#funç1grau .container{ background-color:#D8D8D8;  margin-right:auto; margin-left:auto; border: 3px solid #0000ff; padding: 5px 10px 5px 5px;}
+#funç1grau .exp {font-size: 13px; position: relative; top: -7px; position: relative;  } 
+
+#funç1grau .col-md-12{position:relative; min-height:1px; padding-right:2px; padding-left:5px;   }
+#funç1grau .form-control{display:block; width:100%; height:30px; padding:5px; font-size:15px;   color:#555; background-color:#F2F5A9; background-image:none; border:1px solid #ccc; border-radius:4px; font-weight: bold;   ease-in-out .15s,box-shadow ease-in-out .funç1grau .15s;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s; -webkit-box-shadow: 0px 0px 8px 3px rgba(19,88,255,0.72);   box-shadow: 0px 0px 8px 3px rgba(19,88,255,0.72);}
+#funç1grau .form-control:focus{border-color:#66afe9; outline:0;-webkit-box-shadow:inset 0 2px 2px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6); box-shadow:inset 0 2px 2px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6)}
+#funç1grau [disabled] {background: #FA8181;}
+
+#funç1grau table#fracao{border-spacing:0; width:auto;   border-collapse:collapse,  text-align: center; font-size:16px;   font-weight:bold; font-family: Serif, Times New Roman, Georgia;} 
+ 
+#funç1grau table{border-spacing:0; width:100%; font-size: 14px;  font-family: arial; border-collapse:collapse,    } 
+#funç1grau .table td, .table th{background-color:#fff!important}
+#funç1grau .table-bordered td,.table-bordered th{border:1px solid #ddd!important}
+#funç1grau .table input{font-family:inherit; font-size:inherit; line-height:inherit; font-size:18px;   }
+#funç1grau .table-condensed>tbody>tr>td,.table-condensed>tbody>tr>th,.table-condensed>tfoot>tr>td,.table-condensed>tfoot>tr>th,.table-condensed>thead>tr>td,.table-condensed>thead>tr>th{padding: 2px 20px 4px 8px;} 
+#funç1grau .table-bordered{border:1px solid #ddd}
+#funç1grau .table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th{border:1px solid #ddd}
+#funç1grau .table-bordered>thead>tr>td,.table-bordered>thead>tr>th{border-bottom-width:2px; }
+
+#funç1grau .btn {background-color: #000000;  border: none;  color: white;   text-align: center;    text-decoration: none;  display: inline-block;    font-size: 17px;   width: 110px;  padding: 7px;  margin-left: center;  margin-top: 4px; margin-bottom: 4px; }
+#funç1grau .btn:hover {background-color: #D71212; border: none;  color: white;   padding: 7px;   text-align: center;    text-decoration: none;    display: inline-block;
+    font-size: 17px;  color: #FFF;  width: 110px;   margin-left: center;    border: 0px;  cursor: pointer;    margin-top: 4px; margin-bottom: 4px; }
+#funç1grau .btn-success{color:#000;  background-color:#BDBDBD;    width: 150px;   padding: 7px;  font-size: 17px;  margin: 10px 0 0 110px; cursor: pointer; } 
+#funç1grau .btn-success:hover{color:#fff;  background-color:#8B0A50;   width: 150px; padding: 7px;  font-size: 17px;  margin: 10px 0 0 110px; cursor: pointer; } 
+#funç1grau .i{font-family: times; font-style: italic; font-size: 16px;  width: 19px; height: 19px; font-weight: bold;  cursor:pointer;  }
+
+#funç1grau .tooltip {background: #E1F5A9; width: 20px; height: 20px; position: relative;  display: inline-block;  border: #125636 solid 1px ;  border-radius: 20px; cursor:pointer; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none;  -ms-user-select: none;  user-select: none; text-align:center;    } 
+
+#funç1grau .tooltip .tooltiptext { visibility: hidden; width: 250px;  background-color: #555;  color: #fff;  text-align: left;  border-radius: 6px;  padding: 3px ;  position: absolute;  z-index: 1;  bottom: 125%;  left: 50%;  margin-left: -105px;  opacity: 0;  transition: opacity 0.3s;  }
+#funç1grau .tooltip .tooltiptext::after {  content: "";  position: absolute;  top: 100%;  left: 50%;  margin-left: -5px;  border-width: 5px;  border-style: solid;  border-color: #555 transparent transparent transparent;  }
+#funç1grau .tooltip:hover .tooltiptext { visibility: visible;  opacity: 1;   }
+ 
+#customers {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; border-collapse: collapse;  font-family: arial;  font-size: 15px; font-weight:500;  }
+#customers td, #customers th { border: none; padding: 3px 3px 3px 3px; text-align:left; }
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+#customers th { padding-top: 3px;  padding-bottom: 3px;  text-align: left;  background-color: #4CAF50;  color: white; }
+
+#funç1grau  .cor  { color:#ff0000; font-size: 23px;   font-family: times new roman;   font-style:italic; font-weight:bold;}
