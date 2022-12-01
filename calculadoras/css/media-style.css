@@ -1,0 +1,237 @@
+@charset "UTF-8";@charset "UTF-8";
+@media (max-width: 320px) {
+body{
+	font-size: 19px;
+	line-height: 1.15em;
+}
+/* верхняя картинка сайта */ 
+.header-img-box {
+	background-image: url(/menu/img/fon-1-1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% auto;	
+}
+/* название сайта в шапке сайта */	
+.logo-site-box{
+	font-size: 130%;
+	color:#FFFFFF;
+	font-weight: 300;
+}
+/* картинка плавующие размещаем по центру */
+.img-float-left, .img-float-right{
+	display: block;
+	float: none;
+	margin: 1em auto;
+	min-width: 80%;
+	max-width: 100%;
+	height: auto;
+}
+/* оформление раздела art */
+.art p{
+	text-indent: 1em;
+}
+.caption-h1{
+	font-size: 110%;
+}
+.caption-h2{
+	font-size: 105%;
+}	
+.list-box{
+	padding-left:1em;
+	font-size: 90%;
+}	
+.list-box-2{	
+	padding-left:1.6em;
+	font-size: 90%;	
+}
+.art h3 {
+	text-align: left;
+	font-size: 100%;
+	text-indent: 1em;
+}
+/*блок с названием сайта и меню*/
+	.header-img-box{
+		margin-top: 0.5em;
+	}
+/*кнопка вверх*/
+	 #back-top span{
+		display: none;
+	}
+}
+
+@media (min-width: 321px) and (max-width: 767px) {
+body{
+	font-size: 19px;
+	line-height: 1.25em;
+}
+/* верхняя картинка сайта */ 
+.header-img-box {
+	background-image: url(/menu/img/fon-1-2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% auto;	
+}
+/* название сайта в шапке сайта */
+.logo-site-box{
+	font-size: 160%;
+	color:#FFFFFF;
+	font-weight: 300;
+}
+.logo-site-box p{	
+	margin: 0.5em 0 0.8em 0;
+	padding: 0;	
+}
+.art p{
+	text-indent: 1em;
+}
+	
+.caption-h1{
+	font-size: 120%;
+}	
+.caption-h2{
+	font-size: 115%;	
+/* блок для размещения контейнеров item кирпичной кладки */
+}
+	/*для разделов высшей математики*/
+.art #bigtable{
+	font-size:90%;
+	font-weight:300;
+}
+.art #bigtable p{
+	text-indent: 0.3em;
+}	
+.art #right{
+	padding: 3px;
+}
+.art .feature-box{
+	font-size: 70%;
+}
+.art .feature-box .list-box{
+	padding-left: 2em;
+}	
+	
+.masonry {
+	column-gap: 0.5em; 			/* расст-е между колонками */
+	-moz-column-gap: 0.5em; 
+	-webkit-column-gap: 0.5em; 
+}
+/* картинка плавующие размещаем по центру */
+.img-float-left, .img-float-right{
+	display: block;
+	float: none;
+	margin: 1em auto;
+	min-width: 30%;
+	max-width: 50%;
+	height: auto;
+}
+.list-box{
+	padding-left:1em;
+}	
+.list-box-2{	
+	padding-left:1.6em;
+}
+.important-factor-1{
+	text-align: left; /* выравнивание текста */
+}
+.important-factor-2{
+	text-align:left; /* выравнивание текста */
+}
+.art h3 {
+	text-align: left;
+	text-indent: 1em;
+	margin-bottom: 1em;
+}
+/*блок с названием сайта и меню*/
+	.header-img-box{
+		margin-top: 0.5em;
+	}
+/*кнопка вверх*/
+	 #back-top span{
+		display: none;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+body{
+	font-size: 19px;
+	line-height: 1.25em;
+}
+
+/* блок для размещения контейнеров item кирпичной кладки */
+.masonry {
+	column-gap: 0.5em; 			/* расст-е между колонками */
+	-moz-column-gap: 0.5em; 
+	-webkit-column-gap: 0.5em; 
+}
+/*блок с названием сайта и меню*/
+	.header-img-box{
+		margin-top: 0.5em;
+	}
+}
+
+
+/* for masonry containers */
+@media (max-width: 540px) {
+/* block for placing bricks item containers */
+.masonry {
+	-moz-column-count: 1;
+	-webkit-column-count: 1;
+	column-count: 1;  			 /*count columns*/
+}
+}
+@media (min-width: 541px) and (max-width: 799px) {
+/* block for placing bricks item containers */
+.masonry {
+	-moz-column-count: 3;
+	-webkit-column-count: 3;
+	column-count: 3;  			 /*count columns*/
+}		
+}
+@media (min-width: 800px)  {
+/* block for placing bricks item containers */
+.masonry {
+	-moz-column-count: 5;
+	-webkit-column-count: 5;
+	column-count: 5;  			 /*count columns*/
+}
+/*block with the name of the site and menu*/
+	.header-img-box{
+		margin-top: 0.5em;
+	}
+}
+
+/*для блоков item, ширина которых задается фиксированной и блоки плавающие*/
+/* для контейнеров masonry */
+@media (max-width: 640px) {
+/*для блоков item, ширина которых задается фиксированной и блоки плавающие*/
+.box-item .item{
+	width: 100%;
+}	
+}
+@media (min-width: 641px) and (max-width: 991px) {
+
+/*для блоков item, ширина которых задается фиксированной и блоки плавающие*/
+.box-item .item{
+	width: 50%;
+}		
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+
+/*для блоков item, ширина которых задается фиксированной и блоки плавающие*/
+.box-item .item{
+	width: 33.333333%;
+}		
+}
+
+@media print { /* Стиль для печати */
+	.reclame-adaptive-art{
+		display: none;
+	}
+	footer{
+		display: none;
+	}
+	.ikon-social-box{
+		display: none;
+	}
+	header, .header-img-box, .menu-up-box-2, .menu-mobile, .page-menu, .language-box, .submenu-link{
+		display: none;
+	}
+}

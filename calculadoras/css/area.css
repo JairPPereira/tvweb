@@ -1,0 +1,259 @@
+@charset "UTF-8";
+.art{
+	 background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wMGQ0NJbe7urkAAABPSURBVFjD7dehDQAgDEXBgur+y4IrhgkwhHDPNzlR81tVxVFzRmZcue3xYNDQ0NDQ0NDQ0NDQn6HbGPUe2kb009DQ0NDQ0NDQ0NDQNuJuARrpGAHptOaWAAAAAElFTkSuQmCC");	
+}
+.formula.important-factor-2{
+	border-radius: 6px;
+	border:1px solid rgba(21,212,31,0.88);;
+}
+.formula.important-factor-2.color-6{
+	border:2px solid hsla(181,94%,25%,1.00);
+}
+.formula.important-factor-2.color-6.activ, .formula.important-factor-2.activ{
+	-webkit-box-shadow: 0px 2px 10px 2px hsla(95,77%,34%,0.70);
+	box-shadow: 0px 2px 10px 4px hsla(95,77%,34%,0.70);
+}
+.formula.important-factor-2.color-6.activ:hover, .formula.important-factor-2.color-6.activ:focus, .formula.important-factor-2.color-6.activ:active{
+	border:2px solid hsla(227,100%,79%,1.0);
+	-webkit-box-shadow: 0px 2px 10px 2px hsla(227,100%,79%,0.67);
+	box-shadow: 0px 2px 10px 4px hsla(227,100%,79%,0.67);
+	-webkit-transition: 0.5s;	
+	-o-transition: 0.5s;	
+	transition: 0.5s;	
+}
+.formula.important-factor-2.activ:hover, .formula.important-factor-2.activ:active, .formula.important-factor-2.activ:focus{
+	border:1px solid hsla(227,100%,79%,1.0);
+	-webkit-box-shadow: 0px 2px 10px 2px hsla(227,100%,79%,0.67);
+	box-shadow: 0px 2px 10px 4px hsla(227,100%,79%,0.67);
+	-webkit-transition: 0.5s;	
+	-o-transition: 0.5s;	
+	transition: 0.5s;		
+}
+.art h2{
+	text-indent: 2em;
+	text-align: left;
+}
+/*поля ввода данных для расчета*/
+	/*надпись - вычислить*/
+.art p.input-group-title{
+	display: inline-block;
+	width: auto;
+	margin: 0 0 0.5em 0;
+	border-bottom: solid 1px forestgreen;
+	color:forestgreen;
+	font-size: 80%;
+	text-indent: 0.5em;
+}
+/*формула*/
+.formula{
+	color:darkblue;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);		
+}
+.formula-art{
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+	 0px 8px 13px rgba(0,0,0,0.1),
+	 0px 18px 23px rgba(0,0,0,0.1);	
+	font-size: 70%;
+}
+
+/*нумерованный список*/
+.art .list-num-circle{
+	margin: 0 0 0.75em 0;
+}
+.list-num-circle li:before{
+	font-size: 70%;
+}
+.list-num-circle li {
+padding-left: 1.65em;
+margin: 0.15em 0;
+}
+/*убираем подчеркивание при наведении на ссылку*/
+.list-num-circle li a:hover {
+	border-bottom: none;
+}	
+/*цифры в кружках*/
+.nomber{
+position:absolute;
+font-size: .85em; 	
+width: 1.8em;		/* размер кружков */
+height: 1.8em;
+line-height: 1.7em;
+padding:0;
+color:#fff;
+background:hsla(233,86%,66%,0.80);	/* цвет кружка */
+font-weight:bold;
+text-align:center;
+vertical-align: middle;
+border-radius: .9em;
+box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.3);
+z-index: 1;
+-webkit-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;	
+}
+.color-2{
+background:hsla(306,94%,37%,1.00);	/* цвет кружка */	
+}
+/*название групп треугольников в перечне*/
+.art .title-1{
+	font-weight: 400;
+	color:#0004C8;
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+.art .color-2f{
+	color:hsla(306,94%,37%,1.00);	/* цвет кружка */	
+}
+
+
+span.answer span.katex{
+	font-family: "Clear Sans", Arial, sans-serif; 	
+	font-weight: 200;
+	color: hsla(205,67%,48%,0.70);	
+}
+.input-group-addon{
+	font-size: 0.9em;
+	color:hsla(0,0%,55%,1.00);
+}
+
+/*выравнивание формулы*/
+.center{
+	text-align: left;
+}
+/*контейнер с полем ввода*/
+.input-group {
+	margin: 0 0 0.3em 0;
+}
+/*название поле ввода*/
+.art .input-group-addon{
+	width: auto;
+}
+
+/*для арабского языка*/
+.lang_ar .art h2{
+	text-align: right;
+}
+/*выравнивание формулы*/
+.lang_ar .center{
+	text-align: right;
+}
+
+	table.tab {
+	margin: 0 auto 1em auto;
+	background: #FFFFFF;
+	text-align:justify;
+	font-weight:normal;
+	text-indent: 0;
+	border: solid 1px #DDD;
+	}
+/*для всех ячеек*/
+table.tab td{
+	border: solid 1px #DDD;
+	text-align:center;
+	padding: 3px 0.5em;
+	}
+/*для первого столбца*/
+table.tab tr td:first-child{
+	max-width: 200px;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 0.8em;
+	}		
+/*для второго столбца*/
+table.tab tr td:nth-child(2){
+	max-width: 300px;
+	text-align: center;
+	font-size: 0.8em;
+	}	
+	
+table.tab tr td:nth-child(4){
+	font-size: 0.8em;
+	}		
+/*для строки заголовка*/
+table.tab tr:first-child, table.tab tr:first-child td:first-child, table.tab tr:first-child td:nth-child(2), table.tab tr:first-child td:nth-child(3), table.tab tr:first-child td:nth-child(4) {
+	text-align:center;
+	vertical-align: middle;
+	font-size: 0.9em;
+	font-weight: 300;
+	color: darkmagenta;
+	background-color: hsla(235,100%,91%,0.10)
+	}
+	
+.title-td{
+		height: 1.8em;
+		text-indent: 0;
+		vertical-align: middle;
+		font-size: 1.2em;
+		color: darkgreen;
+		font-weight: 300;
+	}
+/*********** for table  **************/
+	@media (max-width: 320px) {
+	table.tab tr td:first-child, table.tab tr td:nth-child(2){
+		display: none;
+		}	
+	table.tab tr td:nth-child(3) {
+		width: 35%;
+		}			
+	table.tab tr td:nth-child(4){
+		font-size: 0.8em;
+		}	
+	}
+	@media (min-width: 321px) and (max-width: 450px) {
+	table.tab tr td:first-child, table.tab tr td:nth-child(2){
+		display: none;
+		}		
+	}
+	@media (min-width: 451px) and (max-width: 560px) {
+	table.tab tr td:first-child{
+		display: none;
+		}	
+		table.tab tr td:nth-child(2){
+			font-size: 0.7em;
+		}	
+
+	}
+	@media (max-width: 750px){
+			table.tab tr td:nth-child(2) span.small{
+			display: none;
+		}	
+	}
+/***********/
+
+@media (min-width: 600px) and (max-width: 860px) {
+/* картинка плавующие размещаем по центру */
+	.art .img-float-left, .art .img-float-right{
+		display: block;
+		float: none;
+		margin: 0 auto;
+		min-width: 30% !important;
+		max-width: 60% !important;
+		height: auto;
+	}	
+	.nomber{
+		font-size: 0.75em;
+	}	
+}
+
+@media (min-width: 321px) and (max-width: 600px){
+	.art .katex {
+	font-size: 0.8em;
+	}	
+	.nomber{
+		font-size: 0.65em;
+	}
+}
+
+@media (max-width: 320px){
+	.art .katex{
+	font-size: 0.7em;
+	}	
+	.nomber{
+		font-size: 0.6em;
+	}
+}
+
+

@@ -1,0 +1,258 @@
+@charset "UTF-8";
+/* Контейнер, содержащий все остальные блоки */
+.container {
+	width: 1160px;
+	height: auto;	
+	margin: 10px auto 10px auto;
+	padding: 0;
+}
+/* верхняя шапка сайта */
+header {
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+	/*	контейнер для логотипа и картинки верхней шапки сайта */
+.header-img-box{
+	display: block;
+	float: left;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+.logo{
+	display: block;
+	width: auto;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+.logo-site-box {
+	width: auto;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+
+/*  контейнер для блоков верхнего меню */
+.menu-up-box{
+	display: block;
+	float: left;
+	width:100%;
+	height:auto;
+	margin: 0 0 0 0;
+	padding: 10px 0;
+}
+
+	/* контейнер содержащий меню */
+.logo-site-box {
+	width: auto;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+
+/* контейнер содержащий среднюю часть сайта со статьей */
+.content{
+	display: block;
+	float: left;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0 0 1em 0;
+}
+	/* дополнительный контейнер для создания отступов с правой и левой стороны */
+.content-box{
+	width: auto;
+	height: auto;
+	margin: 0 1em;
+	padding: 0;
+}
+/* верхняя полоска меню, позволяющая оценить где находится страница в структуре сайта */
+.page-menu{
+	display: block;
+	width: 100%;
+	height: auto;
+	margin: 2px 0;
+	padding: 2px;
+}
+.page-menu a, .page-menu p{
+	display: inline-block;
+	float: left;
+}
+	/* Основной заголовок статьи */
+.caption-h1 {
+	display: block;
+	width: 100%;
+	height: auto;
+	margin: 1em 0;
+	padding: 0;
+}
+
+/* контейнер art содержащий саму статью со всеми входящими блоками */
+.art{
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;	
+}
+/* название подраздела внутри статьи */
+.caption-h2 {
+	display: inline-block;
+	width: 100%;
+	margin: 5px 0;
+	padding: 5px 0;
+}
+/* контейнер содержащий блоки выстраивающиеся по принципу кирпичной кладки */
+.wrapper{
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;	
+}
+/* блок для размещения контейнеров item кирпичной кладки */
+.masonry {
+	display: block;
+	margin: 0 ;
+	padding: 0;
+}
+/* item контейнеры содержащие информацию - картинки, текст и т.д. */
+.item{
+	display: inline-block; 			
+	margin: 0.5em 0 0.5em 0;   		/*расстояние между блоками снизу*/
+	padding: 0;
+	width: 100%;
+}
+
+/*структура для создания блоков с описанием статьи*/
+/* контейнер содержащий остальные контейнеры */
+.item-block{
+	display:block;
+	width: 96%;
+	height: auto;
+	margin: 0 2%;
+	padding: 0;
+}
+.art-img, .art-block-title, .art-description {
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+.art-img{
+	width: 100%;
+	margin: 0;
+}
+/* кнопка для перехода к статье */
+.art-more{
+	display: inline-block;
+	float: right;
+	width: auto;
+	height: auto;
+	margin: 0.5em 0 0 0;
+	padding: 5px 25px;
+}
+.art-block-title {
+	display: table;				/* сделано таблицей, чтобы вровнять по вертикале */
+	width: 100%;
+	height:auto;				/* работает также как min-height, то есть будет растягиваться пока не поместится всё содержимое */
+}
+.art-block-title a{
+	display: table-cell;		/* сделано таблицей, чтобы вровнять по вертикале */
+	margin:0;
+	padding: 5px 3px 10px 5px;
+	}
+
+/* структура анологичная блокам masonry, но выравниваемая на основании заданной ширины блоков*/
+/* контейнер в который помещены блоки item */
+.box-item{
+	display: block;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+.box-item .item{
+	display: block;
+	float: left;
+	width: 33%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+.box-item .art-more{
+	display: block;
+	float: right;
+	margin: 15px;
+}
+.box-item .item-block{
+	display: block;
+	float: left;
+	width: auto;
+	height: auto;
+	margin: 10px;		
+}
+/*для арабских языков*/
+.lang_ar .item-block{
+	float: right;
+}
+.box-item .item-block p{
+	margin: 0 0.2em;
+}
+/* контейнеры на сонове item, для формирования картинки с надписью (добавляем свойство activ, верхний заголовок со ссылки меняем на параграф)*/
+.item.activ .item-block {
+	width: auto;
+	margin: 0;
+	padding: 0;	
+}
+.item.activ .item-block p{
+	margin: 0.2em 0;
+}
+.item.activ .art-img{
+	margin: 0 0 -0.3em 0;
+}
+/* раздел с дополнительными статьями */
+.more{
+	display: none;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+
+/* Блок с коментариями */
+.comment{
+	float:left;
+	margin: 0 0 1em 0;
+	padding:1em 0 0 0;
+	width: 100%;
+	height:auto;		
+	}
+.comment #mc-container {
+	margin:0 1em;
+	}
+
+
+/* подвал сайта */
+footer{
+	display: block;
+	float: left;
+	width: 100%;
+	height: auto;
+	margin: 0.5em  0 1em 0;
+	padding: 0.5em 0;
+}
+.reclame-adaptive-bottom{
+	display: block;
+	float: left;
+	width: 100%;
+	height: auto;
+	margin: 0.5em 0;
+	padding: 0.2em 0;	
+}
+.reclame-adaptive-art{
+	margin: 0.3em auto 1em auto;	
+}
