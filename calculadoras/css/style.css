@@ -89,7 +89,7 @@ body {
 	font-style: normal;
 	font-weight:300;
 	color:#1B1B1B;	
-	background: url(../menu/img/light-board-1.jpg) left top repeat;
+	background: url(https://jpp-ap.onrender.com/matrizes/menu/img/light-board-1.jpg) left top repeat;
 	background-attachment: fixed;
 /*Статичная картинка, как правило большая*/
 /*	background-image: url(/menu/img/fon-3.jpg); 
@@ -115,7 +115,7 @@ body {
 /* верхняя картинка сайта */ 
 .header-img-box {
 	background-color: rgba(21,212,31,0.66);
-	background-image: url(../menu/img/fon-1.jpg);
+	background-image: url(https://jpp-ap.onrender.com/matrizes/menu/img/fon-1.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% auto;
 	-webkit-box-shadow: 
@@ -488,7 +488,7 @@ a:active, a:focus, a:hover, a:checked{
 	margin: 0.2em 0 0.2em 0;
 	padding-left:2em;
 	max-width: 100%;	
-	list-style: url(../menu/img/list-tick-normal.png);
+	list-style: url(https://jpp-ap.onrender.com/matrizes/menu/img/list-tick-normal.png);
 	text-align:left;
 	}	
 .list-box-2{
