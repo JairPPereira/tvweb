@@ -1,0 +1,335 @@
+
+<!doctype html><html lang="pt">
+    <head>
+    
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preload" href="/font/pc-icons.woff2?t=2f4187228ca956c693a7216e80d6ea51" as="font" type="font/woff2" crossorigin/>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+        <link rel="preconnect" href="https://ajax.googleapis.com" crossorigin/>
+    <link rel="stylesheet" href="/style/min/planetcalc_common_4140.css">
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>window.googletag = window.googletag || {cmd: []};googletag.cmd.push(function() {googletag.pubads().setRequestNonPersonalizedAds(0);var mapping0  = googletag.sizeMapping().addSize([1500,200],  [970,90]).addSize([768,200],  [728,90]).addSize([480,200],  [468,60]).addSize([0,0],  [320,250]).build();googletag.defineSlot('/13440450/v7.pt.C.C.top', [[970,90],[728,90],[468,60],[320,250]], 'div-gpt-ad-1669902794-1').defineSizeMapping(mapping0).addService(googletag.pubads());
+    var mapping1  = googletag.sizeMapping().addSize([768,200],  [728,90]).addSize([480,200],  [468,60]).addSize([0,0],  [320,250]).build();googletag.defineSlot('/13440450/v7.pt.C.C.bottom', [[728,90],[468,60],[320,250]], 'div-gpt-ad-1669902794-2').defineSizeMapping(mapping1).addService(googletag.pubads());
+    var mapping2  = googletag.sizeMapping().addSize([0,0],  [320,250]).build();googletag.defineSlot('/13440450/v7.pt.C.C.right', [[320,250]], 'div-gpt-ad-1669902794-3').defineSizeMapping(mapping2).addService(googletag.pubads());
+    var mapping3  = googletag.sizeMapping().addSize([768,400],  [320,250]).build();googletag.defineSlot('/13440450/v7.pt.C.C.sticker', [[320,250]], 'div-gpt-ad-1669902794-4').defineSizeMapping(mapping3).addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+    });</script>
+    
+    <meta name="keywords" content="#interpolação, #Newton, análise numérica, interpolação, Matemática, newton, Polinômios"/><meta name="description" content=" Esta calculadora online constrói um polinômio de interpolação de Newton para determinados pontos de dados. A calculadora também exibe a forma geral e a forma simplificada, interpola pontos adicionais, se inseridos, e plota um gráfico"/><meta name="author" content="Timur : membro Planetcalc"/><meta name="generator" content="Planetcalc"/><link rel="canonical" href="https://pt.planetcalc.com/9023/" /><style media="all">
+    .social-float {
+        position: absolute;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+        width: 350px;
+            height: 400px;
+            background: white;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        z-index: 100;
+    }
+    td.comment_created {
+        border-bottom: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    td.message {
+        padding-top:0 !important;
+    }
+    
+    #main_div { padding:0 }
+    .f_ {
+        margin-top:0;
+        line-height: normal;
+    }
+    
+        #request_status { width:900px; }
+        .modal-body {  max-height: 800px;}
+    .sofia {
+        margin:8px auto;
+        text-align:center;
+    }
+    .right-ads { margin:16px 0; }
+    .v5 {
+        background-color:#fafafa;
+    }
+    .card-authors { padding:0 1.5em 1.5em 1.5em; }
+    
+    .author-date {
+        padding:16px 0;
+    }
+    .author-date i {
+        padding-right:8px;
+    }
+    .author-date a {
+        padding-right:32px;
+    }
+    #comments {
+        margin-top:32px;
+    }
+    #comments .t9 {
+        margin-top:0;
+    }
+    .ads-inline {
+        text-align: center;
+    }
+    .embed-form {
+        margin-bottom:16px;
+    }
+    
+    div.social a.oc { margin-right:16px }
+    div.social { margin: 16px 0; }
+    div.social h4 { margin-bottom:0 }
+    .share-url-text { margin:16px 0 }
+    .share-mode { margin-bottom: 16px; }
+    .share-url-text div { width:100% }
+    .similar-calc ul {  padding:0; }
+    .similar-calc ul li { padding:0 0 16px 16px; display: inline-block; }
+    #div-gpt-ad-1669902794-1{min-height:250px}#div-gpt-ad-1669902794-2{min-height:250px}#div-gpt-ad-1669902794-3{min-height:250px}
+    @media (min-width:480px){#div-gpt-ad-1669902794-1{min-height:60px}#div-gpt-ad-1669902794-2{min-height:60px}}
+    @media (min-width:768px){#div-gpt-ad-1669902794-1{min-height:90px}#div-gpt-ad-1669902794-2{min-height:90px}#div-gpt-ad-1669902794-4{min-height:250px}}
+    @media (min-width:1500px){#div-gpt-ad-1669902794-1{min-height:90px}}</style>
+    <title>Calculadora online: Interpola&ccedil;&atilde;o Polinomial de Newton</title>
+    </head>
+    <body id="ui_viewer" class="y1 viewer">
+    <div id="main_menu" class="nc w0 g1" tabindex="-1"><ul class="z0"  role="menu" aria-hidden="true"><li class="a1" role="menuitem" tabindex="0" onclick="document.location.href='/all/';"><span class="y0"><i class="material-icons">&#xe5c3;</i></span><span class="b1">Todas as calculadoras online</span></li><li class="a1" role="menuitem" tabindex="-1" onclick="document.location.href='/personal/requests/new/';"><span class="y0"><i class="material-icons">&#xe90f;</i></span><span class="b1">Solicitar uma calculadora</span></li><li class="a1" role="menuitem" tabindex="-1" onclick="document.location.href='/todo/translationtask/?id[]=9023&from=pt';"><span class="y0"><i class="material-icons">&#xe894;</i></span><span class="b1">Tradução</span></li></ul></div><div class="m1 q7 kb"><div class="q1"><div class="r1 s1 mdc-toolbar__section--shrink-to-fit" ><a class="material-icons n1" id="btn_main_menu" href="#">&#xe5d2;</a><a href="/" class="u1 nb" title="Calculadoras online"><h2 class="u1">PLANETCALC <span class="cc kc">Calculadoras online</span></h2></a></div><div class="r1 t1" ><a id="btn_change_language_menu" class="material-icons cc n1" href="#">&#xe894;</a><a class="material-icons n1" href="/search/">&#xe8b6;</a><a href="/personal/" class="cc ob c2 g2" id="planetcalc_login">Login</a></div></div><div style="min-height:0;"><div id="change_language_menu" class="nc w0 g1" tabindex="3"><ul class="z0"  role="menu" aria-hidden="true"><li id="change_language_de" class="a1" role="menuitem" tabindex="0" onclick="document.location.href='https://de.planetcalc.com/9023/?language_select=de';"><span class="y0"><i class="material-icons"> </i></span><span class="b1">Deutsch</span></li><li id="change_language_en" class="a1" role="menuitem" tabindex="-1" onclick="document.location.href='https://planetcalc.com/9023/?language_select=en';"><span class="y0"><i class="material-icons"> </i></span><span class="b1">English</span></li><li id="change_language_es" class="a1" role="menuitem" tabindex="-1" onclick="document.location.href='https://es.planetcalc.com/9023/?language_select=es';"><span class="y0"><i class="material-icons"> </i></span><span class="b1">Español</span></li><li id="change_language_pt" class="a1 f1" role="menuitem" tabindex="-1"><span class="y0"><i class="material-icons">&#xe5ca;</i></span><span class="b1">Português</span></li><li id="change_language_ru" class="a1" role="menuitem" tabindex="-1" onclick="document.location.href='https://planetcalc.ru/9023/?language_select=ru';"><span class="y0"><i class="material-icons"> </i></span><span class="b1">Русский</span></li><li id="change_language_zh" class="a1" role="menuitem" tabindex="-1" onclick="document.location.href='https://zh.planetcalc.com/9023/?language_select=zh';"><span class="y0"><i class="material-icons"> </i></span><span class="b1">中文</span></li><li id="change_language_fr" class="a1" role="menuitem" tabindex="-1" onclick="document.location.href='https://fr.planetcalc.com/9023/?language_select=fr';"><span class="y0"><i class="material-icons"> </i></span><span class="b1">Français</span></li></ul></div></div></div><div id="main_div" class="jb">  
+        <div class="v_"> 
+        <div class="w_"> 
+    <div class="main-column x_ g0" id="left-block"><div class="qb"><a class="material-icons" href="/">&#xe88a;</a><i class="material-icons">&#xe5cc;</i><a href="/search/?tag=7016">Estudo</a><i class="material-icons">&#xe5cc;</i><a href="/search/?tag=7044">Matemática</a></div><header><h1>Interpolação Polinomial de Newton</h1><p class="f_">Esta calculadora online constrói um polinômio de interpolação de Newton para determinados pontos de dados. A calculadora também exibe a forma geral e a forma simplificada, interpola pontos adicionais, se inseridos, e plota um gráfico</p><div></div></header><script>
+    document.addEventListener("DOMContentLoaded",function() {
+        var f = new FormatterTimeSpan();
+        $('.nav-created').text(function ( i,t ) { return f.Format(t);});
+    });
+    </script>
+    <div class="article"><div class="article_body"><p>Esta calculadora online constrói um polinômio de interpolação de Newton para determinados pontos de dados. Ela também calcula um valor interpolar para pontos inseridos e plota um gráfico.</p>
+    <h3>Uso</h3>
+    <p>Primeiro, insira os pontos de dados, um ponto por linha, no formato <em>x</em> <em>f(x)</em>, separados por espaços. Se você almeja interpolar a função usando polinômio de interpolação, insira os pontos de interpolação no campo a seguir, como valores <em>x</em> separados por espaços. </p>
+    <p>Você também pode encontrar alguma teoria sobre o polinômio de interpolação de Newton abaixo da calculadora.</p>
+    <p></p>
+    <div id="calculator9021"></div><div class="ads-inline"><div id="div-gpt-ad-1669902794-1"><script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1669902794-1");});</script></div></div><div class="pc-article-part"><div class="u5"><div class="w_ f8"  id="dialogv633551f2d8575"><div class="x_ j0"><div class="s8 t8"><a class="t_" target="_blank" href="https://pt.planetcalc.com/9021/?license=1"><img src="/img/32x32i.png" alt="PLANETCALC, Interpolação Polinomial de Newton" width="32" height="32"></a><h4 class="y9">Interpolação Polinomial de Newton</h4></div></div><div class="x_ j0"><div class="j4 m4 g8 "><textarea class="l4"  name="xy" id="dialogv633551f2d8575_xy" rows="5" cols="40">0 -1
+    1 1
+    4 1</textarea>
+    <div class="c3 k3"><div class="e3"></div><div class="f3"><label class="h3 i3" for="dialogv633551f2d8575_xy">Pontos de dados, um ponto por linha, separados por espaço</label></div><div class="g3"></div></div></div><div class="n4"><div id="hlp_dialogv633551f2d8575_xy" class="e4 c4"></div></div></div><div class="x_ a0"><div class="j4 g8"><input class="l4" type="text" value="2 3"  name="interpolate" id="dialogv633551f2d8575_interpolate"/><label class="h3 i3" for="dialogv633551f2d8575_interpolate">Pontos de interpolação</label><div class="_3"></div></div><div class="n4"><div id="hlp_dialogv633551f2d8575_interpolate" class="e4 c4"></div></div></div><div class="x_ a0"><div class="v8"><div class="v8" id="dialogv633551f2d8575_precisionmeter"><label class="l8 w8">Precisão de cálculo</label><div class="m8"><div class="h2"><div class="u2"><input type="radio" class="v2" id="dialogv633551f2d8575_precisionmeter0" name="precisionmeter" checked value="Q"/><div class="w2"><div class="x2"></div><div class="y2"></div></div></div><label for="dialogv633551f2d8575_precisionmeter0">Exato</label></div><div class="h2"><div class="u2"><input type="radio" class="v2" id="dialogv633551f2d8575_precisionmeter1" name="precisionmeter" value="R"/><div class="w2"><div class="x2"></div><div class="y2"></div></div></div><label for="dialogv633551f2d8575_precisionmeter1">Arredondado</label></div></div></div>
+    <div id="dialogv633551f2d8575_precisionmeter_p" style="display:none; position:relative"><div class="x8" id="ctrl_dialogv633551f2d8575_precisionmeter_pcvalue">Dígitos após o ponto decimal: 2</div><div id="dialogv633551f2d8575_precisionmeter_pc" aria-controls="ctrl_dialogv633551f2d8575_precisionmeter_pcvalue" class="pc-precision y8 h6 v6" tabindex="0" role="slider" data-step="1" aria-valuetext="Dígitos após o ponto decimal: 2" aria-valuemin="0" aria-valuemax="20" aria-valuenow="2"><div class="k6"><div class="j6"></div></div><div class="q6"><div class="p6"><span class="r6"></span></div><svg class="n6" width="21" height="21"><circle cx="10.5" cy="10.5" r="7.875"></circle></svg><div class="o6"></div></div></div></div></div></div><div class="x_ j0"><div class="o8">Polinômio de Newton</div><div class="pc-output-value" id="dialogv633551f2d8575_newtonFormula">&nbsp;</div></div><div class="x_ j0"><div class="o8">Polinômio de Newton após simplificação</div><div class="pc-output-value" id="dialogv633551f2d8575_expandedNewton">&nbsp;</div></div><div class="x_ j0"><div id="dialogv633551f2d8575_interpolated_big_msg" class="ke"><div class="me"><div class="ne">O arquivo é muito grande; pode ocorrer lentidão do navegador durante o carregamento e a criação.</div><div class="re" aria-atomic="true"><button class="c2 se" type="button" id="dialogv633551f2d8575_interpolated_download"><span class="f2 ">Download</span></button>
+    <button type="button" class="c2 vb te"><i class="material-icons">&#xe5cd;</i></button></div></div></div><div id="dialogv633551f2d8575_interpolated_diagram" class="pc-graph"></div><div id="dialogv633551f2d8575_interpolated" class="pc-output-table"></div></div><div class="x_ j0"><div class="r8"><button type="button" id="dialogv633551f2d8575_calculate" class="c2 g2 s_ pc-btn-calc"><span id="dialogv633551f2d8575_button_text">Calcular</span></button></div></div><div class="x_ j0"><div class="e8"><div id="dialogv633551f2d8575__progress_" role="progressbar" class="c8 m0 t0"><div class="p0"></div><div class="q0"></div><div class="n0 r0"><span class="o0"></span></div><div class="n0 s0"><span class="o0"></span></div></div></div></div><div class="x_ j0"><div></div><div class="n4 x"><div id="hlp_default_dialogv633551f2d8575" class="e4 c4"></div></div></div><div class="x_ j0"><div id="dialogv633551f2d8575_chart_name" class="o8">Polinômio de Newton</div><div id="dialogv633551f2d8575_chart_big_msg" class="ke"><div class="me"><div class="ne">O arquivo é muito grande; pode ocorrer lentidão do navegador durante o carregamento e a criação.</div><div class="re" aria-atomic="true"><button class="c2 se" type="button" id="dialogv633551f2d8575_chart_download"><span class="f2 ">Download</span></button>
+    <button type="button" class="c2 vb te"><i class="material-icons">&#xe5cd;</i></button></div></div></div><div id="dialogv633551f2d8575_chart_diagram" class="pc-graph"></div><div id="dialogv633551f2d8575_chart" class="pc-output-table"></div></div><div class="x_ j0"><div class="b2"><div class="pc-calc-footer"><div class="ba u8"></div></div></div></div></div><script>function Dialogv633551f2d8575() {var me = this;me.id = "dialogv633551f2d8575";me.GetElement = function () { return document.getElementById( me.id ); };me.GetEventHandlerName = function () { return "dialoghandlerv633551f2d8575"; };this.dialog_controls = [new DialogInput("xy", this, new ValidatorArray(new ValidatorRing(true, true, false, true),false,0,100),new ElementAccessorBigNumberMatrix(),new ValidatorCharset( 'eE0123456789+-.,/ \n\r	')),new DialogInput("interpolate", this, new ValidatorNumericArray( false,true,true,false,0,100),new ElementAccessorNumericArray(),new ValidatorCharset( 'eE0123456789+-., \n	')),new DialogInput("precisionmeter", this, 0,new ElementAccessorResultset("Q", 2)),new DialogInput("newtonFormula", this, 0,new ElementAccessorDefault()),new DialogInput("expandedNewton", this, 0,new ElementAccessorDefault()),new DialogInput("interpolated", this, 0,new ElementAccessorDefault()),new DialogInput("calculate", this, 0,new ElementAccessorOperation()),new DialogInput("_progress_", this, 0,new ElementAccessorDefault()),new DialogInput("", this, 0,new ElementAccessorDefault()),new DialogInput("chart", this, 0,new ElementAccessorDefault())];me.dialog_controls._all ={};me.dialog_controls.forEach( function( e ) { if (me[e.id]===undefined) me[e.id] = e; me.dialog_controls._all[e.id] = e;} );this.addHandler = function ( handler ) {this.dialog_controls.forEach(function(c) { c.addHandler( handler);});};this.SetValues = function ( values ) {this.dialog_controls.forEach(function(c) {if ( values[c.id]!==undefined ) { c.SetValue( values[c.id] ); }});};this.Clear = function ( ) {this.dialog_controls.forEach(function( c) { c.ResetValue();});};this.SetDefaultValues = function () { this.Clear();};this.GetValues = function () {var ret = {}; this.dialog_controls.forEach(function( c) { ret[c.id] = c.GetValue();});return ret;};this.Validate = function ( ) {for(var i=0;i<me.dialog_controls.length;++i) if (!me.dialog_controls[i].Validate()) return false; return true;};this.layout = function ( ) {}};document.addEventListener("DOMContentLoaded", function(event) {var dlg = new Dialogv633551f2d8575();
+    var hd = new CalculatorHandler(new function () {
+    var me = this;
+    me.id = 9021;
+    me.global = 1;
+    var outputs = {};
+    me.sinks={change:[],done:[]};
+    me.startOnLoad = 1;
+    me.infinite = 0;
+    var inputs = {};
+    var renderers = {};
+    var recordsets = {};
+    var diagrams = {};
+    var handler, dialog, refreshTimer;var outer = this;me.adapter = { encoder:{"xy":Matrix2String,"interpolate":Array2String},decoder:{"xy":function(v) { return String2Matrix(v,PCR.parse); },"interpolate":function(v) { return String2Array(v,Number); }}};me.timeout = 1500;
+    me.auto = 1;
+    me.init = function ( h, dlg ) { var o; handler=h;dialog =dlg;me.control = new CalcController(h,me.id);var n; var fn;n='xy';if ( dlg[n] ) { inputs[n] = dlg[n]; }n='interpolate';if ( dlg[n] ) { inputs[n] = dlg[n]; }o = dlg.newtonFormula;outputs[o.id] =o;o.formatter =new FormatterFormula();o = dlg.expandedNewton;outputs[o.id] =o;o.formatter =new FormatterPolynomial( 2,0,0,"Q" );n='interpolated';fn='dialogv633551f2d8575_interpolated';recordsets[n] = new Recordset("","__id__");renderers[n]= new RecordsetRendererT(fn,5,["export"]);
+     renderers[n].name = "Pontos Interpolados";renderers[n].AddColumn("x", "x", new RecordFieldFormatter(new FormatterNumber( 2,0,0,"R" )), '', 0,{"interpolate":"cardinal","line_color":"primary","line_markup":0},1);
+    renderers[n].AddColumn("y", "y", new RecordFieldFormatter(new FormatterNumber( 2,0,0,"R" )), '', 0,{"interpolate":"cardinal","line_color":"primary","line_markup":0},1);
+    me.tables = renderers;n='chart';fn='dialogv633551f2d8575_chart';recordsets[n] = new Recordset("","__id__");diagrams[n] = new BarDiagram(fn+'_diagram',{"y_axis_type":"default","scale_log_base":10,"scale_power_exponent":2,"aspect_ratio":"1:1","x_axis_position":"bottom","y_axis_position":"left","x_center_zero":0,"y_center_zero":0,"page_size":5,"transpose_table":0,"graphics_scale":"xy"});diagrams[n].Header.AddColumn("x", "x", new RecordFieldFormatter(new FormatterNumber( 2,0,0,"R" )), '', 1,{"interpolate":"cardinal","line_color":"primary","line_markup":0},1);
+    diagrams[n].Header.AddColumn("data", "Pontos de dados", new RecordFieldFormatter(new FormatterNumber( 2,0,0,"R" )), '', 9,{"interpolate":"cardinal","line_color":"primary","line_markup":0},1);
+    diagrams[n].Header.AddColumn("interpolation", "Pontos de interpolação", new RecordFieldFormatter(new FormatterNumber( 2,0,0,"R" )), '', 10,{"interpolate":"cardinal","line_color":"primary","line_markup":0},1);
+    diagrams[n].Header.AddColumn("P", "Polinômio de Newton", new RecordFieldFormatter(new FormatterNumber( 2,0,0,"R" )), '', 2,{"interpolate":"cardinal","line_color":"primary","line_markup":0},1);
+    me.diagrams = diagrams;handler.onReady();};
+    me.stop = function() {};
+    me.start = function() {handler.onStart();
+    var inputValues = me.getInputValues();me.control.onCalculate( inputValues );};me.getInputs = function() {
+            return inputs;
+        };
+        function objectValues( a, o ) {
+            for(var n in o) {
+                a.push( o[n] );
+        }
+        }
+        me.getOutputs = function() {
+            var ret = [];
+            objectValues( ret, outputs );
+            objectValues( ret, diagrams );
+            objectValues( ret, renderers );
+        return ret;
+        };
+        me.getInputValues = function() {
+            var r = {};
+            for( var n in inputs) {
+                r[n] = inputs[n].GetValue();
+            }
+            return r;
+        };
+    me.setResult = function( res, done ) {recordsets.interpolated.Clear();recordsets.interpolated.LoadFromArray( res.interpolated);if (renderers.interpolated) {renderers.interpolated.Render( recordsets.interpolated);} if ( diagrams.interpolated) { diagrams.interpolated.Render(res.interpolated ); }recordsets.chart.Clear();recordsets.chart.LoadFromArray( res.chart);if (renderers.chart) {renderers.chart.Render( recordsets.chart);} if ( diagrams.chart) { diagrams.chart.Render(res.chart ); }outputs.newtonFormula.SetValue(res.newtonFormula);outputs.expandedNewton.SetValue(res.expandedNewton);if (done) { handler.onStop();if ( PCF.requestFormulaUpdate( false ) ) { var mjx = window.MathJax; mjx.Hub.Queue(["Typeset",mjx.Hub]);};}}},{calculate:"Calcular", stop:"Parar"});;
+    hd.initdialog(dlg);dlg.addHandler(hd);window.dialoghandlerv633551f2d8575 = hd;});</script><div id="user_data_9021"><div class="tc" id="ud_note9021"><button class="c2 pc-btn-link ce"><i class="material-icons">&#xe14d;</i> Link</button> <button class="c2 pc-btn-new"><i class="material-icons">&#xe161;</i> Salvar</button>  <button type="button" class="c2 pc-btn-embed-wol"><i class="material-icons">&#xe87b;</i> Widget</button></div><script>document.addEventListener("DOMContentLoaded", function(event) { window.udh_9021=new PCUserDataHandler( { calcid:9021,id:"user_data_9021"});});</script></div></div></div><div class="ads-inline"><div id="div-gpt-ad-1669902794-2"><script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1669902794-2");});</script></div></div>
+    <p></p>
+    <h3>Interpolação Polinomial de Newton</h3>
+    <p>A forma geral do polinômio de interpolação de Newton é:</p>
+    <p><img src="/cgi-bin/mimetex.cgi?P_n%28x%29%3Df%28x_0%29%2B%5Csum_%7Bk%3D1%7D%5En%20%5Cleft%28%20f%28x_0%2C%20%5Cdots%20%2C%20x_k%29%20%5Ccdot%20%5Cprod_%7Bi%3D0%7D%5E%7Bk-1%7D%7B%28x-x_i%29%7D%20%5Cright%29" alt="P_n(x)=f(x_0)+\sum_{k=1}^n \left( f(x_0, \dots , x_k) \cdot \prod_{i=0}^{k-1}{(x-x_i)} \right)" class="pc-math" />,</p>
+    <p>onde <em>n</em> é o grau polinomial,<br />
+    <img src="/cgi-bin/mimetex.cgi?f%28x_0%2C%20%5Cdots%20%2C%20x_k%29" alt="f(x_0, \dots , x_k)" class="pc-math" /> é a _k_ª  diferença dividida, definida como<br />
+    <img src="/cgi-bin/mimetex.cgi?f%28x_i%2C%20x_%7Bi%2B1%7D%2C%20%5Cdots%20%2C%20x_%7Bi%2Bk%7D%29%3D%5Cfrac%7Bf%28x_%7Bi%2B1%7D%2C%20x_%7Bi%2B2%7D%20%5Cdots%20%2C%20x_%7Bi%2Bk%7D%29%20-%20f%28x_i%2C%20x_%7Bi%2B1%7D%2C%20%5Cdots%20%2C%20x_%7Bi%2Bk-1%7D%29%7D%7Bx_%7Bi%2Bk%7D-x_i%7D" alt="f(x_i, x_{i+1}, \dots , x_{i+k})=\frac{f(x_{i+1}, x_{i+2} \dots , x_{i+k}) - f(x_i, x_{i+1}, \dots , x_{i+k-1})}{x_{i+k}-x_i}" class="pc-math" />.</p>
+    <p>A _k_ª diferença dividida também pode ser expressa como:<br />
+    <img src="/cgi-bin/mimetex.cgi?f%28x_0%2C%20x_1%2C%20%5Cdots%20%2C%20x_k%29%3D%5Csum_%7Bi%3D0%7D%5Ek%20%5Cleft%28%20%5Cfrac%7Bf%28x_i%29%7D%7B%20%5Cprod_%7Bj%3D0%2C%20j%20%5Cneq%20i%7D%5Ek%20%28x_i-x_j%29%20%7D%20%5Cright%29" alt="f(x_0, x_1, \dots , x_k)=\sum_{i=0}^k \left( \frac{f(x_i)}{ \prod_{j=0, j \neq i}^k (x_i-x_j) } \right)" class="pc-math" />.<br />
+    Essa última forma é usada na calculadora.</p>
+    <p>Na interpolação de Newton, polinômios de bases adicionais e os coeficientes correspondentes podem ser calculados quando mais pontos de dados devem ser usados ​​e todos os polinômios de bases existentes e seus coeficientes permanecem inalterados. Isso é mais adequado para cálculos manuais porque, por exemplo, pontos adicionais na interpolação de Lagrange exigem que todos os polinômios de base sejam recalculados.</p>
+    <p>Observe que, devido à singularidade da interpolação polinomial, a interpolação de Newton é a mesma que a <a href="/8692/">Interpolação de Lagrange</a>. É o mesmo polinômio de nº grau expresso em termos de polinômios de bases diferentes ponderados por coeficientes diferentes.</p></div></div><div id="copied_msg" class="ke"><div class="me"><div class="ne">URL copiado para a área de transferência</div></div></div><div class="social social-share ee"><div class="share-mode"><div class="t9 share-switch"><div class="x6"><div class="z6"></div><div class="b7"><div class="_7"><input class="a7" type="checkbox" id="share_data_md"/></div></div></div> <label for="share_data_md">&nbsp;compartilhar minha calculadora</label></div><div class="share_data_msg z"></div></div><div class="share-buttons"><a class="pc-social-share oc pc" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpt.planetcalc.com%2F9023%2F" rel="noopener nofollow" data-origin="pc"><span class="material-icons">&#xf301;</span></a><a class="pc-social-share oc qc" target="_blank" href="https://twitter.com/intent/tweet?text=Calculadora%20online%3A%20Interpola%C3%A7%C3%A3o%20Polinomial%20de%20Newton&url=https%3A%2F%2Fpt.planetcalc.com%2F9023%2F" rel="noopener nofollow" data-origin="qc"><span class="material-icons">&#xf303;</span></a><a class="pc-social-share oc r_" href="mailto:?subject=Calculadora%20online%3A%20Interpola%C3%A7%C3%A3o%20Polinomial%20de%20Newton&body=https%3A%2F%2Fpt.planetcalc.com%2F9023%2F" rel="noopener nofollow" data-origin="r_"><span class="material-icons">&#xe0e1;</span></a></div><div class="share-url-text x"><div class="j4"><input class="l4" type="text" value="" readonly/><div class="_3"></div></div><div class="n4"><div id="share_data_md_hlp" class="e4 c4">Todos que receberem o link poderão visualizar este cálculo</div></div><button class="c2 mc" type="button" ><span class="f2 ">Copiar</span></button>
+    <div style="clear:both"></div></div></div><div class="similar-calc"><h4>Calculadoras similares</h4><ul><li>&bull; <a href="/8692/" title="Calculadora do polinômio de Lagrange">Calculadora do polinômio de Lagrange</a></li><li>&bull; <a href="/7748/" title="Método de Newton">Método de Newton</a></li><li>&bull; <a href="/5494/" title="Integração numérica">Integração numérica</a></li><li>&bull; <a href="/8390/" title="Matemática do polinômio">Matemática do polinômio</a></li><li>&bull; <a href="/7765/" title="Raízes polinomiais">Raízes polinomiais</a></li><li>&bull; <a href="/search/?section=7044" class="vc">seção Matemática  ( 134 calculadoras )</a></li></ul></div><div class="b"><i class="material-icons">&#xe54e;</i>&nbsp;<a class="vc xb" href="/search/?tag=11082" >#interpolação</a> <a class="vc xb" href="/search/?tag=12558" >#Newton</a> <a class="vc xb" href="/search/?tag=7320" >análise numérica</a> <a class="vc xb" href="/search/?tag=11078" >interpolação</a> <a class="vc bc" href="/search/?tag=7044" >Matemática</a> <a class="vc xb" href="/search/?tag=7470" >newton</a> <a class="vc xb" href="/search/?tag=8218" >Polinômios</a> </div><div class="b2"><span class="u8"><a href="https://pt.planetcalc.com/9023/?license=1" target=_blank><i class="material-icons">&#xf304;</i><i class="material-icons">&#xf305;</i></a></span> PLANETCALC, Interpolação Polinomial de Newton<div class="ba u8"></div></div><div class="p9 qb author-date v"><i class="material-icons">&#xe7ff;</i><a href="/9023/?thanks=1">Timur</a><i class="material-icons">&#xe8b5;</i><span class="nav-created">2021-04-19 23:06:36</span></div>		<script>
+            function showAvInitials( i ) {
+                i.style.display="none";
+                var d = i.parentNode;
+                var bg = d.getAttribute("data-bg");
+                d.style.backgroundColor = bg;
+                var e = d.getElementsByClassName("tb");
+                if ( e.length ) {
+                    e[0].style.display="inline";
+                }
+            }
+            function CommentAvatarFormatter( formatter ) {
+                var colors = [ "#D32F2F", "#C2185B", "#7B1FA2", "#512DA8", "#303F9F", "#1976D2", "#0288D1", "#0097A7", "#00796B", "#388E3C", "#689F38", "#AFB42B", "#FBC02D", "#FFA000", "#F57C00", "#E64A19", "#5D4037", "#455A64"];
+        this.Format = function ( colname, record ) {
+            var ret = '<div class="' + "sb" + '"';
+                var name = record.nickname;
+                if ( !name ) name = 'Unknown'; else name = name.toString();
+                var hash = 0;
+                for(var i =0 ;i<name.length;++i) {
+                    hash+=name.charCodeAt(i);
+                }
+                var color = colors[ hash%colors.length];
+                var namearr = name.split(' ');
+                var abbr ='';
+                for(var i=0;i<namearr.length && i<2 ;++i) {
+                    if ( namearr[i].length) {
+                        abbr+=namearr[i].substr(0,1);
+                    }
+                }
+            if ( record.photo ) {
+                ret+='data-bg="' + color + '"><img src="' + record.photo + '" alt="' + (record.nickname && record.nickname.replace?record.nickname.replace('"',"'"):'') + '" onerror="showAvInitials(this);">';
+            } else {
+                ret+=' style="background-color:' + color + '">';
+            }
+            ret+='<span class="' + "tb" + '"' + (record.photo?' style="display:none;"':'') + '>' + abbr.toUpperCase()  + '</span>';
+            ret+='</div>';
+            return ret;
+        }
+    }</script>
+    <div id="comments"><div class="w_ f8"  id="dialogv6388b1ca55611"><div class="x_ j0"><div class="s8"><h4 class="y9">Comentários</h4></div></div><div class="x_ _0"><div id="dialogv6388b1ca55611_group_sofia"  class="placeholder"></div></div><div class="x_ g0"><div class="w_ f8"  id="dialogv6388b1ca55611_group_comments"><div class="x_ j0"><div class="j4 m4 g8 "><textarea class="l4"  id="dialogv6388b1ca55611_message" rows="5" cols="80"></textarea>
+    <div class="c3"><div class="e3"></div><div class="f3"><label class="h3" for="dialogv6388b1ca55611_message">Sua mensagem</label></div><div class="g3"></div></div></div><div class="n4"><div id="hlp_dialogv6388b1ca55611_message" class="e4 c4"></div></div></div><div class="x_ j0"><div class="t9"><div class="x6"><div class="z6"></div><div class="b7"><div class="_7"><input class="a7" type="checkbox" id="dialogv6388b1ca55611_notify"/></div></div></div><label for="dialogv6388b1ca55611_notify"> Ativar notificações de comentários</label></div><div class="n4"><div id="hlp_dialogv6388b1ca55611_notify" class="e4 c4"></div></div></div></div></div><div class="x_ j0"><div class="e8"><div id="dialogv6388b1ca55611_progress" role="progressbar" class="c8 m0 t0"><div class="p0"></div><div class="q0"></div><div class="n0 r0"><span class="o0"></span></div><div class="n0 s0"><span class="o0"></span></div></div></div></div><div class="r8 x_ j0"><button class="c2 g2" type="button" id="dialogv6388b1ca55611_send"><span class="f2 ">Enviar</span></button>
+    </div><div class="x_ j0"><div id="dialogv6388b1ca55611_comments"  class="placeholder"></div></div><input type="hidden" value="9463" id="dialogv6388b1ca55611_messagebox"/></div><script>function Dialogv6388b1ca55611() {var me = this;me.id = "dialogv6388b1ca55611";me.GetElement = function () { return document.getElementById( me.id ); };me.GetEventHandlerName = function () { return "dialoghandlerv6388b1ca55611"; };this.dialog_controls = [new DialogInput("group_sofia", this, 0,new ElementAccessorDefault()),new DialogInput("group_comments", this, 0,new ElementAccessorDefault()),new DialogInput("message", this, new ValidatorTextSize( 0,5000 ),new ElementAccessorText()),new DialogInput("notify", this, 0,new ElementAccessorCheckbox()),new DialogInput("messagebox", this, 0,new ElementAccessorHidden()),new DialogInput("progress", this, 0,new ElementAccessorDefault()),new DialogInput("send", this, 0,new ElementAccessorOperation()),new DialogInput("comments", this, 0,new ElementAccessorDefault())];me.dialog_controls._all ={};me.dialog_controls.forEach( function( e ) { if (me[e.id]===undefined) me[e.id] = e; me.dialog_controls._all[e.id] = e;} );this.addHandler = function ( handler ) {this.dialog_controls.forEach(function(c) { c.addHandler( handler);});};this.SetValues = function ( values ) {this.dialog_controls.forEach(function(c) {if ( values[c.id]!==undefined ) { c.SetValue( values[c.id] ); }});};this.Clear = function ( ) {this.dialog_controls.forEach(function( c) { c.ResetValue();});};this.SetDefaultValues = function () { this.Clear();};this.GetValues = function () {var ret = {}; this.dialog_controls.forEach(function( c) { ret[c.id] = c.GetValue();});return ret;};this.Validate = function ( ) {for(var i=0;i<me.dialog_controls.length;++i) if (!me.dialog_controls[i].Validate()) return false; return true;};this.layout = function ( ) {}};document.addEventListener("DOMContentLoaded", function(event) {var dlg = new Dialogv6388b1ca55611();
+    var hd = function() {var dialogv6388b1ca55611_comments_init_data="";var dialogv6388b1ca55611_comments=new AjaxSetMessages(dialogv6388b1ca55611_comments_init_data, "/service/comments/", "dialogv6388b1ca55611_comments", "Carregando...");dialogv6388b1ca55611_comments.Renderer.AddColumn("posted","Criado",new RecordFieldFormatter( new FormatterTimeSpan() ));dialogv6388b1ca55611_comments.Renderer.AddColumn("avatar","",new CommentAvatarFormatter());dialogv6388b1ca55611_comments.Renderer.AddColumn("created","",new RecordFieldFormatter( new FormatterPrefix("Cadastrado: ", new FormatterDateOnly()) ));dialogv6388b1ca55611_comments.Renderer.AddColumn("posts","",new RecordFieldFormatter( new FormatterPrefix("Publicações: ", null) ));dialogv6388b1ca55611_comments.Render();dialogv6388b1ca55611_comments.qc.messagebox=9463;dialogv6388b1ca55611_comments.qc.language="pt";dialogv6388b1ca55611_comments.qc.parent=0; var ch= new CommentFormHandler("https://pt.planetcalc.com/9023/?loginrequirednow=1&language_select=pt",false);ch.setTable(dialogv6388b1ca55611_comments); return ch;}();;
+    hd.initdialog(dlg);dlg.addHandler(hd);});</script></div></div><div class="x_ _0"><div id="top-right-card" class="right_fix"></div><div class="cc right-ads"><div id="div-gpt-ad-1669902794-3"><script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1669902794-3");});</script></div></div><div id="bottom-right-anchor" ></div><div id="bottom-right-card" ><div class="social social-share ce"><h4 class="share-title">Compartilhar <span class="share-subject">nessa página</span></h4><div class="share-mode"><div class="t9 share-switch"><div class="x6"><div class="z6"></div><div class="b7"><div class="_7"><input class="a7" type="checkbox" id="share_data"/></div></div></div> <label for="share_data">&nbsp;compartilhar minha calculadora</label></div><div class="share_data_msg z"></div></div><div class="share-buttons"><a class="pc-social-share oc pc" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpt.planetcalc.com%2F9023%2F" rel="noopener nofollow" data-origin="pc"><span class="material-icons">&#xf301;</span></a><a class="pc-social-share oc qc" target="_blank" href="https://twitter.com/intent/tweet?text=Calculadora%20online%3A%20Interpola%C3%A7%C3%A3o%20Polinomial%20de%20Newton&url=https%3A%2F%2Fpt.planetcalc.com%2F9023%2F" rel="noopener nofollow" data-origin="qc"><span class="material-icons">&#xf303;</span></a><a class="pc-social-share oc r_" href="mailto:?subject=Calculadora%20online%3A%20Interpola%C3%A7%C3%A3o%20Polinomial%20de%20Newton&body=https%3A%2F%2Fpt.planetcalc.com%2F9023%2F" rel="noopener nofollow" data-origin="r_"><span class="material-icons">&#xe0e1;</span></a></div><div class="share-url-text x"><div class="j4"><input class="l4" type="text" value="" readonly/><div class="_3"></div></div><div class="n4"><div id="share_data_hlp" class="e4 c4">Todos que receberem o link poderão visualizar este cálculo</div></div><button class="c2 mc" type="button" ><span class="f2 ">Copiar</span></button>
+    <div style="clear:both"></div></div></div></div><div class="ads-sticker right-ads"><div id="div-gpt-ad-1669902794-4"><script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1669902794-4");});</script></div></div></div></div></div><script>
+    var shiftMax = 0;
+    document.addEventListener('DOMContentLoaded', function(){ 
+        shiftMax = $('#left-block').offset().top-$('#bottom-right-anchor').offset().top+$('#left-block').height()-$('#bottom-right-card').height();
+        window.addEventListener('scroll',sticky_update, {passive:true});
+        sticky_update();
+        showStoreRef();
+        
+    var sharer = new PSS.Sharer("meu cálculo",'Tamanho dos dados de cálculo é %1. Para compartilhar seu cálculo por favor <a class="save_data_link" href="#">salvar os dados de cálculo</a> para o armazenamento do nosso servidor.');});
+    
+    function sticky_update() {
+        var window_top = $(window).scrollTop();
+        var off = $('#bottom-right-anchor').offset();
+        var shift = window_top+56 - off.top;
+        if (shift>0 && off.left>400 && shiftMax>0) {
+            $('#bottom-right-anchor').height(shift<shiftMax?shift:shiftMax);
+        } else {
+            $('#bottom-right-anchor').height(0);
+        }
+    }
+    
+    function getMobileOperatingSystem() {
+        var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+        if (/android/i.test(userAgent)) {
+            return "Android";
+        }
+        if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+            return "iOS";
+        }
+        return "unknown";
+    }
+    function showStoreRef() {
+        if ( $(".wb").length && !$(".wb").is(":visible") ) {
+        switch( getMobileOperatingSystem()) {
+        case 'Android':{
+            $(".pc-storeref-android").removeClass("cc");
+        } break;
+        case 'iOS':{
+            $(".pc-storeref-ios").removeClass("cc");
+        } break;
+        }	
+    }
+    var savedData = [];function forEachCalc( func ) {
+        if ( window.CurrentPageCalculators ) {
+            for( var i =0;i<window.CurrentPageCalculators.length;++i ) {
+                func( window.CurrentPageCalculators[i] );
+            }
+        }
+    }
+    
+    forEachCalc( function ( calc ) {
+        var sd = savedData[calc.CalculatorID ];
+        if ( sd ) {
+            calc.setProfile(sd,false);
+    }});
+    
+    }
+    </script>
+    </div><!-- container-->
+        <div class="horizontal_divider"></div>
+        <footer class="t7">
+        <ol >
+            <li><h4>Sobre</h4></li>
+            <li><a href="/about/">O projeto</a></li>
+            <li><a class="inline" href="//twitter.com/planetcalc" rel="nofollow" ><i class="material-icons">&#xf303;</i></a>
+                    </li>
+        </ol>
+    
+        <ol >
+            <li><h4>Termos</h4></li>
+            <li><a href="/terms/">Termos de utilização</a></li>  
+            <li><a href="/privacy/">Políticas de Privacidade</a></li>
+        </ol>
+        <ol >
+            <li><h4>Calculadoras</h4></li>
+            <li><a href="/all/">Todas as calculadoras online</a></li>
+        </ol>
+        <ol >
+            <li><h4>Comunidade</h4></li>
+            <li><a href="/comments/">Todas as discussões</a></li>
+            <li><a href="/allrequests/">Todas as solicitações</a></li>
+            <li><a href="/sofia/">Galeria de Sofia</a></li>
+            <li><a href="/dev/">Para desenvolvedores</a></li>
+        </ol>
+        <ol >
+            <li><h4>Idiomas</h4></li>
+    <li><a href="#" onclick="document.location.href='https://de.planetcalc.com/9023/?language_select=de'" title="Deutsch">Deutsch</a></li><li><a href="#" onclick="document.location.href='https://planetcalc.com/9023/?language_select=en'" title="English">English</a></li><li><a href="#" onclick="document.location.href='https://es.planetcalc.com/9023/?language_select=es'" title="Español">Español</a></li><li><a href="#" onclick="document.location.href='https://pt.planetcalc.com/9023/?language_select=pt'" title="Português">Português</a></li><li><a href="#" onclick="document.location.href='https://planetcalc.ru/9023/?language_select=ru'" title="Русский">Русский</a></li><li><a href="#" onclick="document.location.href='https://zh.planetcalc.com/9023/?language_select=zh'" title="中文">中文</a></li><li><a href="#" onclick="document.location.href='https://fr.planetcalc.com/9023/?language_select=fr'" title="Français">Français</a></li>	</ol>
+        <ol >
+            <li><h4>Seção pessoal</h4></li>
+            <li><a href="/personal/">
+    Login</a>
+    </li>
+        </ol>
+        <div class="pb">Copyright &copy; PlanetCalc Versão:
+        3.0.4170.0	</div>
+    </footer>
+    <script>if ( PCL===undefined ) {var PCL = {};}
+        PCL.language_id='pt';
+    PCL.minutes_ago_one="há %1 minuto";PCL.minutes_ago_other="há %1 minutos";PCL.hours_ago_one="há %1 hora";PCL.hours_ago_other="há %1 horas";PCL.days_ago_one="há %1 dia";PCL.days_ago_other="há %1 dias";PCL.months_ago_one="há %1 mês";PCL.months_ago_other="há %1 meses";PCL.years_ago_one="há %1 ano";PCL.years_ago_other="há %1 anos";PCL.all="Tudo";PCL.x_of_y="%1 de %2";PCL.items_per_page="Itens por página";PCL.next_page="Próxima página";PCL.prev_page="Página anterior";PCL.err_data_too_long="Tamanho dos dados de cálculo é %1. O tamanho dos seus dados de cálculo é muito grande. Permitimos apenas %2.";PCL.userdata="O cálculo foi salvo %2 por <a href=\"/personal/authorinfo/?id=%3\" rel=\"nofollow\">%1</a>";	PCL.yes="sim";PCL.no="não";	PCL.parser_error_1="Caractere inesperado %token% (%decorated%). Esperado: %expected%.";PCL.parser_error_2="Símbolo inesperado %token% (%decorated%). Esperado: %expected%.";PCL.parser_error_3="Expressão está incompleta. Esperado: %expected%.";	PCL.digits_afterdot="Dígitos após o ponto decimal: %1";	PCL.err_invalid_array="Os números devem estar separados por espaço.";PCL.array_error="Matriz de erro no elemento #%1.";PCL.err_array_range_error="O número de elementos na matriz deve estar entre %1 e%2";PCL.err_array_range_error_single="A matriz deve ter %1 elementos";	PCL.err_must_be_at_least_x_chars_long="Deve conter pelo menos %1 caracteres.";PCL.err_must_be_less_or_equal_x_chars="Deve conter menos de %1 caracteres.";	PCL.err_invalid_symbol="Símbolo inválido inserido. Símbolos permitidos:'%1'.";	PCL.err_invalid_number="Número requerido.";PCL.err_invalid_positive_number="Número positive requerido.";PCL.err_invalid_integer_number="Número inteiro requerido.";PCL.err_invalid_integer_positive_number="Número inteiro positive requerido.";PCL.err_complex_not_allowed="Número complexo não permitido.";PCL.err_fraction_not_allowed="Fração não é permitida.";		PCL.pluralCodes = ['zero','one','two','few','many'];
+        PCL.ordinalIR = function( n ) {
+            var i = n, w=0,f=0,t=0,v=0;
+            return "other";	}
+        PCL.cardinalIR = function( n ) {
+            var i = n, w=0,f=0,t=0,v=0;
+            if (i==0 || i==1) return PCL.pluralCodes[1];return "other";	}
+        PCL.getOrdinal = function(n){
+            return PCL['ordinal_' + PCL.ordinalIR( n )];
+        }
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.20.2/math.min.js"></script><script src="/plugins/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML&locale=pt"></script><script src="https://d3js.org/d3.v4.min.js"></script><script src="/lib/min/4167/pla_a_4167.js"></script><script id="Lib220406">"use strict";self.Planetcalc=new function(){var D=this;this.Lib8307=new function(){this.tree={2:1,3:2,4:2,5:3,6:3,8:4,7:5,10:5,9:6,12:6,16:8},this.level=[7,10,9,12,16],this.fastpow=function(e,n,t){for(var r=this.tree,o=this.level;!r[n];)o=function(e,n){for(var t=[],r=0;r<n.length;++r)for(var o=n[r],a=o;a;){var i=a+o;e[i]||(t.push(i),e[i]=o),a=e[a]}return t}(r,o);this.level=o,this.tree=r;for(var a=[],i={1:e};r[n];)a.push(n-r[n]),n=r[n];for(var u=e,l=1,c=a.length-1;0<=c;--c){var s=a[c],u=t(u,i[s]);i[l+=s]=u}return u}},this.Calc9021=function(e,n,t,r,o,a){function i(e,n){var t=function(e,n){for(var t="",r=0;r<=e;++r){for(var o=n[r][1].toString(),a="",i=0;i<=e;++i)i!=r&&(a+=(a.length?"*":"")+"("+n[r][0].toString()+(n[i][0].gte(0)?"-"+n[i][0].toString():"+"+n[i][0].abs().toString())+")");t+=(t.length?"+(":"(")+o+")/("+a+")"}return"("+t+")"}(e,n),n=function(e,n){for(var t="",r=0;r<e;++r)t+=t.length?"*":"",n[r][0].gte(0)?t+="(x-"+n[r][0].toString()+")":t+="(x+"+n[r][0].abs().toString()+")";return t}(e,n);return n.length?t+"*("+n+")":t}for(var u=e[0][1].toString(),l=1;l<e.length;++l)u+="+"+i(l,e);var c=D.Calculate8383({expression:u,showDetails:1}),s="P_n(x) = ";function f(e,n){for(var t=PCR.integer(0),r=PCR.integer(1),o=n.length-1;0<=o;--o)var a=n[o].mul(r),t=t.add(a),r=r.mul(e);return t}s+=c.problem,t.SetValue(s),r.SetValue(c.result);for(l=0;l<n.length;++l){var m=f(x=n[l],c.result),p=o.AddNewRecord();p.x=x,p.y=m}var d=0,h=0;e.forEach(function(e){e=e[0].toReal();h<e&&(h=e),e<d&&(d=e)}),n.forEach(function(e){h<e&&(h=e),e<d&&(d=e)});s=h-d,r=.1*s;h+=r;for(var g=1.2*s/100,l=d-=r;l<=h;l+=g){var v=a.AddNewRecord(),x=l,b=e.filter(function(e){e=e[0].toReal();return l<e&&e<l+g});b.length&&(x=b[0][0].toReal(),v.data=b[0][1].toReal());b=n.filter(function(e){return l<e&&e<l+g});b.length&&(x=b[0],v.interpolation=f(x,c.result).toReal()),v.x=x,v.P=f(x,c.result).toReal()}},this.Calc8383=function(e,g,m,n,t,r){function o(e,n,t){return R({a:e,b:n},D.Calculate7742,"result",g.mul,[7742,7743],function(e){return s(e.a,!1)+s(e.b,"-"==e.b[0].toString().substr(0,1))},t)}function a(e,n,t){t=R({numerator:e,denominator:n,details:0},D.Calculate7717,"quotient",g.quotient,[7717,7718],function(e){return C([{factor:e.numerator,exponent:1},{factor:e.denominator,exponent:-1}])},t);return t.length?t:[e[0].zero]}function i(e){return e.reduce(function(e,n){return e&&n.isZero()},!0)}function v(n,e){return e<=0?[]:Array.apply(null,Array(e)).map(function(e){return n.length?n[0].zero:PCR.integer(0)})}function u(e){var n=e.reduce(function(e,n){return e.gcd(n)});return S(g.content,"content\\left("+s(e)+"\\right) = "+n.toString()),n}function l(n,t,r){return R({u:n,v:t},D.Calculate8357,r,g[r],[8357,8355],function(e){return"egcd."+r+"("+C([{factor:n,exponent:1}])+","+C([{factor:t,exponent:1}])+")"})}function c(e){var n=e[0];return S(g.lc,"lc\\left("+s(e)+"\\right) = "+n.toString()),n}function x(e,n){var t=n.neg?y(n.polynom):n.polynom;switch(e){case"lc":return[c(t)];case"monic":return a(t,[c(t)]);case"pp":var r=u(t);return r.eq(t[0].one)?t:a(t,[r]);case"content":return[u(t)];case"deg":return[(r=t.length-1,S(g.deg,"deg\\left("+s(t)+"\\right) = "+r),PCR.integer(r))]}}function b(e,n,t){var r=n.neg?y(n.poynom):n.polynom,o=t.neg?y(t.poynom):t.polynom;switch(e){case"gcd":return l(r,o,"gcd");case"mod":return R({numerator:r,denominator:o,details:0},D.Calculate7717,"remainder",g.remainder,[7717,7718],function(e){return C([{factor:e.numerator,exponent:1}])+"{\\quad}mod{\\quad}"+C([{factor:e.denominator,exponent:1}])});case"egcda":return l(r,o,"A");case"egcdb":return l(r,o,"B")}}function f(e){return void 0===e.im||e.im.isZero()}function p(e,n,t){for(var r,o,a,i,u=v(e,n.length-e.length).concat(e),l=u.length-n.length,c=0;c<n.length;++c){var s=n[c];if(!(s=t?s.neg():s).isZero()){if(c+l<e.length&&!e[c+l].isZero()&&(r=s,o=e[c+l],i=a=void 0,a=f(r),i=f(o),!1===(s=!(!a&&!i||a&&i)&&(!(!a&&!r.re.isZero())&&(!(!i&&!o.re.isZero())&&r.add(o))))))return!1;u[c+l]=s}}return u}function s(e,n){n|=1<e.reduce(function(e,n){return e+(n.isZero()?0:1)},0);e=C([{factor:e,exponent:1}]);return n?"("+e+")":e}function d(e,n,t){if(i(n))return e?t.map(function(e){return e.neg()}):t;if(i(t))return n;t=D.Calculate8365({op:e?"-":"+",a:n,b:t}).result;return t=!t.length?[PCR.integer(0)]:t}function y(e){var n=e.map(function(e){return e.neg()});return V(g.neg,"-"+s(e,!1),n),n}function h(e,n,t){var r,o='<a target="_blank" href="/'+n[1]+"/?",a=[];for(r in t){var i=t[r];i.join&&(i=i.join(" ")),a.push(r+"="+encodeURIComponent(i))}return o+a.join("&")+"#calculator"+n[0]+'">'+e+"</a>"}function C(e,n){return D.Calculate8367({variableName:void 0===n?"x":n,factors:e}).math}function S(e,n){var t;m&&((t=r.AddNewRecord()).name=e,t.math=n)}function V(e,n,t){t=C([{factor:t,exponent:1}]);t!=n&&S(e,n+" = "+t)}function R(e,n,t,r,o,a,i){var n=n(e),t=n[t];return!i&&m&&(n=a?a(e,n):"",V(h(r,o,e),n,t)),t}function w(e,n){return""===e?n:""===n?e:"1"===e?n:"1"===n?e:Z(e)+Z(n)}function P(e,n,t){e.nmath=w(e.nmath,n),e.dmath=w(e.dmath,t)}function _(e,n,t){void 0===e.nmath&&(e.nmath=e.math),void 0===e.dmath&&(e.dmath=""),"*"==n.op?(P(e,void 0===n.nmath?n.math:n.nmath,void 0===n.dmath?"":n.dmath),e.polynom.length?e.polynom=o(e.polynom,n.neg?y(n.polynom):n.polynom,t):(e.polynom=n.polynom,e.neg=n.neg)):"/"==n.op&&(P(e,void 0===n.dmath?"":n.dmath,void 0===n.nmath?n.math:n.nmath),e.polynom.length?e.polynom=a(e.polynom,n.neg?y(n.polynom):n.polynom,t):(e.polynom=a([n.polynom[0].one],n.polynom),e.neg=cue.neg)),n.expr&&(e.expr=!0),(e.expr&&n.expr||!n.base)&&(e.base=!1)}function A(e){for(var n,t={base:!0,polynom:[],neg:!1,nmath:"",dmath:""},r="*",o=0;o<e.length;++o){var a=e[o];if("f"==a.t){var i,u=a.v.length?a.v[0]:a.v;switch(u.t){case"e":m=q(u.v);break;case"i":m={base:!0,polynom:[PCR.complex(0,1)],neg:!1,math:"i"};break;case"m":m={base:!1,polynom:u.v,neg:!1,math:C([{factor:u.v,exponent:1}])};break;case"x":m={base:!0,polynom:[PCR.integer(1),PCR.integer(0)],neg:!1,math:"x"};break;case"n":m={base:!0,polynom:[u.v],neg:!1,math:u.math};break;case"u":var l,c=u.v[0],s=q(u.v[1]),f=s.math,s=2<u.v.length?(f+=","+(l=q(u.v[2])).math,b(c,s,l)):x(c,s),m={base:!1,neg:!1,polynom:s,math:c+"\\left("+f+"\\right)"}}("e"==u.t||"u"==u.t||"m"==u.t)&&1<a.v.length&&(m.math="\\left("+m.math+"\\right)");for(var p=1;p<a.v.length;++p){var d=a.v[p].v;m.math+="^{"+d,d=Number(d),i=void 0===i?d:Math.pow(i,d)}for(var h,p=1;p<a.v.length;++p)m.math+="}";void 0!==i&&1!==i&&(2==(h=m.polynom).length&&h[0].eq(1)&&h[1].isZero()?((h=v(h,i+1))[0]=h[0].one,m.polynom=h,m.neg&&i%2==0&&(m.neg=!1)):(m.neg&&(m.neg=!1,m.polynom=y(m.polynom)),m.polynom=function(e,n){if(1===n)return e;if(0===n)return[e[0].one];if(2==(t=e).length&&t[0].eq(t[0].one)&&t[1].isZero()){t=v(e,n+1);return t[0]=e[0],t}var t;return R({polynomial:e,exponent:n},D.Calculate8307,"result",g.exp,[8307,8308],function(e,n){return n.problem})}(m.polynom,i))),i=void 0,m.op=r,r="*",m.base?void 0===n?n=m:_(n,m,!0):(n&&(_(t,n),n=void 0),_(t,m))}else r=a.t}return n&&_(t,n),""!==t.dmath?t.math="\\frac{"+t.nmath+"}{"+t.dmath+"}":""!==t.nmath&&(t.math=t.nmath),t}function Z(e){return-1!=e.indexOf("+")||-1!=e.indexOf("-")?"\\left("+e+"\\right)":e}function q(e){var n=[],r=[];e.forEach(function(e){"t"==e.t?n.push(A(e.v.length?e.v:[e.v])):r.push(e.t)}),r.length<n.length&&r.splice(0,0,"+"),n.forEach(function(e,n){n="-"==r[n];e.neg=e.neg?!n:n});for(var t,o,a,i,u,e=n.reduce(function(e,n,t){n=n.math;return"-"!=r[t]&&"-"!=n.substr(0,1)||(n=Z(n)),e+(""!==e||"-"==r[t]?r[t]:"")+n},""),l=0;l<n.length&&!n[l].base;++l);for(;l<n.length-1;){var c,s,f=n[l];(s=n[l+1]).base?(c=p(f.neg?function(e,n){return n.isZero()?[n]:e.map(function(e){return e.mul(n)})}(f.polynom,PCR.integer(-1)):f.polynom,s.polynom,s.neg))?n.splice(l,2,{polynom:c,neg:!1,base:!1}):l++:s.base?l+=2:l++}for(;1<n.length;)f=n[0],s=n[1],n.splice(0,2,(o=s,u=i=a=void 0,i=(t=f).neg?y(t.polynom):t.polynom,u=d(o.neg,i,o.polynom),!a&&m&&(t=o.neg?"-":"+",a=C([{factor:i,exponent:1}])+t+Z(C([{factor:o.polynom,exponent:1}])),V(h(o.neg?g.sub:g.add,[8365,8365],{a:i,b:o.polynom,op:t}),a,u)),{neg:!1,polynom:u}));return{expr:!0,math:e,polynom:n[0].polynom,neg:n[0].neg}}var e=new PCP.parser([{n:"syntax",r:{0:[[-1,0]],28:[[2,11],[15,16],25,27,31,[36,40],[43,46],49]}},{n:"digit",s:[[2,11]]},"1","2","3","4","5","6","7","8","9","0",{n:"integer",r:{69:[[2,11]]}},{n:"digit x",r:{0:[[-1,0],[15,16],[19,20],[22,23],25,27,[31,32],[36,40],[43,47],49,57,59,62,[65,66]],82:[[2,11]]}},{n:"sign",s:[[15,16]]},"+","-",{n:"signedinteger",r:{70:[[2,11],[15,16]]}},{n:"dot",s:[[19,20]]},".",",",{n:"number",r:{71:[[2,11]]}},"E","e",{n:"variable",s:[25]},"x",{n:"imaginary",s:[27]},"i",{n:"expr",r:{72:[[2,11],[15,16],25,27,31,[36,40],[43,46],49]}},{n:"term",r:{79:[[2,11],25,27,31,[36,40],[43,46],49]}},{n:"factor",r:{80:[[2,11],25,27,31,[36,40],[43,46],49]}},"(",")",{n:"function",r:{34:[[36,40]],41:[[43,46]]}},{n:"func1",r:{74:[[36,40]]}},{n:"funcname1",s:[[36,40]]},"lc","deg","content","pp","monic",{n:"func2",r:{75:[[43,46]]}},{n:"funcname2",s:[[43,46]]},"gcd","egcda","egcdb","mod",";",{n:"polynomial",r:{78:[49]}},"[",{n:"coefficient",r:{0:[57,59],76:[0,[2,11],[15,16],27]}},{n:"simpleterm",r:{0:[[15,16],57,59],52:[[2,11],27],53:[0]}},{n:"simplefactor",r:{21:[[2,11]],26:[27]}},{n:"simplefactor x",r:{0:[0,[15,16],57,59],84:[[2,11],27]}},{n:"sign simpleterm x",r:{0:[0,57,59],85:[[15,16]]}},{n:"separator coefficient x",r:{0:[0,59],87:[57]}},{n:"separator",r:{77:[57]}}," ",{n:"space x",r:{0:[0,[2,11],[15,16],27,59],86:[57]}},"]",{n:"power x",r:{0:[[-1,0],[2,11],[15,16],25,27,[31,32],[36,40],[43,47],49,[65,66]],89:[62]}},{n:"power",r:{81:[62]}},"^",{n:"([factorsign]) factor x",r:{0:[[-1,0],[15,16],32,47],88:[[2,11],25,27,31,[36,40],[43,46],49,[65,66]]}},{n:"factorsign",s:[[65,66]]},"*","/",{n:"expr1 x",r:{0:[[-1,0],32,47],83:[[15,16]]}},{n:"expr1",r:{73:[[15,16]]}},{d:[1,13],n:"integer69",r:{69:[[2,11]]}},{d:[90,12],n:"signedinteger70",r:{70:[[2,11],[15,16]]}},{d:[12,91],n:"number71",r:{71:[[2,11]]}},{d:[92,29,67],n:"expr72",r:{72:[[2,11],[15,16],25,27,31,[36,40],[43,46],49]}},{d:[14,29],n:"expr173",r:{73:[[15,16]]}},{d:[35,31,28,32],n:"func174",r:{74:[[36,40]]}},{d:[42,31,28,47,28,32],n:"func275",r:{75:[[43,46]]}},{d:[93,51,54],n:"coefficient76",r:{0:[57,59],76:[0,[2,11],[15,16],27]}},{d:[57,58],n:"separator77",r:{77:[57]}},{d:[49,50,55,59],n:"polynomial78",r:{78:[49]}},{d:[30,63],n:"term79",r:{79:[[2,11],25,27,31,[36,40],[43,46],49]}},{d:[94,60],n:"factor80",r:{80:[[2,11],25,27,31,[36,40],[43,46],49]}},{d:[62,12],n:"power81",r:{81:[62]}},{d:[1,13],n:"digit x82",r:{82:[[2,11]]}},{d:[68,67],n:"expr1 x83",r:{83:[[15,16]]}},{d:[52,53],n:"simplefactor x84",r:{84:[[2,11],27]}},{d:[95,54],n:"sign simpleterm x85",r:{85:[[15,16]]}},{d:[57,58],n:"space x86",r:{86:[57]}},{d:[96,55],n:"separator coefficient x87",r:{87:[57]}},{d:[97,63],n:"([factorsign]) factor x88",r:{88:[[2,11],25,27,31,[36,40],[43,46],49,[65,66]]}},{d:[61,60],n:"power x89",r:{89:[62]}},{n:"signedinteger7090",r:{0:[0,[2,11]],14:[[15,16]]}},{n:"number7191",r:{0:[[-1,0],[2,11],[15,16],25,27,[31,32],[36,40],[43,47],49,57,59,62,[65,66]],98:[[19,20]]}},{n:"expr7292",r:{0:[0,[2,11],25,27,31,[36,40],[43,46],49],14:[[15,16]]}},{n:"coefficient7693",r:{0:[0,[2,11],27,57,59],14:[[15,16]]}},{n:"factor8094",r:{21:[[2,11]],24:[25],26:[27],33:[[36,40],[43,46]],48:[49],99:[31]}},{d:[14,51],n:"sign simpleterm x8595",r:{95:[[15,16]]}},{d:[56,50],n:"separator coefficient x8796",r:{96:[57]}},{d:[100,30],n:"([factorsign]) factor x8897",r:{97:[[2,11],25,27,31,[36,40],[43,46],49,[65,66]]}},{d:[18,12,101],n:"number719198",r:{98:[[19,20]]}},{d:[31,28,32],n:"factor809499",r:{99:[31]}},{n:"([factorsign]) factor x8897100",r:{0:[0,[2,11],25,27,31,[36,40],[43,46],49],64:[[65,66]]}},{n:"number719198101",r:{0:[[-1,0],[2,11],[15,16],25,27,[31,32],[36,40],[43,47],49,57,59,62,[65,66]],102:[[22,23]]}},{d:[103,17],n:"number719198101102",r:{102:[[22,23]]}},{n:"number719198101102103",s:[[22,23]]}]).parse(e),e=(PCR.integer(1),PCR.integer(0),e.visit({expr:function n(e){return void 0===(e=e.visit({sign:function(e){return{t:e.getValue()}},term:function(e){return{t:"t",v:e.visit({factorsign:function(e){e=e.getValue();return{t:e,v:"/"==e?a:o}},factor:function(e){return{t:"f",v:e.visit({number:function(e){return{t:"n",v:PCR.parse(e.getValue()),math:e.getValue()}},expr:function(e){return{t:"e",v:n(e)}},polynomial:function(e,n){return{t:"m",v:e.visit({coefficient:function(e){return PCR.parse(e.getValue())}})}},imaginary:function(e,n){return{t:"i"}},variable:function(e){return{t:"x"}},power:function(e){return{t:"p",v:e.value[1].getValue()}},func1:function(e){return{t:"u",v:[e.value[0].getValue(),e.value[2].visit({expr:function(e){return e.visit({expr:n})}})]}},func2:function(e){return{t:"u",v:[e.value[0].getValue(),e.value[2].visit({expr:function(e){return e.visit({expr:n})}}),e.value[4].visit({expr:function(e){return e.visit({expr:n})}})]}}})}}})}}})).length?[e]:e}}));e?((e=q(e)).neg&&(e.polynom=y(e.polynom)),n.SetValue(e.math),t.SetValue(e.polynom)):t.SetValue([])},this.Calc7742=function(e,n,t,r){var o,a=e.slice().reverse(),i=n.slice().reverse();t.SetValue((t=[{factor:e,exponent:1},{factor:n,exponent:1}],D.Calculate8367({variableName:void 0===o?"x":o,factors:t}).math));for(var u=[],l=e.length+n.length-2;0<=l;--l){for(var c=(e.length?e:n)[0].zero,s=0;s<a.length;++s){var f=l-s;f<i.length&&0<=f&&(c=c.add(a[s].mul(i[f])))}u.push(c)}r.SetValue(u)},this.Calc8367=function(i,e,n){var t,r;function o(t){return t.reduce(function(e,n){n=function(e,n){var t=e.factor,r=e.exponent,o=t.length-1,a=t.reduce(function(e,n,t){var r=n.toTeX?n.toTeX():n.toString();if("0"===r)return e;n=-1!=r.substr(1).search(/[\+-]/),t=o-t;1<=t&&(n?r="("+r+")":"1"==r?r="":"-1"==r&&(r="-"),r+=i,1<t&&(r+="^{"+t+"}"));t=u(r.substr(0,1));return e+(e.length&&!t?"+":"")+r},""),e=-1!=a.substr(1).search(/[\+-]/),t=u(a.substr(0,1));1!=r?a="{"+(a=e||t?"\\left("+a+"\\right)":a)+"}^{"+r+"}":e&&1<n&&(a="\\left("+a+"\\right)");return a}(n,t.length);return""===e?n:""===n?e:u(n.substr(0,1))||a(e.substr(e.length-1))&&a(n.substr(0,1))?e+"("+n+")":e+n},"")}function a(e){return"0"<=e&&e<="9"}function u(e){return"+"==e||"-"==e}e.length&&(t=[],r=[],e.forEach(function(e){e.exponent<0?r.push({factor:e.factor,exponent:-e.exponent}):t.push(e)}),!t.length&&r.length&&t.push(PCR.integer(1)),""===(e=o(t))&&(e="0"),e=r.length?"\\frac{"+e+"}{"+o(r)+"}":e,n.SetValue(e))},this.Calc7717=function(e,n,t,r,o,a,i,u,l){var c=e.slice(),s=n.slice();if(v(c),v(s),!s.length)throw{source:"denominator",message:t.errMustBeOne};c.length||c.push(PCR.integer(0));var f=s[0].zero;i.SetValue(c.slice()),u.SetValue(s.slice());for(t=[];c.length>=s.length;){var m=l.AddNewRecord();m.dividend=b(c);for(var p=c[0].div(s[0]),d=[c[0]],h=1;h<s.length;++h){var g=s[h].mul(p);c[h]=c[h].sub(g),d.push(g)}m.sub=x(d,c.length-d.length),t.push(p),m.multiplier=x([p],c.length-s.length),c.shift(),m.remainder=b(c)}function v(e){for(;e.length&&e[0].isZero();)e.shift()}function x(e,n){for(var t=e.slice();n--;)t.push(f);return t}function b(e){return e.slice()}v(c),a.SetValue(b(c)),o.SetValue(b(t))},this.Calc8307=function(e,n,t,r,o){var a=e.length?e[0].one:PCR.integer(1),i=new FormatterPolynomial(PCF.getCalcPrecision(),0,0,PCF.getResultsSet()).FormatSimple(e);t.SetValue("{("+i+")}^{"+n+"}"),n?(e=D.Lib8307.fastpow(e,n,function(e,n){return D.Calculate7742({a:e,b:n}).result}),o.SetValue(e)):o.SetValue([a]),r.SetValue(function(e,n){var t,r={name:1,children:[]},o={1:r};for(t in e){var a;!o[t]&&Number(t)<=n&&(a={name:t,children:[]},o[t]=a,o[e[t]].children.push(a))}return r}(D.Lib8307.tree,n))},this.Calc8357=function(e,n,t,r,o,a,i){if(1==r)throw{source:"order",message:t.errOrder};var u=x(e,r),l=x(n,r);if(v(u)&&v(l)){var c=[PCR.modular(0,r)];o.SetValue(c),a.SetValue(c),i.SetValue(c)}else{for(var c=(v(u)?l:u)[0],s=[c.one],f=[c.zero],m=[c.zero],p=[c.one];!v(l);)var d=(h=u,g=l,D.Calculate7717({numerator:h,denominator:g,details:0})),h=d.quotient,g=d.remainder,d=y(s,C(f,h)),h=y(m,C(p,h)),s=f,f=d,m=p,p=h,u=l,l=g;s=b(s,c=u[0]),m=b(m,c),u=b(u,c),o.SetValue(u),a.SetValue(s),i.SetValue(m)}function v(e){return 0===e.length||1==e.length&&e[0].isZero()}function x(e,n){var t=[];return e.forEach(function(e){e="number"==typeof e?n?PCR.modular(e,n):PCR.integer(e):e;t.push(e)}),t}function b(e,n){return e.map(function(e){return e.div(n)})}function y(e,t){var r=e.length-t.length,e=e.map(function(e,n){n-=r;return n<0?e:e.sub(t[n])});return function(e){for(;e.length&&e[0].isZero();)e.splice(0,1);return e}(e=r<0?t.slice(0,-r).map(function(e){return e.neg()}).concat(e):e)}function C(e,n){return D.Calculate7742({a:e,b:n}).result}},this.Calc8365=function(e,n,t,r){e=function(e,t,r,n){var o=e.length-t.length,e=e.map(function(e,n){n-=o;return n<0?e:r(e,t[n])});o<0&&(e=t.slice(0,-o).map(function(e){return n(e)}).concat(e));return a(e)}(n,t,"+"==e?function(e,n){return e.add(n)}:function(e,n){return e.sub(n)},"+"==e?function(e){return e}:function(e){return e.neg()});function a(e){for(;e.length&&e[0].isZero();)e.splice(0,1);return e}r.SetValue(e)},this.Disp8383=function(e,n,t,r,o,a){a.Display(t.GetValue())},this.Display8383=function(e,n){D.Disp8383(n.simple(e.expression,"expression"),n.options(D.Res8383.res,"res"),n.simple(e.showDetails,"showDetails"),n.simple(e.problem,"problem"),n.simple(e.result,"result"),n.table(e.details,"details"))},this.Disp7717=function(e,n,t,r,o,a,i,u,l){l.Display(r.GetValue())},this.Display7717=function(e,n){D.Disp7717(n.simple(e.numerator,"numerator"),n.simple(e.denominator,"denominator"),n.options(D.Res7717.res,"res"),n.simple(e.details,"details"),n.simple(e.quotient,"quotient"),n.simple(e.remainder,"remainder"),n.simple(e.dividend,"dividend"),n.simple(e.divider,"divider"),n.table(e.steps,"steps"))},this.Res8383={res:{sub:"Subtrair",add:"Somar",mul:"Multiplicar",exp:"Exponenciar",quotient:"Quociente de divisão",gcd:"Maior divisor comum",A:"Maior divisor comum estendido, A",B:"Maior divisor comum estendido, B",content:"Conteúdo",lc:"Coeficiente líder",deg:"Grau",neg:"Tornar negativo"}},this.Res7717={res:{errMustBeOne:"É requerido pelo menos um coeficiente"}},this.Res8357={res:{errCharacteristic:"Ordem de campo inválida. Deve ser 0 para anel de números inteiros ou potência de número primo para campo finito."}},this.Calculate9021=function(e){var n={},t=new Recordset("","__id__"),r=new Recordset("","__id__");return D.Calc9021(e.xy,e.interpolate,{SetValue:function(e){n.newtonFormula=e}},{SetValue:function(e){n.expandedNewton=e}},t,r),n.interpolated=t.GetRecordArray(),n.chart=r.GetRecordArray(),n},this.Calculate8383=function(e){var n={},t=new Recordset("","__id__");return D.Calc8383(e.expression,D.Res8383.res,new Boolean(e.showDetails).valueOf(),{SetValue:function(e){n.problem=e}},{SetValue:function(e){n.result=e}},t),n.details=t.GetRecordArray(),n},this.Calculate7742=function(e){var n={};return D.Calc7742(e.a,e.b,{SetValue:function(e){n.problem=e}},{SetValue:function(e){n.result=e}}),n},this.Calculate8367=function(e){var n={};return D.Calc8367(e.variableName,e.factors,{SetValue:function(e){n.math=e}}),n},this.Calculate7717=function(e){var n={},t=new Recordset("","__id__");return D.Calc7717(e.numerator,e.denominator,D.Res7717.res,new Boolean(e.details).valueOf(),{SetValue:function(e){n.quotient=e}},{SetValue:function(e){n.remainder=e}},{SetValue:function(e){n.dividend=e}},{SetValue:function(e){n.divider=e}},t),n.steps=t.GetRecordArray(),n},this.Calculate8307=function(e){var n={};return D.Calc8307(e.polynomial,Number(e.exponent),{SetValue:function(e){n.problem=e}},{SetValue:function(e){n.resultTree=e}},{SetValue:function(e){n.result=e}}),n},this.Calculate8357=function(e){var n={};return D.Calc8357(e.u,e.v,D.Res8357.res,Number(e.order),{SetValue:function(e){n.gcd=e}},{SetValue:function(e){n.A=e}},{SetValue:function(e){n.B=e}}),n},this.Calculate8365=function(e){var n={};return D.Calc8365(e.op,e.a,e.b,{SetValue:function(e){n.result=e}}),n}};</script><script>
+    PLANETCALC.init();
+    </script>
+    </body>
+    </html>
+    
