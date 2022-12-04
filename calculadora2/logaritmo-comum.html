@@ -1,0 +1,204 @@
+<!DOCTYPE HTML>
+<html lang="pt">
+  <head>
+   <meta charset="UTF-8">
+   <title>Logaritmo comum — calculadoras on-line, gráfico, fórmulas</title>
+   <meta name="viewport" content="width=device-width">
+   <link rel="stylesheet" href="https://jpp-ap.onrender.com/calculadora2/styl.css">
+   <link rel="shortcut icon" href="https://jpp-ap.onrender.com/calculadora2/obr/favicon.ico">  
+   <style>
+     .obr img:first-child {max-width:250px; margin-right:0}
+     .obr img {max-width:235px; margin-right:2em}
+     .obr img:last-child {max-width:252px; margin-right:0}
+   </style>
+
+  </head>
+  <body>
+   <!--  h l a v i c k a  -->
+   <header id="pozadi" class="navDown">
+     <div class="stred">
+       <a href="/pt/"><img src="https://jpp-ap.onrender.com/calculadora2/"><img src="https://jpp-ap.onrender.com/calculadora2/obr/JP2.png" class="logo" alt="Calculat.org"></a> 
+       <input type="image" src="https://jpp-ap.onrender.com/calculadora2/obr/menu.svg" alt="&#9776;" class="mobileMenu" onClick="otevriMenu()"> 
+     </div>
+   </header>
+   <!-- t e l o -->
+   <div class="stred"> 
+     <div class="obsah">
+       <div class="telo">
+         <div class="okraj">
+           <h1>Logaritmo comum</h1>
+           <ul class="text">
+             <li>O logaritmo comum é o logaritmo com a base 10.</li>          
+           </ul>
+           <h2>Fórmulas</h2>
+             <div class="obr">
+             <img src="obr/log-dl-1.svg" alt="Logaritmo comum - gráfico">  
+             <div class="zaverka"></div>                     
+<!-- NAT -->
+
+<!-- NAT -->      
+             <img src="form/log-dl-1.svg" alt="Logaritmo comum - Fórmulas">          
+             <img src="form/log-dl-2.svg" alt="Logaritmo comum - Fórmulas">
+             <div class="zaverka"></div>
+           </div>
+           </div>
+
+<!-- reklamaB -->
+         <div class="okraj">
+           <h2>Calculadora</h2>
+           <h3 id="error1">Insira 1 valor</h3>
+           <form name="log3" action="javascript:Log3()">
+             <table>
+               <tr><td><span class="prom">x = </span><td><input type="tel" name="x1"></td></tr>
+               <tr><td><span class="norm">log</span><span class="prom"> x = </span></td><td><input type="tel" name="logx"></td></tr> 
+             </table>                                                                                       
+             <p>Arredondar para <input type="tel" name="desMista" value="2" class="desMista" onFocus="uvolniDM();" onBlur="zaplnDM()"> casas decimais</p>                                      
+             <div class="tlacitka"><input type="submit" value="Calcular"><input type="reset" value="Apagar"></div> 
+           </form> 
+         </div> 
+<!-- reklamaB -->
+
+<!-- reklamaB -->  
+         <div class="okraj">        
+           <h2>Links relacionados</h2>
+           <ul class="odkaz">
+             <li><a href="index.html#vz" target="_blank">Fórmulas logarítmicas</a></li>
+           </ul>
+           <p class="pata">Nos agrada muito receber os seus comentários e sugestões.<br>
+               <a href="mailto:info@calculat.org">info@calculat.org</a><br>
+               <a href="https://www.calculat.org/">calculat.org</a>
+             </p>
+         </div>  
+       </div> <!--telo-->
+       <nav id="menuOff">
+         <div class="pozMenu">
+          <div></div> <!--kvuli pozadi-->
+          <div>
+           <input type="image" src="https://jpp-ap.onrender.com/calculadora2/obr/close-menu.svg" class="mobileMenu" alt="X" onClick="zavriMenu()">
+          </div>
+         </div>
+       <div class="menu" id="ulMenu">   
+         <div class="search">
+           <form action="https://www.google.com">
+             <input type="hidden" name="cx" value="000817978268712530256:ztglwstaxxo">
+             <input type="hidden" name="ie" value="UTF-8">
+             <input type="search" name="q">
+             <input type="image" name="sa" src="https://jpp-ap.onrender.com/calculadora2/obr/search.svg" alt="&#128269;">
+           </form>     
+         </div>       
+         <div class="zaverka"></div>
+         <ul>            
+           <li class="rozbal"><a href="/pt/logaritmos/">Logaritmos</a><div class="zaverka"></div>
+             <ul>
+               <li><a href="/pt/logaritmos/logaritmo.html">Logaritmo</a></li>
+               <li><a href="/pt/logaritmos/logaritmo-natural.html">Logaritmo natural</a></li>
+               <li class="zde"><a href="/pt/logaritmos/logaritmo-comum.html">Logaritmo comum</a></li>
+             </ul></li>
+           <li><a href="/pt/area-perimetro/">Área e perímetro</a><input type="button" value="»" onClick="Rozbal(this.parentNode, 'rozbal');"><div class="zaverka"></div>
+             <ul>
+               <li><a href="/pt/area-perimetro/circulo.html">Círculo</a></li>
+               <li><a href="/pt/area-perimetro/triangulo.html">Triângulo</a></li>
+               <li><a href="/pt/area-perimetro/triangulo-retangulo.html">Triângulo retângulo</a></li>
+               <li><a href="/pt/area-perimetro/quadrado.html">Quadrado</a></li>
+               <li><a href="/pt/area-perimetro/retangulo.html">Retângulo</a></li>
+               <li><a href="/pt/area-perimetro/losango.html">Losango</a></li>
+               <li><a href="/pt/area-perimetro/paralelograma.html">Paralelograma</a></li>
+               <li><a href="/pt/area-perimetro/trapezoide.html">Trapezoide</a></li>
+               <li><a href="/pt/area-perimetro/pentagono.html">Pentágono</a></li>
+               <li><a href="/pt/area-perimetro/hexagono.html">Hexágono</a></li>
+               <li><a href="/pt/area-perimetro/poligono.html">Polígono</a></li>
+               <li><a href="/pt/area-perimetro/teorema-de-pitagoras.html">Teorema de Pitágoras</a></li>
+             </ul></li>
+           <li><a href="/pt/volume-area/">Volume e área</a><input type="button" value="»" onClick="Rozbal(this.parentNode, 'rozbal');"><div class="zaverka"></div>
+             <ul>
+               <li><a href="/pt/volume-area/cubo.html">Cubo</a></li>
+               <li><a href="/pt/volume-area/ortoedro.html">Ortoedro</a></li>
+               <li><a href="/pt/volume-area/cilindro.html">Cilindro</a></li>
+               <li><a href="/pt/volume-area/cone.html">Cone</a></li>
+               <li><a href="/pt/volume-area/bola.html">Bola</a></li>
+               <li><a href="/pt/volume-area/prisma.html">Prisma</a></li>
+               <li><a href="/pt/volume-area/piramide.html">Pirâmide</a></li>
+             </ul></li>
+           <li><a href="/pt/percentagens/">Percentagens</a><div class="zaverka"></div></li>
+           <li><a href="/pt/regra-de-tres/">Regra de três</a><div class="zaverka"></div></li>
+           <li><a href="/pt/media/">Média</a><input type="button" value="»" onClick="Rozbal(this.parentNode, 'rozbal')"><div class="zaverka"></div>
+             <ul>
+               <li><a href="/pt/media/media-aritmetica.html">Média aritmética</a></li>
+               <li><a href="/pt/media/media-aritmetica-ponderada.html">Média aritmética ponderada</a></li>
+             </ul></li>
+           <li><a href="/pt/equacao/">Equação</a><input type="button" value="»" onClick="Rozbal(this.parentNode, 'rozbal');"><div class="zaverka"></div>
+             <ul>
+               <li><a href="/pt/equacao/equacao-linear.html">Equação linear</a></li>
+               <li><a href="/pt/equacao/equacao-quadratica.html">Equação quadrática</a></li>
+               <li><a href="/pt/equacao/sistema-de-equacoes.html">Sistema de equações</a></li>
+             </ul></li>
+           <li><a href="/pt/potencias-raizes/">Potências e raízes</a><input type="button" value="»" onClick="Rozbal(this.parentNode, 'rozbal');"><div class="zaverka"></div>
+             <ul>
+               <li><a href="/pt/potencias-raizes/segunda-potencia.html">Segunda potência</a></li>
+               <li><a href="/pt/potencias-raizes/terceira-potencia.html">Terceira potência</a></li>
+               <li><a href="/pt/potencias-raizes/n-esima-potencia.html">n-ésima potência</a></li>
+               <li><a href="/pt/potencias-raizes/raiz-quadrada.html">Raiz quadrada</a></li>
+               <li><a href="/pt/potencias-raizes/raiz-cubica.html">Raiz cubica</a></li>
+               <li><a href="/pt/potencias-raizes/raiz-n-esima.html">Raiz n-ésima</a></li>
+             </ul></li>
+           <li><a href="/pt/funcoes-trigonometricas/">Funções trigonométricas</a><input type="button" value="»" onClick="Rozbal(this.parentNode, 'rozbal');"><div class="zaverka"></div>
+             <ul>
+               <li><a href="/pt/funcoes-trigonometricas/seno.html">Seno</a></li>
+               <li><a href="/pt/funcoes-trigonometricas/cosseno.html">Cosseno</a></li>
+               <li><a href="/pt/funcoes-trigonometricas/tangente.html">Tangente</a></li>
+               <li><a href="/pt/funcoes-trigonometricas/cotangente.html">Cotangente</a></li>
+             </ul></li>
+           <li><a href="/pt/conversao-de-unidades/">Conversão de unidades</a><input type="button" value="»" onClick="Rozbal(this.parentNode, 'rozbal');"><div class="zaverka"></div>
+             <ul>
+               <li><a href="/pt/conversao-de-unidades/comprimento.html">Comprimento</a></li>
+               <li><a href="/pt/conversao-de-unidades/area.html">Área</a></li>
+               <li><a href="/pt/conversao-de-unidades/volume.html">Volume</a></li>
+               <li><a href="/pt/conversao-de-unidades/massa.html">Massa</a></li>
+               <li><a href="/pt/conversao-de-unidades/velocidade.html">Velocidade</a></li>
+               <li><a href="/pt/conversao-de-unidades/temperatura.html">Temperatura</a></li>
+               <li><a href="/pt/conversao-de-unidades/angulos.html">Ângulos</a></li>
+               <li><a href="/pt/conversao-de-unidades/pressao.html">Pressão</a></li>
+               <li><a href="/pt/conversao-de-unidades/potencia.html">Potência</a></li>
+               <li><a href="/pt/conversao-de-unidades/energia.html">Energia</a></li>
+               <li><a href="/pt/conversao-de-unidades/tempo.html">Tempo</a></li>
+             </ul></li>
+           <li><a href="/pt/energia/">Energia e combustível</a><input type="button" value="»" onClick="Rozbal(this.parentNode, 'rozbal');"><div class="zaverka"></div>
+             <ul>
+               <li><a href="/pt/energia/consumo-de-eletricidade.html">Consumo de eletricidade</a></li>
+               <li><a href="/pt/energia/consumo-de-combustivel.html">Consumo de combustível</a></li>
+               <li><a href="/pt/energia/consumo-de-gas.html">Consumo de gás</a></li>
+             </ul></li>
+         </ul>
+         </div>
+       </nav> <!--menu-->
+     </div> <!--obsah-->
+     <div class="reklS">
+       <div id="reklS">
+<!-- reklamaS SKRYJ -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- PT-LOG-DL-S -->
+<ins class="adsbygoogle reklamaS"
+     data-ad-client="ca-pub-5022382288686796"
+     data-ad-slot="7485585825"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- reklamaS -->
+       </div> 
+     </div> 
+   </div><!--stred-->
+   <div class="cookies">
+     <div class="stred">
+	     <p>O nosso site usa os arquivos cookies para fornecer os serviços.</p>
+	     <div>
+         <button>OK</button>
+	       <a target="_blank" href="https://www.google.com/policies/technologies/cookies/">Mais&nbsp;informações</a>
+       </div> 
+     </div>
+   </div><!--cookies-->
+
+   </div> <!-- zadost -->   
+
+  </body>  
+</html>
