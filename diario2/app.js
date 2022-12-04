@@ -44,7 +44,7 @@ var fps;
 var lastFrame = new Date();
 var lastFrameFrame = lastFrame;
 var title = 'JP';
-var radioName = 'RAULAND FM';
+var radioName = 'DIÁRIO FM';
 var host = "https://hts02.kshost.com.br:8856/live";
 
 function getUrlVars() {
