@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="250" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css"><![CDATA[  
+      text {font: italic 1.2em "Times New Roman",serif}
+    ]]></style>
+<!-- osy -->
+  <line x1="20" y1="80" x2="140" y2="80" stroke="#000000" stroke-dasharray="2,2" />
+  <line x1="140" y1="80" x2="140" y2="125" stroke="#000000" stroke-dasharray="2,2" />
+  <line x1="20" y1="5" x2="20" y2="200" stroke="#000000" />
+  <polyline points="17,10 20,5 23,10" stroke="#000000" fill="none" />
+  <line x1="5" y1="125" x2="245" y2="125" stroke="#000000" />
+  <polyline points="240,122 245,125 240,128" stroke="#000000" fill="none" />
+<!-- logaritmus -->
+  <path fill="none" stroke="#ff000f" stroke-width="2" d="M25,200 Q25,80 245,65" />
+<!-- osa y -->
+  <text x="7" y="15">y</text>
+  <text x="7" y="140" style="font-style:normal">0</text>
+  <text x="7" y="85" style="font-style:normal">1</text>
+<!-- osa x -->
+  <text x="235" y="140">x</text>
+  <text x="53" y="140" style="font-style:normal">1</text>
+  <text x="130" y="140" style="font-style:normal">10</text>
+<!-- log_a{x} -->
+  <text x="210" y="60" style="font-style:normal" fill="#ff000f">log</text>
+  <text x="237" y="60" fill="#ff000f">x</text>
+</svg>
