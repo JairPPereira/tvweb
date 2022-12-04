@@ -45,7 +45,7 @@ var lastFrame = new Date();
 var lastFrameFrame = lastFrame;
 var title = 'JP';
 var radioName = 'RAULAND FM';
-var host = "https://stm1.srvif.com:6672/stream";
+var host = "https://hts02.kshost.com.br:8856/live";
 
 function getUrlVars() {
     var vars = {};
