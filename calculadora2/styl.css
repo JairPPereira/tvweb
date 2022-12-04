@@ -1,0 +1,129 @@
+/* VSE */
+/* obecne */
+* {font: 1em arial,sans-serif}
+a {color:#1f3a93; text-decoration:underline}
+a:hover, .menu a:hover {color:#cf000f; text-decoration:underline}
+body {margin:0}
+input[type="checkbox"] {width:1.25em; height:1.25em}
+input[type="radio"] {margin:0.5em; width:1.25em; height:1.25em}
+input[type="text"], input[type="tel"] {font-size:1.05em; width:150px; padding:0.4em; border:1px solid #666666}
+.reklamaB {clear:both; width:100%; max-width:728px; margin:0.3em 0}
+select {font-size:1.05em; padding:0.35em; line-height:28px; border:1px solid #666666;} /*pro safari line-height!!*/
+table {border-collapse:collapse;}
+.zaverka {clear:both}
+ins.adsbygoogle {max-width:728px}
+/*hlavicka*/
+header {background:#008080; width:100%;}
+/*telo*/
+h1 {font:2.75em slabo,arial,sans-serif; color:#30519e; margin:0.2em 0}
+h2 {font:2.2em slabo,arial,sans-serif; color:#30519e; margin:0.1em 0}
+h3 {font:1.2em arial,sans-serif; color:#1f3a93; margin:0.1em 0; padding-top:10px}
+h3:first-child {padding-top:0}
+img#latex {margin:0.5em 0}
+input.desMista{width:1.5em; text-align:center; font-size:1em;}
+.obr img {width:100%; height:auto; float:left; margin-bottom:1em} 
+.obr img:first-child {margin-right:2em}
+.okraj {padding:0 0.75em 0.3em; clear:both}
+.okraj input[type="text"], .okraj input[type="tel"] {margin:0.3em 0;}
+.okraj input[readonly] {border:0; border-bottom:1px solid #666666; padding:0.2em; margin:0.5em;}
+p, ul.text {font:1.05em arial,sans-serif; line-height:1.3; margin:0.5em 0; text-align:justify;}
+p span, .prom, h3 span, li span {font: italic 1.2em "Times New Roman",serif}
+span.norm {font: normal 1.2em "Times New Roman",serif}
+sub, sup {font: normal 0.7em "Times New Roman",serif}
+sub.it, sup.it {font: italic 0.7em "Times New Roman",serif}
+.pata {font-size:0.75em}
+.pata a {text-decoration:none}
+.popis {float:left;padding-left:0;}
+.popis:last-child {padding-left:20px}
+.popis li {font-size:1.05em; margin-bottom:0.2em; list-style-type:none;}
+table.result tr td:first-child {font-size:1.05em}
+table.zobraz td, table.zobraz th {border:1px solid #cccccc; padding:0.75em 0.3em}
+table.zobraz th {text-align:center}
+.tlacitka input, .cookies button {background:#d8d8d8; border:1px solid #666666; cursor:pointer;}
+.tlacitka input {padding:0.65em; margin:0.5em 0; min-width:5em}
+.tlacitka input[type="submit"] {margin-right:1.7em}
+ul.odkaz {list-style-type:disc; color:#1f3a93; padding-bottom:0.75em;}
+ul.odkaz li {padding:0.3em;}
+ul.text {padding-left:1em;}
+/*lista cookies*/
+.cookies {display:none; position:fixed; left:0; bottom:0; width:100%; color:#ffffff; background:#008080; padding:5px; font-size:0.9em}
+.cookies a {margin:0 5px; color:#91abc3;}
+.cookies button {margin:0 5px; padding:0.4em 1.5em}
+.cookies>div>div {float:left}
+.cookies p {float:left}
+/*adblock*/
+#zadost {display:none; position:fixed; width:96%; padding: 0 2%; font-size:0.9em; bottom:0px; z-index:4; background:#cf000f; color:white}
+@media (min-width:1024px) {
+ #zadost>div {margin:2.5em 0 } 
+}
+/*indexove stranky*/
+div.odkaz {text-align:center; padding:1em 0; outline:1px dotted #008080}
+div.odkaz a {font:1.5em slabo,arial,sans-serif;}
+div.odkaz img {margin:1.5em auto 0 auto}
+img.odkaz {width:40px; height:40px; margin-top:0.5em}
+@media (min-width:751px) {
+ div.odkaz {float:left; width:31.83%; margin:5px 1.5% 5px 0;} 
+}
+@media (min-width:450px) and (max-width:750px) {
+ div.odkaz {float:left; width:48%; margin:5px 1%;}
+}
+@media (max-width:449px) {
+ div.odkaz {width:100%; margin:10px 0;}   
+}
+/* menu */
+.menu {font-size:1.05em;max-width:250px}
+.menu a {text-decoration:none; display:block; padding:0.25em 0}
+.menu ul {list-style-type:none; padding:0;} 
+.menu li {border-top:1px solid #ccccff;}  
+.menu>ul>li:first-child {border-top:0}
+.menu ul input {width:33px; height:33px; float:right}
+.menu li.rozbal ul {display:block}
+.menu li.rozbal>a {font-weight:bold}
+.menu li ul {display:none}
+.menu>ul>li>a {float:left; color:#000066; text-transform:uppercase}
+.menu li.zde a, a.zde {color:#cf000f !important;}
+.menu input[type="button"] {background:0; border:0; color:#000066; cursor:pointer; font-size:1.3em; width:33px; height:33px;}
+.menu input[type="button"]:hover {color:#cf000f;}
+.search input[type="search"] {width:80.5%; height:33px; ; margin:10px 0; padding:0; float:left}
+.search input[type="image"] {float:left; width:33px; height:33px; margin: 10px 0;}
+/* min 1066 px */
+@media (min-width:1066px) {
+ input.mobileMenu {display:none}
+ .logo {width:320px; height:75px;}
+ nav#menuOff {display:block !important}
+ .menu {width:19.5%; float:right; margin-top:-65px}
+ .menu>ul>li>a {padding-top:0.5em; width:80.5%;}
+ .menu ul ul li {padding-left:0.5em}
+ .obsah {width:86.6%; float:right}
+ .reklamaS {display:block}
+ .reklS {width:13.4%; max-width:160px; float:left; position:absolute; top:85px}
+ .reklS .fixed {position:fixed; top:5px}
+ .stred {width:100%; max-width:1200px; margin:0 auto}
+ .search input[type="search"] {border:1px solid #ffffff; border-radius:3px; color:#ffffff; background:#008080} 
+ .telo {width:79.5%; padding:0 0.5%; float:left;}
+}
+/* max 1065 px */
+@media (max-width:1065px) {
+ body {padding-top:50px;}
+ .cookies {font-size:0.75em}
+ h1 {font-size:2.25em;}
+ h2 {font-size:2em;} 
+ header {height:50px; position:fixed; top:0; transition:top 0.2s ease-in-out; z-index:2}
+ .mobileMenu {float:right; width:41px; height:41px; margin:4px}
+ .logo {width:200px; height:47px}
+ .menu {background:#ffffff; position:fixed; top:50px; border:2px solid #ccccff; border-top:0; overflow-y:scroll;}
+ .menu li a {padding:0.6em}
+ .menu>ul>li>a {padding-left:0.5em; width:175px;}
+ .menu ul ul li {padding-left:0.5em; }
+ nav#menuOff {display:none; width:254px; position:fixed; top:0; right:0; z-index:3}
+ .navUp {top:-50px;}
+ .popis {clear:both;margin:0}                    
+ .popis:last-child {padding:0}  
+ .pozMenu {width:254px; height:50px; position:fixed; top:0;}
+ .pozMenu div {float:left;  background:#008080; width:50px; height:50px}
+ .pozMenu div:first-child {float:left;  background:#008080; opacity:0.75; width:204px; height:50px}
+ .reklamaS {display:none;}
+ .search input[type="search"] {border:1px solid #008080; background:#ffffff; margin-left:5px;}  
+} 
+/* fonty */
+@font-face {font-family:slabo; src:url("/font/slabo.ttf");} 
