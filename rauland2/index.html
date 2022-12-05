@@ -1,91 +1,173 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta name="description" content="eAudio | Extended HTML Audio Object">
-  <meta name="author" content="DIDAVA Media">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="theme-color" content="#121111"/>
-  <meta name="apple-mobile-web-app-status-bar-style" content="#121111"/>
-  <meta name="msapplication-navbutton-color" content="#121111"/>
-  <script>
-    window.onload = function() {
-        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-            document.getElementById("botcel").style.display = "table";
-        }
-    }
-</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1">
 
-    
-<script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/2462/169723df52eee895194180f997f22de41293c88a/lib.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <title>Rádio Rauland</title>
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://jpp-ap.onrender.com/css/eradio.css">
+    <!-- SEO -->
+    <title>AO VIVO | Rádio Metropolitana 98.5 FM</title>
+	<meta name="description" content="AO VIVO | Rádio Metropolitana 98.5 - Entretenimento, Música, Novidades... TUDO acontece aqui!">
+	<meta name="image" content="/assets/imgs/cover-player.png">
+	<meta itemprop="name" content="AO VIVO | Rádio Metropolitana 98.5 FM">
+	<meta itemprop="description" content="AO VIVO | Rádio Metropolitana 98.5 - Entretenimento, Música, Novidades... TUDO acontece aqui!">
+	<meta itemprop="image" content="/assets/imgs/cover-player.png">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="AO VIVO | Rádio Metropolitana 98.5 FM">
+	<meta name="twitter:description" content="AO VIVO | Rádio Metropolitana 98.5 - Entretenimento, Música, Novidades... TUDO acontece aqui!">
+	<meta name="twitter:site" content="@metropolitanafm">
+	<meta name="twitter:creator" content="@metropolitanafm">
+
+	<meta property="og:title" content="AO VIVO | Rádio Metropolitana 98.5 FM">
+	<meta property="og:description" content="AO VIVO | Rádio Metropolitana 98.5 - Entretenimento, Música, Novidades... TUDO acontece aqui!">
+	<meta property="og:image" content="/assets/imgs/cover-player.png">
+	<meta property="og:url" content="https://metropolitanafm.com.br/ao-vivo">
+	<meta property="og:site_name" content="AO VIVO | Rádio Metropolitana 98.5 FM">
+	<meta property="og:locale" content="pt_BR">
+	<meta property="fb:admins" content="100010641667585">
+	<meta property="fb:app_id" content="785165811617612">
+	<meta property="og:type" content="article">
+    <meta property="article:published_time" content="2017-02-01T19:35:50-02:00" />
+    <meta property="article:modified_time" content="2017-02-07T09:24:16-02:00" />
+    <meta property="og:updated_time" content="2017-02-07T09:24:16-02:00" />
+
+
+
+    <!-- Chartbeat -->
+    <script type='text/javascript'>
+        (function() {
+            /** CONFIGURATION START **/
+            var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+            _sf_async_config.uid = 66965;
+            _sf_async_config.domain = 'metropolitanafm.com.br';
+            _sf_async_config.useCanonical = true;
+            _sf_async_config.useCanonicalDomain = true;
+            _sf_async_config.sections = 'AO VIVO';
+            _sf_async_config.authors = 'AO VIVO';
+
+            /** CONFIGURATION END **/
+            function loadChartbeat() {
+                var e = document.createElement('script');
+                var n = document.getElementsByTagName('script')[0];
+                e.type = 'text/javascript';
+                e.async = true;
+                e.src = '/js/chartbeat.js';
+                n.parentNode.insertBefore(e, n);
+            }
+            loadChartbeat();
+        })();
+    </script>
+    <script async src="/js/chartbeat_mab.js"></script>
+
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MZ5SQ5F');</script>
+
+    <script>
+        window.dataLayer.push({"aovivo":"true","radio":"aovivo"});
+    </script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/metro/assets/imgs/favicon/favicon-32x32-2.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://metropolitanafm.com.br/wp-content/themes/metro/assets/imgs/favicon/favicon-96x96-2.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://metropolitanafm.com.br/wp-content/themes/metro/assets/imgs/favicon/favicon-16x16-2.png">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/style.css?v=1.30">
+
 </head>
 <body>
-  <p></p><div class="container-fluid">
-    <center>
-    <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="https://www.radiorauland.com.br/admin/assets/img/logo.png" alt="Rauland FM">
-        <h5 class="card-title">Rauland FM</h5>
-        <div class="card-body"><iframe src="https://player.srvif.com/player-topo-html5/6672/000000" frameborder="0" width="100%"></iframe> 
-        </div>
-    </div></center></div>
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-</body>
-<script src="eaudio.min.js"></script>
-<script>
-  const start = document.querySelector('#start');
-  start.addEventListener('click', e => {
-    start.remove(); // Remove start button
+
+  
+
+    <!-- Radios -->
+    <div class="body-radios">
+
+            <div class="logo-mobile ">
+                <img width="250" height="250" src="/assets/imgs/aovivo.png" alt="AO VIVO | Rádio Metropolitana 98.5 FM">
+            </div>
+
+        <div class="container-radios">
+
+            <!-- capa -->
+            <div class="col col-cover">
+                <div id="cover">
+                    <img src="https://metropolitanafm.com.br/assets/imgs/aovivo.png" alt="AO VIVO | Rádio Rauland 95.1 FM">
+                    <div id="adContainer"></div>
+                </div>
+             
+            </div>
+
     
-    // eAudio Setup
-    const audio = new eAudio('https://stm1.srvif.com:6672/,?YnRjdGp0dWZuYi9kcG4vY3MB'); // Antena1 Live Radio Stream
-    audio.crossOrigin = '*';
-    audio.autoplay = true;
-    audio.controls = true;
-    document.querySelector('#container').appendChild(audio);
+        </div>
+    </div>
 
-    // Spectrum Canvas Setup
-    const canvas = document.createElement('canvas');
-    document.querySelector('#spectrum').appendChild(canvas);
-    canvas.style.width = '100%';
-    canvas.style.height = '100%';
-    canvas.width = canvas.offsetWidth;
-    canvas.height = canvas.offsetHeight;
-    const ctx = canvas.getContext('2d');
+    
+    </div>
 
-    // Bars and Color
-    const gradient = ctx.createLinearGradient(0, 0, 0, 128);
-    gradient.addColorStop(1, "#00ccff");
-    gradient.addColorStop(0, "#ffffff");
-    ctx.fillStyle = gradient;
+    <!-- Barra fixa -->
+    <div class="player player-fixed">
+        <div class="container-radios">
+            <div id="btn-player" class="btn">
+                <i class="fas fa-spinner fa-spin"></i>
+            </div>
+            <div class="dados-streaming">
+                <div id="artista"></div>
+                <div id="musica"></div>
+            </div>
 
-    // Analyser Setup
-    audio.specLines = 128; // Set the spectrum lines count
-    audio.specSmooth = 0.8; // Set the spectrum smoothness
+            <div class="logo ">
+                <img src="https://metropolitanafm.com.br/assets/imgs/aovivo.png" alt="AO VIVO | Rádio Rauland 95.1 FM">
+            </div>
+        </div>
+    </div>
 
-    // Bars Animation
-    function frameLooper() {
-      window.requestAnimationFrame(frameLooper);
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      const data = audio.specFreq; // Get frequency analysis for each frame
-      const maxFreq = parseInt(data.length * 0.725); // Ignore frequencies higher than 16kHz
-      const width = canvas.width / maxFreq;
-      const barWidth = width - 1;
-      for (var i = 0; i < maxFreq; i++) { // Loop through analyser data array
-        const barHeight = canvas.height * (-data[i] / 256) - 1;
-        const barX = i * width;
-        ctx.fillRect(barX, canvas.height, barWidth, barHeight);
-      }
-    }
-    frameLooper();
+    <!-- audio -->
+    <audio id="audio-player" type="audio/aac">
+    </audio> <!-- final do audio -->
 
-    console.dir(audio);
-  });
+
+    <!-- Player JS -->
+    <script src="/assets/new-app.js?v=30"></script>
+
+    <!-- Google Tag Manager (noscript) -->
+
+
+
+    <!-- Font Awesome -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+	<!--  Publicidade  -->
+	<script data-cfasync="false" type="text/javascript" id="clever-core">
+    /* <![CDATA[ */
+    (function (document, window) {
+        var a, c = document.createElement("script"), f = window.frameElement;
+
+        c.id = "CleverCoreLoader49332";
+        c.src = "./163b9c203b134b935159deb076f0aa92.js";
+
+        c.async = !0;
+        c.type = "text/javascript";
+        c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+        c.setAttribute("data-callback", "put-your-callback-macro-here");
+
+        try {
+            a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+        } catch (e) {
+            a = !1;
+        }
+
+        a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+        a.parentNode.insertBefore(c, a);
+    })(document, window);
+    /* ]]> */
 </script>
+
+
+</body>
 </html>
