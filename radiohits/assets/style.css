@@ -1,0 +1,604 @@
+:root {
+  --color-black: hsl(0, 0%, 10%);
+  --color-white: hsl(0, 0%, 100%);
+  --color-darken: hsl(0, 0%, 20%);
+
+  --color-pantone: #0020B8;
+
+  --shadow-small: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  --shadow-medium: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-large: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+
+  --espaco-padrao: 30px;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote,
+a, abbr, acronym, address, big, cite,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video, input, textarea, select, option {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  box-sizing: border-box;
+  font-family: Tahoma, Geneva, sans-serif;
+  color: var(--color-black);
+}
+img  {
+  max-width: 100%;
+  height: auto;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background: #f5f5f5;
+  overflow-x: hidden;
+  padding-bottom: 80px;
+}
+
+img  {
+  max-width: 100%;
+  height: auto;
+}
+
+strong {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+.main {
+  position: relative;
+}
+
+/**
+ * Estrutura de Grids
+ */
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+@media all and (min-width: 1170px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+.container-radios {
+    width: 336px;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  @media all and (min-width: 1170px) {
+    .container-radios {
+      width: 970px;
+    }
+  }
+
+  .body-radios {
+    background: #0020B8;
+    padding-bottom: 40px;
+    padding-top: 10px;
+  }
+
+.row {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.row:before,
+.row:after {
+  content: "";
+  display: table;
+}
+
+.row:after {
+  clear: both;
+}
+
+.col {
+   display: inline-block;
+    vertical-align: top;
+    min-height: 1px;
+    width: 100%;
+    margin-right: -4px;
+    *zoom: 1;
+    *display: inline;
+}
+
+.col-radios-link {
+    width: 50%;
+}
+
+.col-2 {
+  width: 100%;
+}
+
+.col-3 {
+  width: 100%;
+}
+
+.col-4 {
+  width: 100%;
+}
+
+.col-5 {
+  width: 50%;
+}
+
+/* colunas */
+.col-cover {
+    width: 610px;
+}
+
+.col-radios {
+    width: 336px;
+    margin-left: 20px;
+}
+    .col-radios ul li a img {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+@media all and (max-width: 1170px) {
+  .col-cover {
+      width: 336px;
+      margin: 0 auto;
+  }
+
+  .col-radios {
+      width: 336px;
+      margin: 0 auto;
+  }
+}
+
+.col-sidebar {
+  width: 336px;
+  margin: 0 auto;
+}
+
+.col-materias {
+  width: 100%;
+  padding: 10px;
+}
+
+
+@media all and (min-width: 960px) {
+    .col-2 {
+        width: 50%;
+    }
+
+    .col-3 {
+        width: 33.33333%;
+    }
+
+    .col-4 {
+        width: 25%;
+    }
+
+    .col-5 {
+        width: 20%;
+    }
+}
+
+@media all and (min-width: 1170px) {
+  .col-materias {
+    width: -webkit-calc(99% - 300px);
+    width: -moz-calc(99% - 300px);
+    width: calc(99% - 300px);
+  }
+  .col-sidebar {
+    width: 300px;
+  }
+}
+
+
+/* Clearfix */
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+.clearfix {
+  display: inline-block;
+}
+
+* html .clearfix {
+  height: 1%;
+}
+
+.clearfix {
+  display: block;
+}
+
+.logo {
+    float: right;
+    width: 70px;
+    margin: 5px auto;
+}
+    .logo-web {
+        width: 70px;
+    }
+        .logo img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+  .logo-mobile {
+    display: none;
+    width: 175px;
+    margin: 10px auto;
+  }
+    .logo-mobile img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    .logo-mobile-webradios {
+      width: 250px;
+    }
+
+#cover {
+    width: 610px;
+    height: 610px;
+    background: #004083;
+    background-size: cover !important;
+    background-position: center center !important;
+}
+
+@media all and (max-width: 1170px) {
+  #cover {
+    width: 336px;
+    height: 336px;
+  }
+
+  .logo {
+    display: none;
+  }
+
+  .logo-mobile {
+    display: block;
+  }
+}
+
+.like-share {
+  background: #333;
+  height: 80px;
+  width: 100%;
+  color: #fff;
+}
+  .like-share ul {
+    padding: none;
+  }
+    .like-share ul li {
+      float: left;
+      list-style: none;
+      padding-left: 10px;
+    }
+
+.share-social {
+  float: right;
+  font-size: 2em;
+  padding-right: 10px;
+  color: #fff;
+}
+  .share-social li {
+    line-height: 80px;
+    color: #fff;
+  }
+  .share-social li strong {
+    color: #fff;
+  }
+
+  .share-social li:first-child {
+    display: inline-block;
+    font-size: .6em;
+  }
+  .share-social ul li a {
+    color: #fff;
+    display: inline-block;
+  }
+
+
+.player {
+    background: #333;
+    position: fixed;
+    bottom: 0;
+    height: 80px;
+    width: 100%;
+    color: #fff;
+    z-index: 99999;
+}
+  .btn {
+    background: #da291c;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    float: left;
+    text-align: center;
+    line-height: 60px;
+    font-size: 2em;
+    margin-top: 10px;
+    cursor: pointer;
+    outline: none;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+  }
+    .btn-green {
+        background: green;
+    }
+  .dados-streaming {
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 1.2em;
+    color: #fff;
+  }
+
+    #musica {
+      margin-top: 5px;
+      color: #fff;
+    }
+
+    #artista {
+        color: #fff;
+    }
+
+/* BTN aovivo */
+.link-aovivo {
+  width: 100%;
+  list-style: none;
+}
+  .link-aovivo a {
+    display: block;
+    background: #da291c;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+
+  .link-aovivo a strong {
+    color: #fff;
+  }
+
+.link-site {
+  width: 100%;
+  list-style: none;
+}
+  .link-site a {
+    display: block;
+    background: #ffdd1b;
+    color: #000;
+    text-decoration: none;
+    text-align: center;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+
+/* ------------------------------------------
+  Materias - GERAL
+--------------------------------------------*/
+.materia {
+  display: block;
+  position: relative;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+  .image-materia {
+    width: 100%;
+    border-radius: 20px;
+  }
+
+  .materia-title {
+    padding: 5px;
+    font-size: 1.2em;
+  }
+
+
+
+.materia-in-page:hover {
+    text-decoration: none !important;
+}
+.materia-in-page .materia-title {
+    padding: 0;
+    margin: 0;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+}
+
+.interplete {
+    text-align: center;
+    font-size: 14px !important;
+    font-weight: bold;
+}
+
+/* ------------------------------------------
+  Destaques
+--------------------------------------------*/
+
+/* Titulo dos destaques */
+.section-title {
+  display: inline-block;
+  float: none;
+  margin: 0 0 var(--espaco-padrao) 0;
+  padding: 5px 10px 7px;
+  font-size: 36px;
+  color: #fff;
+  font-weight: bold;
+  background: var(--color-pantone);
+  white-space: unset;
+}
+  .section-title > svg {
+    font-size: 16px;
+    padding-bottom: 8px;
+  }
+
+  .section-title-interno {
+    margin-bottom: 0;
+  }
+
+/* configuraÃ§Ã£o das sessoes */
+
+.destaque-sessao {
+  padding: 90px 0;
+}
+    .destaque-sessao-no-padding {
+        padding: 0;
+    }
+
+.destaque-sessao .section-title {
+  background-color: #000;
+}
+
+
+
+
+  /* BBB */
+  .destaque-bbb {
+    background: #EF7C2B;
+  }
+
+
+  /* BELEZA E ESTILO */
+  .destaque-beleza-e-estilo .section-title {
+    background-color: #9B0BC0;
+  }
+
+
+  /* BOMBOU */
+  .destaque-bombou {
+    background: #E74C3B;
+  }
+
+  /* TV */
+  .destaque-tv .section-title {
+    background: #5B5897;
+  }
+
+
+  /* Musicas */
+  .destaque-musica {
+    background: #1ED760;
+  }
+
+/* Destaque topo home */
+@media screen and (min-width: 760px) {
+  .destaque-conatiner .materia .image-materia {
+    border-radius: 5px;
+  }
+
+  .destaque-conatiner .materia .materia-title {
+    position: absolute;
+    width: 90%;
+    bottom: 30px;
+    font-weight: bold;
+    line-height: 1.4em;
+    padding: 10px;
+    color: #fff;
+    background: var(--color-pantone);
+  }
+}
+
+/* ------------------------------------------
+  Banners
+--------------------------------------------*/
+.banner {
+  margin: var(--espaco-padrao) auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background: #ecf0f1;
+}
+  .banner:nth-child(2) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+
+
+.publicidade {
+    background: #003f80;
+    width: 100%;
+    /* padding-top: 30px; */
+    margin: -30px 0;
+    padding: 30px 0;
+}
+
+.banner-leaderboard {
+  width: 336px;
+  height: 280px;
+}
+
+@media screen and (min-width: 1000px) {
+  .banner-leaderboard {
+    width: 970px;
+    height: 90px;
+  }
+}
+
+.banner-anchor {
+  position: fixed;
+  width: 100%;
+  height: auto;
+  background: #fff;
+  z-index: 999;
+  bottom: 0;
+  padding: 2px 0;
+}
+
+.banner-arroba {
+    width: 336px;
+    height: 280px;
+    margin: 15px auto;
+      display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background: #ecf0f1;
+}
