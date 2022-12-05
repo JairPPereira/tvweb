@@ -4,8 +4,8 @@ var linkAudio = '';
 
 // verifica a radio atual
 if(dataLayer[1]['radio'] == 'aovivo') {
-    linkTocando = 'https://www.radiorauland.com.br/'
-    linkAudio = 'https://stm1.srvif.com:6672/streamhttps://hts02.kshost.com.br:8856/live';
+    linkTocando = 'https://hts02.kshost.com.br:8856/live'
+    linkAudio = 'https://hts02.kshost.com.br:8856/live';
 
 } else if(dataLayer[1]['radio'] == 'sertanejo') {
     linkTocando = 'https://api.metropolitanafm.com.br/home/tocando/sertanejo'
@@ -19,10 +19,8 @@ if(dataLayer[1]['radio'] == 'aovivo') {
 }  else if(dataLayer[1]['radio'] == 'mpb') {
     linkTocando = 'https://api.metropolitanafm.com.br/home/tocando/funk'
     linkAudio = 'https://ice.fabricahost.com.br/metropolitanampb';
-}  else if(dataLayer[1]['radio'] == 'light') {
-    linkTocando = 'https://api.metropolitanafm.com.br/home/tocando/light'
-    linkAudio = 'https://stm1.srvif.com:6672/streamhttps://hts02.kshost.com.br:8856/live';
-}
+} 
+
 
 // Atribui o link ao player
 var audioPlayer = document.getElementById('audio-player');
