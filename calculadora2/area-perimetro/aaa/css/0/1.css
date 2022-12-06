@@ -1,0 +1,47 @@
+input[type="tel"], select {padding:0.5rem;}  
+input[type="radio"], input[type="checkbox"] {margin:0.5em; width:1em; height:1em} 
+.prom, .popis tr td:first-child {font:1.2rem mathit}
+sub, sup {font:0.85rem mathreg}
+.it {font-family: mathit}
+.error {color:#cf000f}
+
+.prombox {margin-bottom:0.7rem}
+.prombox2 {margin:0.7rem}
+.prombox>* {display:inline-block; vertical-align:middle}
+.promenna input[type="tel"], .gridbox4 input[type="tel"] {width:8rem}    
+.promenna input[readonly], .gridbox4 input[readonly], .alagrid {border:1px dashed #cccccc;}
+.upr {font-family:arial, serif; padding:0.5rem; border:1px dashed #cccccc; margin-top:0.5rem}
+.upr sup, .vypiska, .vypiska sup {font-family:arial, serif;}
+.promenna figure {margin:0}
+.promenna1 input[type="tel"], .promenna1 select {display:block; margin-top:1.5rem}
+.promenna1 input[type="tel"] {width:15rem;}
+.promenna1 select {width:16.25rem;}    
+.gridbox4 {padding-top:1.5rem; padding-bottom:1.5rem}
+.gridbox4 .prom {text-align:right; align-self: center;}
+.grid800 mjx-container {float:right;}
+.grid800 figure {padding-right:0.25rem}
+.grid800 * {align-self: center;}
+.gridboxU {display:grid; gap:0.75rem; grid-template-columns:min-content min-content; margin:0.7rem}
+.gridboxU div {align-self: center; justify-self: start}
+.alagrid {width:calc(100% - 1.5rem); max-width:max(31rem, 50%); padding:0.75rem}
+#chybovka, .chybovka {text-transform:uppercase;}
+.nakres>* {display:inline-block; vertical-align:middle;}
+.nakres svg {margin-right:3rem; margin-bottom:0.7rem}
+h3.cap:first-letter {text-transform:capitalize}
+table {border-collapse:collapse}
+.popis td {border:1px solid #cccccc; padding:0.25rem 0.5rem}
+.obectab {margin:0.7rem 0}
+.obectab td {border:1px solid #cccccc; padding:0.75rem}
+.popis tr td:first-child {text-align:center}
+.dmbox, .tlacitka {margin:1.75rem 0}
+.tlacitka input:first-child {margin-right:3rem}
+.tlacitka input {min-width:5rem}
+.desMista {width:2rem !important; text-align:center;}
+#postup {display:none}
+#latex {width:100%; border:1px dashed #cccccc; margin:0.75rem 0}        
+h3 .h3it {font:1.55rem mathit,serif}    
+.mena {font-family:cambria,arial,sans-serif}
+
+
+                             
+
