@@ -1,0 +1,45 @@
+/* VSECHNA ZARIZENI */    
+html {font-size:100%; font-family:cambria,serif}
+body {margin:0;}
+.stred {margin:0.7rem auto; padding:0 1rem;}
+header .stred {margin-top:0;}
+header {width:100%; position:fixed; top:0; left:0; overflow:hidden; background:#2980b9; z-index:2}              
+#menu0, #pozmenu0 {display:none; position:fixed;}
+.adsbygoogle {display:block; z-index:0}
+#cookies {display:none}
+header, .zahlavi {height:3.3rem;}
+header a {display:block; float:left;}
+.ovlmenu {display:block; float:right;}
+header a, .ovlmenu span {line-height:3.3rem; font-size:1.9rem; text-transform:uppercase; font-weight:bold; color:#ffffff; text-decoration:none}
+header a span {font-size:1.9rem; color:#abc5d6}
+.ovlmenu .popmenu {font-size:0.9rem; font-weight:normal}    
+.gridbox2, .gridbox3 {display:grid; grid-gap:1rem;}
+.gridbox2 {grid-template-columns:repeat(auto-fit, minmax(max(19rem, calc(50% - 1rem)), 1fr));}
+.gridbox3 {grid-template-columns:repeat(auto-fit, minmax(max(19rem, calc(33.3% - 2rem)), 1fr));}
+.gridbox4 {display:grid; gap:1.5rem 0; grid-template-columns:min-content auto;}
+/* svg */
+polygon, polyline, circle, ellipse, .nakres rect, .vytah_red {fill:none;} 
+
+/* TELEFON */
+@media (max-width:75em) { 
+ .stred {width:calc(100% - 2rem)}     
+ #menu0 {right:0; height:calc(95vh - 3.3rem)}
+ aside, .pozS, .ovlmenu .popmenu, .rekl {display:none}    
+ .ovlmenu img {margin-top:0.65rem; border:1px solid #ffffff; border-radius:5px}
+ /* reklama MN */
+ .reklMN {z-index:1; width:100%; position:fixed; bottom:-500px; left:0px;}
+ .closeMN {width:100%; height:1.5rem; padding:0.5rem; text-align:right; background-color:rgba(235, 236, 240, 0.5); }
+ .closeMN img {width:1.5rem; height:1.5rem; cursor:pointer; margin-right:1rem}
+ .backMN {background:#ebecf0; width:100%; height:min(100vw, 350px)}
+}
+
+/* POCITAC */
+@media (min-width:75em) { 
+ .stred {width:calc(66% - 2rem)}     
+ #menu0 {right:17%; height:calc(100vh - 3.3rem)}
+ aside, .pozS {width:17%; height:calc(100vh - 3.3rem); position:fixed; top:3.3rem; background:#ebecf0;}
+ aside.reklamaS1, .pozS1 {left:0}
+ aside.reklamaS2, .pozS2 {right:0}
+ .reklM, .reklMN {display:none}
+ .ovlmenu>* {display:inline-block; vertical-align:middle}
+}

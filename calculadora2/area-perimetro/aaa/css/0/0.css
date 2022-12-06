@@ -1,0 +1,13 @@
+.odkaz a {border:1px dashed #cccccc; text-align:center; padding:0.75rem}
+.odkaz a div:first-letter {text-transform:capitalize}
+.odkaz a:hover {background:#ebecf0; border-color:#666666}
+.odkaz a div {margin:2.5rem auto; font-size:1.5rem;}
+.odkaz figure {margin:0}
+.odkaz mjx-container {margin:0; font-size:1.1rem; color:#000000;}
+.sip {background:url(/aaa/img/odkaz0.svg) no-repeat; width:2.5rem; height:2.5rem}
+.odkaz>a:hover .sip {background:url(/aaa/img/odkaz1.svg) no-repeat} 
+svg.nakr100 {width:6.25rem; height:6.25rem; margin:0 auto}
+svg.nakr150 {width:9.37rem; height:9.37rem; margin:0 auto}
+
+                             
+

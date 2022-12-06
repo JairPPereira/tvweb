@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="40" height="40" version="1.1" xmlns="http://www.w3.org/2000/svg" class="menu">
+  <defs>
+    <style>
+      polyline {stroke:#ffffff; stroke-width:4px; stroke-linecap:round}
+      .menu:hover polyline {stroke:#cccccc}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="40" height="40" fill="#2980b9" stroke="0" /> 
+  <polyline points="7,10 33,10" /> 
+  <polyline points="7,20 33,20" /> 
+  <polyline points="7,30 33,30" /> 
+</svg>

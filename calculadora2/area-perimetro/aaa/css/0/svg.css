@@ -1,0 +1,27 @@
+text {font:1.2rem mathit; text-anchor:middle; paint-order:stroke; stroke:#ffffff; stroke-width:3px; stroke-linecap:butt; stroke-linejoin:miter;}
+.end {text-anchor:end}
+.start {text-anchor:start}
+.vytah {stroke:#000000; stroke-width:2}
+.vytah_red {stroke:#cf000f; stroke-width:2}
+.f_red {fill:#cf000f}
+.s_red {fill:none; stroke:#cf000f}
+.f_blue {fill:#2980b9}
+.s_blue {fill:none; stroke:#2980b9}    
+.f_grey {fill:#999999}
+.s_grey {fill:none; stroke:#999999}
+.f_yell {fill:#f39c12}
+.s_yell {fill:none; stroke:#f39c12}
+.s_black {fill:none; stroke:#000000}
+.reg {font:1.2rem mathreg}
+.smallreg {font:0.95rem mathreg}
+.smallerreg {font:0.85rem mathreg}
+.smalltest {font:0.85rem mathit}
+.smalltestreg {font:0.75rem mathreg}
+.smaller {font-size:0.95rem}
+.strok {stroke-dasharray:5 3}
+.strok1 {stroke-dasharray:5 5}
+line, ellipse, polygon, polyline {stroke-linecap:round; stroke-linejoin:round}  
+.sup {baseline-shift:super}
+.sub {baseline-shift:-33%}
+                             
+

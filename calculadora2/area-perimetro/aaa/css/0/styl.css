@@ -1,0 +1,69 @@
+h1, h2, h3, h4, .promenna figcaption, a, #menu0 span {color:#273c75}
+h1, h2, h3, h4, figcaption, p, .vypiska {margin: 0.7rem 0;}
+* {font-size:1.15rem}
+html {scroll-behavior:smooth}
+p, li, .dmbox {line-height:1.5}
+ul {list-style: disc outside; padding-left:1rem}
+article li {margin:0.3rem 0}
+h1 {font-size:2rem}
+h2 {font-size:1.75rem}
+h3 {font-size:1.5rem; font-weight:normal}
+h4, figcaption {font-size:1.15rem; font-weight:normal}
+a:hover, #menu0 span:hover, #menu0 a.zde, footer>a:first-child:hover span {color:#cf000f}
+.small {font-size:0.85rem}
+.center {text-align:center}
+.rekl {grid-column:1 / -1}
+.form mjx-container, .promenna mjx-container {float:left}        
+input {font-family:arial, serif; padding:0.35rem;}    
+.tlacitka input {padding:0.75rem}
+figure {margin:0}
+::placeholder, .grey {color:#999999}
+.promenna, .gridbox4 {border:1px dashed #cccccc; padding:0.75rem}   
+.none {display:none;}
+
+/* hlavicka  */
+#ovlmenu0 {width:2rem; height:2rem;}
+.ovlmenu, #menu0 span {cursor:pointer}
+.ovlmenu:hover *, header a:hover {color:#cccccc}   
+
+/* hodnoceni */
+.star>span {font-size:2.5em; color:#f9b42d; margin:0; cursor:pointer}
+.star>span.hover {color:#f0ff00}
+#hodnoceni {font-size:110%; font-weight:bold}
+
+/* menu */          
+#menu0, #pozmenu0 {top:3.3rem; width:100%}  
+#pozmenu0 {height:calc(100vh - 3.3rem); background:#000000; opacity:0.5}
+#menu0 {max-width:28rem; background:#ffffff; overflow-y:scroll; z-index:1}
+#menu0 li ul, #menu5000 {display:none}
+#menu0 li.rozbal ul, #menu0.rozbal, #pozmenu0.rozbal, #menu5000.rozbal {display:block}
+#menu0 a {text-decoration:none; display:inline-block;}  
+#menu0 a:hover {text-decoration:underline} 
+#menu0 ul {list-style:none outside; padding:0; font-size:1.1rem; }     
+.menu1 {border-top:1px solid #cccccc}  
+.menu1:last-child {border-bottom:1px solid #cccccc}
+.menu1>a {width:calc(100% - 3.5rem); padding:0.75rem 0 0.75rem 0.75rem; vertical-align:middle; font-weight:bold; text-transform:uppercase;}
+.menu1>span {width:2rem; padding:0.75rem 0.75rem 0.75rem 0; display:inline-block; vertical-align:middle; text-align:right;}
+.menu2 {padding-left:1.5rem;}
+.menu2 a {width:calc(100% - 4.25rem); padding:0 0 0.75rem 1.5rem }
+
+/* paticka */
+footer.stred {background:#333333; color:#ffffff; padding-bottom:0.7rem; margin-bottom:0} 
+footer a {color:#cccccc}
+footer>a:first-child {display:inline-block; text-transform:uppercase; font-size:150%; font-weight:bold; text-decoration:none; margin:1rem 0}
+footer>a:first-child span {font-size:100%; color:#999999}
+p.incl {margin:1.5rem 0}
+p.incl>span {border:1px solid #666666; border-radius:0.2rem; padding:0.2rem 0.5rem; cursor:pointer}
+p.incl>span:hover {background:#cccccc; color:#cf000f}
+#menu5000 ul {list-style:none outside; padding:0;}
+
+/* lista cookies */
+#cookie {border-top: 1px dashed #cccccc}      
+#cookie div {display:block; text-align:center; padding:0.35rem 0}
+#cookie input {min-width:4.5rem; padding:0.3rem; margin-right:2.5rem}
+
+@font-face {font-family:mathit; font-display:swap; src:url("/aaa/css/font/math-it.otf");} 
+@font-face {font-family:mathreg; font-display:swap; src:url("/aaa/css/font/math-reg.otf");} 
+
+
+
