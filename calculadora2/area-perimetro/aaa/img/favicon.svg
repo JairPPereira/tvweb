@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="40" height="40" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      polyline {fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round}
+    </style>
+  </defs>
+  <circle cx="20" cy="20" r="20" fill="#2980b9" />
+  <polyline points="12,17 28,17" />
+  <polyline points="20,9 20,25" />
+  <polyline points="12,30 28,30" />
+ </svg>
