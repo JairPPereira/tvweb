@@ -1,0 +1,12 @@
+html { font-size: 100%; font-family: cambria, serif; }
+body { margin: 0.7rem; }
+h4 { color: rgb(39, 60, 117); font-weight: normal; margin: 0px; padding-top: 0.5rem; font-size: 1.15rem; }
+mjx-container { float: left; }
+.MathJax { font-size: 1.1rem; }
+.zaverka { clear: both; }
+.podtrh { border-bottom: 3px double rgb(0, 0, 0); margin-bottom: 1rem; clear: both; }
+.prom { font: 1.2rem mathit; }
+sub, sup { font: 0.85rem mathreg; }
+.it { font-family: mathit; }
+@font-face { font-family: mathit; font-display: swap; src: url("/aaa/css/font/math-it.otf"); }
+@font-face { font-family: mathreg; font-display: swap; src: url("/aaa/css/font/math-reg.otf"); }
