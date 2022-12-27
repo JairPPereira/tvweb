@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Nome do Player</title>
+	<style type="text/css">
+		body{
+			margin:0;
+			padding: 0;
+			overflow: hidden;
+		}
+		.template-custom-NOME_DO_TEMPLATE_CUSTOMIZADO{
+			font-family: Arial;
+			font-size: 11px;
+		}
+	</style>
+</head>
+<body>
+	<!-- NOTA-SE QUE PRECISAMOS DO NOME DO ID DO ELEMENTO ONDE SER� INSERIDO O CONTEUDO DO TEMPLATE PARA SER COLOCADO NO NOSSO SCRIPT DE INICIALIZA��O NO FIM DA TAG BODY -->
+	<section id="vagalume-embedPlayer" class="template-responsive-vagalume template-custom-NOME_DO_TEMPLATE_CUSTOMIZADO">
+		<!-- INSERIMOS OS MODULOS DENTRO DA TAG SECTION -->
+		<script id="vagalume-player-module" type="text/x-handlebars-template">
+			<section id=vagalume-playerMy></section>
+		</script>
+		<script id="vagalume-player-currentSong" type="text/x-handlebars-template">
+			<div class="vagalume-currentSong"></div>
+		</script>
+		<script id="vagalume-player-playlist" type="text/x-handlebars-template">
+				<ul class="vagalume-songsList playlist_{{#if newPlaylist.playlistData}}{{newPlaylist.playlistData.playlistID}}{{else}}{{newPlaylist.topSongs}}{{/if}} vscroll">
+					{{#each newPlaylist.playlist}}
+					 <li class=vagalume-lyric><a href="{{musURL}}" target=_blank data-id={{musID}}>{{art}} - {{mus}}</a></li>
+					{{/each}}
+				</ul>
+		</script>
+
+		<!-- NESSA PARTE ONDE FICAR� O TEMPLATE PRINCIPAL E RECEBER� AS VARI�VEIS DOS M�DULOS UTILIZADOS -->
+		<!-- NOTA-SE QUE PRECISAMOS DO NOME DO ID DO TEMPLATE PRINCIPAL PARA SER COLOCADO NO NOSSO SCRIPT DE INICIALIZA��O NO FIM DA TAG BODY -->
+		<script id="vagalume-player-template" type="text/x-handlebars-template">
+			<div class=vagalume-position-top>
+				<div class="vagalume-controlMenu playlist_{{#if newPlaylist.playlistData}}{{newPlaylist.playlistData.playlistID}}{{else}}{{newPlaylist.topSongs}}{{/if}}">
+					{{>currentSong}}
+					<div class=vagalume-navControl>
+						<span class="vagalume-controlPlayer prev"><span class=filter></span></span>
+						<span class="vagalume-controlPlayer play"><span class=filter></span></span>
+						<span class="vagalume-controlPlayer next"><span class=filter></span></span>
+					</div>
+				</div>
+			</div>
+			<div class=vagalume-position-leftSide>
+	 			{{>player}}
+	 		</div>
+	 		<div class=vagalume-position-rightSide>
+	 			{{>playlist}}
+			</div>
+		</script>
+	</section>
+	<!-- NOSSO SCRIPT PARA INICIALIZAR O PLAYER -->
+	<script type="text/javascript" src="http://www.vagalume.com.br/js/vagalume-embedPlayer.js"></script>
+	<script type="text/javascript">
+		window.vagalume = window.vagalume || {};
+		// Obt�m nome de template e onde ser� injetado
+		// Caso n�o passar Playlist ID pega top20 do site Vagalume
+		// vagalume.info = {
+			// template:document.getElementById( nome do template ),
+			// content:document.getElementById( onde sera injetado ),
+			// playlistID: 1166417 (id da playlist)
+		// }
+		vagalume.info = {
+			template:document.getElementById('vagalume-player-template'),
+			content:document.getElementById('vagalume-embedPlayer'),
+		}
+	</script>
+	<iframe id=vagalume-embedPlayer name="embedPlay" frameborder="0"  width="640" height="490" marginheight="0" allowtransparency="true" style="background-color:transparent"  src="https://www.vagalume.com.br/vagalume-embedPlayer/skin-basico.html?&playlistID=6979286&loop=1 "></iframe>
+</body>
+</html>
