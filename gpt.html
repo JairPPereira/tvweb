@@ -7,16 +7,58 @@
     <title>Document</title>
 </head>
 <body>
-    <video src="/caminho/para/o/arquivo/de/video.mp4" id="player">
-        <!-- Adicione uma mensagem de erro caso o navegador não suporte o elemento de vídeo -->
-        Seu navegador não suporta o elemento de vídeo.
-      </video>
-      
-      <!-- Crie botões de play e pause com os elementos de botão HTML -->
-      <button id="play-button">Play</button>
-      <button id="pause-button">Pause</button>
-      
-      <!-- Adicione um elemento de entrada de tipo "range" para controlar o progresso do vídeo -->
-      <input type="range" id="progress-bar" min="0" max="100" value="0">
+    <audio id="audio" src="https://cast.mgtradio.net/radio/8010/aac"></audio>
+    <canvas id="visualizer"></canvas>
+    <button id="play-button">Play</button>
+    <button id="pause-button">Pause</button>
+    
+    <style>
+      #visualizer {
+        width: 300px;
+        height: 300px;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+    </style>
+    
+    <script>
+      var audio = document.getElementById("audio");
+      var visualizer = document.getElementById("visualizer");
+      var context = visualizer.getContext("2d");
+      var playButton = document.getElementById("play-button");
+      var pauseButton = document.getElementById("pause-button");
+    
+      playButton.addEventListener("click", function() {
+        audio.play();
+      });
+      pauseButton.addEventListener("click", function() {
+        audio.pause();
+      });
+    
+      var analyser = context.createAnalyser();
+      var source = context.createMediaElementSource(audio);
+      source.connect(analyser);
+      analyser.connect(context.destination);
+      analyser.fftSize = 256;
+      var bufferLength = analyser.frequencyBinCount;
+      var dataArray = new Uint8Array(bufferLength);
+    
+      function draw() {
+        context.clearRect(0, 0, visualizer.width, visualizer.height);
+        analyser.getByteFrequencyData(dataArray);
+        for (var i = 0; i < bufferLength; i++) {
+          var barHeight = dataArray[i];
+          context.fillRect(i * (visualizer.width / bufferLength), visualizer.height - barHeight, visualizer.width / bufferLength, barHeight);
+        }
+        requestAnimationFrame(draw);
+      }
+    
+      draw();
+    </script>
+    
+
+
 </body>
+
 </html>
