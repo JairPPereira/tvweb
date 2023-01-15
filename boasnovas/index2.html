@@ -13,8 +13,7 @@
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <title>Tv Boas Novas</title>
 
-  <link rel="stylesheet" href="https://unpkg.com/plyr@3/dist/plyr.css">
-<link rel="stylesheet" href="https://jpp-ap.onrender.com/plyr/style.ccs">
+
 <script src="https://cdn.jsdelivr.net/hls.js/latest/hls.js"></script>
 
 
@@ -1584,7 +1583,7 @@ a.plyr__control::after,a.plyr__control::before{
 })();
     </script> 
 
-
+</body>
 <footer>
       
 
@@ -1592,6 +1591,39 @@ a.plyr__control::after,a.plyr__control::before{
        
 
 
-
-  </body>  
+    <script>
+    function doSearch(){
+        if($('#searchBar').val() != ""){
+          var response = $('#searchBar').val();
+        }
+        else if($('#searchBar2').val() != ""){
+          var response = $('#searchBar2').val();
+        }
+        response = response.toString()
+        window.location.assign("/busca/" + response)
+        return false;
+    }
+    </script>  
+    
+    <script type="text/javascript" charset="utf-8">
+      // Creating custom :external selector
+      $.expr[':'].external = function(obj) {
+        return !obj.href.match(/^mailto\:/) &&
+          (obj.hostname != location.hostname);
+      };
+    
+      $(function() {
+        // Add 'external' CSS class to all external links
+        $('a:external').addClass('external');
+    
+        // turn target into target=_blank for elements w external class
+        $(".external").attr('target', '_blank');
+    
+      });
+    
+      $(document).ready(function() {
+        $('.container').fadeIn();
+      });
+    </script>
+    
 </html>
