@@ -10,7 +10,10 @@
 </head>
 <body>
 
-<video id="video" controls style="width: 100%;"></video>
+<video id="video" controls style="width: 100%;">
+</video>
+<button id="pipButton">Picture-in-Picture</button>
+<button id="popButton">Picture-out-Picture</button>
 <script>
 var video = document.getElementById('video');
 if(Hls.isSupported()) {
@@ -19,6 +22,28 @@ if(Hls.isSupported()) {
   hls.attachMedia(video);
   hls.on(Hls.Events.MANIFEST_PARSED,function() {
     video.play();
+var pipButton = document.getElementById('pipButton');
+var popButton = document.getElementById('popButton');
+
+pipButton.addEventListener('click', function() {
+  // Verifica se o navegador suporta picture-in-picture
+  if (document.pictureInPictureEnabled) {
+    // Tenta entrar em modo de picture-in-picture
+    video.requestPictureInPicture().catch(error => {
+      console.error(error);
+    });
+  }
+});
+
+popButton.addEventListener('click', function() {
+  // Tenta sair do modo de picture-in-picture
+  if (document.pictureInPictureElement) {
+    document.exitPictureInPicture().catch(error => {
+      console.error(error);
+    });
+  }
+});
+
   });
 }
 </script>
