@@ -1,0 +1,173 @@
+
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Os Antifascistas | Libreflix </title>
+  <link rel="icon" type="image/png" href="/libre-icon.png" />
+  <link rel="shortcut icon" href="//libreflix.org/libre-icon.png">
+  <meta name="description" content="Libreflix é uma plataforma de streaming aberta e colaborativa que reúne produções audiovisuais independentes, de livre exibição e que fazem pensar.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+   
+
+    
+    
+
+
+
+<meta name="description" content='Uma guerra está sendo travada nas ruas da Europa e este documentário nos leva para trás das máscaras dos militantes chamados antifascistas.'>
+<meta name="keywords"  content="antifacistas,antifa,docs,social - libreflix" />
+
+<meta property="og:image" content="https://vdn.libreflix.org/covers/media/9f91fe30-ca8f-11e9-ac8e-3989028bdcc2antifascisterna_thumb.jpg" />
+<meta property="og:type" content="video.movie" />
+<meta property="og:url" content="https://libreflix.org/i/antifascisterna" />
+<meta property="og:title" content="'Os Antifascistas - Libreflix" />
+<meta property="og:video" content="https://libreflix.org/assistir/antifascisterna" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://libreflix.org/assistir/antifascisterna" />
+<meta property="og:site_name" content="Libreflix" />
+
+<!-- twitter metatags-->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Os Antifascistas - Libreflix">
+<meta name="twitter:description" content="Uma guerra está sendo travada nas ruas da Europa e este documentário nos leva para trás das máscaras dos militantes chamados antifascistas.">
+<meta name="twitter:image" content="https://vdn.libreflix.org/covers/media/9f91fe30-ca8f-11e9-ac8e-3989028bdcc2antifascisterna_thumb.jpg">
+
+
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="styleprio.css">
+</div>
+
+</head>
+
+<body>
+  <button type="button" id="exit-button" class="exit-button" onClick="voltar()">
+    <a href="javascript:;">
+      <img src="/img/ico-exit.png">
+    </a>
+  </button>
+
+    <video id="player" poster="https://vdn.libreflix.org/media/71e17ac0-ca8e-11e9-ac8e-3989028bdcc2viktor-dukov-_TSbFP1AE60.jpg" playsinline controls>
+
+    
+
+
+    
+    
+    <source src="https://vdn.libreflix.org/video/antifascisterna/antifascisterna.360.mp4" type="video/mp4" size="480" label="Baixa"/>
+    
+    
+    <source src="https://vdn.libreflix.org/video/antifascisterna/antifascisterna.720.mp4" type="video/mp4" size="720" label="Média"/>
+    
+    
+    <source src="https://vdn.libreflix.org/video/antifascisterna/antifascisterna.1080.mp4" type="video/mp4" size="1080" label="Alta"/> 
+    
+    
+
+    
+
+    <track kind="captions" label="Português" src="/subs/antifascisterna/antifascisterna.pt_br.vtt" srclang="pt">
+    <track kind="captions" label="English" src="/subs/antifascisterna/antifascisterna.en.vtt" srclang="en">
+    <track kind="captions" label="Español" src="/subs/antifascisterna/antifascisterna.es.vtt" srclang="es">
+    </video>
+    <div id="pl-imgbg" class="stretch"></div>
+
+
+    
+
+    
+    <div id="pl-player-title">
+      <h1 class="titlePlayer">Os Antifascistas</h1>
+      <h3 class="titlePlayer">Antifascisterna</h3>
+    </div>
+    <img src="/libreflix.png" alt="" class="logo-libre" id="logo_libre">
+
+    <div id="pl-final-screen" class="stretch">
+      <div id="pl-final-watch-again" class="stretch" onClick="window.location.reload()">
+      </div>
+    </div>
+    
+
+    
+
+</body>
+
+<script>
+  function voltar(){
+    if(history.length === 1){
+      window.location = "https://libreflix.org/i/antifascisterna"
+    }
+    else{
+      // history.back();
+      window.location = "https://libreflix.org/i/antifascisterna"
+    }
+  }
+</script>
+
+<script src="/script.js"></script>
+
+
+
+</html>
+
+
+    <footer>
+      
+
+
+       
+
+
+<script>
+function doSearch(){
+    if($('#searchBar').val() != ""){
+      var response = $('#searchBar').val();
+    }
+    else if($('#searchBar2').val() != ""){
+      var response = $('#searchBar2').val();
+    }
+    response = response.toString()
+    window.location.assign("/busca/" + response)
+    return false;
+}
+</script>  
+
+<script type="text/javascript" charset="utf-8">
+  // Creating custom :external selector
+  $.expr[':'].external = function(obj) {
+    return !obj.href.match(/^mailto\:/) &&
+      (obj.hostname != location.hostname);
+  };
+
+  $(function() {
+    // Add 'external' CSS class to all external links
+    $('a:external').addClass('external');
+
+    // turn target into target=_blank for elements w external class
+    $(".external").attr('target', '_blank');
+
+  });
+
+  $(document).ready(function() {
+    $('.container').fadeIn();
+  });
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-104410990-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
