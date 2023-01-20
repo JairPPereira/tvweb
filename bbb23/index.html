@@ -286,6 +286,8 @@
           <a class="waves-effect waves-light btn-large"><input type="button" value="opção 1" onclick="clicou1()"></a>
           <a class="waves-effect waves-light btn-large"><input type="button" value="opção 2" onclick="clicou2()"></a>
           <a class="waves-effect waves-light btn-large"><input type="button" value="opção 3" onclick="clicou3()"></a>
+          <a class="waves-effect waves-light btn-large"><input type="button" value="opção 4" onclick="clicou4()"></a>
+          <a class="waves-effect waves-light btn-large"><input type="button" value="opção 5" onclick="clicou5()"></a>
 
    
     </div>
@@ -310,6 +312,17 @@
     var player = window.document.querySelector("div#player")
   
   
+    var video4 = `<iframe name=Player "" src="https://embedflix.net/tv/bbb-2023"
+    height="620px"
+    width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+    target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
+        frameborder="0"
+    > </iframe>`
 
   
     var video3 = `<iframe loading="lazy" src="https://tv.appmj.xyz/tv.php?canal=bbb2" name="iFrame Name"
@@ -324,7 +337,7 @@
         frameborder="0"
     > </iframe>`
   
-    var video2 = `<iframe loading="lazy" src="https://tv.appmj.xyz/tv.php?canal=bbb" name="iFrame Name"
+    var video5 = `<iframe loading="lazy" src="https://tv.appmj.xyz/tv.php?canal=bbb" name="iFrame Name"
     height="620px"
     width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
     target="_blank"
@@ -335,8 +348,20 @@
         data-popup="none" 
         frameborder="0"
     > </iframe>`
-  
-    var video = `<iframe name=Player "" src="https://embedflix.net/tv/bbb-2023"
+
+    var video2 = `<iframe loading="lazy" src="https://play.tv0800.xyz/adm/v.php?id=bbb" name="iFrame Name"
+    height="620px"
+    width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+    target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
+        frameborder="0"
+    > </iframe>`
+
+    var video = `<iframe name=Player "" src="https://painel.megaembed.xyz/v.php?id=bbb"
     height="620px"
     width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
     target="_blank"
@@ -358,6 +383,14 @@
   
     function clicou3(){
         player.innerHTML = video3
+    }
+
+    function clicou4(){
+        player.innerHTML = video4
+    }
+
+    function clicou5(){
+        player.innerHTML = video5
     }
   
   
