@@ -3,8 +3,6 @@
 #################################################################################
 #
 
-#EXTINF:-1 tvg-id="REDE TV BELEM" tvg-logo="https://assets.iptv2022.com/uploads/channel/13385/thumb_REDE_TV_BELEM_.jpeg" group-title="documentarios",REDE TV BELEM
-https://alanza.iptv2022.com/Rede_TV_belem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="documentarios",TV Marajoara
 https://video01.kshost.com.br/tv31966/tv31966/chunklist_w1874400382.m3u8
@@ -17,6 +15,8 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1936544708.m
 
 #EXTINF:-1 tvg-id="Tv CULTURA" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="documentarios",TV CULTURA
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+
 
 
 
