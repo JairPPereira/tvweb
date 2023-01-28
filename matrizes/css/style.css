@@ -72,7 +72,7 @@
 @font-face {
     font-family: "Clear Sans";
     src: local("Clear Sans Italic"), local("ClearSans-Italic"), 
-	url(/css/font/clearsans/WOFF/ClearSans-Italic.woff) format('woff'), 
+	url(https://jpp-ap.onrender.commatrizes/css/font/clearsans/WOFF/ClearSans-Italic.woff) format('woff'), 
 	url(/css/font/clearsans/EOT/ClearSans-Italic.eot) format("embedded-opentype"), 
 	url(/css/font/clearsans/TTF/ClearSans-Italic.ttf) format("truetype"), 
 	url(/css/font/clearsans/SVG/ClearSans-Italic.svg);
