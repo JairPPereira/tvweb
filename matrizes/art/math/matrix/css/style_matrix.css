@@ -241,8 +241,12 @@ input[type="text"].invalid,
   border: 0px;
   /*overflow-y: hidden;*/
   position: relative;
-  border-bottom: 1px solid silver;
+  border-bottom: 1px solid;
+  border-color: silver;
 }
+
+
+
 
 .line {
   display: table;
