@@ -496,7 +496,7 @@ a:active, a:focus, a:hover, a:checked{
 	margin: 0 0 0.2em 0;	
 	padding-left:4em;
 	max-width: 100%;
-	list-style: url(/menu/img/list-tick-normal-2.png);
+	list-style: url(https://jpp-ap.onrender.com/matrizes/menu/img/list-tick-normal-2.png);
 	}
 
 	/****списки с картинками****/
@@ -532,7 +532,7 @@ a:active, a:focus, a:hover, a:checked{
 	margin: 0.2em 0 0.2em 0;
 	padding-right:2em;
 	max-width: 100%;	
-	list-style: url(/menu/img/list-tick-normal.png);
+	list-style: url(https://jpp-ap.onrender.com/matrizes/menu/img/list-tick-normal.png);
 	text-align:right;
 	}	
 .lang_ar .list-box-2{
@@ -540,7 +540,7 @@ a:active, a:focus, a:hover, a:checked{
 	margin: 0 0 0.2em 0;	
 	padding-right:4em;
 	max-width: 100%;
-	list-style: url(/menu/img/list-tick-normal-2.png);
+	list-style: url(https://jpp-ap.onrender.com/matrizes/menu/img/list-tick-normal-2.png);
 	text-align:right;
 	}
 /* нумерованный список-цифры в кружках */
