@@ -2,80 +2,80 @@
 @font-face {
     font-family: "Clear Sans";
     src: local("Clear Sans Thin"), local("ClearSans-Thin"), 
-	url(/css/font/clearsans/WOFF/ClearSans-Thin.woff) format('woff'), 
-	url(/css/font/clearsans/EOT/ClearSans-Thin.eot) format("embedded-opentype"), 
-	url(/css/font/clearsans/TTF/ClearSans-Thin.ttf) format("truetype"), 
-	url(/css/font/clearsans/SVG/ClearSans-Thin.svg);
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/WOFF/ClearSans-Thin.woff) format('woff'), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/EOT/ClearSans-Thin.eot) format("embedded-opentype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/TTF/ClearSans-Thin.ttf) format("truetype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/SVG/ClearSans-Thin.svg);
     font-weight: 200;
     font-style: normal;
 }
 @font-face {
     font-family: "Clear Sans";
     src: local("Clear Sans Light"), local("ClearSans-Light"), 
-	url(/css/font/clearsans/WOFF/ClearSans-Light.woff) format('woff'), 
-	url(/css/font/clearsans/EOT/ClearSans-Light.eot) format("embedded-opentype"), 
-	url(/css/font/clearsans/TTF/ClearSans-Light.ttf) format("truetype"), 
-	url(/css/font/clearsans/SVG/ClearSans-Light.svg);
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/WOFF/ClearSans-Light.woff) format('woff'), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/EOT/ClearSans-Light.eot) format("embedded-opentype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/TTF/ClearSans-Light.ttf) format("truetype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/SVG/ClearSans-Light.svg);
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: "Clear Sans";
     src: local("Clear Sans Regular"), local("ClearSans-Regular"), 
-	url(/css/font/clearsans/WOFF/ClearSans-Regular.woff) format('woff'), 
-	url(/css/font/clearsans/EOT/ClearSans-Regular.eot) format("embedded-opentype"), 
-	url(/css/font/clearsans/TTF/ClearSans-Regular.ttf) format("truetype"), 
-	url(/css/font/clearsans/SVG/ClearSans-Regular.svg);
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/WOFF/ClearSans-Regular.woff) format('woff'), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/EOT/ClearSans-Regular.eot) format("embedded-opentype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/TTF/ClearSans-Regular.ttf) format("truetype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/SVG/ClearSans-Regular.svg);
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: "Clear Sans";
     src: local("Clear Sans Medium"), local("ClearSans-Medium"), 
-	url(/css/font/clearsans/WOFF/ClearSans-Medium.woff) format('woff'), 
-	url(/css/font/clearsans/EOT/ClearSans-Medium.eot) format("embedded-opentype"), 
-	url(/css/font/clearsans/TTF/ClearSans-Medium.ttf) format("truetype"), 
-	url(/css/font/clearsans/SVG/ClearSans-Medium.svg);
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/WOFF/ClearSans-Medium.woff) format('woff'), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/EOT/ClearSans-Medium.eot) format("embedded-opentype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/TTF/ClearSans-Medium.ttf) format("truetype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/SVG/ClearSans-Medium.svg);
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: "Clear Sans";
     src: local("Clear Sans MediumItalic"), local("ClearSans-MediumItalic"), 
-	url(/css/font/clearsans/WOFF/ClearSans-MediumItalic.woff) format('woff'), 
-	url(/css/font/clearsans/EOT/ClearSans-MediumItalic.eot) format("embedded-opentype"), 
-	url(/css/font/clearsans/TTF/ClearSans-MediumItalic.ttf) format("truetype"), 
-	url(/css/font/clearsans/SVG/ClearSans-MediumItalic.svg);
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/WOFF/ClearSans-MediumItalic.woff) format('woff'), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/EOT/ClearSans-MediumItalic.eot) format("embedded-opentype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/TTF/ClearSans-MediumItalic.ttf) format("truetype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/SVG/ClearSans-MediumItalic.svg);
     font-weight: 500;
     font-style: italic;
 }
 @font-face {
     font-family: "Clear Sans";
     src: local("Clear Sans Bold"), local("ClearSans-Bold"), 
-	url(/css/font/clearsans/WOFF/ClearSans-Bold.woff) format('woff'), 
-	url(/css/font/clearsans/EOT/ClearSans-Bold.eot) format("embedded-opentype"), 
-	url(/css/font/clearsans/TTF/ClearSans-Bold.ttf) format("truetype"), 
-	url(/css/font/clearsans/SVG/ClearSans-Bold.svg);
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/WOFF/ClearSans-Bold.woff) format('woff'), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/EOT/ClearSans-Bold.eot) format("embedded-opentype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/TTF/ClearSans-Bold.ttf) format("truetype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/SVG/ClearSans-Bold.svg);
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
     font-family: "Clear Sans";
     src: local("Clear Sans BoldItalic"), local("ClearSans-BoldItalic"), 
-	url(/css/font/clearsans/WOFF/ClearSans-BoldItalic.woff) format('woff'), 
-	url(/css/font/clearsans/EOT/ClearSans-BoldItalic.eot) format("embedded-opentype"), 
-	url(/css/font/clearsans/TTF/ClearSans-BoldItalic.ttf) format("truetype"), 
-	url(/css/font/clearsans/SVG/ClearSans-BoldItalic.svg);
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/WOFF/ClearSans-BoldItalic.woff) format('woff'), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/EOT/ClearSans-BoldItalic.eot) format("embedded-opentype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/TTF/ClearSans-BoldItalic.ttf) format("truetype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/SVG/ClearSans-BoldItalic.svg);
     font-weight: bold;
     font-style: italic;
 }
 @font-face {
     font-family: "Clear Sans";
     src: local("Clear Sans Italic"), local("ClearSans-Italic"), 
-	url(https://jpp-ap.onrender.commatrizes/css/font/clearsans/WOFF/ClearSans-Italic.woff) format('woff'), 
-	url(/css/font/clearsans/EOT/ClearSans-Italic.eot) format("embedded-opentype"), 
-	url(/css/font/clearsans/TTF/ClearSans-Italic.ttf) format("truetype"), 
-	url(/css/font/clearsans/SVG/ClearSans-Italic.svg);
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/WOFF/ClearSans-Italic.woff) format('woff'), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/EOT/ClearSans-Italic.eot) format("embedded-opentype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/TTF/ClearSans-Italic.ttf) format("truetype"), 
+	url(https://jpp-ap.onrender.com/matrizes/css/font/clearsans/SVG/ClearSans-Italic.svg);
     font-weight: normal;
     font-style: italic;
 }
