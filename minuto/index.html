@@ -219,9 +219,25 @@ $(document).ready(function() {
   <p align="justify">&nbsp;</p>
 </div>
 </div>
+<div id="textContainer" style="font-size: 30px; padding: 10px"></div>
 
-<P>ESCOLHA UM PENSAMENTO</P>
+<script>
+  const texts = [
+    "001 Não critique! Procure antes colaborar com todos, sem fazer críticas. A crítica fere, e ninguém gosta de ser ferido. E a criatura que gosta de criticar, aos poucos, se vê isolada de todos. Se ver alguma coisa errada, fale com amor e carinho, procurando ajudar. Mas, sobretudo, procure corrigir os outros, através de seu próprio exemplo.",
+    "002 Deus está em toda parte ao mesmo tempo, ao redor de você, dentro de você! Jamais você está desamparado. Nunca está só. Não permita que a mágoa o perturbe: procure manter-se calmo, para ouvir a voz silenciosa de Deus dentro de você. Assim, poderá superar todas as dificuldades que aparecerem em seu caminho, e há de descobrir a Verdade que existe em todas as coisas e pessoas.",
+    "003 Lembre-se de que colheremos, infalivelmente, aquilo que houvermos semeado. Se estamos sofrendo, é porque estamos colhendo os frutos amargos das sementeiras errôneas do passado. Fique alerta quanto ao momento presente! Plante apenas sementes de otimismo e de amor, para colher amanhã os frutos doces da alegria e da felicidade. Cada um colhe, exatamente, aquilo que plantou.",
+    "004 Não deixe que a calúnia o perturbe! Todos nós estamos sujeitos à calúnia. Mas saiba superá-la, vivendo de tal maneira que o caluniador não tenha razão. Não revide um ataque com outro ataque. Não se magoe com o caluniador. Perdoe sempre. Apenas viva de tal maneira, que jamais o caluniador tenha razão.",
+    "004 Não deixe que a calúnia o perturbe! Todos nós estamos sujeitos à calúnia. Mas saiba superá-la, vivendo de tal maneira que o caluniador não tenha razão. Não revide um ataque com outro ataque. Não se magoe com o caluniador. Perdoe sempre. Apenas viva de tal maneira, que jamais o caluniador tenha razão.",
+
+  ];
+
+  const randomIndex = Math.floor(Math.random() * texts.length);
+  const element = document.querySelector('#textContainer');
+  element.innerHTML = texts[randomIndex];
+</script>
+<h1>ESCOLHA UM PENSAMENTO</h1>
 </center>
+
 
 
         <ul id="menu">
