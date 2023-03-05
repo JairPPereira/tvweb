@@ -6,7 +6,7 @@ body{
 }
 /* верхняя картинка сайта */ 
 .header-img-box {
-	background-image: url(/menu/img/fon-1-1.jpg);
+	background-image: url(https://jptv.netlify.app/matrizes/menu/img/fon-1-1.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% auto;	
 }
@@ -65,7 +65,7 @@ body{
 }
 /* верхняя картинка сайта */ 
 .header-img-box {
-	background-image: url(/menu/img/fon-1-2.jpg);
+	background-image: url(https://jptv.netlify.app/matrizes/menu/img/fon-1-2.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% auto;	
 }

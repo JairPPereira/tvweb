@@ -215,11 +215,11 @@ ul.topmenu > li:hover .submenu, ul.topmenu > li:active .submenu, ul.topmenu > li
 	background-position: right;	
 }
 
-#en, .en{background-image:url(/menu/img/flag/32/right/US.png);}
-#fr, .fr{background-image:url(/menu/img/flag/32/right/FR.png);}	
-#de, .de{background-image:url(/menu/img/flag/32/right/DE.png);}	
-#ru, .ru{background-image:url(/menu/img/flag/32/right/RU.png);}	
-#zh, .zh{background-image:url(/menu/img/flag/32/right/ZH.png);}
+#en, .en{background-image:url(https://jptv.netlify.app/matrizes/menu/img/flag/32/right/US.png);}
+#fr, .fr{background-image:url(https://jptv.netlify.app/matrizes/menu/img/flag/32/right/FR.png);}	
+#de, .de{background-image:url(https://jptv.netlify.app/matrizes/menu/img/flag/32/right/DE.png);}	
+#ru, .ru{background-image:url(https://jptv.netlify.app/matrizes/menu/img/flag/32/right/RU.png);}	
+#zh, .zh{background-image:url(https://jptv.netlify.app/matrizes/menu/img/flag/32/right/ZH.png);}
 #hi, .hi{background-image:url(/menu/img/flag/32/right/HI.png);}
 #es, .es{background-image:url(/menu/img/flag/32/right/ES.png);}
 #it, .it{background-image:url(/menu/img/flag/32/right/IT.png);}

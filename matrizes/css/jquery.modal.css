@@ -74,7 +74,7 @@
     background-size:contain;
     background-repeat:no-repeat;
     background-position:center center;
-    background-image:url(/menu/img/close_60_60_1.png);
+    background-image:url(https://jptv.netlify.app/matrizes/menu/img/close_60_60_1.png);
 }
 .modal a.close-modal:hover, .modal a.close-modal:active, .modal a.close-modal:focus{
 	text-decoration: none;
@@ -82,7 +82,7 @@
 	-webkit-transition: 0.8s;	
 	-o-transition: 0.8s;	
 	transition: 0.8s;		
-    background-image:url(/menu/img/close_60_60_2.png);
+    background-image:url(https://jptv.netlify.app/matrizes/menu/img/close_60_60_2.png);
 	background-color: none;	
 }
 .modal-spinner{
