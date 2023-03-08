@@ -291,14 +291,14 @@
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png" height="500px" width="100%" alt="logo player">
     </div>
     <p></p>
-    <input  type="button" value="GLOBO HD" onclick="clicou14()">
+    <input  type="button" value="GLOBO SP" onclick="clicou14()">
     <input  type="button" value="GLOBO SP" onclick="clicou1()">
-    <input  type="button" value="GLOBO SP" onclick="clicou3()">
-    <input  type="button" value="GLOBO SP" onclick="clicou12()">
-    <input  type="button" value="GLOBO SP" onclick="clicou13()">
-    <input  type="button" value="GLOBO RJ" onclick="clicou2()">
+    <input  type="button" value="GLOBO RJ" onclick="clicou3()">
+    <input  type="button" value="GLOBO PERNAMBUCO" onclick="clicou2()">
     <input  type="button" value="GLOBO RJ" onclick="clicou10()">
     <input  type="button" value="GLOBO RJ" onclick="clicou11()">
+    <input  type="button" value="GLOBO NORDESTE" onclick="clicou12()">
+    <input  type="button" value="GLOBO MIRANTE-SÃO LUIZ" onclick="clicou13()">
     <input  type="button" value="GLOBO NORDESTE" onclick="clicou4()">
     <input  type="button" value="GLOBO NORDESTE" onclick="clicou8()">
     <input  type="button" value="GLOBO NORDESTE" onclick="clicou9()">
@@ -321,15 +321,13 @@
     <script>
             var player = window.document.querySelector("div#player")
     
-            var video3 = `<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=bobosp" frameborder=0 height=600px scrolling=no width=100% allowFullScreen> </iframe>`
+            var video3 = `<iframe name=Player "" src="https://api.cdnproxy.tk/v.php?id=globorj" frameborder=0 height=600px scrolling=no width=100% allowFullScreen> </iframe>`
     
-            var video2 = `<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=boborj" frameborder=0 height=600px scrolling=no width=100% allowFullScreen> </iframe>`
+            var video2 = `<iframe name=Player "" src="https://tv.appmj.xyz/tv.php?canal=globo-pernanbuco" frameborder=0 height=600px scrolling=no width=100% allowFullScreen> </iframe>`
     
             var video4 = `<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=bobonordeste" frameborder=0 height=600px scrolling=no width=100% allowFullScreen> </iframe>`
     
             var video = `<iframe loading="lazy" src="https://embedflix.net/tv/globo-sp" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
-    
-            var video5 = `<iframe loading="lazy" src="https://embedflix.net/tv/globo-minas" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
     
             var video5 = `<iframe loading="lazy" src="https://embedflix.net/tv/globo-minas" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
     
@@ -341,15 +339,15 @@
     
            var video9 = `<iframe loading="lazy" src="https://minhateca.ru/iptv.php?channel=234" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
     
-           var video10 = `<iframe loading="lazy" src="https://minhateca.ru/iptv.php?channel=252" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
+           var video10 = `<iframe loading="lazy" src="https://embedflix.net/tv/globo-rio" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
     
            var video11 = `<iframe loading="lazy" src="https://minhateca.ru/iptv.php?channel=253" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
     
-           var video12 = `<iframe loading="lazy" src="https://minhateca.ru/iptv.php?channel=259" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
+           var video12 = `<iframe loading="lazy" src="https://api.cdnproxy.tk/v.php?id=GLOBONORDESTE" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
      
-           var video13 = `<iframe loading="lazy" src="https://minhateca.ru/iptv.php?channel=260" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
+           var video13 = `<iframe loading="lazy" src="https://api.cdnproxy.tk/v.php?id=Globo-MiranteSaoLuis" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
     
-           var video14 = `<iframe loading="lazy" src="https://minhateca.ru/iptv.php?channel=223" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
+           var video14 = `<iframe loading="lazy" src="https://api.cdnproxy.tk/v.php?id=globosp" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen style="border: none;"></iframe>`
     
             function clicou1(){
                 player.innerHTML = video
