@@ -283,8 +283,10 @@
 </div>
      
         <div class="bot" style="margin: 10px; background-color: #4267B2;">
-          <a class="waves-effect waves-light btn-large"><input type="button" value="opção 1" onclick="clicou1()"></a>
-          <a class="waves-effect waves-light btn-large"><input type="button" value="opção 2" onclick="clicou2()"></a>
+          <a class="waves-effect waves-light btn-large"><input type="button" value="JP news 1" onclick="clicou1()"></a>
+          <a class="waves-effect waves-light btn-large"><input type="button" value="Jovem Pan" onclick="clicou2()"></a>
+
+          <a class="waves-effect waves-light btn-large"><input type="button" value="JP News 2" onclick="clicou2()"></a>
 
    
     </div>
@@ -295,7 +297,18 @@
   <script>
     var player = window.document.querySelector("div#player")
   
-  
+    var video3 = ` <iframe class="lazyload"
+    src="https://tv.appmj.xyz/tv.php?canal=jp-news"
+    height="620px"
+    width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+    target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
+        frameborder="0"
+    > </iframe>`  
  
 
     var video2 = ` <iframe class="lazyload"
@@ -330,6 +343,10 @@
     function clicou2(){
         player.innerHTML = video2
     }
+
+    function clicou3(){
+      player.innerHTML = video3
+  }
   
 
    
