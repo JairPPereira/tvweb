@@ -287,6 +287,7 @@
           <a class="waves-effect waves-light btn-large"><input type="button" value="opção 2" onclick="clicou2()"></a>
           <a class="waves-effect waves-light btn-large"><input type="button" value="opção 3" onclick="clicou3()"></a>
           <a class="waves-effect waves-light btn-large"><input type="button" value="opção 4" onclick="clicou4()"></a>
+          <a class="waves-effect waves-light btn-large"><input type="button" value="opção 5" onclick="clicou5()"></a>
    
     </div>
    
@@ -296,7 +297,19 @@
   </section>
   <script>
     var player = window.document.querySelector("div#player")
-  
+ 
+    var video5 = ` <iframe class="lazyload"
+    src="https://api.cdnproxy.tk/v.php?id=CNNBrasil"
+    height="620px"
+    width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+    target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
+        frameborder="0"
+    > </iframe>`    
   
     var video4 = ` <iframe class="lazyload"
     src="https://player.aovivotv.xyz/channels/cnnbrasil/external"
@@ -337,7 +350,7 @@
     > </iframe>`
   
     var video = `<iframe class="lazyload"
-    src="https://api.cdnproxy.tk/v.php?id=CNNBrasil"
+    src="https://jptv.netlify.app/cnn/index2.html"
     height="620px"
     width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
     target="_blank"
@@ -364,6 +377,10 @@
     function clicou4(){
         player.innerHTML = video4
     }
+
+    function clicou5(){
+      player.innerHTML = video5
+  }
     
    
   
