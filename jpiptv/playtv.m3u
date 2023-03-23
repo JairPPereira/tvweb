@@ -4,6 +4,7 @@
 #
 
 
+
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="documentarios",TV Marajoara
 https://video01.kshost.com.br/tv31966/tv31966/chunklist_w1874400382.m3u8
 
@@ -37,8 +38,6 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Rede Família" tvg-logo="https://assets.iptv2022.com/uploads/channel/11348/thumb_Rede__correct_.png" group-title="documentarios",Rede Família
-https://alanza.iptv2022.com/Rede_Familia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Rede Sul de Televisão" tvg-logo="https://assets.iptv2022.com/uploads/channel/13322/thumb_Rede_Sul_de_Televisa%CC%83o.png" group-title="documentarios",Rede Sul de Televisão
 https://alanza.iptv2022.com/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8
@@ -46,11 +45,7 @@ https://alanza.iptv2022.com/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV Brusque" tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="documentarios",TV Brusque
 https://alanza.iptv2022.com/TV_Brusque/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="REDE FAMILIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP0Qxr0AcZXGeO5MDLHdIBqaiGTqTJQeSrVPyblTLYxeybfa6DcN12oNnlltMg_OTkJPwtnZdMKT1_WwR40OOHTyHfCrGiGD90qgEU2LNLkSw3TdZ8qxkjxgO5sGO-8d3_gSnJxRnBhfcY8sAxUCbxfQPylYRNzWkTfye0HxSe-jNQLVUneEYSxae3/w945-h600-p-k-no-nu/redef.jpg" group-title="documentarios",REDE FAMILIA
-https://alanza.iptv2022.com/Rede_Familia/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="BR Super TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11446/thumb_BRsupertv.jpeg" group-title="documentarios",BR Super TV
-https://alanza.iptv2022.com/RSCTV_brasil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Central TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11439/thumb_Group_60.png" group-title="documentarios",Central TV
 https://alanza.iptv2022.com/Central_TV/tracks-v1a1/mono.m3u8
@@ -158,8 +153,6 @@ https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Cartoon 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcaZTKT2vFEBQe3uRthLVr2409pEXiakeCvsScRXiJN2FuKqi22mZnetKprVFNgPF2X84C11RFm7k42hoj42LGvY9p5HyGXYm5pRv8EAscOiQ2vCxn2OODJE3GBqa9TlFDApY1Tdzvz1uFfejUPPficA419PNGpX1dIw3RYUMuyug9Pj9SqjPt5Gln/s1600/retro2.webp" group-title="filmesseries",Retro Cartoon 2
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BR Super TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd9wf8t54DKo5NhER_kISTkSNEc4VYVYDBFC6i4mNLqQkjElT4qEO3MubQorKaFmBje-DjtirUgxcI_M9V_Z6R2G4mF2ct9TkEqstqIWNxfVncIp_kR0i2t9GgDQAjCMrILGqm-hcof86-hcMB8lN13D2DwWt3HjFxVBlNwIyjjb6qlHEiweTChTXK/w945-h600-p-k-no-nu/thumb_BRsupertv.jpeg" group-title="filmesseries",BR Super TV
-https://alanza.iptv2022.com/RSCTV_brasil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV Osório News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTV4uULQZCdm1608GCMqt9nLjAHIpJfzLYN-7912whvgzqCzm2oUa23QIjnT84H3i4hsFCH3VDU_A21vjfXH6mNbzmQZpR0Pm2xPFvlIZr-CYbKdYq9LFeKNuAo3UOvuWBX4WQMGxC1XV7dYS5PxbcfNsO7MRblvTrmuMDZKsNWB-1zSlih5-o-MV/s1600/osorio200.jpg" group-title="filmesseries",TV Osório News
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
@@ -188,8 +181,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="TV Videos News" tvg-logo="https://1.bp.blogspot.com/-JMthCEPmyZ0/YTa0C5mlTHI/AAAAAAAABCs/Uxk-ZxB62E87qqKyXZI-nm7rQlzyNsQ3QCLcBGAsYHQ/s0/TVideoNews200.png" group-title="jornalismo",TV Videos News
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL SAUDE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxOGHoNXEwatnJVTW269RHbMwPtOwKZowJPoA1COoyOnvQcpoRoXyjzPT-MXzwliE4IlBfs6QHO15XaC4Q18Cz42Wsx6HqCsMJkDAJAwS20axKqKqbvJ17Y5wz91XWNwN71NvAiY3jzILrLLyovvsoxwX6TWKGV4O-3A4auV4Sh0ukpmOFS05Bsw2m/s1600/sa%C3%BAde.jpeg" group-title="jornalismo",CANAL SAÚDE
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
@@ -265,8 +256,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007
 #EXTINF:-1 tvg-id="Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Cine Terror
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
 
-#EXTINF:-1 tvg-id="Plantão noturno" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Plantão noturno
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
 
 #EXTINF:-1 tvg-id="Comédia romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto",Comédia romântica
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
@@ -506,8 +495,6 @@ https://livefocamundo.com:8081/tvcontroles/index.m3u8
 https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",JPL TV
 https://streaming.jplproducoes.com.br/JPL1/video.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TV CARAVELAS
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",GHOST TV
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",ELYTV
@@ -518,8 +505,6 @@ https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",WTJ TV MINAS
 https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TV GAZETA BA
-https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV PLANALTO NORTE
 https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",ELEMENTAL CHANNEL
@@ -588,8 +573,6 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",DUNAS TV
 https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",WEB TV AGROTOUR
-https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",WTV brasil
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",VIRTUAL TV
@@ -696,8 +679,6 @@ https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",AISH TV brasil
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",CBTV NOW
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV CNB
 https://livefocamundo.com:8081/tvcnb/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV CANDIDES
@@ -850,8 +831,6 @@ https://livefocamundo.com:8081/srtvpb/index.m3u8
 http://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",REDE LITORAL NEWS
 https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TV CARAVELAS
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV CINEC
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",VALE TV PLAY
