@@ -299,6 +299,7 @@ body{
       <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="Agente 86" onclick="clicou4()"></a>
       <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="Star Trek" onclick="clicou5()"></a>
       <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="As Panteras" onclick="clicou6()"></a>
+      <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="Mulher Biônica" onclick="clicou7()"></a>
     </div>
    
   
@@ -322,6 +323,20 @@ body{
   
   
   
+    var video7 = ` <iframe class="lazyload"
+    src="https://jptv.netlify.app/tv-series-2/"
+    width="100%"
+    height="620px"
+   allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+    target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
+        frameborder="0"
+    > </iframe>`
+
     var video6 = ` <iframe class="lazyload"
     src="https://jptv.netlify.app/tv-series/"
     width="100%"
@@ -428,6 +443,10 @@ body{
 
   function clicou6(){
     player.innerHTML = video6
+}
+
+function clicou7(){
+  player.innerHTML = video7
 }
 
   
