@@ -300,6 +300,7 @@ body{
       <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="Star Trek" onclick="clicou5()"></a>
       <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="As Panteras" onclick="clicou6()"></a>
       <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="Mulher Biônica" onclick="clicou7()"></a>
+      <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="Classique TV 2" onclick="clicou8()"></a>
     </div>
    
   
@@ -323,6 +324,20 @@ body{
   
   
   
+    var video8 = ` <iframe class="lazyload"
+    src="https://jptv.netlify.app/classique-tv-2/"
+    width="100%"
+    height="620px"
+   allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+    target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
+        frameborder="0"
+    > </iframe>`
+
     var video7 = ` <iframe class="lazyload"
     src="https://jptv.netlify.app/tv-series-2/"
     width="100%"
@@ -448,6 +463,11 @@ body{
 function clicou7(){
   player.innerHTML = video7
 }
+
+function clicou8(){
+  player.innerHTML = video8
+}
+
 
   
   
