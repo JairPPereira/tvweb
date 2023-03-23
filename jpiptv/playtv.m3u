@@ -106,7 +106,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #################################################################################
 #EXTINF:-1 tvg-id="Rede Clone" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title="filmesseries",Rede Clone
-https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w1266953032.m3u8
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1786527374.m3u8
 
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1lVcMCyE8GHc7hFGuLycugRbUKqz-X0SrYnjaxFSUiyFb3-TjlOdfzgiRNN3qe1WeSOKyOBq9tJ67QRrAQI9WXvTtuMm_XXuFL6SqACcXJlSs_elRrVep27ln2qMsUfZl81pfwWV_Cpf712QvMkkhe3ETmW62s43_VN1ld9mi3Q1X57ErPFGO-21R/s1600/animetv.jpg" group-title="filmesseries",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -115,25 +115,18 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1874174887.m3u8
 
 #EXTINF:-1 tvg-id="Web Tv Cine Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="filmesseries",Web Tv Cine Ao Vivo
-https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w148197557.m3u8
+https://stmv1.painelvideo.top//channel1/channel1/chunklist_w1003385003.m3u8
 
-#EXTINF:-1 tvg-id="Bons Tempos Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="filmesseries",Bons Tempos Ao Vivo
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w305418487.m3u8
 
 #EXTINF:-1 tvg-id="GOSPEL MOVIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="filmesseries",GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fandom TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/12069/thumb_Fandom_TV_.jpg" group-title="filmesseries",Fandom TV
-https://alanza.iptv2022.com/Fandom_TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="CLC (Cine Life Classic)" tvg-logo="https://assets.iptv2022.com/uploads/channel/12076/thumb_CLC____Cine_Life_Classic__.jpg" group-title="filmesseries",CLC (Cine Life Classic)
-https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 29" tvg-logo="https://canal29.weebly.com/uploads/1/0/5/3/105352943/published/2_1.png?1620962596" group-title="filmesseries",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w960384045.m3u8
 
 #EXTINF:-1 tvg-id="TV Séries" tvg-logo="https://assets.iptv2022.com/uploads/channel/14155/thumb_TV_Se%CC%81ries.png" group-title="filmesseries",TV Séries
-https://alanza.iptv2022.com/TV_SERIE/tracks-v1a1/mono.m3u8
+https://stmv1.painelvideo.top/tvserie/tvserie/chunklist_w1575306242.m3u8
 
 #EXTINF:-1 tvg-id="Tv Loading" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEAMLifvZzErFchXZ6jJ0U7z-Q2ulMxPA9j3JSXo2GJLpjEtkX-Ol6H82vSHeey-YeecQyYgtOFgUembZjckm20FLLx6aDkZTVnVpkSAHEJLiRRP8-8EKb3wh8RDAEh0BIYT5kK98zTBeUUuBh0DmkNHJo4xMZ-eL8iRggP5UPgwtFpkMCXyIxoLS7/s1600/loading.webp" group-title="filmesseries",Tv Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
