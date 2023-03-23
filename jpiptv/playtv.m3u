@@ -4,7 +4,6 @@
 #
 
 
-
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="documentarios",TV Marajoara
 https://video01.kshost.com.br/tv31966/tv31966/chunklist_w1874400382.m3u8
 
@@ -16,10 +15,6 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1936544708.m
 
 #EXTINF:-1 tvg-id="Tv CULTURA" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="documentarios",TV CULTURA
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="AgrobrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="documentarios",Agrobrasil TV
@@ -39,22 +34,16 @@ https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Rede Sul de Televisão" tvg-logo="https://assets.iptv2022.com/uploads/channel/13322/thumb_Rede_Sul_de_Televisa%CC%83o.png" group-title="documentarios",Rede Sul de Televisão
-https://alanza.iptv2022.com/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="TV Brusque" tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="documentarios",TV Brusque
-https://alanza.iptv2022.com/TV_Brusque/tracks-v1a1/mono.m3u8
-
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/chunklist_w1686847561.m3u8
 
 
 #EXTINF:-1 tvg-id="Central TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11439/thumb_Group_60.png" group-title="documentarios",Central TV
-https://alanza.iptv2022.com/Central_TV/tracks-v1a1/mono.m3u8
+https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w533440614.m3u8
 
 #EXTINF:-1 tvg-id="TV Aracati" tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="documentarios",TV Aracati
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="JPL TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/13539/thumb_JPL_TV.png" group-title="documentarios",JPL TV
-https://streaming.jplproducoes.com.br/JPL1/video.m3u
 
 #EXTINF:-1 tvg-id="TV CARAVELAS" tvg-logo="https://pa-str.srvsite.com/arquivos/4506/cabecalho-4506-20190507094833.png" group-title="documentarios",TV CARAVELAS
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
@@ -64,10 +53,10 @@ https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/play
 https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1077237079.m3u8
 
 #EXTINF:-1 tvg-id="Com brasil Ao Vivo" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="documentarios",Com brasil Ao Vivo
-https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w1884885417.m3u8
+https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w1397127974.m3u8
 
 #EXTINF:-1 tvg-id="TV brasil HITS Ao Vivo" tvg-logo="https://assets.iptv2022.com/uploads/channel/13308/thumb_TV_brasil_HITS_.png" group-title="documentarios",TV brasil HITS Ao Vivo
-https://alanza.iptv2022.com/TV_brasil_HITS/tracks-v1a1/mono.m3u8
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w931087977.m3u8
 
 
 #EXTINF:-1 tvg-id="VV8 TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/14127/thumb_VV8_TV.png" group-title="documentarios",VV8 TV
@@ -781,78 +770,35 @@ https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV CAMARA SP
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV MAIS MARICA
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",CANAL RICOS
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TV PADRE CICERO
-https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",SAO RAIMUNDO TV
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV GRANDE NATAL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TV HORA 1
-https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TVC 16
-https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV CIDADE CANAL 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TV LIDER DO VALE
-https://5d82644094cc0.streamlock.net/liderdovaletv/liderdovaletv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",MAM NEWS WEB TV
-https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",WEB TV CIDADE JANAUBA
-https://StmV1.srvstm.com/cidade123/cidade123/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",WEB TV JP
-https://stmv3.samcast.com.br/vinicius8694/vinicius8694/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",RESENDE WEB TV
-https://5d82644094cc0.streamlock.net:443/resendetv/resendetv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",CAMOCIM WEB TV
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",VIVA WEB TV
-https://video02.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",WEB TV MACEIO
-https://5cf4a2c2512a2.streamlock.net/webtvmaceio/webtvmaceio/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",WEB TV PARANA
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",WEB TV URUARA
-https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",WEB TV FRONTEIRA
-https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",WEB TV ESCRIBA DO AMAPA
-https://stmv1.livevoxtv.com.br/tvescriba/tvescriba/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",WEB TV CAICO
-https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",SRTV PB
 https://livefocamundo.com:8081/srtvpb/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TV LITORAL
-http://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",REDE LITORAL NEWS
-https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV CINEC
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",VALE TV PLAY
-https://cdn-valetv.ciclano.io:1443/valetv/valetv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TENDA TV
-https://stmv6.srvstm.com/9696/9696/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TV TSPB
-https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV MASTER PB
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TV COGNOPOLIS
-https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/chunklist_w1989881567.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",CANAL 25 JUNDIAI
 http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",TV ASSU
-https://5eaa6849d0971.streamlock.net/8058/8058/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV PRECABURA
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",TV CN AGITOS
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="brasil",FLORIPA TV
-https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="brasil",CANAL 10 FOZ
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
 
