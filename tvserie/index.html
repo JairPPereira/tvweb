@@ -298,6 +298,7 @@ body{
       <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="CHIPS" onclick="clicou3()"></a>
       <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="Agente 86" onclick="clicou4()"></a>
       <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="Star Trek" onclick="clicou5()"></a>
+      <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="As Panteras" onclick="clicou6()"></a>
     </div>
    
   
@@ -321,6 +322,20 @@ body{
   
   
   
+    var video6 = ` <iframe class="lazyload"
+    src="https://jptv.netlify.app/tv-series/"
+    width="100%"
+    height="620px"
+   allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+    target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
+        frameborder="0"
+    > </iframe>`
+
     var video5 = ` <iframe class="lazyload"
     src="https://jptv.netlify.app/tv-jornada-nas-estrelas-star-trek/"
     width="100%"
@@ -410,6 +425,10 @@ body{
     function clicou5(){
       player.innerHTML = video5
   }
+
+  function clicou6(){
+    player.innerHTML = video6
+}
 
   
   
