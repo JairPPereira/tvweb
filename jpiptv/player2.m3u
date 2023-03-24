@@ -457,3 +457,381 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/strea
 #EXTINF:-1 tvg-id="NHKWorld(src01).jp"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87ab2cae62f1210235beccb4bb75e35b.webp" group-title="Internacionais", NHK WORLD HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Brasil" tvg-logo="" group-title="Brasil",BR: Canal Brasil
+http://hidra.live:80/Diego/Diego/304026
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Do Boi" tvg-logo="" group-title="Brasil",BR: Canal Do Boi
+http://hidra.live:80/Diego/Diego/304027
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Futura" tvg-logo="" group-title="Brasil",BR: Canal Futura
+http://hidra.live:80/Diego/Diego/304028
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Off" tvg-logo="https://img.tvcl.xyz/brasil/off.png" group-title="Brasil",BR: Canal Off
+http://hidra.live:80/Diego/Diego/304029
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canção Nova" tvg-logo="" group-title="Brasil",BR: Canção Nova
+http://hidra.live:80/Diego/Diego/304030
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cartoon Network" tvg-logo="https://img.tvcl.xyz/brasil/cn.png" group-title="Brasil",BR: Cartoon Network
+http://hidra.live:80/Diego/Diego/304031
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cartoonito" tvg-logo="" group-title="Brasil",BR: Cartoonito
+http://hidra.live:80/Diego/Diego/304032
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN Brasil" tvg-logo="" group-title="Brasil",BR: CNN Brasil
+http://hidra.live:80/Diego/Diego/304035
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNT" tvg-logo="https://img.tvcl.xyz/brasil/cnt.png" group-title="Brasil",BR: CNT
+http://hidra.live:80/Diego/Diego/304036
+#EXTINF:-1 tvg-id="" tvg-name="BR: Com Brasil" tvg-logo="" group-title="Brasil",BR: Com Brasil
+http://hidra.live:80/Diego/Diego/304037
+#EXTINF:-1 tvg-id="" tvg-name="BR: Combate" tvg-logo="https://img.tvcl.xyz/brasil/combate.png" group-title="Brasil",BR: Combate
+http://hidra.live:80/Diego/Diego/304038
+#EXTINF:-1 tvg-id="" tvg-name="BR: Comedy Central" tvg-logo="https://img.tvcl.xyz/brasil/comedycentral.png" group-title="Brasil",BR: Comedy Central
+http://hidra.live:80/Diego/Diego/304039
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol Tv 1" tvg-logo="" group-title="Brasil",BR: Conmebol Tv 1
+http://hidra.live:80/Diego/Diego/304040
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol Tv 2" tvg-logo="" group-title="Brasil",BR: Conmebol Tv 2
+http://hidra.live:80/Diego/Diego/304041
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol Tv 3" tvg-logo="" group-title="Brasil",BR: Conmebol Tv 3
+http://hidra.live:80/Diego/Diego/304042
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol Tv 4" tvg-logo="" group-title="Brasil",BR: Conmebol Tv 4
+http://hidra.live:80/Diego/Diego/304043
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cristo Vivo" tvg-logo="" group-title="Brasil",BR: Cristo Vivo
+http://hidra.live:80/Diego/Diego/304044
+#EXTINF:-1 tvg-id="" tvg-name="BR: Curta!" tvg-logo="" group-title="Brasil",BR: Curta!
+http://hidra.live:80/Diego/Diego/304045
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Channel" tvg-logo="" group-title="Brasil",BR: Discovery Channel
+http://hidra.live:80/Diego/Diego/304046
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery H&H" tvg-logo="" group-title="Brasil",BR: Discovery H&H
+http://hidra.live:80/Diego/Diego/304047
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Kids" tvg-logo="https://img.tvcl.xyz/brasil/dk.png" group-title="Brasil",BR: Discovery Kids
+http://hidra.live:80/Diego/Diego/304048
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Science" tvg-logo="" group-title="Brasil",BR: Discovery Science
+http://hidra.live:80/Diego/Diego/304049
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Theater" tvg-logo="" group-title="Brasil",BR: Discovery Theater
+http://hidra.live:80/Diego/Diego/304050
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Turbo" tvg-logo="" group-title="Brasil",BR: Discovery Turbo
+http://hidra.live:80/Diego/Diego/304051
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery World" tvg-logo="" group-title="Brasil",BR: Discovery World
+http://hidra.live:80/Diego/Diego/304052
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Channel" tvg-logo="https://img.tvcl.xyz/brasil/dc.png" group-title="Brasil",BR: Disney Channel
+http://hidra.live:80/Diego/Diego/304053
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Jr" tvg-logo="https://img.tvcl.xyz/brasil/dj.png" group-title="Brasil",BR: Disney Jr
+http://hidra.live:80/Diego/Diego/304054
+#EXTINF:-1 tvg-id="" tvg-name="BR: E!" tvg-logo="" group-title="Brasil",BR: E!
+http://hidra.live:80/Diego/Diego/304055
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn" tvg-logo="https://img.tvcl.xyz/brasil/espn.png" group-title="Brasil",BR: Espn
+http://hidra.live:80/Diego/Diego/304056
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn 2" tvg-logo="https://img.tvcl.xyz/brasil/espn.png" group-title="Brasil",BR: Espn 2
+http://hidra.live:80/Diego/Diego/304057
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn 3" tvg-logo="https://img.tvcl.xyz/brasil/espn.png" group-title="Brasil",BR: Espn 3
+http://hidra.live:80/Diego/Diego/304058
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn 4" tvg-logo="https://img.tvcl.xyz/brasil/espn.png" group-title="Brasil",BR: Espn 4
+http://hidra.live:80/Diego/Diego/304059
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn Extra" tvg-logo="https://img.tvcl.xyz/brasil/espn.png" group-title="Brasil",BR: Espn Extra
+http://hidra.live:80/Diego/Diego/304060
+#EXTINF:-1 tvg-id="" tvg-name="BR: Esportes Interativo" tvg-logo="" group-title="Brasil",BR: Esportes Interativo
+http://hidra.live:80/Diego/Diego/304061
+#EXTINF:-1 tvg-id="" tvg-name="BR: Euronews" tvg-logo="" group-title="Brasil",BR: Euronews
+http://hidra.live:80/Diego/Diego/304067
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fashion" tvg-logo="" group-title="Brasil",BR: Fashion
+http://hidra.live:80/Diego/Diego/304068
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fish Tv" tvg-logo="https://img.tvcl.xyz/brasil/fishtv.png" group-title="Brasil",BR: Fish Tv
+http://hidra.live:80/Diego/Diego/304069
+#EXTINF:-1 tvg-id="" tvg-name="BR: Food Network" tvg-logo="" group-title="Brasil",BR: Food Network
+http://hidra.live:80/Diego/Diego/304070
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports 2" tvg-logo="https://img.tvcl.xyz/brasil/foxsports.png" group-title="Brasil",BR: Fox Sports 2
+http://hidra.live:80/Diego/Diego/304071
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX" tvg-logo="https://img.tvcl.xyz/brasil/fx.png" group-title="Brasil",BR: FX
+http://hidra.live:80/Diego/Diego/304072
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gazeta SP" tvg-logo="" group-title="Brasil",BR: Gazeta SP
+http://hidra.live:80/Diego/Diego/304073
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Ac R. Amazônica Rio Branco" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Ac R. Amazônica Rio Branco
+http://hidra.live:80/Diego/Diego/304074
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Al Tv Gazeta" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Al Tv Gazeta
+http://hidra.live:80/Diego/Diego/304075
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Am Tv Amazônia" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Am Tv Amazônia
+http://hidra.live:80/Diego/Diego/304076
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Ba Rede Bahia" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Ba Rede Bahia
+http://hidra.live:80/Diego/Diego/304077
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Ba- Tv Santa Cruz" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Ba- Tv Santa Cruz
+http://hidra.live:80/Diego/Diego/304078
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Ba- Tv Sudoeste" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Ba- Tv Sudoeste
+http://hidra.live:80/Diego/Diego/304079
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Ce Tv Verdes Mares" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Ce Tv Verdes Mares
+http://hidra.live:80/Diego/Diego/304080
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Df Brasilia" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Df Brasilia
+http://hidra.live:80/Diego/Diego/304081
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Es Tv Gazeta Sul" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Es Tv Gazeta Sul
+http://hidra.live:80/Diego/Diego/304082
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Es Tv Gazeta Vitória" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Es Tv Gazeta Vitória
+http://hidra.live:80/Diego/Diego/304083
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Go Tv Anhanguera" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Go Tv Anhanguera
+http://hidra.live:80/Diego/Diego/304084
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Ma Tv Mirante São Luis" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Ma Tv Mirante São Luis
+http://hidra.live:80/Diego/Diego/304085
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Mg Belo Horizonte" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Mg Belo Horizonte
+http://hidra.live:80/Diego/Diego/304086
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Mg Eptv Sul De Minas" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Mg Eptv Sul De Minas
+http://hidra.live:80/Diego/Diego/304087
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Mg Inter Tv Dos Vales" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Mg Inter Tv Dos Vales
+http://hidra.live:80/Diego/Diego/304088
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Mg Tv Integração Juiz De Fora" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Mg Tv Integração Juiz De Fora
+http://hidra.live:80/Diego/Diego/304089
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Ms Tv Morena" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Ms Tv Morena
+http://hidra.live:80/Diego/Diego/304090
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Mt Tv Centro America" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Mt Tv Centro America
+http://hidra.live:80/Diego/Diego/304091
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Ne Nordeste" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Ne Nordeste
+http://hidra.live:80/Diego/Diego/304092
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo News" tvg-logo="https://img.tvcl.xyz/brasil/globonews.png" group-title="Brasil",BR: Globo News
+http://hidra.live:80/Diego/Diego/304093
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Pa Tv Liberal Belém" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Pa Tv Liberal Belém
+http://hidra.live:80/Diego/Diego/304094
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Pr Rpc Foz Do Iguaçu" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Pr Rpc Foz Do Iguaçu
+http://hidra.live:80/Diego/Diego/304095
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Pr Rpc Tv Curitiba" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Pr Rpc Tv Curitiba
+http://hidra.live:80/Diego/Diego/304096
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rj Capital" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Rj Capital
+http://hidra.live:80/Diego/Diego/304097
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rj Inter Tv Alto Litoral" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Rj Inter Tv Alto Litoral
+http://hidra.live:80/Diego/Diego/304098
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rj Inter Tv Serra Mar" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Rj Inter Tv Serra Mar
+http://hidra.live:80/Diego/Diego/304099
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rj Tv Rio Sul" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Rj Tv Rio Sul
+http://hidra.live:80/Diego/Diego/304100
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rn Inter Tv Cabugi" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Rn Inter Tv Cabugi
+http://hidra.live:80/Diego/Diego/304101
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Ro Rede Amazônica Porto Velho" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Ro Rede Amazônica Porto Velho
+http://hidra.live:80/Diego/Diego/304102
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rs Rbs Tv Porto Alegre" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Rs Rbs Tv Porto Alegre
+http://hidra.live:80/Diego/Diego/304103
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Se Tv Sergipe" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Se Tv Sergipe
+http://hidra.live:80/Diego/Diego/304104
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sp Capital" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Sp Capital
+http://hidra.live:80/Diego/Diego/304105
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sp Eptv Campinas" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Sp Eptv Campinas
+http://hidra.live:80/Diego/Diego/304106
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sp Eptv Central S Carlos" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Sp Eptv Central S Carlos
+http://hidra.live:80/Diego/Diego/304107
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sp Eptv Ribeirão Preto" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Sp Eptv Ribeirão Preto
+http://hidra.live:80/Diego/Diego/304108
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sp Tv Tem Bauru" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Sp Tv Tem Bauru
+http://hidra.live:80/Diego/Diego/304109
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sp Tv Tem São José Do Rio Preto" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Sp Tv Tem São José Do Rio Preto
+http://hidra.live:80/Diego/Diego/304110
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sp Tv Tem Sorocaba" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Sp Tv Tem Sorocaba
+http://hidra.live:80/Diego/Diego/304111
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sp Tv Tribuna Santos" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Sp Tv Tribuna Santos
+http://hidra.live:80/Diego/Diego/304112
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sp Tv Vanguarda São José Dos Campos" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globo Sp Tv Vanguarda São José Dos Campos
+http://hidra.live:80/Diego/Diego/304113
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globosat" tvg-logo="https://img.tvcl.xyz/brasil/globo.png" group-title="Brasil",BR: Globosat
+http://hidra.live:80/Diego/Diego/304114
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloob" tvg-logo="https://img.tvcl.xyz/brasil/gloob.png" group-title="Brasil",BR: Gloob
+http://hidra.live:80/Diego/Diego/304115
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloobinho" tvg-logo="https://img.tvcl.xyz/brasil/gloobinho.png" group-title="Brasil",BR: Gloobinho
+http://hidra.live:80/Diego/Diego/304116
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT" tvg-logo="" group-title="Brasil",BR: GNT
+http://hidra.live:80/Diego/Diego/304117
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 1" tvg-logo="https://img.tvcl.xyz/brasil/hbo.png" group-title="Brasil",BR: HBO 1
+http://hidra.live:80/Diego/Diego/304118
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2" tvg-logo="" group-title="Brasil",BR: HBO 2
+http://hidra.live:80/Diego/Diego/304119
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Family" tvg-logo="https://img.tvcl.xyz/brasil/hbofamily.png" group-title="Brasil",BR: HBO Family
+http://hidra.live:80/Diego/Diego/304120
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Mundi" tvg-logo="" group-title="Brasil",BR: HBO Mundi
+http://hidra.live:80/Diego/Diego/304121
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Plus" tvg-logo="https://img.tvcl.xyz/brasil/hboplus.png" group-title="Brasil",BR: HBO Plus
+http://hidra.live:80/Diego/Diego/304122
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Pop" tvg-logo="" group-title="Brasil",BR: HBO Pop
+http://hidra.live:80/Diego/Diego/304123
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Signature" tvg-logo="https://img.tvcl.xyz/brasil/hbosignature.png" group-title="Brasil",BR: HBO Signature
+http://hidra.live:80/Diego/Diego/304124
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Xtreme" tvg-logo="" group-title="Brasil",BR: HBO Xtreme
+http://hidra.live:80/Diego/Diego/304125
+#EXTINF:-1 tvg-id="" tvg-name="BR: HGTV" tvg-logo="" group-title="Brasil",BR: HGTV
+http://hidra.live:80/Diego/Diego/304126
+#EXTINF:-1 tvg-id="" tvg-name="BR: History 2" tvg-logo="" group-title="Brasil",BR: History 2
+http://hidra.live:80/Diego/Diego/304127
+#EXTINF:-1 tvg-id="" tvg-name="BR: History Channel" tvg-logo="" group-title="Brasil",BR: History Channel
+http://hidra.live:80/Diego/Diego/304128
+#EXTINF:-1 tvg-id="" tvg-name="BR: Investigação Discovery" tvg-logo="" group-title="Brasil",BR: Investigação Discovery
+http://hidra.live:80/Diego/Diego/304129
+#EXTINF:-1 tvg-id="" tvg-name="BR: Iurd Tv" tvg-logo="" group-title="Brasil",BR: Iurd Tv
+http://hidra.live:80/Diego/Diego/304130
+#EXTINF:-1 tvg-id="" tvg-name="BR: Jp News" tvg-logo="" group-title="Brasil",BR: Jp News
+http://hidra.live:80/Diego/Diego/304131
+#EXTINF:-1 tvg-id="" tvg-name="BR: Kpoptv Play" tvg-logo="" group-title="Brasil",BR: Kpoptv Play
+http://hidra.live:80/Diego/Diego/304132
+#EXTINF:-1 tvg-id="" tvg-name="BR: Lifetime" tvg-logo="" group-title="Brasil",BR: Lifetime
+http://hidra.live:80/Diego/Diego/304133
+#EXTINF:-1 tvg-id="" tvg-name="BR: Megapix" tvg-logo="https://img.tvcl.xyz/brasil/egapix.png" group-title="Brasil",BR: Megapix
+http://hidra.live:80/Diego/Diego/304134
+#EXTINF:-1 tvg-id="" tvg-name="BR: Mtv" tvg-logo="" group-title="Brasil",BR: Mtv
+http://hidra.live:80/Diego/Diego/304135
+#EXTINF:-1 tvg-id="" tvg-name="BR: Multishow" tvg-logo="" group-title="Brasil",BR: Multishow
+http://hidra.live:80/Diego/Diego/304136
+#EXTINF:-1 tvg-id="" tvg-name="BR: Music Box Brazil" tvg-logo="" group-title="Brasil",BR: Music Box Brazil
+http://hidra.live:80/Diego/Diego/304137
+#EXTINF:-1 tvg-id="" tvg-name="BR: Mytime Movie Network Brazil" tvg-logo="" group-title="Brasil",BR: Mytime Movie Network Brazil
+http://hidra.live:80/Diego/Diego/304138
+#EXTINF:-1 tvg-id="" tvg-name="BR: Natgeo Wild" tvg-logo="https://img.tvcl.xyz/brasil/natgeowild.png" group-title="Brasil",BR: Natgeo Wild
+http://hidra.live:80/Diego/Diego/304139
+#EXTINF:-1 tvg-id="" tvg-name="BR: National Geographic" tvg-logo="https://img.tvcl.xyz/brasil/natgeo.png" group-title="Brasil",BR: National Geographic
+http://hidra.live:80/Diego/Diego/304140
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nick Jr" tvg-logo="https://img.tvcl.xyz/brasil/nickjr.png" group-title="Brasil",BR: Nick Jr
+http://hidra.live:80/Diego/Diego/304141
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nickelodeon" tvg-logo="https://img.tvcl.xyz/brasil/nick.png" group-title="Brasil",BR: Nickelodeon
+http://hidra.live:80/Diego/Diego/304142
+#EXTINF:-1 tvg-id="" tvg-name="BR: Novo Tempo" tvg-logo="" group-title="Brasil",BR: Novo Tempo
+http://hidra.live:80/Diego/Diego/304143
+#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount" tvg-logo="https://img.tvcl.xyz/brasil/paramount.png" group-title="Brasil",BR: Paramount
+http://hidra.live:80/Diego/Diego/304144
+#EXTINF:-1 tvg-id="" tvg-name="BR: Polishop 2 TV" tvg-logo="" group-title="Brasil",BR: Polishop 2 TV
+http://hidra.live:80/Diego/Diego/304145
+#EXTINF:-1 tvg-id="" tvg-name="BR: Polishop TV" tvg-logo="" group-title="Brasil",BR: Polishop TV
+http://hidra.live:80/Diego/Diego/304146
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 3" tvg-logo="https://img.tvcl.xyz/brasil/premiere.png" group-title="Brasil",BR: Premiere 3
+http://hidra.live:80/Diego/Diego/304147
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 4" tvg-logo="https://img.tvcl.xyz/brasil/premiere.png" group-title="Brasil",BR: Premiere 4
+http://hidra.live:80/Diego/Diego/304148
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 5" tvg-logo="https://img.tvcl.xyz/brasil/premiere.png" group-title="Brasil",BR: Premiere 5
+http://hidra.live:80/Diego/Diego/304149
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 7" tvg-logo="https://img.tvcl.xyz/brasil/premiere.png" group-title="Brasil",BR: Premiere 7
+http://hidra.live:80/Diego/Diego/304150
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere Clubes" tvg-logo="https://img.tvcl.xyz/brasil/pclubes.png" group-title="Brasil",BR: Premiere Clubes
+http://hidra.live:80/Diego/Diego/304151
+#EXTINF:-1 tvg-id="" tvg-name="BR: Prime Box Brazil" tvg-logo="" group-title="Brasil",BR: Prime Box Brazil
+http://hidra.live:80/Diego/Diego/304152
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Ba" tvg-logo="https://img.tvcl.xyz/brasil/recordtv.png" group-title="Brasil",BR: Record Ba
+http://hidra.live:80/Diego/Diego/304153
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Belem" tvg-logo="https://img.tvcl.xyz/brasil/recordtv.png" group-title="Brasil",BR: Record Belem
+http://hidra.live:80/Diego/Diego/304154
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record DF" tvg-logo="https://img.tvcl.xyz/brasil/recordtv.png" group-title="Brasil",BR: Record DF
+http://hidra.live:80/Diego/Diego/304155
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record ES" tvg-logo="https://img.tvcl.xyz/brasil/recordtv.png" group-title="Brasil",BR: Record ES
+http://hidra.live:80/Diego/Diego/304156
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record MG" tvg-logo="https://img.tvcl.xyz/brasil/recordtv.png" group-title="Brasil",BR: Record MG
+http://hidra.live:80/Diego/Diego/304157
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record News" tvg-logo="https://img.tvcl.xyz/brasil/recordnews.png" group-title="Brasil",BR: Record News
+http://hidra.live:80/Diego/Diego/304158
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record RJ" tvg-logo="" group-title="Brasil",BR: Record RJ
+http://hidra.live:80/Diego/Diego/304159
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP" tvg-logo="https://img.tvcl.xyz/brasil/recordtv.png" group-title="Brasil",BR: Record SP
+http://hidra.live:80/Diego/Diego/304160
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Brasil" tvg-logo="" group-title="Brasil",BR: Rede Brasil
+http://hidra.live:80/Diego/Diego/304161
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Família" tvg-logo="" group-title="Brasil",BR: Rede Família
+http://hidra.live:80/Diego/Diego/304162
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Gospel" tvg-logo="" group-title="Brasil",BR: Rede Gospel
+http://hidra.live:80/Diego/Diego/304163
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Super" tvg-logo="" group-title="Brasil",BR: Rede Super
+http://hidra.live:80/Diego/Diego/304164
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Tv!" tvg-logo="https://img.tvcl.xyz/brasil/redetv.png" group-title="Brasil",BR: Rede Tv!
+http://hidra.live:80/Diego/Diego/304165
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Vida" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: Rede Vida
+http://hidra.live:80/Diego/Diego/304166
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT BA" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: SBT BA
+http://hidra.live:80/Diego/Diego/304167
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT ES" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: SBT ES
+http://hidra.live:80/Diego/Diego/304168
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT PR" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: SBT PR
+http://hidra.live:80/Diego/Diego/304169
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Recife" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: SBT Recife
+http://hidra.live:80/Diego/Diego/304170
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT RJ" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: SBT RJ
+http://hidra.live:80/Diego/Diego/304171
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT RS" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: SBT RS
+http://hidra.live:80/Diego/Diego/304172
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Sao Luiz Ma" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: SBT Sao Luiz Ma
+http://hidra.live:80/Diego/Diego/304173
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SCC" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: SBT SCC
+http://hidra.live:80/Diego/Diego/304174
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SP" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: SBT SP
+http://hidra.live:80/Diego/Diego/304175
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Tv Difusora Caxias" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: SBT Tv Difusora Caxias
+http://hidra.live:80/Diego/Diego/304176
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Vtv Campinas" tvg-logo="https://img.tvcl.xyz/brasil/sbt.png" group-title="Brasil",BR: SBT Vtv Campinas
+http://hidra.live:80/Diego/Diego/304177
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sony Channel" tvg-logo="https://img.tvcl.xyz/brasil/sonye.png" group-title="Brasil",BR: Sony Channel
+http://hidra.live:80/Diego/Diego/304178
+#EXTINF:-1 tvg-id="" tvg-name="BR: Space" tvg-logo="https://img.tvcl.xyz/brasil/space.png" group-title="Brasil",BR: Space
+http://hidra.live:80/Diego/Diego/304179
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV" tvg-logo="https://img.tvcl.xyz/brasil/sportv.png" group-title="Brasil",BR: SporTV
+http://hidra.live:80/Diego/Diego/304180
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 2" tvg-logo="https://img.tvcl.xyz/brasil/sportv.png" group-title="Brasil",BR: SporTV 2
+http://hidra.live:80/Diego/Diego/304181
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 3" tvg-logo="https://img.tvcl.xyz/brasil/sportv.png" group-title="Brasil",BR: SporTV 3
+http://hidra.live:80/Diego/Diego/304182
+#EXTINF:-1 tvg-id="" tvg-name="BR: Star Channel" tvg-logo="" group-title="Brasil",BR: Star Channel
+http://hidra.live:80/Diego/Diego/304183
+#EXTINF:-1 tvg-id="" tvg-name="BR: Star Life" tvg-logo="" group-title="Brasil",BR: Star Life
+http://hidra.live:80/Diego/Diego/304184
+#EXTINF:-1 tvg-id="" tvg-name="BR: Studio Universal" tvg-logo="" group-title="Brasil",BR: Studio Universal
+http://hidra.live:80/Diego/Diego/304185
+#EXTINF:-1 tvg-id="" tvg-name="BR: Syfy" tvg-logo="http://hidra.live:80/images/14831b3a087423067dd5af937a12204b.png" group-title="Brasil",BR: Syfy
+http://hidra.live:80/Diego/Diego/304186
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS" tvg-logo="https://img.tvcl.xyz/brasil/tbs.png" group-title="Brasil",BR: TBS
+http://hidra.live:80/Diego/Diego/304187
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM" tvg-logo="https://img.tvcl.xyz/brasil/tcm.png" group-title="Brasil",BR: TCM
+http://hidra.live:80/Diego/Diego/304188
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Action" tvg-logo="https://img.tvcl.xyz/brasil/telecine.png" group-title="Brasil",BR: Telecine Action
+http://hidra.live:80/Diego/Diego/304189
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Cult" tvg-logo="https://img.tvcl.xyz/brasil/telecine.png" group-title="Brasil",BR: Telecine Cult
+http://hidra.live:80/Diego/Diego/304190
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Fun" tvg-logo="https://img.tvcl.xyz/brasil/telecine.png" group-title="Brasil",BR: Telecine Fun
+http://hidra.live:80/Diego/Diego/304191
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Pipoca" tvg-logo="https://img.tvcl.xyz/brasil/telecine.png" group-title="Brasil",BR: Telecine Pipoca
+http://hidra.live:80/Diego/Diego/304192
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Premium" tvg-logo="https://img.tvcl.xyz/brasil/telecine.png" group-title="Brasil",BR: Telecine Premium
+http://hidra.live:80/Diego/Diego/304193
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Touch" tvg-logo="http://hidra.live:80/images/c93ec57e2ee5b8d16aab3ddd165fb766.png" group-title="Brasil",BR: Telecine Touch
+http://hidra.live:80/Diego/Diego/304194
+#EXTINF:-1 tvg-id="" tvg-name="BR: Terra Viva" tvg-logo="" group-title="Brasil",BR: Terra Viva
+http://hidra.live:80/Diego/Diego/304195
+#EXTINF:-1 tvg-id="" tvg-name="BR: TLC" tvg-logo="" group-title="Brasil",BR: TLC
+http://hidra.live:80/Diego/Diego/304196
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT" tvg-logo="https://img.tvcl.xyz/brasil/tnt.png" group-title="Brasil",BR: TNT
+http://hidra.live:80/Diego/Diego/304197
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Series" tvg-logo="https://img.tvcl.xyz/brasil/tntseries.png" group-title="Brasil",BR: TNT Series
+http://hidra.live:80/Diego/Diego/304198
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tooncast" tvg-logo="https://img.tvcl.xyz/brasil/tooncast.png" group-title="Brasil",BR: Tooncast
+http://hidra.live:80/Diego/Diego/304199
+#EXTINF:-1 tvg-id="" tvg-name="BR: Trutv" tvg-logo="" group-title="Brasil",BR: Trutv
+http://hidra.live:80/Diego/Diego/304200
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Aparecida" tvg-logo="" group-title="Brasil",BR: TV Aparecida
+http://hidra.live:80/Diego/Diego/304201
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Brasil" tvg-logo="https://img.tvcl.xyz/brasil/tvbrasil.png" group-title="Brasil",BR: TV Brasil
+http://hidra.live:80/Diego/Diego/304202
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Camar" tvg-logo="" group-title="Brasil",BR: TV Camar
+http://hidra.live:80/Diego/Diego/304203
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Cultura" tvg-logo="" group-title="Brasil",BR: TV Cultura
+http://hidra.live:80/Diego/Diego/304204
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Escola" tvg-logo="" group-title="Brasil",BR: TV Escola
+http://hidra.live:80/Diego/Diego/304205
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Espaço Espirita" tvg-logo="" group-title="Brasil",BR: TV Espaço Espirita
+http://hidra.live:80/Diego/Diego/304206
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Evangelizar" tvg-logo="" group-title="Brasil",BR: TV Evangelizar
+http://hidra.live:80/Diego/Diego/304207
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Geral" tvg-logo="" group-title="Brasil",BR: TV Geral
+http://hidra.live:80/Diego/Diego/304208
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Pai Eterno" tvg-logo="" group-title="Brasil",BR: TV Pai Eterno
+http://hidra.live:80/Diego/Diego/304209
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Ra Tim Bum" tvg-logo="" group-title="Brasil",BR: TV Ra Tim Bum
+http://hidra.live:80/Diego/Diego/304210
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Senado" tvg-logo="" group-title="Brasil",BR: TV Senado
+http://hidra.live:80/Diego/Diego/304211
+#EXTINF:-1 tvg-id="" tvg-name="BR: TVe Brasil" tvg-logo="http://hidra.live:80/images/cb13140ca1ec3b229e6f7906050c107a.png" group-title="Brasil",BR: TVe Brasil
+http://hidra.live:80/Diego/Diego/304212
+#EXTINF:-1 tvg-id="" tvg-name="BR: Universal Tv" tvg-logo="https://img.tvcl.xyz/brasil/universal.png" group-title="Brasil",BR: Universal Tv
+http://hidra.live:80/Diego/Diego/304213
+#EXTINF:-1 tvg-id="" tvg-name="BR: VH1" tvg-logo="" group-title="Brasil",BR: VH1
+http://hidra.live:80/Diego/Diego/304214
+#EXTINF:-1 tvg-id="" tvg-name="BR: Viva" tvg-logo="https://img.tvcl.xyz/brasil/viva.png" group-title="Brasil",BR: Viva
+http://hidra.live:80/Diego/Diego/304215
+#EXTINF:-1 tvg-id="" tvg-name="BR: Warner Channel" tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Brasil",BR: Warner Channel
+http://hidra.live:80/Diego/Diego/304216
+#EXTINF:-1 tvg-id="" tvg-name="BR: Woohoo" tvg-logo="https://img.tvcl.xyz/brasil/woohoo.png" group-title="Brasil",BR: Woohoo
+http://hidra.live:80/Diego/Diego/304217
+#EXTINF:-1 tvg-id="" tvg-name="BR: Zoomoo" tvg-logo="https://img.tvcl.xyz/brasil/zoomoo.png" group-title="Brasil",BR: Zoomoo
+http://hidra.live:80/Diego/Diego/304218
+
+
+#############################################################################
