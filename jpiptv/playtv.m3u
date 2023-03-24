@@ -544,25 +544,25 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf00074
 #EXTINF:-1 channel-id="pluto-tv-junior-1" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto", Pluto TV Junior
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="nick-jr-club-1" tvg-logo="https://imgur.com/j9CMGyU.png" group-title="pluto", Nick Jr. Club
+#EXTINF:-1 channel-id="nick-jr-club-1" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto", Nick Jr. Club
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="as-pistas-de-blue" tvg-logo="https://imgur.com/bHhxhRb.png" group-title="pluto", As  Pistas de Blue
+#EXTINF:-1 channel-id="as-pistas-de-blue" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto", As Pistas de Blue
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848730-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9f2c6ce-d387-42e3-a5c5-c919c5d33252&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="o-reino-infantil-ptv1" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="pluto", O Reino Infantil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="turma-da-monica" tvg-logo="https://imgur.com/kJHRcfo.png" group-title="pluto", Turma da Mônica
+#EXTINF:-1 channel-id="turma-da-monica" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto", Turma da Mônica
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="pluto-tv-kids-1" tvg-logo="https://imgur.com/g505N5r.png" group-title="pluto", Pluto TV Kids
+#EXTINF:-1 channel-id="pluto-tv-kids-1" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto", Pluto TV Kids
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="nick-classico-ptv1" tvg-logo="https://imgur.com/z2Fwd4q.png" group-title="pluto", Nick Clássico
+#EXTINF:-1 channel-id="nick-classico-ptv1" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto", Nick Clássico
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="a-vida-moderna-de-rocko" tvg-logo="https://imgur.com/iu4Xbjd.png" group-title="pluto", A Vida moderna de Rocko
+#EXTINF:-1 channel-id="a-vida-moderna-de-rocko" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto", A Vida moderna de Rocko
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="pluto-tv-shows-por-stingray" tvg-logo="http://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="pluto", Pluto TV Shows por Stingray
