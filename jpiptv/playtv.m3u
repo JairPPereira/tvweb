@@ -70,8 +70,6 @@ https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Gazeta.br" tvg-name="TV Gazeta"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="documentarios", TV Gazeta - TV Cidade Araçatuba 
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="redefamilia.br"  tvg-name="Rede Família" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6a9wVaOGB6q9EkRQ2jXRS8obA7MifL81xLrKqq91v32ergE5YRmj48O4HYgrmWO3Av-o&usqp=CAU" group-title="documentarios", Rede Família
-https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeBrasil.br"  tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="documentarios", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -392,30 +390,19 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Filmes" tvg-chno="58", Pluto TV Adrenalina Freezone
 https://stitcher.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 
-#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-name="Pluto TV Cine Comédia Romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Filmes" tvg-chno="61", Pluto TV Cine Comédia Romântica
-https://stitcher.pluto.tv/stitch/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Filmes" tvg-chno="63", Pluto TV Cine Drama
 https://stitcher.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-name="Pluto TV Filmelier" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Filmes" tvg-chno="64", Pluto TV Filmelier
 https://stitcher.pluto.tv/stitch/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
-#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="Filmes" tvg-chno="66", Pluto TV Cine Romance
-https://stitcher.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
-#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Filmes" tvg-chno="69", Filmes Suspense
-https://stitcher.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
-#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Filmes" tvg-chno="72", Pluto TV Cine Terror
-https://stitcher.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
-#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-name="Pluto TV Ficção Científica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Filmes" tvg-chno="74", Pluto TV Ficção Científica
-https://stitcher.pluto.tv/stitch/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
+
 #EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Filmes" tvg-chno="76", Runtime
 https://stitcher.pluto.tv/stitch/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="Filmes" tvg-chno="81", Pluto TV Filmes Nacionais
 https://stitcher.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
-#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Filmes" tvg-chno="85", Pluto TV Cine Clássicos
-https://stitcher.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
+
 #EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Filmes" tvg-chno="87", Pluto TV Cine Família
 https://stitcher.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
-#EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-name="Paramount+ Apresenta" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="Paramount+ Apresenta" tvg-chno="100", Paramount+ Apresenta
-https://stitcher.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
+
 #EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-name="Pluto TV Séries" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Entretenimento" tvg-chno="101", Pluto TV Séries
 https://stitcher.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-name="The Night Shift Plantão Noturno" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="Entretenimento" tvg-chno="103", The Night Shift Plantão Noturno
@@ -668,19 +655,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c
 
 #EXTINF:-1 channel-id="pluto-tv-cine-comedia-1" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto", Pluto TV Cine Comédia
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07b16472-d071-4d2e-ad98-ab98754a4428&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="pluto-tv-cine-drama-1" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto", Pluto TV Cine Drama
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="pluto-tv-cine-romance-ptv1" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="pluto", Pluto TV Cine Romance
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9925deb0-c973-11eb-90ea-d1e329a9bf1f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=905fdd38-0800-4366-bb4d-061b4b329fac&userId=&serverSideAds=true
-
-
-#EXTINF:-1 channel-id="pluto-tv-filmes-nacionais" tvg-logo="http://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="pluto", Pluto TV Filmes Nacionais
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5762a61-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8784fb7f-5209-406d-b66a-2fe035ee1a18&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="pluto-tv-cine-classicos" tvg-logo="http://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="pluto", Pluto TV Cine Clássicos
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=4695e280-acb8-11eb-b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e935fe-ebd6-46aa-b461-c274c57e2791&userId=&serverSideAds=true
 
 
 #EXTINF:-1 channel-id="pluto-tv-retro-2" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto", Pluto TV Retrô
