@@ -457,6 +457,10 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTop.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/924a95780d68bc853f7d1508593df1e7.webp" group-title="MUSICAS", Rock TV HD
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/chunklist_w1817808246.m3u8
 
+#EXTINF:-1 tvg-id="BIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh68OFu5WnaShIWS3meY5ABUdEfO2M2niVBT3FR8sLI0m15GZfemfMCwY3x7WalNuz4pOHiwSdJizUFntJUCKyNKXM8xLPjlJ5ukzWeocwvHW3bKMqw1nnLhKl6GA03b6Z9fFNETQknzcaLhiY-4Nzx-K1YPbxHmIf_AkhGSVNLBj0tKyDJrk9kANUE/s1600/bis.png" group-title="MUSICAS",BIS
+https://server100.online/bis/index.m3u8?token=f3c5757bf1dd5220a6d40e032a981f5e56d44031-192ca3a333a9b5e74fd7aa33134db902-1679774540-1679770940&remote=206.84.34.247
+
+
 #EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEy7yWHiwi3OisMMDHXSBW_b_icqsBUH7sZA&usqp=CAU" group-title="MUSICAS",TV União de Natal
 https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
 
@@ -474,6 +478,7 @@ https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m
 
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://tudoradio.com/img/uploads/radios/63d71ce554798.png" group-title="MUSICAS",JC FM
 https://evpp.mm.uol.com.br/ne10/ne10-jcfm-recife-audio-web.sdp/chunklist_w593685851.m3u8
+
 
 
 ########################################################################################
@@ -849,6 +854,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d
 
 #EXTINF:-1 channel-id="pluto-tv-karaoke-por-stingray" tvg-logo="http://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="pluto", Pluto TV Karaokê por Stingray
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d75b870-c883-11eb-a960-3d434807f51f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7876551-8061-467d-8397-c6677dbb61db&userId=&serverSideAds=true
+
+
 
 
 #########################################################################################
