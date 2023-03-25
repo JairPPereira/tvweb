@@ -4,39 +4,6 @@
 ### Canais Variedades
 
 
-
-#EXTINF:-1 group-title="Variedades" tvg-id="TVFAAP.br" tvg-name="TV FAAP" tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png", TV FAAP
-#EXTGRP:Variedades
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="XPlusTV.br" tvg-name="X Plus TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3887b3ba2258769221444dbb4e42a93d.webp", X Plus TV
-#EXTGRP:Variedades
-https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png", Adesso TV
-#EXTGRP:Variedades
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="AllegroWebTV.br" tvg-name="Allegro WebTV" tvg-logo="https://i.imgur.com/7iSmccE.png", Allegro WebTV
-#EXTGRP:Variedades
-https://livefocamundo.com:8081/allegrowebtv/index.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="AlphaChannel.br" tvg-name="Alpha Channel" tvg-logo="https://i.imgur.com/c1QqslA.png", Alpha Channel
-#EXTGRP:Variedades
-https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="AmazonSat.br" tvg-name="Amazon Sat" tvg-logo="https://i.imgur.com/7rjCS5i.png", Amazon Sat
-#EXTGRP:Variedades
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="ArarunaTV.br" tvg-name="Araruna TV" tvg-logo="https://i.imgur.com/jl39ula.png", Araruna TV
-#EXTGRP:Variedades
-https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="BemTV.br" tvg-name="Bem TV" tvg-logo="https://i.imgur.com/ifGQGJx.png", Bem TV
-#EXTGRP:Variedades
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades" tvg-id="BoaVontadeTV.br" tvg-name="Boa Vontade TV" tvg-logo="https://i.imgur.com/Ms5tSgu.png", Boa Vontade TV
 #EXTGRP:Variedades
 https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
