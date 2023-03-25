@@ -5,34 +5,6 @@
 
 
 
-#EXTINF:-1 group-title="Variedades" tvg-id="DMaisTV.br" tvg-name="D+ TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg", D+ TV
-#EXTGRP:Variedades
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="TVCarioca.br" tvg-name="TV Carioca" tvg-logo="https://i.imgur.com/mVWydMw.png", TV Carioca
-#EXTGRP:Variedades
-https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w1671699610.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="UrbanTV.br" tvg-name="Urban TV" tvg-logo="https://urbantv.com.br/canais/logo-urbantv.jpg", Urban TV
-#EXTGRP:Variedades
-https://stream.urbantv.com.br/urbantv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="LassTV.br" tvg-name="Lass TV" tvg-logo="https://i.imgur.com/Emaofdr.png", Lass TV
-#EXTGRP:Variedades
-https://streaming03.zas.media:1936/lasstv/lasstv/master.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="RedeNGT.br" tvg-name="Rede NGT" tvg-logo="https://i.imgur.com/ZFN1R4B.png", Rede NGT
-#EXTGRP:Variedades
-https://acesso.ecast.site:3922/live/redengtlive.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="RedeCloneTV.br" tvg-name="Rede Clone TV" tvg-logo="https://pa-str.srvsite.com/arquivos/7030/cabecalho-7030-20220101031230.jpg", Rede Clone TV
-#EXTGRP:Variedades
-https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w1016549565.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="ISTV.br" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
-#EXTGRP:Variedades
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
-
 #EXTINF:-1 group-title="Variedades" tvg-id="TVFAAP.br" tvg-name="TV FAAP" tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png", TV FAAP
 #EXTGRP:Variedades
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
