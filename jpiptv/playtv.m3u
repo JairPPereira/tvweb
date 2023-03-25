@@ -272,6 +272,9 @@ https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e5NwTWwNgSuxhCV8bg5VLP5OWbfHeQeypQ&usqp=CAU" group-title="variedades",TVE Bahia HD
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
+#EXTINF:-1 tvg-id="TVT.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tvt_m.png" group-title="variedades", TVT
+https://stream-04.sv4.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G477XU8IfgWxxumlGl8_MX48-Dn5eHQLAiVCHKW6ZGWN)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lsv4
+
 ##################################################################################
 
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="RELIGIOSOS",TV Novo Tempo
@@ -322,6 +325,9 @@ http://hidra.live:80/Diego/Diego/304093
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifByy4OrmR7aFdFrRDHaTdj3E-WHrmybRBADqo_D-JrkVkGAPgO5JmH9c8NRtjprYZQ4PJ4ERGI6VNXruNKFCt__ivEQoaGJcMRUL9NiV7gb1824_CiupMSxdOFMlnrlfOhlraRckOtYtGDUIG58MVYE-mzLJact5Ucj_3mQ8lAwsRUKYJU5OY_0qM/s1600/cnn.png" group-title="jornalismo",CNN
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1048115623.m3u8
+
+#EXTINF:-1 tvg-id="CNN PORTUGAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifByy4OrmR7aFdFrRDHaTdj3E-WHrmybRBADqo_D-JrkVkGAPgO5JmH9c8NRtjprYZQ4PJ4ERGI6VNXruNKFCt__ivEQoaGJcMRUL9NiV7gb1824_CiupMSxdOFMlnrlfOhlraRckOtYtGDUIG58MVYE-mzLJact5Ucj_3mQ8lAwsRUKYJU5OY_0qM/s1600/cnn.png" group-title="jornalismo",CNN PORTUGAL
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIzIDk6MTM6MjYgUE0maGFzaF92YWx1ZT1xekxpUUgyYXZUVEFETGIySmFlUmRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTBlOGNlYjktMWIwNi00ZTE5LThiMjEtYjBhMDY2Mzg1Njkz/
 
 #EXTINF:-1 tvg-id="Bandnews" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcPKDunvBWSp76kmJQoyRySeSJrw5QpaZQBd5BvYcseaxM29sw66vFSDnCmVwOMY9gN4mACpS8ZCqgponfvA3dJx4ddsAahKuv76J2yKL8V-e6ptDojmsktNXW1pyE1frV1IozdiYcdbtNCI0bnK31YEpoUes5tqgQ3a7iTYD2LkcwGidng8eIFDui/s1600/band-news-.png" group-title="jornalismo",Bandnews
 https://live.embedflix.net/p2p/bandnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDQ6MDA6MTQgUE0maGFzaF92YWx1ZT05TXI0Z2FENGpqTnlPQkNWVlFnRUF3PT0mdmFsaWRtaW51dGVzPTkw
