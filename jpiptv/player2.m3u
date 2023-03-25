@@ -1,15 +1,9 @@
-#EXTM3U refresh="3600" x-tvg-url="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml.gz,https://i.mjh.nz/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" tvg-url="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml.gz,https://i.mjh.nz/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
+
 
 
 ### Canais Variedades
 
-#EXTINF:-1 group-title="Variedades" tvg-id="VilaTV.br" tvg-name="Vila TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b6989c697a1327a22d41bf4ff435320b.webp", Vila TV
-#EXTGRP:Variedades
-https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w461895884.m3u8
 
-#EXTINF:-1 group-title="Variedades" tvg-id="BCCTV.br" tvg-name="BCC TV" tvg-logo="https://i.imgur.com/6M73DBe.png", BCC TV
-#EXTGRP:Variedades
-https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="TVCancaoNova.br" tvg-name="TV Canção Nova" tvg-logo="https://cdn.mitvstatic.com/channels/br_canc-o-nova_m.png", TV Canção Nova
 #EXTGRP:Variedades
@@ -619,23 +613,10 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679789685/ei/E
 #EXTGRP:Variedades
 https://stream-01.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vzOV6nREwKdVIaAuFwFlpz7KppHmltGahwRRE_-TiN4D)/dm/3/x89qors/d/live-4.m3u8#cell=lsv4
 
-#EXTINF:-1 group-title="Variedades" tvg-id="TVT.br" tvg-name="TVT" tvg-logo="https://cdn.mitvstatic.com/channels/br_tvt_m.png", TVT
-#EXTGRP:Variedades
-https://stream-04.sv4.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G477XU8IfgWxxumlGl8_MX48-Dn5eHQLAiVCHKW6ZGWN)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lsv4
 
 ### Canais Filmes
 
-#EXTINF:-1 group-title="Filmes" tvg-id="CindieLite" tvg-name="Cindie Lite" tvg-logo="https://imgur.com/RaSZCuy.png", Cindie Lite
-#EXTGRP:Filmes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
 
-#EXTINF:-1 group-title="Filmes" tvg-id="FronteiraMovies" tvg-name="Fronteira Movies" tvg-logo="https://i.imgur.com/qpPZJWy.png", Fronteira Movies
-#EXTGRP:Filmes
-https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
-
-#EXTINF:-1 group-title="Filmes" tvg-id="MyTimemovienetworkBrazil.br" tvg-name="MyTime Movie Network Brazil" tvg-logo="https://i.imgur.com/pw4NZK1.png", MyTime Movie Network Brazil
-#EXTGRP:Filmes
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes" tvg-id="RunTime.br" tvg-name="RunTime" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_1920x1080_0.jpg", RunTime
 #EXTGRP:Filmes
@@ -765,13 +746,9 @@ http://168.205.87.198:8555/live/4666/123456/143.m3u8
 #EXTGRP:Infantil
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-id="NickClassico.br" tvg-name="Nick Classico" tvg-logo="https://i.imgur.com/Crip6wT.png", Nick Classico
-#EXTGRP:Infantil
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
 
-#EXTINF:-1 group-title="Infantil" tvg-id="NickJrClubBrazil.br" tvg-name="Nick Jr Club Brazil" tvg-logo="https://i.imgur.com/GCenuyl.png", Nick Jr Club Brazil
-#EXTGRP:Infantil
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+
 
 #EXTINF:-1 group-title="Infantil" tvg-id="BabyBus.br" tvg-name="Baby Bus" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-z-KRyClup--esKMFo5aOruxVnrOBACXid_otlnw=s176-c-k-c0x00ffffff-no-rj", Baby Bus
 #EXTGRP:Infantil
@@ -961,9 +938,7 @@ https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTGRP:Entretenimento
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 
-#EXTINF:-1 group-title="Entretenimento" tvg-id="PlutoTVRetroBrazil.br" tvg-name="Pluto TV Retro Brazil" tvg-logo="https://i.imgur.com/wztO3GM.png", Pluto TV Retro Brazil
-#EXTGRP:Entretenimento
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 
 #EXTINF:-1 group-title="Entretenimento" tvg-id="RedeMundoTV.br" tvg-name="Rede Mundo TV" tvg-logo="https://i.imgur.com/2dsnTGd.png", Rede Mundo TV
 #EXTGRP:Entretenimento
@@ -1131,13 +1106,7 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 
 ### Canais Educação
 
-#EXTINF:-1 group-title="Educação" tvg-id="PlutoTVNaturezaBrazil.br" tvg-name="Pluto TV Natureza Brazil" tvg-logo="https://i.imgur.com/RuyQQ6M.png", Pluto TV Natureza Brazil
-#EXTGRP:Educação
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="Educação" tvg-id="PlutoTVVidaRealBrazil.br" tvg-name="Pluto TV Vida Real Brazil" tvg-logo="https://i.imgur.com/dRbBbxP.png", Pluto TV Vida Real Brazil
-#EXTGRP:Educação
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="Educação" tvg-id="RedeMinas.br" tvg-name="Rede Minas" tvg-logo="https://i.imgur.com/MtQWAHv.png", Rede Minas
 #EXTGRP:Educação

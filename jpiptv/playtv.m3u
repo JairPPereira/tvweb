@@ -275,6 +275,9 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-id="TVT.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tvt_m.png" group-title="variedades", TVT
 https://stream-04.sv4.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G477XU8IfgWxxumlGl8_MX48-Dn5eHQLAiVCHKW6ZGWN)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lsv4
 
+#EXTINF:-1 tvg-id="BCCTV.br" tvg-logo="https://i.imgur.com/6M73DBe.png" group-title="variedades", BCC TV
+https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
+
 ##################################################################################
 
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="RELIGIOSOS",TV Novo Tempo
@@ -442,6 +445,9 @@ https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Clc.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="filmesseries" , GLN TV HD
 https://stmv1.paineltv.net/glnpluto/glnpluto/chunklist_w735783764.m3u8
+
+#EXTINF:-1 tvg-id="MyTimemovienetworkBrazil.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="filmesseries", MyTime Movie Network Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 
 
