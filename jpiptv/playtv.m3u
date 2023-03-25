@@ -275,8 +275,11 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-id="TVT.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tvt_m.png" group-title="variedades", TVT
 https://stream-04.sv4.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G477XU8IfgWxxumlGl8_MX48-Dn5eHQLAiVCHKW6ZGWN)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lsv4
 
-#EXTINF:-1 tvg-id="BCCTV.br" tvg-logo="https://i.imgur.com/6M73DBe.png" group-title="variedades", BCC TV
+#EXTINF:-1 tvg-id="BCCTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW9ULAj6R2AVjqKwJthQoGg9G4PAb6B5QvgU5yfpRqc2YHR1laG8nLdAyJbrKuO6GmE9znFCm0j2_S4vV1cEKSN1Onlu1AJ7v1kMVLWpS6dy5ngS8fFlbnY_TkjA8NRGn9toyZ6gOkvLlBKafl--iC35YqAs60CpKh_vvuR4Ne4tIbjaMeNokew6PH/s1600/bbc.png" group-title="variedades", BCC TV
 https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
+
+#EXTINF:-1 tvg-name="D+ TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="variedades", D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 ##################################################################################
 

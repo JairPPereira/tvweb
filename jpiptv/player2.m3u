@@ -5,10 +5,6 @@
 
 
 
-#EXTINF:-1 group-title="Variedades" tvg-id="TVCancaoNova.br" tvg-name="TV Canção Nova" tvg-logo="https://cdn.mitvstatic.com/channels/br_canc-o-nova_m.png", TV Canção Nova
-#EXTGRP:Variedades
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades" tvg-id="DMaisTV.br" tvg-name="D+ TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg", D+ TV
 #EXTGRP:Variedades
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
