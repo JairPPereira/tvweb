@@ -3,6 +3,8 @@
 #################################################################################
 #
 
+#EXTINF:-1 tvg-id="RECORD BELEM SD" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="variedades", RECORD BELEM SD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/416567
 
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="variedades",TV Marajoara
 https://video01.kshost.com.br/tv31966/tv31966/chunklist_w1874400382.m3u8

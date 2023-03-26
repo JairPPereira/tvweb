@@ -142,13 +142,6 @@ http://213.13.23.132/shls/LIVE%24SIC_K.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/1200px-Globo_logo_and_wordmark.svg.png" group-title="Canais: Ao Vivo",GLOBO PORTUGAL HD
-
-http://s846397078.mialojamiento.es/w2jy/mp.php/https://gintna100.tulix.tv/gin_live/globo/de65fa4336bd83e4947465e37de04808/6261af07/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="Canais: Ao Vivo",MULTISHOW HD
-
-http://189.16.194.19:8010/12/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Canal_Viva_logo_2014.png/revision/latest/scale-to-width-down/200?cb=20140519221457" group-title="Canais: Ao Vivo",VIVA HD
 
@@ -787,8 +780,7 @@ http://suatv.fun:80/canaisp2p/mudar@2021j45/415565
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415566
 #EXTINF:-1 tvg-id="" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account967-i968/channel/83/thumb_gln_tv1-1639779049.png" group-title="CANAIS | FILMES & SÉRIES", GLN TV
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415312
-#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO PRESIDENTE PRUDENTE SP HD
-http://suatv.fun:80/canaisp2p/mudar@2021j45/416537
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO BAHIA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416453
 #EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO BAHIA HD
@@ -1335,8 +1327,7 @@ http://suatv.fun:80/canaisp2p/mudar@2021j45/415710
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415711
 #EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE CLUBES SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415712
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD BELEM SD
-http://suatv.fun:80/canaisp2p/mudar@2021j45/416567
+
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD BRASILIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416558
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD BRASILIA SD
