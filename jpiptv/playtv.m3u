@@ -342,17 +342,33 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 tvg-id="ALINEALIENÍGENAS DO PASSADO" tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="jornalismo", (OFFA)ALINEALIENÍGENAS DO PASSADO 24 HRS HD
 http://lxls.mx:80/giselebello/80754546/333123
 
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f08eba3f-2fc8-4316-80f7-92db3f925330" group-title="jornalismo", ID - INVESTIGACAO DISCOVERY FHD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415409
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f08eba3f-2fc8-4316-80f7-92db3f925330" group-title="jornalismo", ID - INVESTIGACAO DISCOVERY HD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415410
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f08eba3f-2fc8-4316-80f7-92db3f925330" group-title="jornalismo", ID - INVESTIGACAO DISCOVERY SD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415411
+
+
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÃ‡AO DISCOVERY H265" tvg-logo="https://imgur.com/qOaMR06.png" group-title="jornalismo",INVESTIGAÇÃO DISCOVERY H265
 http://sukitam.bccdn.xyz:80/5478627347829pw/78782385893pw/257
 
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY H265" tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="jornalismo",HISTORY H265
 http://sukitam.bccdn.xyz:80/5478627347829pw/78782385893pw/255
 
-#EXTINF:-1 tvg-id="GLOBONEWS" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd67d008-2597-4820-8417-0f69e1bdc018" group-title="jornalismo",GLOBONEWS
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd67d008-2597-4820-8417-0f69e1bdc018" group-title="jornalismo", GLOBO NEWS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415617
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd67d008-2597-4820-8417-0f69e1bdc018" group-title="jornalismo", GLOBO NEWS HD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415618
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd67d008-2597-4820-8417-0f69e1bdc018" group-title="jornalismo", GLOBO NEWS SD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415619
 
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/fbe670ad-8e7e-41f2-9f77-6ef809bb741e" group-title="jornalismo",BANDNEWS
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415617
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/fbe670ad-8e7e-41f2-9f77-6ef809bb741e" group-title="jornalismo", BAND NEWS FHD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415609
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/fbe670ad-8e7e-41f2-9f77-6ef809bb741e" group-title="jornalismo", BAND NEWS HD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415610
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/fbe670ad-8e7e-41f2-9f77-6ef809bb741e" group-title="jornalismo", BAND NEWS SD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415611
 
 #################################################################################
 
