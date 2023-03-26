@@ -326,11 +326,6 @@ https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
 #EXTINF:-1 tvg-id="Band SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="jornalismo",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w375796097.m3u8
 
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="jornalismo",Globo SP
-https://br.embedflix.net/p2p/globosp_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIzIDExOjUyOjU0IEFNJmhhc2hfdmFsdWU9K1F4eXA0VlNsaFRvc2drN2ljc0FvZz09JnZhbGlkbWludXRlcz05MA==
-
-#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="jornalismo",Globo RJ
-https://br.embedflix.net/p2p/globorj_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIzIDI6MDU6NDEgUE0maGFzaF92YWx1ZT1oQ2NKbnJhclN4RTRlYnVQY1g4RjdBPT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-id="Globonews" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPYMT0MjKOlEw4aJp8wor903H1RCM88TB-zss7Kh-qZvuDTxrNZ_bW6Atd8vO9DNGxpzXFFLV3dwwGMh_A8EkxKgZU5nlycEPF6_X4-naILM_djZN1bjslu8Q6YbONwuKDksgoky2pO5Sddt_ASGSFsbr6XhfIrU59vfbJRmc5aNZVGl_pC9PInio/s1600/globonews.png" group-title="jornalismo",Globonews
 http://hidra.live:80/Diego/Diego/304093
@@ -341,15 +336,10 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1048115623.m3u8
 #EXTINF:-1 tvg-id="CNN PORTUGAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifByy4OrmR7aFdFrRDHaTdj3E-WHrmybRBADqo_D-JrkVkGAPgO5JmH9c8NRtjprYZQ4PJ4ERGI6VNXruNKFCt__ivEQoaGJcMRUL9NiV7gb1824_CiupMSxdOFMlnrlfOhlraRckOtYtGDUIG58MVYE-mzLJact5Ucj_3mQ8lAwsRUKYJU5OY_0qM/s1600/cnn.png" group-title="jornalismo",CNN PORTUGAL
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIzIDk6MTM6MjYgUE0maGFzaF92YWx1ZT1xekxpUUgyYXZUVEFETGIySmFlUmRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTBlOGNlYjktMWIwNi00ZTE5LThiMjEtYjBhMDY2Mzg1Njkz/
 
-#EXTINF:-1 tvg-id="Bandnews" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcPKDunvBWSp76kmJQoyRySeSJrw5QpaZQBd5BvYcseaxM29sw66vFSDnCmVwOMY9gN4mACpS8ZCqgponfvA3dJx4ddsAahKuv76J2yKL8V-e6ptDojmsktNXW1pyE1frV1IozdiYcdbtNCI0bnK31YEpoUes5tqgQ3a7iTYD2LkcwGidng8eIFDui/s1600/band-news-.png" group-title="jornalismo",Bandnews
-https://live.embedflix.net/p2p/bandnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDQ6MDA6MTQgUE0maGFzaF92YWx1ZT05TXI0Z2FENGpqTnlPQkNWVlFnRUF3PT0mdmFsaWRtaW51dGVzPTkw
 
-#EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IbdfHLH7MYq3l3nbG6igDZZ_qfjBXmBHg0WCYc3_5hMRC0nMGB3ZybdtAwI9YLcLlm6FSOOE5XC017x17UwzIXOk5lrMOIVHRG2dlKI78IT5OuxvucPivSM8Uhyenx_XRZKCD0tjHgAELuwBowPtkyfvIXgKUSEVb2OWmR96CpqYDgUR9LGFuNfd/s1600/id.jpg" group-title="jornalismo",INVESTIGAÇÃO DISCOVERY
-https://live.embedflix.net/p2p/discoveryinvesticacao/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDQ6MDA6MTQgUE0maGFzaF92YWx1ZT05TXI0Z2FENGpqTnlPQkNWVlFnRUF3PT0mdmFsaWRtaW51dGVzPTkw
 
-#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN_cO5HRPVwZ3NUCt00mqu3EbcvZXVugqh93RkV3It6RcaCn6OHr3aYVcI3nYsXKVs8T6eI0TgmzXi2m4sXeGoCYgE_UDTVRLG2HqvOLnn-xbYVFObgXYcSOB45ZaREvIxp-I13DFDKUq5mVMGG0UeCPCfB0Gi4gAIgQAiyQD1gdX0f7R746xNW7Sa/s1600/history.jpg" group-title="jornalismo",HISTORY CHANNEL
-https://live.embedflix.net/p2p/history/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIzIDU6NDY6MTMgUE0maGFzaF92YWx1ZT1EajRXa0JDR1d4V1RMZzRpclhZbWVnPT0mdmFsaWRtaW51dGVzPTkw
-
+#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="Canais: Cine 24 Horas", (OFFA)ALINEALIENÍGENAS DO PASSADO 24 HRS HD
+http://lxls.mx:80/giselebello/80754546/333123
 
 #################################################################################
 
@@ -457,6 +447,9 @@ https://stmv1.paineltv.net/glnpluto/glnpluto/chunklist_w735783764.m3u8
 
 #EXTINF:-1 tvg-id="MyTimemovienetworkBrazil.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="filmesseries", MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Do2h2Cayvm-vnKpypV5LrhingWAIbWCyb_HnMrrPxYCJbgDA0Se1lMaMZ5D4M7WFO_y1OboJXTwtlOdTzVUhw8Hh5TT5Tsrwz_cWlmdJydKyFZHzPC24Nu8GIiEON6TCv-O0ISMwUG08icES4QpL8SNZA36pOMtMpMOk0dfx62Cge3cFadPvylWZ/s1600/A&e.png" group-title="filmesseries", A&E
+http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 
 
 
