@@ -338,7 +338,7 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 
 
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="Canais: Cine 24 Horas", (OFFA)ALINEALIENÍGENAS DO PASSADO 24 HRS HD
+#EXTINF:-1 tvg-id="ALINEALIENÍGENAS DO PASSADO" tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="jornalismo", (OFFA)ALINEALIENÍGENAS DO PASSADO 24 HRS HD
 http://lxls.mx:80/giselebello/80754546/333123
 
 #################################################################################
@@ -450,6 +450,12 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Do2h2Cayvm-vnKpypV5LrhingWAIbWCyb_HnMrrPxYCJbgDA0Se1lMaMZ5D4M7WFO_y1OboJXTwtlOdTzVUhw8Hh5TT5Tsrwz_cWlmdJydKyFZHzPC24Nu8GIiEON6TCv-O0ISMwUG08icES4QpL8SNZA36pOMtMpMOk0dfx62Cge3cFadPvylWZ/s1600/A&e.png" group-title="filmesseries", A&E
 http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV UTV" tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="filmesseries",TV UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV UTV" tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="filmesseries", Dc Super Heróis 
+http://lxls.mx:80/giselebello/80754546/333082
 
 
 
