@@ -292,6 +292,9 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.
 #EXTINF:-1 tvg-id="TVFAAP.br" tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="variedades", TV FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
+#EXTINF:-1 tvg-id="TV Ecovale" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e70c975e99231b8099ca4746ee95def4.webp" group-title="variedades",TV Ecovale
+https://livefocamundo.com:8081/tvecovale/index.m3u8
+
 ##################################################################################
 
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="RELIGIOSOS",TV Novo Tempo
