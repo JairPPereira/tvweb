@@ -607,6 +607,9 @@ https://livefocamundo.com:8081/tvjsid/index.m3u8
 #EXTINF:-1 tvg-id="X PLUS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3887b3ba2258769221444dbb4e42a93d.webp" group-title="filmesseries",X PLUS TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1c515ec353cb03545f409372154bda0.webp" group-title="filmesseries",CTV
+https://stmv1.samcast.com.br/ctvpb/ctvpb/playlist.m3u8
+
 #################################################################################
 
 #EXTM3U
