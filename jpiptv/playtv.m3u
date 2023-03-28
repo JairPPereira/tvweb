@@ -544,17 +544,35 @@ http://lxls.mx:80/giselebello/80754546/333088
 #EXTINF:-1 tvg-id="Vintage" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="filmesseries",Vintage
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Classique Tv Séries - As Panteras" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4e3f4bcc688730924a61bc674b7572ea.webp" group-title="filmesseries",Classique Tv Séries - As Panteras
+https://stmv1.painelvideo.top/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Classique Tv Séries 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2facd9de3a888b8015197f7e7adfb318.webp" group-title="filmesseries",Classique Tv Séries 1
+https://stmv1.painelvideo.top/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Classique Tv Séries 2 - Mulher Biônica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ba01cfb31f2f6c1454c516059c60cb64.webp" group-title="filmesseries",Classique Tv Séries 2 - Mulher Biônica
+https://stmv1.painelvideo.top/tvserie2/tvserie2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Classique Tv Séries 3 - Star Trek" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/84c2ddb734b85aa88eeea1c6c516c4c6.webp" group-title="filmesseries",Classique Tv Séries 3 - Star Trek
 https://stmv1.painelvideo.top/tvserie3/tvserie3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Classique Tv Séries 4 - CHIPS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ec0f355b12888557f7926dbe2ff3bb52.webp" group-title="filmesseries",Classique Tv Séries 4 - CHIPS
 https://stmv1.painelvideo.top/tvserie4/tvserie4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Classique Tv Séries 5 - Hogan's Heroes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bbf68ab6be6c58903b3f0737ce6eed5.webp" group-title="filmesseries",Classique Tv Séries 5 - Hogan's Heroes
+https://stmv1.painelvideo.top/tvserie5/tvserie5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Classique Tv Séries 6 - Os 3 Patetas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/88278c8e5588e84dfcb48f1c7cab15b7.webp" group-title="filmesseries",Classique Tv Séries 6 - Os 3 Patetas
+https://stmv1.painelvideo.top/tvserie6/tvserie6/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Classique Tv Séries 7 - Agente 86" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc1a086ab2f117cc51882b40c75c0818.webp" group-title="filmesseries",Classique Tv Séries 7 - Agente 86
 https://stmv1.painelvideo.top/tvserie7/tvserie7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv Lagoa Dantas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/275fb37c30d000f0632a8b53100d64a3.webp" group-title="filmesseries",Tv Lagoa Dantas
 https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Seven Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e88e1950283368c120eafef714100a94.webp" group-title="filmesseries",Seven Tv
+https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/playlist.m3u8
 
 #################################################################################
 
