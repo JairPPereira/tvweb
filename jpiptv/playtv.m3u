@@ -544,8 +544,17 @@ http://lxls.mx:80/giselebello/80754546/333088
 #EXTINF:-1 tvg-id="Vintage" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="filmesseries",Vintage
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Classique Tv Séries 3 - Star Trek" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/84c2ddb734b85aa88eeea1c6c516c4c6.webp" group-title="filmesseries",Classique Tv Séries 3 - Star Trek
+https://stmv1.painelvideo.top/tvserie3/tvserie3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Classique Tv Séries 4 - CHIPS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ec0f355b12888557f7926dbe2ff3bb52.webp" group-title="filmesseries",Classique Tv Séries 4 - CHIPS
 https://stmv1.painelvideo.top/tvserie4/tvserie4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Classique Tv Séries 7 - Agente 86" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc1a086ab2f117cc51882b40c75c0818.webp" group-title="filmesseries",Classique Tv Séries 7 - Agente 86
+https://stmv1.painelvideo.top/tvserie7/tvserie7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Lagoa Dantas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/275fb37c30d000f0632a8b53100d64a3.webp" group-title="filmesseries",Tv Lagoa Dantas
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/playlist.m3u8
 
 #################################################################################
 
