@@ -298,6 +298,9 @@ https://livefocamundo.com:8081/tvecovale/index.m3u8
 #EXTINF:-1 tvg-id="Viva Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8936ceb865591bcc9ace180f253fc697.webp" group-title="variedades",Viva Web Tv
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tv Jundiaí Hoje" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ccd5d090f6ea0cba0074898bfbd531f8.webp" group-title="variedades",Tv Jundiaí Hoje
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
+
 ##################################################################################
 
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="RELIGIOSOS",TV Novo Tempo
@@ -609,6 +612,18 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1c515ec353cb03545f409372154bda0.webp" group-title="filmesseries",CTV
 https://stmv1.samcast.com.br/ctvpb/ctvpb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Cidade Alagoinha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ff33415434b73a0e1c62a152823692eb.webp" group-title="filmesseries",Tv Cidade Alagoinha
+https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Top Mix Tv Filmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp" group-title="filmesseries",Top Mix Tv Filmes
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLITS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/92c871be35b8395afbb31f8986691c2a.webp" group-title="filmesseries",BLITS TV
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv San Jones" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/537b7bfa3696a217efb0547326947c91.webp" group-title="filmesseries",Tv San Jones
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/playlist.m3u8
 
 #################################################################################
 
@@ -978,6 +993,9 @@ https://cdn.jmvstream.com/w/AVJ-13048/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV EreNews" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5e187c45177e852534ded7b600bb80e6.webp" group-title="MUSICAS",TV EreNews
 https://stmv1.samcast.com.br/erenews/erenews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABC Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0e6b2a8234bf98dd9e50342cbe7631f9.webp" group-title="MUSICAS",ABC Brasil
+https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
 
 
 
