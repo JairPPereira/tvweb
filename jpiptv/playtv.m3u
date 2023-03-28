@@ -1068,7 +1068,13 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 
 
 ########################################################################################
-#EXTM3U
+
+#EXTINF:-1 tvg-id="O Grande Ditador" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ypiEVkeQd8NxI7AabS8eGkjNBf6.jpg" group-title="Filmes ondemand",O Grande Ditador
+https://siloh.pluto.tv/c6009f_pluto/clip/60782e17f96a44001a1d8285_Charlie_Chaplin_O_Grande_Ditador_BR/720p/20210415_051416/hls/0-end/master.m3u8
+
+
+########################################################################################
+
 
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="pluto" tvg-chno="58", Pluto TV Adrenalina Freezone
 https://stitcher.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
