@@ -295,6 +295,9 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-id="TV Ecovale" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e70c975e99231b8099ca4746ee95def4.webp" group-title="variedades",TV Ecovale
 https://livefocamundo.com:8081/tvecovale/index.m3u8
 
+#EXTINF:-1 tvg-id="Viva Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8936ceb865591bcc9ace180f253fc697.webp" group-title="variedades",Viva Web Tv
+https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
+
 ##################################################################################
 
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="RELIGIOSOS",TV Novo Tempo
@@ -582,6 +585,27 @@ https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rede Ipitanga" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/867c0ef7cbc08c5c0a33659a864724e8.webp" group-title="filmesseries",Rede Ipitanga
 https://video01.logicahost.com.br/redeipitangatv/redeipitangatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teleweb TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/175ff7f1895b189b5af2bd0bcca2134f.webp" group-title="filmesseries",Teleweb TV
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Runtime Ação" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="filmesseries",Runtime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-id="Runtime Comédia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="filmesseries",Runtime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-id="Tv Jornal do Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9d7d1a4b47e3583e7c715cafee8cbd02.webp" group-title="filmesseries",Tv Jornal do Nordeste
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w309686598.m3u8
+
+#EXTINF:-1 tvg-id="CHANNEL 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc7b83a5a19d96b87517b1e95e9b0565.webp" group-title="filmesseries",CHANNEL 1
+https://stmv1.painelvideo.top/channel1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv J.SID" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f24b1cd1064865c050503ea604e4526a.webp" group-title="filmesseries",Tv J.SID
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+
+#EXTINF:-1 tvg-id="X PLUS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3887b3ba2258769221444dbb4e42a93d.webp" group-title="filmesseries",X PLUS TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
 #################################################################################
 
