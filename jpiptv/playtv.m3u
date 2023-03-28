@@ -404,6 +404,9 @@ https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u
 #EXTINF:-1 tvg-id="TVídeoNews" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/58399bd0987147a2d4380e3a8cdbee1c.webp" group-title="Documentário",TVídeoNews
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w795471484.m3u8
 
+#EXTINF:-1 tvg-id="Rede Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ede7e5de6ca676517ca7197759c16e7.webp" group-title="Documentário",Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+
 ##################################################################################
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="esportes",All Sports
@@ -573,6 +576,9 @@ https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Seven Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e88e1950283368c120eafef714100a94.webp" group-title="filmesseries",Seven Tv
 https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Ipitanga" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/867c0ef7cbc08c5c0a33659a864724e8.webp" group-title="filmesseries",Rede Ipitanga
+https://video01.logicahost.com.br/redeipitangatv/redeipitangatv/playlist.m3u8
 
 #################################################################################
 
@@ -936,6 +942,12 @@ http://5ce.co:80/Ctina2718/Tina3619/10739
 
 #EXTINF:-1 tvg-id="HITS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3e22ba0cc070c700e71e3c51dcb810dc.webp" group-title="MUSICAS",HITS
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Caraguá TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a866d989c5bdf80ebf3d8cc759d8e13b.webp" group-title="MUSICAS",Caraguá TV
+https://cdn.jmvstream.com/w/AVJ-13048/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV EreNews" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5e187c45177e852534ded7b600bb80e6.webp" group-title="MUSICAS",TV EreNews
+https://stmv1.samcast.com.br/erenews/erenews/playlist.m3u8
 
 
 
