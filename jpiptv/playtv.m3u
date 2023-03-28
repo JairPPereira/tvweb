@@ -328,6 +328,15 @@ http://150.162.188.10:8080/hls/1.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGwMcJ7ufK30g/company-logo_200_200/0/1607367403080?e=2147483647&v=beta&t=7nuZ-cKgeRFfveg2kf1qw7Hitanl7Tb0Sb4Ez0P6tfc" group-title="variedades",TVE ES
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV Metropole" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cb11c7b420ed0d82de6c3403ee72f3d9.webp" group-title="variedades",TV Metropole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Difusora" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fd082a2640b45935b4d9fed13af5a966.webp" group-title="variedades",TV Difusora
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-id="TV Cidade Verde (SBT PI)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ce8f1a9e2406d2acde94e2ac5d0f671.webp" group-title="variedades",TV Cidade Verde (SBT PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
 ##################################################################################
 
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="RELIGIOSOS",TV Novo Tempo
@@ -657,6 +666,12 @@ https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv San Jones" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/537b7bfa3696a217efb0547326947c91.webp" group-title="filmesseries",Tv San Jones
 https://video01.kshost.com.br:4443/marilia2344/marilia2344/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Clube Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c15e9e9796912ff00a4717b498485b36.webp" group-title="filmesseries",Tv Clube Web
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f42f76db35b114255012a25cbe113942.webp" group-title="filmesseries",Tv Nordeste
+https://cdn.jmvstream.com/w/AVJ-13064/playlist/playlist.m3u8
 
 #################################################################################
 
@@ -1030,6 +1045,14 @@ https://stmv1.samcast.com.br/erenews/erenews/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0e6b2a8234bf98dd9e50342cbe7631f9.webp" group-title="MUSICAS",ABC Brasil
 https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV Santa Cecilia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/689f8e1fbf539be1c6e2a36b9283b324.webp" group-title="MUSICAS",TV Santa Cecilia
+https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RBS Mix Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/84463693ae7ed42ff27b10a658f53089.webp" group-title="MUSICAS",RBS Mix Web Tv
+https://video01.kshost.com.br:4443/ezequiel3930/ezequiel3930/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BRASIL TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5adc78157bd91d3c67e63aa294d9308c.webp" group-title="MUSICAS",BRASIL TV
+https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 
 
 ########################################################################################
@@ -1547,8 +1570,7 @@ https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV IBATE
 https://5eaa6849d0971.streamlock.net/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV CLUBE WEB
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
 #EXTINF:-1 tvg-id="UTV.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",UTV
 https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",REDE SPTV
