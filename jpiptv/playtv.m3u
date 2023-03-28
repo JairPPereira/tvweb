@@ -452,6 +452,9 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w795471484.m3u
 #EXTINF:-1 tvg-id="Rede Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ede7e5de6ca676517ca7197759c16e7.webp" group-title="Documentário",Rede Família
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
+#EXTINF:-1tvg-name="24HNews"tvg-logo="https://i.imgur.com/E88lXpq.png"group-title="Documentário",24HNews
+http://5ce.co:80/Ctina2718/Tina3619/180729
+
 ##################################################################################
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="esportes",All Sports
@@ -672,6 +675,15 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f42f76db35b114255012a25cbe113942.webp" group-title="filmesseries",Tv Nordeste
 https://cdn.jmvstream.com/w/AVJ-13064/playlist/playlist.m3u8
+
+#EXTINF:-1tvg-name="Entretendo"tvg-logo="https://i.imgur.com/KRufjqn.png"group-title="filmesseries",Entretendo
+http://5ce.co:80/Ctina2718/Tina3619/180811
+
+#EXTINF:-1tvg-name="BoraFilmes"tvg-logo="https://i.imgur.com/2wwjoHt.png"group-title="filmesseries",BoraFilmes
+http://5ce.co:80/Ctina2718/Tina3619/180812
+
+#EXTINF:-1tvg-name="hello!TV"tvg-logo="https://i.imgur.com/G4KzfCz.png"group-title="filmesseries",hello!TV
+http://5ce.co:80/Ctina2718/Tina3619/180813
 
 #################################################################################
 
