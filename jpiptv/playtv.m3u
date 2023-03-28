@@ -471,6 +471,12 @@ https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/pl
 
 
 #################################################################################
+
+#EXTINF:-1tvg-name="CinemaxSD"tvg-logo="http://70.ms/hh"group-title="filmesseries",CinemaxSD
+http://5ce.co:80/Ctina2718/Tina3619/6626
+#EXTINF:-1tvg-name="CinemaxSDÂ²"tvg-logo="http://70.ms/93"group-title="filmesseries",CinemaxSDÂ²
+http://5ce.co:80/Ctina2718/Tina3619/10854
+
 #EXTINF:-1 tvg-id="Rede Clone" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title="filmesseries",Rede Clone
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1786527374.m3u8
 
