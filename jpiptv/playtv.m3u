@@ -544,6 +544,9 @@ http://lxls.mx:80/giselebello/80754546/333088
 #EXTINF:-1 tvg-id="Vintage" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="filmesseries",Vintage
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Classique Tv Séries 4 - CHIPS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ec0f355b12888557f7926dbe2ff3bb52.webp" group-title="filmesseries",Classique Tv Séries 4 - CHIPS
+https://stmv1.painelvideo.top/tvserie4/tvserie4/playlist.m3u8
+
 #################################################################################
 
 #EXTM3U
