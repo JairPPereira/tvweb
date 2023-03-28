@@ -301,6 +301,33 @@ https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Jundiaí Hoje" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ccd5d090f6ea0cba0074898bfbd531f8.webp" group-title="variedades",Tv Jundiaí Hoje
 https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="variedades",MASTER TV PR
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5da6ab4e1fd0705a19bfe1fdeee3520d.webp" group-title="variedades",PLAN TV
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d68075bb4ed2f1d6007671fbc2756d91.webp" group-title="variedades",TV POCOS
+https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8beb9f24c539ff0a79fdafc042ab1403.webp" group-title="variedades",UNISUL TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmKRV2jYwbDAey8u4phUI-LozeZ2W7AMzTmymV5M9fEXMUuonh6RQePNfqgqPAWLhgcM&usqp=CAU" group-title="variedades",TV BELTRAO 2
+https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunklist_w1662797829.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb6da5dab7f3e21853e5719473fc29f0.webp" group-title="variedades",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ca34efac059ef73b4ab2d90322fc32d1.webp" group-title="variedades",TV SDB
+https://novo.bitstreaming.info:1936/8094/8094/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a4c933dfab023e2eea432cfd61479b1e.webp" group-title="variedades",TV UFSC
+http://150.162.188.10:8080/hls/1.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGwMcJ7ufK30g/company-logo_200_200/0/1607367403080?e=2147483647&v=beta&t=7nuZ-cKgeRFfveg2kf1qw7Hitanl7Tb0Sb4Ez0P6tfc" group-title="variedades",TVE ES
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
 ##################################################################################
 
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="RELIGIOSOS",TV Novo Tempo
@@ -1377,28 +1404,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078
 
 
 #########################################################################################
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",MASTER TV PR
-http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",PLAN TV
-https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV POCOS
-https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",UNISUL TV
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV BELTRAO 2
-https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunklist_w1662797829.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV SDB
-https://novo.bitstreaming.info:1936/8094/8094/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV UFSC
-http://150.162.188.10:8080/hls/1.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TVE ES
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV CHROMA
 https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
