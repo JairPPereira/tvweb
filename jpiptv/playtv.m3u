@@ -1069,8 +1069,18 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 
 ########################################################################################
 
+#EXTINF:-1 tvg-id="Com Amor, Van Gogh" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pw72rhXTRbIel6iNWKHUqiIvcZm.jpg" group-title="Filmes ondemand",Com Amor, Van Gogh
+https://siloh.pluto.tv/387_pluto/clip/62f3cad1362313001aa839fd_Com_Amor_Van_Gogh/720p/20220810_081217/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Em Busca do Ouro" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/b1CqhyaeY5VNIQkVa3MQmvNDAof.jpg
+" group-title="Filmes ondemand",Em Busca do Ouro
+https://siloh.pluto.tv/c6009f_pluto/clip/603d4c90e7c979001a88e2ab_Charlie_Chaplin_Em_busca_do_ouro_BR/720p/20210301_122032/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Luzes da Cidade" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/q3vMcFPcLL0jClcAYG5iFEwL3eE.jpg" group-title="Filmes ondemand",Luzes da Cidade
 https://siloh.pluto.tv/c6009f_pluto/clip/603d4c8de7c979001a88e275_Charlie_Chaplin_Luzes_da_Cidade_BR/720p/20210301_122029/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Metrópolis" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/nqKCVGDseM4uDFTTOn2hbsxk2TP.jpg" group-title="Filmes ondemand",Metrópolis
+https://siloh.pluto.tv/c6009f_pluto/clip/5fda5c919a5870001a436bd9_Metropolis_BR/720p/20201216_111426/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="O Garoto" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8DR5wvUYaSF234MnDi9ruEQOIdJ.jpg" group-title="Filmes ondemand",O Garoto
 https://siloh.pluto.tv/c6009f_pluto/clip/605dfa3ab58b22001a473cba_The_Kid_BR/720p/20210326_081403/hls/0-end/master.m3u8
