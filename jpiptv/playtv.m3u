@@ -1029,11 +1029,18 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Com Amor, Van Gogh" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pw72rhXTRbIel6iNWKHUqiIvcZm.jpg" group-title="Filmes ondemand",Com Amor, Van Gogh
 https://siloh.pluto.tv/387_pluto/clip/62f3cad1362313001aa839fd_Com_Amor_Van_Gogh/720p/20220810_081217/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Donnie Darko" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg" group-title="Filmes ondemand",Donnie Darko
+https://siloh.pluto.tv/b451ae_CDC/clip/5f5be476638b1800139e89ff_Donnie_Darko_BR/720p/20200911_141226/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Em Busca do Ouro" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/b1CqhyaeY5VNIQkVa3MQmvNDAof.jpg" group-title="Filmes ondemand",Em Busca do Ouro
 https://siloh.pluto.tv/c6009f_pluto/clip/603d4c90e7c979001a88e2ab_Charlie_Chaplin_Em_busca_do_ouro_BR/720p/20210301_122032/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Fogo Contra Fogo" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cv1ZuY874Q0uqFkURO8hjI2471z.jpg" group-title="Filmes ondemand",Fogo Contra Fogo
 https://siloh.pluto.tv/c6009f_pluto/clip/5fc7a64b99839e0013e0cd95_Fire_With_Fire_BR/720p/20201202_063555/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Interlúdio" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aGlxyjWBNWN2PnMnQdPpFn8qEij.jpg" group-title="Filmes ondemand",Interlúdio
+https://siloh.pluto.tv/c6009f_pluto/clip/5fda5c8f9a5870001a436b9f_Interludio_BR/720p/20201216_111424/hls/0-end/master.m3u8
+
 
 #EXTINF:-1 tvg-id="Luzes da Cidade" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/q3vMcFPcLL0jClcAYG5iFEwL3eE.jpg" group-title="Filmes ondemand",Luzes da Cidade
 https://siloh.pluto.tv/c6009f_pluto/clip/603d4c8de7c979001a88e275_Charlie_Chaplin_Luzes_da_Cidade_BR/720p/20210301_122029/hls/0-end/master.m3u8
