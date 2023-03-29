@@ -1036,6 +1036,9 @@ https://siloh.pluto.tv/b451ae_CDC/clip/5f5be476638b1800139e89ff_Donnie_Darko_BR/
 #EXTINF:-1 tvg-id="Em Busca do Ouro" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/b1CqhyaeY5VNIQkVa3MQmvNDAof.jpg" group-title="Filmes ondemand",Em Busca do Ouro
 https://siloh.pluto.tv/c6009f_pluto/clip/603d4c90e7c979001a88e2ab_Charlie_Chaplin_Em_busca_do_ouro_BR/720p/20210301_122032/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Farrapo Humano" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3rXzGi1BqzSPMeIjvu8WxXDQGLa.jpg" group-title="Filmes ondemand",Farrapo Humano
+https://siloh.pluto.tv/c6009f_pluto/clip/602e956f558c290014f9043f_Farrapo_Humano_BR/720p/20210218_082728/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Fogo Contra Fogo" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cv1ZuY874Q0uqFkURO8hjI2471z.jpg" group-title="Filmes ondemand",Fogo Contra Fogo
 https://siloh.pluto.tv/c6009f_pluto/clip/5fc7a64b99839e0013e0cd95_Fire_With_Fire_BR/720p/20201202_063555/hls/0-end/master.m3u8
 
