@@ -688,50 +688,6 @@ http://ncw.one:80/Marcelotorres/20torres20tv/98643
 
 #################################################################################
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Mosaico 
-http://conexaoonline.top:80/0516768562/1814541802/291553
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Mosaico 
-http://conexaoonline.top:80/0516768562/1814541802/291540
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Mosaico HD
-http://conexaoonline.top:80/0516768562/1814541802/291556
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Mosaico FHD
-http://conexaoonline.top:80/0516768562/1814541802/291542
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Acompanhe a casa SD
-http://conexaoonline.top:80/0516768562/1814541802/287635
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Acompanhe a casa HD
-http://conexaoonline.top:80/0516768562/1814541802/287636
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Acompanhe a casa 
-http://conexaoonline.top:80/0516768562/1814541802/291555
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Acompanhe a casa 
-http://conexaoonline.top:80/0516768562/1814541802/291557
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Acompanhe a casa 2
-http://conexaoonline.top:80/0516768562/1814541802/291558
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Deserto 
-http://conexaoonline.top:80/0516768562/1814541802/291529
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Deserto 
-http://conexaoonline.top:80/0516768562/1814541802/291530
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Deserto 
-http://conexaoonline.top:80/0516768562/1814541802/291541
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Deserto 
-http://conexaoonline.top:80/0516768562/1814541802/291554
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Fundo do Mar 
-http://conexaoonline.top:80/0516768562/1814541802/291535
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Fundo do Mar 
-http://conexaoonline.top:80/0516768562/1814541802/291537
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Cozinha 
-http://conexaoonline.top:80/0516768562/1814541802/291531
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Cozinha 
-http://conexaoonline.top:80/0516768562/1814541802/291533
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Cozinha 
-http://conexaoonline.top:80/0516768562/1814541802/291552
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Cozinha 2
-http://conexaoonline.top:80/0516768562/1814541802/291534
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Sala 
-http://conexaoonline.top:80/0516768562/1814541802/291532
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Sala 2
-http://conexaoonline.top:80/0516768562/1814541802/291538
 
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Mosaico 
 http://conexaoonline.top:80/0646577379/5675861259/291553
