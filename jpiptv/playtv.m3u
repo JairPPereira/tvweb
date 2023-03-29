@@ -1045,6 +1045,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fc7a64b99839e0013e0cd95_Fire_With_Fire
 #EXTINF:-1 tvg-id="Interlúdio" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aGlxyjWBNWN2PnMnQdPpFn8qEij.jpg" group-title="Filmes ondemand",Interlúdio
 https://siloh.pluto.tv/c6009f_pluto/clip/5fda5c8f9a5870001a436b9f_Interludio_BR/720p/20201216_111424/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Invasores - Nenhum Sistema Está à Salvo" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9sML6FGEDVPg1ecAWHmX03xg1O.jpg" group-title="Filmes ondemand",Invasores - Nenhum Sistema Está à Salvo
+https://siloh.pluto.tv/133_A2Films/clip/62f56c7442b796001bbf7b35_Who_Am_I_BR/720p/20220818_123027/hls/0-end/master.m3u8
+
 
 #EXTINF:-1 tvg-id="Luzes da Cidade" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/q3vMcFPcLL0jClcAYG5iFEwL3eE.jpg" group-title="Filmes ondemand",Luzes da Cidade
 https://siloh.pluto.tv/c6009f_pluto/clip/603d4c8de7c979001a88e275_Charlie_Chaplin_Luzes_da_Cidade_BR/720p/20210301_122029/hls/0-end/master.m3u8
@@ -1060,6 +1063,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/605dfa3ab58b22001a473cba_The_Kid_BR/720
 
 #EXTINF:-1 tvg-id="O Grande Ditador" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ypiEVkeQd8NxI7AabS8eGkjNBf6.jpg" group-title="Filmes ondemand",O Grande Ditador
 https://siloh.pluto.tv/c6009f_pluto/clip/60782e17f96a44001a1d8285_Charlie_Chaplin_O_Grande_Ditador_BR/720p/20210415_051416/hls/0-end/master
+
+#EXTINF:-1 tvg-id="O Substituto" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/rDxner1rHIJenlmSQUDP05yGGCO.jpg" group-title="Filmes ondemand",O Substituto
+https://siloh.pluto.tv/839_Sofa_Digital/clip/63654c66bc198f001335e4c2_O_Substituto/720p/20221107_104539/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Rush: No Limite da Emoção" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/va0WgAJBvrdIUnr0uetSqidNG6N.jpg" group-title="Filmes ondemand",Rush: No Limite da Emoção
 https://siloh.pluto.tv/984_California_Films_P/clip/63977336c6197800138b1ded_Rush_BR/720p/20221212_125255/hls/0-end/master.m3u8
