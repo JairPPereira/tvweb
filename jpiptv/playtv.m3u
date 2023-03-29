@@ -1055,7 +1055,10 @@ https://siloh.pluto.tv/9d7f35_Nirvana/clip/5fe9f548636004001a795054_Nosferatu_BR
 https://siloh.pluto.tv/c6009f_pluto/clip/605dfa3ab58b22001a473cba_The_Kid_BR/720p/20210326_081403/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="O Grande Ditador" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ypiEVkeQd8NxI7AabS8eGkjNBf6.jpg" group-title="Filmes ondemand",O Grande Ditador
-https://siloh.pluto.tv/c6009f_pluto/clip/60782e17f96a44001a1d8285_Charlie_Chaplin_O_Grande_Ditador_BR/720p/20210415_051416/hls/0-end/master.m3u8
+https://siloh.pluto.tv/c6009f_pluto/clip/60782e17f96a44001a1d8285_Charlie_Chaplin_O_Grande_Ditador_BR/720p/20210415_051416/hls/0-end/master.
+
+#EXTINF:-1 tvg-id="Samurai X 3: O Fim de Uma Lenda" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tqrrpQR77e6uWOsigAYjl7JBTwm.jpg" group-title="Filmes ondemand",Samurai X 3: O Fim de Uma Lenda
+https://siloh.pluto.tv/069_pluto/clip/630e2cf88762280014a2872b_Samurai_X_3_BR/720p/20220830_083000/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Tempos Modernos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ewqW0uEx1FztaRSvJQqH4pxHecZ.jpg" group-title="Filmes ondemand",Tempos Modernos
 https://siloh.pluto.tv/c6009f_pluto/clip/6001c5ac6d0bea001b05ebe0_Charlie_Chaplin_Tempos_Modernos_BR/720p/20210115_084116/hls/0-end/master.m3u8
