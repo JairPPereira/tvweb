@@ -339,22 +339,22 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 
 ##################################################################################
 
-#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="RELIGIOSOS",TV Novo Tempo
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="Religioso",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Século 21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXuL_DJFsAuv-WzUnMni-KIQGG171A_4O5SLueVn75MKw4EYOvtuCBvFJQ6Os0Gmr4V4lVR7jmLUXJa2EDnVn9nGwhMw3hA4OVYIM-6Sajg-ZrPCicv2nNY4rf4Vie4HDSgVSfJ-buy96k8jPLWIOUQDrtB88HJUnP2OnjR0YYeJnbjc4WowyiFZ49=s200" group-title="RELIGIOSOS",TV Século 21
+#EXTINF:-1 tvg-id="TV Século 21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXuL_DJFsAuv-WzUnMni-KIQGG171A_4O5SLueVn75MKw4EYOvtuCBvFJQ6Os0Gmr4V4lVR7jmLUXJa2EDnVn9nGwhMw3hA4OVYIM-6Sajg-ZrPCicv2nNY4rf4Vie4HDSgVSfJ-buy96k8jPLWIOUQDrtB88HJUnP2OnjR0YYeJnbjc4WowyiFZ49=s200" group-title="Religioso",TV Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv Boas Novas" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgsHvhOKzzBbKjnZ53gIEW4GbyhlANiXTuFzsGYmpiwfX4D4-nbywik-J8A4LFN5VmUyI4oH2_qgQHteFdQXyuHFYE207Q05THqyOsZp9N6JfSoto-61BT3fzyeQ6oi7A9qDH0Kxwn1sSs5sx8RQQMeTDZMGPbEiaIG1w-S3QG_RWovmGaIUgHXHL4W=s200" group-title="RELIGIOSOS",Tv Boas Novas
+#EXTINF:-1 tvg-id="Tv Boas Novas" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgsHvhOKzzBbKjnZ53gIEW4GbyhlANiXTuFzsGYmpiwfX4D4-nbywik-J8A4LFN5VmUyI4oH2_qgQHteFdQXyuHFYE207Q05THqyOsZp9N6JfSoto-61BT3fzyeQ6oi7A9qDH0Kxwn1sSs5sx8RQQMeTDZMGPbEiaIG1w-S3QG_RWovmGaIUgHXHL4W=s200" group-title="Religioso",Tv Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv IMPD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="RELIGIOSOS",Tv IMPD
+#EXTINF:-1 tvg-id="Tv IMPD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="Religioso",Tv IMPD
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCITVCOMUNICACOESINTERATIVASLTDA.br"  tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-l5XdA59qWpjppvB16DYj9z8bYarcqe5aaG8jpnA=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", TVCI HD
+#EXTINF:-1 tvg-id="TVCITVCOMUNICACOESINTERATIVASLTDA.br"  tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-l5XdA59qWpjppvB16DYj9z8bYarcqe5aaG8jpnA=s900-c-k-c0x00ffffff-no-rj" group-title="Religioso", TVCI HD
 https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgabutR5PnQaoDe45Nu7TqZbciBnehmfofLg&usqp=CAU" group-title="RELIGIOSOS", Rede Gospel HD 
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgabutR5PnQaoDe45Nu7TqZbciBnehmfofLg&usqp=CAU" group-title="Religioso", Rede Gospel HD 
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeEstacao.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZuJlWyJ2YLEi-GCuScjTSxrN79ocxJRzY7w&usqp=CAU" group-title="Religioso", Rede Estação HD
