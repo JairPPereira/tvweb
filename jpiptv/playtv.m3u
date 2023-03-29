@@ -1048,6 +1048,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/603d4c8de7c979001a88e275_Charlie_Chapli
 #EXTINF:-1 tvg-id="Metrópolis" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/nqKCVGDseM4uDFTTOn2hbsxk2TP.jpg" group-title="Filmes ondemand",Metrópolis
 https://siloh.pluto.tv/c6009f_pluto/clip/5fda5c919a5870001a436bd9_Metropolis_BR/720p/20201216_111426/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Nosferatu" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3MI2hME5h1yrGAT2eWjXaeHf89e.jpg" group-title="Filmes ondemand",Nosferatu
+https://siloh.pluto.tv/9d7f35_Nirvana/clip/5fe9f548636004001a795054_Nosferatu_BR/720p/20201228_072008/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="O Garoto" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8DR5wvUYaSF234MnDi9ruEQOIdJ.jpg" group-title="Filmes ondemand",O Garoto
 https://siloh.pluto.tv/c6009f_pluto/clip/605dfa3ab58b22001a473cba_The_Kid_BR/720p/20210326_081403/hls/0-end/master.m3u8
 
