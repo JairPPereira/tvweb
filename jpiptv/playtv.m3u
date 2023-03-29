@@ -1072,6 +1072,10 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-id="O Grande Ditador" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ypiEVkeQd8NxI7AabS8eGkjNBf6.jpg" group-title="Filmes ondemand",O Grande Ditador
 https://siloh.pluto.tv/c6009f_pluto/clip/60782e17f96a44001a1d8285_Charlie_Chaplin_O_Grande_Ditador_BR/720p/20210415_051416/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Luzes da Cidade" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/q3vMcFPcLL0jClcAYG5iFEwL3eE.jpg" group-title="Filmes ondemand",Luzes da Cidade
+https://siloh.pluto.tv/c6009f_pluto/clip/603d4c8de7c979001a88e275_Charlie_Chaplin_Luzes_da_Cidade_BR/720p/20210301_122029/hls/0-end/master.m3u8
+
+
 
 ########################################################################################
 
