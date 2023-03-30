@@ -542,6 +542,27 @@ https://stream.urbantv.com.br/urbantvsports/video.m3u8
 #EXTINF:-1 tvg-id="RSNewsSports.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp" group-title="esportes", RS News Sports
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
 
+#EXTINF:-1tvg-name="ESPNHD"tvg-logo="http://70.ms/6w"group-title="ESPN",ESPNHD
+http://5ce.co:80/Ctina2718/Tina3619/6589
+#EXTINF:-1tvg-name="ESPNHDÂ²"tvg-logo="http://70.ms/hW"group-title="ESPN",ESPNHDÂ²
+http://5ce.co:80/Ctina2718/Tina3619/6887
+#EXTINF:-1tvg-name="ESPN2HD"tvg-logo="http://70.ms/68"group-title="ESPN",ESPN2HD
+http://5ce.co:80/Ctina2718/Tina3619/6587
+#EXTINF:-1tvg-name="ESPN2HDÂ²"tvg-logo="http://70.ms/6t"group-title="ESPN",ESPN2HDÂ²
+http://5ce.co:80/Ctina2718/Tina3619/6591
+#EXTINF:-1tvg-name="ESPN3HD"tvg-logo="https://i.imgur.com/HBenz7T.png"group-title="ESPN",ESPN3HD
+http://5ce.co:80/Ctina2718/Tina3619/10824
+#EXTINF:-1tvg-name="ESPN3HDÂ²"tvg-logo="https://i.imgur.com/HBenz7T.png"group-title="ESPN",ESPN3HDÂ²
+http://5ce.co:80/Ctina2718/Tina3619/26156
+#EXTINF:-1tvg-name="ESPN4HD"tvg-logo="http://70.ms/6F"group-title="ESPN",ESPN4HD
+http://5ce.co:80/Ctina2718/Tina3619/6577
+#EXTINF:-1tvg-name="ESPN4HDÂ²"tvg-logo="http://70.ms/5x"group-title="ESPN",ESPN4HDÂ²
+http://5ce.co:80/Ctina2718/Tina3619/10809
+#EXTINF:-1tvg-name="ESPNExtraHD"tvg-logo="http://70.ms/To"group-title="ESPN",ESPNExtraHD
+http://5ce.co:80/Ctina2718/Tina3619/26159
+#EXTINF:-1tvg-name="ESPNExtraHDÂ²"tvg-logo="http://70.ms/Te"group-title="ESPN",ESPNExtraHDÂ²
+http://5ce.co:80/Ctina2718/Tina3619/26158
+
 
 #################################################################################
 
@@ -743,12 +764,26 @@ http://5ce.co:80/Ctina2718/Tina3619/180812
 #EXTINF:-1tvg-name="hello!TV"tvg-logo="https://i.imgur.com/G4KzfCz.png"group-title="filmesseries",hello!TV
 http://5ce.co:80/Ctina2718/Tina3619/180813
 
-#EXTINF:-1tvg-name="A GRANDE FAMILIA"tvg-logo="http://dns.ulttv.xyz/i/24horas.png"group-title="filmesseries",A GRANDE FAMILIA
+#EXTINF:-1tvg-name="A GRANDE FAMILIA"tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="filmesseries",A GRANDE FAMILIA
 http://ncw.one:80/Marcelotorres/20torres20tv/98643
 
-#EXTINF:-1 tvg-id="TV CEI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/937135af086f7ac9580df4a30ffe8a05.webp" group-title="",TV CEI
+#EXTINF:-1 tvg-id="TV CEI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/937135af086f7ac9580df4a30ffe8a05.webp" group-title="filmesseries",TV CEI
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/playlist.m3u8
 
+#EXTINF:-1 group-title="24HRS DESENHOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="filmesseries",[24H] CAVERNA DO DRAGÃO
+http://ncw.one:80/Marcelotorres/20torres20tv/97848
+
+#EXTINF:-1 group-title="24HRS SÉRIES E PROGRAMAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="filmesseries",[24H] DR. HOUSE
+http://ncw.one:80/Marcelotorres/20torres20tv/98639
+
+#EXTINF:-1 group-title="24HRS SÉRIES E PROGRAMAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="filmesseries",[24H] GREY’S ANATOMY
+http://ncw.one:80/Marcelotorres/20torres20tv/97832
+
+#EXTINF:-1 group-title="24HRS SÉRIES E PROGRAMAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="filmesseries",[24H] OS TRAPALHOES
+http://ncw.one:80/Marcelotorres/20torres20tv/97838
+
+#EXTINF:-1 group-title="24HRS SÉRIES E PROGRAMAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="filmesseries",[24H] TOMA LA DA CA
+http://ncw.one:80/Marcelotorres/20torres20tv/98648
 
 #################################################################################
 
