@@ -27,6 +27,14 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Paraense (SBT Castanhal)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="",Tv Paraense (SBT Castanhal)
 https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
 
+#EXTINF:-1 tvg-id="Web TV Vale do Uruará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7858a37ec72de29670e36bb32cdd20f6.webp" group-title="",Web TV Vale do Uruará
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Curuai Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/359e181812362a0eb2598ccb19c0b233.webp" group-title="",Tv Curuai Web
+https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="AgrobrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="variedades",Agrobrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
@@ -400,6 +408,30 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jp" group-title="Religioso", Boa Vontade TV
 https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
 
+#EXTINF:-1 tvg-id="CBC TV Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b3b5afe27476830a9e64bac1464ad976.webp" group-title="",CBC TV Gospel
+https://tv01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Espírita Do Paraná" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b600878cd0711a5417b2e0b2162a451.webp" group-title="",Tv Espírita Do Paraná
+https://srv4.zcast.com.br/rodney2576/rodney2576/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Universal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1d8fb419ad2b89ff1302e149a9774bc5.webp" group-title="",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Confiego" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc4f4fddc2330b377037d229aee44942.webp" group-title="",Tv Confiego
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TOP MIX TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ab499d9cc282fd063424971ef738fec.webp" group-title="",TOP MIX TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fonte TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c99ffdca1366ea084333c569452200e.webp" group-title="",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Rede Tv Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/010ea72aa1b8cc6bab3db313a2cafd37.webp" group-title="",Rede Tv Família
+https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
+
+
 
 ####################################################################################
 
@@ -711,6 +743,10 @@ http://5ce.co:80/Ctina2718/Tina3619/180813
 
 #EXTINF:-1tvg-name="A GRANDE FAMILIA"tvg-logo="http://dns.ulttv.xyz/i/24horas.png"group-title="filmesseries",A GRANDE FAMILIA
 http://ncw.one:80/Marcelotorres/20torres20tv/98643
+
+#EXTINF:-1 tvg-id="TV CEI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/937135af086f7ac9580df4a30ffe8a05.webp" group-title="",TV CEI
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/playlist.m3u8
+
 
 #################################################################################
 
