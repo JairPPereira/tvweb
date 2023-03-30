@@ -1049,6 +1049,9 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 
 ########################################################################################
 
+#EXTINF:-1 tvg-id="A Dama de Shanghai" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/whqdqWavNMSoeXTx1X3DauO1LG6.jpg" group-title="Filmes ondemand",A Dama de Shanghai
+https://siloh.pluto.tv/9d7f35_Nirvana/clip/6130bfa6cd24a600155bba0d_A_Dama_de_Shanghai_BR/720p/20210902_053131/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="A Dama Oculta" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5i8O9fZFltfDjcOF18g5Fyf1fAm.jpg" group-title="Filmes ondemand",A Dama Oculta
 https://siloh.pluto.tv/c6009f_pluto/clip/607869ec33e416001a40d6bc_A_Dama_Oculta_BR/720p/20210415_092933/hls/0-end/master.m3u8
 
@@ -1077,17 +1080,19 @@ https://siloh.pluto.tv/c6009f_pluto/clip/602e956f558c290014f9043f_Farrapo_Humano
 #EXTINF:-1 tvg-id="Fogo Contra Fogo" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cv1ZuY874Q0uqFkURO8hjI2471z.jpg" group-title="Filmes ondemand",Fogo Contra Fogo
 https://siloh.pluto.tv/c6009f_pluto/clip/5fc7a64b99839e0013e0cd95_Fire_With_Fire_BR/720p/20201202_063555/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Interlúdio" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aGlxyjWBNWN2PnMnQdPpFn8qEij.jpg" group-title="Filmes ondemand",Interlúdio
+https://siloh.pluto.tv/c6009f_pluto/clip/5fda5c8f9a5870001a436b9f_Interludio_BR/720p/20201216_111424/hls/0-end/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Invasores - Nenhum Sistema Está à Salvo" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9sML6FGEDVPg1ecAWHmX03xg1O.jpg" group-title="Filmes ondemand",Invasores - Nenhum Sistema Está à Salvo
+https://siloh.pluto.tv/133_A2Films/clip/62f56c7442b796001bbf7b35_Who_Am_I_BR/720p/20220818_123027/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Jejum de Amor" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6NYUaf2zkPJrR3P7Da0kmkZ6sX9.jpg" group-title="Filmes ondemand",Jejum de Amor
 https://siloh.pluto.tv/c6009f_pluto/clip/6124f627d24f5e00135e9d04_Jejum_de_Amor_BR/720p/20210824_063743/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Jornada nas Estrelas II: A Ira de Khan" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/b9FyLkPyIXqZC1IunApc6e7xJ6l.jpg" group-title="Filmes ondemand",Jornada nas Estrelas II: A Ira de Khan
 https://siloh.pluto.tv/c6009f_pluto/clip/5fdcaca00983410013ddc2d4_STAR_TREK_II_THE_WRATH_OF_KHAN_BR/720p/20201218_052032/hls/0-end/master.m3u8
 
-#EXTINF:-1 tvg-id="Interlúdio" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aGlxyjWBNWN2PnMnQdPpFn8qEij.jpg" group-title="Filmes ondemand",Interlúdio
-https://siloh.pluto.tv/c6009f_pluto/clip/5fda5c8f9a5870001a436b9f_Interludio_BR/720p/20201216_111424/hls/0-end/master.m3u8
-
-#EXTINF:-1 tvg-id="Invasores - Nenhum Sistema Está à Salvo" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9sML6FGEDVPg1ecAWHmX03xg1O.jpg" group-title="Filmes ondemand",Invasores - Nenhum Sistema Está à Salvo
-https://siloh.pluto.tv/133_A2Films/clip/62f56c7442b796001bbf7b35_Who_Am_I_BR/720p/20220818_123027/hls/0-end/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Luzes da Cidade" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/q3vMcFPcLL0jClcAYG5iFEwL3eE.jpg" group-title="Filmes ondemand",Luzes da Cidade
@@ -1113,6 +1118,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/600ae5a1ce98800013ec532e_MACHINIST_THE_
 
 #EXTINF:-1 tvg-id="O Substituto" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/rDxner1rHIJenlmSQUDP05yGGCO.jpg" group-title="Filmes ondemand",O Substituto
 https://siloh.pluto.tv/839_Sofa_Digital/clip/63654c66bc198f001335e4c2_O_Substituto/720p/20221107_104539/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Operação Condor: Um Kickboxer Muito Louco" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8TzrZsXbDrhfLQjr6nnwTkcQobM.jpg" group-title="Filmes ondemand",Operação Condor: Um Kickboxer Muito Louco
+https://siloh.pluto.tv/c6009f_pluto/clip/5fa95cd89d991c001a9ccb9b_Armadura_de_deus_2_BR/720p/20201109_071432/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Os 39 Degraus" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/oFD9uJqWAuW09MVWCLifokJQNhj.jpg" group-title="Filmes ondemand",Os 39 Degraus
 https://siloh.pluto.tv/c6009f_pluto/clip/607834a333e416001a40d40d_39_degraus_BR/720p/20210415_054211/hls/0-end/master.m3u8
@@ -1141,7 +1149,7 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fbe774cc8c57d00131b7cbe_Walk_To_Rememb
 #EXTINF:-1 tvg-id="Viagem à Lua" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/r5Ru9t6KTNl8iXA7BOSBz5nvZIS.jpg" group-title="Filmes ondemand",Viagem à Lua
 https://siloh.pluto.tv/c6009f_pluto/clip/5ffef0d72816a5001aa03a5e_A_Viagem_a_Lua_BR/720p/20210113_050840/hls/0-end/master.m3u8
 
-#EXTINF:-1 tvg-id="Charada" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jQTYxU77m39U51mENi5fXGsQQrD.jpg" group-title="Filmes ondemand",Xeque-Mate
+#EXTINF:-1 tvg-id="Xeque-Mate" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jQTYxU77m39U51mENi5fXGsQQrD.jpg" group-title="Filmes ondemand",Xeque-Mate
 https://siloh.pluto.tv/496_pluto/clip/6310d59d6e998c0013311ece_Lucky_Number_Slevin_BR/720p/20220901_085405/hls/0-end/master.m3u8
 
 
