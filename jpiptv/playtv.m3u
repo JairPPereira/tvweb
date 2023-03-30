@@ -3,8 +3,6 @@
 #################################################################################
 #
 
-#EXTINF:-1 tvg-name="GloboTVLiberalBelemSD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg"group-title="variedades",GloboTVLiberalBelemSD
-http://5ce.co:80/Ctina2718/Tina3619/35747
 #EXTINF:-1tvg-name="GloboTVLiberalBelemSDÂ²"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg"group-title="variedades",GloboTVLiberalBelemSDÂ²
 http://5ce.co:80/Ctina2718/Tina3619/35931
 
@@ -452,9 +450,6 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 
 
 
-#EXTINF:-1 tvg-id="ALINEALIENÍGENAS DO PASSADO" tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="jornalismo", (OFFA)ALINEALIENÍGENAS DO PASSADO 24 HRS HD
-http://lxls.mx:80/giselebello/80754546/333123
-
 #EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f08eba3f-2fc8-4316-80f7-92db3f925330" group-title="jornalismo", ID - INVESTIGACAO DISCOVERY FHD
 http://5ce.co:80/Ctina2718/Tina3619/6546
 #EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f08eba3f-2fc8-4316-80f7-92db3f925330" group-title="jornalismo", ID - INVESTIGACAO DISCOVERY HD
@@ -485,6 +480,16 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 http://5ce.co:80/Ctina2718/Tina3619/6549
 #EXTINF:-1tvg-name="TheHistoryChannelSDÂ²"tvg-logo="http://70.ms/53"group-title="jornalismo",TheHistoryChannelSDÂ²
 http://5ce.co:80/Ctina2718/Tina3619/10758
+
+#EXTINF:-1tvg-name="TheHistoryChannelHD"tvg-logo="http://70.ms/Z4"group-title="DOCUMENTARIOS",TheHistoryChannelHD
+http://5ce.co:80/Ctina2718/Tina3619/6550
+#EXTINF:-1tvg-name="TheHistoryChannelHDÂ²"tvg-logo="http://70.ms/hL"group-title="DOCUMENTARIOS",TheHistoryChannelHDÂ²
+http://5ce.co:80/Ctina2718/Tina3619/6905
+
+#EXTINF:-1tvg-name="H2HD"tvg-logo="http://70.ms/6d"group-title="DOCUMENTARIOS",H2HD
+http://5ce.co:80/Ctina2718/Tina3619/6561
+#EXTINF:-1tvg-name="H2HDÂ²"tvg-logo="http://70.ms/5y"group-title="DOCUMENTARIOS",H2HDÂ²
+http://5ce.co:80/Ctina2718/Tina3619/10769
 
 
 #################################################################################
@@ -636,23 +641,20 @@ http://lxls.mx:80/giselebello/80754546/333082
 #EXTINF:-1 tvg-id="CANAL 10 FOZ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhygbluSV5nkEAr8Jiah_CJeLvZ68G74pW2iARYXHyni5mYPw8Qq9p476_NwC7XDVWOzYSbeUDX_txUd6YJ_zNjJ3_RDR6U1zp3-m8xBJAND2YeQ2VqBYrQ70zIsJ7pLhXPqo-a752tbTj9coDru7GNUgrLHjLd5MpmA34UqVW9QPk1u5DYvtzZwSmI/s1600/FOX.webp" group-title="filmesseries",CANAL 10 FOZ
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="filmesseries",SKY CINEMA 
-http://lxls.mx:80/giselebello/80754546/333093
-
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="filmesseries",SKY CINEMA 
-http://lxls.mx:80/giselebello/80754546/333092
-
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="filmesseries",SKY CINEMA 
-http://lxls.mx:80/giselebello/80754546/333091
-
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="filmesseries",SKY CINEMA 
-http://lxls.mx:80/giselebello/80754546/333090
-
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="filmesseries",SKY CINEMA 
-http://lxls.mx:80/giselebello/80754546/333089
-
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="filmesseries",SKY CIMNEMA
-http://lxls.mx:80/giselebello/80754546/333088
+#EXTINF:-1tvg-name="CineSKY1Â²"tvg-logo="https://i.imgur.com/coKcRXM.png"group-title="CINESKY",CineSKY1Â²
+http://5ce.co:80/Ctina2718/Tina3619/95848
+#EXTINF:-1tvg-name="CineSKY2Â²"tvg-logo="https://i.imgur.com/coKcRXM.png"group-title="CINESKY",CineSKY2Â²
+http://5ce.co:80/Ctina2718/Tina3619/95849
+#EXTINF:-1tvg-name="CineSKY3Â²"tvg-logo="https://i.imgur.com/coKcRXM.png"group-title="CINESKY",CineSKY3Â²
+http://5ce.co:80/Ctina2718/Tina3619/95850
+#EXTINF:-1tvg-name="CineSKY4Â²"tvg-logo="https://i.imgur.com/coKcRXM.png"group-title="CINESKY",CineSKY4Â²
+http://5ce.co:80/Ctina2718/Tina3619/95851
+#EXTINF:-1tvg-name="CineSKY5Â²"tvg-logo="https://i.imgur.com/coKcRXM.png"group-title="CINESKY",CineSKY5Â²
+http://5ce.co:80/Ctina2718/Tina3619/95852
+#EXTINF:-1tvg-name="CineSKY6Â²"tvg-logo="https://i.imgur.com/coKcRXM.png"group-title="CINESKY",CineSKY6Â²
+http://5ce.co:80/Ctina2718/Tina3619/98443
+#EXTINF:-1tvg-name="CineSKY7Â²"tvg-logo="https://i.imgur.com/coKcRXM.png"group-title="CINESKY",CineSKY7Â²
+http://5ce.co:80/Ctina2718/Tina3619/98444
 
 #EXTINF:-1 tvg-id="Vintage" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="filmesseries",Vintage
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
