@@ -1061,6 +1061,9 @@ https://siloh.pluto.tv/022_pluto/clip/63233dfdb5308b0014de7ed2_Escape_From_Alcat
 #EXTINF:-1 tvg-id="As Aventuras de Robin Hood" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aWXud8CnjWXYWPDmVwrfusSoDm0.jpg" group-title="Filmes ondemand",As Aventuras de Robin Hood
 https://siloh.pluto.tv/c6009f_pluto/clip/5fe237f2b27a60001b2aeea5_As_aventuras_de_robin_Hood_BR/720p/20201222_101619/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Cão Vermelho" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/shc5BmoNv8uBA4qC6I3E1iR76Ls.jpg" group-title="Filmes ondemand",Cão Vermelho
+https://siloh.pluto.tv/c6009f_pluto/clip/60f03fc676826f001370ef1d_Red_Dog_BR/720p/20210715_070142/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Charada" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7z6sVZyLX9RVHRn6IkIYiiEEE2x.jpg" group-title="Filmes ondemand",Charada
 https://siloh.pluto.tv/45334d_Tricoast/clip/60e31968d2539c0013457601_Charade_BR/720p/20210713_083248/hls/0-end/master.m3u8
 
@@ -1076,6 +1079,9 @@ https://siloh.pluto.tv/b451ae_CDC/clip/5f5be476638b1800139e89ff_Donnie_Darko_BR/
 
 #EXTINF:-1 tvg-id="Em Busca do Ouro" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/b1CqhyaeY5VNIQkVa3MQmvNDAof.jpg" group-title="Filmes ondemand",Em Busca do Ouro
 https://siloh.pluto.tv/c6009f_pluto/clip/603d4c90e7c979001a88e2ab_Charlie_Chaplin_Em_busca_do_ouro_BR/720p/20210301_122032/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Entre Irmãos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/buKRRR6Z6TztAuMUw7DUXCwn4hs.jpg" group-title="Filmes ondemand",Entre Irmãos
+https://siloh.pluto.tv/428_pluto/clip/61fa85d5fef5db001a0ea175_Brothers_2009_BR/720p/20220202_052333/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Farrapo Humano" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3rXzGi1BqzSPMeIjvu8WxXDQGLa.jpg" group-title="Filmes ondemand",Farrapo Humano
 https://siloh.pluto.tv/c6009f_pluto/clip/602e956f558c290014f9043f_Farrapo_Humano_BR/720p/20210218_082728/hls/0-end/master.m3u8
@@ -1118,6 +1124,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/605dfa3ab58b22001a473cba_The_Kid_BR/720
 
 #EXTINF:-1 tvg-id="O Grande Ditador" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ypiEVkeQd8NxI7AabS8eGkjNBf6.jpg" group-title="Filmes ondemand",O Grande Ditador
 https://siloh.pluto.tv/c6009f_pluto/clip/60782e17f96a44001a1d8285_Charlie_Chaplin_O_Grande_Ditador_BR/720p/20210415_051416/hls/0-end/master
+
+#EXTINF:-1 tvg-id="O Ilusionista" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/uvHWsmniMfN8vfXerzwQueacv6w.jpg" group-title="Filmes ondemand",O Ilusionista
+https://siloh.pluto.tv/c6009f_pluto/clip/604b9212b2b870001a05f452_The_Illusionist_BR/720p/20210312_080851/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="O Imbatível III: Redenção" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/i1fetl7jL48JUIUt2PZFlCA5Of.jpg" group-title="Filmes ondemand",O Imbatível III: Redenção
 https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/614242b7d982620013b9fa0f_Undisputed_3_redenption_BR/720p/20210921_091358/hls/0-end/master.m3u8
