@@ -1055,6 +1055,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/607869ec33e416001a40d6bc_A_Dama_Oculta_
 #EXTINF:-1 tvg-id="Alcatraz: Fuga Impossível" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8ChgAP1Ck1BEXaATqyPS8nMExim.jpg" group-title="Filmes ondemand",Alcatraz: Fuga Impossível
 https://siloh.pluto.tv/022_pluto/clip/63233dfdb5308b0014de7ed2_Escape_From_Alcatraz_BR/720p/20220915_080013/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="As Aventuras de Robin Hood" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aWXud8CnjWXYWPDmVwrfusSoDm0.jpg" group-title="Filmes ondemand",As Aventuras de Robin Hood
+https://siloh.pluto.tv/c6009f_pluto/clip/5fe237f2b27a60001b2aeea5_As_aventuras_de_robin_Hood_BR/720p/20201222_101619/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Charada" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7z6sVZyLX9RVHRn6IkIYiiEEE2x.jpg" group-title="Filmes ondemand",Charada
 https://siloh.pluto.tv/45334d_Tricoast/clip/60e31968d2539c0013457601_Charade_BR/720p/20210713_083248/hls/0-end/master.m3u8
 
