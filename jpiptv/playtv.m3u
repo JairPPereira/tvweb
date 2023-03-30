@@ -1064,6 +1064,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fe237f2b27a60001b2aeea5_As_aventuras_d
 #EXTINF:-1 tvg-id="Charada" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7z6sVZyLX9RVHRn6IkIYiiEEE2x.jpg" group-title="Filmes ondemand",Charada
 https://siloh.pluto.tv/45334d_Tricoast/clip/60e31968d2539c0013457601_Charade_BR/720p/20210713_083248/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Código de Conduta" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dpd9aUIUT0tUDIard91nTWLLETV.jpg" group-title="Filmes ondemand",Código de Conduta
+https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/5f86fe763bd42e001ac65830_Law_abiding_BR/720p/20201015_065603/hls/0-end/master.m3u8
+
 
 #EXTINF:-1 tvg-id="Com Amor, Van Gogh" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pw72rhXTRbIel6iNWKHUqiIvcZm.jpg" group-title="Filmes ondemand",Com Amor, Van Gogh
 https://siloh.pluto.tv/387_pluto/clip/62f3cad1362313001aa839fd_Com_Amor_Van_Gogh/720p/20220810_081217/hls/0-end/master.m3u8
