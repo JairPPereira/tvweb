@@ -783,7 +783,81 @@ http://ncw.one:80/Marcelotorres/20torres20tv/97832
 http://ncw.one:80/Marcelotorres/20torres20tv/97838
 
 #EXTINF:-1 group-title="24HRS SÉRIES E PROGRAMAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="filmesseries",[24H] TOMA LA DA CA
-http://ncw.one:80/Marcelotorres/20torres20tv/98648
+http://ncw.one:80/Marcelotorres/20torres20tv/
+
+#################################################################################
+
+#EXTINF:-1 tvg-id=" Paraquedas Dourado" tvg-name="T01E01" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Paraquedas Dourado
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E01.mkv
+
+#EXTINF:-1 tvg-id=" Perdendo a Cabesa" tvg-name="T01E02" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Perdendo a Cabesa
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E02.mkv
+
+#EXTINF:-1 tvg-id=" Pe Molhado - Pe Seco" tvg-name="T01E03" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Pe Molhado - Pe Seco
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E03.mkv
+
+#EXTINF:-1 tvg-id=" Apenas Um Beijo" tvg-name="T01E04" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Apenas Um Beijo
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E04.mkv
+
+#EXTINF:-1 tvg-id=" Cinzas por Cinzas" tvg-name="T01E05" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Cinzas por Cinzas
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E05.mkv
+
+#EXTINF:-1 tvg-id=" Quebrado" tvg-name="T01E06" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Quebrado
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E06.mkv
+
+#EXTINF:-1 tvg-id=" Sem Folego" tvg-name="T01E07" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Sem Folego
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E07.mkv
+
+#EXTINF:-1 tvg-id=" Casa da Matansa" tvg-name="T01E08" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Casa da Matansa
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E08.mkv
+
+#EXTINF:-1 tvg-id=" Zona de Matar" tvg-name="T01E09" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Zona de Matar
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E09.mkv
+
+#EXTINF:-1 tvg-id=" Uma Mente Horrivel" tvg-name="T01E10" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Uma Mente Horrivel
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E10.mkv
+
+#EXTINF:-1 tvg-id=" Medo do Campo" tvg-name="T01E11" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Medo do Campo
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E11.mkv
+
+#EXTINF:-1 tvg-id=" Ferimento de Entrada" tvg-name="T01E12" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Ferimento de Entrada
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E12.mkv
+
+#EXTINF:-1 tvg-id=" Mentira" tvg-name="T01E13" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Mentira
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E13.mkv
+
+#EXTINF:-1 tvg-id=" Arrombamento" tvg-name="T01E14" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Arrombamento
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E14.mkv
+
+#EXTINF:-1 tvg-id=" Mulher Morta Ambulante" tvg-name="T01E15" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Mulher Morta Ambulante
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E15.mkv
+
+#EXTINF:-1 tvg-id=" Evidencias de Coisas Invisiveis" tvg-name="T01E16" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Evidencias de Coisas Invisiveis
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E16.mkv
+
+#EXTINF:-1 tvg-id=" Homem Simples" tvg-name="T01E17" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Homem Simples
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E17.mkv
+
+#EXTINF:-1 tvg-id=" Dia Livre" tvg-name="T01E18" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Dia Livre
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E18.mkv
+
+#EXTINF:-1 tvg-id=" Disputa Dupla" tvg-name="T01E19" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Disputa Dupla
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E19.mkv
+
+#EXTINF:-1 tvg-id=" Jovens Ameasadores" tvg-name="T01E20" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Jovens Ameasadores
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E20.mkv
+
+#EXTINF:-1 tvg-id=" Ferias de Primavera" tvg-name="T01E21" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Ferias de Primavera
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E21.mkv
+
+#EXTINF:-1 tvg-id=" Caixa de Pavios" tvg-name="T01E22" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Caixa de Pavios
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E22.mkv
+
+#EXTINF:-1 tvg-id=" Caprichos e Ajustes" tvg-name="T01E23" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Caprichos e Ajustes
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E23.mkv
+
+#EXTINF:-1 tvg-id=" Contagem de Corpos" tvg-name="T01E24" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Contagem de Corpos
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E24.mkv
 
 #################################################################################
 
