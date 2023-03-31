@@ -785,6 +785,77 @@ http://ncw.one:80/Marcelotorres/20torres20tv/97838
 #EXTINF:-1 group-title="24HRS SÉRIES E PROGRAMAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="filmesseries",[24H] TOMA LA DA CA
 http://ncw.one:80/Marcelotorres/20torres20tv/
 
+################################################################################
+
+#EXTINF:-1 tvg-id="T01 Piloto" tvg-name="T01E01" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Piloto
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E01.mkv
+
+#EXTINF:-1 tvg-id="T01 Mudansa Fria" tvg-name="T01E02" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Mudansa Fria
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E02.mkv
+
+#EXTINF:-1 tvg-id="T01 Caixao e Enterro" tvg-name="T01E03" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Caixao e Enterro
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E03.mkv
+
+#EXTINF:-1 tvg-id="T01 Prontos Para o Sr. Johnson" tvg-name="T01E04" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Prontos Para o Sr. Johnson
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E04.mkv
+
+#EXTINF:-1 tvg-id="T01 Amigos e Amantes" tvg-name="T01E05" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Amigos e Amantes
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E05.mkv
+
+#EXTINF:-1 tvg-id="T01 Quem e Voce?" tvg-name="T01E06" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Quem e Voce?
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E06.mkv
+
+#EXTINF:-1 tvg-id="T01 Gotas de Sangue" tvg-name="T01E07" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Gotas de Sangue
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E07.mkv
+
+#EXTINF:-1 tvg-id="T01 Anonimo" tvg-name="T01E08" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Anonimo
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E08.mkv
+
+#EXTINF:-1 tvg-id="T01 Ceu Inimigo" tvg-name="T01E09" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Ceu Inimigo
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E09.mkv
+
+#EXTINF:-1 tvg-id="T01 Sexo, Mentiras e Larvas" tvg-name="T01E10" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Sexo, Mentiras e Larvas
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E10.mkv
+
+#EXTINF:-1 tvg-id="T01 Assassinos I-15" tvg-name="T01E11" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Assassinos I-15
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E11.mkv
+
+#EXTINF:-1 tvg-id="T01 Fahrenheit 932" tvg-name="T01E12" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Fahrenheit 932
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E12.mkv
+
+#EXTINF:-1 tvg-id="T01 Boom" tvg-name="T01E13" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Boom
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E13.mkv
+
+#EXTINF:-1 tvg-id="T01 Fatiar e Possuir" tvg-name="T01E14" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Fatiar e Possuir
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E14.mkv
+
+#EXTINF:-1 tvg-id="T01 Apostas na Mesa" tvg-name="T01E15" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Apostas na Mesa
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E15.mkv
+
+#EXTINF:-1 tvg-id="T01 Forte Demais para Morrer" tvg-name="T01E16" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Forte Demais para Morrer
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E16.mkv
+
+#EXTINF:-1 tvg-id="T01 Retrato Falado" tvg-name="T01E17" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Retrato Falado
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E17.mkv
+
+#EXTINF:-1 tvg-id="T01 Morte Cara" tvg-name="T01E18" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Morte Cara
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E18.mkv
+
+#EXTINF:-1 tvg-id="T01 Durma em Paz" tvg-name="T01E19" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Durma em Paz
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E19.mkv
+
+#EXTINF:-1 tvg-id="T01 Som do Silencio" tvg-name="T01E20" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Som do Silencio
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E20.mkv
+
+#EXTINF:-1 tvg-id="T01 Justisa e Feita" tvg-name="T01E21" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Justisa e Feita
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E21.mkv
+
+#EXTINF:-1 tvg-id="T01 Dia de Avaliasao" tvg-name="T01E22" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 Dia de Avaliasao
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E22.mkv
+
+#EXTINF:-1 tvg-id="T01 O Estrangulador Strip" tvg-name="T01E23" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI LAS VEGAS",T01 O Estrangulador Strip
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T01/LS-T01E23.mkv
+
 #################################################################################
 
 #EXTINF:-1 tvg-id=" Paraquedas Dourado" tvg-name="T01E01" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Paraquedas Dourado
