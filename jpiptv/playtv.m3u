@@ -2592,7 +2592,10 @@ https://siloh.pluto.tv/9d7f35_Nirvana/clip/6130bfa6cd24a600155bba0d_A_Dama_de_Sh
 https://siloh.pluto.tv/c6009f_pluto/clip/607869ec33e416001a40d6bc_A_Dama_Oculta_BR/720p/20210415_092933/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Alcatraz: Fuga Impossível" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8ChgAP1Ck1BEXaATqyPS8nMExim.jpg" group-title="Filmes ondemand",Alcatraz: Fuga Impossível
-https://siloh.pluto.tv/022_pluto/clip/63233dfdb5308b0014de7ed2_Escape_From_Alcatraz_BR/720p/20220915_080013/hls/0-end/master.m3u8
+https://siloh.pluto.tv/022_pluto/clip/63233dfdb5308b0014de7ed2_Escape_From_Alcatraz_BR/720p/20220915_080013/hls/0-end/master.
+
+#EXTINF:-1 tvg-id="Antes Só do que Mal Acompanhado" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ulMbGa8XEz0zMXkDkIX4PN3a51.jpg" group-title="Filmes ondemand",Antes Só do que Mal Acompanhado
+https://siloh.pluto.tv/453_pluto/clip/632336f6b5308b0014de7d24_Planes_Trains_And_Automobiles_BR/720p/20220915_073014/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="As Aventuras de Robin Hood" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aWXud8CnjWXYWPDmVwrfusSoDm0.jpg" group-title="Filmes ondemand",As Aventuras de Robin Hood
 https://siloh.pluto.tv/c6009f_pluto/clip/5fe237f2b27a60001b2aeea5_As_aventuras_de_robin_Hood_BR/720p/20201222_101619/hls/0-end/master.m3u8
@@ -2610,6 +2613,9 @@ https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/5f86fe763bd42e001ac65830_Law_abi
 #EXTINF:-1 tvg-id="Com Amor, Van Gogh" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pw72rhXTRbIel6iNWKHUqiIvcZm.jpg" group-title="Filmes ondemand",Com Amor, Van Gogh
 https://siloh.pluto.tv/387_pluto/clip/62f3cad1362313001aa839fd_Com_Amor_Van_Gogh/720p/20220810_081217/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Django" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pYsDq0fTMC1XuEg63NOXfxzHBJY.jpg" group-title="Filmes ondemand",Django
+https://siloh.pluto.tv/c6009f_pluto/clip/5ff46f9cae15d8001a81ba50_Django_BR/720p/20210105_055436/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Donnie Darko" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg" group-title="Filmes ondemand",Donnie Darko
 https://siloh.pluto.tv/b451ae_CDC/clip/5f5be476638b1800139e89ff_Donnie_Darko_BR/720p/20200911_141226/hls/0-end/master.m3u8
 
@@ -2624,6 +2630,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/602e956f558c290014f9043f_Farrapo_Humano
 
 #EXTINF:-1 tvg-id="Fogo Contra Fogo" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cv1ZuY874Q0uqFkURO8hjI2471z.jpg" group-title="Filmes ondemand",Fogo Contra Fogo
 https://siloh.pluto.tv/c6009f_pluto/clip/5fc7a64b99839e0013e0cd95_Fire_With_Fire_BR/720p/20201202_063555/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Guerra ao Terror" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/2CYMFR1ufrAZwoZ11d8aRax1Ial.jpg" group-title="Filmes ondemand",Guerra ao Terror
+https://siloh.pluto.tv/c6009f_pluto/clip/604b923bb2b870001a05f7fe_The_Hurt_Locker_BR/720p/20210312_080931/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Interlúdio" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aGlxyjWBNWN2PnMnQdPpFn8qEij.jpg" group-title="Filmes ondemand",Interlúdio
 https://siloh.pluto.tv/c6009f_pluto/clip/5fda5c8f9a5870001a436b9f_Interludio_BR/720p/20201216_111424/hls/0-end/master.m3u8
@@ -2645,6 +2654,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fdcaca00983410013ddc2d4_STAR_TREK_II_T
 
 #EXTINF:-1 tvg-id="Luzes da Cidade" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/q3vMcFPcLL0jClcAYG5iFEwL3eE.jpg" group-title="Filmes ondemand",Luzes da Cidade
 https://siloh.pluto.tv/c6009f_pluto/clip/603d4c8de7c979001a88e275_Charlie_Chaplin_Luzes_da_Cidade_BR/720p/20210301_122029/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Maratona da Morte" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/uPNgubSiri2yvBQRPtP77ViYjN.jpg" group-title="Filmes ondemand",Maratona da Morte
+https://siloh.pluto.tv/461_pluto/clip/632332b7cad61a0013948002_Marathon_Man_BR/720p/20220915_071207/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Marcados Para Morrer" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jKdsR67jLbn4cVQgaERyLmpGLOW.jpg" group-title="Filmes ondemand",Marcados Para Morrer
 https://siloh.pluto.tv/983_California_Films_P/clip/639c9069d576210013f9c4bb_End_of_Watch_BR/720p/20221219_083306/hls/0-end/master.m3u8
@@ -2678,6 +2690,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fa95cd89d991c001a9ccb9b_Armadura_de_de
 
 #EXTINF:-1 tvg-id="Os 39 Degraus" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/oFD9uJqWAuW09MVWCLifokJQNhj.jpg" group-title="Filmes ondemand",Os 39 Degraus
 https://siloh.pluto.tv/c6009f_pluto/clip/607834a333e416001a40d40d_39_degraus_BR/720p/20210415_054211/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Os Sete Suspeitos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7gLuMzYiN7SdQfYyhsTZGnr21wL.jpg" group-title="Filmes ondemand",Os Sete Suspeitos
+https://siloh.pluto.tv/317_pluto/clip/632328d8db4067001361538b_Clue_BR/720p/20220915_063000/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Ponto Final: Match Point" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tefwQtylm6045V3jO5GJWdeQ0SQ.jpg" group-title="Filmes ondemand",Ponto Final: Match Point
 https://siloh.pluto.tv/380_pluto/clip/630cda167a42340013e63fb2_Match_Point_BR/720p/20220829_082406/hls/0-end/master.m3u8
