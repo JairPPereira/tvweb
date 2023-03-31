@@ -790,12 +790,6 @@ http://ncw.one:80/Marcelotorres/20torres20tv/
 #EXTINF:-1 tvg-id=" Paraquedas Dourado" tvg-name="T01E01" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Paraquedas Dourado
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E01.mkv
 
-#EXTINF:-1 tvg-id=" Perdendo a Cabesa" tvg-name="T01E02" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Perdendo a Cabesa
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E02.mkv
-
-#EXTINF:-1 tvg-id=" Pe Molhado - Pe Seco" tvg-name="T01E03" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Pe Molhado - Pe Seco
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E03.mkv
-
 #EXTINF:-1 tvg-id=" Apenas Um Beijo" tvg-name="T01E04" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Apenas Um Beijo
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E04.mkv
 
@@ -808,7 +802,7 @@ https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E06.mkv
 #EXTINF:-1 tvg-id=" Sem Folego" tvg-name="T01E07" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Sem Folego
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E07.mkv
 
-#EXTINF:-1 tvg-id=" Casa da Matansa" tvg-name="T01E08" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Casa da Matansa
+#EXTINF:-1 tvg-id=" Casa da Matansa" tvg-name="T01E08" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Casa da Matança
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T01/LS-T01E08.mkv
 
 #EXTINF:-1 tvg-id=" Zona de Matar" tvg-name="T01E09" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI", Zona de Matar
