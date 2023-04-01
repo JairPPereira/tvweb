@@ -3397,6 +3397,9 @@ https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/5f86fe763bd42e001ac65830_Law_abi
 #EXTINF:-1 tvg-id="Com Amor, Van Gogh" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pw72rhXTRbIel6iNWKHUqiIvcZm.jpg" group-title="Filmes ondemand",Com Amor, Van Gogh
 https://siloh.pluto.tv/387_pluto/clip/62f3cad1362313001aa839fd_Com_Amor_Van_Gogh/720p/20220810_081217/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Conversa Truncada" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jL6txnziFSeEifQkqnPBtaPaiXU.jpg" group-title="Filmes ondemand",Conversa Truncada
+https://siloh.pluto.tv/276_Polar/clip/62bda132e9e8c0001370c600_In_the_Loop_BR/720p/20220901_125727/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Django" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pYsDq0fTMC1XuEg63NOXfxzHBJY.jpg" group-title="Filmes ondemand",Django
 https://siloh.pluto.tv/c6009f_pluto/clip/5ff46f9cae15d8001a81ba50_Django_BR/720p/20210105_055436/hls/0-end/master.m3u8
 
@@ -3470,6 +3473,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/604b9212b2b870001a05f452_The_Illusionis
 #EXTINF:-1 tvg-id="O Imbatível III: Redenção" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/i1fetl7jL48JUIUt2PZFlCA5Of.jpg" group-title="Filmes ondemand",O Imbatível III: Redenção
 https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/614242b7d982620013b9fa0f_Undisputed_3_redenption_BR/720p/20210921_091358/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="O Lado Bom da Vida" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5R2ZLkflncVmRzTvSVP7MooxZ0C.jpg" group-title="Filmes ondemand",O Lado Bom da Vida
+https://siloh.pluto.tv/e266cf_Polar/clip/604b921cb2b870001a05f536_Silver_Linings_Playbook_BR/720p/20210312_120903/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="O Operário" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/xU4BxDFlEVxdUfWN8pLtBcFI5zB.jpg" group-title="Filmes ondemand",O Operário
 https://siloh.pluto.tv/c6009f_pluto/clip/600ae5a1ce98800013ec532e_MACHINIST_THE_BR/720p/20210122_064801/hls/0-end/master.m3u8
 
@@ -3512,10 +3518,13 @@ https://siloh.pluto.tv/069_pluto/clip/630e2cf88762280014a2872b_Samurai_X_3_BR/72
 https://siloh.pluto.tv/795_pluto/clip/63690f60fc0c0b0013b39598_Tengo_Ganas_De_Ti/720p/20221107_060000/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Tempos Modernos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ewqW0uEx1FztaRSvJQqH4pxHecZ.jpg" group-title="Filmes ondemand",Tempos Modernos
+https://siloh.pluto.tv/c6009f_pluto/clip/6001c5ac6d0bea001b05ebe0_Charlie_Chaplin_Tempos_Modernos_BR/720p/20210115_084116/hls/0-end/master.
+
+#EXTINF:-1 tvg-id="Tempos Modernos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ewqW0uEx1FztaRSvJQqH4pxHecZ.jpg" group-title="Filmes ondemand",Tempos Modernos
 https://siloh.pluto.tv/c6009f_pluto/clip/6001c5ac6d0bea001b05ebe0_Charlie_Chaplin_Tempos_Modernos_BR/720p/20210115_084116/hls/0-end/master.m3u8
 
-#EXTINF:-1 tvg-id="Um Amor para Recordar" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/s2UxmxiIOupjHmjs1Jl7TdWDVFc.jpg" group-title="Filmes ondemand",Um Amor para Recordar
-https://siloh.pluto.tv/c6009f_pluto/clip/5fbe774cc8c57d00131b7cbe_Walk_To_Remember_A_BR/720p/20201125_072500/hls/0-end/master.m3u8
+#EXTINF:-1 tvg-id="Trumbo: Lista Negra" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/b4TAYPHi5n3HAcENPnLrvBbTQnE.jpg" group-title="Filmes ondemand",Trumbo: Lista Negra
+https://siloh.pluto.tv/580_Sofa_Digital/clip/620faab2de15be0013449029_Trumbo/720p/20220221_062215/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Viagem à Lua" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/r5Ru9t6KTNl8iXA7BOSBz5nvZIS.jpg" group-title="Filmes ondemand",Viagem à Lua
 https://siloh.pluto.tv/c6009f_pluto/clip/5ffef0d72816a5001aa03a5e_A_Viagem_a_Lua_BR/720p/20210113_050840/hls/0-end/master.m3u8
