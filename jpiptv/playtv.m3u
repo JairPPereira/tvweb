@@ -3735,8 +3735,14 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fe237f2b27a60001b2aeea5_As_aventuras_d
 #EXTINF:-1 tvg-id="Cão Vermelho" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/shc5BmoNv8uBA4qC6I3E1iR76Ls.jpg" group-title="Filmes ondemand",Cão Vermelho
 https://siloh.pluto.tv/c6009f_pluto/clip/60f03fc676826f001370ef1d_Red_Dog_BR/720p/20210715_070142/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Caçadores de Emoção" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/nMw27G9iNQQ3md5gfEO4YYl1RWP.jpg" group-title="Filmes ondemand",Caçadores de Emoção
+https://siloh.pluto.tv/c6009f_pluto/clip/5fbe59a80dddaf0013b5c461_Point_Break_BR/720p/20201125_051832/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Charada" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7z6sVZyLX9RVHRn6IkIYiiEEE2x.jpg" group-title="Filmes ondemand",Charada
 https://siloh.pluto.tv/45334d_Tricoast/clip/60e31968d2539c0013457601_Charade_BR/720p/20210713_083248/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Chef" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yMtKHR6VG1Yagvv5F7IFpsGBm66.jpg" group-title="Filmes ondemand",Chef
+https://siloh.pluto.tv/059_CDC/clip/5fc7a64e99839e0013e0cdcd_Chef_BR/720p/20220803_064203/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Código de Conduta" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dpd9aUIUT0tUDIard91nTWLLETV.jpg" group-title="Filmes ondemand",Código de Conduta
 https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/5f86fe763bd42e001ac65830_Law_abiding_BR/720p/20201015_065603/hls/0-end/master.m3u8
