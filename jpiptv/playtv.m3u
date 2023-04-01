@@ -629,6 +629,57 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="Esportes", TNT Sports 5 Brazil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL TV 1 FHD³" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 1 FHD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/121473.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL TV 1 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 1 HD²
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/144463.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL TV 1 HD³" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 1 HD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/121474.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL TV 1 SD³" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 1 SD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/121475.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL TV 2 FHD³" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 2 FHD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/121476.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL TV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 2 HD²
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/144742.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL TV 2 HD³" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 2 HD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/121477.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL TV 2 SD³" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 2 SD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/121478.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL TV 3 FHD³" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 3 FHD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/121481.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL TV 3 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 3 HD²
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/144743.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL TV 3 HD³" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 3 HD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/121479.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL TV 3 SD³" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 3 SD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/121480.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL TV 4 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 4 HD²
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/144744.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL TV 4 HD³" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 4 HD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/121482.m3u8
+#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL TV 4 SD³" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES PPV",CONMEBOL TV 4 SD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/121483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 01²" tvg-logo="" group-title="ESPORTES PPV",COPA DO BRASIL 01²
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/144464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 01³" tvg-logo="" group-title="ESPORTES PPV",COPA DO BRASIL 01³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/184917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 02³" tvg-logo="" group-title="ESPORTES PPV",COPA DO BRASIL 02³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/184918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 01³" tvg-logo="" group-title="ESPORTES PPV",COPA DO NORDESTE 01³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/185241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 02³" tvg-logo="" group-title="ESPORTES PPV",COPA DO NORDESTE 02³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/185242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 03³" tvg-logo="" group-title="ESPORTES PPV",COPA DO NORDESTE 03³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/185243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 01³" tvg-logo="" group-title="ESPORTES PPV",COPINHA 01³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/185235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 02³" tvg-logo="" group-title="ESPORTES PPV",COPINHA 02³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/185236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 03³" tvg-logo="" group-title="ESPORTES PPV",COPINHA 03³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/185237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 04³" tvg-logo="" group-title="ESPORTES PPV",COPINHA 04³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/185238.m3u8
+
 
 
 #################################################################################
