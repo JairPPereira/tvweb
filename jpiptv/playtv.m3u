@@ -541,6 +541,27 @@ http://5ce.co:80/Ctina2718/Tina3619/6561
 #EXTINF:-1tvg-name="H2HDÂ²"tvg-logo="http://70.ms/5y"group-title="DOCUMENTARIOS",H2HDÂ²
 http://5ce.co:80/Ctina2718/Tina3619/10769
 
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD H265
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/68788.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD²
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/144381.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD³" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/185251.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD³" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/184959.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/68789.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD²
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/144382.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD³" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/185143.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/68790.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD³" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD³
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/184738.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET²" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET²
+http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/144380.m3u8
+
 
 #################################################################################
 
