@@ -4011,7 +4011,10 @@ https://siloh.pluto.tv/9d7f35_Nirvana/clip/6130bfa6cd24a600155bba0d_A_Dama_de_Sh
 https://siloh.pluto.tv/c6009f_pluto/clip/607869ec33e416001a40d6bc_A_Dama_Oculta_BR/720p/20210415_092933/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Alcatraz: Fuga Impossível" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8ChgAP1Ck1BEXaATqyPS8nMExim.jpg" group-title="Filmes ondemand",Alcatraz: Fuga Impossível
-https://siloh.pluto.tv/022_pluto/clip/63233dfdb5308b0014de7ed2_Escape_From_Alcatraz_BR/720p/20220915_080013/hls/0-end/master.
+https://siloh.pluto.tv/022_pluto/clip/63233dfdb5308b0014de7ed2_Escape_From_Alcatraz_BR/720p/20220915_080013/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Antes que Termine o Dia" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mRduoGq6vIeNQjsxc60OmF3gqip.jpg" group-title="Filmes ondemand",Antes que Termine o Dia
+https://siloh.pluto.tv/c6009f_pluto/clip/60f03fbd76826f001370ee73_If_Only_BR/720p/20210715_070134/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Antes Só do que Mal Acompanhado" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ulMbGa8XEz0zMXkDkIX4PN3a51.jpg" group-title="Filmes ondemand",Antes Só do que Mal Acompanhado
 https://siloh.pluto.tv/453_pluto/clip/632336f6b5308b0014de7d24_Planes_Trains_And_Automobiles_BR/720p/20220915_073014/hls/0-end/master.m3u8
@@ -4024,6 +4027,12 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fe237f2b27a60001b2aeea5_As_aventuras_d
 
 #EXTINF:-1 tvg-id="As Virgens Suicidas" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aqiLCE1DN61gXKJrmAOZftw1fqg.jpg" group-title="Filmes ondemand",As Virgens Suicidas
 https://siloh.pluto.tv/c6009f_pluto/clip/601417cf67e9ba001a840607_VIRGIN_SUICIDES_THE_BR/720p/20210129_061231/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Blue Jasmine" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/zLdLiUJfueZBctdv8OvkmGXEHEC.jpg" group-title="Filmes ondemand",Blue Jasmine
+https://siloh.pluto.tv/b451ae_CDC/clip/5f5bafd3a4721c0013399bd7_Blue_Jasmine_BR/720p/20200911_130342/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Caminho da Liberdade" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hJCkHUETeLWnEq53k4ZTp0ep2mX.jpg" group-title="Filmes ondemand",Caminho da Liberdade
+https://siloh.pluto.tv/251_Sofa_Digital/clip/63529d04cfefb200132131a2_Caminho_da_Liberdade/720p/20221219_083549/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Cão Vermelho" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/shc5BmoNv8uBA4qC6I3E1iR76Ls.jpg" group-title="Filmes ondemand",Cão Vermelho
 https://siloh.pluto.tv/c6009f_pluto/clip/60f03fc676826f001370ef1d_Red_Dog_BR/720p/20210715_070142/hls/0-end/master.m3u8
@@ -4068,6 +4077,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/602e956f558c290014f9043f_Farrapo_Humano
 #EXTINF:-1 tvg-id="Fogo Contra Fogo" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cv1ZuY874Q0uqFkURO8hjI2471z.jpg" group-title="Filmes ondemand",Fogo Contra Fogo
 https://siloh.pluto.tv/c6009f_pluto/clip/5fc7a64b99839e0013e0cd95_Fire_With_Fire_BR/720p/20201202_063555/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Grandes Olhos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tIj505bIktRgCrdgl0TBQQ02dmg.jpg" group-title="Filmes ondemand",Grandes Olhos
+https://siloh.pluto.tv/c6009f_pluto/clip/60a4194ad9b0ce0014e6c51b_Big_Eyes_BR/720p/20210518_124515/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Guerra ao Terror" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/2CYMFR1ufrAZwoZ11d8aRax1Ial.jpg" group-title="Filmes ondemand",Guerra ao Terror
 https://siloh.pluto.tv/c6009f_pluto/clip/604b923bb2b870001a05f7fe_The_Hurt_Locker_BR/720p/20210312_080931/hls/0-end/master.m3u8
 
@@ -4092,6 +4104,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fdcaca00983410013ddc2d4_STAR_TREK_II_T
 
 #EXTINF:-1 tvg-id="Jornada nas Estrelas IV: A Volta para Casa" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dLnsbQZ1CQ54jKMwVTeCGFRwlQk.jpg" group-title="Filmes ondemand",Jornada nas Estrelas IV: A Volta para Casa
 https://siloh.pluto.tv/c6009f_pluto/clip/5fd76c93aabcdd001aaee9a1_STAR_TREK_IV_THE_VOYAGE_HOME_BR/720p/20201214_054556/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Jornada nas Estrelas VI: A Terra Desconhecida" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/DLF3vrVHNmaMTI5AIDYEUF7zdo.jpg" group-title="Filmes ondemand",Jornada nas Estrelas VI: A Terra Desconhecida
+https://siloh.pluto.tv/c6009f_pluto/clip/5fdcaca80983410013ddc38a_STAR_TREK_VI_THE_UNDISCOVERED_COUNTRY_BR/720p/20201218_052041/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Luzes da Cidade" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/q3vMcFPcLL0jClcAYG5iFEwL3eE.jpg" group-title="Filmes ondemand",Luzes da Cidade
 https://siloh.pluto.tv/c6009f_pluto/clip/603d4c8de7c979001a88e275_Charlie_Chaplin_Luzes_da_Cidade_BR/720p/20210301_122029/hls/0-end/master.m3u8
