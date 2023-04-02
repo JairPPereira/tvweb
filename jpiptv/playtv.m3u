@@ -4016,6 +4016,9 @@ https://siloh.pluto.tv/022_pluto/clip/63233dfdb5308b0014de7ed2_Escape_From_Alcat
 #EXTINF:-1 tvg-id="Antes Só do que Mal Acompanhado" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ulMbGa8XEz0zMXkDkIX4PN3a51.jpg" group-title="Filmes ondemand",Antes Só do que Mal Acompanhado
 https://siloh.pluto.tv/453_pluto/clip/632336f6b5308b0014de7d24_Planes_Trains_And_Automobiles_BR/720p/20220915_073014/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Armadura de Deus" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/nstPbqmWlOibLutLsVvgT7RarRk.jpg" group-title="Filmes ondemand",Armadura de Deus
+https://siloh.pluto.tv/c6009f_pluto/clip/5fa012991788de001ad57be6_Armadura_de_deus_BR/720p/20201102_060721/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="As Aventuras de Robin Hood" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aWXud8CnjWXYWPDmVwrfusSoDm0.jpg" group-title="Filmes ondemand",As Aventuras de Robin Hood
 https://siloh.pluto.tv/c6009f_pluto/clip/5fe237f2b27a60001b2aeea5_As_aventuras_de_robin_Hood_BR/720p/20201222_101619/hls/0-end/master.m3u8
 
@@ -4043,6 +4046,9 @@ https://siloh.pluto.tv/387_pluto/clip/62f3cad1362313001aa839fd_Com_Amor_Van_Gogh
 
 #EXTINF:-1 tvg-id="Conversa Truncada" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jL6txnziFSeEifQkqnPBtaPaiXU.jpg" group-title="Filmes ondemand",Conversa Truncada
 https://siloh.pluto.tv/276_Polar/clip/62bda132e9e8c0001370c600_In_the_Loop_BR/720p/20220901_125727/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Departamento Q - O Ausente" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ciVxnOrlREugwcEQp2WuHOBQgeG.jpg" group-title="Filmes ondemand",Departamento Q - O Ausente
+https://siloh.pluto.tv/066_A2Films/clip/62fd086651b268001a9b1004_Departament_Q_The_Absent_One_BR/720p/20220819_115432/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Django" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pYsDq0fTMC1XuEg63NOXfxzHBJY.jpg" group-title="Filmes ondemand",Django
 https://siloh.pluto.tv/c6009f_pluto/clip/5ff46f9cae15d8001a81ba50_Django_BR/720p/20210105_055436/hls/0-end/master.m3u8
@@ -4098,6 +4104,9 @@ https://siloh.pluto.tv/983_California_Films_P/clip/639c9069d576210013f9c4bb_End_
 
 #EXTINF:-1 tvg-id="Metrópolis" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/nqKCVGDseM4uDFTTOn2hbsxk2TP.jpg" group-title="Filmes ondemand",Metrópolis
 https://siloh.pluto.tv/c6009f_pluto/clip/5fda5c919a5870001a436bd9_Metropolis_BR/720p/20201216_111426/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Nada é para Sempre" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Pc791iaMjMxqqu81R9k6AqzerF.jpg" group-title="Filmes ondemand",Nada é para Sempre
+https://siloh.pluto.tv/834_pluto/clip/6310cd2fbb171a00130e1122_A_River_Runs_Through_It_BR/720p/20220901_081808/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Nosferatu" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3MI2hME5h1yrGAT2eWjXaeHf89e.jpg" group-title="Filmes ondemand",Nosferatu
 https://siloh.pluto.tv/9d7f35_Nirvana/clip/5fe9f548636004001a795054_Nosferatu_BR/720p/20201228_072008/hls/0-end/master.m3u8
