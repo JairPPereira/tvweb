@@ -3732,6 +3732,9 @@ https://siloh.pluto.tv/453_pluto/clip/632336f6b5308b0014de7d24_Planes_Trains_And
 #EXTINF:-1 tvg-id="As Aventuras de Robin Hood" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aWXud8CnjWXYWPDmVwrfusSoDm0.jpg" group-title="Filmes ondemand",As Aventuras de Robin Hood
 https://siloh.pluto.tv/c6009f_pluto/clip/5fe237f2b27a60001b2aeea5_As_aventuras_de_robin_Hood_BR/720p/20201222_101619/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="As Virgens Suicidas" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aqiLCE1DN61gXKJrmAOZftw1fqg.jpg" group-title="Filmes ondemand",As Virgens Suicidas
+https://siloh.pluto.tv/c6009f_pluto/clip/601417cf67e9ba001a840607_VIRGIN_SUICIDES_THE_BR/720p/20210129_061231/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Cão Vermelho" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/shc5BmoNv8uBA4qC6I3E1iR76Ls.jpg" group-title="Filmes ondemand",Cão Vermelho
 https://siloh.pluto.tv/c6009f_pluto/clip/60f03fc676826f001370ef1d_Red_Dog_BR/720p/20210715_070142/hls/0-end/master.m3u8
 
@@ -3877,6 +3880,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/6001c5ac6d0bea001b05ebe0_Charlie_Chapli
 #EXTINF:-1 tvg-id="Tempos Modernos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ewqW0uEx1FztaRSvJQqH4pxHecZ.jpg" group-title="Filmes ondemand",Tempos Modernos
 https://siloh.pluto.tv/c6009f_pluto/clip/6001c5ac6d0bea001b05ebe0_Charlie_Chaplin_Tempos_Modernos_BR/720p/20210115_084116/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Top Secret! Superconfidencial" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mzWUEkw1vN13ztIfkxIBygrbwwp.jpg" group-title="Filmes ondemand",Top Secret! Superconfidencial
+https://siloh.pluto.tv/340_pluto/clip/6323439034b53d00131c963e_Top_Secret_BR/720p/20220915_082400/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Trumbo: Lista Negra" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/b4TAYPHi5n3HAcENPnLrvBbTQnE.jpg" group-title="Filmes ondemand",Trumbo: Lista Negra
 https://siloh.pluto.tv/580_Sofa_Digital/clip/620faab2de15be0013449029_Trumbo/720p/20220221_062215/hls/0-end/master.m3u8
 
@@ -3885,6 +3891,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5ffef0d72816a5001aa03a5e_A_Viagem_a_Lua
 
 #EXTINF:-1 tvg-id="Xeque-Mate" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jQTYxU77m39U51mENi5fXGsQQrD.jpg" group-title="Filmes ondemand",Xeque-Mate
 https://siloh.pluto.tv/496_pluto/clip/6310d59d6e998c0013311ece_Lucky_Number_Slevin_BR/720p/20220901_085405/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Um Santo Vizinho" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ds4JIoNb76oGiAmMejFo6SUydGW.jpg" group-title="Filmes ondemand",Um Santo Vizinho
+https://siloh.pluto.tv/c6009f_pluto/clip/60db8f32a9c1a500138f778d_St_Vincent_BR/720p/20210629_142258/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="[REC]" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg" group-title="Filmes ondemand",[REC]
 https://siloh.pluto.tv/c6009f_pluto/clip/5fbe7744c8c57d00131b7c13_REC_BR/720p/20201125_072452/hls/0-end/master.m3u8
