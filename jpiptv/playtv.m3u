@@ -7151,6 +7151,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fd8ca0eed4edc001b0004b9_BLUE_VALENTINE
 #EXTINF:-1 tvg-id="Nosferatu" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3MI2hME5h1yrGAT2eWjXaeHf89e.jpg" group-title="Filmes ondemand",Nosferatu
 https://siloh.pluto.tv/9d7f35_Nirvana/clip/5fe9f548636004001a795054_Nosferatu_BR/720p/20201228_072008/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="O Chamado" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vCZlZ52fQT3bDnK7hqEhdYRKUva.jpg" group-title="Filmes ondemand",O Chamado
+https://play.prod.gcp.vix.services/ringu_pt/ringu_pt_1-1/hls_1500_.m3u8
+
 #EXTINF:-1 tvg-id="O Garoto de Liverpool" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kyqiMQWssWGR9nXPqA5J4Gzb7vc.jpg" group-title="Filmes ondemand",O Garoto de Liverpool
 https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/60b68bcf2eecb3001af8873a_Nowhere_Boy_BR/720p/20210608_082532/hls/0-end/master.m3u8
 
@@ -7215,6 +7218,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/6001c5ac6d0bea001b05ebe0_Charlie_Chapli
 
 #EXTINF:-1 tvg-id="Tempos Modernos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ewqW0uEx1FztaRSvJQqH4pxHecZ.jpg" group-title="Filmes ondemand",Tempos Modernos
 https://siloh.pluto.tv/c6009f_pluto/clip/6001c5ac6d0bea001b05ebe0_Charlie_Chaplin_Tempos_Modernos_BR/720p/20210115_084116/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Tokyo Ghoul" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/nmTztGsJIToPkdWbvTgQ4EY6SrR.jpg" group-title="Filmes ondemand",Tokyo Ghoul
+https://play.prod.gcp.vix.services/tokyo-ghoul_pt/tokyo-ghoul_pt_1-1/play_v1_hls_432p.m3u8
 
 #EXTINF:-1 tvg-id="Top Secret! Superconfidencial" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mzWUEkw1vN13ztIfkxIBygrbwwp.jpg" group-title="Filmes ondemand",Top Secret! Superconfidencial
 https://siloh.pluto.tv/340_pluto/clip/6323439034b53d00131c963e_Top_Secret_BR/720p/20220915_082400/hls/0-end/master.m3u8
