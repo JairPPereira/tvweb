@@ -6802,6 +6802,9 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 
 ########################################################################################
 
+#EXTINF:-1 tvg-id="A Dama de Shanghai" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/73mNU1Dgc5ClgMEIyklLwMRwinI.jpg" group-title="Filmes ondemand",A Chave de Sarah
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_z9gllrnr/format/applehttp/protocol/https/flavorIds/1_unmobluw,1_mtvjkc4q,1_brxo8zl7,1_5nluku1z,1_4z39wtu2,1_ete198jf,1_6tmblk8j/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562363&id=975&ip=206.84.34.255&override_expiration=1500&sign=ksV%2FucvdngIYMK4A07bsqwoulcS0kK8o9gnFwVaxCy8%3D&playSessionId=2697411d-be21-d5ab-41ca-9b1367a12053:5d2e90c6-0474-a198-de29-c875cb64ee08&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2NoYXZlLWRlLXNhcmFo&clientTag=html5:v7.60
+
 #EXTINF:-1 tvg-id="A Dama de Shanghai" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/whqdqWavNMSoeXTx1X3DauO1LG6.jpg" group-title="Filmes ondemand",A Dama de Shanghai
 https://siloh.pluto.tv/9d7f35_Nirvana/clip/6130bfa6cd24a600155bba0d_A_Dama_de_Shanghai_BR/720p/20210902_053131/hls/0-end/master.m3u8
 
@@ -6813,6 +6816,9 @@ https://siloh.pluto.tv/022_pluto/clip/63233dfdb5308b0014de7ed2_Escape_From_Alcat
 
 #EXTINF:-1 tvg-id="Alexandria" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tDOnF4AQT8t91oXpA1lkcTQdCTc.jpg" group-title="Filmes ondemand",Alexandria
 https://siloh.pluto.tv/358_Polar/clip/62ffa40ba0cb07001acd818a_Agora_BR/720p/20220819_081006/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Alexandria" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7dTx6p5aHYMtpNoEvi6SuT6sidU.jpg" group-title="Filmes ondemand",Amor por Direito
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rdwsygxe/format/applehttp/protocol/https/flavorIds/1_h4ugbzfo,1_3bvifdix,1_j7yb65rh,1_f4q5jrcv,1_ano2uh8h,1_uluwhf1l,1_zimjp66w/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562117&id=4787&ip=206.84.34.255&override_expiration=1500&sign=SOv2mJ8RY0JrLw250XGNO0NptckR4IIRcIRtGg2QE4Y%3D&playSessionId=dfab226d-826c-4132-82fa-a4ea79192d19:0d7ddb32-51f7-1b6b-2dbd-930ab145c1b1&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2Ftb3ItcG9yLWRpcmVpdG8=&clientTag=html5:v7.60
 
 #EXTINF:-1 tvg-id="Antes que Termine o Dia" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mRduoGq6vIeNQjsxc60OmF3gqip.jpg" group-title="Filmes ondemand",Antes que Termine o Dia
 https://siloh.pluto.tv/c6009f_pluto/clip/60f03fbd76826f001370ee73_If_Only_BR/720p/20210715_070134/hls/0-end/master.m3u8
@@ -6862,6 +6868,10 @@ https://siloh.pluto.tv/276_Polar/clip/62bda132e9e8c0001370c600_In_the_Loop_BR/72
 
 #EXTINF:-1 tvg-id="Departamento Q - O Ausente" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ciVxnOrlREugwcEQp2WuHOBQgeG.jpg" group-title="Filmes ondemand",Departamento Q - O Ausente
 https://siloh.pluto.tv/066_A2Films/clip/62fd086651b268001a9b1004_Departament_Q_The_Absent_One_BR/720p/20220819_115432/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Departamento Q - Guardiões das Causas Perdidas" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wSEFQ6iCj626xjItq4DSPVr5MKC.jpg" group-title="Filmes ondemand",Departamento Q - Guardiões das Causas Perdidas
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wgd83sh6/format/applehttp/protocol/https/flavorIds/1_zmed02re,1_d3dykw0e,1_v3n0xz0c,1_p81o2rwp,1_dr6cqof2,1_nkewyzkx,1_jr4ct3t7/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562784&id=2130&ip=206.84.34.255&override_expiration=1500&sign=%2FQmAgjuiGWe%2Fb9G9Zi2FqaROj1e0SokjTiQpA6DJpOg%3D&playSessionId=641bb8d1-d8e4-6993-b3f8-4710418674ca:6e4c4b30-165d-9f43-d3c4-1f42b0b56efd&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2RlcGFydGFtZW50by1xLWd1YXJkaW9lcy1kYXMtY2F1c2FzLXBlcmRpZGFz&clientTag=html5:v7.60
+
 
 #EXTINF:-1 tvg-id="Django" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pYsDq0fTMC1XuEg63NOXfxzHBJY.jpg" group-title="Filmes ondemand",Django
 https://siloh.pluto.tv/c6009f_pluto/clip/5ff46f9cae15d8001a81ba50_Django_BR/720p/20210105_055436/hls/0-end/master.m3u8
@@ -6914,6 +6924,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fd76c93aabcdd001aaee9a1_STAR_TREK_IV_T
 
 #EXTINF:-1 tvg-id="Jornada nas Estrelas VI: A Terra Desconhecida" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/DLF3vrVHNmaMTI5AIDYEUF7zdo.jpg" group-title="Filmes ondemand",Jornada nas Estrelas VI: A Terra Desconhecida
 https://siloh.pluto.tv/c6009f_pluto/clip/5fdcaca80983410013ddc38a_STAR_TREK_VI_THE_UNDISCOVERED_COUNTRY_BR/720p/20201218_052041/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Malcolm X" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg" group-title="Filmes ondemand",Malcolm X
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_2y3noteo/format/applehttp/protocol/https/flavorIds/1_o8amywgm,1_ft5nvdn3,1_oipmty3r,1_6mumi9qo,1_wnby8msj,1_pljjjk65,1_05638gwy/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680561578&id=5948&ip=206.84.34.255&override_expiration=1500&sign=w17LFzgs%2FSMgdGdyPsy8Y%2F4CZUeAu0KFzBjLiV7TzyQ%3D&playSessionId=2453e452-c718-2285-aad2-90cefac62ced:648d9260-2b73-adb6-1654-839bff1057b0&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL21hbGNvbG0teA==&clientTag=html5:v7.60
 
 #EXTINF:-1 tvg-id="Luzes da Cidade" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/q3vMcFPcLL0jClcAYG5iFEwL3eE.jpg" group-title="Filmes ondemand",Luzes da Cidade
 https://siloh.pluto.tv/c6009f_pluto/clip/603d4c8de7c979001a88e275_Charlie_Chaplin_Luzes_da_Cidade_BR/720p/20210301_122029/hls/0-end/master.m3u8
@@ -6971,6 +6984,12 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fa95cd89d991c001a9ccb9b_Armadura_de_de
 
 #EXTINF:-1 tvg-id="Os 39 Degraus" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/oFD9uJqWAuW09MVWCLifokJQNhj.jpg" group-title="Filmes ondemand",Os 39 Degraus
 https://siloh.pluto.tv/c6009f_pluto/clip/607834a333e416001a40d40d_39_degraus_BR/720p/20210415_054211/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Os Falsários" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8U1kGOVBcdiBSgNz5a63VfSzgbV.jpg" group-title="Filmes ondemand",Os Falsários
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_xcvt3riz/format/applehttp/protocol/https/flavorIds/1_fn8q65pe,1_vsasyufg,1_2xehdbpc,1_b433tgxg,1_3m80wqhl,1_1h3zds33,1_c16bd212,1_q0vo9srx/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680561804&id=9811&ip=206.84.34.255&override_expiration=1500&sign=j8C4A8b5H01GQmIzaxwBgNJIN%2FS5%2BXBYOStoTNAO0v0%3D&playSessionId=03c490c2-a778-cca0-d31f-c750f3d955f4:624e7952-5993-dbab-7fbd-4daf64915b39&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL29zLWZhbHNhcmlvcw==&clientTag=html5:v7.60
+
+#EXTINF:-1 tvg-id="Os Gritos do Silêncio" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8PgmK0doOtBQbDIXpOTjGUvjxU6.jpg" group-title="Filmes ondemand",Os Gritos do Silêncio
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_iavqhnep/format/applehttp/protocol/https/flavorIds/1_6w1d9db7,1_tz94vmmi,1_h0g9ig9h,1_66vun0e7,1_pqqer0tr,1_mdg85k20,1_ilspohqr/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680561484&id=9936&ip=206.84.34.255&override_expiration=1500&sign=AfyolcubWT8W%2BQimFdll5NJv6L8ctBnzdIgCkulbRPw%3D&playSessionId=3748e656-5f82-ca82-3857-2c12e992ed97:65c779c6-1cb0-9ea8-9f96-3df4953b1f90&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL29zLWdyaXRvcy1kby1zaWxlbmNpbw==&clientTag=html5:v7.60
 
 #EXTINF:-1 tvg-id="Os Sete Suspeitos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7gLuMzYiN7SdQfYyhsTZGnr21wL.jpg" group-title="Filmes ondemand",Os Sete Suspeitos
 https://siloh.pluto.tv/317_pluto/clip/632328d8db4067001361538b_Clue_BR/720p/20220915_063000/hls/0-end/master.m3u8
