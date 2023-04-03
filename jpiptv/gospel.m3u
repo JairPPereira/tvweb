@@ -2930,3 +2930,10 @@ https://content.jwplatform.com/videos/f902Izpl-2TdoDbn0.mp4
 https://content.jwplatform.com/videos/NlCnxBGP-zJfxYVCz.mp4
 
 #############################################################################################
+
+
+#EXTINF:-1 tvg-id=A Bíblia tvg-logo=https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg group-title=A Bíblia tvg-name="A Bíblia T01E01
+http://acsc.cc:80/series/91773781153/snakeplay/151255.mp4" 
+
+#EXTINF:-1 tvg-id="A Bíblia" tvg-logo="https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg" group-title="A Bíblia",A Bíblia T01E01
+http://acsc.cc:80/series/91773781153/snakeplay/151255.mp4
