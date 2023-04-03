@@ -7069,6 +7069,9 @@ https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/5f86fe763bd42e001ac65830_Law_abi
 #EXTINF:-1 tvg-id="Com Amor, Van Gogh" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pw72rhXTRbIel6iNWKHUqiIvcZm.jpg" group-title="Filmes ondemand",Com Amor, Van Gogh
 https://siloh.pluto.tv/387_pluto/clip/62f3cad1362313001aa839fd_Com_Amor_Van_Gogh/720p/20220810_081217/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Complicações do Amor" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3PTrmfVegs3a2UOgjNJbkwHB1NA.jpg" group-title="Filmes ondemand",Complicações do Amor
+https://siloh.pluto.tv/c6009f_pluto/clip/604b9217b2b870001a05f4ca_The_One_I_Love_BR/720p/20210312_080855/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Conversa Truncada" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jL6txnziFSeEifQkqnPBtaPaiXU.jpg" group-title="Filmes ondemand",Conversa Truncada
 https://siloh.pluto.tv/276_Polar/clip/62bda132e9e8c0001370c600_In_the_Loop_BR/720p/20220901_125727/hls/0-end/master.m3u8
 
@@ -7086,6 +7089,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/603d4c90e7c979001a88e2ab_Charlie_Chapli
 
 #EXTINF:-1 tvg-id="Entre Irmãos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/buKRRR6Z6TztAuMUw7DUXCwn4hs.jpg" group-title="Filmes ondemand",Entre Irmãos
 https://siloh.pluto.tv/428_pluto/clip/61fa85d5fef5db001a0ea175_Brothers_2009_BR/720p/20220202_052333/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Expresso do Amanhã" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9rtJNrpDuxHJiRormrY5S3GXwEu.jpg" group-title="Filmes ondemand",Expresso do Amanhã
+https://siloh.pluto.tv/c6009f_pluto/clip/5f86fe7d3bd42e001ac658e6_Snowpiercer_BR/720p/20201014_063453/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Farrapo Humano" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3rXzGi1BqzSPMeIjvu8WxXDQGLa.jpg" group-title="Filmes ondemand",Farrapo Humano
 https://siloh.pluto.tv/c6009f_pluto/clip/602e956f558c290014f9043f_Farrapo_Humano_BR/720p/20210218_082728/hls/0-end/master.m3u8
@@ -7138,6 +7144,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fda5c919a5870001a436bd9_Metropolis_BR/
 
 #EXTINF:-1 tvg-id="Nada é para Sempre" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Pc791iaMjMxqqu81R9k6AqzerF.jpg" group-title="Filmes ondemand",Nada é para Sempre
 https://siloh.pluto.tv/834_pluto/clip/6310cd2fbb171a00130e1122_A_River_Runs_Through_It_BR/720p/20220901_081808/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Namorados para Sempre" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/s5pgiGme7s6NGQhtGy7ev3dhXUo.jpg" group-title="Filmes ondemand",Namorados para Sempre
+https://siloh.pluto.tv/c6009f_pluto/clip/5fd8ca0eed4edc001b0004b9_BLUE_VALENTINE_BR/720p/20201215_063702/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Nosferatu" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3MI2hME5h1yrGAT2eWjXaeHf89e.jpg" group-title="Filmes ondemand",Nosferatu
 https://siloh.pluto.tv/9d7f35_Nirvana/clip/5fe9f548636004001a795054_Nosferatu_BR/720p/20201228_072008/hls/0-end/master.m3u8
