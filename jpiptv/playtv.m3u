@@ -592,6 +592,11 @@ http://5ce.co:80/Ctina2718/Tina3619/180729
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="esportes",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
+#EXTINF:-1tvg-name="BandSportsSD"tvg-logo="http://70.ms/hP"group-title="ESPORTES",BandSportsSD
+http://5ce.co:80/Ctina2718/Tina3619/6637
+#EXTINF:-1tvg-name="BandSportsSDÂ²"tvg-logo="http://70.ms/9F"group-title="ESPORTES",BandSportsSDÂ²
+http://5ce.co:80/Ctina2718/Tina3619/10866
+
 #EXTINF:-1 tvg-id="RSNewsSports.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a9158128f33e2a329ae8296ec8e3574.webp" group-title="esportes", RS News Sports 2
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
 
