@@ -7041,6 +7041,9 @@ https://siloh.pluto.tv/155_pluto/clip/62ffa2a020b977001eef0dba_Pope_Joan_BR/720p
 #EXTINF:-1 tvg-id="A Pele de Vênus" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/oVjr7tuZ3ARKVoXShSbDpVQmboT.jpg" group-title="Filmes ondemand",A Pele de Vênus
 https://siloh.pluto.tv/262_pluto/clip/6324c4e57a31e800133ac419_Venus_in_Fur_BR/720p/20220916_114805/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="A Viagem" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hf7Mqgy79fyhgKJ5JmEuyWgh6LA.jpg" group-title="Filmes ondemand",A Viagem
+https://siloh.pluto.tv/686_Polar/clip/62ffab1020d41e001a6e91fe_Cloud_Atlas_BR/720p/20220819_083257/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Alcatraz: Fuga Impossível" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8ChgAP1Ck1BEXaATqyPS8nMExim.jpg" group-title="Filmes ondemand",Alcatraz: Fuga Impossível
 https://siloh.pluto.tv/022_pluto/clip/63233dfdb5308b0014de7ed2_Escape_From_Alcatraz_BR/720p/20220915_080013/hls/0-end/master.m3u8
 
@@ -7117,6 +7120,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/603d4c90e7c979001a88e2ab_Charlie_Chapli
 
 #EXTINF:-1 tvg-id="Entre Irmãos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/buKRRR6Z6TztAuMUw7DUXCwn4hs.jpg" group-title="Filmes ondemand",Entre Irmãos
 https://siloh.pluto.tv/428_pluto/clip/61fa85d5fef5db001a0ea175_Brothers_2009_BR/720p/20220202_052333/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Entre o Céu e o Inferno" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mRTWj0aQYPG4HMTC1PCjsizPIOm.jpg" group-title="Filmes ondemand",Entre o Céu e o Inferno
+https://siloh.pluto.tv/c6009f_pluto/clip/60de2cfd3988a50013b725c3_BLACK_SNAKE_MOAN_BR/720p/20210701_140045/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Expresso do Amanhã" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9rtJNrpDuxHJiRormrY5S3GXwEu.jpg" group-title="Filmes ondemand",Expresso do Amanhã
 https://siloh.pluto.tv/c6009f_pluto/clip/5f86fe7d3bd42e001ac658e6_Snowpiercer_BR/720p/20201014_063453/hls/0-end/master.m3u8
