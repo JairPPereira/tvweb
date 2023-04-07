@@ -17,7 +17,7 @@ http://5ce.co:80/Ctina2718/Tina3619/35759
 #EXTINF:-1tvg-name="GloboRJFHDÂ²"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg"group-title="variedades",GloboRJFHDÂ²
 http://5ce.co:80/Ctina2718/Tina3619/61623
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="variedades",TV GRÃO PARA
+#EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="variedades",TV GRÃO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RECORD BELEM SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNWJFSkv8WuREsdEJurNJsn37qiveveohfTQenCW90TiK2UvF_XJr0s_uEfZA_IxN-DqQDDJaS6bzdQF_A104A2xisUTu0EUXfgZwQt8Q380zkw8eVu85OWH2aGgdcrnxw44RvXHDgXgJ2b-zJr7qDCWE2omBuOwDvK8_h48IbqO2lHEE1NwQbDPF4/s1600/Rede-Record.png" group-title="variedades", RECORD BELEM SD
@@ -270,8 +270,6 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w31040624.m3u8
 #EXTINF:-1 tvg-id="7tvbs.br"  tvg-logo="https://media.discordapp.net/attachments/1004923383244394577/1049875354636001311/Picsart_22-11-09_23-57-16-463.png" group-title="variedades", TV7 HD
 https://stream.ichibantv.ga:3013/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="variedades", AgroBrasil TV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS83g-7PSQ5blTJoNLpjoyC27a7TPzHLtjJrDsl=s900-c-k-c0x00ffffff-no-rj" group-title="variedades", Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
@@ -360,19 +358,19 @@ https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Jundiaí Hoje" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ccd5d090f6ea0cba0074898bfbd531f8.webp" group-title="variedades",Tv Jundiaí Hoje
 https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="variedades",MASTER TV PR
+#EXTINF:-1 tvg-id="MASTER TV PR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="variedades",MASTER TV PR
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5da6ab4e1fd0705a19bfe1fdeee3520d.webp" group-title="variedades",PLAN TV
+#EXTINF:-1 tvg-id="PLAN TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5da6ab4e1fd0705a19bfe1fdeee3520d.webp" group-title="variedades",PLAN TV
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d68075bb4ed2f1d6007671fbc2756d91.webp" group-title="variedades",TV POCOS
+#EXTINF:-1 tvg-id="TV POCOS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d68075bb4ed2f1d6007671fbc2756d91.webp" group-title="variedades",TV POCOS
 https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8beb9f24c539ff0a79fdafc042ab1403.webp" group-title="variedades",UNISUL TV
+#EXTINF:-1 tvg-id="UNISUL TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8beb9f24c539ff0a79fdafc042ab1403.webp" group-title="variedades",UNISUL TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmKRV2jYwbDAey8u4phUI-LozeZ2W7AMzTmymV5M9fEXMUuonh6RQePNfqgqPAWLhgcM&usqp=CAU" group-title="variedades",TV BELTRAO 2
+#EXTINF:-1 tvg-id="TV BELTRAO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmKRV2jYwbDAey8u4phUI-LozeZ2W7AMzTmymV5M9fEXMUuonh6RQePNfqgqPAWLhgcM&usqp=CAU" group-title="variedades",TV BELTRAO 2
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunklist_w1662797829.m3u8
 
 #EXTINF:-1 tvg-id="TVE RS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb6da5dab7f3e21853e5719473fc29f0.webp" group-title="variedades",TVE RS
@@ -12130,10 +12128,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078
 
 
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",FURG TV
+#EXTINF:-1 tvg-id="FURG TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",FURG TV
 http://stream.furg.br/hls/furgtv_480p.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV SETE LAGOAS
+#EXTINF:-1 tvg-id="TV SETE LAGOAS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV SETE LAGOAS
 https://livefocamundo.com:8081/tvsetelagoas/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV COM DF
