@@ -7367,6 +7367,9 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 ########################################################################################
 
 
+#EXTINF:-1 tvg-id="A Árvore da Vida" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/iDt5nvv2TdZsFFuF5JvnEZr6RGB.jpg" group-title="Filmes ondemand",A Árvore da Vida
+https://siloh.pluto.tv/416_pluto/clip/630e6c4037c5800013b458f5_Tree_Of_Life_BR/720p/20220830_130000/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="A Hora do Acerto" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/d4a3r24yLya4Lq0EszxrwzODyzX.jpg" group-title="Filmes ondemand",A Hora do Acerto
 https://siloh.pluto.tv/968_pluto/clip/640b30e93448750014da238d_New_Police_Story_BR/720p/20230310_053018/hls/0-end/master.m3u8
 
@@ -7511,6 +7514,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fd8ca0eed4edc001b0004b9_BLUE_VALENTINE
 #EXTINF:-1 tvg-id="O Chamado" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vCZlZ52fQT3bDnK7hqEhdYRKUva.jpg" group-title="Filmes ondemand",O Chamado
 https://play.prod.gcp.vix.services/ringu_pt/ringu_pt_1-1/hls_1500_.m3u8
 
+#EXTINF:-1 tvg-id="O Dono do Jogo" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/lw6oQ70aLS2thMyUn0CPSYiUiau.jpg" group-title="Filmes ondemand",O Dono do Jogo
+https://siloh.pluto.tv/001_pluto/clip/62ff97609bd9c6001b64e244_Pawn_Sacrifice_BR/720p/20220819_070000/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="O Garoto de Liverpool" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kyqiMQWssWGR9nXPqA5J4Gzb7vc.jpg" group-title="Filmes ondemand",O Garoto de Liverpool
 https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/60b68bcf2eecb3001af8873a_Nowhere_Boy_BR/720p/20210608_082532/hls/0-end/master.m3u8
 
@@ -7556,6 +7562,9 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_iavqhn
 #EXTINF:-1 tvg-id="Os Sete Suspeitos" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7gLuMzYiN7SdQfYyhsTZGnr21wL.jpg" group-title="Filmes ondemand",Os Sete Suspeitos
 https://siloh.pluto.tv/317_pluto/clip/632328d8db4067001361538b_Clue_BR/720p/20220915_063000/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Penelope" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/IVHd5MnQpUJUW5jkZuYrxtqDTc.jpg" group-title="Filmes ondemand",Penelope
+https://siloh.pluto.tv/c6009f_pluto/clip/60db3a5b89632c0013eb5372_Penelope_BR/720p/20210629_082100/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Ponto Final: Match Point" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tefwQtylm6045V3jO5GJWdeQ0SQ.jpg" group-title="Filmes ondemand",Ponto Final: Match Point
 https://siloh.pluto.tv/380_pluto/clip/630cda167a42340013e63fb2_Match_Point_BR/720p/20220829_082406/hls/0-end/master.m3u8
 
@@ -7565,6 +7574,9 @@ https://siloh.pluto.tv/527_pluto/clip/6310e67cbb171a00130e224b_Precious_BR/720p/
 
 #EXTINF:-1 tvg-id="Promessas de Guerra" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/auwdpPHhajvXn26BLFmJ4HlxdM0.jpg" group-title="Filmes ondemand",Promessas de Guerra
 https://siloh.pluto.tv/c6009f_pluto/clip/5f8dfad272d139001a1a3154_Water_diviner_BR/720p/20201019_134506/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Redenção" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/2Fksv8RJwVMoCsVcNxnElbVIKbS.jpg" group-title="Filmes ondemand",Redenção
+https://siloh.pluto.tv/c6009f_pluto/clip/5fbe59a20dddaf0013b5c421_Machine_Gun_Preacher_BR/720p/20201125_051827/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Refúgio do Medo" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/p7PJ4BP1AVAItEa9aPPQ5XY9B4v.jpg" group-title="Filmes ondemand",Refúgio do Medo
 https://siloh.pluto.tv/384_California_Films_P/clip/639c9076d576210013f9c6a9_Stonehearst_Asylum_BR/720p/20221219_094900/hls/0-end/master.m3u8
@@ -7603,11 +7615,15 @@ https://siloh.pluto.tv/340_pluto/clip/6323439034b53d00131c963e_Top_Secret_BR/720
 #EXTINF:-1 tvg-id="Trumbo: Lista Negra" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/b4TAYPHi5n3HAcENPnLrvBbTQnE.jpg" group-title="Filmes ondemand",Trumbo: Lista Negra
 https://siloh.pluto.tv/580_Sofa_Digital/clip/620faab2de15be0013449029_Trumbo/720p/20220221_062215/hls/0-end/master.m3u8
 
-#EXTINF:-1 tvg-id="Xeque-Mate" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jQTYxU77m39U51mENi5fXGsQQrD.jpg" group-title="Filmes ondemand",Xeque-Mate
-https://siloh.pluto.tv/496_pluto/clip/6310d59d6e998c0013311ece_Lucky_Number_Slevin_BR/720p/20220901_085405/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Um Homem de Família" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/y5NhCKNzua21rQYiFNq7t4kUyHv.jpg" group-title="Filmes ondemand",Um Homem de Família
+https://siloh.pluto.tv/c6009f_pluto/clip/5fc7a65599839e0013e0ce7d_Family_Man_The_BR/720p/20201202_063605/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Um Santo Vizinho" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ds4JIoNb76oGiAmMejFo6SUydGW.jpg" group-title="Filmes ondemand",Um Santo Vizinho
 https://siloh.pluto.tv/c6009f_pluto/clip/60db8f32a9c1a500138f778d_St_Vincent_BR/720p/20210629_142258/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="Xeque-Mate" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jQTYxU77m39U51mENi5fXGsQQrD.jpg" group-title="Filmes ondemand",Xeque-Mate
+https://siloh.pluto.tv/496_pluto/clip/6310d59d6e998c0013311ece_Lucky_Number_Slevin_BR/720p/20220901_085405/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="[REC]" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg" group-title="Filmes ondemand",[REC]
 https://siloh.pluto.tv/c6009f_pluto/clip/5fbe7744c8c57d00131b7c13_REC_BR/720p/20201125_072452/hls/0-end/master.m3u8
