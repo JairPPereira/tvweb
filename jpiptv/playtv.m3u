@@ -7433,26 +7433,12 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 
 ########################################################################################
 
-#EXTINF:-1 tvg-id="A Dama de Shanghai" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/73mNU1Dgc5ClgMEIyklLwMRwinI.jpg" group-title="Filmes ondemand",A Chave de Sarah
-https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_z9gllrnr/format/applehttp/protocol/https/flavorIds/1_unmobluw,1_mtvjkc4q,1_brxo8zl7,1_5nluku1z,1_4z39wtu2,1_ete198jf,1_6tmblk8j/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562363&id=975&ip=206.84.34.255&override_expiration=1500&sign=ksV%2FucvdngIYMK4A07bsqwoulcS0kK8o9gnFwVaxCy8%3D&playSessionId=2697411d-be21-d5ab-41ca-9b1367a12053:5d2e90c6-0474-a198-de29-c875cb64ee08&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2NoYXZlLWRlLXNhcmFo&clientTag=html5:v7.60
-
-#EXTINF:-1 tvg-id="A Dama de Shanghai" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/whqdqWavNMSoeXTx1X3DauO1LG6.jpg" group-title="Filmes ondemand",A Dama de Shanghai
-https://siloh.pluto.tv/9d7f35_Nirvana/clip/6130bfa6cd24a600155bba0d_A_Dama_de_Shanghai_BR/720p/20210902_053131/hls/0-end/master.m3u8
-
-#EXTINF:-1 tvg-id="A Dama Oculta" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5i8O9fZFltfDjcOF18g5Fyf1fAm.jpg" group-title="Filmes ondemand",A Dama Oculta
-https://siloh.pluto.tv/c6009f_pluto/clip/607869ec33e416001a40d6bc_A_Dama_Oculta_BR/720p/20210415_092933/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="A Hora do Acerto" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/d4a3r24yLya4Lq0EszxrwzODyzX.jpg" group-title="Filmes ondemand",A Hora do Acerto
 https://siloh.pluto.tv/968_pluto/clip/640b30e93448750014da238d_New_Police_Story_BR/720p/20230310_053018/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="A Papisa Joana" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vrAjAQSrAjcn2giGHtQ5hZvpucN.jpg" group-title="Filmes ondemand",A Papisa Joana
 https://siloh.pluto.tv/155_pluto/clip/62ffa2a020b977001eef0dba_Pope_Joan_BR/720p/20220819_074800/hls/0-end/master.m3u8
-
-#EXTINF:-1 tvg-id="A Pele de Vênus" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/oVjr7tuZ3ARKVoXShSbDpVQmboT.jpg" group-title="Filmes ondemand",A Pele de Vênus
-https://siloh.pluto.tv/262_pluto/clip/6324c4e57a31e800133ac419_Venus_in_Fur_BR/720p/20220916_114805/hls/0-end/master.m3u8
-
-#EXTINF:-1 tvg-id="A Viagem" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hf7Mqgy79fyhgKJ5JmEuyWgh6LA.jpg" group-title="Filmes ondemand",A Viagem
-https://siloh.pluto.tv/686_Polar/clip/62ffab1020d41e001a6e91fe_Cloud_Atlas_BR/720p/20220819_083257/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Alcatraz: Fuga Impossível" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8ChgAP1Ck1BEXaATqyPS8nMExim.jpg" group-title="Filmes ondemand",Alcatraz: Fuga Impossível
 https://siloh.pluto.tv/022_pluto/clip/63233dfdb5308b0014de7ed2_Escape_From_Alcatraz_BR/720p/20220915_080013/hls/0-end/master.m3u8
@@ -7469,11 +7455,6 @@ https://siloh.pluto.tv/c6009f_pluto/clip/60f03fbd76826f001370ee73_If_Only_BR/720
 #EXTINF:-1 tvg-id="Antes Só do que Mal Acompanhado" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ulMbGa8XEz0zMXkDkIX4PN3a51.jpg" group-title="Filmes ondemand",Antes Só do que Mal Acompanhado
 https://siloh.pluto.tv/453_pluto/clip/632336f6b5308b0014de7d24_Planes_Trains_And_Automobiles_BR/720p/20220915_073014/hls/0-end/master.m3u8
 
-#EXTINF:-1 tvg-id="Armadura de Deus" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/nstPbqmWlOibLutLsVvgT7RarRk.jpg" group-title="Filmes ondemand",Armadura de Deus
-https://siloh.pluto.tv/c6009f_pluto/clip/5fa012991788de001ad57be6_Armadura_de_deus_BR/720p/20201102_060721/hls/0-end/master.m3u8
-
-#EXTINF:-1 tvg-id="As Aventuras de Robin Hood" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aWXud8CnjWXYWPDmVwrfusSoDm0.jpg" group-title="Filmes ondemand",As Aventuras de Robin Hood
-https://siloh.pluto.tv/c6009f_pluto/clip/5fe237f2b27a60001b2aeea5_As_aventuras_de_robin_Hood_BR/720p/20201222_101619/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="As Virgens Suicidas" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aqiLCE1DN61gXKJrmAOZftw1fqg.jpg" group-title="Filmes ondemand",As Virgens Suicidas
 https://siloh.pluto.tv/c6009f_pluto/clip/601417cf67e9ba001a840607_VIRGIN_SUICIDES_THE_BR/720p/20210129_061231/hls/0-end/master.m3u8
