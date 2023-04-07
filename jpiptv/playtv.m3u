@@ -7381,8 +7381,11 @@ https://siloh.pluto.tv/022_pluto/clip/63233dfdb5308b0014de7ed2_Escape_From_Alcat
 #EXTINF:-1 tvg-id="Alexandria" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tDOnF4AQT8t91oXpA1lkcTQdCTc.jpg" group-title="Filmes ondemand",Alexandria
 https://siloh.pluto.tv/358_Polar/clip/62ffa40ba0cb07001acd818a_Agora_BR/720p/20220819_081006/hls/0-end/master.m3u8
 
-#EXTINF:-1 tvg-id="Alexandria" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7dTx6p5aHYMtpNoEvi6SuT6sidU.jpg" group-title="Filmes ondemand",Amor por Direito
+#EXTINF:-1 tvg-id="Amor por Direito" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7dTx6p5aHYMtpNoEvi6SuT6sidU.jpg" group-title="Filmes ondemand",Amor por Direito
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rdwsygxe/format/applehttp/protocol/https/flavorIds/1_h4ugbzfo,1_3bvifdix,1_j7yb65rh,1_f4q5jrcv,1_ano2uh8h,1_uluwhf1l,1_zimjp66w/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562117&id=4787&ip=206.84.34.255&override_expiration=1500&sign=SOv2mJ8RY0JrLw250XGNO0NptckR4IIRcIRtGg2QE4Y%3D&playSessionId=dfab226d-826c-4132-82fa-a4ea79192d19:0d7ddb32-51f7-1b6b-2dbd-930ab145c1b1&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2Ftb3ItcG9yLWRpcmVpdG8=&clientTag=html5:v7.60
+
+#EXTINF:-1 tvg-id="Anjos da Noite: Underworld" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/sE19OYWcnAigvk8VTdLVfeirwif.jpg" group-title="Filmes ondemand",Anjos da Noite: Underworld
+https://siloh.pluto.tv/c6009f_pluto/clip/5fbe774ac8c57d00131b7c7c_Underworld_BR/720p/20201125_072458/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="Antes que Termine o Dia" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mRduoGq6vIeNQjsxc60OmF3gqip.jpg" group-title="Filmes ondemand",Antes que Termine o Dia
 https://siloh.pluto.tv/c6009f_pluto/clip/60f03fbd76826f001370ee73_If_Only_BR/720p/20210715_070134/hls/0-end/master.m3u8
