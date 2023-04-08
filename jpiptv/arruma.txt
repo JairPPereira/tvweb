@@ -1,6 +1,7 @@
 
 
 
+[REC]
 A Árvore da Vida
 A Hora do Acerto
 A Papisa Joana
@@ -10,6 +11,7 @@ Amor por Direito
 Anjos da Noite: Underworld
 Antes que Termine o Dia
 Antes Só do que Mal Acompanhado
+As Palavras
 As Virgens Suicidas
 Blue Jasmine
 Caçadores de Emoção
@@ -22,9 +24,10 @@ Com Amor, Van Gogh
 Complicações do Amor
 Conversa Truncada
 Cubo
-Departamento Q - O Ausente
 Departamento Q - Guardiões das Causas Perdidas
+Departamento Q - O Ausente
 Donnie Darko
+Ecos do Além
 Em Busca do Ouro
 Entre Irmãos
 Entre o Céu e o Inferno
@@ -34,19 +37,21 @@ Força Maior
 Grandes Olhos
 Guerra ao Terror
 Hellraiser: Renascido do Inferno
+Invasores - Nenhum Sistema Está à Salvo
 Jack e a Mecânica do Coração
+Jogos Patrióticos
 Jornada nas Estrelas II: A Ira de Khan
 Jornada nas Estrelas IV: A Volta para Casa
-Jornada nas Estrelas: Primeiro Contato
 Jornada nas Estrelas VI: A Terra Desconhecida
+Jornada nas Estrelas: Primeiro Contato
 Luzes da Cidade
 Malcolm X
 Maratona da Morte
 Marcados Para Morrer
 Marcados Pela Guerra
-Invasores - Nenhum Sistema Está à Salvo
 Nada é para Sempre
 Namorados para Sempre
+O Caçador
 O Chamado
 O Dono do Jogo
 O Garoto
@@ -68,6 +73,7 @@ Penelope
 Ponto Final: Match Point
 Preciosa: Uma História de Esperança
 Promessas de Guerra
+Quanto Mais Idiota Melhor
 Redenção
 Refúgio do Medo
 Ritmo de um Sonho
@@ -78,7 +84,6 @@ Samurai X: O Filme
 Secretária
 Sou Louco Por Você
 Tempos Modernos
-[REC]
 Tokyo Ghoul
 Top Secret! Superconfidencial
 Trumbo: Lista Negra
