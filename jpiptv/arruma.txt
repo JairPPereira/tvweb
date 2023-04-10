@@ -547,7 +547,7 @@ Encurralados 2016
 Entre Armas e Brinquedos (2020)
 Entre Tiros e Beijos (2021)
 Era Uma vez no México (2003)
-Esquadrão 6 (2019)
+
 Esquadrão 6 2019
 Esquadrão Classe A 2010
 Esquadrão de Elite (2019)
@@ -728,21 +728,20 @@ Mad Max 1 1979
 Mad Max 2 1981
 Mad Max 3 1985
 Mad Max 4 2015
-Mad Max: Além da Cúpula do Trovão (1985)
-Mad Max: Estrada da Fúria (2015)
+
 Máfia contra Máfia (2019)
 Major Grom Contra O Dr Peste 2021
-Major Grom Contra o Dr. Peste (2021)
+
 Mandando Bala 2008
 Máquina Mortífera 1 1987
-Máquina Mortífera 2 (1989)
+
 Máquina Mortífera 2 1989
 Máquina Mortífera 3 1992
-Máquina Mortífera 4 (1998)
+
 Máquina Mortífera 4 1998
 Mar em Chamas (2021)
 Mar em Fúria (2000)
-Mate ou Morra (2021)
+
 Mate Ou Morra 2021
 Matrix (1999)
 Maze Runner: Correr ou Morrer (2014)
@@ -763,8 +762,7 @@ Miami Vice (2006)
 MIB - Homens de Preto (1997)
 Millennium: A Garota na Teia de Aranha (2018)
 Minority Report A Nova Lei 2002
-Minority Report: A Nova Lei (2002)
-Missão Babilônia (2008)
+
 Missão Babilônia 2008
 Missão Impossivel 1 1996
 Missão Impossivel 2 2000
@@ -774,9 +772,7 @@ Missão Impossivel 5 2015
 Missao Impossivel 6 2018 
 Missão No Mar Vermelho 2019
 Missão Resgate (2021)
-Missão: Impossível - Efeito Fallout (2018)
-Missão: Impossível - Nação Secreta (2015)
-Missão: Impossível - Protocolo Fantasma (2011)
+
 Monster Hunter (2020)
 Monstro (2018)
 Morbius (2022)
@@ -809,7 +805,7 @@ No Olho do Furacão (2018)
 No Olho do Tornado (2014)
 No Rastro da Bala (2006)
 Nocaute (2015)
-Noite Sem Fim (2015)
+
 Noite Sem Fim 2015
 November man 2015
 O 6º Dia 2000
@@ -832,7 +828,7 @@ O Campeão de Hitler (2010)
 O Carma De Um Assassino 2018
 O Cavaleiro Solitário (2013)
 O Chacal (1997)
-O Cobrador de Dívidas 2 (2020)
+
 O Cobrador De Dividas 2 2020
 O Cobrador de Impostos (2020)
 O Código 2012
@@ -841,7 +837,7 @@ O Contador 2016
 O Demolidor 1994
 O Dia Depois de Amanhã (2004)
 O Dia do Atentado (2016)
-O Duelo Final (2017)
+
 O Duelo Final 2019
 O Escorpião Rei (2002)
 O Escorpião Rei 5: O Livro das Almas (2018)
@@ -852,11 +848,11 @@ O Esquadrão Suicida (2021)
 O Estrangeiro (2017)
 O Exterminador do Futuro (1984)
 O Exterminador Do Futuro 2 1991
-O Exterminador do Futuro 2: O Julgamento Final (1991)
+
 O Exterminador Do Futuro 3 2003
-O Exterminador do Futuro 3: A Rebelião das Máquinas (2003)
+
 O Exterminador Do Futuro 4 2009
-O Exterminador do Futuro 4: A Salvação (2009)
+
 O Exterminador Do Futuro 5 2015
 O Exterminador Do Futuro 6 2020
 O Franco-Atirador (2015)
@@ -883,7 +879,7 @@ O Juiz Dredd 2012
 O Juízo Final 2008
 O Justiceiro (2004)
 O Legado Bourne (2012)
-O Livro de Eli (2010)
+
 O Livro De Eli 2010
 O Lutador (2006)
 O Matador (2017)
@@ -896,14 +892,14 @@ O Odio Que Voce Semeia 2019
 O Pacto (2021)
 O Passageiro (2018)
 O Peso do Talento (2022)
-O Preço do Amanhã (2011)
+
 O Preço Do Amanhã 2011
 O Predestinado 2014
-O Procurado (2008)
+
 O Procurado 2008
 O Profissional 1994
 O Protetor 1 2014
-O Protetor 2 (2018)
+
 O Protetor 2 2018
 O Rapto do Menino Dourado (1986)
 O Refúgio (2020)
@@ -912,8 +908,7 @@ O Rei dos Kickboxers (1990)
 O Reino das Espadas (2018)
 O Resgate 2012
 O Resgate O Dia Da Redenção 2021
-O Resgate: O Dia da Redenção (2021)
-O Ritmo da Vingança (2020)
+
 O Ritmo da Vingança 2020
 O Santo (2017)
 O Sequestro (2021)
@@ -924,7 +919,7 @@ O Substituto (1996)
 O Tesouro de Matecumbe (1976)
 O Tesouro Perdido (2020)
 O Tigre e o Dragão: A Espada do Destino (2016)
-O Ultimato Bourne (2007)
+
 O Ultimato Bourne 2007
 O Último Boy Scout: O Jogo da Vingança (1991)
 O Ultimo Desafio 2013
@@ -934,10 +929,10 @@ O Último Mercenário (2021)
 O Último Rei (2016)
 O Último Voo (2004)
 O Vendedor Chinês 2018
-O Vidente (2007)
+
 O Vidente 2007
 O Vigia 2019
-O Vingador (2003)
+
 O Vingador 2003
 O Vingador do Futuro (1990)
 O Vingador do Futuro (2012)
@@ -967,23 +962,23 @@ Os Condenados 2 (2015)
 Os Especialistas 2011
 Os Federais 1998
 Os Mercenários 1 2010
-Os Mercenários 2 (2012)
+
 Os Mercenários 2 2012
-Os Mercenários 3 (2014)
+
 Os Mercenários 3 2014
 Os Muppets na Ilha do Tesouro (1996)
 Os Outros Caras 2010
-Os Perdedores (2010)
+
 Os Perdedores 2010
 Os Piratas: Em Busca do Tesouro Perdido (2022)
 Os Reis da Rua (2008)
-Os Renegados (2021)
+
 Os Renegados 2021
 Osso Duro (2015)
 Overdose (2022)
 Pandemia (2021)
 Pantera Negra (2018)
-Parker (2013)
+
 Parker 2013
 Perigo Real e Imediato (1994)
 Perseguição (2022)
@@ -993,11 +988,11 @@ Perseguição Radical (2016)
 Pig: A Vingança (2021)
 Pitbull - Força Bruta (2021)
 Pixels (2015)
-Polar (2019)
+
 Polar 2019
 Polícia Federal: A Lei é Para Todos (2017)
 Policial Em Apuros 1 2014
-Policial em Apuros 2 (2016)
+
 Policial Em Apuros 2 2016
 Power (2020)
 Predadores (2017)
@@ -1009,7 +1004,7 @@ Quarteto Fantástico (2015)
 Quatro Irmãos (2005)
 Quebrando as Regras 4 (2021)
 Queda Mortal (2013)
-Queima de Arquivo (1996)
+
 Queima De Arquivo 1996
 R2B: Operação Retorno a Base (2012)
 Rambo 1 1982
@@ -1017,22 +1012,18 @@ Rambo 2 1985
 Rambo 3 1988
 Rambo 4 2008
 Rambo 5 2019
-Rambo II - A Missão (1985)
-Rambo III (1988)
-Rambo IV (2008)
-Rambo: Até o Fim (2019)
-Rambo: Programado Para Matar (1982)
+
 Rampage: Destruição Total (2018)
 Rápida Vingança 2010
-Rebelião (2015)
+
 Rebelião 2016
-RED - Aposentados e Perigosos (2010)
+
 Red 1 2010
 Red 2 2013
-RED 2: Aposentados e Ainda Mais Perigosos (2013)
+
 Rede de Corrupção (2001)
 Rede de Mentiras (2008)
-Redenção (2013)
+
 Redenção 2013
 Refém 2005
 Refém do Jogo (2018)
@@ -1044,7 +1035,7 @@ Resgate Mortal 2019
 Ressurreição (2016)
 Ring of Fire (1991)
 Risco Máximo (1996)
-Risco Máximo (2016)
+
 Risco Máximo 2017
 Risco Total (1993)
 Robin Hood (2010)
@@ -1541,44 +1532,28 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7307.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7306.mkv
 #EXTINF:-1 tvg-name="Refém do Jogo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32hjhlZf8rR9ahxOS26xeIGf95m.jpg" group-title="FILMES: Ação",Refém do Jogo (2018)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7305.mkv
-#EXTINF:-1 tvg-name="Risco Máximo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7Cqkzm89eBENSYk3AaNlxzEeSC.jpg" group-title="FILMES: Ação",Risco Máximo (2016)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7304.mkv
+
 #EXTINF:-1 tvg-name="Refúgio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVTvlITAqPvH3fU0opjz08vakyc.jpg" group-title="FILMES: Ação",Refúgio (2021)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7303.mkv
 #EXTINF:-1 tvg-name="Rei Arthur: A Lenda da Espada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVvc4XRnUMGBMAhtWVzHdySIJzm.jpg" group-title="FILMES: Ação",Rei Arthur: A Lenda da Espada (2017)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7302.mkv
 #EXTINF:-1 tvg-name="Refém Rebelde (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61hoGhY0khqOolZyfxqv4zrde8M.jpg" group-title="FILMES: Ação",Refém Rebelde (2021)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7301.mkv
-#EXTINF:-1 tvg-name="Redenção (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtXFVL5kaNBBS08KWkDeLEsk89n.jpg" group-title="FILMES: Ação",Redenção (2013)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7300.mkv
+
 #EXTINF:-1 tvg-name="Rede de Mentiras (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIUBj0wIcTsqcFsxGFUdx6e5Lhp.jpg" group-title="FILMES: Ação",Rede de Mentiras (2008)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7299.mkv
 #EXTINF:-1 tvg-name="Rede de Corrupção (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJKpxGaEH8Xf2buOHFn34MeZrSX.jpg" group-title="FILMES: Ação",Rede de Corrupção (2001)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7298.mkv
-#EXTINF:-1 tvg-name="Rebelião (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q2pHzDfJ8QlUA2vx2yAXWJkof7.jpg" group-title="FILMES: Ação",Rebelião (2015)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7297.mkv
+
 #EXTINF:-1 tvg-name="Rampage: Destruição Total (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bhqCvl771uepyt6wbzEiryxEoc.jpg" group-title="FILMES: Ação",Rampage: Destruição Total (2018)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7296.mkv
-#EXTINF:-1 tvg-name="Rambo III (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VcaFbhUnYb6R4Nbhk9tXlcP5j1.jpg" group-title="FILMES: Ação",Rambo III (1988)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7295.mkv
-#EXTINF:-1 tvg-name="Rambo IV (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NbmBzgG1chI3fS31HHfZEEsApw.jpg" group-title="FILMES: Ação",Rambo IV (2008)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7294.mkv
-#EXTINF:-1 tvg-name="Rambo II - A Missão (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/442nYP16rpQ2bXduWponkvTXJRa.jpg" group-title="FILMES: Ação",Rambo II - A Missão (1985)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7293.mkv
-#EXTINF:-1 tvg-name="Rambo: Programado Para Matar (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDJ4YOz7baCHH6ZJPut9NcCgNl1.jpg" group-title="FILMES: Ação",Rambo: Programado Para Matar (1982)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7292.mkv
-#EXTINF:-1 tvg-name="RED 2: Aposentados e Ainda Mais Perigosos (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPKBt50sQTeBwkJrg5GIt7axRLX.jpg" group-title="FILMES: Ação",RED 2: Aposentados e Ainda Mais Perigosos (2013)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7291.mkv
-#EXTINF:-1 tvg-name="RED - Aposentados e Perigosos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLCflHS789mmJTXhoeQCFdA0Saz.jpg" group-title="FILMES: Ação",RED - Aposentados e Perigosos (2010)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7290.mkv
-#EXTINF:-1 tvg-name="Rambo: Até o Fim (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg" group-title="FILMES: Ação",Rambo: Até o Fim (2019)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7289.mkv
+
+
 #EXTINF:-1 tvg-name="Queda Mortal (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yWkJOav2boJvJu0l6lsoMVtxTE.jpg" group-title="FILMES: Ação",Queda Mortal (2013)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7288.mkv
 #EXTINF:-1 tvg-name="R2B: Operação Retorno a Base (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFpnDnSZGxicwQ4hGlTvZUU4zo3.jpg" group-title="FILMES: Ação",R2B: Operação Retorno a Base (2012)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7287.mkv
-#EXTINF:-1 tvg-name="Queima de Arquivo (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44MkE7h2Yx7QTN5uTCmx9Qo5Bzp.jpg" group-title="FILMES: Ação",Queima de Arquivo (1996)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7286.mkv
+
 #EXTINF:-1 tvg-name="Quebrando as Regras 4 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saL9WwmfVoaoeg1tVjyetnF1FEk.jpg" group-title="FILMES: Ação",Quebrando as Regras 4 (2021)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7285.mkv
 #EXTINF:-1 tvg-name="Quarteto Fantástico (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XJ8jZ4hGyusnN41NnxR0vv5ghS.jpg" group-title="FILMES: Ação",Quarteto Fantástico (2015)
@@ -1599,12 +1574,10 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7278.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7277.mkv
 #EXTINF:-1 tvg-name="Polícia Federal: A Lei é Para Todos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYOBHagDwOv66TUzRy265qSWwTP.jpg" group-title="FILMES: Ação",Polícia Federal: A Lei é Para Todos (2017)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7276.mkv
-#EXTINF:-1 tvg-name="Polar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2btxGF270fxOeNJInRNnFtZGkAA.jpg" group-title="FILMES: Ação",Polar (2019)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7275.mkv
+
 #EXTINF:-1 tvg-name="Pitbull - Força Bruta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwbw4Ng7dV9EBA136a3sNiFwVZw.jpg" group-title="FILMES: Ação",Pitbull - Força Bruta (2021)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7274.mkv
-#EXTINF:-1 tvg-name="Policial em Apuros 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/an6rrT8pzrANjis0hnv52DMBR7q.jpg" group-title="FILMES: Ação",Policial em Apuros 2 (2016)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7273.mkv
+
 #EXTINF:-1 tvg-name="Perseguição Radical (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQXkJmlv9PhNLFK5HELT2MUW51k.jpg" group-title="FILMES: Ação",Perseguição Radical (2016)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7272.mkv
 #EXTINF:-1 tvg-name="Pixels (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rV5DzghQv6z6Yagak6ysKE77nuf.jpg" group-title="FILMES: Ação",Pixels (2015)
@@ -1619,30 +1592,25 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7268.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7267.mkv
 #EXTINF:-1 tvg-name="Pantera Negra (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D40jv8pi9uKnrVDPiN3JYYad72.jpg" group-title="FILMES: Ação",Pantera Negra (2018)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7266.mkv
-#EXTINF:-1 tvg-name="Parker (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1cl4RsdqMjolVVsHwiLRPN1CT2.jpg" group-title="FILMES: Ação",Parker (2013)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7265.mkv
+
 #EXTINF:-1 tvg-name="Overdose (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RvM4wawLRlX608FgZr9kL8CLmy.jpg" group-title="FILMES: Ação",Overdose (2022)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7264.mkv
 #EXTINF:-1 tvg-name="Osso Duro (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lb5NWDhW3dhw5AAK4djY2id7To9.jpg" group-title="FILMES: Ação",Osso Duro (2015)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7263.mkv
 #EXTINF:-1 tvg-name="Pandemia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FILMES: Ação",Pandemia (2021)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7262.mkv
-#EXTINF:-1 tvg-name="Os Renegados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrYpppKn5UimPMwsuL8cM2aoFXL.jpg" group-title="FILMES: Ação",Os Renegados (2021)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7261.mkv
+
 #EXTINF:-1 tvg-name="Os Muppets na Ilha do Tesouro (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5SS99cIFwX4Xubg8yJ9svNqquX.jpg" group-title="FILMES: Ação",Os Muppets na Ilha do Tesouro (1996)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7260.mkv
 #EXTINF:-1 tvg-name="Os Reis da Rua (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEmNVeb7Am2YE3FEH4tD9dcxSdH.jpg" group-title="FILMES: Ação",Os Reis da Rua (2008)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7259.mkv
-#EXTINF:-1 tvg-name="Os Perdedores (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4K87EAcsXhFfyyHLRuBvF34sAVx.jpg" group-title="FILMES: Ação",Os Perdedores (2010)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7258.mkv
+
 #EXTINF:-1 tvg-name="Os Piratas: Em Busca do Tesouro Perdido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TxDi9DhUIo23eZftFQPk86ojtN.jpg" group-title="FILMES: Ação",Os Piratas: Em Busca do Tesouro Perdido (2022)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7257.mkv
-#EXTINF:-1 tvg-name="Os Mercenários 3 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg" group-title="FILMES: Ação",Os Mercenários 3 (2014)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7256.mkv
+
 #EXTINF:-1 tvg-name="Os Condenados 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeSqpHnvqOQACOodVI8O8MvLgkg.jpg" group-title="FILMES: Ação",Os Condenados 2 (2015)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7255.mkv
-#EXTINF:-1 tvg-name="Os Mercenários 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1Dy5uR4t8tyjZEo8mHq6q0dnRD.jpg" group-title="FILMES: Ação",Os Mercenários 2 (2012)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7254.mkv
+
 #EXTINF:-1 tvg-name="Os Cavaleiros do Zodíaco: A Lenda dos Defensores de Atena (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/724kXHDFaSJw1WdYX2qi5XkYMLb.jpg" group-title="FILMES: Ação",Os Cavaleiros do Zodíaco: A Lenda dos Defensores de Atena (1988)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7253.mkv
 #EXTINF:-1 tvg-name="Os Condenados (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ti2s7DhiurLvONSygW97AzzsGHR.jpg" group-title="FILMES: Ação",Os Condenados (2007)
@@ -1695,16 +1663,12 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7230.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7229.mkv
 #EXTINF:-1 tvg-name="O Voo da Fênix v2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ntmTbeS9y2gXcrhLw1wxdLqKSK.jpg" group-title="FILMES: Ação",O Voo da Fênix v2 (2004)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7228.mkv
-#EXTINF:-1 tvg-name="O Vingador (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNCtX8fnHq17lkHG3ZVqVMtTtQT.jpg" group-title="FILMES: Ação",O Vingador (2003)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7227.mkv
+
 #EXTINF:-1 tvg-name="O Vingador do Futuro (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFk3iW5ZvkAV7ZrNPYitB0sSxbw.jpg" group-title="FILMES: Ação",O Vingador do Futuro (1990)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7226.mkv
 #EXTINF:-1 tvg-name="O Tigre e o Dragão: A Espada do Destino (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqM3ZxFcUoreBfaFpztL197SLCI.jpg" group-title="FILMES: Ação",O Tigre e o Dragão: A Espada do Destino (2016)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7225.mkv
-#EXTINF:-1 tvg-name="O Ultimato Bourne (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27XjtVdi6zbNni68wtmGdlCODCR.jpg" group-title="FILMES: Ação",O Ultimato Bourne (2007)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7224.mkv
-#EXTINF:-1 tvg-name="O Vidente (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hF2pgtetdZ1VseXvVcy92s5lf5l.jpg" group-title="FILMES: Ação",O Vidente (2007)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7223.mkv
+
 #EXTINF:-1 tvg-name="O Tesouro Perdido (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBHbH1qPhksi4SWfXIS02bbRyEL.jpg" group-title="FILMES: Ação",O Tesouro Perdido (2020)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7222.mkv
 #EXTINF:-1 tvg-name="O Tesouro de Matecumbe (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asJk0EnGrn1xyGodThFTPt4iZZK.jpg" group-title="FILMES: Ação",O Tesouro de Matecumbe (1976)
@@ -1717,26 +1681,21 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7219.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7218.mkv
 #EXTINF:-1 tvg-name="O Substituto (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cb1iHx3qmtNy2rHmTx5zAH7nDIe.jpg" group-title="FILMES: Ação",O Substituto (1996)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7217.mkv
-#EXTINF:-1 tvg-name="O Ritmo da Vingança (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZXUktfFwCT6zrz830SmupHClsV.jpg" group-title="FILMES: Ação",O Ritmo da Vingança (2020)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7216.mkv
+
 #EXTINF:-1 tvg-name="O Rapto do Menino Dourado (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe7LVjqGXJKnneI3g7pFF60VFcS.jpg" group-title="FILMES: Ação",O Rapto do Menino Dourado (1986)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7215.mkv
-#EXTINF:-1 tvg-name="O Resgate: O Dia da Redenção (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB3bVpghYknmwII295HQRQVlbVw.jpg" group-title="FILMES: Ação",O Resgate: O Dia da Redenção (2021)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7214.mkv
+
 #EXTINF:-1 tvg-name="O Reino das Espadas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s7iFKwIJ1Skk9poFBZf4P0yQ9U.jpg" group-title="FILMES: Ação",O Reino das Espadas (2018)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7213.mkv
 #EXTINF:-1 tvg-name="O Rei dos Kickboxers (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrE2v6bX1MYKi7g1fvygGPVYF7U.jpg" group-title="FILMES: Ação",O Rei dos Kickboxers (1990)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7212.mkv
-#EXTINF:-1 tvg-name="O Protetor 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/REWunAyKGCbxvg2UJGMEHuQd2c.jpg" group-title="FILMES: Ação",O Protetor 2 (2018)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7211.mkv
+
 #EXTINF:-1 tvg-name="O Refúgio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGTX2B1zXZYvwlYlBXjOfSoRWiO.jpg" group-title="FILMES: Ação",O Refúgio (2020)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7210.mkv
-#EXTINF:-1 tvg-name="O Procurado (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPID9fe5zoruCIWq49lgcAaLjWa.jpg" group-title="FILMES: Ação",O Procurado (2008)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7209.mkv
+
 #EXTINF:-1 tvg-name="O Peso do Talento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l814mpV0kU3TH3HfZpgKM62zRan.jpg" group-title="FILMES: Ação",O Peso do Talento (2022)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7208.mkv
-#EXTINF:-1 tvg-name="O Preço do Amanhã (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuFZVPVebRrRwiH14uST8m4ulXj.jpg" group-title="FILMES: Ação",O Preço do Amanhã (2011)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7207.mkv
+
 #EXTINF:-1 tvg-name="O Passageiro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhjD4QZPu1SJsSdZ7c8dS1nBIBq.jpg" group-title="FILMES: Ação",O Passageiro (2018)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7206.mkv
 #EXTINF:-1 tvg-name="O Pacto (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipZ1EoENjq2yOCdNWSwZZHcPOBY.jpg" group-title="FILMES: Ação",O Pacto (2021)
@@ -1757,8 +1716,7 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7199.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7198.mkv
 #EXTINF:-1 tvg-name="O Imbatível III: Redenção (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1fetl7jL48JUIUt2PZFlCA5Of.jpg" group-title="FILMES: Ação",O Imbatível III: Redenção (2010)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7197.mkv
-#EXTINF:-1 tvg-name="O Livro de Eli (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUS4hknUZGJKqdFWf04eNSaaRfC.jpg" group-title="FILMES: Ação",O Livro de Eli (2010)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7196.mkv
+
 #EXTINF:-1 tvg-name="O Legado Bourne (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WdJnxWmEHXctz0wZLtVyQ9N4ZC.jpg" group-title="FILMES: Ação",O Legado Bourne (2012)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7195.mkv
 #EXTINF:-1 tvg-name="O Justiceiro (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RQ6LDA2NG97cxL2bLw1O2R2nkp.jpg" group-title="FILMES: Ação",O Justiceiro (2004)
@@ -1791,12 +1749,7 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7182.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7181.mkv
 #EXTINF:-1 tvg-name="O Grande Assalto (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydLRZlP2YAAnxBf3Hy6GcpXVRck.jpg" group-title="FILMES: Ação",O Grande Assalto (2013)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7180.mkv
-#EXTINF:-1 tvg-name="O Exterminador do Futuro 3: A Rebelião das Máquinas (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzzuKhx8Ly6SZa8LxkT5Fvouc5z.jpg" group-title="FILMES: Ação",O Exterminador do Futuro 3: A Rebelião das Máquinas (2003)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7178.mkv
-#EXTINF:-1 tvg-name="O Exterminador do Futuro 2: O Julgamento Final (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qaHS795RXiZoGVvDmyRbX9oTUh.jpg" group-title="FILMES: Ação",O Exterminador do Futuro 2: O Julgamento Final (1991)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7177.mkv
-#EXTINF:-1 tvg-name="O Exterminador do Futuro 4: A Salvação (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNKoEs9ovTLpJURT9WKJASUDktM.jpg" group-title="FILMES: Ação",O Exterminador do Futuro 4: A Salvação (2009)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7176.mkv
+
 #EXTINF:-1 tvg-name="O Exterminador do Futuro (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHVDy91mpqUbUDdG6hfyniFQPx4.jpg" group-title="FILMES: Ação",O Exterminador do Futuro (1984)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7175.mkv
 #EXTINF:-1 tvg-name="O Estrangeiro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg" group-title="FILMES: Ação",O Estrangeiro (2017)
@@ -1813,8 +1766,7 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7170.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7169.mkv
 #EXTINF:-1 tvg-name="O Espetacular Homem-Aranha (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dODKvv9o9BOemWavnulutJBHM80.jpg" group-title="FILMES: Ação",O Espetacular Homem-Aranha (2012)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7168.mkv
-#EXTINF:-1 tvg-name="O Duelo Final (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otD1urhitVQlTs0j6UJqiJZnp2I.jpg" group-title="FILMES: Ação",O Duelo Final (2017)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7167.mkv
+
 #EXTINF:-1 tvg-name="O Dia do Atentado (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gWuVoGaMQFFp9Cu0AMRJ5GsoVg.jpg" group-title="FILMES: Ação",O Dia do Atentado (2016)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7166.mkv
 #EXTINF:-1 tvg-name="O Dia Depois de Amanhã (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeTqUixVRlB0oS6JVgjCxLGvwls.jpg" group-title="FILMES: Ação",O Dia Depois de Amanhã (2004)
@@ -1825,8 +1777,7 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7164.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7163.mkv
 #EXTINF:-1 tvg-name="O Cobrador de Impostos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43fdO16uhawDtpVvNXnUNhlzOEt.jpg" group-title="FILMES: Ação",O Cobrador de Impostos (2020)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7162.mkv
-#EXTINF:-1 tvg-name="O Cobrador de Dívidas 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcWNH4CLkQV5RSwKmpObmXmOklJ.jpg" group-title="FILMES: Ação",O Cobrador de Dívidas 2 (2020)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7161.mkv
+
 #EXTINF:-1 tvg-name="O Chacal (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGUyE606Q4mEbpOe6tGwXx2ysFb.jpg" group-title="FILMES: Ação",O Chacal (1997)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7160.mkv
 #EXTINF:-1 tvg-name="O Cavaleiro Solitário (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oz7euNg7BmA5aYjcjKIzIAMT8V6.jpg" group-title="FILMES: Ação",O Cavaleiro Solitário (2013)
@@ -1861,8 +1812,7 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7146.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7145.mkv
 #EXTINF:-1 tvg-name="No Rastro da Bala (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8pQ8NZATylXjfIGLpT2FO4LyV7.jpg" group-title="FILMES: Ação",No Rastro da Bala (2006)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7144.mkv
-#EXTINF:-1 tvg-name="Noite Sem Fim (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6syWDxxJjeN1DToLPIhdBZ444n.jpg" group-title="FILMES: Ação",Noite Sem Fim (2015)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7143.mkv
+
 #EXTINF:-1 tvg-name="No Olho do Furacão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKugroGel7UUnM83Kcrn2afPTYB.jpg" group-title="FILMES: Ação",No Olho do Furacão (2018)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7142.mkv
 #EXTINF:-1 tvg-name="Ninja (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKjH1IQVeUmHOlxZinQdjFHkFVG.jpg" group-title="FILMES: Ação",Ninja (2009)
@@ -1885,14 +1835,12 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7134.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7133.mkv
 #EXTINF:-1 tvg-name="Na Mira do Medo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23RUY3UM6kfZqOfkYNexsmNa7Fj.jpg" group-title="FILMES: Ação",Na Mira do Medo (2018)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7132.mkv
-#EXTINF:-1 tvg-name="Máquina Mortífera 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg" group-title="FILMES: Ação",Máquina Mortífera 2 (1989)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7131.mkv
+
 #EXTINF:-1 tvg-name="Máfia contra Máfia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6s7ThpkgswqzJtHtDhqcFwoL7WL.jpg" group-title="FILMES: Ação",Máfia contra Máfia (2019)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7130.mkv
 #EXTINF:-1 tvg-name="Mulher-Maravilha 1984 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AweDlIiohqw4sjC7gCsPVd1zo77.jpg" group-title="FILMES: Ação",Mulher-Maravilha 1984 (2020)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7129.mkv
-#EXTINF:-1 tvg-name="Máquina Mortífera 4 (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f2IQoZl2vwT95AaCQz6EgYQ7sL.jpg" group-title="FILMES: Ação",Máquina Mortífera 4 (1998)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7128.mkv
+
 #EXTINF:-1 tvg-name="Mulher-Maravilha (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujQthWB6c0ojlARk28NSTmqidbF.jpg" group-title="FILMES: Ação",Mulher-Maravilha (2017)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7127.mkv
 #EXTINF:-1 tvg-name="Motoqueiro Fantasma: Espírito de Vingança (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxJHiuynVltsIUfGuKg9ZjvXC3r.jpg" group-title="FILMES: Ação",Motoqueiro Fantasma: Espírito de Vingança (2011)
@@ -1913,16 +1861,9 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7120.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7119.mkv
 #EXTINF:-1 tvg-name="Missão Resgate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JRkb2C0kvtlSySZZd73Cle43gU.jpg" group-title="FILMES: Ação",Missão Resgate (2021)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7118.mkv
-#EXTINF:-1 tvg-name="Missão Babilônia (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sayHOjIyQIWeGM5IGewGJzgbSns.jpg" group-title="FILMES: Ação",Missão Babilônia (2008)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7117.mkv
-#EXTINF:-1 tvg-name="Missão: Impossível - Protocolo Fantasma (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZsxCLsHbzPjITjkU1pHOpKMxMl.jpg" group-title="FILMES: Ação",Missão: Impossível - Protocolo Fantasma (2011)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7116.mkv
-#EXTINF:-1 tvg-name="Missão: Impossível - Nação Secreta (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfB5Hjv5oe4caSmsfoeCi7frkIp.jpg" group-title="FILMES: Ação",Missão: Impossível - Nação Secreta (2015)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7115.mkv
-#EXTINF:-1 tvg-name="Missão: Impossível - Efeito Fallout (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmGYMEKa2uZtCXGdo1KWgMt7zsA.jpg" group-title="FILMES: Ação",Missão: Impossível - Efeito Fallout (2018)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7114.mkv
-#EXTINF:-1 tvg-name="Minority Report: A Nova Lei (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJhHMqaAKnIZ1egGTRk7jOH80xH.jpg" group-title="FILMES: Ação",Minority Report: A Nova Lei (2002)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7113.mkv
+
+
+
 #EXTINF:-1 tvg-name="Millennium: A Garota na Teia de Aranha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg" group-title="FILMES: Ação",Millennium: A Garota na Teia de Aranha (2018)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7112.mkv
 #EXTINF:-1 tvg-name="Miami Vice (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJPSls4taB09EUKtLj6FjFSprb3.jpg" group-title="FILMES: Ação",Miami Vice (2006)
@@ -1955,18 +1896,11 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/7099.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7098.mkv
 #EXTINF:-1 tvg-name="Mar em Fúria (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFwxmphIAqnX8oDKhf3EOrvtW11.jpg" group-title="FILMES: Ação",Mar em Fúria (2000)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7097.mkv
-#EXTINF:-1 tvg-name="Mate ou Morra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9mTht2VCw0IMXmeeruRdZno3eS.jpg" group-title="FILMES: Ação",Mate ou Morra (2021)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7096.mkv
-#EXTINF:-1 tvg-name="Major Grom Contra o Dr. Peste (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rShV4uPtjxy3T9OmblG1APJHGIj.jpg" group-title="FILMES: Ação",Major Grom Contra o Dr. Peste (2021)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7095.mkv
+
+
 #EXTINF:-1 tvg-name="Mar em Chamas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znrMRCeim6z8BVdCh9NdBuLFxi2.jpg" group-title="FILMES: Ação",Mar em Chamas (2021)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7094.mkv
-#EXTINF:-1 tvg-name="Mad Max: Estrada da Fúria (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg" group-title="FILMES: Ação",Mad Max: Estrada da Fúria (2015)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7093.mkv
-#EXTINF:-1 tvg-name="MIB - Homens de Preto (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y4I5PhPuoFWiOr5NBstFWkhYjf.jpg" group-title="FILMES: Ação",MIB - Homens de Preto (1997)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7092.mkv
-#EXTINF:-1 tvg-name="Mad Max: Além da Cúpula do Trovão (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4rv4JyeDmDKGaZgvmQxSkaCJXX.jpg" group-title="FILMES: Ação",Mad Max: Além da Cúpula do Trovão (1985)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/7091.mkv
+
 #EXTINF:-1 tvg-name="Lukas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Ujt0FwMwHhAo7QJC0u1HG1m1h.jpg" group-title="FILMES: Ação",Lukas (2018)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/7090.mkv
 #EXTINF:-1 tvg-name="Luta Pela Honra (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlewU6hlsxG9fSKjGgtMUrwdeqo.jpg" group-title="FILMES: Ação",Luta Pela Honra (2009)
@@ -2218,8 +2152,7 @@ http://pe1b.distv.net:80/movie/marcelo/marcelo/6956.mkv
 http://pe1b.distv.net:80/movie/marcelo/marcelo/6955.mkv
 #EXTINF:-1 tvg-name="Expresso para o Inferno (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7mLxQh4iEE1FKUv1f0iYi5I4tc.jpg" group-title="FILMES: Ação",Expresso para o Inferno (1985)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/6954.mkv
-#EXTINF:-1 tvg-name="Esquadrão 6 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f35zQlRTkEO9LBWDWaikiXzQrmD.jpg" group-title="FILMES: Ação",Esquadrão 6 (2019)
-http://pe1b.distv.net:80/movie/marcelo/marcelo/6953.mkv
+
 #EXTINF:-1 tvg-name="Eu Sou a Fúria (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aivG9fJXA4P7vg5BKCxR9Vy74GD.jpg" group-title="FILMES: Ação",Eu Sou a Fúria (2016)
 http://pe1b.distv.net:80/movie/marcelo/marcelo/6952.mkv
 #EXTINF:-1 tvg-name="Esquadrão Trovão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aej7rR73kpAKce6XXBLeqijAwPD.jpg" group-title="FILMES: Ação",Esquadrão Trovão (2021)
