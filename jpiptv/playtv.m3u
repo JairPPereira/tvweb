@@ -7490,6 +7490,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fdcacac0983410013ddc3c8_STAR_TREK_FIRS
 #EXTINF:-1 tvg-id="Jornada nas Estrelas II: A Ira de Khan" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/b9FyLkPyIXqZC1IunApc6e7xJ6l.jpg" group-title="Filmes ondemand",Jornada nas Estrelas II: A Ira de Khan
 https://siloh.pluto.tv/c6009f_pluto/clip/5fdcaca00983410013ddc2d4_STAR_TREK_II_THE_WRATH_OF_KHAN_BR/720p/20201218_052032/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Jornada nas Estrelas III: À Procura de Spock" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vkqWTEnTDpP1BpXhzUq8U0lR1PK.jpg" group-title="Filmes ondemand",Jornada nas Estrelas III: À Procura de Spock
+https://siloh.pluto.tv/c6009f_pluto/clip/5fdcaca20983410013ddc312_STAR_TREK_III_THE_SEARCH_FOR_SPOCK_BR/720p/20201218_052035/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Jornada nas Estrelas IV: A Volta para Casa" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dLnsbQZ1CQ54jKMwVTeCGFRwlQk.jpg" group-title="Filmes ondemand",Jornada nas Estrelas IV: A Volta para Casa
 https://siloh.pluto.tv/c6009f_pluto/clip/5fd76c93aabcdd001aaee9a1_STAR_TREK_IV_THE_VOYAGE_HOME_BR/720p/20201214_054556/hls/0-end/master.m3u8
 
@@ -7555,6 +7558,9 @@ https://siloh.pluto.tv/c6009f_pluto/clip/600ae5a1ce98800013ec532e_MACHINIST_THE_
 
 #EXTINF:-1 tvg-id="O Poder e a Lei" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yvxF4YzpuaKwEBkcaCDTr4rGiov.jpg" group-title="Filmes ondemand",O Poder e a Lei
 https://siloh.pluto.tv/c6009f_pluto/clip/5f96d104397eee001abaa8fb_Lincoln_Lawyer_BR/720p/20201026_063709/hls/0-end/master.m3u8
+
+#EXTINF:-1 tvg-id="O Reino Proibido" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/2rEzOeG6he952m7tyFe7tOyfoko.jpg" group-title="Filmes ondemand",O Reino Proibido
+https://siloh.pluto.tv/00e25a_Kinpil_Films/clip/60a418e7d9b0ce0014e6bf7d_Forbidden_Kingdom_BR/720p/20210527_114943/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="O Substituto" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/rDxner1rHIJenlmSQUDP05yGGCO.jpg" group-title="Filmes ondemand",O Substituto
 https://siloh.pluto.tv/839_Sofa_Digital/clip/63654c66bc198f001335e4c2_O_Substituto/720p/20221107_104539/hls/0-end/master.m3u8
@@ -7637,11 +7643,16 @@ https://siloh.pluto.tv/c6009f_pluto/clip/5fc7a65599839e0013e0ce7d_Family_Man_The
 #EXTINF:-1 tvg-id="Um Santo Vizinho" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ds4JIoNb76oGiAmMejFo6SUydGW.jpg" group-title="Filmes ondemand",Um Santo Vizinho
 https://siloh.pluto.tv/c6009f_pluto/clip/60db8f32a9c1a500138f778d_St_Vincent_BR/720p/20210629_142258/hls/0-end/master.m3u8
 
+#EXTINF:-1 tvg-id="Vigaristas" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qloiS0kNBTNKCeSns6Bq4QuYBms.jpg" group-title="Filmes ondemand",Vigaristas
+https://siloh.pluto.tv/260_Lionsgate/clip/631b4578bdb41f00136fec02_The_Brothers_Bloom_BR/720pDRM/20220909_125737/hls/0-end/master.m3u8
+
 #EXTINF:-1 tvg-id="Xeque-Mate" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jQTYxU77m39U51mENi5fXGsQQrD.jpg" group-title="Filmes ondemand",Xeque-Mate
 https://siloh.pluto.tv/496_pluto/clip/6310d59d6e998c0013311ece_Lucky_Number_Slevin_BR/720p/20220901_085405/hls/0-end/master.m3u8
 
 #EXTINF:-1 tvg-id="[REC]" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg" group-title="Filmes ondemand",[REC]
 https://siloh.pluto.tv/c6009f_pluto/clip/5fbe7744c8c57d00131b7c13_REC_BR/720p/20201125_072452/hls/0-end/master.m3u8
+
+
 
 
 

@@ -1,5 +1,4 @@
 
-
 [REC]
 A Árvore da Vida
 A Hora do Acerto
@@ -40,6 +39,7 @@ Invasores - Nenhum Sistema Está à Salvo
 Jack e a Mecânica do Coração
 Jogos Patrióticos
 Jornada nas Estrelas II: A Ira de Khan
+Jornada nas Estrelas III: À Procura de Spock
 Jornada nas Estrelas IV: A Volta para Casa
 Jornada nas Estrelas VI: A Terra Desconhecida
 Jornada nas Estrelas: Primeiro Contato
@@ -62,6 +62,7 @@ O Lado Bom da Vida
 O Mercador de Veneza
 O Operário
 O Poder e a Lei
+O Reino Proibido
 O Substituto
 Operação Condor: Um Kickboxer Muito Louco
 Os 39 Degraus
@@ -88,6 +89,7 @@ Top Secret! Superconfidencial
 Trumbo: Lista Negra
 Um Homem de Família
 Um Santo Vizinho
+Vigaristas
 Xeque-Mate
 
 
