@@ -288,10 +288,12 @@
             <a class="waves-effect waves-light btn-large"><input type="button" value="opção 1" onclick="clicou1()"></a>
             <a class="waves-effect waves-light btn-large"><input type="button" value="opção 2" onclick="clicou2()"></a>
   
-            <a class="waves-effect waves-light btn-large"><input type="button" value="DANZ 2" onclick="clicou4()"></a>
+            <a class="waves-effect waves-light btn-large"><input type="button" value="DANZ 2" onclick="clicou3()"></a>
 
-            <a class="waves-effect waves-light btn-large"><input type="button" value="DANZ 3" onclick="clicou5()"></a>
-            <a class="waves-effect waves-light btn-large"><input type="button" value="DANZ 4" onclick="clicou6()"></a>
+            <a class="waves-effect waves-light btn-large"><input type="button" value="DANZ 3" onclick="clicou4()"></a>
+            <a class="waves-effect waves-light btn-large"><input type="button" value="DANZ 4" onclick="clicou5()"></a>
+
+            <a class="waves-effect waves-light btn-large"><input type="button" value="DANZ" onclick="clicou6()"></a>
 
             <style>
                 input[type="button"] {
@@ -315,7 +317,18 @@
     <script>
       var player = window.document.querySelector("div#player")
     
-  
+      var video6 = ` <iframe class="lazyload"
+      src="https://player.aovivotv.xyz/channels/dazn1/external"
+      height="620px"
+      width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>` 
     
       var video5 = ` <iframe class="lazyload"
       src="https://embedflix.net/tv/dazn-3"
@@ -330,7 +343,7 @@
           frameborder="0"
       > </iframe>`
 
-      var video6 = ` <iframe class="lazyload"
+      var video4 = ` <iframe class="lazyload"
       src="https://embedflix.net/tv/dazn-4"
       height="620px"
       width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
@@ -344,7 +357,7 @@
       > </iframe>`
 
 
-      var video4 = ` <iframe class="lazyload"
+      var video3 = ` <iframe class="lazyload"
       src="https://embedflix.net/tv/dazn-2"
       height="620px"
       width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
@@ -358,7 +371,7 @@
       > </iframe>`
   
     
-   
+
     
       var video2 = `<iframe loading="lazy" src="https://tv.appmj.xyz/tv.php?canal=dazn" 
       height="620px"
@@ -394,9 +407,14 @@
       }
     
   
-      function clicou4(){
-          player.innerHTML = video4
+      function clicou3(){
+          player.innerHTML = video3
       }
+
+ 
+      function clicou4(){
+        player.innerHTML = video4
+    }
 
       function clicou5(){
           player.innerHTML = video5
