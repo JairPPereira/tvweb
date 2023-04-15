@@ -62,6 +62,9 @@ http://5ce.co:80/Ctina2718/Tina3619/68101
 #EXTINF:-1tvg-name="TVVitÃ³riaESHD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNWJFSkv8WuREsdEJurNJsn37qiveveohfTQenCW90TiK2UvF_XJr0s_uEfZA_IxN-DqQDDJaS6bzdQF_A104A2xisUTu0EUXfgZwQt8Q380zkw8eVu85OWH2aGgdcrnxw44RvXHDgXgJ2b-zJr7qDCWE2omBuOwDvK8_h48IbqO2lHEE1NwQbDPF4/s1600/Rede-Record.png"group-title="variedades",TVVitÃ³riaESHD
 http://5ce.co:80/Ctina2718/Tina3619/36969
 
+#EXTINF:-1 tvg-id="TV Vila Real (Record MT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/08bb2dcf3ec4ceeb988d9a6b19270047.webp" group-title="variedades",TV Vila Real (Record MT)
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="variedades",TV Marajoara
 https://video01.kshost.com.br/tv31966/tv31966/chunklist_w1874400382.m3u8
 
@@ -390,6 +393,9 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 
 #EXTINF:-1 tvg-id="TV Difusora" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fd082a2640b45935b4d9fed13af5a966.webp" group-title="variedades",TV Difusora
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-id="SBT Brasília" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fd15c014fe05063f466190fe351d91c5.webp" group-title="variedades",SBT Brasília
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Cidade Verde (SBT PI)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ce8f1a9e2406d2acde94e2ac5d0f671.webp" group-title="variedades",TV Cidade Verde (SBT PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -756,7 +762,7 @@ https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Clc.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="filmesseries" , GLN TV HD
-https://stmv1.paineltv.net/glnpluto/glnpluto/chunklist_w735783764.m3u8
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimemovienetworkBrazil.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="filmesseries", MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
