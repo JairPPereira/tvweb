@@ -1234,3 +1234,170 @@ Zona Mortal (1994)
 بادیگارد (2016)
 
 
+
+
+<div class="item fbox fbox_space_between fbox_align_center">
+<a href="<br />
+<b>Notice</b>:  Undefined property: stdClass::$imdb_id in <b>/www/wwwroot/www.embedflix.net/app/view/tvchannels/listing.php</b> on line <b>93</b><br />
+https://embedflix.net/tv/PRIME TV </a>
+<div class="date">
+<span class="listing_onlymobile">Última Atualização </span>12/04/2023 às 00:53 </div>
+<div class="author">
+
+<div class="actions fbox fbox_right">
+<a href="https://embedflix.net/tv/prime-tv"
+</a>
+<div class="action copy" data-tooltip="Copiar url" data-target="140">
+<input type="hidden" name="copy_to_clipboard" value="https://embedflix.net/tv/prime-tv" data-target="140">
+<i class="ri-file-copy-line"></i>
+</div>
+</div>
+</div>
+<div class="item fbox fbox_space_between fbox_align_center">
+<a href="<br />
+<b>Notice</b>:  Undefined property: stdClass::$imdb_id in <b>/www/wwwroot/www.embedflix.net/app/view/tvchannels/listing.php</b> on line <b>93</b><br />
+https://embedflix.net/tv/Paramount Plus 3 </a>
+<div class="date">
+<span class="listing_onlymobile">Última Atualização </span>06/04/2023 às 18:51 </div>
+<div class="author">
+
+<div class="actions fbox fbox_right">
+<a href="https://embedflix.net/tv/paramount-plus-3"
+</a>
+<div class="action copy" data-tooltip="Copiar url" data-target="139">
+<input type="hidden" name="copy_to_clipboard" value="https://embedflix.net/tv/paramount-plus-3" data-target="139">
+<i class="ri-file-copy-line"></i>
+</div>
+</div>
+</div>
+<div class="item fbox fbox_space_between fbox_align_center">
+<a href="<br />
+<b>Notice</b>:  Undefined property: stdClass::$imdb_id in <b>/www/wwwroot/www.embedflix.net/app/view/tvchannels/listing.php</b> on line <b>93</b><br />
+https://embedflix.net/tv/Paramount Plus 2 </a>
+<div class="date">
+<span class="listing_onlymobile">Última Atualização </span>06/04/2023 às 18:50 </div>
+<div class="author">
+
+<div class="actions fbox fbox_right">
+<a href="https://embedflix.net/tv/paramount-plus-2"
+</a>
+<div class="action copy" data-tooltip="Copiar url" data-target="138">
+<input type="hidden" name="copy_to_clipboard" value="https://embedflix.net/tv/paramount-plus-2" data-target="138">
+<i class="ri-file-copy-line"></i>
+</div>
+</div>
+</div>
+<div class="item fbox fbox_space_between fbox_align_center">
+<a href="<br />
+<b>Notice</b>:  Undefined property: stdClass::$imdb_id in <b>/www/wwwroot/www.embedflix.net/app/view/tvchannels/listing.php</b> on line <b>93</b><br />
+https://embedflix.net/tv/Paramount Plus </a>
+<div class="date">
+<span class="listing_onlymobile">Última Atualização </span>06/04/2023 às 18:50 </div>
+<div class="author">
+
+<div class="actions fbox fbox_right">
+<a href="https://embedflix.net/tv/paramount-plus"
+</a>
+<div class="action copy" data-tooltip="Copiar url" data-target="137">
+<input type="hidden" name="copy_to_clipboard" value="https://embedflix.net/tv/paramount-plus" data-target="137">
+<i class="ri-file-copy-line"></i>
+</div>
+</div>
+</div>
+<div class="item fbox fbox_space_between fbox_align_center">
+<a href="<br />
+<b>Notice</b>:  Undefined property: stdClass::$imdb_id in <b>/www/wwwroot/www.embedflix.net/app/view/tvchannels/listing.php</b> on line <b>93</b><br />
+https://embedflix.net/tv/EUROSPORT HD </a>
+<div class="date">
+<span class="listing_onlymobile">Última Atualização </span>28/03/2023 às 10:25 </div>
+<div class="author">
+
+<div class="actions fbox fbox_right">
+<a href="https://embedflix.net/tv/eurosport-hd"
+</a>
+<div class="action copy" data-tooltip="Copiar url" data-target="136">
+<input type="hidden" name="copy_to_clipboard" value="https://embedflix.net/tv/eurosport-hd" data-target="136">
+<i class="ri-file-copy-line"></i>
+</div>
+</div>
+</div>
+<div class="item fbox fbox_space_between fbox_align_center">
+<a href="<br />
+<b>Notice</b>:  Undefined property: stdClass::$imdb_id in <b>/www/wwwroot/www.embedflix.net/app/view/tvchannels/listing.php</b> on line <b>93</b><br />
+https://embedflix.net/tv/UFC Fight Pass HD </a>
+<div class="date">
+<span class="listing_onlymobile">Última Atualização </span>11/02/2023 às 22:53 </div>
+<div class="author">
+
+<div class="actions fbox fbox_right">
+<a href="https://embedflix.net/tv/ufc-fight-pass-hd"
+</a>
+<div class="action copy" data-tooltip="Copiar url" data-target="135">
+<input type="hidden" name="copy_to_clipboard" value="https://embedflix.net/tv/ufc-fight-pass-hd" data-target="135">
+<i class="ri-file-copy-line"></i>
+</div>
+</div>
+</div>
+<div class="item fbox fbox_space_between fbox_align_center">
+<a href="<br />
+<b>Notice</b>:  Undefined property: stdClass::$imdb_id in <b>/www/wwwroot/www.embedflix.net/app/view/tvchannels/listing.php</b> on line <b>93</b><br />
+https://embedflix.net/tv/PAULISTAO PLAY 3 </a>
+<div class="date">
+<span class="listing_onlymobile">Última Atualização </span>09/01/2023 às 22:00 </div>
+<div class="author">
+
+<div class="actions fbox fbox_right">
+<a href="https://embedflix.net/tv/paulistao-play-3"
+</a>
+<div class="action copy" data-tooltip="Copiar url" data-target="134">
+<input type="hidden" name="copy_to_clipboard" value="https://embedflix.net/tv/paulistao-play-3" data-target="134">
+<i class="ri-file-copy-line"></i>
+</div>
+</div>
+</div>
+<div class="item fbox fbox_space_between fbox_align_center">
+<a href="<br />
+<b>Notice</b>:  Undefined property: stdClass::$imdb_id in <b>/www/wwwroot/www.embedflix.net/app/view/tvchannels/listing.php</b> on line <b>93</b><br />
+https://embedflix.net/tv/PAULISTAO PLAY 2 </a>
+<div class="date">
+<span class="listing_onlymobile">Última Atualização </span>09/01/2023 às 21:59 </div>
+<div class="author">
+
+<div class="actions fbox fbox_right">
+<a href="https://embedflix.net/tv/paulistao-play-2"
+</a>
+<div class="action copy" data-tooltip="Copiar url" data-target="133">
+<input type="hidden" name="copy_to_clipboard" value="https://embedflix.net/tv/paulistao-play-2" data-target="133">
+<i class="ri-file-copy-line"></i>
+</div>
+</div>
+</div>
+<div class="item fbox fbox_space_between fbox_align_center">
+<a href="<br />
+<b>Notice</b>:  Undefined property: stdClass::$imdb_id in <b>/www/wwwroot/www.embedflix.net/app/view/tvchannels/listing.php</b> on line <b>93</b><br />
+https://embedflix.net/tv/PAULISTAO PLAY </a>
+<div class="date">
+<span class="listing_onlymobile">Última Atualização </span>09/01/2023 às 21:59 </div>
+<div class="author">
+
+<div class="actions fbox fbox_right">
+<a href="https://embedflix.net/tv/paulistao-play"
+</a>
+<div class="action copy" data-tooltip="Copiar url" data-target="132">
+<input type="hidden" name="copy_to_clipboard" value="https://embedflix.net/tv/paulistao-play" data-target="132">
+<i class="ri-file-copy-line"></i>
+</div>
+</div>
+</div>
+<div class="item fbox fbox_space_between fbox_align_center">
+<a href="<br />
+<b>Notice</b>:  Undefined property: stdClass::$imdb_id in <b>/www/wwwroot/www.embedflix.net/app/view/tvchannels/listing.php</b> on line <b>93</b><br />
+https://embedflix.net/tv/BBB 2023 </a>
+<div class="date">
+<span class="listing_onlymobile">Última Atualização </span>24/01/2023 às 15:17 </div>
+<div class="author">
+
+<div class="actions fbox fbox_right">
+<a href="https://embedflix.net/tv/bbb-2023"
+</a>
+"https://embedflix.net/tv/bbb-2023" 
