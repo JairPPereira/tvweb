@@ -102,6 +102,8 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 #EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="variedades",CANÇÃO NOVA
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
 
+#EXTINF:-1 tvg-id="TV Show de Bola" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/948916b3cd4e9c10e59cf2e76fb4d1a9.webp" group-title="variedades",TV Show de Bola
+https://painel.sintonizar.tv.br:1936/tvsdbola/tvsdbola/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TV Brusque" tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="variedades",TV Brusque
@@ -142,6 +144,14 @@ https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Gazeta.br" tvg-name="TV Gazeta"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="variedades", TV Gazeta - TV Cidade Araçatuba 
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TBO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/709c85870d0cd85a4a9e9df0dc245e2a.webp" group-title="variedades",TBO
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Conectv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/454924e01d06c3bc20131e8514187305.webp" group-title="variedades",Conectv
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
+#EXTINF:-1 tvg-id="TV Feira de Santana" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/aab1d14178a0f45aec1c21e1407d30dd.webp" group-title="variedades",TV Feira de Santana
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w174675839.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="RedeBrasil.br"  tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="variedades", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -12112,8 +12122,7 @@ http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
 https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV SOL COMUNIDADE
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",CONECT TV
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",NOVA ERA TV
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV J SID
