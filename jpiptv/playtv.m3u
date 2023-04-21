@@ -1,6 +1,6 @@
 #EXTM3U
 
-#################################################################################
+####################################################
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO TV LIBERAL BELEM SD
 http://meuplay.shop:80/150657845528/254658986506/570
@@ -7073,6 +7073,27 @@ http://5ce.co:80/series/Ctina2718/Tina3619/215876.mp4
 http://5ce.co:80/series/Ctina2718/Tina3619/219382.mp4
 #EXTINF:-1 tvg-name="S01 E140" tvg-logo="http://5ce.co:80/images/jzvSPpDGeYYZGGhuJVyc3RBfMHI_big.jpg" group-title="Reis",S01 E140
 http://5ce.co:80/series/Ctina2718/Tina3619/219383.mp4
+
+##########################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oZZJ8MED2JHr2gvEE00OjJ8E2oq.jpg" group-title="GLOBOPLAY",A Cura S01 E01
+http://meuplay.shop:80/series/ykjplkds/ceswez51/85028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/axuGmT2fd8xWjoSMamJ8Di2JJQR.jpg" group-title="GLOBOPLAY",A Cura S01 E02
+http://meuplay.shop:80/series/ykjplkds/ceswez51/85029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i82A4oedk7Z3jT7fmz5q09gkMWR.jpg" group-title="GLOBOPLAY",A Cura S01 E03
+http://meuplay.shop:80/series/ykjplkds/ceswez51/85030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvygpZqxVTQBu6UnbaAreY0KYtv.jpg" group-title="GLOBOPLAY",A Cura S01 E04
+http://meuplay.shop:80/series/ykjplkds/ceswez51/85031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cwC2cpfuWOHexZRkiUSZw6JYRv5.jpg" group-title="GLOBOPLAY",A Cura S01 E05
+http://meuplay.shop:80/series/ykjplkds/ceswez51/85032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3d9enSRObqqdQxyViFWIkiM2lgK.jpg" group-title="GLOBOPLAY",A Cura S01 E06
+http://meuplay.shop:80/series/ykjplkds/ceswez51/85033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hhhBDCF32CUg2wwoTwdvYWH4pMJ.jpg" group-title="GLOBOPLAY",A Cura S01 E07
+http://meuplay.shop:80/series/ykjplkds/ceswez51/85034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mQk1i6553S8cyudWrjLoeb2xqqt.jpg" group-title="GLOBOPLAY",A Cura S01 E08
+http://meuplay.shop:80/series/ykjplkds/ceswez51/85035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gvifkjnp82XI0LrpHjWpN4ZEO60.jpg" group-title="GLOBOPLAY",A Cura S01 E09
+http://meuplay.shop:80/series/ykjplkds/ceswez51/85036.mp4
 
 ############################################################################################
 
