@@ -2,8 +2,6 @@
 
 ####################################################
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO TV LIBERAL BELEM SD
-http://meuplay.shop:80/150657845528/254658986506/570
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV LIBERAL HD (BELEM)" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO TV LIBERAL HD (BELEM)
 http://meuplay.shop:80/150657845528/254658986506/365
 
@@ -26,6 +24,9 @@ http://meuplay.shop:80/150657845528/254658986506/335
 
 #EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="variedades",TV GRÃO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="RECORD BELEM SD" tvg-logo="http://ccdnblck.xyz:80/images/b23c658b46fae6ef8e694cd4983d8e3e.png" group-title="CANAIS | RECORD",RECORD BELEM SD
+http://meuplay.shop:80/150657845528/254658986506/570
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP FHD" tvg-logo="http://ccdnblck.xyz:80/images/b23c658b46fae6ef8e694cd4983d8e3e.png" group-title="CANAIS | RECORD",RECORD TV SP FHD
 http://meuplay.shop:80/150657845528/254658986506/727
