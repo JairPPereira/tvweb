@@ -941,7 +941,7 @@ http://melon.piglo.re:80/kita0402/pk230993@/54060
 #EXTINF:-1 tvg-id="" tvg-name="24h Zé Colméia" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS 24H",24h Zé Colméia
 http://melon.piglo.re:80/kita0402/pk230993@/54061
 
-
+##########################################################################################
 
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="pluto" tvg-chno="58", Pluto TV Adrenalina Freezone
 https://stitcher.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
