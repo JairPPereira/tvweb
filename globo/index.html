@@ -253,105 +253,192 @@ body{
   <p></p>
   <section class="destaques container">
   <div class="row p-t-20 p-b-40">
-  
-  <div class="text-center-xs" style="padding: 2px;">
-  <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;TV GLOBO</h1>
-  <style>
-
-    #player {
-      aspect-ratio: 16/9;
-       border: none;
-       width: 100%;
-       background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
-       background-size: cover;
-       background-position: center;
-    }
-    iframe {
-      aspect-ratio: 16/9;
-      border: none;
-      width: 100%;
-      
-
-      background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
-
-      background-size: cover;
-      background-position: center;
-  }
-
-  </style>
-  <div id="player">
-
-    </div>
-    <p></p>
-    <div class="bot" style="margin: 10px; background-color: #4267B2;">
-    <input  type="button" value="GLOBO SP(1)" onclick="clicou1()">
-    <input  type="button" value="GLOBO SP(2)" onclick="clicou6()">
-    <input  type="button" value="GLOBO RJ" onclick="clicou2()">
-    <input  type="button" value="GLOBO MG" onclick="clicou3()">
-    <input  type="button" value="GLOBO PERNAMBUCO" onclick="clicou4()">
-    <input  type="button" value="GLOBO RJ" onclick="clicou5()">
-    </div>
     <style>
       input[type="button"] {
-      background-color: #4CAF50; /* Green */
-      border: none;
-      color: white;
-      padding: 15px 32px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 16px;
-      border-radius: 8px;
-    }
-    </style>
-    <script>
-            var player = window.document.querySelector("div#player")
-    
-            var video = `<iframe  src="https://embedflix.net/tv/globo-sp" name="iFrame Name" scrolling="No" width="100%" allowfullscreen style="border: none;"></iframe>`
-
-            var video6 = `<iframe  src="https://playertv.net/tv.php?c=globo-sp" frameborder=0  scrolling=no width=100% allowFullScreen> </iframe>`
-
-            var video2 = `<iframe src="https://embedflix.net/tv/globo-rio" name="iFrame Name" scrolling="No"  width="100%" allowfullscreen style="border: none;"></iframe>`
-    
-            var video3 = `<iframe  src="https://embedflix.net/tv/globo-minas" name="iFrame Name" scrolling="No"  width="100%" allowfullscreen style="border: none;"></iframe>`
-
-            var video4 = `<iframe  src="https://tv.appmj.xyz/tv.php?canal=globo-pernanbuco" frameborder=0  scrolling=no width=100% allowFullScreen> </iframe>` 
-
-            var video5 = `<iframe  src="https://tv.appmj.xyz/tv.php?canal=globo-rj" frameborder=0  scrolling=no width=100% allowFullScreen> </iframe>` 
-    
-
-    
-    
-            function clicou1(){
-                player.innerHTML = video
-            }
-
-            function clicou6(){
-              player.innerHTML = video6
-          } 
-    
-            function clicou2(){
-              player.innerHTML = video2
-          }
-            
-    
-            function clicou3(){
-                player.innerHTML = video3
-            }
-    
-            function clicou4(){
-              player.innerHTML = video4
-          }  
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 8px;
+      }
+  
+      input[type="button"].active {
+        background-color: #FF0000; /* Red */
+      }
+      #player {
+          aspect-ratio: 16/9;
+           border: none;
+           width: 100%;
+           background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
+           background-size: cover;
+           background-position: center;
+        }
+        iframe {
+          aspect-ratio: 16/9;
+          border: none;
+          width: 100%;
           
-          function clicou5(){
-            player.innerHTML = video5
-        } 
-    
+  
+          background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
+  
+          background-size: cover;
+          background-position: center;
+      }
+    </style>
+  </head>
+  <body>
+      <div class="text-center-xs" style="padding: 2px;">
+          <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;GLOBO</h1>
+          <section class="video bg-silver b-radius-5 padding-5">
+            <div id="player">
+        
+              </div></div>
+    <center>
+      <div class="bot" style="margin: 10px; background-color: #4267B2;">
+        <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="GLOBO SP(1)" onclick="clicou1()" id="botao1"></a>
+        <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="GLOBO SP(2)" onclick="clicou2()" id="botao2"></a>
+        <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="GLOBO RJ" onclick="clicou3()" id="botao3"></a>
+        <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="GLOBO MG" onclick="clicou4()" id="botao4"></a>
+        <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="GLOBO PERNAMBUCO" onclick="clicou5()" id="botao5"></a>
+        <a class="waves-effect waves-light btn-large" style="padding: 5px;"><input type="button" value="GLOBO RJ" onclick="clicou6()" id="botao6"></a>
+      </div>
+    </center>
+    <script>
+      function clicou1() {
+        removerAtivo();
+        document.getElementById("botao1").classList.add("active");
+        player.innerHTML = video
+      }
+  
+      function clicou2() {
+        removerAtivo();
+        document.getElementById("botao2").classList.add("active");
+        player.innerHTML = video2
+      }
+  
+      function clicou3() {
+        removerAtivo();
+        document.getElementById("botao3").classList.add("active");
+        player.innerHTML = video3
+      }
+  
+      function clicou4() {
+        removerAtivo();
+        document.getElementById("botao4").classList.add("active");
+        player.innerHTML = video4
+      }
+      function clicou5() {
+        removerAtivo();
+        document.getElementById("botao5").classList.add("active");
+        player.innerHTML = video5
+      }
 
+      function clicou6() {
+        removerAtivo();
+        document.getElementById("botao6").classList.add("active");
+        player.innerHTML = video6
+      }
+  
+      function removerAtivo() {
+        var botoes = document.getElementsByTagName("input");
+        for (var i = 0; i < botoes.length; i++) {
+          botoes[i].classList.remove("active");
+        }
+      }
+  
+  
+      var player = window.document.querySelector("div#player")
     
     
-    </script> 
-   
+    
+      var video6 = ` <iframe
+      src="https://playertv.net/tv.php?c=globo-rj"
+      width="100%"
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
+      var video5 = ` <iframe
+      src="https://playertv.net/tv.php?c=globo-pe"
+      width="100%"
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
+      var video4 = ` <iframe
+      src="https://embedflix.net/tv/globo-minas"
+      width="100%"
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+  
+      var video3 = ` <iframe
+      src="https://embedflix.net/tv/globo-rio"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+    
+      var video2 = ` <iframe
+      src="https://playertv.net/tv.php?c=globo-sp"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+    
+      var video = `<iframe
+      src="https://embedflix.net/tv/globo-sp"
+      width="100%"
+  
+      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+     
+    </script>
+
+  </div>
   </section>
 
 
@@ -366,10 +453,10 @@ body{
   
   <footer class="text-center-xs text-center-sm  bg-dark text-white p-t-50 p-b-10">
   <div class="container">
-  
+
 
   <div class="col-md-3 text-center m-b-20">
- 
+
   </div>
  
   <div class="col-md-12 text-right m-t-20">
