@@ -14,20 +14,19 @@ if (window.top == window.self) {
 <style type="text/css">	
 #iframeVideo{
     position:absolute;
-    top:-44%;
-    left:-25%;
+    left:0;
     z-index: 9999;
-    width:125%;
-    height: 140%;
+    aspect-ratio: 16/9;
+    width:100%;
     margin:0;
     border:none;
-   
+    padding:none;
     background: #000 url(https://onlinetvhd.net/imagens/loading.gif) no-repeat center center fixed;
 }	
 	</style>
 	<style>.btn-atualizar { background-color: #063252; border-top-left-radius: 0px !important;border-top-right-radius: 0px !important; color: white;padding: 10px 12px;margin: 0px;margin-left:10px;border: none;border-radius: 5px;float:left;cursor: pointer;font-family: "Verdana", Arial;font-size:12px;}.btn-lista {background-color: #4286f4 !important;}.btn-lista:hover {background-color: #3671d1 !important;}.btn-atualizar:hover {background-color: #0000ff;}.div-btns {margin: 0px;padding:0;position: absolute;left: 0px;top: 0px;z-index:99999;}</style>	
 <body><div class="div-btns"><div class="btn-atualizar" onclick="location.reload(true)"><i class="fas fa-sync-alt"></i><span style="margin-left:5px;">Travou? Clique Aqui!</span></div></div>	
-	<iframe src="https://megacanais.com/discovery-science-ao-vivo/" id="iframeVideo" name="iframeVideo" scrolling="no" sandbox="allow-same-origin allow-scripts" allowfullscreen></iframe>
+	<iframe src="https://player.aovivotv.xyz/channels/cnnbrasil" id="iframeVideo" name="iframeVideo" scrolling="no" sandbox="allow-same-origin allow-scripts" allowfullscreen autoplay></iframe>
 </div>
 </body>
 </html>
