@@ -586,16 +586,14 @@ http://5ce.co:80/Ctina2718/Tina3619/6550
 #EXTINF:-1tvg-name="TheHistoryChannelHDÂ²"tvg-logo="http://70.ms/hL"group-title="DOCUMENTARIOS",TheHistoryChannelHDÂ²
 http://5ce.co:80/Ctina2718/Tina3619/6905
 
-#EXTINF:-1tvg-name="GloboNewsSD"tvg-logo="http://70.ms/6m"group-title="jornalismo",GloboNewsSD
-http://5ce.co:80/Ctina2718/Tina3619/6568
-#EXTINF:-1tvg-name="GloboNewsSDÂ²"tvg-logo="http://70.ms/Y7"group-title="jornalismo",GloboNewsSDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/36098
+#EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="GloboNews FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",GLOBONEWS FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38397
 
 #EXTINF:-1tvg-name="BandNewsSD"tvg-logo="http://70.ms/h1"group-title="jornalismo",BandNewsSD
 https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
-#EXTINF:-1tvg-name="BandNewsSDÂ²"tvg-logo="http://70.ms/9Q"group-title="jornalismo",BandNewsSDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/10868
 
+#EXTINF:-1 tvg-id="0" tvg-name="BandNews H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | H.265 HEVC",BANDNEWS H265
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62797
 
 #EXTINF:-1 tvg-id="JP News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1e0Re1E3AAV4pyo0gqS4EStCpXjrSj5f4q9R6CDMrHSl4j90deXWXjUXY-5inpD43CsWn_vxBlqJqFJEEK5ejvQwDb-I3S9UitRoyZ69BNfWW7kunC5IGweOnGJaTOUQhAmpCDorgCOMtOB5IACTl8lmhtc4-klhGFpBV6Z0Cv27emojoRicWlxYz/s1600/jovempanews.jpg" group-title="jornalismo", JP NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
@@ -7164,10 +7162,8 @@ https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://tudoradio.com/img/uploads/radios/63d71ce554798.png" group-title="MUSICAS",JC FM
 https://evpp.mm.uol.com.br/ne10/ne10-jcfm-recife-audio-web.sdp/chunklist_w593685851.m3u8
 
-#EXTINF:-1tvg-name="MultishowSD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAYT1YD9PZCmbFKnF2FV7kJ_Ayheqi0oHp8S-Og6uzbKHfY-xXBgAUS7_hnXROLZt6PNaQgIoycB5IdWRPcQQEfCLwKbUCI-MYbJscmBa0loGlI6Bn5uJ0RZoMIvPkYcWDLy2fAbQvpLpMIuEASKz-Dvf4QSKnZrKXhe-tuA9w81ULZgDuTqeKNXOf/s1600/mults.png"group-title="MUSICAS",MultishowSD
-http://5ce.co:80/Ctina2718/Tina3619/6532
-#EXTINF:-1tvg-name="MultishowSDÂ²"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAYT1YD9PZCmbFKnF2FV7kJ_Ayheqi0oHp8S-Og6uzbKHfY-xXBgAUS7_hnXROLZt6PNaQgIoycB5IdWRPcQQEfCLwKbUCI-MYbJscmBa0loGlI6Bn5uJ0RZoMIvPkYcWDLy2fAbQvpLpMIuEASKz-Dvf4QSKnZrKXhe-tuA9w81ULZgDuTqeKNXOf/s1600/mults.png"group-title="MUSICAS",MultishowSDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/10739
+#EXTINF:-1 tvg-id="Multishow FHD" tvg-name="Multishow FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",MULTISHOW FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41493
 
 #EXTINF:-1 tvg-id="HITS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3e22ba0cc070c700e71e3c51dcb810dc.webp" group-title="MUSICAS",HITS
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8
