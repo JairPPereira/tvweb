@@ -581,11 +581,6 @@ http://5ce.co:80/Ctina2718/Tina3619/100517
 #EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f08eba3f-2fc8-4316-80f7-92db3f925330" group-title="jornalismo", ID - INVESTIGACAO DISCOVERY SD
 http://ncw.one:80/Marcelotorres/20torres20tv/144644
 
-#EXTINF:-1tvg-name="TheHistoryChannelHD"tvg-logo="http://70.ms/Z4"group-title="DOCUMENTARIOS",TheHistoryChannelHD
-http://5ce.co:80/Ctina2718/Tina3619/6550
-#EXTINF:-1tvg-name="TheHistoryChannelHDÂ²"tvg-logo="http://70.ms/hL"group-title="DOCUMENTARIOS",TheHistoryChannelHDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/6905
-
 #EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="GloboNews FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",GLOBONEWS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38397
 
@@ -598,41 +593,16 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62797
 #EXTINF:-1 tvg-id="JP News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1e0Re1E3AAV4pyo0gqS4EStCpXjrSj5f4q9R6CDMrHSl4j90deXWXjUXY-5inpD43CsWn_vxBlqJqFJEEK5ejvQwDb-I3S9UitRoyZ69BNfWW7kunC5IGweOnGJaTOUQhAmpCDorgCOMtOB5IACTl8lmhtc4-klhGFpBV6Z0Cv27emojoRicWlxYz/s1600/jovempanews.jpg" group-title="jornalismo", JP NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1tvg-name="TheHistoryChannelSD"tvg-logo="http://70.ms/Zb"group-title="jornalismo",TheHistoryChannelSD
-http://5ce.co:80/Ctina2718/Tina3619/6549
-#EXTINF:-1tvg-name="TheHistoryChannelSDÂ²"tvg-logo="http://70.ms/53"group-title="jornalismo",TheHistoryChannelSDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/10758
+#EXTINF:-1 tvg-id="History FHD" tvg-name="History FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="DOCUMENTARIOS",HISTORY FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38383
 
-#EXTINF:-1tvg-name="TheHistoryChannelHD"tvg-logo="http://70.ms/Z4"group-title="DOCUMENTARIOS",TheHistoryChannelHD
-http://5ce.co:80/Ctina2718/Tina3619/6550
-#EXTINF:-1tvg-name="TheHistoryChannelHDÂ²"tvg-logo="http://70.ms/hL"group-title="DOCUMENTARIOS",TheHistoryChannelHDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/6905
+#EXTINF:-1 tvg-id="History 2 FHD" tvg-name="History 2 FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="DOCUMENTARIOS",HISTORY 2 FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41485
 
-#EXTINF:-1tvg-name="H2HD"tvg-logo="http://70.ms/6d"group-title="DOCUMENTARIOS",H2HD
-http://5ce.co:80/Ctina2718/Tina3619/6561
-#EXTINF:-1tvg-name="H2HDÂ²"tvg-logo="http://70.ms/5y"group-title="DOCUMENTARIOS",H2HDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/10769
-
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD H265
-http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/68788.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD²
-http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/144381.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD³" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD³
-http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/185251.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD³" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD³
-http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/184959.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
-http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/68789.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD²
-http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/144382.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD³" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD³
-http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/185143.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
-http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/68790.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD³" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD³
-http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/184738.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET²" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET²
-http://dns.p2.wtf:80/live/7czmryt97v/122xn6yncj/144380.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://bit.ly/Logo-tv" group-title="DOCUMENTARIOS",ANIMAL PLANET
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37128
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://bit.ly/Logo-tv" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36992
 
 
 #################################################################################
