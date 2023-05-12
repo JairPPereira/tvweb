@@ -661,26 +661,6 @@ https://stream.urbantv.com.br/urbantvsports/video.m3u8
 #EXTINF:-1 tvg-id="RSNewsSports.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp" group-title="esportes", RS News Sports
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
 
-#EXTINF:-1tvg-name="ESPNHD"tvg-logo="http://70.ms/6w"group-title="ESPN",ESPNHD
-http://5ce.co:80/Ctina2718/Tina3619/6589
-#EXTINF:-1tvg-name="ESPNHDÂ²"tvg-logo="http://70.ms/hW"group-title="ESPN",ESPNHDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/6887
-#EXTINF:-1tvg-name="ESPN2HD"tvg-logo="http://70.ms/68"group-title="ESPN",ESPN2HD
-http://5ce.co:80/Ctina2718/Tina3619/6587
-#EXTINF:-1tvg-name="ESPN2HDÂ²"tvg-logo="http://70.ms/6t"group-title="ESPN",ESPN2HDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/6591
-#EXTINF:-1tvg-name="ESPN3HD"tvg-logo="https://i.imgur.com/HBenz7T.png"group-title="ESPN",ESPN3HD
-http://5ce.co:80/Ctina2718/Tina3619/10824
-#EXTINF:-1tvg-name="ESPN3HDÂ²"tvg-logo="https://i.imgur.com/HBenz7T.png"group-title="ESPN",ESPN3HDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/26156
-#EXTINF:-1tvg-name="ESPN4HD"tvg-logo="http://70.ms/6F"group-title="ESPN",ESPN4HD
-http://5ce.co:80/Ctina2718/Tina3619/6577
-#EXTINF:-1tvg-name="ESPN4HDÂ²"tvg-logo="http://70.ms/5x"group-title="ESPN",ESPN4HDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/10809
-#EXTINF:-1tvg-name="ESPNExtraHD"tvg-logo="http://70.ms/To"group-title="ESPN",ESPNExtraHD
-http://5ce.co:80/Ctina2718/Tina3619/26159
-#EXTINF:-1tvg-name="ESPNExtraHDÂ²"tvg-logo="http://70.ms/Te"group-title="ESPN",ESPNExtraHDÂ²
-http://5ce.co:80/Ctina2718/Tina3619/26158
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Esportes", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
@@ -697,6 +677,233 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="Esportes", TNT Sports 5 Brazil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BANDSPORTS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37125
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BANDSPORTS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50613
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BANDSPORTS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36989
+#EXTINF:-1 tvg-id="Brasileirão Série C (S)" tvg-name="Brasileirão Série C (JOGO 1) (S) " tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SÉRIE C (JOGO 1) (S) 
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87227
+#EXTINF:-1 tvg-id="BRASILEIRÃO SERIE C (JOGO 2) (S)" tvg-name="BRASILEIRÃO SERIE C (JOGO 2) (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SERIE C (JOGO 2) (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89542
+#EXTINF:-1 tvg-id="BRASILEIRÃO SERIE C (JOGO 3) S)" tvg-name="BRASILEIRÃO SERIE C (JOGO 3) (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SERIE C (JOGO 3) (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89543
+#EXTINF:-1 tvg-id="BRASILEIRÃO SERIE C ( JOGO 4) (S)" tvg-name="BRASILEIRÃO SERIE C (JOGO 4) (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SERIE C (JOGO 4) (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89544
+#EXTINF:-1 tvg-id="Brasileirão Série C" tvg-name="Brasileirão Série C 1 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SÉRIE C 1 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87226
+#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 10 (J)" tvg-name="BRASILEIRAO SERIE C 10 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 10 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89979
+#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 2 (J)" tvg-name="BRASILEIRAO SERIE C 2 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 2 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89546
+#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 3 (J)" tvg-name="BRASILEIRAO SERIE C 3 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 3 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89547
+#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 4 (J)" tvg-name="BRASILEIRAO SERIE C 4 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 4 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89973
+#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 5 (J)" tvg-name="BRASILEIRAO SERIE C 5 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 5 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89974
+#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 6 (J)" tvg-name="BRASILEIRAO SERIE C 6 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 6 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89975
+#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 7 (J)" tvg-name="BRASILEIRAO SERIE C 7 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 7 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89976
+#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 8 (J)" tvg-name="BRASILEIRAO SERIE C 8 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 8 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89977
+#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 9 (J)" tvg-name="BRASILEIRAO SERIE C 9 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 9 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89978
+#EXTINF:-1 tvg-id="BRASILEIRÃO SÉRIE D (S)" tvg-name="BRASILEIRÃO SÉRIE D (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SÉRIE D (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89545
+#EXTINF:-1 tvg-id="Brasileirão Série D 1 (J)" tvg-name="Brasileirão Série D 1 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SÉRIE D 1 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89583
+#EXTINF:-1 tvg-id="Brasileirão Série D 2 (J)" tvg-name="Brasileirão Série D 2 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SÉRIE D 2 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89584
+#EXTINF:-1 tvg-id="Campeonato Alemão 1 (J)" tvg-name="Campeonato Alemão 1 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",CAMPEONATO ALEMÃO 1 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87603
+#EXTINF:-1 tvg-id="Campeonato Alemão 2 (J)" tvg-name="Campeonato Alemão 2 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",CAMPEONATO ALEMÃO 2 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87604
+#EXTINF:-1 tvg-id="Campeonato Alemão 3 (J)" tvg-name="Campeonato Alemão 3 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",CAMPEONATO ALEMÃO 3 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87605
+#EXTINF:-1 tvg-id="Campeonato Alemão 4 (J)" tvg-name="Campeonato Alemão 4 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",CAMPEONATO ALEMÃO 4 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87606
+#EXTINF:-1 tvg-id="Campeonato Alemão 5 (J)" tvg-name="Campeonato Alemão 5 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",CAMPEONATO ALEMÃO 5 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87607
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",COMBATE
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37119
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",COMBATE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36986
+#EXTINF:-1 tvg-id="Copa do Brasil Prime Video 1 (J)" tvg-name="Copa do Brasil Prime Video 1 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",COPA DO BRASIL PRIME VIDEO 1 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87777
+#EXTINF:-1 tvg-id="Copa do Brasil Prime Video 1 (S)" tvg-name="Copa do Brasil Prime Video 1 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",COPA DO BRASIL PRIME VIDEO 1 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86455
+#EXTINF:-1 tvg-id="Copa do Brasil Prime Video 2 (J)" tvg-name="Copa do Brasil Prime Video 2 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",COPA DO BRASIL PRIME VIDEO 2 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87778
+#EXTINF:-1 tvg-id="Copa do Brasil Prime Video 2 (S)" tvg-name="Copa do Brasil Prime Video 2 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",COPA DO BRASIL PRIME VIDEO 2 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86456
+#EXTINF:-1 tvg-id="DAZN 7 FHD" tvg-name="DAZN 1 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",DAZN 1 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63216
+#EXTINF:-1 tvg-id="DAZN 5 HD" tvg-name="DAZN 2 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",DAZN 2 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63113
+#EXTINF:-1 tvg-id="Eleven Sports Channel 1 (S)" tvg-name="Eleven Sports Channel 1 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 1 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81007
+#EXTINF:-1 tvg-id="Eleven Sports Channel 10 (S)" tvg-name="Eleven Sports Channel 10 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 10 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81016
+#EXTINF:-1 tvg-id="Eleven Sports Channel 2 (S)" tvg-name="Eleven Sports Channel 2 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 2 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81008
+#EXTINF:-1 tvg-id="Eleven Sports Channel 3 (S)" tvg-name="Eleven Sports Channel 3 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 3 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81009
+#EXTINF:-1 tvg-id="Eleven Sports Channel 4 (S)" tvg-name="Eleven Sports Channel 4 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 4 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81010
+#EXTINF:-1 tvg-id="Eleven Sports Channel 5 (S)" tvg-name="Eleven Sports Channel 5 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 5 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81011
+#EXTINF:-1 tvg-id="Eleven Sports Channel 6 (S)" tvg-name="Eleven Sports Channel 6 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 6 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81012
+#EXTINF:-1 tvg-id="Eleven Sports Channel 7 (S)" tvg-name="Eleven Sports Channel 7 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 7 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81013
+#EXTINF:-1 tvg-id="Eleven Sports Channel 8 (S)" tvg-name="Eleven Sports Channel 8 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 8 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81014
+#EXTINF:-1 tvg-id="Eleven Sports Channel 9 (S)" tvg-name="Eleven Sports Channel 9 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 9 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81015
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37104
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 3" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN 3
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62745
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 3 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN 3 HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36976
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN 4
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/85335
+#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN 4 HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/85336
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN EXTRA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41977
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN Extra HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42910
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN HD " tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN HD 
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73051
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN2" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN2
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37105
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN2 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN2 HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36977
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="ESPN4" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN4
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37099
+#EXTINF:-1 tvg-id="FoxSports HD" tvg-name="ESPN4 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN4 HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36970
+#EXTINF:-1 tvg-id="0" tvg-name="Esporte Interativo HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPORTE INTERATIVO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61879
+#EXTINF:-1 tvg-id="Estádio TNT Sports 5 (S)" tvg-name="Estádio TNT Sports (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78447
+#EXTINF:-1 tvg-id="Estádio TNT Sports 1 (J)" tvg-name="Estádio TNT Sports 1 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 1 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78442
+#EXTINF:-1 tvg-id="Estádio TNT Sports 1 (S)" tvg-name="Estádio TNT Sports 1 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 1 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78443
+#EXTINF:-1 tvg-id="Estádio TNT Sports 2 (S)" tvg-name="Estádio TNT Sports 2 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 2 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78444
+#EXTINF:-1 tvg-id="Estádio TNT Sports 2 HD (J)" tvg-name="Estádio TNT Sports 2 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 2 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80779
+#EXTINF:-1 tvg-id="Estádio TNT Sports 3 (S)" tvg-name="Estádio TNT Sports 3 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 3 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78445
+#EXTINF:-1 tvg-id="Estádio TNT Sports 3 HD (J)" tvg-name="Estádio TNT Sports 3 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 3 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80781
+#EXTINF:-1 tvg-id="Estádio TNT Sports 4 (S)" tvg-name="Estádio TNT Sports 4 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 4 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78446
+#EXTINF:-1 tvg-id="Estádio TNT Sports 4 HD (J)" tvg-name="Estádio TNT Sports 4 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 4 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80783
+#EXTINF:-1 tvg-id="Estádio TNT Sports 5 (J)" tvg-name="Estádio TNT Sports 5 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 5 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80784
+#EXTINF:-1 tvg-id="Estádio TNT Sports HD (J)" tvg-name="Estádio TNT Sports HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89551
+#EXTINF:-1 tvg-id="Fight Box HD" tvg-name="Fight Box HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FIGHT BOX HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89971
+#EXTINF:-1 tvg-id="Fight Network" tvg-name="Fight Network" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FIGHT NETWORK
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89972
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FISH TV
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37103
+#EXTINF:-1 tvg-id="Fish TV HD" tvg-name="Fish TV HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FISH TV HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42911
+#EXTINF:-1 tvg-id="FlaTV" tvg-name="FlaTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FLATV
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78160
+#EXTINF:-1 tvg-id="Fórmula 1 TV" tvg-name="Fórmula 1 TV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FÓRMULA 1 TV
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78760
+#EXTINF:-1 tvg-id="Fox App" tvg-name="Fox App" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FOX APP
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/70381
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FoxSports 2" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FOXSPORTS 2
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37098
+#EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-name="FoxSports 2 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FOXSPORTS 2 HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36971
+#EXTINF:-1 tvg-id="FURACAO TV (J)" tvg-name="FURACAO TV (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FURACAO TV (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87415
+#EXTINF:-1 tvg-id="FURACAO TV HD" tvg-name="FURACAO TV (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FURACAO TV (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87413
+#EXTINF:-1 tvg-id="0" tvg-name="GloboEsporte.com" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",GLOBOESPORTE.COM
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62271
+#EXTINF:-1 tvg-id="HBO MAX  04 HD (J)" tvg-name="HBO MAX  04 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",HBO MAX  04 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89567
+#EXTINF:-1 tvg-id="HBO MAX 01 HD " tvg-name="HBO MAX 01 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",HBO MAX 01 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89562
+#EXTINF:-1 tvg-id="HBO MAX 02 HD (J)" tvg-name="HBO MAX 02 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",HBO MAX 02 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89565
+#EXTINF:-1 tvg-id="HBO MAX 03 HD (J)" tvg-name="HBO MAX 03 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",HBO MAX 03 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89566
+#EXTINF:-1 tvg-id="HBO MAX 2 HD" tvg-name="HBO MAX 2 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",HBO MAX 2 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82373
+#EXTINF:-1 tvg-id="HBO MAX 3 HD (S)" tvg-name="HBO MAX 3 HD (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",HBO MAX 3 HD (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89556
+#EXTINF:-1 tvg-id="HBO MAX 4 HD" tvg-name="HBO MAX 4 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",HBO MAX 4 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82375
+#EXTINF:-1 tvg-id="HBO MAX 4 HD (S)" tvg-name="HBO MAX 4 HD (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",HBO MAX 4 HD (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89557
+#EXTINF:-1 tvg-id="LNF - Liga Futsal 2022 (S)" tvg-name="LNF - Liga Futsal 2022 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",LNF - LIGA FUTSAL 2022 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87189
+#EXTINF:-1 tvg-id="LNF - Liga Futsal 2022 1 (J)" tvg-name="LNF - Liga Futsal 2022 1 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",LNF - LIGA FUTSAL 2022 1 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87190
+#EXTINF:-1 tvg-id="LNF - Liga Futsal 2022 1 HD (J)" tvg-name="LNF - Liga Futsal 2022 1 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",LNF - LIGA FUTSAL 2022 1 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89570
+#EXTINF:-1 tvg-id="LNF - Liga Futsal 2022 2 (J)" tvg-name="LNF - Liga Futsal 2022 2 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",LNF - LIGA FUTSAL 2022 2 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87191
+#EXTINF:-1 tvg-id="LNF - Liga Futsal 2022 2 HD (J)" tvg-name="LNF - Liga Futsal 2022 2 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",LNF - LIGA FUTSAL 2022 2 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89571
+#EXTINF:-1 tvg-id="LNF - Liga Futsal 2022 3 (J)" tvg-name="LNF - Liga Futsal 2022 3 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",LNF - LIGA FUTSAL 2022 3 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87192
+#EXTINF:-1 tvg-id="LNF - Liga Futsal 2022 4 (J)" tvg-name="LNF - Liga Futsal 2022 4 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",LNF - LIGA FUTSAL 2022 4 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87193
+#EXTINF:-1 tvg-id="Rai 01" tvg-name="Rai 01" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",RAI 01
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/71888
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",SPORTV
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37256
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",SPORTV 2
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37044
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",SPORTV 2 HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36943
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",SPORTV 3
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37006
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SporTV 3 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",SPORTV 3 HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36942
+#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SporTV HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",SPORTV HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37255
+#EXTINF:-1 tvg-id="Star+ HD (J)" tvg-name="Star+ HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",STAR+ HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82512
+#EXTINF:-1 tvg-id="Star+ HD" tvg-name="Star+ HD (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",STAR+ HD (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82245
+#EXTINF:-1 tvg-id="Star+ HD 2 (J)" tvg-name="Star+ HD 2 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",STAR+ HD 2 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/85329
+#EXTINF:-1 tvg-id="Star+ HD 2 (S)" tvg-name="Star+ HD 2 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",STAR+ HD 2 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82510
+#EXTINF:-1 tvg-id="Star+ HD 3 (J)" tvg-name="Star+ HD 3 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",STAR+ HD 3 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/85330
+#EXTINF:-1 tvg-id="Star+ HD 3 (S)" tvg-name="Star+ HD 3 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",STAR+ HD 3 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89550
+#EXTINF:-1 tvg-id="Star+ HD 4 (J)" tvg-name="Star+ HD 4 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",STAR+ HD 4 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89548
+#EXTINF:-1 tvg-id="Star+ HD 5 (J)" tvg-name="Star+ HD 5 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",STAR+ HD 5 (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89549
+#EXTINF:-1 tvg-id="TV Coxa HD (Coritiba FC)" tvg-name="TV Coxa HD (Coritiba FC)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",TV COXA HD (CORITIBA FC)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80215
+#EXTINF:-1 tvg-id="TV NSPORTS 1 (S)" tvg-name="TV NSPORTS 1 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",TV NSPORTS 1 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81004
+#EXTINF:-1 tvg-id="TV NSPORTS 2 (S)" tvg-name="TV NSPORTS 2 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",TV NSPORTS 2 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81005
+#EXTINF:-1 tvg-id="TV NSPORTS 3 (S)" tvg-name="TV NSPORTS 3 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",TV NSPORTS 3 (S)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81006
 
 #EXTINF:-1tvg-name="ConmebolTV1"tvg-logo="https://i.imgur.com/BEGJmJE.png"group-title="CONMEBOLTV",ConmebolTV1
 http://5ce.co:80/Ctina2718/Tina3619/120984
