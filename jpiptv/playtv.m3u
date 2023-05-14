@@ -494,6 +494,25 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="Rede Sempre" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4d78f92ebfd5f3e891c78714aae386e6.webp" group-title="variedades",Rede Sempre
 https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tv Extremo Oriental" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/af6889de04c0610177c5bb253bd9fac9.webp" group-title="variedades",Tv Extremo Oriental
+https://cdn2.connectbr.com.br/Soultv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV Guarulhos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6def3a6fb419b01e142b1cc710fd0886.webp" group-title="variedades",TV Guarulhos
+https://br5093.streamingdevideo.com.br/tvguarulhos/tvguarulhos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Capital Teresina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/44520b89da519167d36028236bc32b81.webp" group-title="variedades",Tv Capital Teresina
+https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TV Sertão Petrolina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89a1c81dc58a719317b5625d53b1a0e6.webp" group-title="variedades",TV Sertão Petrolina
+https://video01.logicahost.com.br/sertaopetrolina/sertaopetrolina/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVG - Tv Várzea Grande" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ad35bc60c94f3944752ca2af25c888d0.webp" group-title="",TVG - Tv Várzea Grande
+https://video01.kshost.com.br:4443/adauton7191/adauton7191/playlist.m3u8
+
+
+
+
 
 ##################################################################################
 
