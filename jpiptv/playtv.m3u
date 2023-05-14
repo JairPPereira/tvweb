@@ -507,9 +507,31 @@ https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Sertão Petrolina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89a1c81dc58a719317b5625d53b1a0e6.webp" group-title="variedades",TV Sertão Petrolina
 https://video01.logicahost.com.br/sertaopetrolina/sertaopetrolina/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVG - Tv Várzea Grande" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ad35bc60c94f3944752ca2af25c888d0.webp" group-title="",TVG - Tv Várzea Grande
+#EXTINF:-1 tvg-id="TVG - Tv Várzea Grande" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ad35bc60c94f3944752ca2af25c888d0.webp" group-title="variedades",TVG - Tv Várzea Grande
 https://video01.kshost.com.br:4443/adauton7191/adauton7191/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="Tv A7 Caldas Novas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3c114818dcd816eb1f50f1aaf7b04a19.webp" group-title="variedades",Tv A7 Caldas Novas
+https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
+
+#EXTINF:-1 tvg-id="TVC Cidade Pelotas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a60f408112e3d68e2d7cd59a3878fb34.webp" group-title="variedades",TVC Cidade Pelotas
+https://video01.kshost.com.br:4443/associacao6754/associacao6754/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Plural" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0e68afbd19480c30a542d435905e767c.webp" group-title="variedades",Canal Plural
+https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
+
+#EXTINF:-1 tvg-id="Adesso Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="variedades",Adesso Tv
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Na Ativa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/28fc27c37aa31c914f6dc70ecc28fbde.webp" group-title="variedades",TV Na Ativa
+https://cdn.jmvstream.com/w/AVJ-13072/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vale TV Play" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e3c7942bc6227cfe86fbd2005f334680.webp" group-title="variedades",Vale TV Play
+https://cdn.jmvstream.com/w/AVJ-12938/playlist/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Web Tv Triangulo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0370ca6031db6c5213670bbbaec05fbb.webp" group-title="variedades",Web Tv Triangulo
+https://tv02.zas.media:1936/triangulo/triangulo/playlist.m3u8
 
 
 
