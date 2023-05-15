@@ -534,6 +534,12 @@ https://cdn.jmvstream.com/w/AVJ-12938/playlist/playlist.m3u8
 https://tv02.zas.media:1936/triangulo/triangulo/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Nova Gazeta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c5abc02f9358d5f9c3c68f26fcc1f3a5.webp" group-title="variedades",Nova Gazeta
+https://video01.kshost.com.br:4443/sueli3485/sueli3485/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV POMBAL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0f7c626163aae1e10afd2e22abec5c8a.webp" group-title="variedades",TV POMBAL
+https://stmv1.samcast.com.br/alex3514/alex3514/playlist.m3u8
+
 
 
 ##################################################################################
