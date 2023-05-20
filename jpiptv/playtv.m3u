@@ -618,16 +618,13 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1048115623.m3u8
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIzIDk6MTM6MjYgUE0maGFzaF92YWx1ZT1xekxpUUgyYXZUVEFETGIySmFlUmRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTBlOGNlYjktMWIwNi00ZTE5LThiMjEtYjBhMDY2Mzg1Njkz/
 
 
-#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f08eba3f-2fc8-4316-80f7-92db3f925330" group-title="jornalismo", ID - INVESTIGACAO DISCOVERY SD
-http://ncw.one:80/Marcelotorres/20torres20tv/144644
-
-#EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="GloboNews FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",GLOBONEWS FHD
+#EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="GloboNews FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",GLOBONEWS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38397
 
 #EXTINF:-1tvg-name="BandNewsSD"tvg-logo="http://70.ms/h1"group-title="jornalismo",BandNewsSD
 https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="BandNews H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | H.265 HEVC",BANDNEWS H265
+#EXTINF:-1 tvg-id="0" tvg-name="BandNews H265" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",BANDNEWS H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62797
 
 #EXTINF:-1 tvg-id="JP News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1e0Re1E3AAV4pyo0gqS4EStCpXjrSj5f4q9R6CDMrHSl4j90deXWXjUXY-5inpD43CsWn_vxBlqJqFJEEK5ejvQwDb-I3S9UitRoyZ69BNfWW7kunC5IGweOnGJaTOUQhAmpCDorgCOMtOB5IACTl8lmhtc4-klhGFpBV6Z0Cv27emojoRicWlxYz/s1600/jovempanews.jpg" group-title="jornalismo", JP NEWS
@@ -643,6 +640,11 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41485
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37128
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://bit.ly/Logo-tv" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36992
+
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTARIOS",ID: INVESTIGAÇÃO DISCOVERY
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37114
+#EXTINF:-1 tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigação Discovery HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTARIOS",ID: INVESTIGAÇÃO DISCOVERY HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
 
 
 #################################################################################
@@ -4287,10 +4289,94 @@ https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Cold.Case/T07/LS-T07E22.mp4
 
 ############################################################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E01
+http://meuplay.shop:80/series/150657845528/254658986506/1811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E02
+http://meuplay.shop:80/series/150657845528/254658986506/1812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E03
+http://meuplay.shop:80/series/150657845528/254658986506/1813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E04
+http://meuplay.shop:80/series/150657845528/254658986506/1814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E05
+http://meuplay.shop:80/series/150657845528/254658986506/1815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E06
+http://meuplay.shop:80/series/150657845528/254658986506/1816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E07
+http://meuplay.shop:80/series/150657845528/254658986506/1817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E08
+http://meuplay.shop:80/series/150657845528/254658986506/1818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E09
+http://meuplay.shop:80/series/150657845528/254658986506/1819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E10
+http://meuplay.shop:80/series/150657845528/254658986506/1820.mp4
+
 
 ########################################################################################
 
 
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3KBrwAMylBY7YouVV5addeaQLO3.jpg" group-title="Arcanjo Renegado",S01 E01
+http://meuplay.shop:80/series/150657845528/254658986506/2026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dh6ZAyPBdxBKLVo1P2HYVGBRc3k.jpg" group-title="Arcanjo Renegado",S01 E02
+http://meuplay.shop:80/series/150657845528/254658986506/2027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6drousx7aSqj7OdmATAqYoCwCkj.jpg" group-title="Arcanjo Renegado",S01 E03
+http://meuplay.shop:80/series/150657845528/254658986506/2028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xjVVvJ6DPBeKrHbSZ9X4kRae4HR.jpg" group-title="Arcanjo Renegado",S01 E04
+http://meuplay.shop:80/series/150657845528/254658986506/2029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cQYGQLM1IgVvhrmyO4TTBHNXksn.jpg" group-title="Arcanjo Renegado",S01 E05
+http://meuplay.shop:80/series/150657845528/254658986506/2030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gAJeHGCt8TnXxrZUXnRPr6uK3rh.jpg" group-title="Arcanjo Renegado",S01 E06
+http://meuplay.shop:80/series/150657845528/254658986506/2031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/obkV5wAPG9n5AQkLm30Be8TStOy.jpg" group-title="Arcanjo Renegado",S01 E07
+http://meuplay.shop:80/series/150657845528/254658986506/2032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4aOxeuLrzQWojd0e5Wpx4IJa9Vw.jpg" group-title="Arcanjo Renegado",S01 E08
+http://meuplay.shop:80/series/150657845528/254658986506/2033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yvxwOcIOt83dQUpKn28PA2tb2j3.jpg" group-title="Arcanjo Renegado",S01 E09
+http://meuplay.shop:80/series/150657845528/254658986506/2034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlt9BzLMYPqt4EJbFq9bicsB7Do.jpg" group-title="Arcanjo Renegado",S01 E10
+http://meuplay.shop:80/series/150657845528/254658986506/2035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E01
+http://meuplay.shop:80/series/150657845528/254658986506/81894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E02
+http://meuplay.shop:80/series/150657845528/254658986506/81895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E03
+http://meuplay.shop:80/series/150657845528/254658986506/81896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E04
+http://meuplay.shop:80/series/150657845528/254658986506/81897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E05
+http://meuplay.shop:80/series/150657845528/254658986506/82033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E06
+http://meuplay.shop:80/series/150657845528/254658986506/82034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E07
+http://meuplay.shop:80/series/150657845528/254658986506/82245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E08
+http://meuplay.shop:80/series/150657845528/254658986506/82246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E09
+http://meuplay.shop:80/series/150657845528/254658986506/82247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E10
+http://meuplay.shop:80/series/150657845528/254658986506/82248.mp4
+
+############################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9P7wGED32fg7OKlmxLsHqCmgrcP.jpg" group-title="Aruanas",S01 E01
+http://meuplay.shop:80/series/150657845528/254658986506/2519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r7PLta5NJFR7VhDnyVkNHVlEGNv.jpg" group-title="Aruanas",S01 E02
+http://meuplay.shop:80/series/150657845528/254658986506/2520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1i84HwN5exwzHzNgVPdfKadZpRP.jpg" group-title="Aruanas",S01 E03
+http://meuplay.shop:80/series/150657845528/254658986506/2521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vUQvsLpXus4S1keyBCQxNw6rCV3.jpg" group-title="Aruanas",S01 E04
+http://meuplay.shop:80/series/150657845528/254658986506/2522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3DdmqvGhw43cezblnc35APcveBc.jpg" group-title="Aruanas",S01 E05
+http://meuplay.shop:80/series/150657845528/254658986506/2523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iNMeDsFd6q7C19glX3RUeQd7wvc.jpg" group-title="Aruanas",S01 E06
+http://meuplay.shop:80/series/150657845528/254658986506/2524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vqLQrNazUpbb7bDu61PkbBPchUe.jpg" group-title="Aruanas",S01 E07
+http://meuplay.shop:80/series/150657845528/254658986506/2525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t9LqOCLG5h6Vq9UryPhystBzxf6.jpg" group-title="Aruanas",S01 E08
+http://meuplay.shop:80/series/150657845528/254658986506/2526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wOP4YgayjPPjZUfm4sQUdwFWCqz.jpg" group-title="Aruanas",S01 E09
+http://meuplay.shop:80/series/150657845528/254658986506/2527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/griBR9a3NwaGeaK8j0oVxrsYbhM.jpg" group-title="Aruanas",S01 E10
+http://meuplay.shop:80/series/150657845528/254658986506/2528.mp4
 
 ##########################################################################################
 

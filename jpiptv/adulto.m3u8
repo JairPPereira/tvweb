@@ -215,10 +215,6 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42915
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36961
 #EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTARIOS",HISTORY HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36960
-#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTARIOS",ID: INVESTIGAÇÃO DISCOVERY
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37114
-#EXTINF:-1 tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigação Discovery HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTARIOS",ID: INVESTIGAÇÃO DISCOVERY HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTARIOS",NATIONAL GEOGRAPHIC
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37068
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
@@ -2677,8 +2673,6 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/40259
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41485
 #EXTINF:-1 tvg-id="History FHD" tvg-name="History FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",HISTORY FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38383
-#EXTINF:-1 tvg-id="ID: Investigação Discovery FHD" tvg-name="ID: Investigação Discovery FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",ID: INVESTIGAÇÃO DISCOVERY FHD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41489
 #EXTINF:-1 tvg-id="Inter TV Alto Litoral FHD" tvg-name="Inter TV Alto Litoral FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",INTER TV ALTO LITORAL FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52593
 #EXTINF:-1 tvg-id="Inter TV Cabugi FHD" tvg-name="Inter TV Cabugi FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",INTER TV CABUGI FHD
