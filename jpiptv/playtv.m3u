@@ -77,8 +77,6 @@ http://meuplay.shop:80/150657845528/254658986506/398
 #EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORD TV PARANÁ HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV PARANÁ HD
 http://meuplay.shop:80/150657845528/254658986506/360
 
-#EXTINF:-1tvg-name="TVVitÃ³riaESHD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNWJFSkv8WuREsdEJurNJsn37qiveveohfTQenCW90TiK2UvF_XJr0s_uEfZA_IxN-DqQDDJaS6bzdQF_A104A2xisUTu0EUXfgZwQt8Q380zkw8eVu85OWH2aGgdcrnxw44RvXHDgXgJ2b-zJr7qDCWE2omBuOwDvK8_h48IbqO2lHEE1NwQbDPF4/s1600/Rede-Record.png"group-title="variedades",TVVitÃ³riaESHD
-http://5ce.co:80/Ctina2718/Tina3619/36969
 
 #EXTINF:-1 tvg-id="TV Vila Real (Record MT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/08bb2dcf3ec4ceeb988d9a6b19270047.webp" group-title="variedades",TV Vila Real (Record MT)
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
@@ -1747,10 +1745,10 @@ https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T05/LS-T05E15.
 #EXTINF:-1 tvg-id=" Bem no Meio" tvg-name="T05E16" tvg-logo="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4XfjdogzEgXrm949aSqkKKNqVJn.jpg" group-title="CSI LAS VEGAS", Bem no Meio
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T05/LS-T05E16.mp4
 
-#EXTINF:-1 tvg-id=" Compulsao" tvg-name="T05E17" tvg-logo="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4XfjdogzEgXrm949aSqkKKNqVJn.jpg" group-title="CSI LAS VEGAS", Compulsao
+#EXTINF:-1 tvg-id=" Compulsao" tvg-name="T05E17" tvg-logo="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4XfjdogzEgXrm949aSqkKKNqVJn.jpg" group-title="CSI LAS VEGAS", Compulsao mp4
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T05/LS-T05E17.mp4
 
-#EXTINF:-1 tvg-id=" Centelha da Vida" tvg-name="T05E18" tvg-logo="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4XfjdogzEgXrm949aSqkKKNqVJn.jpg" group-title="CSI LAS VEGAS", Centelha da Vida
+#EXTINF:-1 tvg-id=" Centelha da Vida" tvg-name="T05E18" tvg-logo="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4XfjdogzEgXrm949aSqkKKNqVJn.jpg" group-title="CSI LAS VEGAS", Centelha da Vida mp4
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Las.Vegas/T05/LS-T05E18.mp4
 
 #EXTINF:-1 tvg-id=" 4x4" tvg-name="T05E19" tvg-logo="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4XfjdogzEgXrm949aSqkKKNqVJn.jpg" group-title="CSI LAS VEGAS", 4x4
