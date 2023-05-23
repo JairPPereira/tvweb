@@ -1,76 +1,22 @@
 
 
-#EXTINF:-1 tvg-id="TV Tropical (Rede Record RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85b498edcd66663ea7dfb0c1f9fc697e.webp" group-title="variedades",TV Tropical (Rede Record RN)
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tela Viva Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ee32135a0ae4307048d3b24d0891738f.webp" group-title="variedades",Tela Viva Tv
-https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AWTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp" group-title="variedades",AWTV
-https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
-
-#EXTINF:-1 tvg-id="TV Metropole" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cb11c7b420ed0d82de6c3403ee72f3d9.webp" group-title="variedades",TV Metropole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Jornal do Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9d7d1a4b47e3583e7c715cafee8cbd02.webp" group-title="variedades",Tv Jornal do Nordeste
-https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w309686598.m3u8
-
-#EXTINF:-1 tvg-id="SBT Interior" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5d386500ebc7f1be9d49188de6f44fa5.webp" group-title="variedades",SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Difusora" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fd082a2640b45935b4d9fed13af5a966.webp" group-title="variedades",TV Difusora
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-
-#EXTINF:-1 tvg-id="Tv Arapuan (Rede TV PB)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d82f6ecad5c6c3d39cc1cdae7521d3b1.webp" group-title="variedades",Tv Arapuan (Rede TV PB)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Santa Cecilia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/689f8e1fbf539be1c6e2a36b9283b324.webp" group-title="variedades",TV Santa Cecilia
-https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Nova Nordeste (Cultura PE)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/da8fecf959f730dd05d649b46fa80298.webp" group-title="variedades",TV Nova Nordeste (Cultura PE)
-https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RBS Mix Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/84463693ae7ed42ff27b10a658f53089.webp" group-title="variedades",RBS Mix Web Tv
-https://video01.kshost.com.br:4443/ezequiel3930/ezequiel3930/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Clube Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c15e9e9796912ff00a4717b498485b36.webp" group-title="variedades",Tv Clube Web
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Cidade Verde (SBT PI)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ce8f1a9e2406d2acde94e2ac5d0f671.webp" group-title="variedades",TV Cidade Verde (SBT PI)
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Play TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/168f0c2d7fb92988c1cb0f156fe390eb.webp" group-title="variedades",Play TV
-https://live.mediastreaming.com.br/playtvhd/playtv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SBT RS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3c97376c5011223b08762664c3c865bb.webp" group-title="variedades",SBT RS
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Central Tv Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/84998832d7465ef731fc0e141e6c5efa.webp" group-title="variedades",Central Tv Brasil
-https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Viva Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8936ceb865591bcc9ace180f253fc697.webp" group-title="variedades",Viva Web Tv
-https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVC - TV Ceará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/aada6bfb708de57f0dff48ee1aaa7a64.webp" group-title="variedades",TVC - TV Ceará
-https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-id="REDE TV ES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="variedades",REDE TV ES
-https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
-
-#EXTINF:-1 tvg-id="Rede Mundo TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/959c1862444e043b14910836dfebaca9.webp" group-title="variedades",Rede Mundo TV
-https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="X PLUS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3887b3ba2258769221444dbb4e42a93d.webp" group-title="variedades",X PLUS TV
-https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Amazon Sat - Amazonas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eab8e4fcefd5980ba7e4aaf007da267d.webp" group-title="variedades",Amazon Sat - Amazonas
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
-#EXTINF:-1 tvg-id="Tv Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f42f76db35b114255012a25cbe113942.webp" group-title="variedades",Tv Nordeste
-https://cdn.jmvstream.com/w/AVJ-13064/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Pampa (Rede TV RS)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/65d9059a562708573579342225f53e0b.webp" group-title="variedades",TV Pampa (Rede TV RS)
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Padre Cicero" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dab5e88e8a6365ed0890db70b53b2764.webp" group-title="variedades",Tv Padre Cicero
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/71IyTmXRk0PnLtFnkZWUNdZvsAV.jpg" group-title="Motel Bates S01",S01 E01
+http://meuplay.shop:80/series/150657845528/254658986506/2724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b3w5TTxIHzkxpdUGtMqRxuQld5j.jpg" group-title="Motel Bates S01",S01 E02
+http://meuplay.shop:80/series/150657845528/254658986506/2725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mmRQjaHK7Pv7mnc8b6XHDigLERl.jpg" group-title="Motel Bates S01",S01 E03
+http://meuplay.shop:80/series/150657845528/254658986506/2726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eMNQfHQvQLzgp7I1sDVM8YjMrrq.jpg" group-title="Motel Bates",S01 E04
+http://meuplay.shop:80/series/150657845528/254658986506/2727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xvf97mj5htw7mMh0C8ASVGJqIxC.jpg" group-title="Motel Bates S01",S01 E05
+http://meuplay.shop:80/series/150657845528/254658986506/2728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wG3tb5qnid9Fg8isBxkfVns8K8X.jpg" group-title="Motel Bates S01",S01 E06
+http://meuplay.shop:80/series/150657845528/254658986506/2729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w694X9YyFPyZ78U9nQsNM33pbWE.jpg" group-title="Motel Bates S01",S01 E07
+http://meuplay.shop:80/series/150657845528/254658986506/2730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8FDmzLHcH3kSygIBi8KMsvRVoG.jpg" group-title="Motel Bates S01",S01 E08
+http://meuplay.shop:80/series/150657845528/254658986506/2731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/toTlAShnyT7s6Xes4DXN3DeyV6y.jpg" group-title="Motel Bates S01",S01 E09
+http://meuplay.shop:80/series/150657845528/254658986506/2732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/msmP6byI9xcGW0O9YLdwpm7ZSH5.jpg" group-title="Motel Bates S01",S01 E10
+http://meuplay.shop:80/series/150657845528/254658986506/2733.mp4
