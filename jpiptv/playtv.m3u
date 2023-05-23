@@ -950,6 +950,34 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81006
 
 #################################################################################
 
+#EXTINF:-1 tvg-id="Tv Adorando Jesus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd959e5a2f2797240d8a08171c7db83f.webp" group-title="filmesseries",Tv Adorando Jesus
+https://stmv.srvvox.com.br/anderson/anderson/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Tv Tremembé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc313ddd3bc4d8de0f5939ee8410a56e.webp" group-title="filmesseries",Tv Tremembé
+https://video05.logicahost.com.br/tvtremembe/tvtremembe/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Tv Cidade Alagoinha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ff33415434b73a0e1c62a152823692eb.webp" group-title="filmesseries",Tv Cidade Alagoinha
+https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ULB TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="filmesseries",ULB TV
+https://video01.kshost.com.br/alan4876/alan4876/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CHANNEL 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc7b83a5a19d96b87517b1e95e9b0565.webp" group-title="filmesseries",CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="HITS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3e22ba0cc070c700e71e3c51dcb810dc.webp" group-title="filmesseries",HITS TV
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CinePIX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="filmesseries",CinePIX
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Bons Tempos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="filmesseries",Bons Tempos
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
@@ -1076,6 +1104,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
 #EXTINF:-1 tvg-id="Runtime Comédia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="filmesseries",Runtime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-id="Runtime Crime" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae540b891b4a0d073b39ae0bb693f5c3.webp" group-title="",Runtime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
 
 #EXTINF:-1 tvg-id="Tv Jornal do Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9d7d1a4b47e3583e7c715cafee8cbd02.webp" group-title="filmesseries",Tv Jornal do Nordeste
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w309686598.m3u8
