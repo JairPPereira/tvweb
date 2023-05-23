@@ -960,9 +960,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Nova Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="filmesseries",Tv Nova Play Ao Vivo
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1874174887.m3u8
 
-#EXTINF:-1 tvg-id="Web Tv Cine Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="filmesseries",Web Tv Cine Ao Vivo
-https://stmv1.painelvideo.top//channel1/channel1/chunklist_w1003385003.m3u8
-
 
 #EXTINF:-1 tvg-id="GOSPEL MOVIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="filmesseries",GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
@@ -970,9 +967,6 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 29" tvg-logo="https://canal29.weebly.com/uploads/1/0/5/3/105352943/published/2_1.png?1620962596" group-title="filmesseries",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w960384045.m3u8
-
-#EXTINF:-1 tvg-id="TV Séries" tvg-logo="https://assets.iptv2022.com/uploads/channel/14155/thumb_TV_Se%CC%81ries.png" group-title="filmesseries",TV Séries
-https://stmv1.painelvideo.top/tvserie/tvserie/chunklist_w1575306242.m3u8
 
 #EXTINF:-1 tvg-id="Tv Loading" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEAMLifvZzErFchXZ6jJ0U7z-Q2ulMxPA9j3JSXo2GJLpjEtkX-Ol6H82vSHeey-YeecQyYgtOFgUembZjckm20FLLx6aDkZTVnVpkSAHEJLiRRP8-8EKb3wh8RDAEh0BIYT5kK98zTBeUUuBh0DmkNHJo4xMZ-eL8iRggP5UPgwtFpkMCXyIxoLS7/s1600/loading.webp" group-title="filmesseries",Tv Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
@@ -1001,8 +995,6 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w557659804.m3u8
 #EXTINF:-1 tvg-id="turnerdemo.br" tvg-logo="https://static.wikia.nocookie.net/youtube/images/0/06/CartoonNetwork2022.jpg/revision/latest?cb=20220518173641" group-title="filmesseries", Cartoon Promo HD
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="tvbs.br" tvg-name="TV BS HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp" group-title="filmesseries", TV Teen Net HD
-https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
 
 #EXTINF:-1 tvg-id="fkids.br" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="filmesseries", FoxKids Network HD
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
@@ -1047,29 +1039,17 @@ http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Vintage" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="filmesseries",Vintage
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Classique Tv Séries - As Panteras" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4e3f4bcc688730924a61bc674b7572ea.webp" group-title="filmesseries",Classique Tv Séries - As Panteras
-https://stmv1.painelvideo.top/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Classique Tv Séries 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2facd9de3a888b8015197f7e7adfb318.webp" group-title="filmesseries",Classique Tv Séries 1
-https://stmv1.painelvideo.top/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Classique Tv Séries 2 - Mulher Biônica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ba01cfb31f2f6c1454c516059c60cb64.webp" group-title="filmesseries",Classique Tv Séries 2 - Mulher Biônica
-https://stmv1.painelvideo.top/tvserie2/tvserie2/playlist.m3u8
+#EXTINF:-1 tvg-id="Classique Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2facd9de3a888b8015197f7e7adfb318.webp" group-title="filmesseries",Classique Tv
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Classique Tv Séries 3 - Star Trek" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/84c2ddb734b85aa88eeea1c6c516c4c6.webp" group-title="filmesseries",Classique Tv Séries 3 - Star Trek
-https://stmv1.painelvideo.top/tvserie3/tvserie3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Classique Tv Séries 4 - CHIPS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ec0f355b12888557f7926dbe2ff3bb52.webp" group-title="filmesseries",Classique Tv Séries 4 - CHIPS
-https://stmv1.painelvideo.top/tvserie4/tvserie4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Classique Tv Séries 5 - Hogan's Heroes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bbf68ab6be6c58903b3f0737ce6eed5.webp" group-title="filmesseries",Classique Tv Séries 5 - Hogan's Heroes
-https://stmv1.painelvideo.top/tvserie5/tvserie5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Classique Tv Séries 6 - Os 3 Patetas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/88278c8e5588e84dfcb48f1c7cab15b7.webp" group-title="filmesseries",Classique Tv Séries 6 - Os 3 Patetas
-https://stmv1.painelvideo.top/tvserie6/tvserie6/playlist.m3u8
+#EXTINF:-1 tvg-id="Classique Western" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/db24d44b23d48de613d70881b8f1d013.webp" group-title="",Classique Western
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Classique Tv Séries 7 - Agente 86" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc1a086ab2f117cc51882b40c75c0818.webp" group-title="filmesseries",Classique Tv Séries 7 - Agente 86
-https://stmv1.painelvideo.top/tvserie7/tvserie7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv Lagoa Dantas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/275fb37c30d000f0632a8b53100d64a3.webp" group-title="filmesseries",Tv Lagoa Dantas
 https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/playlist.m3u8
@@ -1092,8 +1072,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-id="Tv Jornal do Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9d7d1a4b47e3583e7c715cafee8cbd02.webp" group-title="filmesseries",Tv Jornal do Nordeste
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w309686598.m3u8
 
-#EXTINF:-1 tvg-id="CHANNEL 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc7b83a5a19d96b87517b1e95e9b0565.webp" group-title="filmesseries",CHANNEL 1
-https://stmv1.painelvideo.top/channel1/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv J.SID" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f24b1cd1064865c050503ea604e4526a.webp" group-title="filmesseries",Tv J.SID
 https://livefocamundo.com:8081/tvjsid/index.m3u8
