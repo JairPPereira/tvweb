@@ -950,6 +950,14 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81006
 
 #################################################################################
 
+#EXTINF:-1 tvg-id="Bons Tempos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="",Bons Tempos
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Web Tv Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="filmesseries",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Rede Clone" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title="filmesseries",Rede Clone
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1786527374.m3u8
