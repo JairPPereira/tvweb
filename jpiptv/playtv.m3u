@@ -950,7 +950,7 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81006
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="Bons Tempos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="",Bons Tempos
+#EXTINF:-1 tvg-id="Bons Tempos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="filmesseries",Bons Tempos
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
 
@@ -1055,7 +1055,7 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Classique Western" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/db24d44b23d48de613d70881b8f1d013.webp" group-title="",Classique Western
+#EXTINF:-1 tvg-id="Classique Western" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/db24d44b23d48de613d70881b8f1d013.webp" group-title="filmesseries",Classique Western
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
 
