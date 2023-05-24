@@ -4612,6 +4612,9 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wgd83s
 #EXTINF:-1 tvg-id="Eu Acredito" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2xtqkht2u7SkrZPd6zyMRymE4nt.jpg" group-title="Filmes ondemand",Eu Acredito
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_baz7vuhm/format/applehttp/protocol/https/flavorIds/1_waznzxs9,1_54fzk1ot,1_80gbiew2,1_g5seluvl,1_hmdsa0o4,1_a3yhwzz8,1_vjpny44f/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1684941135&id=3433&ip=206.84.34.7&override_expiration=1500&sign=DKhnoWnn9YaL9IVB1v%2B%2BkSWJC41RB6zuY80%2FDG1iSWs%3D&playSessionId=1e3446a5-861a-5a93-8c07-1044a083360d:cbd85766-af17-7cb8-c5a0-1beeed62501b&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2V1LWFjcmVkaXRv&clientTag=html5:v7.63
 
+#EXTINF:-1 tvg-id="Expresso do Amanhã" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9rtJNrpDuxHJiRormrY5S3GXwEu.jpg" group-title="Filmes ondemand",Expresso do Amanhã
+https://play.prod.gcp.vix.services/snowpiercer_pt/snowpiercer_pt_1-1/play_v1_hls_432p.m3u8
+
 #########################################M########################################
 
 #EXTINF:-1 tvg-id="Malcolm X" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg" group-title="Filmes ondemand",Malcolm X
