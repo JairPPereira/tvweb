@@ -4593,10 +4593,21 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Amor por Direito" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7dTx6p5aHYMtpNoEvi6SuT6sidU.jpg" group-title="Filmes ondemand",Amor por Direito
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rdwsygxe/format/applehttp/protocol/https/flavorIds/1_h4ugbzfo,1_3bvifdix,1_j7yb65rh,1_f4q5jrcv,1_ano2uh8h,1_uluwhf1l,1_zimjp66w/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562117&id=4787&ip=206.84.34.255&override_expiration=1500&sign=SOv2mJ8RY0JrLw250XGNO0NptckR4IIRcIRtGg2QE4Y%3D&playSessionId=dfab226d-826c-4132-82fa-a4ea79192d19:0d7ddb32-51f7-1b6b-2dbd-930ab145c1b1&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2Ftb3ItcG9yLWRpcmVpdG8=&clientTag=html5:v7.60
 
+#######################################C#######################################################
 
+#EXTINF:-1 tvg-id="Código de Conduta" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dpd9aUIUT0tUDIard91nTWLLETV.jpg" group-title="Filmes ondemand",Código de Conduta
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_4urvnfsj/format/applehttp/protocol/https/flavorIds/1_fxi949ls,1_r644j76w,1_3jii891f,1_t2mx9742,1_y2a5z1oq,1_hvlnvg7w/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1684941698&id=1326&ip=206.84.34.7&override_expiration=1500&sign=vJxUfy%2F4ItNPM5qrHpEF3vZdJdT52sPyt%2Bej2Uik5kI%3D&playSessionId=ae9b3c81-9fe3-d48a-0f41-4a2a07b0b10c:d33eb69e-3eff-e383-f12b-c485e73e9c7c&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2NvZGlnby1kZS1jb25kdXRh&clientTag=html5:v7.63
+
+#######################################D#########################################################
 
 #EXTINF:-1 tvg-id="Departamento Q - Guardiões das Causas Perdidas" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wSEFQ6iCj626xjItq4DSPVr5MKC.jpg" group-title="Filmes ondemand",Departamento Q - Guardiões das Causas Perdidas
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wgd83sh6/format/applehttp/protocol/https/flavorIds/1_zmed02re,1_d3dykw0e,1_v3n0xz0c,1_p81o2rwp,1_dr6cqof2,1_nkewyzkx,1_jr4ct3t7/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562784&id=2130&ip=206.84.34.255&override_expiration=1500&sign=%2FQmAgjuiGWe%2Fb9G9Zi2FqaROj1e0SokjTiQpA6DJpOg%3D&playSessionId=641bb8d1-d8e4-6993-b3f8-4710418674ca:6e4c4b30-165d-9f43-d3c4-1f42b0b56efd&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2RlcGFydGFtZW50by1xLWd1YXJkaW9lcy1kYXMtY2F1c2FzLXBlcmRpZGFz&clientTag=html5:v7.60
+
+
+##############################E################################################
+
+#EXTINF:-1 tvg-id="Eu Acredito" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2xtqkht2u7SkrZPd6zyMRymE4nt.jpg" group-title="Filmes ondemand",Eu Acredito
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_baz7vuhm/format/applehttp/protocol/https/flavorIds/1_waznzxs9,1_54fzk1ot,1_80gbiew2,1_g5seluvl,1_hmdsa0o4,1_a3yhwzz8,1_vjpny44f/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1684941135&id=3433&ip=206.84.34.7&override_expiration=1500&sign=DKhnoWnn9YaL9IVB1v%2B%2BkSWJC41RB6zuY80%2FDG1iSWs%3D&playSessionId=1e3446a5-861a-5a93-8c07-1044a083360d:cbd85766-af17-7cb8-c5a0-1beeed62501b&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2V1LWFjcmVkaXRv&clientTag=html5:v7.63
 
 #########################################M########################################
 
