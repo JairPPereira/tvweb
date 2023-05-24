@@ -630,24 +630,25 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62797
 #EXTINF:-1 tvg-id="JP News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1e0Re1E3AAV4pyo0gqS4EStCpXjrSj5f4q9R6CDMrHSl4j90deXWXjUXY-5inpD43CsWn_vxBlqJqFJEEK5ejvQwDb-I3S9UitRoyZ69BNfWW7kunC5IGweOnGJaTOUQhAmpCDorgCOMtOB5IACTl8lmhtc4-klhGFpBV6Z0Cv27emojoRicWlxYz/s1600/jovempanews.jpg" group-title="jornalismo", JP NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1 tvg-id="History FHD" tvg-name="History FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="DOCUMENTARIOS",HISTORY FHD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38383
-
-#EXTINF:-1 tvg-id="History 2 FHD" tvg-name="History 2 FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="DOCUMENTARIOS",HISTORY 2 FHD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41485
-
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://bit.ly/Logo-tv" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37128
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://bit.ly/Logo-tv" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36992
-
-#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTARIOS",ID: INVESTIGAÇÃO DISCOVERY
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37114
-#EXTINF:-1 tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigação Discovery HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTARIOS",ID: INVESTIGAÇÃO DISCOVERY HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
 
 
 #################################################################################
+
+#EXTINF:-1 tvg-id="History FHD" tvg-name="History FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",HISTORY FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38383
+
+#EXTINF:-1 tvg-id="History 2 FHD" tvg-name="History 2 FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",HISTORY 2 FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41485
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ANIMAL PLANET
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37128
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ANIMAL PLANET HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36992
+
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ID: INVESTIGAÇÃO DISCOVERY
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37114
+#EXTINF:-1 tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigação Discovery HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ID: INVESTIGAÇÃO DISCOVERY HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
 
 
 #EXTINF:-1 tvg-id="Conectv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/454924e01d06c3bc20131e8514187305.webp" group-title="Documentário",Conectv
@@ -4597,12 +4598,12 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rdwsyg
 #EXTINF:-1 tvg-id="Departamento Q - Guardiões das Causas Perdidas" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wSEFQ6iCj626xjItq4DSPVr5MKC.jpg" group-title="Filmes ondemand",Departamento Q - Guardiões das Causas Perdidas
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wgd83sh6/format/applehttp/protocol/https/flavorIds/1_zmed02re,1_d3dykw0e,1_v3n0xz0c,1_p81o2rwp,1_dr6cqof2,1_nkewyzkx,1_jr4ct3t7/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562784&id=2130&ip=206.84.34.255&override_expiration=1500&sign=%2FQmAgjuiGWe%2Fb9G9Zi2FqaROj1e0SokjTiQpA6DJpOg%3D&playSessionId=641bb8d1-d8e4-6993-b3f8-4710418674ca:6e4c4b30-165d-9f43-d3c4-1f42b0b56efd&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2RlcGFydGFtZW50by1xLWd1YXJkaW9lcy1kYXMtY2F1c2FzLXBlcmRpZGFz&clientTag=html5:v7.60
 
-
+#########################################M########################################
 
 #EXTINF:-1 tvg-id="Malcolm X" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg" group-title="Filmes ondemand",Malcolm X
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_2y3noteo/format/applehttp/protocol/https/flavorIds/1_o8amywgm,1_ft5nvdn3,1_oipmty3r,1_6mumi9qo,1_wnby8msj,1_pljjjk65,1_05638gwy/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680561578&id=5948&ip=206.84.34.255&override_expiration=1500&sign=w17LFzgs%2FSMgdGdyPsy8Y%2F4CZUeAu0KFzBjLiV7TzyQ%3D&playSessionId=2453e452-c718-2285-aad2-90cefac62ced:648d9260-2b73-adb6-1654-839bff1057b0&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL21hbGNvbG0teA==&clientTag=html5:v7.60
 
-
+#####################################O########################################
 
 #EXTINF:-1 tvg-id="O Chamado" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vCZlZ52fQT3bDnK7hqEhdYRKUva.jpg" group-title="Filmes ondemand",O Chamado
 https://play.prod.gcp.vix.services/ringu_pt/ringu_pt_1-1/hls_1500_.m3u8
@@ -4611,18 +4612,21 @@ https://play.prod.gcp.vix.services/ringu_pt/ringu_pt_1-1/hls_1500_.m3u8
 #EXTINF:-1 tvg-id="Os Falsários" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8U1kGOVBcdiBSgNz5a63VfSzgbV.jpg" group-title="Filmes ondemand",Os Falsários
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_xcvt3riz/format/applehttp/protocol/https/flavorIds/1_fn8q65pe,1_vsasyufg,1_2xehdbpc,1_b433tgxg,1_3m80wqhl,1_1h3zds33,1_c16bd212,1_q0vo9srx/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680561804&id=9811&ip=206.84.34.255&override_expiration=1500&sign=j8C4A8b5H01GQmIzaxwBgNJIN%2FS5%2BXBYOStoTNAO0v0%3D&playSessionId=03c490c2-a778-cca0-d31f-c750f3d955f4:624e7952-5993-dbab-7fbd-4daf64915b39&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL29zLWZhbHNhcmlvcw==&clientTag=html5:v7.60
 
+
 #EXTINF:-1 tvg-id="Os Gritos do Silêncio" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8PgmK0doOtBQbDIXpOTjGUvjxU6.jpg" group-title="Filmes ondemand",Os Gritos do Silêncio
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_iavqhnep/format/applehttp/protocol/https/flavorIds/1_6w1d9db7,1_tz94vmmi,1_h0g9ig9h,1_66vun0e7,1_pqqer0tr,1_mdg85k20,1_ilspohqr/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680561484&id=9936&ip=206.84.34.255&override_expiration=1500&sign=AfyolcubWT8W%2BQimFdll5NJv6L8ctBnzdIgCkulbRPw%3D&playSessionId=3748e656-5f82-ca82-3857-2c12e992ed97:65c779c6-1cb0-9ea8-9f96-3df4953b1f90&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL29zLWdyaXRvcy1kby1zaWxlbmNpbw==&clientTag=html5:v7.60
 
+########################S###############################################
 
+#EXTINF:-1 tvg-id="Sem Retorno" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg" group-title="Filmes ondemand",Sem Retorno
+https://play.prod.gcp.vix.services/point-no-return_pt/point-no-return_pt_1-1/play_v1_hls_720p.m3u8
 
+##########################T#######################################################
 
 #EXTINF:-1 tvg-id="Tokyo Ghoul" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/nmTztGsJIToPkdWbvTgQ4EY6SrR.jpg" group-title="Filmes ondemand",Tokyo Ghoul
 https://play.prod.gcp.vix.services/tokyo-ghoul_pt/tokyo-ghoul_pt_1-1/play_v1_hls_432p.m3u8
 
 
-#EXTINF:-1 tvg-id="Sem Retorno" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg" group-title="Filmes ondemand",Sem Retorno
-https://play.prod.gcp.vix.services/point-no-return_pt/point-no-return_pt_1-1/play_v1_hls_720p.m3u8
 
 ########################################################################################
 
