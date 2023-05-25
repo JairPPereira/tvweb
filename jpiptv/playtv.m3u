@@ -25,6 +25,10 @@ http://meuplay.shop:80/150657845528/254658986506/335
 #EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="variedades",TV GRÃO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b8281ee455e4e5680d7c1ba9554ddb1f.webp" group-title="variedades",Tv Guarajá - SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="RECORD BELEM SD" tvg-logo="http://ccdnblck.xyz:80/images/b23c658b46fae6ef8e694cd4983d8e3e.png" group-title="CANAIS | RECORD",RECORD BELEM SD
 http://meuplay.shop:80/150657845528/254658986506/570
 
@@ -93,6 +97,10 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv Paraense (SBT Castanhal)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="variedades",Tv Paraense (SBT Castanhal)
 https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
+
+#EXTINF:-1 tvg-id="TV ONE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="variedades",TV ONE
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Web TV Vale do Uruará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7858a37ec72de29670e36bb32cdd20f6.webp" group-title="variedades",Web TV Vale do Uruará
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
