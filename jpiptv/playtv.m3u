@@ -4700,6 +4700,9 @@ https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="Sem Retorno" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg" group-title="Filmes ondemand",Sem Retorno
 https://play.prod.gcp.vix.services/point-no-return_pt/point-no-return_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Sobibor: A Revolta que Mudou os Rumos da Humanidade" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ggX7hyJr3toYvNzu8FtcYNUQlME.jpg" group-title="Filmes ondemand",Sobibor: A Revolta que Mudou os Rumos da Humanidade
+https://play.prod.gcp.vix.services/sobibor_pt/sobibor_pt_1-1/hls_1500_.m3u8
+
 #EXTINF:-1 tvg-id="Sombras do Terror" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/k3pSd1JzV3oIFkgcnYm68Thw4VH.jpg" group-title="Filmes ondemand",Sombras do Terror
 https://play.prod.gcp.vix.services/shed_pt/shed_pt_1-1/play_v1_hls_432p.m3u8
 
