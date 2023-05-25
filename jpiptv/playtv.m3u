@@ -4672,6 +4672,12 @@ https://play.prod.gcp.vix.services/november-man_pt/november-man_pt_1-1/play_v1_h
 #EXTINF:-1 tvg-id="O Chamado" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vCZlZ52fQT3bDnK7hqEhdYRKUva.jpg" group-title="Filmes ondemand",O Chamado
 https://play.prod.gcp.vix.services/ringu_pt/ringu_pt_1-1/hls_1500_.m3u8
 
+#EXTINF:-1 tvg-id="O Golpista do Ano" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3nWpKhkzWg6TeXLm5J4PQk3aTdo.jpg" group-title="Filmes ondemand",O Golpista do Ano
+https://play.prod.gcp.vix.services/love-phillip-morris_pt/love-phillip-morris_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="O Poder e a Lei" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yvxF4YzpuaKwEBkcaCDTr4rGiov.jpg" group-title="Filmes ondemand",O Poder e a Lei
+https://play.prod.gcp.vix.services/lincoln-lawyer_pt/lincoln-lawyer_pt_1-1/play_v1_hls_720p.m3u8
+
 #EXTINF:-1 tvg-id="O Reino Proibido" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2rEzOeG6he952m7tyFe7tOyfoko.jpg" group-title="Filmes ondemand",O Reino Proibido
 https://play.prod.gcp.vix.services/forbidden-kingdom_pt/forbidden-kingdom_pt_1-1/play_v1_hls_720p.m3u8
 
