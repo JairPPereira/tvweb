@@ -4605,6 +4605,11 @@ https://play.prod.gcp.vix.services/der-untergang_pt/der-untergang_pt_1-1/play_v1
 #EXTINF:-1 tvg-id="Amor por Direito" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7dTx6p5aHYMtpNoEvi6SuT6sidU.jpg" group-title="Filmes ondemand",Amor por Direito
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rdwsygxe/format/applehttp/protocol/https/flavorIds/1_h4ugbzfo,1_3bvifdix,1_j7yb65rh,1_f4q5jrcv,1_ano2uh8h,1_uluwhf1l,1_zimjp66w/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562117&id=4787&ip=206.84.34.255&override_expiration=1500&sign=SOv2mJ8RY0JrLw250XGNO0NptckR4IIRcIRtGg2QE4Y%3D&playSessionId=dfab226d-826c-4132-82fa-a4ea79192d19:0d7ddb32-51f7-1b6b-2dbd-930ab145c1b1&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2Ftb3ItcG9yLWRpcmVpdG8=&clientTag=html5:v7.60
 
+#######################################B#######################################################
+
+#EXTINF:-1 tvg-id="Batalha dos Impérios" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jehJ5TlgBqfP6DkWqOjcCkMYxgd.jpg" group-title="Filmes ondemand",Batalha dos Impérios
+https://play.prod.gcp.vix.services/dragon-blade_pt/dragon-blade_pt_1-1/play_v1_hls_720p.m3u8
+
 #######################################C#######################################################
 
 #EXTINF:-1 tvg-id="Carga Explosiva 3" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hC4lRSuZA29l4NbmQ8sdvkpRkO5.jpg" group-title="Filmes ondemand",Carga Explosiva 3
