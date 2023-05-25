@@ -4594,10 +4594,11 @@ https://video01.kshost.com.br:4443/ezequiel3930/ezequiel3930/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 
 
-########################################################################################
+#####################################A###################################################
 
 
-
+#EXTINF:-1 tvg-id="A Queda! As Últimas Horas de Hitler" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/i8woFd0ljnO2rmg46wdoFPcPmPu.jpg" group-title="Filmes ondemand",A Queda! As Últimas Horas de Hitler
+https://play.prod.gcp.vix.services/der-untergang_pt/der-untergang_pt_1-1/play_v1_hls_720p.m3u8
 
 
 
