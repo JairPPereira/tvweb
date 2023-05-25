@@ -959,6 +959,17 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81006
 
 #################################################################################
 
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png",A&E - FHD
+http://clienteworld.com:80/claud123/claud123/83514
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png",A&E - HD
+http://clienteworld.com:80/claud123/claud123/83512
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png",A&E - HD²
+http://clienteworld.com:80/claud123/claud123/83513
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png",A&E - SD
+http://clienteworld.com:80/claud123/claud123/83510
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png",A&E - SD²
+http://clienteworld.com:80/claud123/claud123/83511
+
 
 
 #EXTINF:-1 tvg-id="Tv Tremembé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc313ddd3bc4d8de0f5939ee8410a56e.webp" group-title="filmesseries",Tv Tremembé
