@@ -4617,6 +4617,8 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_4urvnf
 #EXTINF:-1 tvg-id="Departamento Q - Guardiões das Causas Perdidas" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wSEFQ6iCj626xjItq4DSPVr5MKC.jpg" group-title="Filmes ondemand",Departamento Q - Guardiões das Causas Perdidas
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wgd83sh6/format/applehttp/protocol/https/flavorIds/1_zmed02re,1_d3dykw0e,1_v3n0xz0c,1_p81o2rwp,1_dr6cqof2,1_nkewyzkx,1_jr4ct3t7/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562784&id=2130&ip=206.84.34.255&override_expiration=1500&sign=%2FQmAgjuiGWe%2Fb9G9Zi2FqaROj1e0SokjTiQpA6DJpOg%3D&playSessionId=641bb8d1-d8e4-6993-b3f8-4710418674ca:6e4c4b30-165d-9f43-d3c4-1f42b0b56efd&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2RlcGFydGFtZW50by1xLWd1YXJkaW9lcy1kYXMtY2F1c2FzLXBlcmRpZGFz&clientTag=html5:v7.60
 
+#EXTINF:-1 tvg-id="Detenção" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/98Z8KZ7kVgU47k709OGvrfCRgIo.jpg" group-title="Filmes ondemand",Detenção
+https://play.prod.gcp.vix.services/the-experiment_pt/the-experiment_pt_1-1/play_v1_hls_720p.m3u8
 
 ##############################E################################################
 
