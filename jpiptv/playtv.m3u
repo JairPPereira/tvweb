@@ -970,7 +970,16 @@ http://clienteworld.com:80/claud123/claud123/83510
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png",A&E - SD²
 http://clienteworld.com:80/claud123/claud123/83511
 
-
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png",AMC - FHD
+http://clienteworld.com:80/claud123/claud123/83519
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png",AMC - HD
+http://clienteworld.com:80/claud123/claud123/83517
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png",AMC - HD²
+http://clienteworld.com:80/claud123/claud123/83518
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png",AMC - SD
+http://clienteworld.com:80/claud123/claud123/83515
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png",AMC - SD²
+http://clienteworld.com:80/claud123/claud123/83516
 
 
 #EXTINF:-1 tvg-id="Tv Tremembé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc313ddd3bc4d8de0f5939ee8410a56e.webp" group-title="filmesseries",Tv Tremembé
