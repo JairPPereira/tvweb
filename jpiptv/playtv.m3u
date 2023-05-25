@@ -4636,6 +4636,11 @@ https://play.prod.gcp.vix.services/snowpiercer_pt/snowpiercer_pt_1-1/play_v1_hls
 #EXTINF:-1 tvg-id="Malcolm X" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg" group-title="Filmes ondemand",Malcolm X
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_2y3noteo/format/applehttp/protocol/https/flavorIds/1_o8amywgm,1_ft5nvdn3,1_oipmty3r,1_6mumi9qo,1_wnby8msj,1_pljjjk65,1_05638gwy/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680561578&id=5948&ip=206.84.34.255&override_expiration=1500&sign=w17LFzgs%2FSMgdGdyPsy8Y%2F4CZUeAu0KFzBjLiV7TzyQ%3D&playSessionId=2453e452-c718-2285-aad2-90cefac62ced:648d9260-2b73-adb6-1654-839bff1057b0&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL21hbGNvbG0teA==&clientTag=html5:v7.60
 
+#####################################N########################################
+
+#EXTINF:-1 tvg-id="November Man: Um Espião Nunca Morre" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rM9yMUntZMAeXLDCmPrDGGBYdYR.jpg" group-title="Filmes ondemand",November Man: Um Espião Nunca Morre
+https://play.prod.gcp.vix.services/november-man_pt/november-man_pt_1-1/play_v1_hls_720p.m3u8
+
 #####################################O########################################
 
 #EXTINF:-1 tvg-id="O Chamado" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vCZlZ52fQT3bDnK7hqEhdYRKUva.jpg" group-title="Filmes ondemand",O Chamado
