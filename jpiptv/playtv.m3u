@@ -4767,6 +4767,9 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_4urvnf
 #EXTINF:-1 tvg-id="Colheita Maldita" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/owGZCAje2VKrGGdwxM7peVwhErx.jpg" group-title="Filmes ondemand",Colheita Maldita
 https://play.prod.gcp.vix.services/children-corn_pt/children-corn_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Codinome Cassius 7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5jZ4cf9gGixvNtfgTqi35oGWr34.jpg" group-title="Filmes ondemand",Codinome Cassius 7
+https://play.prod.gcp.vix.services/the-double_pt/the-double_pt_1-1/play_v1_hls_720p.m3u8
+
 #EXTINF:-1 tvg-id="Confiar" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ktBSBdEPvo8NJ5QEdCj8baYKmHf.jpg" group-title="Filmes ondemand",Confiar
 https://play.prod.gcp.vix.services/trust_pt/trust_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -4892,6 +4895,14 @@ https://play.prod.gcp.vix.services/24-hours-live_pt/24-hours-live_pt_1-1/play_v1
 
 #EXTINF:-1 tvg-id="Um Santo Vizinho" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ds4JIoNb76oGiAmMejFo6SUydGW.jpg" group-title="Filmes ondemand",Um Santo Vizinho
 https://play.prod.gcp.vix.services/st-vincent_pt/st-vincent_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Uma Noite de Loucuras" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5GDmJC3RSSWhfhsFZhfBgOgB7vD.jpg" group-title="Filmes ondemand",Uma Noite de Loucuras
+https://play.prod.gcp.vix.services/fun-mom-dinner_pt/fun-mom-dinner_pt_1-1/play_v1_hls_720p.m3u8
+
+##########################Z#######################################################
+
+#EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
+https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8
 
 
 
