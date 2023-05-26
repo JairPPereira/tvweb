@@ -958,7 +958,145 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81006
 
 
 #################################################################################
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS  | FILMES E SERIES",A&E FHD
+http://meuplay.shop:80/ykjplkds/ceswez51/851
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS  | FILMES E SERIES",A&E FHD H265
+http://meuplay.shop:80/ykjplkds/ceswez51/210
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS  | FILMES E SERIES",A&E HD
+http://meuplay.shop:80/ykjplkds/ceswez51/1
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS  | FILMES E SERIES",A&E SD
+http://meuplay.shop:80/ykjplkds/ceswez51/444
 
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS  | FILMES E SERIES",AMC FHD
+http://meuplay.shop:80/ykjplkds/ceswez51/840
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS  | FILMES E SERIES",AMC FHD H265
+http://meuplay.shop:80/ykjplkds/ceswez51/211
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS  | FILMES E SERIES",AMC HD
+http://meuplay.shop:80/ykjplkds/ceswez51/2
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS  | FILMES E SERIES",AMC SD
+http://meuplay.shop:80/ykjplkds/ceswez51/445
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD
+http://meuplay.shop:80/ykjplkds/ceswez51/835
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD H265
+http://meuplay.shop:80/ykjplkds/ceswez51/213
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN HD
+http://meuplay.shop:80/ykjplkds/ceswez51/4
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN SD
+http://meuplay.shop:80/ykjplkds/ceswez51/447
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY FHD
+http://meuplay.shop:80/ykjplkds/ceswez51/219
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY FHD H265
+http://meuplay.shop:80/ykjplkds/ceswez51/844
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY HD
+http://meuplay.shop:80/ykjplkds/ceswez51/7
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY SD
+http://meuplay.shop:80/ykjplkds/ceswez51/457
+
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CANAIS | CINE SKY",CINE SKY 1
+http://meuplay.shop:80/ykjplkds/ceswez51/686
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 2" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CANAIS | CINE SKY",CINE SKY 2
+http://meuplay.shop:80/ykjplkds/ceswez51/687
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CANAIS | CINE SKY",CINE SKY 3
+http://meuplay.shop:80/ykjplkds/ceswez51/688
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 4" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CANAIS | CINE SKY",CINE SKY 4
+http://meuplay.shop:80/ykjplkds/ceswez51/689
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 5" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CANAIS | CINE SKY",CINE SKY 5
+http://meuplay.shop:80/ykjplkds/ceswez51/690
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX FHD
+http://meuplay.shop:80/ykjplkds/ceswez51/841
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX FHD H265
+http://meuplay.shop:80/ykjplkds/ceswez51/221
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX HD
+http://meuplay.shop:80/ykjplkds/ceswez51/9
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX SD
+http://meuplay.shop:80/ykjplkds/ceswez51/460
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL FHD " tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FHD 
+http://meuplay.shop:80/ykjplkds/ceswez51/825
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL H265" tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL H265
+http://meuplay.shop:80/ykjplkds/ceswez51/232
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL HD
+http://meuplay.shop:80/ykjplkds/ceswez51/20
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL SD
+http://meuplay.shop:80/ykjplkds/ceswez51/3906
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD " tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 FHD 
+http://meuplay.shop:80/ykjplkds/ceswez51/793
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 H265" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 H265
+http://meuplay.shop:80/ykjplkds/ceswez51/254
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 HD
+http://meuplay.shop:80/ykjplkds/ceswez51/39
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 SD
+http://meuplay.shop:80/ykjplkds/ceswez51/499
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD " tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY FHD 
+http://meuplay.shop:80/ykjplkds/ceswez51/795
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY HD
+http://meuplay.shop:80/ykjplkds/ceswez51/40
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY SD
+http://meuplay.shop:80/ykjplkds/ceswez51/496
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO FHD
+http://meuplay.shop:80/ykjplkds/ceswez51/792
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO H265" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO H265
+http://meuplay.shop:80/ykjplkds/ceswez51/251
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO HD
+http://meuplay.shop:80/ykjplkds/ceswez51/41
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO SD
+http://meuplay.shop:80/ykjplkds/ceswez51/495
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 02" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 02
+http://meuplay.shop:80/ykjplkds/ceswez51/204
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 03
+http://meuplay.shop:80/ykjplkds/ceswez51/205
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 04
+http://meuplay.shop:80/ykjplkds/ceswez51/206
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 05
+http://meuplay.shop:80/ykjplkds/ceswez51/76696
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 06
+http://meuplay.shop:80/ykjplkds/ceswez51/76697
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 07" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 07
+http://meuplay.shop:80/ykjplkds/ceswez51/76698
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 08" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 08
+http://meuplay.shop:80/ykjplkds/ceswez51/76699
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 09" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 09
+http://meuplay.shop:80/ykjplkds/ceswez51/76700
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD " tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI FHD 
+http://meuplay.shop:80/ykjplkds/ceswez51/797
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI H265" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI H265
+http://meuplay.shop:80/ykjplkds/ceswez51/260
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI HD
+http://meuplay.shop:80/ykjplkds/ceswez51/48
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS FHD
+http://meuplay.shop:80/ykjplkds/ceswez51/794
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS H265" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS H265
+http://meuplay.shop:80/ykjplkds/ceswez51/252
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS HD
+http://meuplay.shop:80/ykjplkds/ceswez51/42
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS SD
+http://meuplay.shop:80/ykjplkds/ceswez51/497
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD " tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP FHD 
+http://meuplay.shop:80/ykjplkds/ceswez51/799
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP H265" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP H265
+http://meuplay.shop:80/ykjplkds/ceswez51/262
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP HD
+http://meuplay.shop:80/ykjplkds/ceswez51/50
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD
+http://meuplay.shop:80/ykjplkds/ceswez51/796
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE H265 " tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE H265 
+http://meuplay.shop:80/ykjplkds/ceswez51/253
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
+http://meuplay.shop:80/ykjplkds/ceswez51/43
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
+http://meuplay.shop:80/ykjplkds/ceswez51/498
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME FHD
+http://meuplay.shop:80/ykjplkds/ceswez51/798
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265 :" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME FHD H265 :
+http://meuplay.shop:80/ykjplkds/ceswez51/261
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME HD
+http://meuplay.shop:80/ykjplkds/ceswez51/49
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME SD
+http://meuplay.shop:80/ykjplkds/ceswez51/76662
 
 #EXTINF:-1 tvg-id="Tv Tremembé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc313ddd3bc4d8de0f5939ee8410a56e.webp" group-title="filmesseries",Tv Tremembé
 https://video05.logicahost.com.br/tvtremembe/tvtremembe/playlist.m3u8
