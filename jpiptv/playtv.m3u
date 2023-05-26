@@ -4659,6 +4659,11 @@ https://play.prod.gcp.vix.services/snowpiercer_pt/snowpiercer_pt_1-1/play_v1_hls
 #EXTINF:-1 tvg-id="Frontera" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rjdJN48tBaLB7HdmyzBnlypXvPj.jpg" group-title="Filmes ondemand",Frontera	
 https://play.prod.gcp.vix.services/frontera_pt/frontera_pt_1-1/play_v1_hls_720p.m3u8
 
+#########################################H########################################
+
+#EXTINF:-1 tvg-id="Hacker: Todo Crime Tem Um Início" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7DIKp3OVI2ZgiTFgxPIUCV6XriW.jpg" group-title="Filmes ondemand",Hacker: Todo Crime Tem Um Início	
+https://play.prod.gcp.vix.services/hacker-2016_pt/hacker-2016_pt_1-1/play_v1_hls_720p.m3u8
+
 #########################################I########################################
 
 #EXTINF:-1 tvg-id="InuYasha 2: O Castelo das Ilusões Dentro do Espelho" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/u8zFbyQnIKRRPxRRweQ6ODtAUhc.jpg" group-title="Filmes ondemand",InuYasha 2: O Castelo das Ilusões Dentro do Espelho
