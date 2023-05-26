@@ -4748,6 +4748,9 @@ https://play.prod.gcp.vix.services/kite-2014_pt/kite-2014_pt_1-1/play_v1_hls_720
 #EXTINF:-1 tvg-id="Assassino à Preço Fixo" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/AbO2OzFiWt9cEjgZfSOnp75ihGE.jpg" group-title="Filmes ondemand",Assassino à Preço Fixo
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ecu4brjs/format/applehttp/protocol/https/flavorIds/1_p1uxdqeo,1_xq5kgt4i,1_gv16qil4,1_byszakit,1_92bwkr61,1_gybeaylu,1_ewwo60sk/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685045728&id=1407&ip=206.84.34.110&override_expiration=1500&sign=JNAq8%2B6iJjNr63J2ox2ekSArk0Gvr%2FexVGHemJIV8e0%3D&playSessionId=ccbdf4db-c7b1-74d2-6af7-065196b8010c:19fe72b0-c673-8432-3c0f-b02861ccc848&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2Fzc2Fzc2luby1wcmVjby1maXhv&clientTag=html5:v7.63
 
+#EXTINF:-1 tvg-id="Autodestruição" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2A3FETGysWKyYREI3YGzfpNKr8K.jpg" group-title="Filmes ondemand",Autodestruição	
+https://play.prod.gcp.vix.services/redivider_pt/redivider_pt_1-1/play_v1_hls_720p.m3u8
+
 #######################################B#######################################################
 
 #EXTINF:-1 tvg-id="Batalha dos Impérios" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jehJ5TlgBqfP6DkWqOjcCkMYxgd.jpg" group-title="Filmes ondemand",Batalha dos Impérios
@@ -4817,6 +4820,9 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_h0fbsq
 
 #EXTINF:-1 tvg-id="Malcolm X" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg" group-title="Filmes ondemand",Malcolm X
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_2y3noteo/format/applehttp/protocol/https/flavorIds/1_o8amywgm,1_ft5nvdn3,1_oipmty3r,1_6mumi9qo,1_wnby8msj,1_pljjjk65,1_05638gwy/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680561578&id=5948&ip=206.84.34.255&override_expiration=1500&sign=w17LFzgs%2FSMgdGdyPsy8Y%2F4CZUeAu0KFzBjLiV7TzyQ%3D&playSessionId=2453e452-c718-2285-aad2-90cefac62ced:648d9260-2b73-adb6-1654-839bff1057b0&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL21hbGNvbG0teA==&clientTag=html5:v7.60
+
+#EXTINF:-1 tvg-id="Mortadelo e Salaminho: Missão Inacreditável" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rM9yMUntZMAeXLDCmPrDGGBYdYR.jpg" group-title="Filmes ondemand",Mortadelo e Salaminho: Missão Inacreditável
+https://play.prod.gcp.vix.services/mortadelo_pt/mortadelo_pt_1-1/hls_1000_.m3u8
 
 #####################################N########################################
 
