@@ -4856,6 +4856,9 @@ https://play.prod.gcp.vix.services/zack-miri_pt/zack-miri_pt_1-1/play_v1_hls_720
 #EXTINF:-1 tvg-id="Perigo na Montanha" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q8CJj6zMwi53yxojscnVmhMKYKb.jpg" group-title="Filmes ondemand",Perigo na Montanha
 https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Promessas de Guerra" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/auwdpPHhajvXn26BLFmJ4HlxdM0.jpg" group-title="Filmes ondemand",Promessas de Guerra
+https://play.prod.gcp.vix.services/water-diviner_pt/water-diviner_pt_1-1/play_v1_hls_720p.m3u8
+
 
 ########################S###############################################
 
@@ -4867,6 +4870,9 @@ https://play.prod.gcp.vix.services/sobibor_pt/sobibor_pt_1-1/hls_1500_.m3u8
 
 #EXTINF:-1 tvg-id="Sombras do Terror" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/k3pSd1JzV3oIFkgcnYm68Thw4VH.jpg" group-title="Filmes ondemand",Sombras do Terror
 https://play.prod.gcp.vix.services/shed_pt/shed_pt_1-1/play_v1_hls_432p.m3u8
+
+#EXTINF:-1 tvg-id="Spooks: O Mestre Espião" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hIQkfhA4dhvN7UkLASHACi0WzY8.jpg" group-title="Filmes ondemand",Spooks: O Mestre Espião
+https://play.prod.gcp.vix.services/spooks-good_pt/spooks-good_pt_1-1/play_v1_hls_720p.m3u8
 
 ##########################T#######################################################
 
