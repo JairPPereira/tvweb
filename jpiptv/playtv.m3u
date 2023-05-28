@@ -4822,6 +4822,11 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_dnbunv
 #EXTINF:-1 tvg-id="InuYasha 3: A Espada Dominadora do Mundo" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kDN5vNEuNNvkNo4tSygGfGYHfDi.jpg" group-title="Filmes ondemand",InuYasha 3: A Espada Dominadora do Mundo
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_h0fbsq30/format/applehttp/protocol/https/flavorIds/1_c5l6u7vp,1_0p6bu34n,1_y534p6in,1_mqajkiyp,1_y1q9d44m,1_y6p246ue,1_9dswq2rs/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685028467&id=5511&ip=206.84.34.30&override_expiration=1500&sign=3QWYTI4dyks6sZzfMYz3kAakXyjUskJ7x538ORMRnic%3D&playSessionId=1c313603-4dde-34c6-c671-1c05a4feee05:296fd75e-a99a-3bcd-ab21-7ec142bfeeca&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2ludXlhc2hhLTMtZXNwYWRhLWRvbWluYWRvcmEtZG8tbXVuZG8=&clientTag=html5:v7.63
 
+#########################################J########################################
+
+#EXTINF:-1 tvg-id="João, Maria e a Bruxa da Floresta Negra" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7DIKp3OVI2ZgiTFgxPIUCV6XriW.jpg" group-title="Filmes ondemand",João, Maria e a Bruxa da Floresta Negra	
+https://play.prod.gcp.vix.services/hansel-gretel-baked_pt/hansel-gretel-baked_pt_1-1/play_v1_hls_720p.m3u8
+
 #########################################M########################################
 
 #EXTINF:-1 tvg-id="Malcolm X" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg" group-title="Filmes ondemand",Malcolm X
@@ -4879,6 +4884,9 @@ https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-id="Promessas de Guerra" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/auwdpPHhajvXn26BLFmJ4HlxdM0.jpg" group-title="Filmes ondemand",Promessas de Guerra
 https://play.prod.gcp.vix.services/water-diviner_pt/water-diviner_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Pronta para Amar" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rlmy1FgwRJRJzUmSh3FZXM4Bwb5.jpg" group-title="Filmes ondemand",Pronta para Amar
+https://play.prod.gcp.vix.services/little-bit-heaven_pt/little-bit-heaven_pt_1-1/play_v1_hls_720p.m3u8
 
 
 ########################S###############################################
