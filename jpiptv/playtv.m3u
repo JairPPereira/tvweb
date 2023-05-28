@@ -4815,6 +4815,9 @@ https://play.prod.gcp.vix.services/redivider_pt/redivider_pt_1-1/play_v1_hls_720
 #EXTINF:-1 tvg-id="Batalha dos Impérios" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jehJ5TlgBqfP6DkWqOjcCkMYxgd.jpg" group-title="Filmes ondemand",Batalha dos Impérios
 https://play.prod.gcp.vix.services/dragon-blade_pt/dragon-blade_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Bodyguard – Resgate de Risco" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ePY8FEgfQD02vnjtf0Fex5qqAdk.jpg" group-title="Filmes ondemand",Bodyguard – Resgate de Risco
+https://play.prod.gcp.vix.services/iron-protector_pt/iron-protector_pt_1-1/play_v1_hls_720p.m3u8
+
 #######################################C#######################################################
 
 #EXTINF:-1 tvg-id="Caçadores de Emoção" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rf6yJ3Z4hXaDJvs8NX0BTHN5fp8.jpg" group-title="Filmes ondemand",Caçadores de Emoção
@@ -4872,6 +4875,9 @@ https://play.prod.gcp.vix.services/frontera_pt/frontera_pt_1-1/play_v1_hls_720p.
 
 #EXTINF:-1 tvg-id="Hacker: Todo Crime Tem Um Início" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7DIKp3OVI2ZgiTFgxPIUCV6XriW.jpg" group-title="Filmes ondemand",Hacker: Todo Crime Tem Um Início	
 https://play.prod.gcp.vix.services/hacker-2016_pt/hacker-2016_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Homens em Fúria" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/acMqkhBQ9IHBN88Qd6iE92D0ke5.jpg" group-title="Filmes ondemand",Homens em Fúria	
+https://play.prod.gcp.vix.services/stone_pt/stone_pt_1-1/play_v1_hls_720p.m3u8
 
 #########################################I########################################
 
@@ -4977,6 +4983,12 @@ https://play.prod.gcp.vix.services/triple-threat_pt/triple-threat_pt_1-1/play_v1
 
 #EXTINF:-1 tvg-id="Um Dia para Viver" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yyr8u7wQU2k7HpJvBeGmZsJkZTR.jpg" group-title="Filmes ondemand",Um Dia para Viver
 https://play.prod.gcp.vix.services/24-hours-live_pt/24-hours-live_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Um Homem Comum" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/m1JxuEwEufGqNAPJj7Tbk2pYGqh.jpg" group-title="Filmes ondemand",Um Homem Comum
+https://play.prod.gcp.vix.services/ordinary-man_pt/ordinary-man_pt_1-1/hls_1500_.m3u8
+
+#EXTINF:-1 tvg-id="Um Romance na Alta Moda" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/d8sD9wg5MFoZJKpuvNwwkQpguvz.jpg" group-title="Filmes ondemand",Um Romance na Alta Moda
+https://play.prod.gcp.vix.services/after-ball_pt/after-ball_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-id="Um Santo Vizinho" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ds4JIoNb76oGiAmMejFo6SUydGW.jpg" group-title="Filmes ondemand",Um Santo Vizinho
 https://play.prod.gcp.vix.services/st-vincent_pt/st-vincent_pt_1-1/play_v1_hls_720p.m3u8
