@@ -4824,7 +4824,8 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-id="A Queda! As Últimas Horas de Hitler" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/i8woFd0ljnO2rmg46wdoFPcPmPu.jpg" group-title="Filmes ondemand",A Queda! As Últimas Horas de Hitler
 https://play.prod.gcp.vix.services/der-untergang_pt/der-untergang_pt_1-1/play_v1_hls_720p.m3u8
 
-
+#EXTINF:-1 tvg-id="A Ocasião Faz O Ladrão" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/24AOV0MR6NDhUJX7c19Ks5DjvVv.jpg" group-title="Filmes ondemand",A Ocasião Faz O Ladrão	
+https://play.prod.gcp.vix.services/henrys-crime_pt/henrys-crime_pt_1-1/play_v1_hls_540p.m3u8
 
 #EXTINF:-1 tvg-id="Amor por Direito" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7dTx6p5aHYMtpNoEvi6SuT6sidU.jpg" group-title="Filmes ondemand",Amor por Direito
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rdwsygxe/format/applehttp/protocol/https/flavorIds/1_h4ugbzfo,1_3bvifdix,1_j7yb65rh,1_f4q5jrcv,1_ano2uh8h,1_uluwhf1l,1_zimjp66w/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562117&id=4787&ip=206.84.34.255&override_expiration=1500&sign=SOv2mJ8RY0JrLw250XGNO0NptckR4IIRcIRtGg2QE4Y%3D&playSessionId=dfab226d-826c-4132-82fa-a4ea79192d19:0d7ddb32-51f7-1b6b-2dbd-930ab145c1b1&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2Ftb3ItcG9yLWRpcmVpdG8=&clientTag=html5:v7.60
@@ -4896,6 +4897,9 @@ https://play.prod.gcp.vix.services/snowpiercer_pt/snowpiercer_pt_1-1/play_v1_hls
 
 #########################################F########################################
 
+#EXTINF:-1 tvg-id="Fim da Linha" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5PJKK0NP3cyoZMmcB8tLeGBgZPU.jpg" group-title="Filmes ondemand",Fim da Linha	
+https://play.prod.gcp.vix.services/end-gun_pt/end-gun_pt_1-1/play_v1_hls_720p.m3u8
+
 #EXTINF:-1 tvg-id="Frontera" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rjdJN48tBaLB7HdmyzBnlypXvPj.jpg" group-title="Filmes ondemand",Frontera	
 https://play.prod.gcp.vix.services/frontera_pt/frontera_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -4919,6 +4923,9 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_h0fbsq
 
 #EXTINF:-1 tvg-id="João, Maria e a Bruxa da Floresta Negra" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7DIKp3OVI2ZgiTFgxPIUCV6XriW.jpg" group-title="Filmes ondemand",João, Maria e a Bruxa da Floresta Negra	
 https://play.prod.gcp.vix.services/hansel-gretel-baked_pt/hansel-gretel-baked_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Jogo Sujo" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3DJ8KOT2t8y8FiLn3hrMyPT9MyS.jpg" group-title="Filmes ondemand",Jogo Sujo	
+https://play.prod.gcp.vix.services/swelter_pt/swelter_pt_1-1/play_v1_hls_720p.m3u8
 
 #########################################M########################################
 
@@ -4956,6 +4963,9 @@ https://play.prod.gcp.vix.services/forbidden-kingdom_pt/forbidden-kingdom_pt_1-1
 #EXTINF:-1 tvg-id="Os Crimes de Limehouse" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/53HgFUeoDoe99kQ1LwF9fytUZAl.jpg" group-title="Filmes ondemand",Os Crimes de Limehouse	
 https://play.prod.gcp.vix.services/limehouse-golem_pt/limehouse-golem_pt_1-1/play_v1_hls_432p.m3u8
 
+#EXTINF:-1 tvg-id="O Duelo Final" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/otD1urhitVQlTs0j6UJqiJZnp2I.jpg" group-title="Filmes ondemand",O Duelo Final	
+https://play.prod.gcp.vix.services/female-club_pt/female-club_pt_1-1/play_v1_hls_720p.m3u8
+
 #EXTINF:-1 tvg-id="Os Especialistas" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/60q5ai3Zjc9ujFcCMOvgmp4EWhC.jpg" group-title="Filmes ondemand",Os Especialistas
 https://play.prod.gcp.vix.services/killer-elite_pt/killer-elite_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -4988,6 +4998,19 @@ https://play.prod.gcp.vix.services/radio-rebel_pt/radio-rebel_pt_1-1/hls_1500_.m
 
 #EXTINF:-1 tvg-id="Regressão" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/l4nRnHbJGWnlKWihm3lkMxnxXVi.jpg" group-title="Filmes ondemand",Regressão
 https://play.prod.gcp.vix.services/mindscape_pt/mindscape_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Ring 0: O Chamado" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/x0ZrQmfBHgF0VA8en7K6tpnDGIT.jpg" group-title="Filmes ondemand",Ring 0: O Chamado
+https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_1500_.m3u8
+
+#EXTINF:-1 tvg-id="O Chamado" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vCZlZ52fQT3bDnK7hqEhdYRKUva.jpg" group-title="Filmes ondemand",O Chamado
+https://play.prod.gcp.vix.services/ringu_pt/ringu_pt_1-1/hls_1500_.m3u8
+
+#EXTINF:-1 tvg-id="O Chamado 2" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vkFrwSdAq2sAW6bkj71yR6aSgfk.jpg" group-title="Filmes ondemand",O Chamado 2	
+https://play.prod.gcp.vix.services/ringu-2_pt/ringu-2_pt_1-1/hls_1500_.m3u8
+
+#EXTINF:-1 tvg-id="Ring: Espiral" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/za2XIkQ249e1qQ0hhHhV8pAcGGZ.jpg" group-title="Filmes ondemand",Ring: Espiral	
+https://play.prod.gcp.vix.services/ringu-rasen_pt/ringu-rasen_pt_1-1/hls_1500_.m3u8
+
 
 
 ########################S###############################################
@@ -5022,6 +5045,10 @@ https://play.prod.gcp.vix.services/24-hours-live_pt/24-hours-live_pt_1-1/play_v1
 
 #EXTINF:-1 tvg-id="Um Homem Comum" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/m1JxuEwEufGqNAPJj7Tbk2pYGqh.jpg" group-title="Filmes ondemand",Um Homem Comum
 https://play.prod.gcp.vix.services/ordinary-man_pt/ordinary-man_pt_1-1/hls_1500_.m3u8
+
+#EXTINF:-1 tvg-id="Um Negócio de Risco" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ecVV9EpKOms51Ldg3CSrvYEbqgM.jpg" group-title="Filmes ondemand",Um Negócio de Risco	
+https://play.prod.gcp.vix.services/criminal-activities_pt/criminal-activities_pt_1-1/play_v1_hls_720p.m3u8
+
 
 #EXTINF:-1 tvg-id="Um Romance na Alta Moda" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/d8sD9wg5MFoZJKpuvNwwkQpguvz.jpg" group-title="Filmes ondemand",Um Romance na Alta Moda
 https://play.prod.gcp.vix.services/after-ball_pt/after-ball_pt_1-1/play_v1_hls_720p.m3u8
