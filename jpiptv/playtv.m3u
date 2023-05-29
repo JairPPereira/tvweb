@@ -4953,6 +4953,14 @@ https://play.prod.gcp.vix.services/water-diviner_pt/water-diviner_pt_1-1/play_v1
 #EXTINF:-1 tvg-id="Pronta para Amar" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rlmy1FgwRJRJzUmSh3FZXM4Bwb5.jpg" group-title="Filmes ondemand",Pronta para Amar
 https://play.prod.gcp.vix.services/little-bit-heaven_pt/little-bit-heaven_pt_1-1/play_v1_hls_720p.m3u8
 
+########################R###############################################
+
+#EXTINF:-1 tvg-id="Rebelde da Rádio" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bfpbrUhOJ5tER1j4oolnvqd4nOC.jpg" group-title="Filmes ondemand",Rebelde da Rádio
+https://play.prod.gcp.vix.services/radio-rebel_pt/radio-rebel_pt_1-1/hls_1500_.m3u8
+
+#EXTINF:-1 tvg-id="Regressão" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/l4nRnHbJGWnlKWihm3lkMxnxXVi.jpg" group-title="Filmes ondemand",Regressão
+https://play.prod.gcp.vix.services/mindscape_pt/mindscape_pt_1-1/play_v1_hls_720p.m3u8
+
 
 ########################S###############################################
 
