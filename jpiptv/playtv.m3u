@@ -700,6 +700,73 @@ https://cdn.jmvstream.com/w/AVJ-12960/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Adorando Jesus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd959e5a2f2797240d8a08171c7db83f.webp" group-title="Evangélica",Tv Adorando Jesus
 https://stmv.srvvox.com.br/anderson/anderson/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal Promessas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/73adcb8c9dae482a56ef4ef19f227782.webp" group-title="Evangélica",Canal Promessas
+https://video01.kshost.com.br/gente8322/gente8322/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Reconcavo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/664f364834e2636d9a71b769ce963635.webp" group-title="Evangélica",Tv Reconcavo
+https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IURDTV Europa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/913eea75be383d5dd505f5d8e848812d.webp" group-title="Evangélica",IURDTV Europa
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5e0dca9c62c344c49c98d1bd67409be5/chunklist_b4628000.m3u8?p=79&s=1649790438&e=1649790558&h=1f557f1aea4a88497cc58ba6ad98eecf
+
+#EXTINF:-1 tvg-id="Vivam Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a40b87342e5dcbbcefdabd74fd5ffefd.webp" group-title="Evangélica",Vivam Web
+https://stmv1.liveplushd.com.br/tvvivam/tvvivam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filadélfia Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9a759fb0be81e81d8f5d95301786185b.webp" group-title="Evangélica",Filadélfia Web Tv
+https://stmv2.samcast.com.br/marcostimotheo5865/marcostimotheo5865/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Ouro Negro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cc56623a8cbf2f45d462cf93fc540de7.webp" group-title="Evangélica",TV Ouro Negro
+https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Adorador Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c50659beeacb05f3655fabb042cd8331.webp" group-title="Evangélica",Tv Adorador Gospel
+https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Viana" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5e892818dc790bc35c4db82d0d95fb44.webp" group-title="Evangélica",Tv Viana
+https://stmv1.duvoxtv.com.br/tvviana/tvviana/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TOP MIX TV 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e5dd8729025d5eb431c8a3128716032.webp" group-title="Evangélica",TOP MIX TV 2
+https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Mundial Interteve" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bf89173b6d922638e9372e52332a96a4.webp" group-title="Evangélica",Rede Mundial Interteve
+https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Sandegi" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f233f429a774e61615390ef6c019f381.webp" group-title="Evangélica",Tv Sandegi
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ies TV - Igreja do Espírito Santo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/52fcdda5cbfc92b83c0ee7f1a142519b.webp" group-title="Evangélica",ies TV - Igreja do Espírito Santo
+https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CHD TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/739cbdd4c8e777319df792ea2727e4b1.webp" group-title="Evangélica",CHD TV
+https://stmv1.liveplushd.com.br/chdtv/chdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Germana" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/104124481f02f8448eee689ec3064636.webp" group-title="Evangélica",Tv Germana
+https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Semear Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/53d91293b5c5cef84ac28e3894b4a20e.webp" group-title="Evangélica",Semear Tv
+https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Igreja Evangélica Cristo Vive" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3332f4a3f31efb3b808957eac3458616.webp" group-title="Evangélica",Igreja Evangélica Cristo Vive
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Web Tv e Radio Fonte Viva Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7ac0873857d11ceb5656de1917c56eef.webp" group-title="Evangélica",Web Tv e Radio Fonte Viva Gospel
+https://stmv1.liveplushd.com.br/webtvfontevivagospel/webtvfontevivagospel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Alfa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3688abb4736fde8b0ab1e39f2b540899.webp" group-title="Evangélica",Rede Alfa
+https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Rosa De Saron Alagoinhas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8358cee53f07e3d731a73f18e8d3479d.webp" group-title="Evangélica",Tv Rosa De Saron Alagoinhas
+https://stmv3.voxtvhd.com.br/rosadesaron/rosadesaron/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Oásis Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/68c29e6d2d487cc1091d5bf6bd002d47.webp" group-title="Evangélica",Oásis Tv
+https://stmv5.samcast.com.br/oasistv/oasistv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Unimídia Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4f3fcec508d01eb722e6a3c3ff7db62a.webp" group-title="Evangélica",Unimídia Tv
+https://tv02.zas.media:1936/unimidia/unimidia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Gospel Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b784f1b70ce44864b41c87edda64422e.webp" group-title="Evangélica",Rede Gospel Brasil
+https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/playlist.m3u8
+
+
 
 
 
