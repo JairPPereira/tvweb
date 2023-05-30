@@ -649,6 +649,44 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Confiego" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc4f4fddc2330b377037d229aee44942.webp" group-title="Evangélica",Tv Confiego
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV Rede Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bf64a6c1f59709514cf0d763b6c0faa6.webp" group-title="Evangélica",TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="Evangélica",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gospel Movie TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="Evangélica",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="Rede Plenitude TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b1ea269f673bbd4459aa53f2b78ff14.webp" group-title="Evangélica",Rede Plenitude TV
+https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Gideões" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="Evangélica",TV Gideões
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kuriakos Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d5e881c97b312df382164b7b7e5f5509.webp" group-title="Evangélica",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TOP MIX TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ab499d9cc282fd063424971ef738fec.webp" group-title="Evangélica",TOP MIX TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gospel Music Television" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="Evangélica",Gospel Music Television
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fonte TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c99ffdca1366ea084333c569452200e.webp" group-title="Evangélica",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Boas Novas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ef1e165d6e3dc7cb5fe6fdc193b9ef04.webp" group-title="Evangélica",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Tv Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/010ea72aa1b8cc6bab3db313a2cafd37.webp" group-title="Evangélica",Rede Tv Família
+https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Feliz" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f333f62031ea09120c0612d302fe366c.webp" group-title="Evangélica",TV Feliz
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
+
+
+
 
 
 ##################################################################################
