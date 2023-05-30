@@ -685,6 +685,20 @@ https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Feliz" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f333f62031ea09120c0612d302fe366c.webp" group-title="Evangélica",TV Feliz
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
 
+#EXTINF:-1 tvg-id="Top Mix Tv Filmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp" group-title="Evangélica",Top Mix Tv Filmes
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Capital" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/71b0f9abc764972773cad092b8610c03.webp" group-title="Evangélica",TV Capital
+https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd7faf92fdaec94b7a0b2ca5f5f362b1.webp" group-title="Evangélica",TVCI
+https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Boas Novas Amazonas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/92f9cecac97536a8beb3d67a9d4d6bce.webp" group-title="Evangélica",TV Boas Novas Amazonas
+https://cdn.jmvstream.com/w/AVJ-12960/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Adorando Jesus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd959e5a2f2797240d8a08171c7db83f.webp" group-title="Evangélica",Tv Adorando Jesus
+https://stmv.srvvox.com.br/anderson/anderson/playlist.m3u8
 
 
 
