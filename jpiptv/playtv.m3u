@@ -633,6 +633,37 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Entorno Sul Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1120b1db0ea19e4065aaa9e5f488806a.webp" group-title="variedades",Entorno Sul Web
 https://video01.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tv Ondas de Maricá" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/646ac1bfd9a36ad2ee6fc71422975a10.webp" group-title="variedades",Tv Ondas de Maricá
+https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Santa Maria" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/854d2a3fcc32d69d437234e7321a697c.webp" group-title="variedades",TV Santa Maria
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Zoom" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b9e29405fcb5d0ea24baa173a953c256.webp" group-title="variedades",Tv Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nova Barreiros Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3be956355b45f5d0014c4d148d497a62.webp" group-title="variedades",Nova Barreiros Web Tv
+https://srv5.zcast.com.br/rbr/rbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/db3223cdf5f09d829140e2103a7eec58.webp" group-title="variedades",Rede Web Tv
+https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Liberdade Bagé Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/20b5249e3dfb40f38d0be23cf26c9fec.webp" group-title="variedades",Tv Liberdade Bagé Web
+https://video01.kshost.com.br:4443/eberson8801/eberson8801/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Caraguá TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a866d989c5bdf80ebf3d8cc759d8e13b.webp" group-title="variedades",Caraguá TV
+https://cdn.jmvstream.com/w/AVJ-13048/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV CN AGITOS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/48aff45b0e145a414185f8e79bd8fc49.webp" group-title="variedades",TV CN AGITOS
+https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0b47febb643cdcd9820685d7c7a401bc.webp" group-title="variedades",TVGE
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Brasil Hits" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4acc74c31e9cddc8c8416abdc96ebd3e.webp" group-title="variedades",Tv Brasil Hits
+https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
+
+
 
 
 ####################################evangelica##############################################
@@ -780,6 +811,7 @@ https://stmv1.srvif.com/igreja/igreja/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv Vidas Transformadas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe0fd5b8035a708f832ee7afae737242.webp" group-title="Evangélica",Tv Vidas Transformadas
 https://stmv1.srvstm.com/edvaldo7467/edvaldo7467/playlist.m3u8
+
 
 
 
@@ -4970,6 +5002,9 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #####################################A###################################################
 
 
+#EXTINF:-1 tvg-id="A Grande Ilusão" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ewaWqLScNiwOqThJZCmizATAJhd.jpg" group-title="Filmes ondemand",A Grande Ilusão
+https://play.prod.gcp.vix.services/truth-emanuel_pt/truth-emanuel_pt_1-1/play_v1_hls_720p.m3u8
+
 #EXTINF:-1 tvg-id="A Queda! As Últimas Horas de Hitler" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/i8woFd0ljnO2rmg46wdoFPcPmPu.jpg" group-title="Filmes ondemand",A Queda! As Últimas Horas de Hitler
 https://play.prod.gcp.vix.services/der-untergang_pt/der-untergang_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -5004,8 +5039,12 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_lx4qm8
 #EXTINF:-1 tvg-id="Caçadores De Homens" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rSJEy2hLkxNk9Q71en8Pm8SX676.jpg" group-title="Filmes ondemand",Caçadores De Homens
 https://play.prod.gcp.vix.services/manhunt_pt/manhunt_pt_1-1/play_v1_hls_720p.m3u8
 
+
 #EXTINF:-1 tvg-id="Carga Explosiva 3" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hC4lRSuZA29l4NbmQ8sdvkpRkO5.jpg" group-title="Filmes ondemand",Carga Explosiva 3
 https://play.prod.gcp.vix.services/the-transporter-3_pt/the-transporter-3_pt_1-1/play_v3_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Casamento de Verdade" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4NTZrXHitxr7hCnqXH1nkxRRWFa.jpg" group-title="Filmes ondemand",Casamento de Verdade
+https://play.prod.gcp.vix.services/jennys-wedding_pt/jennys-wedding_pt_1-1/play_v1_hls_540p.m3u8
 
 #EXTINF:-1 tvg-id="Código de Conduta" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dpd9aUIUT0tUDIard91nTWLLETV.jpg" group-title="Filmes ondemand",Código de Conduta
 https://play.prod.gcp.vix.services/law-abiding_pt/law-abiding_pt_1-1/play_v1_hls_720p.m3u8
@@ -5204,6 +5243,9 @@ https://play.prod.gcp.vix.services/after-ball_pt/after-ball_pt_1-1/play_v1_hls_7
 
 #EXTINF:-1 tvg-id="Um Santo Vizinho" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ds4JIoNb76oGiAmMejFo6SUydGW.jpg" group-title="Filmes ondemand",Um Santo Vizinho
 https://play.prod.gcp.vix.services/st-vincent_pt/st-vincent_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Uma Cidade Sem Lei" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6VG9XFig4djqZEEot3PGGWeIpkf.jpg" group-title="Filmes ondemand",Uma Cidade Sem Lei
+https://play.prod.gcp.vix.services/bunraku_pt/bunraku_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-id="Uma Noite de Loucuras" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5GDmJC3RSSWhfhsFZhfBgOgB7vD.jpg" group-title="Filmes ondemand",Uma Noite de Loucuras
 https://play.prod.gcp.vix.services/fun-mom-dinner_pt/fun-mom-dinner_pt_1-1/play_v1_hls_720p.m3u8
