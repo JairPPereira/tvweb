@@ -5203,6 +5203,12 @@ https://play.prod.gcp.vix.services/ringu-rasen_pt/ringu-rasen_pt_1-1/hls_1500_.m
 
 ########################S###############################################
 
+#EXTINF:-1 tvg-id="Santos ou Soldados" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8M8AQnUMP5pri5B7X6ZMq4C74zw.jpg" group-title="Filmes ondemand",Santos ou Soldados	
+https://play.prod.gcp.vix.services/saints-soldiers_pt/saints-soldiers_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Santos e Soldados: Missão Berlim" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qYHKMD7Q1lUtJc1QO6x8uByqVLX.jpg" group-title="Filmes ondemand",Santos e Soldados: Missão Berlim
+https://play.prod.gcp.vix.services/saints-soldiers-creed_pt/saints-soldiers-creed_pt_1-1/play_v1_hls_720p.m3u8
+
 #EXTINF:-1 tvg-id="Sem Retorno" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg" group-title="Filmes ondemand",Sem Retorno
 https://play.prod.gcp.vix.services/point-no-return_pt/point-no-return_pt_1-1/play_v1_hls_720p.m3u8
 
