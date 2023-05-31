@@ -5215,6 +5215,9 @@ https://play.prod.gcp.vix.services/saints-soldiers-creed_pt/saints-soldiers-cree
 #EXTINF:-1 tvg-id="Sem Retorno" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg" group-title="Filmes ondemand",Sem Retorno
 https://play.prod.gcp.vix.services/point-no-return_pt/point-no-return_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Sentença de Morte" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nyr39KdZaaG7OC57o4kZ5nb4xNv.jpg" group-title="Filmes ondemand",Sentença de Morte
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_411d14tv/format/applehttp/protocol/https/flavorIds/1_24efp9kf,1_vfj0f0gk,1_g9xg0zzc,1_880d48d6,1_ecrlcyuy,1_bmhlfb49,1_xdirgn61,1_mp955mgg/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685575431&id=11040&ip=206.84.34.102&override_expiration=1500&sign=tKRNiWL433TkCFVx9THs3QpaLcneR9l2PnxXVwlQgTE%3D&playSessionId=a817b4c4-3b61-2fb7-4e26-e31803994e6d:4fed7971-3490-4bd0-e981-24eeaf218ca4&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3NlbnRlbmNhLWRlLW1vcnRl&clientTag=html5:v7.63
+
 #EXTINF:-1 tvg-id="Sobibor: A Revolta que Mudou os Rumos da Humanidade" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ggX7hyJr3toYvNzu8FtcYNUQlME.jpg" group-title="Filmes ondemand",Sobibor: A Revolta que Mudou os Rumos da Humanidade
 https://play.prod.gcp.vix.services/sobibor_pt/sobibor_pt_1-1/hls_1500_.m3u8
 
