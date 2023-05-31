@@ -5209,6 +5209,9 @@ https://play.prod.gcp.vix.services/ringu-rasen_pt/ringu-rasen_pt_1-1/hls_1500_.m
 #EXTINF:-1 tvg-id="Santos ou Soldados" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8M8AQnUMP5pri5B7X6ZMq4C74zw.jpg" group-title="Filmes ondemand",Santos ou Soldados	
 https://play.prod.gcp.vix.services/saints-soldiers_pt/saints-soldiers_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Showgirls" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/itKbsuAbqnXfh5ZrN9wRbNhJEtc.jpg" group-title="Filmes ondemand",Showgirls
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wcunpxs8/format/applehttp/protocol/https/flavorIds/1_ne73k094,1_jelipahl,1_8wfqzifc,1_3c38fnjl,1_cd81vb3b,1_5f80xfy3,1_r8oyvxg8,1_3e4vkf78/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685575735&id=10646&ip=206.84.34.102&override_expiration=1500&sign=Xtj8%2FQ6lOSrpzWTasldi28yrciXdHQdPE5LnCuPxRY0%3D&playSessionId=dafa58e4-4124-c4a5-cb24-b78f3f9e0a07:5024f25b-4ab1-abb2-466e-232fccd0a954&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3Nob3dnaXJscw==&clientTag=html5:v7.63
+
 #EXTINF:-1 tvg-id="Santos e Soldados: Missão Berlim" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qYHKMD7Q1lUtJc1QO6x8uByqVLX.jpg" group-title="Filmes ondemand",Santos e Soldados: Missão Berlim
 https://play.prod.gcp.vix.services/saints-soldiers-creed_pt/saints-soldiers-creed_pt_1-1/play_v1_hls_720p.m3u8
 
