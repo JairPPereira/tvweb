@@ -5163,6 +5163,9 @@ https://play.prod.gcp.vix.services/lincoln-lawyer_pt/lincoln-lawyer_pt_1-1/play_
 #EXTINF:-1 tvg-id="O Reino Proibido" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2rEzOeG6he952m7tyFe7tOyfoko.jpg" group-title="Filmes ondemand",O Reino Proibido
 https://play.prod.gcp.vix.services/forbidden-kingdom_pt/forbidden-kingdom_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Operação Zodíaco" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dgG3sfVaLBDEddWjrdeOqj5jHrW.jpg" group-title="Filmes ondemand",Operação Zodíaco
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rzsrrmwe/format/applehttp/protocol/https/flavorIds/1_aodk7poz,1_wrtv82z3,1_lita1t4h,1_3hv60jfk,1_tbzgwghm,1_miml724o/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685650416&id=912&ip=206.84.34.107&override_expiration=1500&sign=4lOAMCGT0lsVP7MmUxAJPayzLillBhQWuT%2Fc1sHF8Fg%3D&playSessionId=a80c9318-4e64-3e96-c931-5127d5cdef82:a157ff26-ead8-57a8-a7c7-2802593e01f2&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL29wZXJhY2FvLXpvZGlhY28=&clientTag=html5:v7.63
+
 #EXTINF:-1 tvg-id="Os Crimes de Limehouse" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/53HgFUeoDoe99kQ1LwF9fytUZAl.jpg" group-title="Filmes ondemand",Os Crimes de Limehouse	
 https://play.prod.gcp.vix.services/limehouse-golem_pt/limehouse-golem_pt_1-1/play_v1_hls_432p.m3u8
 
@@ -5179,6 +5182,9 @@ https://play.prod.gcp.vix.services/die-falscher_pt/die-falscher_pt_1-1/play_v1_h
 
 #EXTINF:-1 tvg-id="Os Gritos do Silêncio" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8PgmK0doOtBQbDIXpOTjGUvjxU6.jpg" group-title="Filmes ondemand",Os Gritos do Silêncio
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_iavqhnep/format/applehttp/protocol/https/flavorIds/1_6w1d9db7,1_tz94vmmi,1_h0g9ig9h,1_66vun0e7,1_pqqer0tr,1_mdg85k20,1_ilspohqr/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680561484&id=9936&ip=206.84.34.255&override_expiration=1500&sign=AfyolcubWT8W%2BQimFdll5NJv6L8ctBnzdIgCkulbRPw%3D&playSessionId=3748e656-5f82-ca82-3857-2c12e992ed97:65c779c6-1cb0-9ea8-9f96-3df4953b1f90&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL29zLWdyaXRvcy1kby1zaWxlbmNpbw==&clientTag=html5:v7.60
+
+#EXTINF:-1 tvg-id="Os Irmãos Grimm" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jerDxzhAVtNGPtDV0n9ePWCLlyK.jpg" group-title="Filmes ondemand",Os Irmãos Grimm
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_4ks5309g/format/applehttp/protocol/https/flavorIds/1_zks9ec7n,1_uh45z6uq,1_w0d9k3g4,1_e2y7pa5j,1_zr3o3vqi,1_90mrugfx,1_dsohh8vx,1_kfttz0l1/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685649603&id=9663&ip=206.84.34.107&override_expiration=1500&sign=Fj9rgALnaz0Bgrob2IoMSPXlZ%2FlPGOe7BCpT2DqNgQ0%3D&playSessionId=2507e95e-d0af-c4e5-eff3-1397aed7a15a:7e851a60-2165-b9a1-40ef-975247955116&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL29zLWlybWFvcy1ncmltbQ==&clientTag=html5:v7.63
 
 ########################P###############################################
 
@@ -5217,6 +5223,9 @@ https://play.prod.gcp.vix.services/ringu-rasen_pt/ringu-rasen_pt_1-1/hls_1500_.m
 
 
 ########################S###############################################
+
+#EXTINF:-1 tvg-id="Samurai X: O Filme" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ks7Rgrh4a9gQuNMEVKwjND6Qwde.jpg" group-title="Filmes ondemand",Samurai X: O Filme	
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_2y5oflnz/format/applehttp/protocol/https/flavorIds/1_egyp9o66,1_sadvu69z,1_wvmk2ziy,1_b522q0yz,1_mroarko5,1_z2botac8,1_0vrkfh59/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685649894&id=6319&ip=206.84.34.107&override_expiration=1500&sign=%2BHUssjXgrg0HQHrDy4PuLdSncFdnb%2Filj5UEP2drFsI%3D&playSessionId=a9f8bd74-6e0c-298d-ced5-80aeaa5994df:3f545e6c-1336-5fd3-1f21-1d709b2ab87d&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3NhbXVyYWkteC0xLW8tZmlsbWU=&clientTag=html5:v7.63
 
 #EXTINF:-1 tvg-id="Santos ou Soldados" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8M8AQnUMP5pri5B7X6ZMq4C74zw.jpg" group-title="Filmes ondemand",Santos ou Soldados	
 https://play.prod.gcp.vix.services/saints-soldiers_pt/saints-soldiers_pt_1-1/play_v1_hls_720p.m3u8
@@ -5276,6 +5285,8 @@ https://play.prod.gcp.vix.services/bunraku_pt/bunraku_pt_1-1/play_v1_hls_720p.m3
 
 #EXTINF:-1 tvg-id="Uma Noite de Loucuras" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5GDmJC3RSSWhfhsFZhfBgOgB7vD.jpg" group-title="Filmes ondemand",Uma Noite de Loucuras
 https://play.prod.gcp.vix.services/fun-mom-dinner_pt/fun-mom-dinner_pt_1-1/play_v1_hls_720p.m3u8
+
+
 
 ##########################Z#######################################################
 
