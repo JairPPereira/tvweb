@@ -5075,6 +5075,9 @@ https://play.prod.gcp.vix.services/the-experiment_pt/the-experiment_pt_1-1/play_
 #EXTINF:-1 tvg-id="Diário de um Jornalista Bêbado" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/l1K8pEVjfyxS5Een4QJXey8unCc.jpg" group-title="Filmes ondemand",Diário de um Jornalista Bêbado
 https://play.prod.gcp.vix.services/rum-diary_pt/rum-diary_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Donnie Darko" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg" group-title="Filmes ondemand",Donnie Darko
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8gou9gji/format/applehttp/protocol/https/flavorIds/1_0wi1pr0h,1_tg90kl5g,1_uem1ndc5,1_6i6yonqy,1_4u6hcoxt,1_b4604hm8,1_8ogcqzw1/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685627107&id=5013&ip=206.84.34.107&override_expiration=1500&sign=LSFSziLMfY%2FRYg%2FhTPZwFuTAngOPAB8rOqni%2FJ9imXk%3D&playSessionId=65448f0c-a8f8-7a66-c846-a38640eb1205:3cf05cdb-b329-bc2f-7f28-eb739191877e&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2Rvbm5pZS1kYXJrbw==&clientTag=html5:v7.63
+
 ##############################E################################################
 
 #EXTINF:-1 tvg-id="Em Busca de Vingança" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/k5LzVphdEIZV5Ckwcsjve1QFbUi.jpg" group-title="Filmes ondemand",Em Busca de Vingança
@@ -5136,6 +5139,9 @@ https://play.prod.gcp.vix.services/mortadelo_pt/mortadelo_pt_1-1/hls_1000_.m3u8
 
 #EXTINF:-1 tvg-id="November Man: Um Espião Nunca Morre" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rM9yMUntZMAeXLDCmPrDGGBYdYR.jpg" group-title="Filmes ondemand",November Man: Um Espião Nunca Morre
 https://play.prod.gcp.vix.services/november-man_pt/november-man_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Novidades no Amor" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wPsGdcUV5tzRDWb2vCy9hb2dtqC.jpg" group-title="Filmes ondemand",Novidades no Amor
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_p5adrix4/format/applehttp/protocol/https/flavorIds/1_vbwjh04f,1_s5onh0rk,1_2sey8c7u,1_paxzt9sm,1_dk805oyi,1_oanin242,1_0eldsef1/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685627267&id=1751&ip=206.84.34.107&override_expiration=1500&sign=yadJvk6JHA5%2BdqA3oIO0a7kgmCKWNLqkDHZ%2FqoSmyE8%3D&playSessionId=2d9c8145-2aa2-6f34-23a6-9d73a1925b9e:5eef3002-4d93-3b42-bc0d-0bde52a20342&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL25vdmlkYWRlcy1uby1hbW9y&clientTag=html5:v7.63
 
 #####################################O########################################
 
