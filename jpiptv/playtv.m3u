@@ -5137,6 +5137,9 @@ https://play.prod.gcp.vix.services/mortadelo_pt/mortadelo_pt_1-1/hls_1000_.m3u8
 
 #####################################N########################################
 
+#EXTINF:-1 tvg-id="Nada é para Sempre" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6Pc791iaMjMxqqu81R9k6AqzerF.jpg" group-title="Filmes ondemand",Nada é para Sempre
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_umyilx17/format/applehttp/protocol/https/flavorIds/1_ub2mvfia,1_ehku26ld,1_m0a8wc97,1_msrlgzvk,1_z6a3qlf7,1_m5duw0vk,1_q899sjoo,1_i7ntswsm/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685627612&id=11039&ip=206.84.34.107&override_expiration=1500&sign=e7fyc%2BvrC4O9QFk20oEtc6JSBz4V%2FROrLAPx6xnmyiY%3D&playSessionId=557d011a-6c2a-1471-e2f8-3b753190ab08:306adb6f-e08e-8f24-3af6-bd296ec51a02&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL25hZGEtZS1wYXJhLXNlbXByZQ==&clientTag=html5:v7.63
+
 #EXTINF:-1 tvg-id="November Man: Um Espião Nunca Morre" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rM9yMUntZMAeXLDCmPrDGGBYdYR.jpg" group-title="Filmes ondemand",November Man: Um Espião Nunca Morre
 https://play.prod.gcp.vix.services/november-man_pt/november-man_pt_1-1/play_v1_hls_720p.m3u8
 
