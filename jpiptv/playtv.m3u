@@ -685,6 +685,18 @@ https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/pla
 #EXTINF:-1 tvg-id="Tv Brasil Oeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/81bd24cfd9feca68790b02482d3a875d.webp" group-title="variedades",Tv Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV COM Maceió" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5e9ddc2731367be0a6892db5e7acccc9.webp" group-title="variedades",TV COM Maceió
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Sempre TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4d78f92ebfd5f3e891c78714aae386e6.webp" group-title="variedades",Rede Sempre TV
+https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gen Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a6120ba569efe5fe7118f81566b35d4f.webp" group-title="variedades",Gen Tv
+https://cdn-gentv.ciclano.io:1443/gentv/gentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arcerte Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d13bd62243f07242f274f3d070114024.webp" group-title="variedades",Arcerte Tv
+https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8
+
 
 
 ####################################evangelica##############################################
