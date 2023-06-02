@@ -5374,6 +5374,11 @@ https://play.prod.gcp.vix.services/hansel-gretel-baked_pt/hansel-gretel-baked_pt
 #EXTINF:-1 tvg-id="Jogo Sujo" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3DJ8KOT2t8y8FiLn3hrMyPT9MyS.jpg" group-title="Filmes ondemand",Jogo Sujo	
 https://play.prod.gcp.vix.services/swelter_pt/swelter_pt_1-1/play_v1_hls_720p.m3u8
 
+#########################################K########################################
+
+#EXTINF:-1 tvg-id="King of Fighters: A Batalha Final" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dyzSWQBkDC4sicUrPo8pnO7KD6r.jpg" group-title="Filmes ondemand",King of Fighters: A Batalha Final	
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_05i8iazp/format/applehttp/protocol/https/flavorIds/1_fh9k70ud,1_s0dd02tc,1_mgrf9z0n,1_994ttbk2,1_ew8h6wk0,1_4q369rhk,1_yfvpazvw/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685738991&id=6317&ip=206.84.34.84&override_expiration=1500&sign=2EDBQrGZYWS1xuDxJpGlndFAyJnOGdcS1092NS2Dpvk%3D&playSessionId=365ed038-27d5-e075-8c4a-fbd3dad06fb9:11218da3-df46-4eda-c251-e65c1e241846&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2tpbmctZmlnaHRlcnMtYmF0YWxoYS1maW5hbA==&clientTag=html5:v7.63
+
 #########################################M########################################
 
 #EXTINF:-1 tvg-id="Malcolm X" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg" group-title="Filmes ondemand",Malcolm X
@@ -5528,6 +5533,9 @@ https://play.prod.gcp.vix.services/24-hours-live_pt/24-hours-live_pt_1-1/play_v1
 
 #EXTINF:-1 tvg-id="Um Homem Comum" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/m1JxuEwEufGqNAPJj7Tbk2pYGqh.jpg" group-title="Filmes ondemand",Um Homem Comum
 https://play.prod.gcp.vix.services/ordinary-man_pt/ordinary-man_pt_1-1/hls_1500_.m3u8
+
+#EXTINF:-1 tvg-id="Um Método Perigoso" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zSgNp5qN3PPAY75NvJ06DoU6VKP.jpg" group-title="Filmes ondemand",Um Método Perigoso
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_0jjklgwx/format/applehttp/protocol/https/flavorIds/1_ua16hovv,1_rq0t85gb,1_166vo77m,1_gywrmsl9,1_sam72qi0,1_pzfz9d9p,1_49g3mdn6/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685739250&id=1402&ip=206.84.34.84&override_expiration=1500&sign=cxZ6zXH7FtIi58v%2BfUZEc2Fo%2Bk%2BzHfM1gc2VfjFaE14%3D&playSessionId=5009e75e-113d-f952-dd5d-754a6c822872:ba31ff0c-55da-3abe-ba72-cf63526f1bc2&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3VtLW1ldG9kby1wZXJpZ29zbw==&clientTag=html5:v7.63
 
 #EXTINF:-1 tvg-id="Um Negócio de Risco" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ecVV9EpKOms51Ldg3CSrvYEbqgM.jpg" group-title="Filmes ondemand",Um Negócio de Risco	
 https://play.prod.gcp.vix.services/criminal-activities_pt/criminal-activities_pt_1-1/play_v1_hls_720p.m3u8
