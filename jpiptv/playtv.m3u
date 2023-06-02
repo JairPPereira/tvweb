@@ -5252,6 +5252,9 @@ https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_h70
 #EXTINF:-1 tvg-id="A Revanche" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/maUErDOCo9fccqiHzvjJoQ8sXxh.jpg" group-title="Filmes ondemand",A Revanche	
 https://play.prod.gcp.vix.services/tapped-out_pt/tapped-out_pt_1-1/hls_1500_.m3u8
 
+#EXTINF:-1 tvg-id="Amante Sequestrada" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xQ35ZuJpdg30bctxNleengLfw9X.jpg" group-title="Filmes ondemand",Amante Sequestrada	
+https://play.prod.gcp.vix.services/caught_pt/caught_pt_1-1/hls_1500_.m3u8
+
 #EXTINF:-1 tvg-id="Amor por Direito" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7dTx6p5aHYMtpNoEvi6SuT6sidU.jpg" group-title="Filmes ondemand",Amor por Direito
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rdwsygxe/format/applehttp/protocol/https/flavorIds/1_h4ugbzfo,1_3bvifdix,1_j7yb65rh,1_f4q5jrcv,1_ano2uh8h,1_uluwhf1l,1_zimjp66w/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680562117&id=4787&ip=206.84.34.255&override_expiration=1500&sign=SOv2mJ8RY0JrLw250XGNO0NptckR4IIRcIRtGg2QE4Y%3D&playSessionId=dfab226d-826c-4132-82fa-a4ea79192d19:0d7ddb32-51f7-1b6b-2dbd-930ab145c1b1&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2Ftb3ItcG9yLWRpcmVpdG8=&clientTag=html5:v7.60
 
@@ -5404,6 +5407,9 @@ https://play.prod.gcp.vix.services/ringu-2_pt/ringu-2_pt_1-1/hls_1500_.m3u8
 #EXTINF:-1 tvg-id="O Chamado" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vCZlZ52fQT3bDnK7hqEhdYRKUva.jpg" group-title="Filmes ondemand",O Chamado
 https://play.prod.gcp.vix.services/ringu_pt/ringu_pt_1-1/hls_1500_.m3u8
 
+#EXTINF:-1 tvg-id="O Garoto de Liverpool" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kyqiMQWssWGR9nXPqA5J4Gzb7vc.jpg" group-title="Filmes ondemand",O Garoto de Liverpool	
+https://play.prod.gcp.vix.services/nowhere-boy_pt/nowhere-boy_pt_1-1/play_v1_hls_720p.m3u8
+
 #EXTINF:-1 tvg-id="O Golpista do Ano" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3nWpKhkzWg6TeXLm5J4PQk3aTdo.jpg" group-title="Filmes ondemand",O Golpista do Ano
 https://play.prod.gcp.vix.services/love-phillip-morris_pt/love-phillip-morris_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -5421,6 +5427,9 @@ https://play.prod.gcp.vix.services/limehouse-golem_pt/limehouse-golem_pt_1-1/pla
 
 #EXTINF:-1 tvg-id="O Duelo Final" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/otD1urhitVQlTs0j6UJqiJZnp2I.jpg" group-title="Filmes ondemand",O Duelo Final	
 https://play.prod.gcp.vix.services/female-club_pt/female-club_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="O Último Concerto" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4KHRmfS492sHQIKz6CjgwexjKcC.jpg" group-title="Filmes ondemand",O Último Concerto	
+https://play.prod.gcp.vix.services/late-quartet_pt/late-quartet_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-id="Os Especialistas" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/60q5ai3Zjc9ujFcCMOvgmp4EWhC.jpg" group-title="Filmes ondemand",Os Especialistas
 https://play.prod.gcp.vix.services/killer-elite_pt/killer-elite_pt_1-1/play_v1_hls_720p.m3u8
