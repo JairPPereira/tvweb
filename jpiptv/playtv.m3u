@@ -1542,6 +1542,65 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36996
 #EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36930
 
+#########################################################################################
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",BABYTV
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36993
+#EXTINF:-1 tvg-id="BabyTV HD" tvg-name="BabyTV HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",BABYTV HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63634
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",CARTOON NETWORK
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37121
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36927
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Cartoonito" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",CARTOONITO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37123
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Cartoonito HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",CARTOONITO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63627
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",DISCOVERY KIDS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37113
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36923
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",DISNEY CHANNEL
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37111
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",DISNEY CHANNEL
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/64786
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Disney Channel HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36921
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",GLOOB
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37089
+#EXTINF:-1 tvg-id="Gloob  HD" tvg-name="Gloob HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",GLOOB HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36915
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",GLOOBINHO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63720
+#EXTINF:-1 tvg-id="Gloobinho HD" tvg-name="Gloobinho HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",GLOOBINHO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38969
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",NICK
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37064
+#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",NICK HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36907
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",NICK JR.
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37065
+#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr. HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",NICK JR. HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36908
+#EXTINF:-1 tvg-id="0" tvg-name="PlayKids HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",PLAYKIDS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41359
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",TOONCAST
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37033
+#EXTINF:-1 tvg-id="Tooncast HD" tvg-name="Tooncast HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",TOONCAST HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63647
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="TV Ra Tim Bum" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",TV RA TIM BUM
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37015
+#EXTINF:-1 tvg-id="TV Ra Tim Bum HD" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",TV RA TIM BUM HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63786
+#EXTINF:-1 tvg-id="Urban Kids HD" tvg-name="Urban Kids HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",URBAN KIDS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86528
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="Zoomoo" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",ZOOMOO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/59355
+#EXTINF:-1 tvg-id="Zoomoo HD" tvg-name="Zoomoo HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",ZOOMOO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63779
+
+#######################################################################################
+
 #EXTINF:-1 tvg-id="Tv Tremembé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc313ddd3bc4d8de0f5939ee8410a56e.webp" group-title="filmesseries",Tv Tremembé
 https://video05.logicahost.com.br/tvtremembe/tvtremembe/playlist.m3u8
 
