@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+  <title>Bons Tempos</title>
+  <link href="./video-js.css" rel="stylesheet">
+  <link href="./videojs-mobile-ui.css" rel="stylesheet">
+
+  <style>
+    body {
+  padding-top: 5px;
+      width: auto;
+      height: auto;
+    }
+ 
+  </style>
+  <style>
+    .testEl {
+      width: 10%;
+      height: 10%;
+      position: absolute;
+      top: 0;
+      pointer-events: none;
+      display: none;
+    }
+  </style>
+
+</head>
+
+
+<body> 
+    <div class="container-fluid">
+  <div class="player-container" max-width="720px">
+
+    <video-js id="videojs-mobile-ui-player" style="max-width:1020px"
+     class="video-js vjs-fluid vjs-big-play-centered vjs-default-skin" controls playsinline
+      poster="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaMYYGuKsMUMtBruo7sU3bX5n1SA0erxk_GTQimyqWVYp-GGwzYoJUe6z2mSAxZiq1gH36TfgN8PuV7a4B4JhRMQxekco5aC3eDEdVITkKWNTB6I5fQCFaYLpWL6P4pYkD8cJShkxoVKZz32lnyN-7QwY_lEZYrBsoTzJb6DbDjsjx-Lhjg11DpIW-/s1600/bonstempo.webp"> 
+      <source src="https://play.prod.gcp.vix.services/truth-emanuel_pt/truth-emanuel_pt_1-1/play_v1_hls_720p.m3u8" type='application/x-mpegURL'>
+
+
+
+
+    </video-js>
+
+    <ul>
+        <li><a href="https://play.prod.gcp.vix.services/truth-emanuel_pt/truth-emanuel_pt_1-1/play_v1_hls_720p.m3u8" target="video">A Grande Ilusão</a></li>
+         <li><a href="https://play.prod.gcp.vix.services/der-untergang_pt/der-untergang_pt_1-1/play_v1_hls_720p.m3u8" target="video">A Queda! As Últimas Horas de Hitler</a></li>
+         <li><a href="https://play.prod.gcp.vix.services/henrys-crime_pt/henrys-crime_pt_1-1/play_v1_hls_540p.m3u8" target="video">A Ocasião Faz O Ladrão</a></li>
+       </ul>
+    </div>
+
+</div>
+    <script src="./video.js"></script>
+    <script src="./videojs-mobile-ui.js"></script>
+
+
+    <script>
+      var player = videojs('videojs-mobile-ui-player', {
+
+
+        fluid: true,
+        controls: true,
+        height: '420px',
+
+
+
+      },
+
+      );
+
+
+
+
+
+
+
+
+
+    </script>
+
+
+    <script>
+      (function (window, videojs) {
+        var options = {
+          fullscreen: {
+            enterOnRotate: true,
+            exitOnRotate: true,
+            lockOnRotate: true,
+            iOS: false,
+            disabled: false
+          },
+          touchControls: {
+            seekSeconds: 10,
+            tapTimeout: 300,
+            disableOnEnd: false,
+            disabled: false
+          }
+        };
+
+        var url = new URL(window.location);
+        if (url.searchParams.has('options')) {
+          options = JSON.parse(url.searchParams.get('options'));
+        }
+
+        console.log(JSON.stringify(options, null, 2));
+
+        Object.keys(options).forEach(function (section) {
+          Object.keys(options[section]).forEach(function (prop) {
+            const val = options[section][prop];
+
+            if (prop === 'disabled') {
+              prop = `${section}Disabled`;
+            }
+
+            if (typeof val === 'boolean') {
+              document.getElementById(prop).checked = val;
+            }
+            if (typeof val === 'number') {
+              document.getElementById(prop).value = val;
+            }
+          });
+        });
+
+        document.getElementById('options').querySelectorAll('input').forEach(function (opt) {
+          opt.addEventListener('change', function () {
+            if (this.type === 'checkbox') {
+              const param = this.id.endsWith('Disabled') ? 'disabled' : this.id;
+
+              options[this.getAttribute('data-section')][param] = this.checked;
+            } else {
+              options[this.getAttribute('data-section')][this.id] = parseFloat(this.value);
+            }
+            console.log(options);
+          });
+        });
+
+        document.getElementById('reload').addEventListener('click', function () {
+          url.searchParams.set('options', JSON.stringify(options));
+
+          window.location = url.href;
+        })
+
+        window.addEventListener('orientationchange', function () {
+          var el = document.createElement('li');
+          var message = (new Date).toTimeString().split(' ')[0] + ' ' + window.orientation;
+          message += (screen && screen.orientation ? ' ' + screen.orientation.type + ' ' + screen.orientation.angle : '');
+          el.textContent = message;
+          console.log(message);
+          document.getElementById('log').appendChild(el);
+        });
+
+        var testPlayer = window.testPlayer = videojs('videojs-mobile-ui-player');
+        testPlayer.endscreen = function () { };
+        testPlayer.mobileUi(options);
+      }(window, window.videojs));
+    </script>
+
+    <script>
+        var links = document.querySelectorAll('a');
+        for (var i = 0; i < links.length; i++) {
+          links[i].addEventListener('click', function(event) {
+            event.preventDefault();
+    
+            var videoUrl = this.getAttribute('href');
+            var videoPlayer = videojs('videojs-mobile-ui-player');
+            videoPlayer.src({
+              src: videoUrl,
+              type: 'application/x-mpegURL'
+            });
+    
+            videoPlayer.play();
+          });
+        }
+      </script>
+      <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
