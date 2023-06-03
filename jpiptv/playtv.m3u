@@ -5251,6 +5251,9 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #####################################A###################################################
 
 
+#EXTINF:-1 tvg-id="A Família" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg" group-title="Filmes ondemand",A Família	
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rdbyqlyk/format/applehttp/protocol/https/flavorIds/1_fd37tw6k,1_tc7g5efs,1_d0w1qnop,1_8nfainee,1_29i9sy7m,1_0ihd9ech,1_l076vtuq/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685819438&id=4857&ip=206.84.34.209&override_expiration=1500&sign=bo1I6csHLheja8Ma86YelKQOboyuu1%2FNe1NqDsHMjRc%3D&playSessionId=a56674a7-e3db-9f99-6d86-3bf247da44e4:a7482c7d-0486-03de-9422-5fc55c0e1216&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2ZhbWlsaWE=&clientTag=html5:v7.63
+
 #EXTINF:-1 tvg-id="A Grande Ilusão" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ewaWqLScNiwOqThJZCmizATAJhd.jpg" group-title="Filmes ondemand",A Grande Ilusão
 https://play.prod.gcp.vix.services/truth-emanuel_pt/truth-emanuel_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -5322,7 +5325,16 @@ https://play.prod.gcp.vix.services/the-double_pt/the-double_pt_1-1/play_v1_hls_7
 #EXTINF:-1 tvg-id="Confiar" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ktBSBdEPvo8NJ5QEdCj8baYKmHf.jpg" group-title="Filmes ondemand",Confiar
 https://play.prod.gcp.vix.services/trust_pt/trust_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Cristiano Ronaldo: O Mundo aos Seus Pés" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bO38NvaqbVcs0j8tbcV4boUKzmk.jpg" group-title="Filmes ondemand",Cristiano Ronaldo: O Mundo aos Seus Pés	
+https://play.prod.gcp.vix.services/cristiano-ronaldo_en/cristiano-ronaldo_en_1-1/play_hls_1000.m3u8
+
 #######################################D#########################################################
+
+#EXTINF:-1 tvg-id="Deixados para Trás: O Filme" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yNWQ921ypzkzYRSRBU795OoKdDc.jpg" group-title="Filmes ondemand",Deixados para Trás: O Filme
+https://play.prod.gcp.vix.services/left-behind_pt/left-behind_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Deixados para Trás 2: Comando Tribulação" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qSXPrBoNQhBizgqaBwxqgVlp39z.jpg" group-title="Filmes ondemand",Deixados para Trás 2: Comando Tribulação
+https://play.prod.gcp.vix.services/left-behind-2_pt/left-behind-2_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-id="Departamento Q - Guardiões das Causas Perdidas" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wSEFQ6iCj626xjItq4DSPVr5MKC.jpg" group-title="Filmes ondemand",Departamento Q - Guardiões das Causas Perdidas
 https://play.prod.gcp.vix.services/department-q-causes_pt/department-q-causes_pt_1-1/play_v1_hls_720p.m3u8
@@ -5346,6 +5358,9 @@ https://play.prod.gcp.vix.services/aftermath_pt/aftermath_pt_1-1/play_v1_hls_720
 
 #EXTINF:-1 tvg-id="Encalhados" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/e9phdRZsNQ6M9BPjORusFmhX7PN.jpg" group-title="Filmes ondemand",Encalhados
 https://play.prod.gcp.vix.services/laggies_pt/laggies_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Entre Inimigos" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3y4wWgm7y318EmABIcvz9dgEgE8.jpg" group-title="Filmes ondemand",Entre Inimigos
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1fyr52jb/format/applehttp/protocol/https/flavorIds/1_3hh2dxn9,1_lzcus2zn,1_tcalz972,1_6iw5e2er,1_1c8536lu,1_ywxkb0on,1_yrx3nfhs/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685819250&id=1656&ip=206.84.34.209&override_expiration=1500&sign=kcrvmh042hm%2FOfplE7%2B8VQ8%2Bqm5yGjju53WE6d1nqRI%3D&playSessionId=39de107a-dcbe-1df1-fc31-9e3fbb27dfd5:97e19921-c403-f1a2-7ca1-a79dc03da045&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2VudHJlLWluaW1pZ29z&clientTag=html5:v7.63
 
 #EXTINF:-1 tvg-id="Eu Acredito" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2xtqkht2u7SkrZPd6zyMRymE4nt.jpg" group-title="Filmes ondemand",Eu Acredito
 https://play.prod.gcp.vix.services/i-believe_pt/i-believe_pt_1-1/play_v1_hls_720p.m3u8
@@ -5398,6 +5413,9 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_05i8ia
 #EXTINF:-1 tvg-id="Malcolm X" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg" group-title="Filmes ondemand",Malcolm X
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_2y3noteo/format/applehttp/protocol/https/flavorIds/1_o8amywgm,1_ft5nvdn3,1_oipmty3r,1_6mumi9qo,1_wnby8msj,1_pljjjk65,1_05638gwy/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1680561578&id=5948&ip=206.84.34.255&override_expiration=1500&sign=w17LFzgs%2FSMgdGdyPsy8Y%2F4CZUeAu0KFzBjLiV7TzyQ%3D&playSessionId=2453e452-c718-2285-aad2-90cefac62ced:648d9260-2b73-adb6-1654-839bff1057b0&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL21hbGNvbG0teA==&clientTag=html5:v7.60
 
+#EXTINF:-1 tvg-id="Marco Zero" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aZ77HkwpbVJn9VYHAZLi9yk3Ix0.jpg" group-title="Filmes ondemand",Marco Zero
+https://play.prod.gcp.vix.services/day-zero_pt/day-zero_pt_1-1/hls_1500_.m3u8
+
 #EXTINF:-1 tvg-id="Matinee: Uma Sessão Muito Louca" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rtMi9orJUG35XAabk5VHWfZR8bF.jpg" group-title="Filmes ondemand",Matinee: Uma Sessão Muito Louca
 https://play.prod.gcp.vix.services/matinee_pt/matinee_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -5435,6 +5453,9 @@ https://play.prod.gcp.vix.services/love-phillip-morris_pt/love-phillip-morris_pt
 #EXTINF:-1 tvg-id="O Poder e a Lei" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yvxF4YzpuaKwEBkcaCDTr4rGiov.jpg" group-title="Filmes ondemand",O Poder e a Lei
 https://play.prod.gcp.vix.services/lincoln-lawyer_pt/lincoln-lawyer_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="O Preço da Ganância" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dvyLxnYzFNxEfrYOBOvWu8nd55W.jpg" group-title="Filmes ondemand",O Preço da Ganância
+https://play.prod.gcp.vix.services/blood-money_pt/blood-money_pt_1-1/play_v1_hls_720p.m3u8
+
 #EXTINF:-1 tvg-id="O Reino Proibido" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2rEzOeG6he952m7tyFe7tOyfoko.jpg" group-title="Filmes ondemand",O Reino Proibido
 https://play.prod.gcp.vix.services/forbidden-kingdom_pt/forbidden-kingdom_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -5471,6 +5492,9 @@ https://play.prod.gcp.vix.services/zack-miri_pt/zack-miri_pt_1-1/play_v1_hls_720
 
 #EXTINF:-1 tvg-id="Perigo na Montanha" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q8CJj6zMwi53yxojscnVmhMKYKb.jpg" group-title="Filmes ondemand",Perigo na Montanha
 https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Pop Star" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xixc6DCCw6is7vPpqJNQyZEzcQd.jpg" group-title="Filmes ondemand",Pop Star	
+https://play.prod.gcp.vix.services/pop-star_pt/pop-star_pt_1-1/hls_1000_.m3u8
 
 #EXTINF:-1 tvg-id="Promessas de Guerra" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/auwdpPHhajvXn26BLFmJ4HlxdM0.jpg" group-title="Filmes ondemand",Promessas de Guerra
 https://play.prod.gcp.vix.services/water-diviner_pt/water-diviner_pt_1-1/play_v1_hls_720p.m3u8
