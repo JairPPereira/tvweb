@@ -5184,6 +5184,9 @@ http://meuplay.shop:80/series/150657845528/254658986506/2773.mp4
 
 ############################################################################################
 
+#EXTINF:-1 tvg-id="Tv Carioca Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae3270712e80a6ee4cd2dd542fcc48c6.webp" group-title="MUSICAS",Tv Carioca Internacional
+https://stmv1.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="TOP TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3858200bc307bc603e159858383c367c.webp" group-title="MUSICAS",TOP TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
