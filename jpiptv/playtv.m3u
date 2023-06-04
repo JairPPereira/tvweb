@@ -5187,16 +5187,45 @@ http://meuplay.shop:80/series/150657845528/254658986506/2773.mp4
 #EXTINF:-1 tvg-id="Tv Carioca Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae3270712e80a6ee4cd2dd542fcc48c6.webp" group-title="MUSICAS",Tv Carioca Internacional
 https://stmv1.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Do Fundo do Baú" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/73ac2e181b431fc90218ad2caf994c27.webp" group-title="MUSICAS",Do Fundo do Baú
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BRASIL TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5adc78157bd91d3c67e63aa294d9308c.webp" group-title="MUSICAS",BRASIL TV
+https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="TOP TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3858200bc307bc603e159858383c367c.webp" group-title="MUSICAS",TOP TV
-https://cast.cdnseguro.com:19360/8092/8092.m3u8
+https://isaocorp.cloudecast.com/toptv/index.m3u8
 
 #EXTINF:-1 tvg-id="Kpop TV Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="MUSICAS",Kpop TV Play Ao Vivo
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w489520488.m3u8
-
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TOP MIX TV Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ab499d9cc282fd063424971ef738fec.webp" group-title="MUSICAS",TOP MIX TV Ao Vivo
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w906310315.m3u8
+
+#EXTINF:-1 tvg-id="Rádio Tv Ximenes Fmv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/822ff116ce005bc871bd5c672bde1285.webp" group-title="MUSICAS",Rádio Tv Ximenes Fm
+https://stmv2.samcast.com.br/radiotvximenesfm/radiotvximenesfm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Grande Natal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14c5a66a88c83606956bfad56ce0e085.webp" group-title="MUSICAS",Tv Grande Natal
+https://canalteste.duckdns.org:443/app/tvgrandenatalhdtv/llhls.m3u8
+
+#EXTINF:-1 tvg-id="Tv Café" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0b6938caab5a9e3590c4387c890c0492.webp" group-title="MUSICAS",Tv Café
+https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Catedral do Rock TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d697ec8c1724e5dc37d8999e9aa71ac3.webp" group-title="MUSICAS",Catedral do Rock TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Tv Uniao de Natal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d6a520da03967f5de06a99893a65ab99.webp" group-title="MUSICAS",Tv Uniao de Natal
+https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Channel Network" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/879001b49f0330143eed3e34653e17c3.webp" group-title="MUSICAS",Tv Channel Network
+https://a.cdni.live/tvclassicos/tvclassicos/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="Kronehit" tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=AT&name=27835-6617440.png&size=200" group-title="MUSICAS",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -10405,8 +10434,7 @@ https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",SAO RAIMUNDO TV
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV GRANDE NATAL
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV CIDADE CANAL 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",CAMOCIM WEB TV
