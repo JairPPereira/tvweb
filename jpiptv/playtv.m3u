@@ -1066,6 +1066,9 @@ https://play.prod.gcp.vix.services/olhar-instigado_pt/olhar-instigado_pt_1-1/pla
 #EXTINF:-1 tvg-id="Vai-Vai: 80 anos nas Ruas" tvg-name="Documentários" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/vaivai_pt/vaivai_pt_200x300.jpg" group-title="Documentários",Vai-Vai: 80 anos nas Ruas
 https://play.prod.gcp.vix.services/vaivai_pt/vaivai_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Quanto Tempo o Tempo Tem" tvg-name="Documentários" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6LxsXjQYXpr5xb4ZHXaFDAWnra8.jpg" group-title="Documentários",Quanto Tempo o Tempo Tem
+https://play.prod.gcp.vix.services/quanto-tempo-tem_pt/quanto-tempo-tem_pt_1-1/play_v1_hls_720p.m3u8
+
 
 
 
@@ -5805,6 +5808,9 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_411d14
 
 #EXTINF:-1 tvg-id="Sobibor: A Revolta que Mudou os Rumos da Humanidade" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ggX7hyJr3toYvNzu8FtcYNUQlME.jpg" group-title="Filmes ondemand",Sobibor: A Revolta que Mudou os Rumos da Humanidade
 https://play.prod.gcp.vix.services/sobibor_pt/sobibor_pt_1-1/hls_1500_.m3u8
+
+#EXTINF:-1 tvg-id="Solo: A Ilha do Medo" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7R2gzopB4EExqKyrr1OKouDzufD.jpg" group-title="Filmes ondemand",Solo: A Ilha do Medo
+https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-id="Sombras do Terror" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/k3pSd1JzV3oIFkgcnYm68Thw4VH.jpg" group-title="Filmes ondemand",Sombras do Terror
 https://play.prod.gcp.vix.services/shed_pt/shed_pt_1-1/play_v1_hls_432p.m3u8
