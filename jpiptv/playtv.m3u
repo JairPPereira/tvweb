@@ -947,6 +947,13 @@ https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="BandNews H265" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",BANDNEWS H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62797
 
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - FHD
+http://x90.live:80/valmir/654321/138098
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - HD
+http://x90.live:80/valmir/654321/138101
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - SD
+http://x90.live:80/valmir/654321/138102
+
 #EXTINF:-1 tvg-id="JP News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1e0Re1E3AAV4pyo0gqS4EStCpXjrSj5f4q9R6CDMrHSl4j90deXWXjUXY-5inpD43CsWn_vxBlqJqFJEEK5ejvQwDb-I3S9UitRoyZ69BNfWW7kunC5IGweOnGJaTOUQhAmpCDorgCOMtOB5IACTl8lmhtc4-klhGFpBV6Z0Cv27emojoRicWlxYz/s1600/jovempanews.jpg" group-title="jornalismo", JP NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
@@ -5394,6 +5401,33 @@ https://video01.kshost.com.br:4443/ezequiel3930/ezequiel3930/playlist.m3u8
 #EXTINF:-1 tvg-id="BRASIL TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5adc78157bd91d3c67e63aa294d9308c.webp" group-title="MUSICAS",BRASIL TV
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 
+#######################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AEROSMITH" tvg-logo="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" group-title="SHOW 24HRS",[24H] AEROSMITH
+http://x90.live:80/valmir/654321/138770626
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BANDA FORROZAO DAS ANTIGAS" tvg-logo="http://uione.dadg.today:80/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcHB3g8BhWOVCjpcjS1dFi09TbcY5-vu70bxjuvO6LCLFBri8S_bMUZxL01J0QHcZv8.jpg" group-title="SHOW 24HRS",[24H] BANDA FORROZAO DAS ANTIGAS
+http://x90.live:80/valmir/654321/138770627
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BRUNO E MARRONE" tvg-logo="http://uione.dadg.today:80/images/VVtof3XMMKcXIvMOCGl9C8UMOEVeTC5NHALdeigOlG5M7Pjfm0FLGf7IVop5aQAQwhNBycXV_JNmH1pxXupUIFl2-fjajPDZi20Cb23rVelrhTl0j9cOqYswrlQ256d8.jpg" group-title="SHOW 24HRS",[24H] BRUNO E MARRONE
+http://x90.live:80/valmir/654321/138770617
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CABARÉ DO LEONARDO" tvg-logo="https://cf.shopee.com.br/file/db0ec50bf2154ac1be6845aa404e78c8" group-title="SHOW 24HRS",[24H] CABARÉ DO LEONARDO
+http://x90.live:80/valmir/654321/138770628
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DAVID GUETTA" tvg-logo="http://uione.dadg.today:80/images/q2XsR7TqSkMJenaYgvb1yZ2fnonXwMkPRvIk2oJObSuatMh6ptZFTs9-ljTf6-VEfdyMu9roTcfprWqQxyzqNYEOiMWCoOzluHdI1ev6OKU.png" group-title="SHOW 24HRS",[24H] DAVID GUETTA
+http://x90.live:80/valmir/654321/138770629
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GOSPEL" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWVQ6XANn02i2ZG7vAhpbR0WbJDxsuUFpNfUHhsiA=s900-c-k-c0x00ffffff-no-rj" group-title="SHOW 24HRS",[24H] GOSPEL
+http://x90.live:80/valmir/654321/138770618
+
+#EXTINF:-1 tvg-id="" tvg-name="GRUPO MENOS E MAIS" tvg-logo="http://conteudo.imguol.com.br/c/entretenimento/a4/2020/11/27/grupo-menos-e-mais-1606455239194_v2_1920x1280.jpg" group-title="SHOW 24HRS",GRUPO MENOS E MAIS
+http://x90.live:80/valmir/654321/320635
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GUSTAVO LIMA" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QD6jQjjnYJF4CNWfdX_L3Y4PvMvz57F0iQj9DWqs-38.png" group-title="SHOW 24HRS",[24H] GUSTAVO LIMA
+http://x90.live:80/valmir/654321/138770630
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LEONARDO" tvg-logo="https://yt3.googleusercontent.com/agSMbnaXNAu-wzw4rG9bIV8GFC-Toqo8sfxe33rVQrLKlcar6qoZo2Ac1kkaXnKIMpJV_UFxgg=s900-c-k-c0x00ffffff-no-rj" group-title="SHOW 24HRS",[24H] LEONARDO
+http://x90.live:80/valmir/654321/138770631
 
 #####################################A###################################################
 
