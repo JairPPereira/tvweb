@@ -5048,35 +5048,39 @@ https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Cold.Case/T07/LS-T07E22.mp4
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-id="T01E01" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E01
+
+#EXTINF:-1 tvg-id="T01E01 Piloto" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E01 Piloto
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E01.mkv
 
-#EXTINF:-1 tvg-id="T01E02" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E02
+#EXTINF:-1 tvg-id="T01E02 Deixe Ir" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E02 Deixe Ir
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E02.mkv
 
-#EXTINF:-1 tvg-id="T01E03" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E03
+#EXTINF:-1 tvg-id="T01E03 O Parente Mais Proximo" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E03 O Parente Mais Proximo
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E03.mkv
 
-#EXTINF:-1 tvg-id="T01E04" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E05
+#EXTINF:-1 tvg-id="T01E04 O Pior Dia de Todos" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E04 O Pior Dia de Todos
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E04.mkv
 
-#EXTINF:-1 tvg-id="T01E05" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E05
+#EXTINF:-1 tvg-id="T01E05 Ponto de Origem" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E05 Ponto de Origem
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E05.mkv
 
-#EXTINF:-1 tvg-id="T01E06" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E06
+#EXTINF:-1 tvg-id="T01E06 Destruidor de Corasoes" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E06 Destruidor de Corasoes
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E06.mkv
 
-#EXTINF:-1 tvg-id="T01E07" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E07
+#EXTINF:-1 tvg-id="T01E07 Lua Cheia (Assustadora)" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E07 Lua Cheia (Assustadora)
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E07.mkv
 
-#EXTINF:-1 tvg-id="T01E08" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E08
+#EXTINF:-1 tvg-id="T01E08 O Carma e uma Vadia" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E08 O Carma e uma Vadia
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E08.mkv
 
-#EXTINF:-1 tvg-id="T01E09" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E09
+#EXTINF:-1 tvg-id="T01E09 Sem Saida" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E09 Sem Saida
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E09.mkv
 
-#EXTINF:-1 tvg-id="T01E10" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E10
+#EXTINF:-1 tvg-id="T01E10 Um Voce Novo em Folha" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E10 Um Voce Novo em Folha
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E10.mkv
+
+
+
 
 
 
