@@ -967,18 +967,55 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-id="History FHD" tvg-name="History FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",HISTORY FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38383
 
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="Documentário",HISTORY HD
+http://meuplay.shop:80/1986029178598/910924846992/45
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="Documentário",HISTORY SD
+http://meuplay.shop:80/1986029178598/910924846992/584
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD " tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="Documentário",HISTORY FHD 
+http://meuplay.shop:80/1986029178598/910924846992/781
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY H265" tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="Documentário",HISTORY H265
+http://meuplay.shop:80/1986029178598/910924846992/255
+
 #EXTINF:-1 tvg-id="History 2 FHD" tvg-name="History 2 FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",HISTORY 2 FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41485
+
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 FHD " tvg-logo="https://imgur.com/8oMEs6u.png" group-title="Documentário",HISTORY 2 FHD 
+http://meuplay.shop:80/1986029178598/910924846992/806
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 H265" tvg-logo="https://imgur.com/8oMEs6u.png" group-title="Documentário",HISTORY 2 H265
+http://meuplay.shop:80/1986029178598/910924846992/256
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://imgur.com/8oMEs6u.png" group-title="Documentário",HISTORY 2 HD
+http://meuplay.shop:80/1986029178598/910924846992/44
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 SD" tvg-logo="https://imgur.com/8oMEs6u.png" group-title="Documentário",HISTORY 2 SD
+http://meuplay.shop:80/1986029178598/910924846992/500
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ANIMAL PLANET
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37128
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ANIMAL PLANET HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36992
 
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="Documentário",ANIMAL PLANET FHD
+http://meuplay.shop:80/1986029178598/910924846992/804
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET H265" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="Documentário",ANIMAL PLANET H265
+http://meuplay.shop:80/1986029178598/910924846992/212
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://ccdnblck.xyz:80/images/db8356a775d53e2a5d251cd48acaf23c.png" group-title="Documentário",ANIMAL PLANET HD
+http://meuplay.shop:80/1986029178598/910924846992/3
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="Documentário",ANIMAL PLANET SD
+http://meuplay.shop:80/1986029178598/910924846992/446
+
 #EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ID: INVESTIGAÇÃO DISCOVERY
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37114
 #EXTINF:-1 tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigação Discovery HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ID: INVESTIGAÇÃO DISCOVERY HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD" tvg-logo="https://imgur.com/acAruWG.png" group-title="Documentário",NATGEO FHD
+http://meuplay.shop:80/1986029178598/910924846992/805
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO H265" tvg-logo="https://imgur.com/acAruWG.png" group-title="Documentário",NATGEO H265
+http://meuplay.shop:80/1986029178598/910924846992/266
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="https://imgur.com/acAruWG.png" group-title="Documentário",NATGEO HD
+http://meuplay.shop:80/1986029178598/910924846992/54
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO SD" tvg-logo="https://imgur.com/acAruWG.png" group-title="Documentário",NATGEO SD
+http://meuplay.shop:80/1986029178598/910924846992/514
 
 
 #EXTINF:-1 tvg-id="Conectv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/454924e01d06c3bc20131e8514187305.webp" group-title="Documentário",Conectv
