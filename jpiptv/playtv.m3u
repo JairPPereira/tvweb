@@ -1069,11 +1069,6 @@ https://play.prod.gcp.vix.services/olhar-instigado_pt/olhar-instigado_pt_1-1/pla
 #EXTINF:-1 tvg-id="Vai-Vai: 80 anos nas Ruas" tvg-name="Documentários" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/vaivai_pt/vaivai_pt_200x300.jpg" group-title="Documentários",Vai-Vai: 80 anos nas Ruas
 https://play.prod.gcp.vix.services/vaivai_pt/vaivai_pt_1-1/play_v1_hls_720p.m3u8
 
-#EXTINF:-1 tvg-id="Quanto Tempo o Tempo Tem" tvg-name="Documentários" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6LxsXjQYXpr5xb4ZHXaFDAWnra8.jpg" group-title="Documentários",Quanto Tempo o Tempo Tem
-https://play.prod.gcp.vix.services/quanto-tempo-tem_pt/quanto-tempo-tem_pt_1-1/play_v1_hls_720p.m3u8
-
-
-
 
 
 ##################################################################################
@@ -5236,6 +5231,39 @@ https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E13.mp4
 
 #EXTINF:-1 tvg-id="T04E14 Sobreviventes" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/pBPGUjREqej3gYHHJy359rx3aiJ.jpg" group-title="9-1-1 (2018)",T04E14 Sobreviventes
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E14.mp4
+
+###########################################################################################
+ 
+#EXTINF:-1 tvg-id="T05E01 Panico" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E01 Panico
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E01.mkv
+
+#EXTINF:-1 tvg-id="T05E02 Tempos Desesperados" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E02 Tempos Desesperados
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E02.mkv
+
+#EXTINF:-1 tvg-id="T05E03 Medidas Desesperadas" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E03 Medidas Desesperadas
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E03.mkv
+
+#EXTINF:-1 tvg-id="T05E04 Casa E Fora" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E04 Casa E Fora
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E04.mkv
+
+#EXTINF:-1 tvg-id="T05E05 Pressao Dos Colegas" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E05 Pressao Dos Colegas
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E05.mkv
+
+#EXTINF:-1 tvg-id="T05E06 Briga No Bloco De Celas 9-1-1" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E06 Briga No Bloco De Celas 9-1-1
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E06.mkv
+
+#EXTINF:-1 tvg-id="T05E07 Historias De Fantasma" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E07 Historias De Fantasma
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E07.mkv
+
+#EXTINF:-1 tvg-id="T05E08 Defender No Lugar" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E08 Defender No Lugar
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E08.mkv
+
+#EXTINF:-1 tvg-id="T05E09 Passado e Prologo" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E09 Passado e Prologo
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E09.mkv
+
+#EXTINF:-1 tvg-id="T05E10 Enrolado Em Vermelho" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E10 Enrolado Em Vermelho
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E10.mkv
+
 
 
 ############################################################################################
