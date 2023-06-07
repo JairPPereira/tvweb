@@ -697,6 +697,9 @@ https://cdn-gentv.ciclano.io:1443/gentv/gentv/playlist.m3u8
 #EXTINF:-1 tvg-id="Arcerte Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d13bd62243f07242f274f3d070114024.webp" group-title="variedades",Arcerte Tv
 https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV PRECABURA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e60182cb891f5a4ad9e1b7c78572269e.webp" group-title="variedades",TV PRECABURA
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+
 
 
 ####################################evangelica##############################################
@@ -1807,11 +1810,6 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV UTV" tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="filmesseries", Dc Super Heróis 
 http://lxls.mx:80/giselebello/80754546/333082
-
-
-#EXTINF:-1 tvg-id="CANAL 10 FOZ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhygbluSV5nkEAr8Jiah_CJeLvZ68G74pW2iARYXHyni5mYPw8Qq9p476_NwC7XDVWOzYSbeUDX_txUd6YJ_zNjJ3_RDR6U1zp3-m8xBJAND2YeQ2VqBYrQ70zIsJ7pLhXPqo-a752tbTj9coDru7GNUgrLHjLd5MpmA34UqVW9QPk1u5DYvtzZwSmI/s1600/FOX.webp" group-title="filmesseries",CANAL 10 FOZ
-http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="Vintage" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="filmesseries",Vintage
@@ -5046,6 +5044,41 @@ https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Cold.Case/T07/LS-T07E21.mp4
 
 #EXTINF:-1 tvg-id="T07 Destroçados" tvg-name="T07E22" tvg-logo="https://www.themoviedb.org/t/p/original/cl36yfpaGw0emRdzPANsxqoiA4y.jpg" group-title="Arquivo Morto",T07 Destroçados
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Cold.Case/T07/LS-T07E22.mp4
+
+###########################################################################################
+
+
+#EXTINF:-1 tvg-id="T01E01" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E01
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E01.mkv
+
+#EXTINF:-1 tvg-id="T01E02" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E02
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E02.mkv
+
+#EXTINF:-1 tvg-id="T01E03" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E03
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E03.mkv
+
+#EXTINF:-1 tvg-id="T01E04" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E05
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E04.mkv
+
+#EXTINF:-1 tvg-id="T01E05" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E05
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E05.mkv
+
+#EXTINF:-1 tvg-id="T01E06" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E06
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E06.mkv
+
+#EXTINF:-1 tvg-id="T01E07" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E07
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E07.mkv
+
+#EXTINF:-1 tvg-id="T01E08" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E08
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E08.mkv
+
+#EXTINF:-1 tvg-id="T01E09" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E09
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E09.mkv
+
+#EXTINF:-1 tvg-id="T01E10" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E10
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E10.mkv
+
+
 
 ############################################################################################
 
@@ -10756,12 +10789,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-48
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",CANAL 25 JUNDIAI
 http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV PRECABURA
-http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",TV CN AGITOS
-http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="brasil",CANAL 10 FOZ
-http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
+
 
 
 #################################################################################

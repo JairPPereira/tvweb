@@ -1,225 +1,31 @@
-007  Sem Tempo Para Morrer 2021
-007 Casino Royale 2006
-007 Contra Goldeneye 1995
-007 Contra Spectre 2015
-007 O Amanhã Nunca Morre 1997
-007 O Mundo Não é O Bastante 1999
-007 Um Novo Dia Para Morrer 2002
-13° Distrito 3 2014
-13º Distrito 1 2004
-13º Distrito 2 2009
-16 Quadras 2006
-22 Milhas 2018
-60 Segundos 2000
-3000 Milhas Para O Inferno 2001
-A Cilada 2000
-A Fortaleza 1992
-A Fortaleza 2021
-A Garota Na Teia De Aranha 2018
-A Grande Jogada 2018
-A Identidade Bourne 2002
-A Justiceira 2018
-A Lista 2011
-A Lista 2011
-A Outra Face 1997
-A Porteira 2021
-A Queima Roupa 2019
-A Rebeliao 2019
-A Redenção 2020
-A Rocha 1996
-A Sentinela 2021
-A Supremacia Bourne 2004
-A Ultima Ameaça 1996
-A Vida Por Um Fio 2016
-Adrenalina 1 2006
-Adrenalina 2 2009
-Agentes Vanguard 2020
-Alerta Vermelho 2021
-Alta Frequência 2000
-Anjos Da Lei 1 2012
-Anjos Da Lei 2 2014
-Anonimo 2021
-Apex 2021
-As Panteras 1 2000
-As Panteras 2 2003
-As Panteras 3 2019
-Assalto Ao Banco Da Espanha 2021
-Assassino à Preço Fixo 1 2011
-Assassino à Preço Fixo 2 2017
-Assassinos 1995
-Assassinos Multiplos 2017
-Atirador 2007
-Atração Perigosa 2010
-Ava 2020
-Bad Boys 1 1995
-Bad Boys 2 2003
-Bad Boys 3 2020
-Bartkowiak 2021
-Bem vindo à Selva 2004
-Black Dog  Estrada Alucinante 1998
-Bloodshot 2020
-Braddock 1 1984
-Braddock 2 1985
-Braddock 3 1988
-Busca Implacável 1 2008
-Busca Implacável 2 2012
-Busca Implacável 3 2015
-Caçadores De Emoção Além Do Limite 2016
-Café e Kareem 2020
-Caos Na Prisão 2018
-Capturado 2020
-Carga Explosiva 1 2002
-Carga Explosiva 2 2005
-Carga Explosiva 3 2008
-Carga Explosiva O Legado 2015
-Ceu Em Chamas Skyfire 2019
-Cidade Do Crime 2017
-Cidade Sob Ameaça 2021
-Close 2019
-Colombiana 2011
-Com A Cor EA Coragem 1 2002
-Com A Cor EA Coragem 2 2019
-Com As Próprias Mãos 2004
-Comando Para Matar 1985
-Comboio 1978
-Con Air A Rota Da Fuga 1997
-Condenação Brutal 1989
-Conexão Jamaica 2002
-Contra O Tempo 2003
-Contra O Tempo 2011
-Coquetel Explosivo 2021
-Cores Da Justica 2019
-Covil De Ladroes 2018
-Crime Sem Saida 2019
-Crimes Na Madrugada 2017
-Daylight 1996
-Déjà Vu 2006
-Desejo De Matar 2018
-Destruicao Final O Ultimo Refugio 2020
-Destruição Final: O Último Refúgio 2020
-Dia De Treinamento 2001
-Diamante de Sangue
-Dificil De Matar 2021
-Doce Vingança 1 2010
-Doce Vingança 2 2014
-Dose Dupla 2013
-Dupla Explosiva 2 2021
-Dupla Explosiva 2017
-Dupla Implacavel 2010
-Duro De Matar 1 1988
-Duro De Matar 2 1990
-Duro De Matar 3 1995
-Duro De Matar 4 2007
-Duro De Matar 5 2013
-Efeito Colateral 2002
-Em Busca De Vinganca 2015
-Encontro Explosivo 2010
-Encurralados 2016
-Esquadrão 6 2019
-Esquadrão Classe A 2010
-Favela 2017
-Feito Na América 2017
-Fique Rico Ou Morra Tentando 2005
-Free Fire O Tiroteio 2016
-Fuga De Pretoria 2020
-Fúria 2014
-Fúria Incontrolável 2021
-G I  Joe Origens  Snake Eyes 2021
-Ghostland  Terra Sem Lei 2021
-Golpe De Risco 2019
-Gran Torino 2008
-Grande Hotel Budapeste 2014
-Guerra Mundial Z 2013
-Herança De Sangue 2016
-Hérois 2009
-Hitman 1 47 2007
-Hitman 2 47 2015
-Hora Das Consequências 2017
-Hotel Artemis 2018
-Imperdoavel 2021
-Implacável 2019
-Infiltrado 2021
-Instinto Predador 2019
-Interestelar 2014
-Invasão A Casa Branca 2013
-Invasão A Londres 2016
-Invasao Ao Servico Secreto 2020
-Jack Reacher 1 2012
-Jack Reacher 2 2017
-Jason Bourne 2016
-Jet Li O Beijo Do Dragão 2001
-Jogo Perigoso 2021
-John Wick 1 2014
-John Wick 2 2017
-John Wick 3 2019
-John Wick: De Volta ao Jogo 2014
-Jolt  Fúria Fatal 2021
-Justiça Brutal 2021
-Ladrões 2010
-Legado De Mentiras 2020
-Legado Explosivo 2021
-Line Walker 2 Espião Invisível 2019
-Linha De Ação 2013
-Linha De Frente 2014
-Lobo Guerreiro 1 2018
-Lobo Guerreiro 2 2018
-Looper: Assassinos do Futuro 2012
-Los Angeles Fuga 1996
-Loucos E Perigosos 2017
-Loucos Por Justiça 2021
-Mad Max 1 1979
-Mad Max 2 1981
-Mad Max 3 1985
-Mad Max 4 2015
-Major Grom Contra O Dr Peste 2021
-Mandando Bala 2008
-Máquina Mortífera 1 1987
-Máquina Mortífera 2 1989
-Máquina Mortífera 3 1992
-Máquina Mortífera 4 1998
-Mate Ou Morra 2021
-Matrix 1999
-Matrix Reloaded 2003
-Matrix Revolutions 2003
-Mc Quade O Lobo Solitário 1983
-Meia Noite No Switchgrass 2021
-Minority Report A Nova Lei 2002
-Missão Babilônia 2008
-Missão Impossivel 1 1996
-Missão Impossivel 2 2000
-Missão Impossivel 3 2006
-Missão Impossivel 4 2011
-Missão Impossivel 5 2015
-Missao Impossivel 6 2018 
-Missão No Mar Vermelho 2019
-Mortal 2021
-Na Corda Bamba 2019
-Na Mira Do Perigo 2021
-Na Rota Do Tráfico 2020
-Nada Santo 2019
-Náufrago 2000
-No Corredor Da Morte 2002
-No Corredor Da Morte 2016
-Noite Sem Fim 2015
-November man 2015
-O 6º Dia 2000
-O Alvo 2 2016
-O Ataque 2013
-O Atirador O Fim De Um Assassino 2021
-O Carma De Um Assassino 2018
-O Cobrador De Dividas 2 2020
-O Código 2012
-O Contador 2016
-O Demolidor 1994
-O Duelo Final 2019
-O Exterminador Do Futuro 2 1991
-O Exterminador Do Futuro 3 2003
-O Exterminador Do Futuro 4 2009
-O Exterminador Do Futuro 5 2015
-O Exterminador Do Futuro 6 2020
-O Gangster 2007
-O Grande Herói 2013
 
+#EXTINF:-1 tvg-id="T01E01" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E01
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E01.mkv
 
+#EXTINF:-1 tvg-id="T01E02" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E02
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E02.mkv
 
+#EXTINF:-1 tvg-id="T01E03" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E03
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E03.mkv
+
+#EXTINF:-1 tvg-id="T01E04" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E05
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E04.mkv
+
+#EXTINF:-1 tvg-id="T01E05" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E05
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E05.mkv
+
+#EXTINF:-1 tvg-id="T01E06" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E06
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E06.mkv
+
+#EXTINF:-1 tvg-id="T01E07" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E07
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E07.mkv
+
+#EXTINF:-1 tvg-id="T01E08" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E08
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E08.mkv
+
+#EXTINF:-1 tvg-id="T01E09" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E09
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E09.mkv
+
+#EXTINF:-1 tvg-id="T01E10" tvg-name="9-1-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg" group-title="9-1-1 (2018)",T01E10
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E10.mkv
 
