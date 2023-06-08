@@ -2,25 +2,314 @@
 
 ####################################################
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV LIBERAL HD (BELEM)" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO TV LIBERAL HD (BELEM)
-http://meuplay.shop:80/150657845528/254658986506/365
+#EXTINF:-1 tvg-id="Globo Belem HD" tvg-name="Globo Belem HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO BELEM HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72893
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
-http://meuplay.shop:80/150657845528/254658986506/715
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="EPTV Campinas" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",EPTV CAMPINAS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/40248
+#EXTINF:-1 tvg-id="EPTV Campinas HD" tvg-name="EPTV Campinas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",EPTV CAMPINAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42952
+#EXTINF:-1 tvg-id="EPTV Central" tvg-name="EPTV Central" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",EPTV CENTRAL
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75169
+#EXTINF:-1 tvg-id="EPTV Ribeirão" tvg-name="EPTV Ribeirão" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",EPTV RIBEIRÃO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/40514
+#EXTINF:-1 tvg-id="EPTV Ribeirão HD" tvg-name="EPTV Ribeirão HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",EPTV RIBEIRÃO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38640
+#EXTINF:-1 tvg-id="EPTV Sul de Minas" tvg-name="EPTV Sul de Minas" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",EPTV SUL DE MINAS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73063
+#EXTINF:-1 tvg-id="EPTV Sul de Minas HD" tvg-name="EPTV Sul de Minas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",EPTV SUL DE MINAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73062
+#EXTINF:-1 tvg-id="Globo Amazonas HD" tvg-name="Globo Amazonas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO AMAZONAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/64649
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="Globo Anhanguera" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO ANHANGUERA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38966
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD H265
-http://meuplay.shop:80/150657845528/254658986506/714
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="CANAIS | GLOBO",GLOBO SP HD
-http://meuplay.shop:80/150657845528/254658986506/741
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD " tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP SD 
-http://meuplay.shop:80/150657845528/254658986506/492
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD
-http://meuplay.shop:80/150657845528/254658986506/362
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ H265" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="CANAIS | GLOBO",GLOBO RJ H265
-http://meuplay.shop:80/150657845528/254658986506/76673
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
-http://meuplay.shop:80/150657845528/254658986506/335
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
+#EXTINF:-1 tvg-id="Globo Belo Horizonte" tvg-name="Globo Belo Horizonte" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO BELO HORIZONTE
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72891
+#EXTINF:-1 tvg-id="Globo Belo Horizonte HD" tvg-name="Globo Belo Horizonte HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO BELO HORIZONTE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72815
+#EXTINF:-1 tvg-id="Globo Ceará" tvg-name="Globo Ceará" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO CEARÁ
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/71675
+#EXTINF:-1 tvg-id="0" tvg-name="Globo EPTV São Carlos" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO EPTV SÃO CARLOS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42955
+#EXTINF:-1 tvg-id="GLOBO EPTV SAO CARLOS HD" tvg-name="GLOBO EPTV SAO CARLOS HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO EPTV SAO CARLOS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75474
+#EXTINF:-1 tvg-id="Globo Goiânia" tvg-name="Globo Goiânia" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO GOIÂNIA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/71664
+#EXTINF:-1 tvg-id="Globo Goiânia HD" tvg-name="Globo Goiânia HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO GOIÂNIA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/64651
+#EXTINF:-1 tvg-id="0" tvg-name="Globo Inter TV Natal" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO INTER TV NATAL
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42956
+#EXTINF:-1 tvg-id="Globo Juazeiro Bahia HD" tvg-name="Globo Juazeiro Bahia HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO JUAZEIRO BAHIA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80364
+#EXTINF:-1 tvg-id="Globo Mato Grosso HD" tvg-name="Globo Mato Grosso HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO MATO GROSSO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63727
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO MINAS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/40250
+#EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="Globo Minas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO MINAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/40251
+#EXTINF:-1 tvg-id="Globo NSC TV Santa Catarina HD" tvg-name="Globo NSC TV Santa Catarina HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO NSC TV SANTA CATARINA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65270
+#EXTINF:-1 tvg-id="0" tvg-name="Globo Paraná HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO PARANÁ HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51309
+#EXTINF:-1 tvg-id="Globo Recife HD" tvg-name="Globo Recife HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO RECIFE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/64653
+#EXTINF:-1 tvg-id="Globo Rede Amazonica" tvg-name="Globo Rede Amazonica" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO REDE AMAZONICA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63414
+#EXTINF:-1 tvg-id="RPC Parana HD" tvg-name="Globo RPC Parana HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO RPC PARANA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63695
+#EXTINF:-1 tvg-id="Globo Salvador" tvg-name="Globo Salvador" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO SALVADOR
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72888
+#EXTINF:-1 tvg-id="Globo Salvador HD" tvg-name="Globo Salvador HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO SALVADOR HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72889
+#EXTINF:-1 tvg-id="Globo TV Amazônica" tvg-name="Globo TV Amazônica" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV AMAZÔNICA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63631
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Amazônica HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV AMAZÔNICA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51310
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Anhanguera" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV ANHANGUERA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42962
+#EXTINF:-1 tvg-id="Globo TV Anhanguera Anápolis HD" tvg-name="Globo TV Anhanguera Anápolis HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV ANHANGUERA ANÁPOLIS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82744
+#EXTINF:-1 tvg-id="Globo TV Anhanguera Catalão HD" tvg-name="Globo TV Anhanguera Catalão HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV ANHANGUERA CATALÃO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82742
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="Globo TV Anhanguera HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV ANHANGUERA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38967
+#EXTINF:-1 tvg-id="Globo TV Anhanguera Itumbiara HD" tvg-name="Globo TV Anhanguera Itumbiara HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV ANHANGUERA ITUMBIARA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82740
+#EXTINF:-1 tvg-id="Globo TV Asa Branca" tvg-name="Globo TV Asa Branca" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV ASA BRANCA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73098
+#EXTINF:-1 tvg-id="Globo TV Asa Branca HD" tvg-name="Globo TV Asa Branca HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV ASA BRANCA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73097
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Cabo Branco" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV CABO BRANCO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52546
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Cabo Branco HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV CABO BRANCO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52545
+#EXTINF:-1 tvg-id="GLOBO TV CENTRO AMERICA CUIABA HD" tvg-name="GLOBO TV CENTRO AMERICA CUIABA HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV CENTRO AMERICA CUIABA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75487
+#EXTINF:-1 tvg-id="Globo TV Clube Piaui" tvg-name="Globo TV Clube Piaui" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV CLUBE PIAUI
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73038
+#EXTINF:-1 tvg-id="Globo TV Clube Piaui HD" tvg-name="Globo TV Clube Piaui HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV CLUBE PIAUI HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65269
+#EXTINF:-1 tvg-id="Globo TV Diário Mogi das Cruzes" tvg-name="Globo TV Diário Mogi das Cruzes" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV DIÁRIO MOGI DAS CRUZES
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73450
+#EXTINF:-1 tvg-id="Globo TV Diário Mogi das Cruzes HD" tvg-name="Globo TV Diário Mogi das Cruzes HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV DIÁRIO MOGI DAS CRUZES HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73449
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV GAZETA ALAGOAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42996
+#EXTINF:-1 tvg-id="Globo TV Gazeta Sul ES" tvg-name="Globo TV Gazeta Sul ES" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV GAZETA SUL ES
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63686
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV GAZETA SUL ES HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42998
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Vitória" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV GAZETA VITÓRIA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42978
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV GAZETA VITÓRIA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42980
+#EXTINF:-1 tvg-id="Globo TV Integração Araxa" tvg-name="Globo TV Integração Araxa" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV INTEGRAÇÃO ARAXA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73066
+#EXTINF:-1 tvg-id="Globo TV Integração Araxa HD" tvg-name="Globo TV Integração Araxa HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV INTEGRAÇÃO ARAXA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73065
+#EXTINF:-1 tvg-id="Globo TV Integração Divinópolis HD" tvg-name="Globo TV Integração Divinópolis HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV INTEGRAÇÃO DIVINÓPOLIS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82746
+#EXTINF:-1 tvg-id="Globo TV Integração Juiz de Fora" tvg-name="Globo TV Integração Juiz de Fora" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV INTEGRAÇÃO JUIZ DE FORA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73069
+#EXTINF:-1 tvg-id="Globo TV Integração Juiz de Fora HD" tvg-name="Globo TV Integração Juiz de Fora HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73068
+#EXTINF:-1 tvg-id="Globo TV Integração Uberaba" tvg-name="Globo TV Integração Uberaba" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV INTEGRAÇÃO UBERABA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74961
+#EXTINF:-1 tvg-id="GLOBO TV INTEGRACAO UBERABA HD" tvg-name="Globo TV Integração Uberaba HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV INTEGRAÇÃO UBERABA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75484
+#EXTINF:-1 tvg-id="Globo TV Integração Uberlandia" tvg-name="Globo TV Integração Uberlandia" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV INTEGRAÇÃO UBERLANDIA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73230
+#EXTINF:-1 tvg-id="Globo TV Integração Uberlandia HD" tvg-name="Globo TV Integração Uberlandia HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV INTEGRAÇÃO UBERLANDIA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73231
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Liberal Belem" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV LIBERAL BELEM
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42964
+#EXTINF:-1 tvg-id="Globo TV Liberal Belem HD" tvg-name="Globo TV Liberal Belem HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV LIBERAL BELEM HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63654
+#EXTINF:-1 tvg-id="GLOBO TV MIRANTE COCAIS" tvg-name="GLOBO TV MIRANTE COCAIS" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV MIRANTE COCAIS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75483
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Mirante São Luis" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV MIRANTE SÃO LUIS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42990
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Mirante São Luis HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV MIRANTE SÃO LUIS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42989
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Morena Campo Grande" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV MORENA CAMPO GRANDE
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42992
+#EXTINF:-1 tvg-id="Globo TV Morena Campo Grande HD" tvg-name="Globo TV Morena Campo Grande HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV MORENA CAMPO GRANDE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63655
+#EXTINF:-1 tvg-id="GLOBO TV REDE AMAZONICA MACAPA HD" tvg-name="GLOBO TV REDE AMAZONICA MACAPA HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV REDE AMAZONICA MACAPA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75479
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Rio Sul" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV RIO SUL
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52549
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Rio Sul HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV RIO SUL HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52548
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Santa Cruz" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV SANTA CRUZ
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52565
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Santa Cruz HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV SANTA CRUZ HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52564
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Sergipe" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV SERGIPE
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42908
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Sergipe HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV SERGIPE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42982
+#EXTINF:-1 tvg-id="Globo TV Subae Globo Bahia" tvg-name="Globo TV Subae Globo Bahia" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV SUBAE GLOBO BAHIA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74959
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Subae Globo Bahia HD " tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV SUBAE GLOBO BAHIA HD 
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/57804
+#EXTINF:-1 tvg-id="GLOBO TV SUDOESTE HD" tvg-name="GLOBO TV SUDOESTE HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV SUDOESTE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75485
+#EXTINF:-1 tvg-id="Globo TV TEM Itapetininga" tvg-name="Globo TV TEM Itapetininga" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV TEM ITAPETININGA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73227
+#EXTINF:-1 tvg-id="Globo TV TEM Itapetininga HD" tvg-name="Globo TV TEM Itapetininga HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV TEM ITAPETININGA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73228
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV TEM São José do Rio Preto" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/40516
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV TEM São José do Rio Preto HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/40515
+#EXTINF:-1 tvg-id="GLOBO TV TEM SOROCABA HD" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV TEM SOROCABA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75476
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Tribuna Santos" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV TRIBUNA SANTOS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42966
+#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA SANTOS HD" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV TRIBUNA SANTOS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75477
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Vanguarda S. J. dos Campos" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV VANGUARDA S. J. DOS CAMPOS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42967
+#EXTINF:-1 tvg-id="Globo TV Vanguarda S. J. dos Campos HD" tvg-name="Globo TV Vanguarda S. J. dos Campos HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV VANGUARDA S. J. DOS CAMPOS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74666
+#EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate" tvg-name="Globo TV Vanguarda Taubate" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV VANGUARDA TAUBATE
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73221
+#EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate HD" tvg-name="Globo TV Vanguarda Taubate HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV VANGUARDA TAUBATE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73222
+#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES CARIRI HD" tvg-name="GLOBO TV VERDES MARES CARIRI HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV VERDES MARES CARIRI HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75478
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Verdes Mares Fortaleza" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV VERDES MARES FORTALEZA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/56908
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV VERDES MARES FORTALEZA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61976
+#EXTINF:-1 tvg-id="Inter TV Alto Litoral" tvg-name="Inter TV Alto Litoral" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",INTER TV ALTO LITORAL
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63724
+#EXTINF:-1 tvg-id="Inter TV Alto Litoral HD" tvg-name="Inter TV Alto Litoral HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",INTER TV ALTO LITORAL HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52592
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="Inter TV Cabugi" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",INTER TV CABUGI
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63405
+#EXTINF:-1 tvg-id="Inter TV Cabugi HD" tvg-name="Inter TV Cabugi HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",INTER TV CABUGI HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74953
+#EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="Inter TV dos Vales" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",INTER TV DOS VALES
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52578
+#EXTINF:-1 tvg-id="Inter TV dos Vales HD" tvg-name="Inter TV dos Vales HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",INTER TV DOS VALES HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52587
+#EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-name="Inter TV Grande Minas" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",INTER TV GRANDE MINAS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52575
+#EXTINF:-1 tvg-id="Inter TV Grande Minas HD" tvg-name="Inter TV Grande Minas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",INTER TV GRANDE MINAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52576
+#EXTINF:-1 tvg-id="Inter TV Serra Mar" tvg-name="Inter TV Serra Mar" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",INTER TV SERRA MAR
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52572
+#EXTINF:-1 tvg-id="Inter TV Serra Mar HD" tvg-name="Inter TV Serra Mar HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",INTER TV SERRA MAR HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52573
+#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-name="NSC TV Blumenau" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV BLUMENAU
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52571
+#EXTINF:-1 tvg-id="NSC TV Blumenau HD" tvg-name="NSC TV Blumenau HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV BLUMENAU HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52570
+#EXTINF:-1 tvg-id="NSC TV Centro Oeste" tvg-name="NSC TV Centro Oeste" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV CENTRO OESTE
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73088
+#EXTINF:-1 tvg-id="NSC TV Centro Oeste HD" tvg-name="NSC TV Centro Oeste HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV CENTRO OESTE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73087
+#EXTINF:-1 tvg-id="NSC TV Chapecó" tvg-name="NSC TV Chapecó" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV CHAPECÓ
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42971
+#EXTINF:-1 tvg-id="NSC TV Chapecó HD" tvg-name="NSC TV Chapecó HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV CHAPECÓ HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42970
+#EXTINF:-1 tvg-id="NSC TV Criciúma" tvg-name="NSC TV Criciúma" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV CRICIÚMA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73085
+#EXTINF:-1 tvg-id="NSC TV Criciúma HD" tvg-name="NSC TV Criciúma HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV CRICIÚMA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73071
+#EXTINF:-1 tvg-id="NSC TV Florianópolis" tvg-name="NSC TV Florianópolis" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV FLORIANÓPOLIS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38641
+#EXTINF:-1 tvg-id="NSC TV Florianópolis HD" tvg-name="NSC TV Florianópolis HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV FLORIANÓPOLIS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42958
+#EXTINF:-1 tvg-id="NSC TV Joinville" tvg-name="NSC TV Joinville" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV JOINVILLE
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52540
+#EXTINF:-1 tvg-id="NSC TV Joinville HD" tvg-name="NSC TV Joinville HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",NSC TV JOINVILLE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52539
+#EXTINF:-1 tvg-id="RBS TV Caxias" tvg-name="RBS TV Caxias" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RBS TV CAXIAS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52568
+#EXTINF:-1 tvg-id="RBS TV Caxias HD" tvg-name="RBS TV Caxias HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RBS TV CAXIAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52567
+#EXTINF:-1 tvg-id="RBS TV Passo Fundo" tvg-name="RBS TV Passo Fundo" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RBS TV PASSO FUNDO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74965
+#EXTINF:-1 tvg-id="RBS TV Passo Fundo HD" tvg-name="RBS TV Passo Fundo HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RBS TV PASSO FUNDO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75231
+#EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-name="RBS TV Pelotas" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RBS TV PELOTAS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52543
+#EXTINF:-1 tvg-id="RBS TV Pelotas HD" tvg-name="RBS TV Pelotas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RBS TV PELOTAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52542
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RBS TV PORTO ALEGRE
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42959
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD" tvg-name="RBS TV Porto Alegre HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RBS TV PORTO ALEGRE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/40252
+#EXTINF:-1 tvg-id="RBS TV Santa Maria" tvg-name="RBS TV Santa Maria" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RBS TV SANTA MARIA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73102
+#EXTINF:-1 tvg-id="RBS TV Santa Maria HD" tvg-name="RBS TV Santa Maria HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RBS TV SANTA MARIA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73101
+#EXTINF:-1 tvg-id="Rede Amazônica Boa Vista" tvg-name="Rede Amazônica Boa Vista" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",REDE AMAZÔNICA BOA VISTA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73235
+#EXTINF:-1 tvg-id="Rede Amazônica Boa Vista HD" tvg-name="Rede Amazônica Boa Vista HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",REDE AMAZÔNICA BOA VISTA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/64650
+#EXTINF:-1 tvg-id="Rede Amazônica Manaus" tvg-name="Rede Amazônica Manaus" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",REDE AMAZÔNICA MANAUS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42960
+#EXTINF:-1 tvg-id="Rede Amazônica Manaus HD" tvg-name="Rede Amazônica Manaus HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",REDE AMAZÔNICA MANAUS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72911
+#EXTINF:-1 tvg-id="Rede Amazônica Porto Velho" tvg-name="Rede Amazônica Porto Velho" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",REDE AMAZÔNICA PORTO VELHO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73233
+#EXTINF:-1 tvg-id="Rede Amazônica Porto Velho HD" tvg-name="Rede Amazônica Porto Velho HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",REDE AMAZÔNICA PORTO VELHO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63213
+#EXTINF:-1 tvg-id="Rede Amazônica Rio Branco" tvg-name="Rede Amazônica Rio Branco" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",REDE AMAZÔNICA RIO BRANCO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73452
+#EXTINF:-1 tvg-id="Rede Amazônica Rio Branco HD" tvg-name="Rede Amazônica Rio Branco HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",REDE AMAZÔNICA RIO BRANCO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63212
+#EXTINF:-1 tvg-id="RPC Cascavel" tvg-name="RPC Cascavel" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC CASCAVEL
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74967
+#EXTINF:-1 tvg-id="GLOBO RPC CASCAVEL HD" tvg-name="RPC Cascavel HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC CASCAVEL HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75482
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="RPC Curitiba" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC CURITIBA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37366
+#EXTINF:-1 tvg-id="RPC Curitiba HD" tvg-name="RPC Curitiba HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC CURITIBA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42961
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="RPC Foz do Iguaçu" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC FOZ DO IGUAÇU
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42972
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="RPC Foz do Iguaçu HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC FOZ DO IGUAÇU HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42974
+#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="RPC Maringá" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC MARINGÁ
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63273
+#EXTINF:-1 tvg-id="RPC Maringá HD" tvg-name="RPC Maringá HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC MARINGÁ HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63274
+#EXTINF:-1 tvg-id="RPC Ponta Grossa" tvg-name="RPC Ponta Grossa" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC PONTA GROSSA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73092
+#EXTINF:-1 tvg-id="RPC Ponta Grossa HD" tvg-name="RPC Ponta Grossa HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC PONTA GROSSA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73091
+#EXTINF:-1 tvg-id="RPC TV Paranavaí" tvg-name="RPC TV Paranavaí" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC TV PARANAVAÍ
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73095
+#EXTINF:-1 tvg-id="RPC TV Paranavaí HD" tvg-name="RPC TV Paranavaí HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",RPC TV PARANAVAÍ HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73094
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="TV Bahia" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",TV BAHIA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61974
+#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="TV Bahia HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",TV BAHIA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37096
+#EXTINF:-1 tvg-id="TV Fronteira Paulista" tvg-name="TV Fronteira Paulista" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",TV FRONTEIRA PAULISTA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75165
+#EXTINF:-1 tvg-id="TV Mirante Cocais" tvg-name="TV Mirante Cocais" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",TV MIRANTE COCAIS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74963
+#EXTINF:-1 tvg-id="TV Paraíba HD" tvg-name="TV Paraíba HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",TV PARAÍBA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/64602
+#EXTINF:-1 tvg-id="GLOBO TV REDE AMAZONICA MACAPA" tvg-name="TV REDE AMAZONICA MACAPA" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",TV REDE AMAZONICA MACAPA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75480
+#EXTINF:-1 tvg-id="TV Sudoeste" tvg-name="TV Sudoeste" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",TV SUDOESTE
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74957
+#EXTINF:-1 tvg-id="TV TEM Bauru HD" tvg-name="TV TEM Bauru HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",TV TEM BAURU HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81021
+#EXTINF:-1 tvg-id="TV TEM Itapetinga" tvg-name="TV TEM Itapetinga" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",TV TEM ITAPETINGA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75167
+#EXTINF:-1 tvg-id="TV Verdes Mares Cariri" tvg-name="TV Verdes Mares Cariri" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",TV VERDES MARES CARIRI
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74971
+
+########################################################################################
 
 #EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="variedades",TV GRÃO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
@@ -28,58 +317,6 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b8281ee455e4e5680d7c1ba9554ddb1f.webp" group-title="variedades",Tv Guarajá - SBT
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="RECORD BELEM SD" tvg-logo="http://ccdnblck.xyz:80/images/b23c658b46fae6ef8e694cd4983d8e3e.png" group-title="CANAIS | RECORD",RECORD BELEM SD
-http://meuplay.shop:80/150657845528/254658986506/570
-
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP FHD" tvg-logo="http://ccdnblck.xyz:80/images/b23c658b46fae6ef8e694cd4983d8e3e.png" group-title="CANAIS | RECORD",RECORD TV SP FHD
-http://meuplay.shop:80/150657845528/254658986506/727
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP HD" tvg-logo="http://ccdnblck.xyz:80/images/b23c658b46fae6ef8e694cd4983d8e3e.png" group-title="CANAIS | RECORD",RECORD TV SP HD
-http://meuplay.shop:80/150657845528/254658986506/726
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP SD" tvg-logo="http://ccdnblck.xyz:80/images/b23c658b46fae6ef8e694cd4983d8e3e.png" group-title="CANAIS | RECORD",RECORD TV SP SD
-http://meuplay.shop:80/150657845528/254658986506/534
-#EXTINF:-1 tvg-id="Recordrio.br" tvg-name="RECORD TV RJ HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV RJ HD
-http://meuplay.shop:80/150657845528/254658986506/345
-#EXTINF:-1 tvg-id="Recordrio.br" tvg-name="RECORD TV RJ SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV RJ SD
-http://meuplay.shop:80/150657845528/254658986506/76666
-#EXTINF:-1 tvg-id="Recordsalvador.br" tvg-name="RECORD TV BAHIA HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV BAHIA HD
-http://meuplay.shop:80/150657845528/254658986506/151
-#EXTINF:-1 tvg-id="Recordsalvador.br" tvg-name="RECORD TV BAHIA SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV BAHIA SD
-http://meuplay.shop:80/150657845528/254658986506/598
-#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RECORD TV BELEM HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV BELEM HD
-http://meuplay.shop:80/150657845528/254658986506/342
-#EXTINF:-1 tvg-id="Recordsalvador.br" tvg-name="RECORD TV BELEM SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV BELEM SD
-http://meuplay.shop:80/150657845528/254658986506/76669
-#EXTINF:-1 tvg-id="Recorddf.br" tvg-name="RECORD TV BRASILIA FHD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV BRASILIA FHD
-http://meuplay.shop:80/150657845528/254658986506/338
-#EXTINF:-1 tvg-id="Recorddf.br" tvg-name="RECORD TV BRASILIA SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV BRASILIA SD
-http://meuplay.shop:80/150657845528/254658986506/76663
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV CAMPINAS FHD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV CAMPINAS FHD
-http://meuplay.shop:80/150657845528/254658986506/387
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV CAMPINAS HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV CAMPINAS HD
-http://meuplay.shop:80/150657845528/254658986506/354
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV GOIANIA FHD H265" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV GOIANIA FHD H265
-http://meuplay.shop:80/150657845528/254658986506/280
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV GOIANIA HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV GOIANIA HD
-http://meuplay.shop:80/150657845528/254658986506/68
-#EXTINF:-1 tvg-id="0" tvg-name="RECORD TV GOIANIA SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV GOIANIA SD
-http://meuplay.shop:80/150657845528/254658986506/76664
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV MANAUS HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV MANAUS HD
-http://meuplay.shop:80/150657845528/254658986506/371
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV MANAUS SD" tvg-logo="http://ccdnblck.xyz:80/images/b23c658b46fae6ef8e694cd4983d8e3e.png" group-title="CANAIS | RECORD",RECORD TV MANAUS SD
-http://meuplay.shop:80/150657845528/254658986506/76665
-#EXTINF:-1 tvg-id="Recordminas.br" tvg-name="RECORD TV MINAS FHD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV MINAS FHD
-http://meuplay.shop:80/150657845528/254658986506/112
-#EXTINF:-1 tvg-id="Recordminas.br" tvg-name="RECORD TV MINAS HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV MINAS HD
-http://meuplay.shop:80/150657845528/254658986506/344
-#EXTINF:-1 tvg-id="Recordminas.br" tvg-name="RECORD TV MINAS SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV MINAS SD
-http://meuplay.shop:80/150657845528/254658986506/312
-#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="RECORD TV PARANAIBA MG HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV PARANAIBA MG HD
-http://meuplay.shop:80/150657845528/254658986506/351
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV PARANÁ FHD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV PARANÁ FHD
-http://meuplay.shop:80/150657845528/254658986506/398
-#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORD TV PARANÁ HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV PARANÁ HD
-http://meuplay.shop:80/150657845528/254658986506/360
 
 
 #EXTINF:-1 tvg-id="TV Vila Real (Record MT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/08bb2dcf3ec4ceeb988d9a6b19270047.webp" group-title="variedades",TV Vila Real (Record MT)
@@ -108,7 +345,81 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Curuai Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/359e181812362a0eb2598ccb19c0b233.webp" group-title="variedades",Tv Curuai Web
 https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8
 
+###############################################################################
 
+#EXTINF:-1 tvg-id="ILHA RECORD HD" tvg-name="ILHA RECORD HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",ILHA RECORD HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89316
+#EXTINF:-1 tvg-id="RECORD MARANHAO" tvg-name="RECORD MARANHAO" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORD MARANHAO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86994
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37051
+#EXTINF:-1 tvg-id="RecordTV Bahia" tvg-name="RecordTV Bahia" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV BAHIA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63722
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Bahia HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV BAHIA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42624
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RecordTV Belém" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV BELÉM
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63716
+#EXTINF:-1 tvg-id="RecordTV Belém HD" tvg-name="RecordTV Belém HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV BELÉM HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/57811
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Campinas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV CAMPINAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62998
+#EXTINF:-1 tvg-id="RecordTV Goias" tvg-name="RecordTV Goias" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV GOIAS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63717
+#EXTINF:-1 tvg-id="RecordTV Goias HD" tvg-name="RecordTV Goias HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV GOIAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63718
+#EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36947
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Litoral Santos HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV LITORAL SANTOS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/57806
+#EXTINF:-1 tvg-id="RecordTV Manaus HD" tvg-name="RecordTV Manaus HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV MANAUS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/66612
+#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RecordTV Minas " tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV MINAS 
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41362
+#EXTINF:-1 tvg-id="RecordTV Minas HD" tvg-name="RecordTV Minas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV MINAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62089
+#EXTINF:-1 tvg-id="RecordTV Pará HD" tvg-name="RecordTV Pará HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV PARÁ HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/64656
+#EXTINF:-1 tvg-id="RecordTV Paraná HD" tvg-name="RecordTV Paraná HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV PARANÁ HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63383
+#EXTINF:-1 tvg-id="RecordTV Rio" tvg-name="RecordTV Rio" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV RIO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42637
+#EXTINF:-1 tvg-id="RecordTV Rio HD" tvg-name="RecordTV Rio HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV RIO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63721
+#EXTINF:-1 tvg-id="RecordTV Rio Preto HD" tvg-name="RecordTV Rio Preto HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV RIO PRETO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/57812
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RecordTV RS" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV RS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62090
+#EXTINF:-1 tvg-id="RecordTV RS HD" tvg-name="RecordTV RS HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV RS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62987
+#EXTINF:-1 tvg-id="RecordTV Santa Catarina HD" tvg-name="RecordTV Santa Catarina HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV SANTA CATARINA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65271
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Sergipe HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV SERGIPE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/56898
+#EXTINF:-1 tvg-id="RecordTV Thathi Campinas HD" tvg-name="RecordTV Thathi Campinas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV THATHI CAMPINAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/77767
+#EXTINF:-1 tvg-id="0" tvg-name="TV CABRALIA RECORD BAHIA HD " tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",TV CABRALIA RECORD BAHIA HD 
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/57809
+
+#EXTINF:-1 tvg-id="Record News FHD" tvg-name="Record News FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORD NEWS FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41502
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Bahia FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV BAHIA FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42905
+#EXTINF:-1 tvg-id="RecordTV Correio FHD" tvg-name="RecordTV Correio FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV CORREIO FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80916
+#EXTINF:-1 tvg-id="RecordTV FHD" tvg-name="RecordTV FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38421
+#EXTINF:-1 tvg-id="RecordTV Minas FHD" tvg-name="RecordTV Minas FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV MINAS FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42904
+#EXTINF:-1 tvg-id="RecordTV Paraná FHD" tvg-name="RecordTV Paraná FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV PARANÁ FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80216
+#EXTINF:-1 tvg-id="RecordTV Paulista FHD" tvg-name="RecordTV Paulista FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV PAULISTA FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41516
+#EXTINF:-1 tvg-id="RecordTV Rio FHD" tvg-name="RecordTV Rio FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV RIO FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41521
+#EXTINF:-1 tvg-id="RecordTV RS FHD" tvg-name="RecordTV RS FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV RS FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42907
+#EXTINF:-1 tvg-id="RecordTV Thathi Campinas FHD" tvg-name="RecordTV Thathi Campinas FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV THATHI CAMPINAS FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/77768
 
 
 #EXTINF:-1 tvg-id="AgrobrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="variedades",Agrobrasil TV
@@ -332,8 +643,6 @@ https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTVRondonia.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="variedades", RedeTV! Tocantins 
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News"  tvg-logo="https://pbs.twimg.com/profile_images/1574594693714911232/Cyby7WtT_400x400.jpg" group-title="variedades", Record News - TV SIM ES
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CentralTV.br"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDJMvf5IZ5Ku23kpZrQFDRx2y9CRtqbapyA&usqp=CAU" group-title="variedades", Central TV HD
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w250641317.m3u8
@@ -960,6 +1269,17 @@ http://x90.live:80/valmir/654321/138102
 #EXTINF:-1 tvg-id="JP News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1e0Re1E3AAV4pyo0gqS4EStCpXjrSj5f4q9R6CDMrHSl4j90deXWXjUXY-5inpD43CsWn_vxBlqJqFJEEK5ejvQwDb-I3S9UitRoyZ69BNfWW7kunC5IGweOnGJaTOUQhAmpCDorgCOMtOB5IACTl8lmhtc4-klhGFpBV6Z0Cv27emojoRicWlxYz/s1600/jovempanews.jpg" group-title="jornalismo", JP NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News"  tvg-logo="https://pbs.twimg.com/profile_images/1574594693714911232/Cyby7WtT_400x400.jpg" group-title="variedades", Record News - TV SIM ES
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | NOTICIAS",RECORD NEWS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41529
+#EXTINF:-1 tvg-id="Record News HD" tvg-name="Record News HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | NOTICIAS",RECORD NEWS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37050
+
+#EXTINF:-1 tvg-id="0" tvg-name="RECORD NEWS [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ALTERNATIVOS",RECORD NEWS [ALT]
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51009
+
 
 
 #################################################################################
@@ -967,55 +1287,23 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-id="History FHD" tvg-name="History FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",HISTORY FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38383
 
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="Documentário",HISTORY HD
-http://meuplay.shop:80/1986029178598/910924846992/45
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="Documentário",HISTORY SD
-http://meuplay.shop:80/1986029178598/910924846992/584
-
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD " tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="Documentário",HISTORY FHD 
-http://meuplay.shop:80/1986029178598/910924846992/781
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY H265" tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="Documentário",HISTORY H265
-http://meuplay.shop:80/1986029178598/910924846992/255
 
 #EXTINF:-1 tvg-id="History 2 FHD" tvg-name="History 2 FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",HISTORY 2 FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41485
 
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 FHD " tvg-logo="https://imgur.com/8oMEs6u.png" group-title="Documentário",HISTORY 2 FHD 
-http://meuplay.shop:80/1986029178598/910924846992/806
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 H265" tvg-logo="https://imgur.com/8oMEs6u.png" group-title="Documentário",HISTORY 2 H265
-http://meuplay.shop:80/1986029178598/910924846992/256
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://imgur.com/8oMEs6u.png" group-title="Documentário",HISTORY 2 HD
-http://meuplay.shop:80/1986029178598/910924846992/44
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 SD" tvg-logo="https://imgur.com/8oMEs6u.png" group-title="Documentário",HISTORY 2 SD
-http://meuplay.shop:80/1986029178598/910924846992/500
+
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ANIMAL PLANET
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37128
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ANIMAL PLANET HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36992
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="Documentário",ANIMAL PLANET FHD
-http://meuplay.shop:80/1986029178598/910924846992/804
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET H265" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="Documentário",ANIMAL PLANET H265
-http://meuplay.shop:80/1986029178598/910924846992/212
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://ccdnblck.xyz:80/images/db8356a775d53e2a5d251cd48acaf23c.png" group-title="Documentário",ANIMAL PLANET HD
-http://meuplay.shop:80/1986029178598/910924846992/3
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="Documentário",ANIMAL PLANET SD
-http://meuplay.shop:80/1986029178598/910924846992/446
+
 
 #EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ID: INVESTIGAÇÃO DISCOVERY
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37114
 #EXTINF:-1 tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigação Discovery HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",ID: INVESTIGAÇÃO DISCOVERY HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
-
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD" tvg-logo="https://imgur.com/acAruWG.png" group-title="Documentário",NATGEO FHD
-http://meuplay.shop:80/1986029178598/910924846992/805
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO H265" tvg-logo="https://imgur.com/acAruWG.png" group-title="Documentário",NATGEO H265
-http://meuplay.shop:80/1986029178598/910924846992/266
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="https://imgur.com/acAruWG.png" group-title="Documentário",NATGEO HD
-http://meuplay.shop:80/1986029178598/910924846992/54
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO SD" tvg-logo="https://imgur.com/acAruWG.png" group-title="Documentário",NATGEO SD
-http://meuplay.shop:80/1986029178598/910924846992/514
 
 
 #EXTINF:-1 tvg-id="Conectv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/454924e01d06c3bc20131e8514187305.webp" group-title="Documentário",Conectv
@@ -1389,146 +1677,8 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81006
 
 
 
-#################################################################################
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS  | FILMES E SERIES",A&E FHD
-http://meuplay.shop:80/ykjplkds/ceswez51/851
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS  | FILMES E SERIES",A&E FHD H265
-http://meuplay.shop:80/ykjplkds/ceswez51/210
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS  | FILMES E SERIES",A&E HD
-http://meuplay.shop:80/ykjplkds/ceswez51/1
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS  | FILMES E SERIES",A&E SD
-http://meuplay.shop:80/ykjplkds/ceswez51/444
+################################################################################################
 
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS  | FILMES E SERIES",AMC FHD
-http://meuplay.shop:80/ykjplkds/ceswez51/840
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS  | FILMES E SERIES",AMC FHD H265
-http://meuplay.shop:80/ykjplkds/ceswez51/211
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS  | FILMES E SERIES",AMC HD
-http://meuplay.shop:80/ykjplkds/ceswez51/2
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS  | FILMES E SERIES",AMC SD
-http://meuplay.shop:80/ykjplkds/ceswez51/445
-
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD
-http://meuplay.shop:80/ykjplkds/ceswez51/835
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD H265
-http://meuplay.shop:80/ykjplkds/ceswez51/213
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN HD
-http://meuplay.shop:80/ykjplkds/ceswez51/4
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN SD
-http://meuplay.shop:80/ykjplkds/ceswez51/447
-
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY FHD
-http://meuplay.shop:80/ykjplkds/ceswez51/219
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY FHD H265
-http://meuplay.shop:80/ykjplkds/ceswez51/844
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY HD
-http://meuplay.shop:80/ykjplkds/ceswez51/7
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY SD
-http://meuplay.shop:80/ykjplkds/ceswez51/457
-
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CANAIS | CINE SKY",CINE SKY 1
-http://meuplay.shop:80/ykjplkds/ceswez51/686
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 2" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CANAIS | CINE SKY",CINE SKY 2
-http://meuplay.shop:80/ykjplkds/ceswez51/687
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CANAIS | CINE SKY",CINE SKY 3
-http://meuplay.shop:80/ykjplkds/ceswez51/688
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 4" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CANAIS | CINE SKY",CINE SKY 4
-http://meuplay.shop:80/ykjplkds/ceswez51/689
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 5" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CANAIS | CINE SKY",CINE SKY 5
-http://meuplay.shop:80/ykjplkds/ceswez51/690
-
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX FHD
-http://meuplay.shop:80/ykjplkds/ceswez51/841
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX FHD H265
-http://meuplay.shop:80/ykjplkds/ceswez51/221
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX HD
-http://meuplay.shop:80/ykjplkds/ceswez51/9
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX SD
-http://meuplay.shop:80/ykjplkds/ceswez51/460
-
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL FHD " tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FHD 
-http://meuplay.shop:80/ykjplkds/ceswez51/825
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL H265" tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL H265
-http://meuplay.shop:80/ykjplkds/ceswez51/232
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL HD
-http://meuplay.shop:80/ykjplkds/ceswez51/20
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL SD
-http://meuplay.shop:80/ykjplkds/ceswez51/3906
-
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD " tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 FHD 
-http://meuplay.shop:80/ykjplkds/ceswez51/793
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 H265" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 H265
-http://meuplay.shop:80/ykjplkds/ceswez51/254
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 HD
-http://meuplay.shop:80/ykjplkds/ceswez51/39
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 SD
-http://meuplay.shop:80/ykjplkds/ceswez51/499
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD " tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY FHD 
-http://meuplay.shop:80/ykjplkds/ceswez51/795
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY HD
-http://meuplay.shop:80/ykjplkds/ceswez51/40
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY SD
-http://meuplay.shop:80/ykjplkds/ceswez51/496
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO FHD
-http://meuplay.shop:80/ykjplkds/ceswez51/792
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO H265" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO H265
-http://meuplay.shop:80/ykjplkds/ceswez51/251
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO HD
-http://meuplay.shop:80/ykjplkds/ceswez51/41
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO SD
-http://meuplay.shop:80/ykjplkds/ceswez51/495
-#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 02" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 02
-http://meuplay.shop:80/ykjplkds/ceswez51/204
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 03
-http://meuplay.shop:80/ykjplkds/ceswez51/205
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 04
-http://meuplay.shop:80/ykjplkds/ceswez51/206
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 05
-http://meuplay.shop:80/ykjplkds/ceswez51/76696
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 06
-http://meuplay.shop:80/ykjplkds/ceswez51/76697
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 07" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 07
-http://meuplay.shop:80/ykjplkds/ceswez51/76698
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 08" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 08
-http://meuplay.shop:80/ykjplkds/ceswez51/76699
-#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 09" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 09
-http://meuplay.shop:80/ykjplkds/ceswez51/76700
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD " tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI FHD 
-http://meuplay.shop:80/ykjplkds/ceswez51/797
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI H265" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI H265
-http://meuplay.shop:80/ykjplkds/ceswez51/260
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI HD
-http://meuplay.shop:80/ykjplkds/ceswez51/48
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS FHD
-http://meuplay.shop:80/ykjplkds/ceswez51/794
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS H265" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS H265
-http://meuplay.shop:80/ykjplkds/ceswez51/252
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS HD
-http://meuplay.shop:80/ykjplkds/ceswez51/42
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS SD
-http://meuplay.shop:80/ykjplkds/ceswez51/497
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD " tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP FHD 
-http://meuplay.shop:80/ykjplkds/ceswez51/799
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP H265" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP H265
-http://meuplay.shop:80/ykjplkds/ceswez51/262
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP HD
-http://meuplay.shop:80/ykjplkds/ceswez51/50
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD
-http://meuplay.shop:80/ykjplkds/ceswez51/796
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE H265 " tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE H265 
-http://meuplay.shop:80/ykjplkds/ceswez51/253
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
-http://meuplay.shop:80/ykjplkds/ceswez51/43
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
-http://meuplay.shop:80/ykjplkds/ceswez51/498
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME FHD
-http://meuplay.shop:80/ykjplkds/ceswez51/798
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265 :" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME FHD H265 :
-http://meuplay.shop:80/ykjplkds/ceswez51/261
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME HD
-http://meuplay.shop:80/ykjplkds/ceswez51/49
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME SD
-http://meuplay.shop:80/ykjplkds/ceswez51/76662
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",A&E
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37130
@@ -5413,62 +5563,7 @@ https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E13.mp4
 #EXTINF:-1 tvg-id="T04E14 Sobreviventes" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/pBPGUjREqej3gYHHJy359rx3aiJ.jpg" group-title="9-1-1 (2018)",T04E14 Sobreviventes
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E14.mp4
 
-###########################################################################################
- 
-#EXTINF:-1 tvg-id="T05E01 Panico" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E01 Panico
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E01.mkv
 
-#EXTINF:-1 tvg-id="T05E02 Tempos Desesperados" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E02 Tempos Desesperados
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E02.mkv
-
-#EXTINF:-1 tvg-id="T05E03 Medidas Desesperadas" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E03 Medidas Desesperadas
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E03.mkv
-
-#EXTINF:-1 tvg-id="T05E04 Casa E Fora" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E04 Casa E Fora
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E04.mkv
-
-#EXTINF:-1 tvg-id="T05E05 Pressao Dos Colegas" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E05 Pressao Dos Colegas
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E05.mkv
-
-#EXTINF:-1 tvg-id="T05E06 Briga No Bloco De Celas 9-1-1" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E06 Briga No Bloco De Celas 9-1-1
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E06.mkv
-
-#EXTINF:-1 tvg-id="T05E07 Historias De Fantasma" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E07 Historias De Fantasma
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E07.mkv
-
-#EXTINF:-1 tvg-id="T05E08 Defender No Lugar" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E08 Defender No Lugar
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E08.mkv
-
-#EXTINF:-1 tvg-id="T05E09 Passado e Prologo" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E09 Passado e Prologo
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E09.mkv
-
-#EXTINF:-1 tvg-id="T05E10 Enrolado Em Vermelho" tvg-name="9-1-1 (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg" group-title="9-1-1 (2018)",T05E10 Enrolado Em Vermelho
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E10.mkv
-
-
-
-############################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E01
-http://meuplay.shop:80/series/150657845528/254658986506/1811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E02
-http://meuplay.shop:80/series/150657845528/254658986506/1812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E03
-http://meuplay.shop:80/series/150657845528/254658986506/1813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E04
-http://meuplay.shop:80/series/150657845528/254658986506/1814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E05
-http://meuplay.shop:80/series/150657845528/254658986506/1815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E06
-http://meuplay.shop:80/series/150657845528/254658986506/1816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E07
-http://meuplay.shop:80/series/150657845528/254658986506/1817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E08
-http://meuplay.shop:80/series/150657845528/254658986506/1818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E09
-http://meuplay.shop:80/series/150657845528/254658986506/1819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDNcixw9oNtGOtMdf239ULz3sk.jpg" group-title="Amores Roubados",S01 E10
-http://meuplay.shop:80/series/150657845528/254658986506/1820.mp4
 
 ########################################################################################
 
@@ -5514,198 +5609,6 @@ http://clienteworld.com:80/series/claud123/claud123/138781622.mp4
 http://clienteworld.com:80/series/claud123/claud123/138781623.mp4
 
 
-########################################################################################
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3KBrwAMylBY7YouVV5addeaQLO3.jpg" group-title="Arcanjo Renegado",S01 E01
-http://meuplay.shop:80/series/150657845528/254658986506/2026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dh6ZAyPBdxBKLVo1P2HYVGBRc3k.jpg" group-title="Arcanjo Renegado",S01 E02
-http://meuplay.shop:80/series/150657845528/254658986506/2027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6drousx7aSqj7OdmATAqYoCwCkj.jpg" group-title="Arcanjo Renegado",S01 E03
-http://meuplay.shop:80/series/150657845528/254658986506/2028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xjVVvJ6DPBeKrHbSZ9X4kRae4HR.jpg" group-title="Arcanjo Renegado",S01 E04
-http://meuplay.shop:80/series/150657845528/254658986506/2029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cQYGQLM1IgVvhrmyO4TTBHNXksn.jpg" group-title="Arcanjo Renegado",S01 E05
-http://meuplay.shop:80/series/150657845528/254658986506/2030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gAJeHGCt8TnXxrZUXnRPr6uK3rh.jpg" group-title="Arcanjo Renegado",S01 E06
-http://meuplay.shop:80/series/150657845528/254658986506/2031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/obkV5wAPG9n5AQkLm30Be8TStOy.jpg" group-title="Arcanjo Renegado",S01 E07
-http://meuplay.shop:80/series/150657845528/254658986506/2032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4aOxeuLrzQWojd0e5Wpx4IJa9Vw.jpg" group-title="Arcanjo Renegado",S01 E08
-http://meuplay.shop:80/series/150657845528/254658986506/2033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yvxwOcIOt83dQUpKn28PA2tb2j3.jpg" group-title="Arcanjo Renegado",S01 E09
-http://meuplay.shop:80/series/150657845528/254658986506/2034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlt9BzLMYPqt4EJbFq9bicsB7Do.jpg" group-title="Arcanjo Renegado",S01 E10
-http://meuplay.shop:80/series/150657845528/254658986506/2035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E01
-http://meuplay.shop:80/series/150657845528/254658986506/81894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E02
-http://meuplay.shop:80/series/150657845528/254658986506/81895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E03
-http://meuplay.shop:80/series/150657845528/254658986506/81896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E04
-http://meuplay.shop:80/series/150657845528/254658986506/81897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E05
-http://meuplay.shop:80/series/150657845528/254658986506/82033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E06
-http://meuplay.shop:80/series/150657845528/254658986506/82034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E07
-http://meuplay.shop:80/series/150657845528/254658986506/82245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E08
-http://meuplay.shop:80/series/150657845528/254658986506/82246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E09
-http://meuplay.shop:80/series/150657845528/254658986506/82247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Arcanjo Renegado",S02 E10
-http://meuplay.shop:80/series/150657845528/254658986506/82248.mp4
-
-############################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9P7wGED32fg7OKlmxLsHqCmgrcP.jpg" group-title="Aruanas",S01 E01
-http://meuplay.shop:80/series/150657845528/254658986506/2519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r7PLta5NJFR7VhDnyVkNHVlEGNv.jpg" group-title="Aruanas",S01 E02
-http://meuplay.shop:80/series/150657845528/254658986506/2520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1i84HwN5exwzHzNgVPdfKadZpRP.jpg" group-title="Aruanas",S01 E03
-http://meuplay.shop:80/series/150657845528/254658986506/2521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vUQvsLpXus4S1keyBCQxNw6rCV3.jpg" group-title="Aruanas",S01 E04
-http://meuplay.shop:80/series/150657845528/254658986506/2522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3DdmqvGhw43cezblnc35APcveBc.jpg" group-title="Aruanas",S01 E05
-http://meuplay.shop:80/series/150657845528/254658986506/2523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iNMeDsFd6q7C19glX3RUeQd7wvc.jpg" group-title="Aruanas",S01 E06
-http://meuplay.shop:80/series/150657845528/254658986506/2524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vqLQrNazUpbb7bDu61PkbBPchUe.jpg" group-title="Aruanas",S01 E07
-http://meuplay.shop:80/series/150657845528/254658986506/2525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t9LqOCLG5h6Vq9UryPhystBzxf6.jpg" group-title="Aruanas",S01 E08
-http://meuplay.shop:80/series/150657845528/254658986506/2526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wOP4YgayjPPjZUfm4sQUdwFWCqz.jpg" group-title="Aruanas",S01 E09
-http://meuplay.shop:80/series/150657845528/254658986506/2527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/griBR9a3NwaGeaK8j0oVxrsYbhM.jpg" group-title="Aruanas",S01 E10
-http://meuplay.shop:80/series/150657845528/254658986506/2528.mp4
-
-##########################################################################################
-#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oZZJ8MED2JHr2gvEE00OjJ8E2oq.jpg" group-title="A Cura",A Cura S01 E01
-http://meuplay.shop:80/series/ykjplkds/ceswez51/85028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/axuGmT2fd8xWjoSMamJ8Di2JJQR.jpg" group-title="A Cura",A Cura S01 E02
-http://meuplay.shop:80/series/ykjplkds/ceswez51/85029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i82A4oedk7Z3jT7fmz5q09gkMWR.jpg" group-title="A Cura",A Cura S01 E03
-http://meuplay.shop:80/series/ykjplkds/ceswez51/85030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvygpZqxVTQBu6UnbaAreY0KYtv.jpg" group-title="A Cura",A Cura S01 E04
-http://meuplay.shop:80/series/ykjplkds/ceswez51/85031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cwC2cpfuWOHexZRkiUSZw6JYRv5.jpg" group-title="A Cura",A Cura S01 E05
-http://meuplay.shop:80/series/ykjplkds/ceswez51/85032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3d9enSRObqqdQxyViFWIkiM2lgK.jpg" group-title="A Cura",A Cura S01 E06
-http://meuplay.shop:80/series/ykjplkds/ceswez51/85033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hhhBDCF32CUg2wwoTwdvYWH4pMJ.jpg" group-title="A Cura",A Cura S01 E07
-http://meuplay.shop:80/series/ykjplkds/ceswez51/85034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mQk1i6553S8cyudWrjLoeb2xqqt.jpg" group-title="A Cura",A Cura S01 E08
-http://meuplay.shop:80/series/ykjplkds/ceswez51/85035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cura S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gvifkjnp82XI0LrpHjWpN4ZEO60.jpg" group-title="A Cura",A Cura S01 E09
-http://meuplay.shop:80/series/ykjplkds/ceswez51/85036.mp4
-
-#########################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/71IyTmXRk0PnLtFnkZWUNdZvsAV.jpg" group-title="Motel Bates S01",S01 E01
-http://meuplay.shop:80/series/150657845528/254658986506/2724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b3w5TTxIHzkxpdUGtMqRxuQld5j.jpg" group-title="Motel Bates S01",S01 E02
-http://meuplay.shop:80/series/150657845528/254658986506/2725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mmRQjaHK7Pv7mnc8b6XHDigLERl.jpg" group-title="Motel Bates S01",S01 E03
-http://meuplay.shop:80/series/150657845528/254658986506/2726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eMNQfHQvQLzgp7I1sDVM8YjMrrq.jpg" group-title="Motel Bates S01",S01 E04
-http://meuplay.shop:80/series/150657845528/254658986506/2727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xvf97mj5htw7mMh0C8ASVGJqIxC.jpg" group-title="Motel Bates S01",S01 E05
-http://meuplay.shop:80/series/150657845528/254658986506/2728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wG3tb5qnid9Fg8isBxkfVns8K8X.jpg" group-title="Motel Bates S01",S01 E06
-http://meuplay.shop:80/series/150657845528/254658986506/2729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w694X9YyFPyZ78U9nQsNM33pbWE.jpg" group-title="Motel Bates S01",S01 E07
-http://meuplay.shop:80/series/150657845528/254658986506/2730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8FDmzLHcH3kSygIBi8KMsvRVoG.jpg" group-title="Motel Bates S01",S01 E08
-http://meuplay.shop:80/series/150657845528/254658986506/2731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/toTlAShnyT7s6Xes4DXN3DeyV6y.jpg" group-title="Motel Bates S01",S01 E09
-http://meuplay.shop:80/series/150657845528/254658986506/2732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/msmP6byI9xcGW0O9YLdwpm7ZSH5.jpg" group-title="Motel Bates S01",S01 E10
-http://meuplay.shop:80/series/150657845528/254658986506/2733.mp4
-
-##############################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iOWVl36zAg5qBjvahnpEO1MdGvG.jpg" group-title="Motel Bates",S02 E01
-http://meuplay.shop:80/series/150657845528/254658986506/2734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l3EV3ckg9Xtd21H1ECKe4XT16v5.jpg" group-title="Motel Bates",S02 E02
-http://meuplay.shop:80/series/150657845528/254658986506/2735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z33c2jCawOoi0ZEzcStLE3v6ii2.jpg" group-title="Motel Bates",S02 E03
-http://meuplay.shop:80/series/150657845528/254658986506/2736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bGRpEVRmkxKqiYgLqgixACdnZ0O.jpg" group-title="Motel Bates",S02 E04
-http://meuplay.shop:80/series/150657845528/254658986506/2737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/icVFhd2KK9FSX26EosVfXf8670I.jpg" group-title="Motel Bates",S02 E05
-http://meuplay.shop:80/series/150657845528/254658986506/2738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e5mWxc25fByyqklYPrVAi0CCxLJ.jpg" group-title="Motel Bates",S02 E06
-http://meuplay.shop:80/series/150657845528/254658986506/2739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oI0yrXK0bM3iGjxuKpZmUUis4W.jpg" group-title="Motel Bates",S02 E07
-http://meuplay.shop:80/series/150657845528/254658986506/2740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xNPfMiv6qbWmhUwFfdn6xNUJTfb.jpg" group-title="Motel Bates",S02 E08
-http://meuplay.shop:80/series/150657845528/254658986506/2741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sZVFnTDzZFGmuzBx7gABIeF4Uk1.jpg" group-title="Motel Bates",S02 E09
-http://meuplay.shop:80/series/150657845528/254658986506/2742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ueMOiAS8ofWroydiIL73mvppbV5.jpg" group-title="Motel Bates",S02 E10
-http://meuplay.shop:80/series/150657845528/254658986506/2743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2PAX2EfvG4MfBIyGTDZmIsyNhYg.jpg" group-title="Motel Bates",S03 E01
-http://meuplay.shop:80/series/150657845528/254658986506/2744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nZOL5bSJgAARCyl7gPu2KGEhNaK.jpg" group-title="Motel Bates",S03 E02
-http://meuplay.shop:80/series/150657845528/254658986506/2745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fJDl3iL9c26FcasJVmXrgxSEhk9.jpg" group-title="Motel Bates",S03 E03
-http://meuplay.shop:80/series/150657845528/254658986506/2746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1rZykqAK0rklui4pnSsQfMSxVoU.jpg" group-title="Motel Bates",S03 E04
-http://meuplay.shop:80/series/150657845528/254658986506/2747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S03 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aTygTPFU7yjH5qNRqzWEGUPgtKa.jpg" group-title="Motel Bates",S03 E05
-http://meuplay.shop:80/series/150657845528/254658986506/2748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S03 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Uf1SFEZ0mWZabL1pQBscPeyOkm.jpg" group-title="Motel Bates",S03 E06
-http://meuplay.shop:80/series/150657845528/254658986506/2749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S03 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qy1lh03ZLpZaFO6VyxBonbbYHv1.jpg" group-title="Motel Bates",S03 E07
-http://meuplay.shop:80/series/150657845528/254658986506/2750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S03 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e7pvPbk6KoddyKHPL7g4ZKxdijs.jpg" group-title="Motel Bates",S03 E08
-http://meuplay.shop:80/series/150657845528/254658986506/2751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S03 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qaOhkkw6eSAhVQnu89IQ1pHn9Vh.jpg" group-title="Motel Bates",S03 E09
-http://meuplay.shop:80/series/150657845528/254658986506/2752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S03 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pEmY0jMG5lVuCgRlncodvjhZY6h.jpg" group-title="Motel Bates",S03 E10
-http://meuplay.shop:80/series/150657845528/254658986506/2753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S04 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aq6keZIVTRnHAxncGnYaHE8Ijbd.jpg" group-title="Motel Bates",S04 E01
-http://meuplay.shop:80/series/150657845528/254658986506/2754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8M3ESjfbVC9HYGL9Pg1oCTGe1UT.jpg" group-title="Motel Bates",S04 E02
-http://meuplay.shop:80/series/150657845528/254658986506/2755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S04 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6PYzSdIcnGekg9bYXDYXbxfJ96T.jpg" group-title="Motel Bates",S04 E03
-http://meuplay.shop:80/series/150657845528/254658986506/2756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S04 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dJxFJBRgw0NwJ3r3S4hTsqzrIo8.jpg" group-title="Motel Bates",S04 E04
-http://meuplay.shop:80/series/150657845528/254658986506/2757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pP2hssgwTWq9tjOnjlOI8nV6qbk.jpg" group-title="Motel Bates",S04 E05
-http://meuplay.shop:80/series/150657845528/254658986506/2758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/63Bu1MKAbOhm1MsXg5raz545nQ4.jpg" group-title="Motel Bates",S04 E06
-http://meuplay.shop:80/series/150657845528/254658986506/2759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/38ozULwe30VPj6dt1FTPs2mKXsC.jpg" group-title="Motel Bates",S04 E07
-http://meuplay.shop:80/series/150657845528/254658986506/2760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t4i2MFcgQDW0lAqLjlnVKKswmi0.jpg" group-title="Motel Bates",S04 E08
-http://meuplay.shop:80/series/150657845528/254658986506/2761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8udLFBv4YJRQLlnCSg48t4Bg9j.jpg" group-title="Motel Bates",S04 E09
-http://meuplay.shop:80/series/150657845528/254658986506/2762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S04 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c7kRnGlVCtCHQvOUMWJJOkgT0g6.jpg" group-title="Motel Bates",S04 E10
-http://meuplay.shop:80/series/150657845528/254658986506/2763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gV5kckjvmWExlOKHQQV0PuUT9qQ.jpg" group-title="Motel Bates",S05 E01
-http://meuplay.shop:80/series/150657845528/254658986506/2764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h2XrrVIkCxUCfbZkpAKladr084X.jpg" group-title="Motel Bates",S05 E02
-http://meuplay.shop:80/series/150657845528/254658986506/2765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7qdCtiWXVHmYzvSsd06gyu437tX.jpg" group-title="Motel Bates",S05 E03
-http://meuplay.shop:80/series/150657845528/254658986506/2766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gWz8u66QAwW4cDexdwvFa1NeRyz.jpg" group-title="Motel Bates",S05 E04
-http://meuplay.shop:80/series/150657845528/254658986506/2767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qZTg663fxID78vopGFDZLMOqJFg.jpg" group-title="Motel Bates",S05 E05
-http://meuplay.shop:80/series/150657845528/254658986506/2768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sz4YZha2PPjRsLWo6DJeXILz02p.jpg" group-title="Motel Bates",S05 E06
-http://meuplay.shop:80/series/150657845528/254658986506/2769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5S0JYemlEOaPVn7RkRVxU2wZrDE.jpg" group-title="Motel Bates",S05 E07
-http://meuplay.shop:80/series/150657845528/254658986506/2770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e4GoFbncqF1LRl4QmmrlrKLr3qk.jpg" group-title="Motel Bates",S05 E08
-http://meuplay.shop:80/series/150657845528/254658986506/2771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7M8qRPPLqSaTT1BbZEurwKK5Tt6.jpg" group-title="Motel Bates",S05 E09
-http://meuplay.shop:80/series/150657845528/254658986506/2772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ArdLrnKBZgD5ju7Fwu4MjAm1SjY.jpg" group-title="Motel Bates",S05 E10
-http://meuplay.shop:80/series/150657845528/254658986506/2773.mp4
 
 ############################################################################################
 
