@@ -347,6 +347,13 @@ https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8
 
 ###############################################################################
 
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV BELEM FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RD TV BELEM FHD
+http://t2tp.xyz:80/640540180/463412972/141990
+#EXTINF:-1 tvg-id="RECBELH" tvg-name="RD TV BELEM HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RD TV BELEM HD
+http://t2tp.xyz:80/640540180/463412972/71503
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV BELEM SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RD TV BELEM SD
+http://t2tp.xyz:80/640540180/463412972/169899
+
 #EXTINF:-1 tvg-id="ILHA RECORD HD" tvg-name="ILHA RECORD HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",ILHA RECORD HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89316
 #EXTINF:-1 tvg-id="RECORD MARANHAO" tvg-name="RECORD MARANHAO" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORD MARANHAO
