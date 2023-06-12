@@ -11640,6 +11640,12 @@ https://content.jwplatform.com/videos/x94kC8DJ-LfOei1jV.mp4
 ########################################################################################
 
 
+#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-name="Pluto TV NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto" tvg-chno="58", Pluto TV NCIS
+https://stitcher.pluto.tv/stitch/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
+
+#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-name="Pluto TV CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="pluto" tvg-chno="58", Pluto TV CSI: Miami
+https://stitcher.pluto.tv/stitch/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
+
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="pluto" tvg-chno="58", Pluto TV Adrenalina Freezone
 https://stitcher.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 
