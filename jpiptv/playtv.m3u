@@ -1553,10 +1553,18 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86455
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87778
 #EXTINF:-1 tvg-id="Copa do Brasil Prime Video 2 (S)" tvg-name="Copa do Brasil Prime Video 2 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",COPA DO BRASIL PRIME VIDEO 2 (S)
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86456
-#EXTINF:-1 tvg-id="DAZN 7 FHD" tvg-name="DAZN 1 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",DAZN 1 HD (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63216
-#EXTINF:-1 tvg-id="DAZN 5 HD" tvg-name="DAZN 2 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",DAZN 2 HD (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63113
+#EXTINF:-1tvg-name="DAZN1"tvg-logo="http://70.ms/Yc"group-title="DAZN",DAZN1
+http://5ce.co:80/Ctina2718/Tina3619/36994
+#EXTINF:-1tvg-name="DAZN2"tvg-logo="http://70.ms/YA"group-title="DAZN",DAZN2
+http://5ce.co:80/Ctina2718/Tina3619/36993
+#EXTINF:-1tvg-name="DAZN3"tvg-logo="http://70.ms/Yu"group-title="DAZN",DAZN3
+http://5ce.co:80/Ctina2718/Tina3619/37002
+#EXTINF:-1tvg-name="DAZN4"tvg-logo="http://70.ms/Yt"group-title="DAZN",DAZN4
+http://5ce.co:80/Ctina2718/Tina3619/36920
+#EXTINF:-1tvg-name="DAZN5"tvg-logo="http://70.ms/Cp"group-title="DAZN",DAZN5
+http://5ce.co:80/Ctina2718/Tina3619/64246
+#EXTINF:-1tvg-name="DAZN6"tvg-logo="http://70.ms/CD"group-title="DAZN",DAZN6
+http://5ce.co:80/Ctina2718/Tina3619/64247
 #EXTINF:-1 tvg-id="Eleven Sports Channel 1 (S)" tvg-name="Eleven Sports Channel 1 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ELEVEN SPORTS CHANNEL 1 (S)
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81007
 #EXTINF:-1 tvg-id="Eleven Sports Channel 10 (S)" tvg-name="Eleven Sports Channel 10 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ELEVEN SPORTS CHANNEL 10 (S)
