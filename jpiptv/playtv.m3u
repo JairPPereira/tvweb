@@ -1435,7 +1435,7 @@ https://play.prod.gcp.vix.services/vaivai_pt/vaivai_pt_1-1/play_v1_hls_720p.m3u8
 
 ##################################################################################
 
-#EXTINF:-1 tvg-id="REAL MADRIDTV" tvg-name="REAL MADRIDTV" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",REAL MADRIDTV
+#EXTINF:-1 tvg-id="REAL MADRIDTV" tvg-name="REAL MADRIDTV" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes Internacional",REAL MADRIDTV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="Esportes",All Sports
