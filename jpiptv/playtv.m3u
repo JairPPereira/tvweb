@@ -7134,6 +7134,11 @@ https://play.prod.gcp.vix.services/swelter_pt/swelter_pt_1-1/play_v1_hls_720p.m3
 #EXTINF:-1 tvg-id="King of Fighters: A Batalha Final" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dyzSWQBkDC4sicUrPo8pnO7KD6r.jpg" group-title="Filmes ondemand",King of Fighters: A Batalha Final	
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_05i8iazp/format/applehttp/protocol/https/flavorIds/1_fh9k70ud,1_s0dd02tc,1_mgrf9z0n,1_994ttbk2,1_ew8h6wk0,1_4q369rhk,1_yfvpazvw/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1685738991&id=6317&ip=206.84.34.84&override_expiration=1500&sign=2EDBQrGZYWS1xuDxJpGlndFAyJnOGdcS1092NS2Dpvk%3D&playSessionId=365ed038-27d5-e075-8c4a-fbd3dad06fb9:11218da3-df46-4eda-c251-e65c1e241846&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2tpbmctZmlnaHRlcnMtYmF0YWxoYS1maW5hbA==&clientTag=html5:v7.63
 
+#########################################L########################################
+
+#EXTINF:-1 tvg-id="Loucos Por Ela" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jRmIkCZAImQ3ZqHnWnQEKeGBbVB.jpg" group-title="Filmes ondemand",Loucos Por Ela
+https://play.prod.gcp.vix.services/sunday-girl_pt/sunday-girl_pt_1-1/play_v1_hls_720p.m3u8
+
 #########################################M########################################
 
 #EXTINF:-1 tvg-id="Malcolm X" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg" group-title="Filmes ondemand",Malcolm X
@@ -7144,6 +7149,9 @@ https://play.prod.gcp.vix.services/day-zero_pt/day-zero_pt_1-1/hls_1500_.m3u8
 
 #EXTINF:-1 tvg-id="Matinee: Uma Sessão Muito Louca" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rtMi9orJUG35XAabk5VHWfZR8bF.jpg" group-title="Filmes ondemand",Matinee: Uma Sessão Muito Louca
 https://play.prod.gcp.vix.services/matinee_pt/matinee_pt_1-1/play_v1_hls_720p.m3u8
+
+#EXTINF:-1 tvg-id="Meu Eterno Primeiro Amor" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/31h3yYXMvUhvr0rjMzpvnj9NwCN.jpg" group-title="Filmes ondemand",Meu Eterno Primeiro Amor
+https://play.prod.gcp.vix.services/sage-of-time_pt/sage-of-time_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-id="Minhas Mães e Meu Pai" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/AeFUOqhMmMlJngN0IG3sBI4s8ET.jpg" group-title="Filmes ondemand",Minhas Mães e Meu Pai
 https://play.prod.gcp.vix.services/kids-all-right_pt/kids-all-right_pt_1-1/play_v1_hls_720p.m3u8
@@ -7317,6 +7325,9 @@ https://play.prod.gcp.vix.services/triple-threat_pt/triple-threat_pt_1-1/play_v1
 
 ##########################U#######################################################
 
+#EXTINF:-1 tvg-id="Um Caso de Amor" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kK5hZ9vv6tLCWbYGX9ieNtZDatF.jpg" group-title="Filmes ondemand",Um Caso de Amor
+https://play.prod.gcp.vix.services/case-of-you_pt/case-of-you_pt_1-1/play_v1_hls_540p.m3u8
+
 #EXTINF:-1 tvg-id="Um Dia para Viver" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yyr8u7wQU2k7HpJvBeGmZsJkZTR.jpg" group-title="Filmes ondemand",Um Dia para Viver
 https://play.prod.gcp.vix.services/24-hours-live_pt/24-hours-live_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -7342,7 +7353,10 @@ https://play.prod.gcp.vix.services/bunraku_pt/bunraku_pt_1-1/play_v1_hls_720p.m3
 #EXTINF:-1 tvg-id="Uma Noite de Loucuras" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5GDmJC3RSSWhfhsFZhfBgOgB7vD.jpg" group-title="Filmes ondemand",Uma Noite de Loucuras
 https://play.prod.gcp.vix.services/fun-mom-dinner_pt/fun-mom-dinner_pt_1-1/play_v1_hls_720p.m3u8
 
+##########################V#######################################################
 
+#EXTINF:-1 tvg-id="Vamps - A Morte Não Existe para o Amor" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/v1AE62xRiwbLpzqdvGA38O2T0uq.jpg" group-title="Filmes ondemand",Vamps - A Morte Não Existe para o Amor
+https://play.prod.gcp.vix.services/vamps_pt/vamps_pt_1-1/hls_1500_.m3u8
 
 ##########################W#######################################################
 
