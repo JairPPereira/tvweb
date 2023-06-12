@@ -7051,6 +7051,9 @@ https://play.prod.gcp.vix.services/the-double_pt/the-double_pt_1-1/play_v1_hls_7
 #EXTINF:-1 tvg-id="Confiar" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ktBSBdEPvo8NJ5QEdCj8baYKmHf.jpg" group-title="Filmes ondemand",Confiar
 https://play.prod.gcp.vix.services/trust_pt/trust_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Coração de Corredor" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iNWynLENgP58KdIe8CCwXfNnPgU.jpg" group-title="Filmes ondemand",Coração de Corredor
+https://play.prod.gcp.vix.services/mile-to-you_pt/mile-to-you_pt_1-1/play_v1_hls_720p.m3u8
+
 
 #######################################D#########################################################
 
@@ -7220,6 +7223,10 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_4ks530
 #EXTINF:-1 tvg-id="Pagando Bem, Que Mal Tem?" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2gL5KB4GV51O6rH9HTeDGeTy0XX.jpg" group-title="Filmes ondemand",Pagando Bem, Que Mal Tem?
 https://play.prod.gcp.vix.services/zack-miri_pt/zack-miri_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Pânico em Seattle" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1qDBcSvSfSutZ2UjhnZszNEHVtL.jpg" group-title="Filmes ondemand",Pânico em Seattle
+https://play.prod.gcp.vix.services/seattle-superstorm_pt/seattle-superstorm_pt_1-1/hls_1000_.m3u8
+
+
 #EXTINF:-1 tvg-id="Perigo na Montanha" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q8CJj6zMwi53yxojscnVmhMKYKb.jpg" group-title="Filmes ondemand",Perigo na Montanha
 https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -7340,6 +7347,9 @@ https://play.prod.gcp.vix.services/fun-mom-dinner_pt/fun-mom-dinner_pt_1-1/play_
 
 ##########################W#######################################################
 
+#EXTINF:-1 tvg-id="Walt Antes do Mickey" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1cbUzGAF3WcykjsdqIhDxzDN1KY.jpg" group-title="Filmes ondemand",Walt Antes do Mickey
+https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1-1/play_v1_hls_720p.m3u8
+
 #EXTINF:-1 tvg-id="Wolf Pack: Unidade de Combate" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lE41c13A5bkiar0SwQ8JhfZGAYS.jpg" group-title="Filmes ondemand",Wolf Pack: Unidade de Combate
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -7393,7 +7403,6 @@ http://5ce.co:80/series/Ctina2718/Tina3619/187012.mp4
 http://5ce.co:80/series/Ctina2718/Tina3619/187013.mp4
 #EXTINF:-1 tvg-name="Outra Vida S02 E10" tvg-logo="http://5ce.co:80/images/r4kUGt0H6A3IMbhvWfC1EA2HqR8_big.jpg" group-title="SERIES O ATE P",Outra Vida S02 E10
 http://5ce.co:80/series/Ctina2718/Tina3619/187014.mp4
-
 
 
 
