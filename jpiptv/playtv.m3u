@@ -1435,6 +1435,9 @@ https://play.prod.gcp.vix.services/vaivai_pt/vaivai_pt_1-1/play_v1_hls_720p.m3u8
 
 ##################################################################################
 
+#EXTINF:-1 tvg-id="REAL MADRIDTV" tvg-name="REAL MADRIDTV" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",REAL MADRIDTV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="Esportes",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
@@ -1468,6 +1471,9 @@ https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/pl
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Esportes", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Esportes", TNT Sports 1 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Esportes", TNT Sports 2 Brazil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
@@ -1597,28 +1603,8 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37099
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36970
 #EXTINF:-1 tvg-id="0" tvg-name="Esporte Interativo HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESPORTE INTERATIVO HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61879
-#EXTINF:-1 tvg-id="Estádio TNT Sports 5 (S)" tvg-name="Estádio TNT Sports (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESTÁDIO TNT SPORTS (S)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78447
-#EXTINF:-1 tvg-id="Estádio TNT Sports 1 (J)" tvg-name="Estádio TNT Sports 1 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESTÁDIO TNT SPORTS 1 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78442
-#EXTINF:-1 tvg-id="Estádio TNT Sports 1 (S)" tvg-name="Estádio TNT Sports 1 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESTÁDIO TNT SPORTS 1 (S)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78443
-#EXTINF:-1 tvg-id="Estádio TNT Sports 2 (S)" tvg-name="Estádio TNT Sports 2 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESTÁDIO TNT SPORTS 2 (S)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78444
-#EXTINF:-1 tvg-id="Estádio TNT Sports 2 HD (J)" tvg-name="Estádio TNT Sports 2 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESTÁDIO TNT SPORTS 2 HD (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80779
-#EXTINF:-1 tvg-id="Estádio TNT Sports 3 (S)" tvg-name="Estádio TNT Sports 3 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESTÁDIO TNT SPORTS 3 (S)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78445
-#EXTINF:-1 tvg-id="Estádio TNT Sports 3 HD (J)" tvg-name="Estádio TNT Sports 3 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESTÁDIO TNT SPORTS 3 HD (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80781
-#EXTINF:-1 tvg-id="Estádio TNT Sports 4 (S)" tvg-name="Estádio TNT Sports 4 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESTÁDIO TNT SPORTS 4 (S)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78446
-#EXTINF:-1 tvg-id="Estádio TNT Sports 4 HD (J)" tvg-name="Estádio TNT Sports 4 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESTÁDIO TNT SPORTS 4 HD (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80783
-#EXTINF:-1 tvg-id="Estádio TNT Sports 5 (J)" tvg-name="Estádio TNT Sports 5 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESTÁDIO TNT SPORTS 5 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80784
-#EXTINF:-1 tvg-id="Estádio TNT Sports HD (J)" tvg-name="Estádio TNT Sports HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESTÁDIO TNT SPORTS HD (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89551
+
+
 #EXTINF:-1 tvg-id="Fight Box HD" tvg-name="Fight Box HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",FIGHT BOX HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89971
 #EXTINF:-1 tvg-id="Fight Network" tvg-name="Fight Network" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",FIGHT NETWORK
