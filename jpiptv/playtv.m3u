@@ -1612,6 +1612,15 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36970
 #EXTINF:-1 tvg-id="0" tvg-name="Esporte Interativo HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESPORTE INTERATIVO HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61879
 
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 1 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/nossofutebol.png" group-title=" Canais I NOSSO FUTEBOL ",Nosso Futebol 1 HD
+http://51.89.98.62:8080/max1569/max1569/85681
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/nossofutebol.png" group-title=" Canais I NOSSO FUTEBOL ",Nosso Futebol 2 HD
+http://51.89.98.62:8080/max1569/max1569/85682
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 3 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/nossofutebol.png" group-title=" Canais I NOSSO FUTEBOL ",Nosso Futebol 3 HD
+http://51.89.98.62:8080/max1569/max1569/85683
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 4 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/nossofutebol.png" group-title=" Canais I NOSSO FUTEBOL ",Nosso Futebol 4 HD
+http://51.89.98.62:8080/max1569/max1569/85684
+
 
 #EXTINF:-1 tvg-id="Fight Box HD" tvg-name="Fight Box HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",FIGHT BOX HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89971
@@ -1853,6 +1862,36 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86530
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36996
 #EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36930
+
+#########################################################################################
+
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 01 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 01 HD
+http://51.89.98.62:8080/max1569/max1569/26714
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 02 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 02 HD
+http://51.89.98.62:8080/max1569/max1569/26715
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 03 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 03 HD
+http://51.89.98.62:8080/max1569/max1569/26716
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 04 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 04 HD
+http://51.89.98.62:8080/max1569/max1569/26717
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 05 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 05 HD
+http://51.89.98.62:8080/max1569/max1569/26718
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 06 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 06 HD
+http://51.89.98.62:8080/max1569/max1569/26719
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 07 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 07 HD
+http://51.89.98.62:8080/max1569/max1569/26720
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 08 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 08 HD
+http://51.89.98.62:8080/max1569/max1569/26721
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 09 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 09 HD
+http://51.89.98.62:8080/max1569/max1569/26722
+
+#########################################################################################
+
+#EXTINF:-1 tvg-id="LIFEBHD" tvg-name="Lifetime FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime FHD*
+http://51.89.98.62:8080/max1569/max1569/27347
+#EXTINF:-1 tvg-id="LIFEBHD" tvg-name="Lifetime HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime HD*
+http://51.89.98.62:8080/max1569/max1569/27348
+#EXTINF:-1 tvg-id="LIFEBHD" tvg-name="Lifetime SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime SD*
+http://51.89.98.62:8080/max1569/max1569/27349
 
 #########################################################################################
 
