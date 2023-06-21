@@ -1,11 +1,11 @@
-'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T01/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Eu O Chamei Pelo Nome [/B][/COLOR]</link>',		
-'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T01/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Shabbat [/B][/COLOR]</link>',		
-'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T01/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Jesus Ama As Criancinhas [/B][/COLOR]</link>',		
-'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T01/LS-T01E04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Pedra Sobre A Qual Se Edifica [/B][/COLOR]</link>',		
-'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T01/LS-T01E05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Presente De Casamento [/B][/COLOR]</link>',		
-'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T01/LS-T01E06.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Compaixao Indescritivel [/B][/COLOR]</link>',		
-'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T01/LS-T01E07.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Convites [/B][/COLOR]</link>',		
-'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T01/LS-T01E08.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Sou Eu [/B][/COLOR]</link>',
+'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T02/LS-T01E01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Trovao [/B][/COLOR]</link>',		
+'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T02/LS-T01E02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Eu vi voce [/B][/COLOR]</link>',		
+'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T02/LS-T01E03.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Mateus 4:24 [/B][/COLOR]</link>',		
+'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T02/LS-T01E04.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]A Oportunidade Perfeita [/B][/COLOR]</link>',		
+'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T02/LS-T01E05.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Espirito [/B][/COLOR]</link>',		
+'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T02/LS-T01E06.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Ilegal [/B][/COLOR]</link>',		
+'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T02/LS-T01E07.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Acerto de contas [/B][/COLOR]</link>',		
+'<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/The.Chosen/T02/LS-T01E08.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Alem das Montanhas [/B][/COLOR]</link>',	
 
 
 
