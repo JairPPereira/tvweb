@@ -2108,6 +2108,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-id="Runtime Crime" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae540b891b4a0d073b39ae0bb693f5c3.webp" group-title="filmesseries",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
+#EXTINF:-1 tvg-id="Soul Cine Clube" tvg-logo="https://imgur.com/QapVmCb.png" group-title="filmesseries",Soul Cine Clube
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Revry Brasil" tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="filmesseries",Revry Brasil
+http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Tv Jornal do Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9d7d1a4b47e3583e7c715cafee8cbd02.webp" group-title="filmesseries",Tv Jornal do Nordeste
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w309686598.m3u8
