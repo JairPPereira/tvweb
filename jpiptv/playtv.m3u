@@ -9030,6 +9030,9 @@ https://play.prod.gcp.vix.services/left-behind_pt/left-behind_pt_1-1/play_v1_hls
 #EXTINF:-1 tvg-id="Deixados para Trás 2: Comando Tribulação" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qSXPrBoNQhBizgqaBwxqgVlp39z.jpg" group-title="Filmes ondemand",Deixados para Trás 2: Comando Tribulação
 https://play.prod.gcp.vix.services/left-behind-2_pt/left-behind-2_pt_1-1/play_v1_hls_720p.m3u8
 
+#EXTINF:-1 tvg-id="Deixados para Trás 3: Mundo em Guerra" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/y0sZlyEBX1SeNonM4FrC9mvD59K.jpg" group-title="Filmes ondemand",Deixados para Trás 3: Mundo em Guerra
+https://play.prod.gcp.vix.services/left-behind-3_pt/left-behind-3_pt_1-1/play_v1_hls_720p.m3u8
+
 #EXTINF:-1 tvg-id="Departamento Q - Guardiões das Causas Perdidas" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wSEFQ6iCj626xjItq4DSPVr5MKC.jpg" group-title="Filmes ondemand",Departamento Q - Guardiões das Causas Perdidas
 https://play.prod.gcp.vix.services/department-q-causes_pt/department-q-causes_pt_1-1/play_v1_hls_720p.m3u8
 
@@ -9069,6 +9072,11 @@ https://play.prod.gcp.vix.services/end-gun_pt/end-gun_pt_1-1/play_v1_hls_720p.m3
 
 #EXTINF:-1 tvg-id="Frontera" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rjdJN48tBaLB7HdmyzBnlypXvPj.jpg" group-title="Filmes ondemand",Frontera	
 https://play.prod.gcp.vix.services/frontera_pt/frontera_pt_1-1/play_v1_hls_720p.m3u8
+
+#########################################G########################################
+
+#EXTINF:-1 tvg-id="Grito de Pânico" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iHVVbDhDoPzlDE7B7ElcmUHWAzo.jpg" group-title="Filmes ondemand",Grito de Pânico	
+https://play.prod.gcp.vix.services/scream-at-devil_pt/scream-at-devil_pt_1-1/play_v1_hls_720p.m3u8
 
 #########################################H########################################
 
