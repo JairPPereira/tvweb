@@ -2,6 +2,11 @@
 
 ####################################################
 
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Liberal Belem" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV LIBERAL BELEM
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42964
+#EXTINF:-1 tvg-id="Globo TV Liberal Belem HD" tvg-name="Globo TV Liberal Belem HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV LIBERAL BELEM HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63654
+
 #EXTINF:-1 tvg-id="Globo Belem HD" tvg-name="Globo Belem HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO BELEM HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72893
 
@@ -122,10 +127,6 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75484
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73230
 #EXTINF:-1 tvg-id="Globo TV Integração Uberlandia HD" tvg-name="Globo TV Integração Uberlandia HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV INTEGRAÇÃO UBERLANDIA HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73231
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Liberal Belem" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV LIBERAL BELEM
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42964
-#EXTINF:-1 tvg-id="Globo TV Liberal Belem HD" tvg-name="Globo TV Liberal Belem HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV LIBERAL BELEM HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63654
 #EXTINF:-1 tvg-id="GLOBO TV MIRANTE COCAIS" tvg-name="GLOBO TV MIRANTE COCAIS" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV MIRANTE COCAIS
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75483
 #EXTINF:-1 tvg-id="0" tvg-name="Globo TV Mirante São Luis" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV MIRANTE SÃO LUIS
