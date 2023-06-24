@@ -1905,6 +1905,19 @@ http://51.89.98.62:8080/max1569/max1569/27348
 #EXTINF:-1 tvg-id="LIFEBHD" tvg-name="Lifetime SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime SD*
 http://51.89.98.62:8080/max1569/max1569/27349
 
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD¹" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL FHD¹
+http://7go.xyz:8080/1pvm6g/k25ab1/59646
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD²" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL FHD²
+http://7go.xyz:8080/1pvm6g/k25ab1/64705
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD¹" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL HD¹
+http://7go.xyz:8080/1pvm6g/k25ab1/59645
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD²" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL HD²
+http://7go.xyz:8080/1pvm6g/k25ab1/64704
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD¹" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL SD¹
+http://7go.xyz:8080/1pvm6g/k25ab1/160765
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD²" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL SD²
+http://7go.xyz:8080/1pvm6g/k25ab1/22303
+
 #########################################################################################
 
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",BABYTV
