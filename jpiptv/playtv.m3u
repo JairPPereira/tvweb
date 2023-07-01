@@ -2,6 +2,61 @@
 
 ####################################################
 
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Liberal Belem" tvg-logo="https://bit.ly/Logo-tv" group-title="Estados- Pará",GLOBO TV LIBERAL BELEM
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42964
+#EXTINF:-1 tvg-id="Globo TV Liberal Belem HD" tvg-name="Globo TV Liberal Belem HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Estados- Pará",GLOBO TV LIBERAL BELEM HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63654
+
+#EXTINF:-1 tvg-id="Globo Belem HD" tvg-name="Globo Belem HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Estados- Pará",GLOBO BELEM HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72893
+
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RecordTV Belém" tvg-logo="https://bit.ly/Logo-tv" group-title="Estados- Pará",RECORDTV BELÉM
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63716
+#EXTINF:-1 tvg-id="RecordTV Belém HD" tvg-name="RecordTV Belém HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Estados- Pará",RECORDTV BELÉM HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/57811
+
+#EXTINF:-1 tvg-id="RBA" tvg-logo="https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg" group-title="Estados- Pará",RBA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="Estados- Pará",TV GRÃO PARA
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b8281ee455e4e5680d7c1ba9554ddb1f.webp" group-title="Estados- Pará",Tv Guarajá - SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="Estados- Pará",TV Marajoara
+https://video01.kshost.com.br/tv31966/tv31966/chunklist_w1874400382.m3u8
+
+#EXTINF:-1 tvg-id="Tv CULTURA" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="Estados- Pará",TV CULTURA
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Paraense (SBT Castanhal)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="Estados- Pará",Tv Paraense (SBT Castanhal)
+https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
+
+#EXTINF:-1 tvg-id="TV ONE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="Estados- Pará",TV ONE
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Web TV Vale do Uruará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7858a37ec72de29670e36bb32cdd20f6.webp" group-title="Estados- Pará",Web TV Vale do Uruará
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Curuai Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/359e181812362a0eb2598ccb19c0b233.webp" group-title="Estados- Pará",Tv Curuai Web
+https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redeclone.br" tvg-logo="https://pa-str.srvsite.com/arquivos/7030/cabecalho-7030-20221221063420.jpeg" group-title="Estados- Pará", Rede Clouding
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1265657125.m3u8
+
+#EXTINF:-1 tvg-id="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="Estados- Pará",TV NBT
+https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="TV ONE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="Estados- Pará",TV ONE
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBC TV Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b3b5afe27476830a9e64bac1464ad976.webp" group-title="Estados- Pará",CBC TV Gospel	
+https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
+
+#####################################################
+
 #EXTINF:-1 tvg-id="0" tvg-name="Globo TV Liberal Belem" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV LIBERAL BELEM
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42964
 #EXTINF:-1 tvg-id="Globo TV Liberal Belem HD" tvg-name="Globo TV Liberal Belem HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | GLOBOS",GLOBO TV LIBERAL BELEM HD
@@ -1205,8 +1260,7 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
 
 #EXTINF:-1 tvg-id="CBC TV Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b3b5afe27476830a9e64bac1464ad976.webp" group-title="Religioso",CBC TV Gospel
-https://tv01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
-
+https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Espírita Do Paraná" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b600878cd0711a5417b2e0b2162a451.webp" group-title="Religioso",Tv Espírita Do Paraná
 https://srv4.zcast.com.br/rodney2576/rodney2576/playlist.m3u8
 
