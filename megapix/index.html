@@ -206,6 +206,37 @@ body{
   });
   
   </script>
+  <script type="text/javascript">
+    function toggleDarkMode() {
+      var body = document.body;
+      body.classList.toggle("dark-theme");
+    }
+    function toggleDarkMode() {
+      var body = document.body;
+      body.classList.toggle("dark-theme");
+      
+      // Armazene a preferência do usuário
+      if (body.classList.contains("dark-theme")) {
+        localStorage.setItem("theme", "dark");
+      } else {
+        localStorage.setItem("theme", "light");
+      }
+    }
+    
+    // Verifique a preferência do usuário ao carregar a página
+    window.addEventListener("load", function() {
+      var theme = localStorage.getItem("theme");
+      var body = document.body;
+      
+      if (theme === "dark") {
+        body.classList.add("dark-theme");
+      } else {
+        body.classList.remove("dark-theme");
+      }
+    });
+    
+    
+    </script>
   <p></p>
   <p></p></br>
   <p></p></br>
@@ -258,12 +289,23 @@ body{
           height:300px
       }
   }
+  #darkModeButton {
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
     </style>
   </head>
   <body>
       <div class="text-center-xs" style="padding: 2px;">
           <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;MEGAPIX</h1>
           <section class="video bg-silver b-radius-5 padding-5">
+            <button id="darkModeButton" onclick="toggleDarkMode()">Ativar tema escuro</button>
+
             <div id="player">
         
               </div></div>
