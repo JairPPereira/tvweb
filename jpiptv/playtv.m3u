@@ -9367,6 +9367,9 @@ https://play.prod.gcp.vix.services/frontera_pt/frontera_pt_1-1/play_v1_hls_720p.
 
 #########################################G########################################
 
+#EXTINF:-1 tvg-id="Gênio Indomável" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/AlXkMIEjvk2Npc15zyL0r3P4HBH.jpg" group-title="Filmes ondemand",Gênio Indomável	
+https://archive.org/download/genio-indomavel-1997-blu-ray-720p-dual-audio/G%C3%AAnio%20Indom%C3%A1vel%20%5B1997%5D-BluRay%20720p%20Dual%20%C3%81udio.mp4
+
 #EXTINF:-1 tvg-id="Grito de Pânico" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iHVVbDhDoPzlDE7B7ElcmUHWAzo.jpg" group-title="Filmes ondemand",Grito de Pânico	
 https://play.prod.gcp.vix.services/scream-at-devil_pt/scream-at-devil_pt_1-1/play_v1_hls_720p.m3u8
 
