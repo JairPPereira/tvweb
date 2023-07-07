@@ -1306,15 +1306,15 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81017
 #EXTINF:-1 tvg-id="CNN PORTUGAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifByy4OrmR7aFdFrRDHaTdj3E-WHrmybRBADqo_D-JrkVkGAPgO5JmH9c8NRtjprYZQ4PJ4ERGI6VNXruNKFCt__ivEQoaGJcMRUL9NiV7gb1824_CiupMSxdOFMlnrlfOhlraRckOtYtGDUIG58MVYE-mzLJact5Ucj_3mQ8lAwsRUKYJU5OY_0qM/s1600/cnn.png" group-title="jornalismo",CNN PORTUGAL
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIzIDk6MTM6MjYgUE0maGFzaF92YWx1ZT1xekxpUUgyYXZUVEFETGIySmFlUmRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTBlOGNlYjktMWIwNi00ZTE5LThiMjEtYjBhMDY2Mzg1Njkz/
 
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="NOTÃCIAS",CNN BRASIL - FHD
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - FHD
 http://x90.live:80/valmir/654321/98281
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - FHDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="NOTÃCIAS",CNN BRASIL - FHDÂ²
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - FHDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - FHDÂ²
 http://x90.live:80/valmir/654321/98280
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="NOTÃCIAS",CNN BRASIL - HD
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - HD
 http://x90.live:80/valmir/654321/83090
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - HDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="NOTÃCIAS",CNN BRASIL - HDÂ²
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - HDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - HDÂ²
 http://x90.live:80/valmir/654321/98278
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="NOTÃCIAS",CNN BRASIL - SD
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - SD
 http://x90.live:80/valmir/654321/83089
 
 
@@ -1322,15 +1322,15 @@ http://x90.live:80/valmir/654321/83089
 #EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="GloboNews FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",GLOBONEWS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38397
 
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - 4K H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="NOTÃCIAS",GLOBO NEWS - 4K H265
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - 4K H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - 4K H265
 http://x90.live:80/valmir/654321/99892
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="NOTÃCIAS",GLOBO NEWS - FHD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - FHD
 http://x90.live:80/valmir/654321/83094
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="NOTÃCIAS",GLOBO NEWS - HD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - HD
 http://x90.live:80/valmir/654321/83092
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - HDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="NOTÃCIAS",GLOBO NEWS - HDÂ²
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - HDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - HDÂ²
 http://x90.live:80/valmir/654321/83093
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="NOTÃCIAS",GLOBO NEWS - SD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - SD
 http://x90.live:80/valmir/654321/83091
 
 #EXTINF:-1tvg-name="BandNewsSD"tvg-logo="http://70.ms/h1"group-title="jornalismo",BandNewsSD
@@ -1346,11 +1346,11 @@ http://x90.live:80/valmir/654321/138101
 #EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - SD
 http://x90.live:80/valmir/654321/138102
 
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="NOTÃCIAS",JOVEM PAN NEWS - FHD
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - FHD
 http://x90.live:80/valmir/654321/138098
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="NOTÃCIAS",JOVEM PAN NEWS - HD
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - HD
 http://x90.live:80/valmir/654321/138101
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="NOTÃCIAS",JOVEM PAN NEWS - SD
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - SD
 http://x90.live:80/valmir/654321/138102
 
 #EXTINF:-1 tvg-id="JP News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1e0Re1E3AAV4pyo0gqS4EStCpXjrSj5f4q9R6CDMrHSl4j90deXWXjUXY-5inpD43CsWn_vxBlqJqFJEEK5ejvQwDb-I3S9UitRoyZ69BNfWW7kunC5IGweOnGJaTOUQhAmpCDorgCOMtOB5IACTl8lmhtc4-klhGFpBV6Z0Cv27emojoRicWlxYz/s1600/jovempanews.jpg" group-title="jornalismo", JP NEWS
@@ -1461,6 +1461,9 @@ https://archive.org/download/episo-dio-completo-sugesto-es-a-cie-ncia-do-engano-
 
 #EXTINF:-1 tvg-id="Gigantes Do Brasil" tvg-name="History FHD" tvg-logo="https://archive.org/download/gigantesdobrasilhistorychannelcompleto/gigantesdobrasilhistorychannelcompleto.thumbs/Gigantes%20do%20Brasil%20History%20Channel%20COMPLETO_000059.jpg" group-title="Documentário History",Gigantes Do Brasil
 https://archive.org/download/gigantesdobrasilhistorychannelcompleto/Gigantes%20do%20Brasil%20History%20Channel%20COMPLETO.mp4
+
+#EXTINF:-1 tvg-id="8 de Janeiro: o dia que abalou o Brasil" tvg-name="History FHD" tvg-logo="https://archive.org/download/gigantesdobrasilhistorychannelcompleto/gigantesdobrasilhistorychannelcompleto.thumbs/Gigantes%20do%20Brasil%20History%20Channel%20COMPLETO_000059.jpg" group-title="Documentário BBC",8 de Janeiro: o dia que abalou o Brasil
+https://archive.org/download/documentario-8-de-janeiro-o-dia-que-abalou-o-brasi/Document%C3%A1rio%20BBC%20%20%208%20de%20Janeiro%20o%20dia%20que%20abalou%20o%20Brasi.mp4
 
 #################################################################################
 
