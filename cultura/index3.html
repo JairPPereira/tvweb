@@ -13,37 +13,40 @@ if (window.top == window.self) {
 <style type="text/css">	
     #iframeVideo{
         position:absolute;
-        top:-12%;
-        left: -15%;
+        top:-10%;
+        left: -25%;
         z-index: 9999;
         width: 125%;
-        height: 300%;
+        height:480px;
         margin:0;
         border:none;
         
        
-        background: #000 url(https://onlinetvhd.net/imagens/loading.gif) no-repeat center center fixed;
+        background: #000  no-repeat center center fixed;
     }	
     @media(max-width: 782px) {
         #iframeVideo{
-            height:400px
+            height:380px;
+            width: 960px;
+            left: -50px;
+            height:480px;
+
         }
     }
     
     @media(max-width: 569px) {
         #iframeVideo {
-            width: 125%;
-           height: 500px;
-            top:-50%;
-            left: -1%;
-           
+            height: 100%;
+            padding-left: 10%;
+            top:-10%;
+            width: 100%;
         }
     }
         </style>
 	<style>.btn-atualizar { background-color: #063252; border-top-left-radius: 0px !important;border-top-right-radius: 0px !important; color: white;padding: 10px 12px;margin: 0px;margin-left:10px;border: none;border-radius: 5px;float:left;cursor: pointer;font-family: "Verdana", Arial;font-size:12px;}.btn-lista {background-color: #4286f4 !important;}.btn-lista:hover {background-color: #3671d1 !important;}.btn-atualizar:hover {background-color: #0000ff;}.div-btns {margin: 0px;padding:0;position: absolute;left: 0px;top: 0px;z-index:99999;}</style>	
 <body>
 <div class="div-btns"></div>	
-	<iframe src="https://www.portalcultura.com.br/playerhtml/index.html" id="iframeVideo" name="iframeVideo"  sandbox="allow-same-origin allow-scripts"  allowfullscreen></iframe>
+	<iframe src="https://www.portalcultura.com.br/playerhtml/index.html" id="iframeVideo" name="iframeVideo"  sandbox="allow-same-origin allow-scripts" allowfullscreen></iframe>
 </div>
 </body>
 </html>
