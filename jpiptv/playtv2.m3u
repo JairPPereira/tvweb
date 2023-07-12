@@ -2,6 +2,51 @@
 
 ###################################################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - FHD
+http://x90.live:80/valmir/654321/138098
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - HD
+http://x90.live:80/valmir/654321/138101
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - SD
+http://x90.live:80/valmir/654321/138102
+
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - FHD
+http://x90.live:80/valmir/654321/138098
+
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - SD
+http://x90.live:80/valmir/654321/138102
+
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - HD
+http://x90.live:80/valmir/654321/83092
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - HDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - HDÂ²
+http://x90.live:80/valmir/654321/83093
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - SD
+http://x90.live:80/valmir/654321/83091
+
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - 4K H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - 4K H265
+http://x90.live:80/valmir/654321/99892
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - FHD
+http://x90.live:80/valmir/654321/83094
+
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - FHD
+http://x90.live:80/valmir/654321/98281
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - FHDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - FHDÂ²
+http://x90.live:80/valmir/654321/98280
+
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - HDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - HDÂ²
+http://x90.live:80/valmir/654321/98278
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - SD
+http://x90.live:80/valmir/654321/83089
+
+#EXTINF:-1 tvg-id="CNN BRASIL H265" tvg-name="CNN BRASIL H265" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",CNN BRASIL H265
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65042
+#EXTINF:-1 tvg-id="CNN BRASIL HD" tvg-name="CNN BRASIL HD" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",CNN BRASIL HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65039
+#EXTINF:-1 tvg-id="CNN Espanhol" tvg-name="CNN Espanhol" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",CNN ESPANHOL
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81018
+
+#EXTINF:-1 tvg-id="CNN Internacional" tvg-name="CNN Internacional" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",CNN INTERNACIONAL
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81017
+
 #EXTINF:-1 tvg-id="Record News FHD" tvg-name="Record News FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORD NEWS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41502
 

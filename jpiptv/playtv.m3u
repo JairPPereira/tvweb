@@ -895,51 +895,23 @@ https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="jornalismo",Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w375796097.m3u8
-
 
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",CNN BRASIL
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65040
-#EXTINF:-1 tvg-id="CNN BRASIL H265" tvg-name="CNN BRASIL H265" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",CNN BRASIL H265
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65042
-#EXTINF:-1 tvg-id="CNN BRASIL HD" tvg-name="CNN BRASIL HD" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",CNN BRASIL HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65039
-#EXTINF:-1 tvg-id="CNN Espanhol" tvg-name="CNN Espanhol" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",CNN ESPANHOL
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81018
-#EXTINF:-1 tvg-id="CNN Internacional" tvg-name="CNN Internacional" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",CNN INTERNACIONAL
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81017
+
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - HD
+http://x90.live:80/valmir/654321/83090
+
+
 
 #EXTINF:-1 tvg-id="CNN PORTUGAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifByy4OrmR7aFdFrRDHaTdj3E-WHrmybRBADqo_D-JrkVkGAPgO5JmH9c8NRtjprYZQ4PJ4ERGI6VNXruNKFCt__ivEQoaGJcMRUL9NiV7gb1824_CiupMSxdOFMlnrlfOhlraRckOtYtGDUIG58MVYE-mzLJact5Ucj_3mQ8lAwsRUKYJU5OY_0qM/s1600/cnn.png" group-title="jornalismo",CNN PORTUGAL
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIzIDk6MTM6MjYgUE0maGFzaF92YWx1ZT1xekxpUUgyYXZUVEFETGIySmFlUmRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTBlOGNlYjktMWIwNi00ZTE5LThiMjEtYjBhMDY2Mzg1Njkz/
-
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - FHD
-http://x90.live:80/valmir/654321/98281
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - FHDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - FHDÂ²
-http://x90.live:80/valmir/654321/98280
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - HD
-http://x90.live:80/valmir/654321/83090
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - HDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - HDÂ²
-http://x90.live:80/valmir/654321/98278
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - SD
-http://x90.live:80/valmir/654321/83089
-
 
 
 #EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="GloboNews FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",GLOBONEWS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38397
 
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - 4K H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - 4K H265
-http://x90.live:80/valmir/654321/99892
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - FHD
-http://x90.live:80/valmir/654321/83094
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - HD
-http://x90.live:80/valmir/654321/83092
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - HDÂ²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - HDÂ²
-http://x90.live:80/valmir/654321/83093
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Q5j-XzJO6w0ZlzP_epXqFMjtEYZSVr74PD8c9uDTUaA.jpg" group-title="jornalismo",GLOBO NEWS - SD
-http://x90.live:80/valmir/654321/83091
 
 #EXTINF:-1tvg-name="BandNewsSD"tvg-logo="http://70.ms/h1"group-title="jornalismo",BandNewsSD
 https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
@@ -947,19 +919,10 @@ https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="BandNews H265" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",BANDNEWS H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62797
 
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - FHD
-http://x90.live:80/valmir/654321/138098
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - HD
-http://x90.live:80/valmir/654321/138101
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - SD
-http://x90.live:80/valmir/654321/138102
 
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - FHD
-http://x90.live:80/valmir/654321/138098
 #EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - HD
 http://x90.live:80/valmir/654321/138101
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="jornalismo",JOVEM PAN NEWS - SD
-http://x90.live:80/valmir/654321/138102
+
 
 #EXTINF:-1 tvg-id="JP News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1e0Re1E3AAV4pyo0gqS4EStCpXjrSj5f4q9R6CDMrHSl4j90deXWXjUXY-5inpD43CsWn_vxBlqJqFJEEK5ejvQwDb-I3S9UitRoyZ69BNfWW7kunC5IGweOnGJaTOUQhAmpCDorgCOMtOB5IACTl8lmhtc4-klhGFpBV6Z0Cv27emojoRicWlxYz/s1600/jovempanews.jpg" group-title="jornalismo", JP NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
@@ -1860,8 +1823,11 @@ https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
 ####################################################################################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjivijm-A-fm4Fal4KeKaD3wrzhltdGTnkyH3n19S4F-9lJe59Gt1Ff0BxDdtWP53qK178oZBf6_y4YlO_KaO9cFYYtR6dbsxE4uVkwDeVgU-9Wb9EcqxcSlmIrFejLB8mAEJZnVqyBIzrxfoD2uDv1Kqt4ThuhUuTf_PIK2lSSQytPQ7L-HjjWIwD-XGY/s1600/cartooon.jpg" group-title="CANAIS | INFANTIS", W Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjivijm-A-fm4Fal4KeKaD3wrzhltdGTnkyH3n19S4F-9lJe59Gt1Ff0BxDdtWP53qK178oZBf6_y4YlO_KaO9cFYYtR6dbsxE4uVkwDeVgU-9Wb9EcqxcSlmIrFejLB8mAEJZnVqyBIzrxfoD2uDv1Kqt4ThuhUuTf_PIK2lSSQytPQ7L-HjjWIwD-XGY/s1600/cartooon.jpg" group-title="CANAIS | INFANTIS",W Cartoon Network
 http://conexaoonline.top/live/xus5mtzd/qbuh8dtb/38.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCADqogB96Y3oHC56pYLIYFZFnluXqh0vr5P1Rbh3T_a4E83P-iqGDJkW21LR2ZNTqGj8DKfIVEjvrseiIVmfxbdVi3aQC4TEZM06nRLJXRqUCYmz-fGHahPZTOX0x6QYmn2hER6kpQYcttkgE4OccfWjCmVzgi6b090glJDT18P7UnTUEex4US6ZW/s1600/babytv.png" group-title="CANAIS | INFANTIS",W BABY TV
+http://conexaoonline.top/live/xus5mtzd/qbuh8dtb/2200.ts
 
 ####################################################################################
 
