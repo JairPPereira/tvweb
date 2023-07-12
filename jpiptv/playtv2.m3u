@@ -2,6 +2,86 @@
 
 ###################################################################################
 
+
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV BELEM FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RD TV BELEM FHD
+http://t2tp.xyz:80/640540180/463412972/141990
+#EXTINF:-1 tvg-id="RECBELH" tvg-name="RD TV BELEM HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RD TV BELEM HD
+http://t2tp.xyz:80/640540180/463412972/71503
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV BELEM SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RD TV BELEM SD
+http://t2tp.xyz:80/640540180/463412972/169899
+
+#EXTINF:-1 tvg-id="ILHA RECORD HD" tvg-name="ILHA RECORD HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",ILHA RECORD HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89316
+#EXTINF:-1 tvg-id="RECORD MARANHAO" tvg-name="RECORD MARANHAO" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORD MARANHAO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86994
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37051
+#EXTINF:-1 tvg-id="RecordTV Bahia" tvg-name="RecordTV Bahia" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV BAHIA
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63722
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Bahia HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV BAHIA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42624
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RecordTV Belém" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV BELÉM
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63716
+#EXTINF:-1 tvg-id="RecordTV Belém HD" tvg-name="RecordTV Belém HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV BELÉM HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/57811
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Campinas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV CAMPINAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62998
+#EXTINF:-1 tvg-id="RecordTV Goias" tvg-name="RecordTV Goias" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV GOIAS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63717
+#EXTINF:-1 tvg-id="RecordTV Goias HD" tvg-name="RecordTV Goias HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV GOIAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63718
+#EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36947
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Litoral Santos HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV LITORAL SANTOS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/57806
+#EXTINF:-1 tvg-id="RecordTV Manaus HD" tvg-name="RecordTV Manaus HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV MANAUS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/66612
+#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RecordTV Minas " tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV MINAS 
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41362
+#EXTINF:-1 tvg-id="RecordTV Minas HD" tvg-name="RecordTV Minas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV MINAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62089
+#EXTINF:-1 tvg-id="RecordTV Pará HD" tvg-name="RecordTV Pará HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV PARÁ HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/64656
+#EXTINF:-1 tvg-id="RecordTV Paraná HD" tvg-name="RecordTV Paraná HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV PARANÁ HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63383
+#EXTINF:-1 tvg-id="RecordTV Rio" tvg-name="RecordTV Rio" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV RIO
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42637
+#EXTINF:-1 tvg-id="RecordTV Rio HD" tvg-name="RecordTV Rio HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV RIO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63721
+#EXTINF:-1 tvg-id="RecordTV Rio Preto HD" tvg-name="RecordTV Rio Preto HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV RIO PRETO HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/57812
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RecordTV RS" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV RS
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62090
+#EXTINF:-1 tvg-id="RecordTV RS HD" tvg-name="RecordTV RS HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV RS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62987
+#EXTINF:-1 tvg-id="RecordTV Santa Catarina HD" tvg-name="RecordTV Santa Catarina HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV SANTA CATARINA HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65271
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Sergipe HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV SERGIPE HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/56898
+#EXTINF:-1 tvg-id="RecordTV Thathi Campinas HD" tvg-name="RecordTV Thathi Campinas HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",RECORDTV THATHI CAMPINAS HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/77767
+#EXTINF:-1 tvg-id="0" tvg-name="TV CABRALIA RECORD BAHIA HD " tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | RECORD TV",TV CABRALIA RECORD BAHIA HD 
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/57809
+
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Bahia FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV BAHIA FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42905
+#EXTINF:-1 tvg-id="RecordTV Correio FHD" tvg-name="RecordTV Correio FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV CORREIO FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80916
+#EXTINF:-1 tvg-id="RecordTV FHD" tvg-name="RecordTV FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38421
+#EXTINF:-1 tvg-id="RecordTV Minas FHD" tvg-name="RecordTV Minas FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV MINAS FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42904
+#EXTINF:-1 tvg-id="RecordTV Paraná FHD" tvg-name="RecordTV Paraná FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV PARANÁ FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80216
+#EXTINF:-1 tvg-id="RecordTV Paulista FHD" tvg-name="RecordTV Paulista FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV PAULISTA FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41516
+#EXTINF:-1 tvg-id="RecordTV Rio FHD" tvg-name="RecordTV Rio FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV RIO FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41521
+#EXTINF:-1 tvg-id="RecordTV RS FHD" tvg-name="RecordTV RS FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV RS FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42907
+#EXTINF:-1 tvg-id="RecordTV Thathi Campinas FHD" tvg-name="RecordTV Thathi Campinas FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FULL HD",RECORDTV THATHI CAMPINAS FHD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/77768
+
 #EXTINF:-1 tvg-id="Globo TV Liberal Belem HD" tvg-name="Globo TV Liberal Belem HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Estados- Pará",GLOBO TV LIBERAL BELEM HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63654
 
