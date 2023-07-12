@@ -1514,8 +1514,8 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36930
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 01 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",W CINE SKY 01 HD
 http://conexaoonline.top/live/xus5mtzd/qbuh8dtb/20574.ts
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 02 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 02 HD
-http://51.89.98.62:8080/max1569/max1569/26715
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 02 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",W CINE SKY 02 HD
+http://conexaoonline.top/live/xus5mtzd/qbuh8dtb/20575.ts
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 03 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 03 HD
 http://51.89.98.62:8080/max1569/max1569/26716
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 04 HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/CineSKY/225.png" group-title="Canais I CINE SKY",CINE SKY 04 HD
