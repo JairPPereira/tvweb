@@ -914,10 +914,10 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38397
 http://conexaoonline.top/live/xus5mtzd/qbuh8dtb/365.ts
 
 
-#EXTINF:-1tvg-name="BandNewsSD"tvg-logo="http://70.ms/h1"group-title="jornalismo",BandNewsSD
+#EXTINF:-1tvg-name="BandNewsSD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcPKDunvBWSp76kmJQoyRySeSJrw5QpaZQBd5BvYcseaxM29sw66vFSDnCmVwOMY9gN4mACpS8ZCqgponfvA3dJx4ddsAahKuv76J2yKL8V-e6ptDojmsktNXW1pyE1frV1IozdiYcdbtNCI0bnK31YEpoUes5tqgQ3a7iTYD2LkcwGidng8eIFDui/s1600/band-news-.png"group-title="jornalismo",BandNewsSD
 https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="BandNews H265" tvg-logo="https://bit.ly/Logo-tv" group-title="jornalismo",BANDNEWS H265
+#EXTINF:-1 tvg-id="0" tvg-name="BandNews H265" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcPKDunvBWSp76kmJQoyRySeSJrw5QpaZQBd5BvYcseaxM29sw66vFSDnCmVwOMY9gN4mACpS8ZCqgponfvA3dJx4ddsAahKuv76J2yKL8V-e6ptDojmsktNXW1pyE1frV1IozdiYcdbtNCI0bnK31YEpoUes5tqgQ3a7iTYD2LkcwGidng8eIFDui/s1600/band-news-.png" group-title="jornalismo",BANDNEWS H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62797
 
 
@@ -1555,14 +1555,20 @@ http://7go.xyz:8080/1pvm6g/k25ab1/22303
 
 #########################################################################################
 
-#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",BABYTV
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36993
-#EXTINF:-1 tvg-id="BabyTV HD" tvg-name="BabyTV HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",BABYTV HD
+
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCADqogB96Y3oHC56pYLIYFZFnluXqh0vr5P1Rbh3T_a4E83P-iqGDJkW21LR2ZNTqGj8DKfIVEjvrseiIVmfxbdVi3aQC4TEZM06nRLJXRqUCYmz-fGHahPZTOX0x6QYmn2hER6kpQYcttkgE4OccfWjCmVzgi6b090glJDT18P7UnTUEex4US6ZW/s1600/babytv.png" group-title="CANAIS | INFANTIS",W BABY TV
+http://conexaoonline.top/live/xus5mtzd/qbuh8dtb/2200.ts
+
+#EXTINF:-1 tvg-id="BabyTV HD" tvg-name="BabyTV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCADqogB96Y3oHC56pYLIYFZFnluXqh0vr5P1Rbh3T_a4E83P-iqGDJkW21LR2ZNTqGj8DKfIVEjvrseiIVmfxbdVi3aQC4TEZM06nRLJXRqUCYmz-fGHahPZTOX0x6QYmn2hER6kpQYcttkgE4OccfWjCmVzgi6b090glJDT18P7UnTUEex4US6ZW/s1600/babytv.png" group-title="CANAIS | INFANTIS",BABYTV HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63634
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",CARTOON NETWORK
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjivijm-A-fm4Fal4KeKaD3wrzhltdGTnkyH3n19S4F-9lJe59Gt1Ff0BxDdtWP53qK178oZBf6_y4YlO_KaO9cFYYtR6dbsxE4uVkwDeVgU-9Wb9EcqxcSlmIrFejLB8mAEJZnVqyBIzrxfoD2uDv1Kqt4ThuhUuTf_PIK2lSSQytPQ7L-HjjWIwD-XGY/s1600/cartooon.jpg" group-title="CANAIS | INFANTIS",CARTOON NETWORK
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37121
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36927
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjivijm-A-fm4Fal4KeKaD3wrzhltdGTnkyH3n19S4F-9lJe59Gt1Ff0BxDdtWP53qK178oZBf6_y4YlO_KaO9cFYYtR6dbsxE4uVkwDeVgU-9Wb9EcqxcSlmIrFejLB8mAEJZnVqyBIzrxfoD2uDv1Kqt4ThuhUuTf_PIK2lSSQytPQ7L-HjjWIwD-XGY/s1600/cartooon.jpg" group-title="CANAIS | INFANTIS",W Cartoon Network
+http://conexaoonline.top/live/xus5mtzd/qbuh8dtb/38.ts
+
+
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Cartoonito" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",CARTOONITO
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37123
 #EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Cartoonito HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",CARTOONITO HD
@@ -1609,6 +1615,7 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86528
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/59355
 #EXTINF:-1 tvg-id="Zoomoo HD" tvg-name="Zoomoo HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",ZOOMOO HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63779
+
 
 #######################################################################################
 
@@ -1820,15 +1827,6 @@ https://stmv.srvvox.com.br/anderson/anderson/playlist.m3u8
 #EXTINF:-1 tvg-id="Web Tv Clássicos do Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="filmesseries",Web Tv Clássicos do Cinema
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
 
-
-####################################################################################
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjivijm-A-fm4Fal4KeKaD3wrzhltdGTnkyH3n19S4F-9lJe59Gt1Ff0BxDdtWP53qK178oZBf6_y4YlO_KaO9cFYYtR6dbsxE4uVkwDeVgU-9Wb9EcqxcSlmIrFejLB8mAEJZnVqyBIzrxfoD2uDv1Kqt4ThuhUuTf_PIK2lSSQytPQ7L-HjjWIwD-XGY/s1600/cartooon.jpg" group-title="CANAIS | INFANTIS",W Cartoon Network
-http://conexaoonline.top/live/xus5mtzd/qbuh8dtb/38.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCADqogB96Y3oHC56pYLIYFZFnluXqh0vr5P1Rbh3T_a4E83P-iqGDJkW21LR2ZNTqGj8DKfIVEjvrseiIVmfxbdVi3aQC4TEZM06nRLJXRqUCYmz-fGHahPZTOX0x6QYmn2hER6kpQYcttkgE4OccfWjCmVzgi6b090glJDT18P7UnTUEex4US6ZW/s1600/babytv.png" group-title="CANAIS | INFANTIS",W BABY TV
-http://conexaoonline.top/live/xus5mtzd/qbuh8dtb/2200.ts
 
 ####################################################################################
 

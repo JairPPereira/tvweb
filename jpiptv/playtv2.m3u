@@ -2,6 +2,14 @@
 
 ###################################################################################
 
+
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36927
+
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",BABYTV
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36993
+
 #EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RasW9hrfTm7BPonqflU6LppqhdBK2J81KljVMDoLMqT.jpg" group-title="jornalismo",CNN BRASIL - HD
 http://x90.live:80/valmir/654321/83090
 
