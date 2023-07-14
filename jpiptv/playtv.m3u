@@ -680,6 +680,9 @@ https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV PRECABURA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e60182cb891f5a4ad9e1b7c78572269e.webp" group-title="variedades",TV PRECABURA
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 
+#EXTINF:-1 tvg-id="Demand Africa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6nwcZSLeez-sY7a35ZodrTJTA2k7xz3puA7NKcVTkTuBwFt9pv4YNjqP2MLr6io0HJgotzeknzk3OeSlZZM_AeX7OGtC990AQ1zFtG8pMzakFoHvkMds6WibGUgjVAz3CU9isDWUsRLqGYP61IOANwMFGI_fFaIhTGTfHs6hQbZEv9kckq-pL_J1M3g/s1600/DA.jpg" group-title="variedades",Demand Africa
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+
 
 
 ####################################evangelica##############################################
