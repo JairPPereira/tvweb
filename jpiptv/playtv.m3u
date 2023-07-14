@@ -1353,6 +1353,12 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81004
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81005
 #EXTINF:-1 tvg-id="TV NSPORTS 3 (S)" tvg-name="TV NSPORTS 3 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",TV NSPORTS 3 (S)
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81006
+############################################################################################
+
+#EXTINF:-1 tvg-id="DAZN 7 FHD" tvg-name="DAZN 1 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",DAZN 1 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63216
+#EXTINF:-1 tvg-id="DAZN 5 HD" tvg-name="DAZN 2 HD (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",DAZN 2 HD (J)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63113
 
 
 
