@@ -1778,8 +1778,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-id="Runtime Comédia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="filmesseries",Runtime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
+#EXTINF:-1 tvg-id="Runtime Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="filmesseries",Runtime Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
+#EXTINF:-1 tvg-id="Runtime Espanto" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="filmesseries",Runtime Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
 #EXTINF:-1 tvg-id="Runtime Crime" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae540b891b4a0d073b39ae0bb693f5c3.webp" group-title="filmesseries",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-id="Runtime Romance" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="filmesseries", RUNTIME ROMANCE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
 #EXTINF:-1 tvg-id="Soul Cine Clube" tvg-logo="https://imgur.com/QapVmCb.png" group-title="filmesseries",Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
@@ -1843,6 +1852,9 @@ https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
 
 
 ####################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Dez Mandamentos" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xAnO8CS0y3Id9TE8UvEpVUNQtRd.jpg" group-title="SERIES 24H",Os Dez Mandamentos
+https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" Aeroporto Area Restrita" tvg-logo="https://lh3.googleusercontent.com/-5-e0jOCQxpI/X-zwrBOV9FI/AAAAAAAAIqI/2NS5eJaoHX08OHL8RgY6yu23OA1RhKrmgCLcBGAsYHQ/Aeroporto%2BArea%2BRestrita.png" group-title="SERIES 24H", Aeroporto Area Restrita
 http://t2tp.xyz:80/640540180/463412972/59111
