@@ -1254,15 +1254,6 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36970
 #EXTINF:-1 tvg-id="0" tvg-name="Esporte Interativo HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",ESPORTE INTERATIVO HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61879
 
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 1 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/nossofutebol.png" group-title=" Canais I NOSSO FUTEBOL ",Nosso Futebol 1 HD
-http://51.89.98.62:8080/max1569/max1569/85681
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/nossofutebol.png" group-title=" Canais I NOSSO FUTEBOL ",Nosso Futebol 2 HD
-http://51.89.98.62:8080/max1569/max1569/85682
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 3 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/nossofutebol.png" group-title=" Canais I NOSSO FUTEBOL ",Nosso Futebol 3 HD
-http://51.89.98.62:8080/max1569/max1569/85683
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 4 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/nossofutebol.png" group-title=" Canais I NOSSO FUTEBOL ",Nosso Futebol 4 HD
-http://51.89.98.62:8080/max1569/max1569/85684
-
 
 #EXTINF:-1 tvg-id="Fight Box HD" tvg-name="Fight Box HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Esportes",FIGHT BOX HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89971
@@ -1546,27 +1537,6 @@ http://conexaoonline.top/live/xus5mtzd/qbuh8dtb/25721.ts
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="CINE SKY 09 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeDFk3BI-IVemDfuAv5AMmWTPE6RZ3g59iSdTW6CIQiHDLQ457EhQTkHlz--R8YoE6R3vThN7ZTdS_vFce2ECsI4hGYyO4cUoFvopTWKUKWPUCc4hzGdpZu8mIkszcTCcpcgQTawmS3w3z0EvKkIJLurz0wWbXB-HwlFHLczwMwxw0q7ggEYwExXgL38Q/s1600/Trapalhoes.jpg" group-title="CANAIS | PAY-PER-VIEW",W CINE OS TRAPALHÕES
 http://conexaoonline.top/live/xus5mtzd/qbuh8dtb/59531.ts
 
-#########################################################################################
-
-#EXTINF:-1 tvg-id="LIFEBHD" tvg-name="Lifetime FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime FHD*
-http://51.89.98.62:8080/max1569/max1569/27347
-#EXTINF:-1 tvg-id="LIFEBHD" tvg-name="Lifetime HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime HD*
-http://51.89.98.62:8080/max1569/max1569/27348
-#EXTINF:-1 tvg-id="LIFEBHD" tvg-name="Lifetime SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime SD*
-http://51.89.98.62:8080/max1569/max1569/27349
-
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD¹" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL FHD¹
-http://7go.xyz:8080/1pvm6g/k25ab1/59646
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD²" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL FHD²
-http://7go.xyz:8080/1pvm6g/k25ab1/64705
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD¹" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL HD¹
-http://7go.xyz:8080/1pvm6g/k25ab1/59645
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD²" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL HD²
-http://7go.xyz:8080/1pvm6g/k25ab1/64704
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD¹" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL SD¹
-http://7go.xyz:8080/1pvm6g/k25ab1/160765
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD²" tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL SD²
-http://7go.xyz:8080/1pvm6g/k25ab1/22303
 
 #########################################################################################
 
@@ -1850,6 +1820,11 @@ https://stmv.srvvox.com.br/anderson/anderson/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Web Tv Clássicos do Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="filmesseries",Web Tv Clássicos do Cinema
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ABERTOS",CANAL BRASIL
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37122
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ABERTOS",CANAL BRASIL HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63636
 
 ###################################################################################
 
