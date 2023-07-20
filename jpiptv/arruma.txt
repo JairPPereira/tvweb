@@ -1,56 +1,18 @@
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b5fef447f62d556b33598a4abcfbf60.webp" group-title="variedades" pltv-subgroup="Canais NewCom", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S01 E01
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/9341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S01 E02
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/9342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S01 E03" tvg-logo="https://image.tmdb.org/t/p/w1280/5wGkymV2D9P9ZGI2wP0PefIwFol.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S01 E03
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/9343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S01 E04" tvg-logo="https://image.tmdb.org/t/p/w1280/cKyE2gtQT5zIpLQHnD3mFNWrKud.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S01 E04
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/9344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S01 E05
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/9345.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S01 E06
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/9346.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S01 E07" tvg-logo="https://image.tmdb.org/t/p/w1280/m483Gihn8vAt0cW5RXe5YRtchIQ.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S01 E07
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/9347.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S01 E08" tvg-logo="https://image.tmdb.org/t/p/w1280/v36aZwxTsPAvqsssLPVno3VFvg5.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S01 E08
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/9348.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S02 E01" tvg-logo="https://image.tmdb.org/t/p/w1280/n6oeOfj8jMPbXZ2E2QTVXYt5cvO.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S02 E01
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/22198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S02 E02" tvg-logo="https://image.tmdb.org/t/p/w1280/kAuS7h8qVLokHcKpSwZMum4PhC2.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S02 E02
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/23035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S02 E03" tvg-logo="https://image.tmdb.org/t/p/w1280/gnZOQajf33N3BzRouIZU3NM45TY.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S02 E03
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/23036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S02 E04
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/23037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S02 E05" tvg-logo="https://image.tmdb.org/t/p/w1280/42QoiVzHnBKAxHT4DpYIKkRTG3N.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S02 E05
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/23304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S02 E06
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/23305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S02 E07
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/23445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S02 E08" tvg-logo="https://image.tmdb.org/t/p/w1280/non7AnwMaloVU0OtenLqKyq8Zg3.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S02 E08
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/23483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S03 E01" tvg-logo="https://image.tmdb.org/t/p/w1280/8XeuJls7qlTsPiDAK0qarvBrmb2.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S03 E01
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/154713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S03 E02
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/154712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S03 E03" tvg-logo="https://image.tmdb.org/t/p/w1280/zgj0iZUYNIZh0NbPVdNEdTacfwv.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S03 E03
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/154880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S03 E04" tvg-logo="https://image.tmdb.org/t/p/w1280/jtH7v1yusbC0Lj3jAT8W2aEbbW3.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S03 E04
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/158200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S03 E05
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/159986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S03 E06" tvg-logo="https://image.tmdb.org/t/p/w1280/tIbTlMWkVBFUeUT76FXWb6jzteW.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S03 E06
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/161450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S03 E07" tvg-logo="https://image.tmdb.org/t/p/w1280/38blBPXRWevBgwa4XPVZkc2mMCO.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S03 E07
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/161988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano S03 E08" tvg-logo="https://image.tmdb.org/t/p/w1280/blG9C2voVSQlC8M1JkJZgo7BvCL.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="O Mandaloriano",O Mandaloriano S03 E08
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/162592.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E01
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/34966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E02
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/36166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E03
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/38134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E04
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/39364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E05
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/40268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/98hGgYbNFP8GnZhJzAar22bWIAT.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E06
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/41717.mp4
 
 Batem à Porta (2023)
 Batem à Porta LEG (2023)
