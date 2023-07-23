@@ -1,19 +1,6 @@
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b5fef447f62d556b33598a4abcfbf60.webp" group-title="variedades" pltv-subgroup="Canais NewCom", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E01
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/34966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E02
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/36166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E03
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/38134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E04
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/39364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E05
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/40268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/98hGgYbNFP8GnZhJzAar22bWIAT.jpg" group-title="SÉRIES - DISNEY + PLUS" pltv-subgroup="Loki",Loki S01 E06
-http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/41717.mp4
-
 Batem à Porta (2023)
 Batem à Porta LEG (2023)
 Bater ou Correr (2000)
