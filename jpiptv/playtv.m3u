@@ -1131,6 +1131,14 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36977
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37099
 #EXTINF:-1 tvg-id="FoxSports HD" tvg-name="ESPN4 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN4 HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36970
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 01" tvg-logo="http://ucsxiptv.com:8080/images/nossofutebol2.png" group-title="CANAIS | ESPORTES",Nosso Futebol 01
+http://piglo.re:80/Nuvens026/Nu050526/775358.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 02" tvg-logo="http://ucsxiptv.com:8080/images/nossofutebol2.png" group-title="CANAIS | ESPORTES",Nosso Futebol 02
+http://piglo.re:80/Nuvens026/Nu050526/775359.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 03" tvg-logo="http://ucsxiptv.com:8080/images/nossofutebol2.png" group-title="CANAIS | ESPORTES",Nosso Futebol 03
+http://piglo.re:80/Nuvens026/Nu050526/775360.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 04" tvg-logo="http://ucsxiptv.com:8080/images/nossofutebol2.png" group-title="CANAIS | ESPORTES",Nosso Futebol 04
+http://piglo.re:80/Nuvens026/Nu050526/775361.ts
 #EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="Premiere 2 FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/4f02df7b2aedca9a4a55c65178d3b013.png" group-title="CANAIS || PREMIERE",Premiere 2 FHD
 http://piglo.re:80/Nuvens026/Nu050526/54222.ts
 #EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="Premiere 2 HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/4f02df7b2aedca9a4a55c65178d3b013.png" group-title="CANAIS || PREMIERE",Premiere 2 HD
