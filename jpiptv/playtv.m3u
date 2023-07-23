@@ -7826,7 +7826,6 @@ https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720
 
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8
-#
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cgYg04miVQUAG2FKk3amSnnHzOp.jpg" group-title="LANCAMENTOS",Barbie (2023)
 https://archive.org/download/novofilme/novofilme.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3pWufgN" group-title="LANCAMENTOS" ,Super Mario Bros O Filme 2023
