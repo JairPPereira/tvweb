@@ -41,33 +41,30 @@ https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="TV ONE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="Estados- Pará",TV ONE
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CBC TV Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b3b5afe27476830a9e64bac1464ad976.webp" group-title="Estados- Pará",CBC TV Gospel	
 https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Brasil (F) X Panamá 08:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Brasil (F) X Panamá 08:00
- http://5ce.co:80/JoaoMarcosPai/jmp120590/226806
+ http://5ce.co:80/fabi30/host395/226806
 #EXTINF:-1 tvg-name="Coritiba X Fluminense 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Coritiba X Fluminense 19:00
- http://5ce.co:80/JoaoMarcosPai/jmp120590/226807
+ http://5ce.co:80/fabi30/host395/226807
 #EXTINF:-1 tvg-name="Vitória X Chapecoense-sc 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Vitória X Chapecoense-sc 19:00
- http://5ce.co:80/JoaoMarcosPai/jmp120590/226808
+ http://5ce.co:80/fabi30/host395/226808
 #EXTINF:-1 tvg-name="Londrina X Botafogo SP 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Londrina X Botafogo SP 19:00
- http://5ce.co:80/JoaoMarcosPai/jmp120590/226809
+ http://5ce.co:80/fabi30/host395/226809
 #EXTINF:-1 tvg-name="São José X Volta Redonda  20:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",São José X Volta Redonda  20:00
- http://5ce.co:80/JoaoMarcosPai/jmp120590/226810
+ http://5ce.co:80/fabi30/host395/226810
 #EXTINF:-1 tvg-name="Floresta X Figueirense 20:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Floresta X Figueirense 20:00
- http://5ce.co:80/JoaoMarcosPai/jmp120590/226811
+ http://5ce.co:80/fabi30/host395/226811
 #EXTINF:-1 tvg-name="Boca Juniors X Newells Old Boys 20:45" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Boca Juniors X Newells Old Boys 20:45
- http://5ce.co:80/JoaoMarcosPai/jmp120590/226813
+ http://5ce.co:80/fabi30/host395/226813
 #EXTINF:-1 tvg-name="Colômbia (F) X Coreia do Sul (F) 23:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Colômbia (F) X Coreia do Sul (F) 23:00
- http://5ce.co:80/JoaoMarcosPai/jmp120590/226814
+ http://5ce.co:80/fabi30/host395/226814
 #EXTINF:-1 tvg-name="Real Madrid X AC Milan 23:00" tvg-logo="" group-title="PORTUGAL",Real Madrid X AC Milan 23:00
- http://5ce.co:80/JoaoMarcosPai/jmp120590/226834
+ http://5ce.co:80/fabi30/host395/226834
 #EXTINF:-1 tvg-name="Bahia X Corinthians 18:30" tvg-logo="" group-title="PORTUGAL",Bahia X Corinthians 18:30
- http://5ce.co:80/JoaoMarcosPai/jmp120590/226835
+ http://5ce.co:80/fabi30/host395/226835
 #EXTINF:-1 tvg-name="Gremio X Atletico-MG 21:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="PORTUGAL",Gremio X Atletico-MG 21:00
- http://5ce.co:80/JoaoMarcosPai/jmp120590/226955
-
+ http://5ce.co:80/fabi30/host395/226955
 
 #EXTINF:-1 tvg-id="AgrobrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="variedades",Agrobrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
