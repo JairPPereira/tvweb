@@ -44,7 +44,7 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-id="CBC TV Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b3b5afe27476830a9e64bac1464ad976.webp" group-title="Estados- Pará",CBC TV Gospel	
 https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
 #EXTINF:-1 tvg-name="CAZÉ TV (AO VIVO)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcPDV8oycuXHpvWU0OiQvLgdrvDc6Cw0-b10sWTXA2UgbgnAzZS98ZN4KT_9a-mgv_ifGsE0jDl-v0lvNgN4crePe_KGkBUCgV9SFOMTu8EE_JcDnhEcW4T5ftpizRCVmea-XK-cyImpk02stbzcpIvpkCb26P48-ocP72wjqRWnYo2zYt2qjtrAxZY8/s1600/CAZE.jpeg" group-title="JOGOS DE HOJE",CAZÉ TV (AO VIVO)
-http://main.xplus2-main.xyz:2095/live/xplus-2-eR4yOu5zB7/SVA2F4ceud/1145.m3u8
+http://5ce.co:80/fabi30/host395/99342
 #EXTINF:-1 tvg-name="RB Leipzig X Udinese 13:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 25.07",RB Leipzig X Udinese 13:00
 http://5ce.co:80/fabi30/host395/226806
 #EXTINF:-1 tvg-name="Bolton X Everton 15:45" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 25.07",Bolton X Everton 15:45
@@ -1000,6 +1000,22 @@ https://archive.org/download/documentario-sobre-o-titanic/Fantasmas%20do%20Abism
 
 #EXTINF:-1 tvg-id="Vale dos Isolados: O Assassinato de Bruno e Dom" tvg-name="Documentários" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1g7pRTcQX5NBMi9KMJG8nSrgDve.jpg" group-title="Documentários",Vale dos Isolados: O Assassinato de Bruno e Dom
 http://conexaoonline.top:80/movie/2556180200/2071846880/322673.mp4
+#EXTINF:-1 tvg-name="Prime Video Copa do Brasil  01" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil  01
+ http://5ce.co:80/fabi30/host395/201343
+#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 02" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 02
+ http://5ce.co:80/fabi30/host395/201345
+#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 03" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 03
+ http://5ce.co:80/fabi30/host395/201346
+#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 04" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 04
+ http://5ce.co:80/fabi30/host395/201348
+#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 05" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 05
+ http://5ce.co:80/fabi30/host395/221497
+#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 06" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 06
+ http://5ce.co:80/fabi30/host395/221498
+#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 07" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 07
+ http://5ce.co:80/fabi30/host395/221499
+#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 08" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 08
+ http://5ce.co:80/fabi30/host395/221500
 #EXTINF:-1 tvg-id="REAL MADRIDTV" tvg-name="REAL MADRIDTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",REAL MADRIDTV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
