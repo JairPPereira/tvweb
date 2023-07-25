@@ -45,6 +45,29 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-id="CBC TV Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b3b5afe27476830a9e64bac1464ad976.webp" group-title="Estados- Pará",CBC TV Gospel	
 https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Brasil (F) X Panamá 08:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Brasil (F) X Panamá 08:00
+ http://5ce.co:80/JoaoMarcosPai/jmp120590/226806
+#EXTINF:-1 tvg-name="Coritiba X Fluminense 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Coritiba X Fluminense 19:00
+ http://5ce.co:80/JoaoMarcosPai/jmp120590/226807
+#EXTINF:-1 tvg-name="Vitória X Chapecoense-sc 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Vitória X Chapecoense-sc 19:00
+ http://5ce.co:80/JoaoMarcosPai/jmp120590/226808
+#EXTINF:-1 tvg-name="Londrina X Botafogo SP 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Londrina X Botafogo SP 19:00
+ http://5ce.co:80/JoaoMarcosPai/jmp120590/226809
+#EXTINF:-1 tvg-name="São José X Volta Redonda  20:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",São José X Volta Redonda  20:00
+ http://5ce.co:80/JoaoMarcosPai/jmp120590/226810
+#EXTINF:-1 tvg-name="Floresta X Figueirense 20:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Floresta X Figueirense 20:00
+ http://5ce.co:80/JoaoMarcosPai/jmp120590/226811
+#EXTINF:-1 tvg-name="Boca Juniors X Newells Old Boys 20:45" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Boca Juniors X Newells Old Boys 20:45
+ http://5ce.co:80/JoaoMarcosPai/jmp120590/226813
+#EXTINF:-1 tvg-name="Colômbia (F) X Coreia do Sul (F) 23:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Colômbia (F) X Coreia do Sul (F) 23:00
+ http://5ce.co:80/JoaoMarcosPai/jmp120590/226814
+#EXTINF:-1 tvg-name="Real Madrid X AC Milan 23:00" tvg-logo="" group-title="PORTUGAL",Real Madrid X AC Milan 23:00
+ http://5ce.co:80/JoaoMarcosPai/jmp120590/226834
+#EXTINF:-1 tvg-name="Bahia X Corinthians 18:30" tvg-logo="" group-title="PORTUGAL",Bahia X Corinthians 18:30
+ http://5ce.co:80/JoaoMarcosPai/jmp120590/226835
+#EXTINF:-1 tvg-name="Gremio X Atletico-MG 21:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="PORTUGAL",Gremio X Atletico-MG 21:00
+ http://5ce.co:80/JoaoMarcosPai/jmp120590/226955
+
 
 #EXTINF:-1 tvg-id="AgrobrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="variedades",Agrobrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
@@ -1035,60 +1058,6 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BANDSPORTS HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36989
-#EXTINF:-1 tvg-id="Brasileirão Série C (S)" tvg-name="Brasileirão Série C (JOGO 1) (S) " tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SÉRIE C (JOGO 1) (S) 
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87227
-#EXTINF:-1 tvg-id="BRASILEIRÃO SERIE C (JOGO 2) (S)" tvg-name="BRASILEIRÃO SERIE C (JOGO 2) (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SERIE C (JOGO 2) (S)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89542
-#EXTINF:-1 tvg-id="BRASILEIRÃO SERIE C (JOGO 3) S)" tvg-name="BRASILEIRÃO SERIE C (JOGO 3) (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SERIE C (JOGO 3) (S)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89543
-#EXTINF:-1 tvg-id="BRASILEIRÃO SERIE C ( JOGO 4) (S)" tvg-name="BRASILEIRÃO SERIE C (JOGO 4) (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SERIE C (JOGO 4) (S)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89544
-#EXTINF:-1 tvg-id="Brasileirão Série C" tvg-name="Brasileirão Série C 1 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SÉRIE C 1 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87226
-#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 10 (J)" tvg-name="BRASILEIRAO SERIE C 10 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 10 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89979
-#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 2 (J)" tvg-name="BRASILEIRAO SERIE C 2 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 2 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89546
-#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 3 (J)" tvg-name="BRASILEIRAO SERIE C 3 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 3 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89547
-#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 4 (J)" tvg-name="BRASILEIRAO SERIE C 4 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 4 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89973
-#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 5 (J)" tvg-name="BRASILEIRAO SERIE C 5 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 5 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89974
-#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 6 (J)" tvg-name="BRASILEIRAO SERIE C 6 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 6 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89975
-#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 7 (J)" tvg-name="BRASILEIRAO SERIE C 7 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 7 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89976
-#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 8 (J)" tvg-name="BRASILEIRAO SERIE C 8 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 8 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89977
-#EXTINF:-1 tvg-id="BRASILEIRAO SERIE C 9 (J)" tvg-name="BRASILEIRAO SERIE C 9 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRAO SERIE C 9 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89978
-#EXTINF:-1 tvg-id="BRASILEIRÃO SÉRIE D (S)" tvg-name="BRASILEIRÃO SÉRIE D (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SÉRIE D (S)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89545
-#EXTINF:-1 tvg-id="Brasileirão Série D 1 (J)" tvg-name="Brasileirão Série D 1 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SÉRIE D 1 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89583
-#EXTINF:-1 tvg-id="Brasileirão Série D 2 (J)" tvg-name="Brasileirão Série D 2 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BRASILEIRÃO SÉRIE D 2 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89584
-#EXTINF:-1 tvg-id="Campeonato Alemão 1 (J)" tvg-name="Campeonato Alemão 1 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",CAMPEONATO ALEMÃO 1 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87603
-#EXTINF:-1 tvg-id="Campeonato Alemão 2 (J)" tvg-name="Campeonato Alemão 2 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",CAMPEONATO ALEMÃO 2 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87604
-#EXTINF:-1 tvg-id="Campeonato Alemão 3 (J)" tvg-name="Campeonato Alemão 3 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",CAMPEONATO ALEMÃO 3 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87605
-#EXTINF:-1 tvg-id="Campeonato Alemão 4 (J)" tvg-name="Campeonato Alemão 4 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",CAMPEONATO ALEMÃO 4 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87606
-#EXTINF:-1 tvg-id="Campeonato Alemão 5 (J)" tvg-name="Campeonato Alemão 5 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",CAMPEONATO ALEMÃO 5 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87607
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",COMBATE HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36986
-#EXTINF:-1 tvg-id="Copa do Brasil Prime Video 1 (J)" tvg-name="Copa do Brasil Prime Video 1 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",COPA DO BRASIL PRIME VIDEO 1 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87777
-#EXTINF:-1 tvg-id="Copa do Brasil Prime Video 1 (S)" tvg-name="Copa do Brasil Prime Video 1 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",COPA DO BRASIL PRIME VIDEO 1 (S)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86455
-#EXTINF:-1 tvg-id="Copa do Brasil Prime Video 2 (J)" tvg-name="Copa do Brasil Prime Video 2 (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",COPA DO BRASIL PRIME VIDEO 2 (J)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87778
-#EXTINF:-1 tvg-id="Copa do Brasil Prime Video 2 (S)" tvg-name="Copa do Brasil Prime Video 2 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",COPA DO BRASIL PRIME VIDEO 2 (S)
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86456
 #EXTINF:-1 tvg-id="Eleven Sports Channel 1 (S)" tvg-name="Eleven Sports Channel 1 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 1 (S)
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81007
 #EXTINF:-1 tvg-id="Eleven Sports Channel 10 (S)" tvg-name="Eleven Sports Channel 10 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 10 (S)
