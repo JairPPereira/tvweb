@@ -47,27 +47,28 @@ https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
 http://main.xplus2-main.xyz:2095/live/xplus-2-eR4yOu5zB7/SVA2F4ceud/1145.m3u8
 #EXTINF:-1 tvg-name=" PARIS SAINT-GERMAIN (FRA) X AL-NASSR (KSA) 7:10" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE", PARIS SAINT-GERMAIN (FRA) X AL-NASSR (KSA) 7:10
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690303976/ei/iKm_ZJTWGf-D-LAPrYudkAY/ip/206.84.34.217/id/ZdIeX8lXHcw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/br/siu/1/bui/AYlvQAv6DTxCRN9kbIeX9fYUVouGWNSbaLTJ6G0eCdrYw4s3jVOXnWReqKW4y_8SZDsN__Jg5nQYyoVRTuVhsm6Kzw/spc/Ul2Sq13BiibO0NgMNDHXAbBZH7GW5AmCHCb29jgpfQ1aVSePZWmvgeY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALB2-5iqc0wH0Lbu1knZRcbepqIh_xX-mTn6Gm7esg1pAiBbFoAkvJwfTQoH3LP38dEW-pRyzobV_zI8q3-fUs8_tg%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-name="Coritiba X Fluminense 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Coritiba X Fluminense 19:00
-http://5ce.co:80/fabi30/host395/226807
-#EXTINF:-1 tvg-name="Vitória X Chapecoense-sc 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Vitória X Chapecoense-sc 19:00
-http://5ce.co:80/fabi30/host395/226808
-#EXTINF:-1 tvg-name="Londrina X Botafogo SP 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Londrina X Botafogo SP 19:00
-http://5ce.co:80/fabi30/host395/226809
-#EXTINF:-1 tvg-name="São José X Volta Redonda  20:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",São José X Volta Redonda  20:00
-http://5ce.co:80/fabi30/host395/226810
-#EXTINF:-1 tvg-name="Floresta X Figueirense 20:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Floresta X Figueirense 20:00
-http://5ce.co:80/fabi30/host395/226811
-#EXTINF:-1 tvg-name="Boca Juniors X Newells Old Boys 20:45" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Boca Juniors X Newells Old Boys 20:45
-http://5ce.co:80/fabi30/host395/226813
-#EXTINF:-1 tvg-name="Colômbia (F) X Coreia do Sul (F) 23:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE",Colômbia (F) X Coreia do Sul (F) 23:00
-http://5ce.co:80/fabi30/host395/226814
+#EXTINF:-1 tvg-name="RB Leipzig X Udinese 13:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 25.07",RB Leipzig X Udinese 13:00
+ http://5ce.co:80/fabi30/host395/226806
+#EXTINF:-1 tvg-name="Bolton X Everton 15:45" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 25.07",Bolton X Everton 15:45
+ http://5ce.co:80/fabi30/host395/226807
+#EXTINF:-1 tvg-name="Palmeiras sub-20 X Botafogo Sub-20 16:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 25.07",Palmeiras sub-20 X Botafogo Sub-20 16:00
+ http://5ce.co:80/fabi30/host395/226808
+#EXTINF:-1 tvg-name="Sporting CP X Real Sociedad 16:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 25.07",Sporting CP X Real Sociedad 16:30
+ http://5ce.co:80/fabi30/host395/226809
+#EXTINF:-1 tvg-name="Inter Miami X Atlanta United FC  20:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 25.07",Inter Miami X Atlanta United FC  20:30
+ http://5ce.co:80/fabi30/host395/226810
+#EXTINF:-1 tvg-name="Corinthians X São Paulo 21:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 25.07",Corinthians X São Paulo 21:30
+ http://5ce.co:80/fabi30/host395/226811
+#EXTINF:-1 tvg-name="Boca Juniors X Newells Old Boys 20:45" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="PORTUGAL",Boca Juniors X Newells Old Boys 20:45
+ http://5ce.co:80/fabi30/host395/226813
+#EXTINF:-1 tvg-name="Colômbia (F) X Coreia do Sul (F) 23:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="PORTUGAL",Colômbia (F) X Coreia do Sul (F) 23:00
+ http://5ce.co:80/fabi30/host395/226814
 #EXTINF:-1 tvg-name="Real Madrid X AC Milan 23:00" tvg-logo="" group-title="PORTUGAL",Real Madrid X AC Milan 23:00
-http://5ce.co:80/fabi30/host395/226834
+ http://5ce.co:80/fabi30/host395/226834
 #EXTINF:-1 tvg-name="Bahia X Corinthians 18:30" tvg-logo="" group-title="PORTUGAL",Bahia X Corinthians 18:30
-http://5ce.co:80/fabi30/host395/226835
+ http://5ce.co:80/fabi30/host395/226835
 #EXTINF:-1 tvg-name="Gremio X Atletico-MG 21:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="PORTUGAL",Gremio X Atletico-MG 21:00
-http://5ce.co:80/fabi30/host395/226955
-
+ http://5ce.co:80/fabi30/host395/226955
 #EXTINF:-1 tvg-id="AgrobrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="variedades",Agrobrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
