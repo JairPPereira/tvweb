@@ -1403,10 +1403,6 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86528
 
 #EXTINF:-1 tvg-id="Zoomoo HD" tvg-name="Zoomoo HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",ZOOMOO HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63779
-
-
-#######################################################################################
-
 #EXTINF:-1 tvg-id="Tv Tremembé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc313ddd3bc4d8de0f5939ee8410a56e.webp" group-title="filmesseries",Tv Tremembé
 https://video05.logicahost.com.br/tvtremembe/tvtremembe/playlist.m3u8
 
