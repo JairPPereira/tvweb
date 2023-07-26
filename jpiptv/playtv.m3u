@@ -80,10 +80,6 @@ https://painel.sintonizar.tv.br:1936/tvsdbola/tvsdbola/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Brusque" tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="variedades",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/chunklist_w1686847561.m3u8
 
-
-#EXTINF:-1 tvg-id="Central TV" tvg-logo="https://assets.iptv2022.com/uploads/channel/11439/thumb_Group_60.png" group-title="variedades",Central TV
-https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TV Aracati" tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="variedades",TV Aracati
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 
@@ -117,9 +113,6 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-id="TBO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/709c85870d0cd85a4a9e9df0dc245e2a.webp" group-title="variedades",TBO
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Conectv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/454924e01d06c3bc20131e8514187305.webp" group-title="variedades",Conectv
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-
 #EXTINF:-1 tvg-id="TV Feira de Santana" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/aab1d14178a0f45aec1c21e1407d30dd.webp" group-title="variedades",TV Feira de Santana
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w174675839.m3u8?fluxustv.m3u8
 
@@ -137,9 +130,6 @@ https://d8nlqpvobfd9y.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://pbs.twimg.com/profile_images/1531777945899085824/gb8V3gS3_400x400.jpg" group-title="variedades", Amazon Sat HD
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
-#EXTINF:-1 tvg-id="Gazeta.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="variedades", TV Alternativa HD
-https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBTPara.br"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="variedades", SBT Centro - Bem TV
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w966754397.m3u8
@@ -211,9 +201,6 @@ https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?t=165134
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://yt3.ggpht.com/a/AATXAJxPIaewodu9wTtxjjkSBi8jfty9DXsIqZcutVNlBw=s900-c-k-c0x00ffffff-no-rj" group-title="variedades" , TV Brasil Web
 https://tvbrasil-stream.ebc.com.br/chunks.m3u8
-
-#EXTINF:-1 tvg-id="COMBrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVcgcHXRWZL91PQvzjv9cTlfkt-3oSuJ4jQ&usqp=CAU" group-title="variedades", TV Comunitária HD
-https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w925345344.m3u8
 
 #EXTINF:-1 tvg-id="Canallibras.br" tvg-logo="https://yt3.googleusercontent.com/UR_d64SLXNgTwPKOkeL1PRE7MoK46hUQQDyu_h2hOq9vIDmHdgi_lTHSNSG8qoPKLD_6f3LV6g=s900-c-k-c0x00ffffff-no-rj" group-title="variedades",Canal Libras
 https://canallibras-stream.ebc.com.br/chunks.m3u8
@@ -485,10 +472,6 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oriundi Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b51758f07b127401ce5961d0f13102df.webp" group-title="variedades",Oriundi Tv
 https://stmv5.samcast.com.br/oriunditv/oriunditv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Do Povo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2f221ef07c8762196cd782faaee34626.webp" group-title="variedades",TV Do Povo
-https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/chunklist_w1574443515.m3u8
-
 #EXTINF:-1 tvg-id="TV Plan" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5da6ab4e1fd0705a19bfe1fdeee3520d.webp" group-title="variedades",TV Plan
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 
@@ -808,28 +791,13 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jp" group-title="Religioso", Boa Vontade TV
 https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
 
-#EXTINF:-1 tvg-id="CBC TV Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b3b5afe27476830a9e64bac1464ad976.webp" group-title="Religioso",CBC TV Gospel
-https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Espírita Do Paraná" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b600878cd0711a5417b2e0b2162a451.webp" group-title="Religioso",Tv Espírita Do Paraná
 https://srv4.zcast.com.br/rodney2576/rodney2576/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Universal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1d8fb419ad2b89ff1302e149a9774bc5.webp" group-title="Religioso",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Confiego" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc4f4fddc2330b377037d229aee44942.webp" group-title="Religioso",Tv Confiego
-https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="TOP MIX TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ab499d9cc282fd063424971ef738fec.webp" group-title="Religioso",TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fonte TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c99ffdca1366ea084333c569452200e.webp" group-title="Religioso",Fonte TV
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Rede Tv Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/010ea72aa1b8cc6bab3db313a2cafd37.webp" group-title="Religioso",Rede Tv Família
-https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifByy4OrmR7aFdFrRDHaTdj3E-WHrmybRBADqo_D-JrkVkGAPgO5JmH9c8NRtjprYZQ4PJ4ERGI6VNXruNKFCt__ivEQoaGJcMRUL9NiV7gb1824_CiupMSxdOFMlnrlfOhlraRckOtYtGDUIG58MVYE-mzLJact5Ucj_3mQ8lAwsRUKYJU5OY_0qM/s1600/cnn.png" group-title="jornalismo",CNN BRASIL
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65040
@@ -1014,11 +982,6 @@ http://conexaoonline.top:80/movie/2556180200/2071846880/322673.mp4
  http://5ce.co:80/2y0962803/8w4017mb/221500
 #EXTINF:-1 tvg-id="REAL MADRIDTV" tvg-name="REAL MADRIDTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",REAL MADRIDTV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYscndKrxlD-tNIEXAr73_L3XKW-515mphgUmvmM23EFjqVvAosndJZE1CSqiEo3yD9KrasyiAmr8puiJZCWyEftc5ib11iAQ0eN_71plRLKePXIP2FniSn8IHNh2gka2ZicxG9lT_4pJ0xY8fwQ0S3dmN2a8KW7ynJHSxB1G4WQOqs57dvUqXnsNR/s1600/allsports.png" group-title="CANAIS | ESPORTES",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="RSNewsSports.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a9158128f33e2a329ae8296ec8e3574.webp" group-title="CANAIS | ESPORTES", RS News Sports 2
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
 
@@ -1085,28 +1048,16 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81013
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81014
 #EXTINF:-1 tvg-id="Eleven Sports Channel 9 (S)" tvg-name="Eleven Sports Channel 9 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 9 (S)
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81015
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37104
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 3" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN 3
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62745
 #EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 3 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN 3 HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36976
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN 4
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/85335
 #EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN 4 HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/85336
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN EXTRA
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41977
 #EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN Extra HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42910
 #EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN HD " tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN HD 
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73051
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN2 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN2 HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36977
-#EXTINF:-1 tvg-id="FoxSports" tvg-name="ESPN4" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN4
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37099
-#EXTINF:-1 tvg-id="FoxSports HD" tvg-name="ESPN4 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN4 HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36970
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1" tvg-logo="" group-title="CANAIS | ESPORTES",NOSSO FUTEBOL 1
 http://main.xplus2-main.xyz:2095/xplus-2-eR4yOu5zB7/SVA2F4ceud/1131
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2" tvg-logo="" group-title="CANAIS | ESPORTES",NOSSO FUTEBOL 2
@@ -1143,8 +1094,6 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61879
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89971
 #EXTINF:-1 tvg-id="Fight Network" tvg-name="Fight Network" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FIGHT NETWORK
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/89972
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FISH TV
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37103
 #EXTINF:-1 tvg-id="Fish TV HD" tvg-name="Fish TV HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FISH TV HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42911
 #EXTINF:-1 tvg-id="FlaTV" tvg-name="FlaTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FLATV
@@ -1153,8 +1102,6 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78160
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/78760
 #EXTINF:-1 tvg-id="Fox App" tvg-name="Fox App" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FOX APP
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/70381
-#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FoxSports 2" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FOXSPORTS 2
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37098
 #EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-name="FoxSports 2 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FOXSPORTS 2 HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36971
 #EXTINF:-1 tvg-id="FURACAO TV (J)" tvg-name="FURACAO TV (J)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",FURACAO TV (J)
@@ -1505,16 +1452,9 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimemovienetworkBrazil.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="filmesseries", MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Do2h2Cayvm-vnKpypV5LrhingWAIbWCyb_HnMrrPxYCJbgDA0Se1lMaMZ5D4M7WFO_y1OboJXTwtlOdTzVUhw8Hh5TT5Tsrwz_cWlmdJydKyFZHzPC24Nu8GIiEON6TCv-O0ISMwUG08icES4QpL8SNZA36pOMtMpMOk0dfx62Cge3cFadPvylWZ/s1600/A&e.png" group-title="filmesseries", A&E
-http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV UTV" tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="filmesseries",TV UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV UTV" tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="filmesseries", Dc Super Heróis 
-http://lxls.mx:80/giselebello/80754546/333082
-
-
 #EXTINF:-1 tvg-id="Vintage" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="filmesseries",Vintage
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
@@ -1622,8 +1562,6 @@ https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ABERTOS",CANAL BRASIL
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37122
-#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ABERTOS",CANAL BRASIL HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63636
 
 
 ####################################################################################

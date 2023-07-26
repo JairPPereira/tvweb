@@ -1,6 +1,355 @@
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b5fef447f62d556b33598a4abcfbf60.webp" group-title="variedades" pltv-subgroup="Canais NewCom", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
+#########################################################
+
+GOSPEL MOVIE
+Gospel Movie TV
+Gospel Music Television
+HBO
+HBO 2  HD
+HBO Family HD
+HBO HD
+HBO MAX  04 HD (J)
+HBO MAX 01 HD
+HBO MAX 2 HD
+HBO MAX 02 HD (J)
+HBO MAX 03 HD (J)
+HBO MAX 3 HD (S)
+HBO MAX 4 HD
+HBO MAX 4 HD (S)
+HBO Signature HD
+History 2 FHD
+History FHD
+HITS TV
+ID: Investigação Discovery HD
+ies TV - Igreja do Espírito Santo
+Igreja Evangélica Cristo Vive
+Inexplicável o poder do ouro
+Isto (não) é um Assalto
+ISTVHD.br
+IURDTV Europa
+JP News
+Junho - O Mês que Abalou o Brasil
+KpopTVPlay.br
+KTV Brasil
+Kuriakos Cine
+lifeChannel.br
+LNF - Liga Futsal 2022 (S)
+LNF - Liga Futsal 2022 1 (J)
+LNF - Liga Futsal 2022 1 HD (J)
+LNF - Liga Futsal 2022 2 (J)
+LNF - Liga Futsal 2022 2 HD (J)
+LNF - Liga Futsal 2022 3 (J)
+LNF - Liga Futsal 2022 4 (J)
+Loading.br
+MaisFavelaTV.br
+Mamonas pra Sempre
+MASTER TV PR
+Max UP
+MaxPrime
+Médicos da Floresta
+Megapix HD
+mundotv.br
+Mussum: Um Filme do Cacildis
+MyTimemovienetworkBrazil.br
+ngt.br
+Nick HD
+Nick Jr. HD
+Nova Barreiros Web Tv
+Nova Gazeta
+O chamado dos cosmos a grandeza de Deus
+Oásis Tv
+Olhar Instigado
+Oriundi Tv
+Paramount Channel HD
+PLAN TV
+Play TV
+PLAYTV.br
+Polidoro TV
+Prime Box Brazil HD
+Rai 01
+RBA
+REAL MADRIDTV
+Record News
+RecordTV Belém
+RedBullTV.de
+Rede Alfa
+Rede Boas Novas
+Rede brasil
+Rede Caxias Tv
+Rede Clone
+Rede Família
+Rede Gospel Brasil
+Rede Ipitanga
+REDE MINAS
+Rede Mundial Interteve
+Rede Plenitude TV
+Rede Positiva Gospel
+Rede QDM
+Rede Sempre
+Rede Sempre TV
+Rede Web Tv
+RedeBrasil.br
+RedeBrasil.br
+Redebrasil.br
+Redeclone.br
+Redeclone.br
+RedeEstacao.br
+RedeGospel.br
+RedeMassa.br
+RedeMeioNorte.br
+Redeminas.br
+RedeTV.br
+RedeTV.br
+RedeTV.br
+RedeTV.br
+RedeTVRondonia.br
+RedeVida.br
+Retro Cartoon 2
+RetroCartoon.br
+RetroCartoon.br
+Revry Brasil
+RSNewsSports.br
+RSNewsSports.br
+RSNewsSports.br
+RSNewsSports.br
+RSNewsSports.br
+RTV Canal 38
+Runtime Ação
+Runtime Comédia
+Runtime Crime
+Runtime Espanto
+Runtime Familia
+Runtime Romance
+SBT Brasília
+SBTPara.br
+SDS de Valença
+Semear Tv
+SESCTV.br
+Seven Tv
+SIC
+Sistema solar e universo além e busca de terras alienígenas
+Snipers atiradores de elite
+Sony Channel HD
+Soul Cine Clube
+Sozinhos trilha de sangue
+Space HD
+SporTV 2
+SporTV 2 HD
+SporTV 3
+SporTV 3 HD
+SporTV HD
+Star+ HD
+Star+ HD (J)
+Star+ HD 2 (J)
+Star+ HD 2 (S)
+Star+ HD 3 (J)
+Star+ HD 3 (S)
+Star+ HD 4 (J)
+Star+ HD 5 (J)
+Studio Universal HD
+Syfy HD
+TBO
+TCM HD
+Tela Viva Tv
+Telecine Action HD
+Telecine Cult HD
+Telecine Fun HD
+Telecine Pipoca  HD
+Telecine Premium HD
+Telecine Touch HD
+TelecineAction.br
+Teleweb TV
+Teresópolis Tv
+TerraViva.br
+THATHI TV
+TNT
+TNT HD
+TNT Séries HD
+TNTSports2Brazil.br
+TNTSports2Brazil.br
+TNTSports3Brazil.br
+TNTSports4Brazil.br
+TNTSports5Brazil.br
+Tooncast HD
+TOP MIX TV
+TOP MIX TV
+TOP MIX TV 2
+Top Mix Tv Filmes
+Top Mix Tv Filmes
+TruTV HD
+turnerdemo.br
+Tv A7 Caldas Novas
+Tv Adorador Gospel
+Tv Adorando Jesus
+Tv Adorando Jesus
+TV Aracati
+TV BELTRAO 2
+Tv Boas Novas
+TV Boas Novas Amazonas
+Tv Brasil Hits
+Tv Brasil Oeste
+TV Brusque
+TV Cachoeira
+TV Capital
+Tv Capital Teresina
+TV CARAVELAS
+Tv Caruara
+TV Ceará
+TV CEI
+Tv Chapada
+TV CHROMA
+Tv Cidade Alagoinha
+Tv Cidade Alagoinha
+TV Cidade Verde (SBT PI)
+Tv Clube Web
+TV CN AGITOS
+Tv Extremo Oriental
+TV Feira de Santana
+TV Feliz
+Tv Fênix Bahia
+Tv Futuro (Cultura RN)
+TV Gazeta Norte de Minas
+Tv Germana
+TV Gideões
+TV Grande Rede
+TV GRÃO PARA
+Tv Guarajá - SBT
+TV Guarulhos
+TV Igreja Mundial do Poder de Deus - IMPD
+Tv IMPD
+Tv Iracema
+Tv J.SID
+Tv Jornal do Nordeste
+Tv Jundiaí Hoje
+Tv Lagoa Dantas
+Tv Liberdade Bagé Web
+Tv Liberdade Pacajus
+TV Marajoara
+TV Metropole
+Tv Meu Xodó
+TV Montanhesa
+TV Na Ativa
+TV NBT
+TV NBT
+Tv Nordeste
+Tv Nova Play Ao Vivo
+TV Novo Tempo
+TV Novo Tempo
+TV NSPORTS 1 (S)
+TV NSPORTS 2 (S)
+TV NSPORTS 3 (S)
+TV NTV
+Tv Ondas de Maricá
+TV ONE
+TV ONE
+TV Osório News
+Tv Otimista
+TV Ouro Negro
+Tv Padre Cicero
+TV Pantanal
+Tv Paraense (SBT Castanhal)
+TV Plan
+TV POCOS
+Tv Poléia
+TV POMBAL
+TV PRECABURA
+TV Ra Tim Bum HD
+Tv Recanto da Fé
+Tv Reconcavo
+TV Rede Gospel
+Tv Rosa De Saron Alagoinhas
+TV RP
+Tv San Jones
+Tv Sandegi
+TV Santa Maria
+Tv Sao João
+TV SDB
+TV Século 21
+TV Sertão Petrolina
+TV Show de Bola
+Tv Sol Comunidade
+Tv Tremembé
+TV UFSC
+TV Universal
+TV Universal
+TV UTV
+Tv Viana
+TV Viçosa
+Tv Vidas Transformadas
+Tv Vitoria
+Tv Votuline
+Tv Zoom
+TVAparecida.br
+TVaracati.br
+TVAratu.br
+TVAssembleiaCeara.br
+TVBrasil.br
+TVBrasil.br
+TVBrasil.br
+TVBrasil.br
+TVC (TV Gazeta Araçatuba)
+TVC Cidade Pelotas
+TVCamara.br
+TVCI
+TVCITVCOMUNICACOESINTERATIVASLTDA.br
+TVCulturaNacional.br
+TVCulturaNacional.br
+TVE ES
+TVE RS
+TVE.br
+TVEBahia.br
+TVEscola.br
+TVFAAP.br
+TVG - Tv Várzea Grande
+TVGE
+TVídeoNews
+TVJornalCaruaru.br
+TVJornalCaruaru.br
+TVMaisFamilia.br
+TVMarAlagoas.br
+TVnova.br
+TVPampa.br
+TVParanaTurismo.br
+TVR - Tv Regional Paulista
+TVT.br
+TVTambau.br
+ULB TV
+Unimídia Tv
+UNISC TV
+UNISUL TV
+Universal TV
+Universal TV HD
+UnivespTV.br
+Urban Kids HD
+Urban Movies HD
+Urban Series HD
+Vai-Vai: 80 anos nas Ruas
+Vale dos Isolados: O Assassinato de Bruno e Dom
+Vale TV Play
+Vintage
+Viva Web Tv
+Vivam Web
+Vivam Web
+VV8 TV
+Warner Channel
+Warner Channel HD
+Web Tv Cine
+Web Tv Clássicos do Cinema
+Web Tv e Radio Fonte Viva Gospel
+Web Tv Juventude
+WEB TV PROGRESSO
+Web Tv Triangulo
+Web TV Vale do Uruará
+X PLUS TV
+xtremetv.br
+Zoomoo HD
+
+##############################################################
+
+
+
 Batem à Porta (2023)
 Batem à Porta LEG (2023)
 Bater ou Correr (2000)
