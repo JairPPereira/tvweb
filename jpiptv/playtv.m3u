@@ -22,11 +22,6 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv Paraense (SBT Castanhal)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="Estados- Pará",Tv Paraense (SBT Castanhal)
 https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
-
-#EXTINF:-1 tvg-id="TV ONE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="Estados- Pará",TV ONE
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="Web TV Vale do Uruará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7858a37ec72de29670e36bb32cdd20f6.webp" group-title="Estados- Pará",Web TV Vale do Uruará
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 
