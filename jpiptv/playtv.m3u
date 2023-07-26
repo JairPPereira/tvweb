@@ -7832,136 +7832,136 @@ https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720
 
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cgYg04miVQUAG2FKk3amSnnHzOp.jpg" group-title="LANCAMENTOS",Barbie (2023)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cgYg04miVQUAG2FKk3amSnnHzOp.jpg" group-title="FILMES - LANÇAMENTOS",Barbie (2023)
 https://archive.org/download/novofilme/novofilme.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3pWufgN" group-title="LANCAMENTOS" ,Super Mario Bros O Filme 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3pWufgN" group-title="FILMES - LANÇAMENTOS",Super Mario Bros O Filme 2023
 https://filme.cdn01.workers.dev/0:/DESENHO/Super%20Mario%20Bros%20O%20Filme%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3ME8lb3" group-title="LANCAMENTOS" ,A Mae 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3ME8lb3" group-title="FILMES - LANÇAMENTOS",A Mae 2023
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/A%20Mae%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/42NivvX" group-title="LANCAMENTOS" ,Substitutos 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/42NivvX" group-title="FILMES - LANÇAMENTOS",Substitutos 2023
 https://filme.cdn01.workers.dev/0:/FIC%C3%87%C3%83O%20CIENTIFICA/Substitutos%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3BItXwE" group-title="LANCAMENTOS" ,A Cratera 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3BItXwE" group-title="FILMES - LANÇAMENTOS",A Cratera 2023
 https://filme.cdn01.workers.dev/0:/FIC%C3%87%C3%83O%20CIENTIFICA/A%20Cratera%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/438rbfX" group-title="LANCAMENTOS" ,Rock Dog Uma Batida Animal 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/438rbfX" group-title="FILMES - LANÇAMENTOS",Rock Dog Uma Batida Animal 2023
 https://filme.cdn01.workers.dev/0:/DESENHO/Rock%20Dog%20Uma%20Batida%20Animal%202023.mp4
-#EXTINF:-1 tvg-logo="https://encurtador.com.br/gNUX9" group-title="LANCAMENTOS" ,Homem Formiga e a Vespa Quantumania 2023
+#EXTINF:-1 tvg-logo="https://encurtador.com.br/gNUX9" group-title="FILMES - LANÇAMENTOS",Homem Formiga e a Vespa Quantumania 2023
 https://filme.cdn01.workers.dev/0:/MARVEL/Homem-Formiga%20e%20a%20Vespa%20Quantumania%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/41NYdky" group-title="LANCAMENTOS" ,Duas Pecadoras e Uma Mula 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/41NYdky" group-title="FILMES - LANÇAMENTOS",Duas Pecadoras e Uma Mula 2023
 https://filme.cdn01.workers.dev/0:/FAROESTE/Duas%20Pecadoras%20e%20Uma%20Mula%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/41OiuGA" group-title="LANCAMENTOS" ,O Urso do Pó Branco 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/41OiuGA" group-title="FILMES - LANÇAMENTOS",O Urso do Pó Branco 2023
 https://filme.cdn01.workers.dev/0:/COMEDIA/O%20Urso%20do%20P%C3%B3%20Branco%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3NGQkdi" group-title="LANCAMENTOS" ,Agente Infiltrado 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3NGQkdi" group-title="FILMES - LANÇAMENTOS",Agente Infiltrado 2023
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Agente%20Infiltrado%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/42dxE9i" group-title="LANCAMENTOS" ,Dungeons e Dragons 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/42dxE9i" group-title="FILMES - LANÇAMENTOS",Dungeons e Dragons 2023
 https://filme.cdn01.workers.dev/0:/AVENTURA/Dungeons%20e%20Dragons%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/42wNOdL" group-title="LANCAMENTOS" ,Destemida 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/42wNOdL" group-title="FILMES - LANÇAMENTOS",Destemida 2023
 https://filme.cdn01.workers.dev/0:/AVENTURA/Destemida%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3HKldK5" group-title="LANCAMENTOS" ,Esquema de Risco 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3HKldK5" group-title="FILMES - LANÇAMENTOS",Esquema de Risco 2023
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Esquema%20de%20Risco%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3HMN9Nh" group-title="LANCAMENTOS" ,Ghosted 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3HMN9Nh" group-title="FILMES - LANÇAMENTOS",Ghosted 2023
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Ghosted%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3M43BLy" group-title="LANCAMENTOS" ,Peter Pan e Wendy 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3M43BLy" group-title="FILMES - LANÇAMENTOS",Peter Pan e Wendy 2023
 https://filme.cdn01.workers.dev/0:/AVENTURA/Peter%20Pan%20e%20Wendy%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/44xZCOF" group-title="LANCAMENTOS" ,A Baleia 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/44xZCOF" group-title="FILMES - LANÇAMENTOS",A Baleia 2023
 https://filme.cdn01.workers.dev/0:/FILME/A%20Baleia%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/41eexef" group-title="LANCAMENTOS" ,A Jogada de Chang 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/41eexef" group-title="FILMES - LANÇAMENTOS",A Jogada de Chang 2023
 https://filme.cdn01.workers.dev/0:/FILME/A%20Jogada%20de%20Chang%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3B1fY4R" group-title="LANCAMENTOS" ,Caçador de Tormentas 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3B1fY4R" group-title="FILMES - LANÇAMENTOS",Caçador de Tormentas 2023
 https://filme.cdn01.workers.dev/0:/FIC%C3%87%C3%83O%20CIENTIFICA/Ca%C3%A7ador%20de%20Tormentas%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3LTr569" group-title="LANCAMENTOS" ,Liga da Justiça Parte.1 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3LTr569" group-title="FILMES - LANÇAMENTOS",Liga da Justiça Parte.1 2023
 https://filme.cdn01.workers.dev/0:/DESENHO/Liga%20da%20Justi%C3%A7a%20Parte.1%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3LUwdXM" group-title="LANCAMENTOS" ,Em Seus Sonhos 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3LUwdXM" group-title="FILMES - LANÇAMENTOS",Em Seus Sonhos 2023
 https://filme.cdn01.workers.dev/0:/FILME/Em%20Seus%20Sonhos%202023.mp4
-#EXTINF:-1 tvg-logo="https://encurtador.com.br/DJVX5" group-title="LANCAMENTOS" ,Avatar 2 2022
+#EXTINF:-1 tvg-logo="https://encurtador.com.br/DJVX5" group-title="FILMES - LANÇAMENTOS",Avatar 2 2022
 https://filme.cdn01.workers.dev/0:/AVENTURA/Avatar%20O%20Caminho%20da%20%C3%81gua%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3MORDGz" group-title="LANCAMENTOS" ,One Piece Filme Red 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3MORDGz" group-title="FILMES - LANÇAMENTOS",One Piece Filme Red 2022
 https://filme.cdn01.workers.dev/0:/ANIMES/FILME%20DESENHO%20DE%20A%C3%87%C3%83O/One%20Piece%20Filme%20Red%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/40V9Qq9" group-title="LANCAMENTOS" ,65 Ameaça  Pré-Histórica 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/40V9Qq9" group-title="FILMES - LANÇAMENTOS",65 Ameaça  Pré-Histórica 2023
 https://filme.cdn01.workers.dev/0:/FIC%C3%87%C3%83O%20CIENTIFICA/65%20Amea%C3%A7a%20%20Pr%C3%A9-Hist%C3%B3rica%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3ZVNWSe" group-title="LANCAMENTOS" ,Meu Amigo Lutcha 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3ZVNWSe" group-title="FILMES - LANÇAMENTOS",Meu Amigo Lutcha 2023
 https://filme.cdn01.workers.dev/0:/AVENTURA/Meu.Amigo.Lutcha%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3o09Bf7" group-title="LANCAMENTOS" ,Batman A Perdição Chegou a Gotham 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3o09Bf7" group-title="FILMES - LANÇAMENTOS",Batman A Perdição Chegou a Gotham 2023
 https://filme.cdn01.workers.dev/0:/ANIMES/FILME%20ANIMA%C3%87%C3%83O%20DC%20COMICS/Batman%20A%20Perdi%C3%A7%C3%A3o%20Chegou%20a%20Gotham%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3KJKyWf" group-title="LANCAMENTOS" ,As Múmias e o Anel Perdido 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3KJKyWf" group-title="FILMES - LANÇAMENTOS",As Múmias e o Anel Perdido 2023
 https://filme.cdn01.workers.dev/0:/DESENHO/As%20M%C3%BAmias%20e%20o%20Anel%20Perdido%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3MtXeSp" group-title="LANCAMENTOS" ,Legião dos Super-heróis 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3MtXeSp" group-title="FILMES - LANÇAMENTOS",Legião dos Super-heróis 2023
 https://filme.cdn01.workers.dev/0:/DESENHO/Legi%C3%A3o%20dos%20Super-her%C3%B3is%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3mjZFfP" group-title="LANCAMENTOS" ,Fé nas Alturas 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3mjZFfP" group-title="FILMES - LANÇAMENTOS",Fé nas Alturas 2023
 https://filme.cdn01.workers.dev/0:/GOSPEL/F%C3%A9%20nas%20Alturas%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3mr6GLI" group-title="LANCAMENTOS" ,Shazam Fúria dos Deuses 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3mr6GLI" group-title="FILMES - LANÇAMENTOS",Shazam Fúria dos Deuses 2023
 https://filme.cdn01.workers.dev/0:/DC%20COMICS/Shazam%20F%C3%BAria%20dos%20Deuses%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3Yxs" group-title="LANCAMENTOS" ,Mistério em Paris 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3Yxs" group-title="FILMES - LANÇAMENTOS",Mistério em Paris 2023
 https://filme.cdn01.workers.dev/0:/COMEDIA/Mist%C3%A9rio%20em%20Paris%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3Yxs" group-title="LANCAMENTOS" ,Olhos Famintos 4 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3Yxs" group-title="FILMES - LANÇAMENTOS",Olhos Famintos 4 2022
 https://filme.cdn01.workers.dev/0:/TERROR/Olhos%20Famintos%204%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJ" group-title="LANCAMENTOS" ,Creed 3 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJ" group-title="FILMES - LANÇAMENTOS",Creed 3 2023
 https://filme.cdn01.workers.dev/0:/LUTA/Creed%20III%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJ" group-title="LANCAMENTOS" ,Kill Boksoon 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJ" group-title="FILMES - LANÇAMENTOS",Kill Boksoon 2023
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Kill%20Boksoon%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJ" group-title="LANCAMENTOS" ,Sayen 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJ" group-title="FILMES - LANÇAMENTOS",Sayen 2023
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Sayen%202023.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Alerta Máximo 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Alerta Máximo 2023
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Alerta%20M%C3%A1ximo%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Assassino Americano 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Assassino Americano 2022
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Assassino%20Americano%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Luther O Cair da Noite 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Luther O Cair da Noite 2023
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Luther%20O%20Cair%20da%20Noite%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,O Sistema 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",O Sistema 2022
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/O%20Sistema%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Um Paraíso Perigoso 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Um Paraíso Perigoso 2022
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Um%20Para%C3%ADso%20Perigoso%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Destemida 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Destemida 2023
 https://filme.cdn01.workers.dev/0:/AVENTURA/Destemida%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Uma Festa de Arromba 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Uma Festa de Arromba 2023
 https://filme.cdn01.workers.dev/0:/COMEDIA/Uma%20Festa%20de%20Arromba%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Super Quem  Heróis por Acidente 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Super Quem  Heróis por Acidente 2022
 https://filme.cdn01.workers.dev/0:/COMEDIA/Super%20Quem%20%20Her%C3%B3is%20por%20Acidente%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,O Pior Vizinho do Mundo 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",O Pior Vizinho do Mundo 2022
 https://filme.cdn01.workers.dev/0:/COMEDIA/O%20Pior%20Vizinho%20do%20Mundo%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Duro de Atuar 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Duro de Atuar 2023
 https://filme.cdn01.workers.dev/0:/COMEDIA/Duro%20de%20Atuar%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Casal de Fachada 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Casal de Fachada 2022
 https://filme.cdn01.workers.dev/0:/COMEDIA/Casal%20de%20Fachada%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Certas Pessoas 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Certas Pessoas 2023
 https://filme.cdn01.workers.dev/0:/COMEDIA/Certas%20Pessoas%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,De Férias da Família 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",De Férias da Família 2022
 https://filme.cdn01.workers.dev/0:/COMEDIA/De%20F%C3%A9rias%20da%20Fam%C3%ADlia%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Desfile de Corações 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Desfile de Corações 2022
 https://filme.cdn01.workers.dev/0:/COMEDIA/Desfile%20de%20Cora%C3%A7%C3%B5es%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Duro na Queda 2020
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Duro na Queda 2020
 https://filme.cdn01.workers.dev/0:/COMEDIA/Duro%20na%20Queda%202020.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Fantasma e CIA 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Fantasma e CIA 2023
 https://filme.cdn01.workers.dev/0:/COMEDIA/Fantasma%20e%20CIA%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Fantasy Football 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Fantasy Football 2022
 https://filme.cdn01.workers.dev/0:/COMEDIA/Fantasy%20Football%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Holly Blood 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Holly Blood 2022
 https://filme.cdn01.workers.dev/0:/COMEDIA/Holly%20Blood%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Jerry e Marge Tiram a Sorte Grande 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Jerry e Marge Tiram a Sorte Grande 2022
 https://filme.cdn01.workers.dev/0:/COMEDIA/Jerry%20e%20Marge%20Tiram%20a%20Sorte%20Grande%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Naked Singularity 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Naked Singularity 2021
 https://filme.cdn01.workers.dev/0:/COMEDIA/Naked%20Singularity%202021.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Superlopez 2019
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Superlopez 2019
 https://filme.cdn01.workers.dev/0:/COMEDIA/Superlopez%202019.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,Legião dos Super-heróis 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",Legião dos Super-heróis 2023
 https://filme.cdn01.workers.dev/0:/DESENHO/Legi%C3%A3o%20dos%20Super-her%C3%B3is%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="LANCAMENTOS" ,ReMember 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJx" group-title="FILMES - LANÇAMENTOS",ReMember 2023
 https://filme.cdn01.workers.dev/0:/TERROR/ReMember%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3jlyM9X" group-title="LANCAMENTOS" ,MEGAN 2022
-https://filme.cdn01.workers.dev/0:/TERROR/MEGAN%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3X4VMaJ" group-title="LANCAMENTOS" ,GATO DE BOTAS 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3jlyM9X" group-title="FILMES - LANÇAMENTOS" ,MEGAN 2022
+https://f,me.cdn01.workers.dev/0:/TERROR/MEGAN%202022.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3X4VMaJ" group-title="FILMES - LANÇAMENTOS",GATO DE BOTAS 2022
 https://filme.cdn01.workers.dev/0:/DESENHO/Gato%20de%20Botas%202%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/" group-title="LANCAMENTOS" ,PANTERA NEGRA PARA SEMPRE 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/" group-title="FILMES - LANÇAMENTOS",PANTERA NEGRA PARA SEMPRE 2022
 https://filme.cdn01.workers.dev/0:/MARVEL/Pantera%20Negra%20%20Wakanda%20para%20Sempre%202022.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJxU" group-title="LANCAMENTOS" ,Jung E 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YxsJxU" group-title="FILMES - LANÇAMENTOS",Jung E 2023
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Jung%20E%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3XgX82x" group-title="LANCAMENTOS" ,Detetive Knight Independência 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3XgX82x" group-title="FILMES - LANÇAMENTOS",Detetive Knight Independência 2023
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Detetive%20Knight%20Independ%C3%AAncia%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YEPXlB" group-title="LANCAMENTOS" ,O Lobo Viking 2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YEPXlB" group-title="FILMES - LANÇAMENTOS",O Lobo Viking 2023
 https://filme.cdn01.workers.dev/0:/TERROR/O%20Lobo%20Viking%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3YC9GmF" group-title="LANCAMENTOS" ,Teen Wolf  2023
+#EXTINF:-1 tvg-logo="https://bit.ly/3YC9GmF" group-title="FILMES - LANÇAMENTOS",Teen Wolf  2023
 https://filme.cdn01.workers.dev/0:/TERROR/Teen%20Wolf%20%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3HUF1cS" group-title="LANCAMENTOS" ,Nix  A Entidade 2022
+#EXTINF:-1 tvg-logo="https://bit.ly/3HUF1cS" group-title="FILMES - LANÇAMENTOS",Nix  A Entidade 2022
 https://filme.cdn01.workers.dev/0:/TERROR/Nix%20%20A%20Entidade%202022.mp4
 
 
@@ -7987,271 +7987,267 @@ https://filme.cdn01.workers.dev/0:/FILMES%20DE%20CINEMA/VELOZES%20E%20FURIOSOS%2
 #EXTINF:-1 tvg-logo="https://bit.ly/3M3Dbd" group-title="FILME DE CINEMA" ,CAVALEIRO DOS ZODIACO FILME 2023
 https://filme.cdn01.workers.dev/0:/FILMES%20DE%20CINEMA/CAVALEIRO%20DOS%20ZODIACO%20FILME%202023.mp4
 
-
-
-####################################################################################################
-
-#EXTINF:-1 tvg-logo="https://bit.ly/32Z28Cl" group-title="AVENTURA" ,Victoria E Mistério 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/32Z28Cl" group-title="FILMES - AVENTURA",Victoria E Mistério 2021
 https://cdn.jwplayer.com/videos/u75JsCL3-3aIwtZh2.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3GZdjug" group-title="AVENTURA" ,Amina 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3GZdjug" group-title="FILMES - AVENTURA",Amina 2021
 https://cdn.jwplayer.com/videos/pOQ8YlRT-3vWkCocR.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3Gwm2mF" group-title="AVENTURA" ,Herói De Dois Mundos 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3Gwm2mF" group-title="FILMES - AVENTURA",Herói De Dois Mundos 2021
 https://cdn.jwplayer.com/videos/bkGLIwJb-3vWkCocR.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3lB0k9Q" group-title="AVENTURA" ,Jungle Cruise 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3lB0k9Q" group-title="FILMES - AVENTURA",Jungle Cruise 2021
 https://cdn.jwplayer.com/videos/loZcAxBy-FwFnERHM.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3xqkTbx" group-title="AVENTURA" ,Mundo Em Caos 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3xqkTbx" group-title="FILMES - AVENTURA",Mundo Em Caos 2021
 https://cdn.jwplayer.com/videos/uDMEDO7L-29zYqGqt.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3hPAahy" group-title="AVENTURA" ,Space Jam Um Novo Legado 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3hPAahy" group-title="FILMES - AVENTURA",Space Jam Um Novo Legado 2021
 https://content.jwplatform.com/videos/jqp7SoGa-dLjYr7Ct.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3edBEQh" group-title="AVENTURA" ,O Homem ÁGua 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3edBEQh" group-title="FILMES - AVENTURA",O Homem ÁGua 2021
 https://content.jwplatform.com/videos/9z24Ra8Y-kRqgCxM2.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3xOotgb" group-title="AVENTURA" ,Samurai X O Final 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3xOotgb" group-title="FILMES - AVENTURA",Samurai X O Final 2021
 https://content.jwplatform.com/videos/9Fj0YYqj-2XRqNFZB.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3iAIItl" group-title="AVENTURA" ,Cruella 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3iAIItl" group-title="FILMES - AVENTURA",Cruella 2021
 https://content.jwplatform.com/videos/XZOpE9JE-gLkW43OB.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3fQlwo2" group-title="AVENTURA" ,Pinóquio 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3fQlwo2" group-title="FILMES - AVENTURA",Pinóquio 2021
 https://content.jwplatform.com/videos/PuMO7cys-zAG8IaEJ.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/34eOBUr" group-title="AVENTURA" ,Esquadrao Trovão 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/34eOBUr" group-title="FILMES - AVENTURA",Esquadrao Trovão 2021
 https://content.jwplatform.com/videos/6EC216jL-zAG8IaEJ.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3fkanNd" group-title="AVENTURA" ,Tom E Jerry 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3fkanNd" group-title="FILMES - AVENTURA",Tom E Jerry 2021
 https://content.jwplatform.com/videos/yKJc9bs5-zAG8IaEJ.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tmq4Lj" group-title="AVENTURA" ,O Jardim Secreto 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/2Tmq4Lj" group-title="FILMES - AVENTURA",O Jardim Secreto 2021
 https://content.jwplatform.com/videos/J4d6NCpq-zAG8IaEJ.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3pWqvWV" group-title="AVENTURA" ,Flora E Ulysses 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3pWqvWV" group-title="FILMES - AVENTURA",Flora E Ulysses 2021
 https://content.jwplatform.com/videos/3kVHs2kJ-su2i4fvY.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3qhG39E" group-title="AVENTURA" ,Em Busca De Ohana 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3qhG39E" group-title="FILMES - AVENTURA",Em Busca De Ohana 2021
 https://content.jwplatform.com/videos/PiLm99ru-F3o6hEvP.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/2U6qaqY" group-title="AVENTURA" ,Abra Suas Asas 2020
+#EXTINF:-1 tvg-logo="https://bit.ly/2U6qaqY" group-title="FILMES - AVENTURA",Abra Suas Asas 2020
 https://content.jwplatform.com/videos/jbdQgqgJ-E2vY9Ubx.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3yZ2Dal" group-title="AVENTURA" ,Oro A Cidade Perdida 2017
+#EXTINF:-1 tvg-logo="https://bit.ly/3yZ2Dal" group-title="FILMES - AVENTURA",Oro A Cidade Perdida 2017
 https://content.jwplatform.com/videos/81bRZ9AT-q6DicNGI.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/2T6qHZq" group-title="AVENTURA" ,Artemis Fowl O Mundo Secreto 2020
+#EXTINF:-1 tvg-logo="https://bit.ly/2T6qHZq" group-title="FILMES - AVENTURA",Artemis Fowl O Mundo Secreto 2020
 https://content.jwplatform.com/videos/pz2Xf4vK-g3YmY7OO.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3AYWmNB" group-title="AVENTURA" ,O Grande Ivan 2020
+#EXTINF:-1 tvg-logo="https://bit.ly/3AYWmNB" group-title="FILMES - AVENTURA",O Grande Ivan 2020
 https://content.jwplatform.com/videos/ShrAd3v2-jDCzjE5N.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="AVENTURA" ,Em Busca Do Castelo Dourado 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - AVENTURA",Em Busca Do Castelo Dourado 2019
 https://content.jwplatform.com/videos/7oS8sNOO-Rxan8DJ4.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="AVENTURA" ,Scooby O Filme 2020
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - AVENTURA",Scooby O Filme 2020
 https://content.jwplatform.com/videos/JuqYhOfB-1n7nscrk.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="AVENTURA" ,Mulan 2020
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - AVENTURA",Mulan 2020
 https://content.jwplatform.com/videos/lQq3RTxL-1n7nscrk.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Goosebumps 1 2015
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Goosebumps 1 2015
 https://content.jwplatform.com/videos/KzoGeupT-394hl6Zu.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Goosebumps 2 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Goosebumps 2 2016
 https://content.jwplatform.com/videos/BHURt7tq-394hl6Zu.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="AVENTURA" ,Como Caes E Gatos 3 Peludos Unidos 2020
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - AVENTURA",Como Caes E Gatos 3 Peludos Unidos 2020
 https://content.jwplatform.com/videos/616Ryx09-vwWkUh9I.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Chamado Da Floresta 2020
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O Chamado Da Floresta 2020
 https://content.jwplatform.com/videos/gq5z2OYk-hK28dEPb.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Doutor Doliro 2020
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Doutor Doliro 2020
 https://content.jwplatform.com/videos/65jdK06s-RWNAGREF.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Sonic 2020
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Sonic 2020
 https://content.jwplatform.com/videos/qzV6YSPl-GOJLNWjk.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Dragon Quest Sua História 2020
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Dragon Quest Sua História 2020
 https://content.jwplatform.com/videos/g6vxZCk0-E2vY9Ubx.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Dama EO Vagabundo 2020
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Dama EO Vagabundo 2020
 https://content.jwplatform.com/videos/WnnLfHgL-2TdoDbn0.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Togo 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Togo 2019
 https://content.jwplatform.com/videos/D96HASnA-Ay5r7f3Q.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Abigail E A Cidade Proibida 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Abigail E A Cidade Proibida 2019
 https://content.jwplatform.com/videos/I4Tiy8sy-M33kuJwh.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,As Aventuras De Errol Flynn 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",As Aventuras De Errol Flynn 2018
 https://content.jwplatform.com/videos/9t1KU78W-5TSzydBj.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Timmy Failure Mistakes Were Made 2020
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Timmy Failure Mistakes Were Made 2020
 https://content.jwplatform.com/videos/1cUNL5HT-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="AVENTURA" ,Era Uma Vez Anastasia 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - AVENTURA",Era Uma Vez Anastasia 2019
 https://content.jwplatform.com/videos/w65ysxVz-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Z A Cidade Perdida 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Z A Cidade Perdida 2017
 https://content.jwplatform.com/videos/SeRE7c73-jWmiXxhn.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Bela E A Fera 2014
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Bela E A Fera 2014
 https://content.jwplatform.com/videos/b59ZWEJT-su2i4fvY.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Bela E A Fera 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Bela E A Fera 2017
 https://content.jwplatform.com/videos/haodkeKF-su2i4fvY.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Descendentes 1 2015
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Descendentes 1 2015
 https://content.jwplatform.com/videos/ZQODh76e-jWmiXxhn.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Descendentes 2 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Descendentes 2 2017
 https://content.jwplatform.com/videos/FthXIBVv-jWmiXxhn.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Descendantes 3 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Descendantes 3 2019
 https://content.jwplatform.com/videos/GhiPcDFJ-jWmiXxhn.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Dora E A Cidade Perdida 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Dora E A Cidade Perdida 2019
 https://content.jwplatform.com/videos/DoioByPn-bWtniFnP.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Aladdin 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Aladdin 2019
 https://content.jwplatform.com/videos/MnyEfYxb-tmrR3xm7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Detetive Pikachu 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Detetive Pikachu 2019
 https://content.jwplatform.com/videos/GhYOTo31-bWtniFnP.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Dumbo 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Dumbo 2019
 https://content.jwplatform.com/videos/eKtXtHdk-bWtniFnP.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O ReI Leao 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O ReI Leao 2019
 https://content.jwplatform.com/videos/EmJQ3PP3-bWtniFnP.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O ÚLtimo Caçador De Bruxas 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O ÚLtimo Caçador De Bruxas 2016
 https://content.jwplatform.com/videos/OYN5a8DR-Gml01jdk.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Sétimo Filho 2015
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O Sétimo Filho 2015
 https://content.jwplatform.com/videos/neD96OqE-Gml01jdk.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Aprendiz De Feiticeiro 2010
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O Aprendiz De Feiticeiro 2010
 https://content.jwplatform.com/videos/NVsA7zlP-5TSzydBj.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Bússola De Ouro 2007
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Bússola De Ouro 2007
 https://content.jwplatform.com/videos/xm4drbhk-5TSzydBj.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Lenda Teatral 2015
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Lenda Teatral 2015
 https://content.jwplatform.com/videos/m0RYUr9e-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Caravana Da Coragem 1985
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Caravana Da Coragem 1985
 https://content.jwplatform.com/videos/ZkEYOcXj-q8FTDhka.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Caravana Da Coragem A Batalha De Endor 1985
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Caravana Da Coragem A Batalha De Endor 1985
 https://content.jwplatform.com/videos/7yyFgbI9-q8FTDhka.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crocodilo Dundee 1 1986
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Crocodilo Dundee 1 1986
 https://content.jwplatform.com/videos/qgXWf2JT-q8FTDhka.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crocodilo Dundee 2 1988
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Crocodilo Dundee 2 1988
 https://content.jwplatform.com/videos/QQoGADtC-q8FTDhka.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crocodile.dundee 3 2001
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Crocodile.dundee 3 2001
 https://content.jwplatform.com/videos/lGrNEKtB-q8FTDhka.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Jóia Do Nilo 1985
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Jóia Do Nilo 1985
 https://content.jwplatform.com/videos/0RgXLHm4-q8FTDhka.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Indiana Jones 1 1981
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Indiana Jones 1 1981
 https://content.jwplatform.com/videos/gcrYfSwy-zJfxYVCz.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Indiana Jones 2 1984
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Indiana Jones 2 1984
 https://content.jwplatform.com/videos/jMxirl7R-zJfxYVCz.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Indiana Jones 3 1989
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Indiana Jones 3 1989
 https://content.jwplatform.com/videos/ervai30h-zJfxYVCz.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Indiana Jones 4 2008
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Indiana Jones 4 2008
 https://content.jwplatform.com/videos/LfhyZxYx-zJfxYVCz.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,João E Maria Caçadores De Bruxas 2014
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",João E Maria Caçadores De Bruxas 2014
 https://content.jwplatform.com/videos/jmdHIgih-nV9UHn96.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Avatar 2009
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Avatar 2009
 https://content.jwplatform.com/videos/mOYiCv1o-nV9UHn96.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Avatar o Ultimo Mestre Do Ar 2010
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Avatar o Ultimo Mestre Do Ar 2010
 https://content.jwplatform.com/videos/pzrx0ykC-nV9UHn96.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Lenda Do Tesouro Perdido 1 2004
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Lenda Do Tesouro Perdido 1 2004
 https://content.jwplatform.com/videos/40g3zDen-nV9UHn96.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Lenda Do Tesouro Perdido 2 2008
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Lenda Do Tesouro Perdido 2 2008
 https://content.jwplatform.com/videos/JUL8StzP-nV9UHn96.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Príncipe Da Pérsia 2010
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Príncipe Da Pérsia 2010
 https://content.jwplatform.com/videos/TesdlJY0-nV9UHn96.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Cavaleiro Solitário 2013
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O Cavaleiro Solitário 2013
 https://content.jwplatform.com/videos/V0wu8cdi-nV9UHn96.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,John Carter Entre Dois Mundos 2012
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",John Carter Entre Dois Mundos 2012
 https://content.jwplatform.com/videos/c44aZ78f-nV9UHn96.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Lar das Crianças Peculiares 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O Lar das Crianças Peculiares 2016
 https://content.jwplatform.com/videos/AU9xEipF-8IUV9bjs.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Pica Pau 2018 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Pica Pau 2018 
 https://content.jwplatform.com/videos/j8YDJcqh-8IUV9bjs.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Jumanji 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Jumanji 2018
 https://content.jwplatform.com/videos/Qg7mKDNN-8IUV9bjs.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Jumanji 2020
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Jumanji 2020
 https://content.jwplatform.com/videos/iAjlA278-NtbRVC3C.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Jumanji 1995
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Jumanji 1995
 https://content.jwplatform.com/videos/6eDrGsaF-zJfxYVCz.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Zathura 2005
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Zathura 2005
 https://content.jwplatform.com/videos/8FLzZ5Ap-zJfxYVCz.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Trovão Negro 2009
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Trovão Negro 2009
 https://content.jwplatform.com/videos/2n9toLsh-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Os Três Mosqueteiros 2011
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Os Três Mosqueteiros 2011
 https://content.jwplatform.com/videos/VSv1LwGl-ABgby8qa.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Os Aventureiros do Fogo 1986
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Os Aventureiros do Fogo 1986
 https://content.jwplatform.com/videos/moqITpN2-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Ponte Para Terabítia 2007
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Ponte Para Terabítia 2007
 https://content.jwplatform.com/videos/3Ce8sTLc-ABgby8qa.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Branca De Neve EO Caçador 2012
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Branca De Neve EO Caçador 2012
 https://content.jwplatform.com/videos/ecvUk6xK-8IUV9bjs.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Caçador EA Rainha do Gelo 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O Caçador EA Rainha do Gelo 2016
 https://content.jwplatform.com/videos/lLDOARR1-8IUV9bjs.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Lenda De Tarzan 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Lenda De Tarzan 2016
 https://content.jwplatform.com/videos/1zeSaVYs-8IUV9bjs.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Bom Gigante Amigo 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O Bom Gigante Amigo 2016
 https://content.jwplatform.com/videos/btIzzNsF-8IUV9bjs.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Mogli O Menino Lobo 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Mogli O Menino Lobo 2016
 https://content.jwplatform.com/videos/gtaU9oqu-8IUV9bjs.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Mogli Entre Dois Mundos 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Mogli Entre Dois Mundos 2018
 https://content.jwplatform.com/videos/yPyFK2dn-0uvDYoAG.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Animais Fantásticos 1 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Animais Fantásticos 1 2017
 https://content.jwplatform.com/videos/FxQ6Nb1T-8IUV9bjs.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Animais Fantásticos 2 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Animais Fantásticos 2 2019
 https://content.jwplatform.com/videos/Ul2GHBu2-bacgYk0M.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Tomb Raider 1 2001
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Tomb Raider 1 2001
 https://content.jwplatform.com/videos/UtDCHVWv-XP4H4gai.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Tomb Raider 2 2003
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Tomb Raider 2 2003
 https://content.jwplatform.com/videos/woWNJqm1-XP4H4gai.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Tomb Raider 3 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Tomb Raider 3 2018
 https://content.jwplatform.com/videos/Cwh6mSmv-9KXv6jyv.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Christopher Robin 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Christopher Robin 2018
 https://content.jwplatform.com/videos/m2JkvWTw-0uvDYoAG.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Alfa 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Alfa 2018
 https://content.jwplatform.com/videos/CSTV8On4-0uvDYoAG.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Grinch 2000
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O Grinch 2000
 https://content.jwplatform.com/videos/bSFwy8bP-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Harry Potter 1 2001
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Harry Potter 1 2001
 https://content.jwplatform.com/videos/sxmhrYaG-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Harry Potter 2 2002
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Harry Potter 2 2002
 https://content.jwplatform.com/videos/rlvoKa2Z-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Harry Potter 3 2004
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Harry Potter 3 2004
 https://content.jwplatform.com/videos/BUFAOxMG-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Harry Potter 4 2005
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Harry Potter 4 2005
 https://content.jwplatform.com/videos/Kk008ueJ-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Harry Potter 5 2007
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Harry Potter 5 2007
 https://content.jwplatform.com/videos/FWuzwsQr-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Harry Potter 6 2009
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Harry Potter 6 2009
 https://content.jwplatform.com/videos/iEam9STw-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Harry Potter 7 2010
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Harry Potter 7 2010
 https://content.jwplatform.com/videos/NbWRikTd-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Harry Potter 8 2011
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Harry Potter 8 2011
 https://content.jwplatform.com/videos/BZTuV4MW-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Múmia 1 1999
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Múmia 1 1999
 https://content.jwplatform.com/videos/MBTtrxNz-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Múmia 2 2001
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Múmia 2 2001
 https://content.jwplatform.com/videos/tkoAgaqw-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Múmia 3 2008
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Múmia 3 2008
 https://content.jwplatform.com/videos/RmB3rni3-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Múmia 4 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",A Múmia 4 2017
 https://content.jwplatform.com/videos/1P0aC3Po-8IUV9bjs.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Coração De Cavaleiro 2001
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Coração De Cavaleiro 2001
 https://content.jwplatform.com/videos/SR9mHsCj-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Jack O Caçador De Gigantes 2013
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Jack O Caçador De Gigantes 2013
 https://content.jwplatform.com/videos/carQbAvp-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Malévola 1 2014
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Malévola 1 2014
 https://content.jwplatform.com/videos/VV6nWZYQ-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Malevola 2 2020
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Malevola 2 2020
 https://content.jwplatform.com/videos/hp112n62-l5r3qFf5.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,As Cronicas De Narnia 1 2005
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",As Cronicas De Narnia 1 2005
 https://content.jwplatform.com/videos/fALiSZMy-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,As Cronicas De Narnia 2 2008
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",As Cronicas De Narnia 2 2008
 https://content.jwplatform.com/videos/GnaqSu6b-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,As Cronicas De Narnia 3 2010
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",As Cronicas De Narnia 3 2010
 https://content.jwplatform.com/videos/xm2B2Ki5-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Willow Na Terra Da Magia 1988
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Willow Na Terra Da Magia 1988
 https://content.jwplatform.com/videos/TPuG0uGd-2TdoDbn0.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Quebra Nozes E Os Quatro Reinos 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O Quebra Nozes E Os Quatro Reinos 2018
 https://content.jwplatform.com/videos/EjMzY34B-bacgYk0M.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 1 2008
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Crepusculo 1 2008
 https://content.jwplatform.com/videos/KnIteJsi-BvF3GI2K.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 2 Lua Nova  2009
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Crepusculo 2 Lua Nova  2009
 https://content.jwplatform.com/videos/ksvlGpEj-BvF3GI2K.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 3 Eclipse  2010
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Crepusculo 3 Eclipse  2010
 https://content.jwplatform.com/videos/MpxOFyDe-BvF3GI2K.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 4 Amanhecer PT.1 2011
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Crepusculo 4 Amanhecer PT.1 2011
 https://content.jwplatform.com/videos/PuaZAywT-BvF3GI2K.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 5 Amanhecer PT.2 2012
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Crepusculo 5 Amanhecer PT.2 2012
 https://content.jwplatform.com/videos/t5DB2JVf-BvF3GI2K.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,piratas do caribe 1 2003
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",piratas do caribe 1 2003
 https://content.jwplatform.com/videos/jkH5qipm-bacgYk0M.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,piratas do caribe 2 2006
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",piratas do caribe 2 2006
 https://content.jwplatform.com/videos/MKsprIN1-bacgYk0M.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,piratas do caribe 3 2007
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",piratas do caribe 3 2007
 https://content.jwplatform.com/videos/v2dSAQwh-bacgYk0M.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,piratas do caribe 4 2011
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",piratas do caribe 4 2011
 https://content.jwplatform.com/videos/RPJa3qgL-bacgYk0M.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,piratas do caribe 5 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",piratas do caribe 5 2017
 https://content.jwplatform.com/videos/LBK6aA50-bacgYk0M.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,As Crônicas De Spiderwick 2008
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",As Crônicas De Spiderwick 2008
 https://content.jwplatform.com/videos/8oHp9Yzd-nIPYi4xr.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Labirinto Do Fauno 2006
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",O Labirinto Do Fauno 2006
 https://content.jwplatform.com/videos/FzyIVo2T-nIPYi4xr.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Zé Colmeia 2008
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Zé Colmeia 2008
 https://content.jwplatform.com/videos/nqaXLPfN-WRO9AFa5.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Meu Amigo O Dragão 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Meu Amigo O Dragão 2016
 https://content.jwplatform.com/videos/H0CXSFxK-QOmQDbYo.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Alice No País Das Maravilhas 2010
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Alice No País Das Maravilhas 2010
 https://content.jwplatform.com/videos/Q7kPaBMm-QOmQDbYo.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Alice Através Do Espelho 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES - AVENTURA",Alice Através Do Espelho 2016
 https://content.jwplatform.com/videos/NrtBiolg-QOmQDbYo.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3wTiaa6" group-title="AVENTURA" ,Alice E Peter Onde Nascem Os Sonhos 2020
+#EXTINF:-1 tvg-logo="https://bit.ly/3wTiaa6" group-title="FILMES - AVENTURA",Alice E Peter Onde Nascem Os Sonhos 2020
 https://content.jwplatform.com/videos/EsFrvNr0-N4rrC46a.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/36yvsl0" group-title="CORRIDA" ,Duelo No Asfalto 2020
@@ -9221,7 +9217,7 @@ https://content.jwplatform.com/videos/xPFw2zYC-mk24FxaO.mp4
 https://content.jwplatform.com/videos/Rg1NZaOZ-NSkcn7Cl.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,Skyline Além Do Horizonte 2018
 https://content.jwplatform.com/videos/mBzZdhFu-kvDumjch.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3qtcYZ7" group-title="LANCAMENTOS" ,Skylines 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3qtcYZ7" group-title="FILMES - LANÇAMENTOS",Skylines 2021
 https://content.jwplatform.com/videos/Ozbn9JY0-Sh8FeK3A.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,A Origem 2010
 https://content.jwplatform.com/videos/WckS2NAq-BG6rhfSt.mp4
