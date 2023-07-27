@@ -132,9 +132,9 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Prevê HD" tvg-logo="https://yt3.ggpht.com/a/AATXAJxPIaewodu9wTtxjjkSBi8jfty9DXsIqZcutVNlBw=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIEDADES" ,TV Prevê HD
 https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?t=1651347794
 #EXTINF:-1 tvg-id="TV Brasil Web" tvg-logo="https://yt3.ggpht.com/a/AATXAJxPIaewodu9wTtxjjkSBi8jfty9DXsIqZcutVNlBw=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIEDADES" ,TV Brasil Web
-https://tvbrasil-stream.ebc.com.br/chunks.m3u8
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="Canallibras.br" tvg-logo="https://yt3.googleusercontent.com/UR_d64SLXNgTwPKOkeL1PRE7MoK46hUQQDyu_h2hOq9vIDmHdgi_lTHSNSG8qoPKLD_6f3LV6g=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIEDADES",Canal Libras
-https://canallibras-stream.ebc.com.br/chunks.m3u8
+https://canallibras-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSVf4lkjVkjQvYf2kEz1ME316e3Ezsypk4g&usqp=CAU" group-title="CANAIS | VARIEDADES",Canal Saúde 
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAssembleiaCeara.br" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_qgAjHZ_qjO9Sb-mgqxmlVSJOoTbC6YZK7bdZJ0w=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIEDADES",TV Assembléia Ceará
