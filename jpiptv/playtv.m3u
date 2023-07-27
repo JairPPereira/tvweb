@@ -29,14 +29,22 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
 #EXTINF:-1 tvg-name="CAZÉ TV (AO VIVO)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcPDV8oycuXHpvWU0OiQvLgdrvDc6Cw0-b10sWTXA2UgbgnAzZS98ZN4KT_9a-mgv_ifGsE0jDl-v0lvNgN4crePe_KGkBUCgV9SFOMTu8EE_JcDnhEcW4T5ftpizRCVmea-XK-cyImpk02stbzcpIvpkCb26P48-ocP72wjqRWnYo2zYt2qjtrAxZY8/s1600/CAZE.jpeg" group-title="JOGOS DE HOJE",CAZÉ TV (AO VIVO)
 http://piglo.re:80/live/Nuvens026/Nu050526/775332.m3u8
-#EXTINF:-1 tvg-name="Austrália (F) X Nigéria (F) 07:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 27.07",Austrália (F) X Nigéria (F) 07:00
-http://5ce.co:80/2y0962803/8w4017mb/226806
-#EXTINF:-1 tvg-name="Flamengo Sub17 X Corinthians Sub17 15:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 27.07",Flamengo Sub17 X Corinthians Sub17 15:00
-http://5ce.co:80/2y0962803/8w4017mb/226807
-#EXTINF:-1 tvg-name="Argentina (F) X África do Sul (F) 21:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 27.07",Argentina (F) X África do Sul (F) 21:00
-http://5ce.co:80/2y0962803/8w4017mb/226808
+#EXTINF:-1 tvg-name="Estados Unidos (F) X Holanda (F) 22:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 27.07",Estados Unidos (F) X Holanda (F) 22:00
+http://5ce.co:80/Ctina2718/Tina3619/226814
+#EXTINF:-1 tvg-name="Real Madrid X Manchester United 21:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 27.07",Real Madrid X Manchester United 21:30
+http://5ce.co:80/Ctina2718/Tina3619/226813
+#EXTINF:-1 tvg-name="Grêmio X Flamengo 21:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 27.07",Grêmio X Flamengo 21:30
+http://5ce.co:80/Ctina2718/Tina3619/226811
+#EXTINF:-1 tvg-name="Chelsea X Newcastle  21:15" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 27.07",Chelsea X Newcastle  21:15
+http://5ce.co:80/Ctina2718/Tina3619/226810
 #EXTINF:-1 tvg-name="Juventus X AC Milan 23:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 27.07",Juventus X AC Milan 23:30
-http://5ce.co:80/2y0962803/8w4017mb/226809
+http://5ce.co:80/Ctina2718/Tina3619/226809
+#EXTINF:-1 tvg-name="Argentina (F) X África do Sul (F) 21:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 27.07",Argentina (F) X África do Sul (F) 21:00
+http://5ce.co:80/Ctina2718/Tina3619/226808
+#EXTINF:-1 tvg-name="Flamengo Sub17 X Corinthians Sub17 15:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 27.07",Flamengo Sub17 X Corinthians Sub17 15:00
+http://5ce.co:80/Ctina2718/Tina3619/226807
+#EXTINF:-1 tvg-name="Austrália (F) X Nigéria (F) 07:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 27.07",Austrália (F) X Nigéria (F) 07:00
+http://5ce.co:80/Ctina2718/Tina3619/226806
 #EXTINF:-1 tvg-id="AgrobrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="CANAIS | VARIEDADES",Agrobrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2-oWeQgNszafaOMjHAB_EDjNXaY3Jt2PqhQ5HuMGbwZ4MeDZ6gBxIVX-_S6NzW6_Y4fhyqHkCOhGTHyo4YjwSf8kavvKmKZ8mHQ_Kqi-F8naW0uSPlXX3voQW5gfSmKjMJWHGPnhQLYJ1PXxhuWlBQV0nQ4AmO0GPN8WCkUygqZXVhDLkXhcTZs8l/s1600/jundiai.jpeg" group-title="CANAIS | VARIEDADES",Canal25Jundiai.br
