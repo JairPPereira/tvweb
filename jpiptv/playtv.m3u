@@ -391,158 +391,108 @@ https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="Demand Africa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6nwcZSLeez-sY7a35ZodrTJTA2k7xz3puA7NKcVTkTuBwFt9pv4YNjqP2MLr6io0HJgotzeknzk3OeSlZZM_AeX7OGtC990AQ1zFtG8pMzakFoHvkMds6WibGUgjVAz3CU9isDWUsRLqGYP61IOANwMFGI_fFaIhTGTfHs6hQbZEv9kckq-pL_J1M3g/s1600/DA.jpg" group-title="CANAIS | VARIEDADES",Demand Africa
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="Evangélica",TV Novo Tempo
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="CANAIS | EVANGÉLICOS",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Igreja Mundial do Poder de Deus - IMPD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="Evangélica",TV Igreja Mundial do Poder de Deus - IMPD
+#EXTINF:-1 tvg-id="TV Igreja Mundial do Poder de Deus - IMPD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="CANAIS | EVANGÉLICOS",TV Igreja Mundial do Poder de Deus - IMPD
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Universal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1d8fb419ad2b89ff1302e149a9774bc5.webp" group-title="Evangélica",TV Universal
+#EXTINF:-1 tvg-id="TV Universal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1d8fb419ad2b89ff1302e149a9774bc5.webp" group-title="CANAIS | EVANGÉLICOS",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Confiego" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc4f4fddc2330b377037d229aee44942.webp" group-title="Evangélica",Tv Confiego
+#EXTINF:-1 tvg-id="Tv Confiego" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc4f4fddc2330b377037d229aee44942.webp" group-title="CANAIS | EVANGÉLICOS",Tv Confiego
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Rede Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bf64a6c1f59709514cf0d763b6c0faa6.webp" group-title="Evangélica",TV Rede Gospel
+#EXTINF:-1 tvg-id="TV Rede Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bf64a6c1f59709514cf0d763b6c0faa6.webp" group-title="CANAIS | EVANGÉLICOS",TV Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="Evangélica",Gospel Cartoon
+#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="CANAIS | EVANGÉLICOS",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gospel Movie TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="Evangélica",Gospel Movie TV
+#EXTINF:-1 tvg-id="Gospel Movie TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="CANAIS | EVANGÉLICOS",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
-
-#EXTINF:-1 tvg-id="Rede Plenitude TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b1ea269f673bbd4459aa53f2b78ff14.webp" group-title="Evangélica",Rede Plenitude TV
+#EXTINF:-1 tvg-id="Rede Plenitude TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b1ea269f673bbd4459aa53f2b78ff14.webp" group-title="CANAIS | EVANGÉLICOS",Rede Plenitude TV
 https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Gideões" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="Evangélica",TV Gideões
+#EXTINF:-1 tvg-id="TV Gideões" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="CANAIS | EVANGÉLICOS",TV Gideões
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kuriakos Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d5e881c97b312df382164b7b7e5f5509.webp" group-title="Evangélica",Kuriakos Cine
+#EXTINF:-1 tvg-id="Kuriakos Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d5e881c97b312df382164b7b7e5f5509.webp" group-title="CANAIS | EVANGÉLICOS",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TOP MIX TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ab499d9cc282fd063424971ef738fec.webp" group-title="Evangélica",TOP MIX TV
+#EXTINF:-1 tvg-id="TOP MIX TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ab499d9cc282fd063424971ef738fec.webp" group-title="CANAIS | EVANGÉLICOS",TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gospel Music Television" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="Evangélica",Gospel Music Television
+#EXTINF:-1 tvg-id="Gospel Music Television" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="CANAIS | EVANGÉLICOS",Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fonte TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c99ffdca1366ea084333c569452200e.webp" group-title="Evangélica",Fonte TV
+#EXTINF:-1 tvg-id="Fonte TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c99ffdca1366ea084333c569452200e.webp" group-title="CANAIS | EVANGÉLICOS",Fonte TV
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rede Boas Novas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ef1e165d6e3dc7cb5fe6fdc193b9ef04.webp" group-title="Evangélica",Rede Boas Novas
+#EXTINF:-1 tvg-id="Rede Boas Novas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ef1e165d6e3dc7cb5fe6fdc193b9ef04.webp" group-title="CANAIS | EVANGÉLICOS",Rede Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rede Tv Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/010ea72aa1b8cc6bab3db313a2cafd37.webp" group-title="Evangélica",Rede Tv Família
+#EXTINF:-1 tvg-id="Rede Tv Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/010ea72aa1b8cc6bab3db313a2cafd37.webp" group-title="CANAIS | EVANGÉLICOS",Rede Tv Família
 https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Feliz" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f333f62031ea09120c0612d302fe366c.webp" group-title="Evangélica",TV Feliz
+#EXTINF:-1 tvg-id="TV Feliz" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f333f62031ea09120c0612d302fe366c.webp" group-title="CANAIS | EVANGÉLICOS",TV Feliz
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
-
-#EXTINF:-1 tvg-id="Top Mix Tv Filmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp" group-title="Evangélica",Top Mix Tv Filmes
+#EXTINF:-1 tvg-id="Top Mix Tv Filmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp" group-title="CANAIS | EVANGÉLICOS",Top Mix Tv Filmes
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Capital" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/71b0f9abc764972773cad092b8610c03.webp" group-title="Evangélica",TV Capital
+#EXTINF:-1 tvg-id="TV Capital" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/71b0f9abc764972773cad092b8610c03.webp" group-title="CANAIS | EVANGÉLICOS",TV Capital
 https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd7faf92fdaec94b7a0b2ca5f5f362b1.webp" group-title="Evangélica",TVCI
+#EXTINF:-1 tvg-id="TVCI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd7faf92fdaec94b7a0b2ca5f5f362b1.webp" group-title="CANAIS | EVANGÉLICOS",TVCI
 https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Boas Novas Amazonas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/92f9cecac97536a8beb3d67a9d4d6bce.webp" group-title="Evangélica",TV Boas Novas Amazonas
+#EXTINF:-1 tvg-id="TV Boas Novas Amazonas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/92f9cecac97536a8beb3d67a9d4d6bce.webp" group-title="CANAIS | EVANGÉLICOS",TV Boas Novas Amazonas
 https://cdn.jmvstream.com/w/AVJ-12960/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Adorando Jesus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd959e5a2f2797240d8a08171c7db83f.webp" group-title="Evangélica",Tv Adorando Jesus
+#EXTINF:-1 tvg-id="Tv Adorando Jesus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd959e5a2f2797240d8a08171c7db83f.webp" group-title="CANAIS | EVANGÉLICOS",Tv Adorando Jesus
 https://stmv.srvvox.com.br/anderson/anderson/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal Promessas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/73adcb8c9dae482a56ef4ef19f227782.webp" group-title="Evangélica",Canal Promessas
+#EXTINF:-1 tvg-id="Canal Promessas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/73adcb8c9dae482a56ef4ef19f227782.webp" group-title="CANAIS | EVANGÉLICOS",Canal Promessas
 https://video01.kshost.com.br/gente8322/gente8322/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Reconcavo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/664f364834e2636d9a71b769ce963635.webp" group-title="Evangélica",Tv Reconcavo
+#EXTINF:-1 tvg-id="Tv Reconcavo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/664f364834e2636d9a71b769ce963635.webp" group-title="CANAIS | EVANGÉLICOS",Tv Reconcavo
 https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IURDTV Europa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/913eea75be383d5dd505f5d8e848812d.webp" group-title="Evangélica",IURDTV Europa
+#EXTINF:-1 tvg-id="IURDTV Europa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/913eea75be383d5dd505f5d8e848812d.webp" group-title="CANAIS | EVANGÉLICOS",IURDTV Europa
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5e0dca9c62c344c49c98d1bd67409be5/chunklist_b4628000.m3u8?p=79&s=1649790438&e=1649790558&h=1f557f1aea4a88497cc58ba6ad98eecf
-
-#EXTINF:-1 tvg-id="Vivam Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a40b87342e5dcbbcefdabd74fd5ffefd.webp" group-title="Evangélica",Vivam Web
+#EXTINF:-1 tvg-id="Vivam Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a40b87342e5dcbbcefdabd74fd5ffefd.webp" group-title="CANAIS | EVANGÉLICOS",Vivam Web
 https://stmv1.liveplushd.com.br/tvvivam/tvvivam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Filadélfia Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9a759fb0be81e81d8f5d95301786185b.webp" group-title="Evangélica",Filadélfia Web Tv
+#EXTINF:-1 tvg-id="Filadélfia Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9a759fb0be81e81d8f5d95301786185b.webp" group-title="CANAIS | EVANGÉLICOS",Filadélfia Web Tv
 https://stmv2.samcast.com.br/marcostimotheo5865/marcostimotheo5865/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Ouro Negro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cc56623a8cbf2f45d462cf93fc540de7.webp" group-title="Evangélica",TV Ouro Negro
+#EXTINF:-1 tvg-id="TV Ouro Negro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cc56623a8cbf2f45d462cf93fc540de7.webp" group-title="CANAIS | EVANGÉLICOS",TV Ouro Negro
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Adorador Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c50659beeacb05f3655fabb042cd8331.webp" group-title="Evangélica",Tv Adorador Gospel
+#EXTINF:-1 tvg-id="Tv Adorador Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c50659beeacb05f3655fabb042cd8331.webp" group-title="CANAIS | EVANGÉLICOS",Tv Adorador Gospel
 https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Viana" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5e892818dc790bc35c4db82d0d95fb44.webp" group-title="Evangélica",Tv Viana
+#EXTINF:-1 tvg-id="Tv Viana" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5e892818dc790bc35c4db82d0d95fb44.webp" group-title="CANAIS | EVANGÉLICOS",Tv Viana
 https://stmv1.duvoxtv.com.br/tvviana/tvviana/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TOP MIX TV 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e5dd8729025d5eb431c8a3128716032.webp" group-title="Evangélica",TOP MIX TV 2
+#EXTINF:-1 tvg-id="TOP MIX TV 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e5dd8729025d5eb431c8a3128716032.webp" group-title="CANAIS | EVANGÉLICOS",TOP MIX TV 2
 https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rede Mundial Interteve" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bf89173b6d922638e9372e52332a96a4.webp" group-title="Evangélica",Rede Mundial Interteve
+#EXTINF:-1 tvg-id="Rede Mundial Interteve" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bf89173b6d922638e9372e52332a96a4.webp" group-title="CANAIS | EVANGÉLICOS",Rede Mundial Interteve
 https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Sandegi" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f233f429a774e61615390ef6c019f381.webp" group-title="Evangélica",Tv Sandegi
+#EXTINF:-1 tvg-id="Tv Sandegi" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f233f429a774e61615390ef6c019f381.webp" group-title="CANAIS | EVANGÉLICOS",Tv Sandegi
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ies TV - Igreja do Espírito Santo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/52fcdda5cbfc92b83c0ee7f1a142519b.webp" group-title="Evangélica",ies TV - Igreja do Espírito Santo
+#EXTINF:-1 tvg-id="ies TV - Igreja do Espírito Santo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/52fcdda5cbfc92b83c0ee7f1a142519b.webp" group-title="CANAIS | EVANGÉLICOS",ies TV - Igreja do Espírito Santo
 https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CHD TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/739cbdd4c8e777319df792ea2727e4b1.webp" group-title="Evangélica",CHD TV
+#EXTINF:-1 tvg-id="CHD TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/739cbdd4c8e777319df792ea2727e4b1.webp" group-title="CANAIS | EVANGÉLICOS",CHD TV
 https://stmv1.liveplushd.com.br/chdtv/chdtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Germana" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/104124481f02f8448eee689ec3064636.webp" group-title="Evangélica",Tv Germana
+#EXTINF:-1 tvg-id="Tv Germana" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/104124481f02f8448eee689ec3064636.webp" group-title="CANAIS | EVANGÉLICOS",Tv Germana
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Semear Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/53d91293b5c5cef84ac28e3894b4a20e.webp" group-title="Evangélica",Semear Tv
+#EXTINF:-1 tvg-id="Semear Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/53d91293b5c5cef84ac28e3894b4a20e.webp" group-title="CANAIS | EVANGÉLICOS",Semear Tv
 https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Igreja Evangélica Cristo Vive" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3332f4a3f31efb3b808957eac3458616.webp" group-title="Evangélica",Igreja Evangélica Cristo Vive
+#EXTINF:-1 tvg-id="Igreja Evangélica Cristo Vive" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3332f4a3f31efb3b808957eac3458616.webp" group-title="CANAIS | EVANGÉLICOS",Igreja Evangélica Cristo Vive
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Web Tv e Radio Fonte Viva Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7ac0873857d11ceb5656de1917c56eef.webp" group-title="Evangélica",Web Tv e Radio Fonte Viva Gospel
+#EXTINF:-1 tvg-id="Web Tv e Radio Fonte Viva Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7ac0873857d11ceb5656de1917c56eef.webp" group-title="CANAIS | EVANGÉLICOS",Web Tv e Radio Fonte Viva Gospel
 https://stmv1.liveplushd.com.br/webtvfontevivagospel/webtvfontevivagospel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rede Alfa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3688abb4736fde8b0ab1e39f2b540899.webp" group-title="Evangélica",Rede Alfa
+#EXTINF:-1 tvg-id="Rede Alfa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3688abb4736fde8b0ab1e39f2b540899.webp" group-title="CANAIS | EVANGÉLICOS",Rede Alfa
 https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Rosa De Saron Alagoinhas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8358cee53f07e3d731a73f18e8d3479d.webp" group-title="Evangélica",Tv Rosa De Saron Alagoinhas
+#EXTINF:-1 tvg-id="Tv Rosa De Saron Alagoinhas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8358cee53f07e3d731a73f18e8d3479d.webp" group-title="CANAIS | EVANGÉLICOS",Tv Rosa De Saron Alagoinhas
 https://stmv3.voxtvhd.com.br/rosadesaron/rosadesaron/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Oásis Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/68c29e6d2d487cc1091d5bf6bd002d47.webp" group-title="Evangélica",Oásis Tv
+#EXTINF:-1 tvg-id="Oásis Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/68c29e6d2d487cc1091d5bf6bd002d47.webp" group-title="CANAIS | EVANGÉLICOS",Oásis Tv
 https://stmv5.samcast.com.br/oasistv/oasistv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Unimídia Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4f3fcec508d01eb722e6a3c3ff7db62a.webp" group-title="Evangélica",Unimídia Tv
+#EXTINF:-1 tvg-id="Unimídia Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4f3fcec508d01eb722e6a3c3ff7db62a.webp" group-title="CANAIS | EVANGÉLICOS",Unimídia Tv
 https://tv02.zas.media:1936/unimidia/unimidia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rede Gospel Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b784f1b70ce44864b41c87edda64422e.webp" group-title="Evangélica",Rede Gospel Brasil
+#EXTINF:-1 tvg-id="Rede Gospel Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b784f1b70ce44864b41c87edda64422e.webp" group-title="CANAIS | EVANGÉLICOS",Rede Gospel Brasil
 https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rede Positiva Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8386301562490817220f885286d197db.webp" group-title="Evangélica",Rede Positiva Gospel
+#EXTINF:-1 tvg-id="Rede Positiva Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8386301562490817220f885286d197db.webp" group-title="CANAIS | EVANGÉLICOS",Rede Positiva Gospel
 https://stmv2.voxtvhd.com.br/8090/8090/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Votuline" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d1616ee681bc3419828472d8ccf4477c.webp" group-title="Evangélica",Tv Votuline
+#EXTINF:-1 tvg-id="Tv Votuline" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d1616ee681bc3419828472d8ccf4477c.webp" group-title="CANAIS | EVANGÉLICOS",Tv Votuline
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv El-Shadai Salvador" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4d7932f6adf83bfd214a28e8ed5c6103.webp" group-title="Evangélica",Tv El-Shadai Salvador
+#EXTINF:-1 tvg-id="Tv El-Shadai Salvador" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4d7932f6adf83bfd214a28e8ed5c6103.webp" group-title="CANAIS | EVANGÉLICOS",Tv El-Shadai Salvador
 https://stmv1.voxtvhd.com.br/8000/8000/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Entre Amigos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0cc8707d22cde298aad802ada1d41dd3.webp" group-title="Evangélica",TV Entre Amigos
+#EXTINF:-1 tvg-id="TV Entre Amigos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0cc8707d22cde298aad802ada1d41dd3.webp" group-title="CANAIS | EVANGÉLICOS",TV Entre Amigos
 https://stmv1.srvif.com/igreja/igreja/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Vidas Transformadas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe0fd5b8035a708f832ee7afae737242.webp" group-title="Evangélica",Tv Vidas Transformadas
+#EXTINF:-1 tvg-id="Tv Vidas Transformadas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe0fd5b8035a708f832ee7afae737242.webp" group-title="CANAIS | EVANGÉLICOS",Tv Vidas Transformadas
 https://stmv1.srvstm.com/edvaldo7467/edvaldo7467/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="Religioso",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TV Século 21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXuL_DJFsAuv-WzUnMni-KIQGG171A_4O5SLueVn75MKw4EYOvtuCBvFJQ6Os0Gmr4V4lVR7jmLUXJa2EDnVn9nGwhMw3hA4OVYIM-6Sajg-ZrPCicv2nNY4rf4Vie4HDSgVSfJ-buy96k8jPLWIOUQDrtB88HJUnP2OnjR0YYeJnbjc4WowyiFZ49=s200" group-title="Religioso",TV Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Tv Boas Novas" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgsHvhOKzzBbKjnZ53gIEW4GbyhlANiXTuFzsGYmpiwfX4D4-nbywik-J8A4LFN5VmUyI4oH2_qgQHteFdQXyuHFYE207Q05THqyOsZp9N6JfSoto-61BT3fzyeQ6oi7A9qDH0Kxwn1sSs5sx8RQQMeTDZMGPbEiaIG1w-S3QG_RWovmGaIUgHXHL4W=s200" group-title="Religioso",Tv Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Tv IMPD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="Religioso",Tv IMPD
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
@@ -601,11 +551,6 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://pbs.twimg.com/profile_images/1574594693714911232/Cyby7WtT_400x400.jpg" group-title="jornalismo",RECORD NEWS
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41529
-
-
-
-#################################################################################
-
 #EXTINF:-1 tvg-id="History FHD" tvg-name="History FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="Documentário",HISTORY FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38383
 
