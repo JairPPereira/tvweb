@@ -632,48 +632,32 @@ http://5ce.co:80/2y0962803/8w4017mb/221500
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RSNewsSports.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a9158128f33e2a329ae8296ec8e3574.webp" group-title="CANAIS | ESPORTES", RS News Sports 2
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RSNewsSports.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c0be4bef041b92bda1e3232291c3c9e1.webp" group-title="CANAIS | ESPORTES",RS News Sports 3
 https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RSNewsSports.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a19ac1ef09ac9cea39a5fcfe6c3900be.webp" group-title="CANAIS | ESPORTES",RS News Sports 4
 https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RSNewsSports.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/141ef6c06e0bc402f5f5f7685deef943.webp" group-title="CANAIS | ESPORTES",RS News Sports 5
 https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RedBullTV.de"  tvg-logo="https://m.media-amazon.com/images/I/51OvgIyfLDL.png" group-title="CANAIS | ESPORTES",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
 #EXTINF:-1 tvg-id="EsporteBrasilia.br" tvg-name="Esportes Brasília"  tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="CANAIS | ESPORTES", Urban Sports HD
 https://stream.urbantv.com.br/urbantvsports/video.m3u8
-
 #EXTINF:-1 tvg-id="RSNewsSports.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp" group-title="CANAIS | ESPORTES", RS News Sports
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="CANAIS | ESPORTES", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="CANAIS | ESPORTES", TNT Sports 1 Brazil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="CANAIS | ESPORTES", TNT Sports 2 Brazil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="CANAIS | ESPORTES", TNT Sports 3 Brazil
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="TNTSports4Brazil.br" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="CANAIS | ESPORTES", TNT Sports 4 Brazil
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="CANAIS | ESPORTES", TNT Sports 5 Brazil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ESPORTE INTERACTIVO" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="CANAIS | ESPORTES",ESPORTE INTERACTIVO
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",BANDSPORTS HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36989
 #EXTINF:-1 tvg-id="Eleven Sports Channel 1 (S)" tvg-name="Eleven Sports Channel 1 (S)" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ELEVEN SPORTS CHANNEL 1 (S)
@@ -883,10 +867,8 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36901
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36938
 #EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-name="Telecine Pipoca HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TELECINE PIPOCA HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36937
-
 #EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TELECINE PREMIUM HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36936
-
 #EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TELECINE TOUCH HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36935
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TNT
@@ -959,11 +941,8 @@ http://conexaoonline.top:80/jessica11mcr1/bra147sil147/20730
 http://conexaoonline.top:80/jessica11mcr1/bra147sil147/25714
 #EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CINE SKY 9" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 9
 http://conexaoonline.top:80/jessica11mcr1/bra147sil147/25715
-
 #EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Cine Trapalhões" tvg-logo="https://www.rochagalaxia.live/logos/trapalhoes250.png" group-title="CANAIS | PAY-PER-VIEW",Cine Trapalhões
 http://conexaoonline.top:80/jessica11mcr1/bra147sil147/59531
-
-
 #EXTINF:-1 tvg-id="BabyTV HD" tvg-name="BabyTV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCADqogB96Y3oHC56pYLIYFZFnluXqh0vr5P1Rbh3T_a4E83P-iqGDJkW21LR2ZNTqGj8DKfIVEjvrseiIVmfxbdVi3aQC4TEZM06nRLJXRqUCYmz-fGHahPZTOX0x6QYmn2hER6kpQYcttkgE4OccfWjCmVzgi6b090glJDT18P7UnTUEex4US6ZW/s1600/babytv.png" group-title="CANAIS | INFANTIS",BABYTV HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63634
 
