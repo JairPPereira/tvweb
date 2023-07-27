@@ -689,13 +689,13 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42910
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73051
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN2 HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",ESPN2 HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36977
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1" tvg-logo="" group-title="CANAIS | ESPORTES",NOSSO FUTEBOL 1
+#EXTINF:-1 tvg-id="OSSO FUTEBOL 1" tvg-name="NOSSO FUTEBOL 1" tvg-logo="" group-title="CANAIS | ESPORTES",NOSSO FUTEBOL 1
 http://main.xplus2-main.xyz:2095/xplus-2-eR4yOu5zB7/SVA2F4ceud/1131
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2" tvg-logo="" group-title="CANAIS | ESPORTES",NOSSO FUTEBOL 2
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 2" tvg-name="NOSSO FUTEBOL 2" tvg-logo="" group-title="CANAIS | ESPORTES",NOSSO FUTEBOL 2
 http://main.xplus2-main.xyz:2095/xplus-2-eR4yOu5zB7/SVA2F4ceud/1132
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 3" tvg-logo="" group-title="CANAIS | ESPORTES",NOSSO FUTEBOL 3
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 3" tvg-name="NOSSO FUTEBOL 3" tvg-logo="" group-title="CANAIS | ESPORTES",NOSSO FUTEBOL 3
 http://main.xplus2-main.xyz:2095/xplus-2-eR4yOu5zB7/SVA2F4ceud/1133
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 4" tvg-logo="" group-title="CANAIS | ESPORTES",NOSSO FUTEBOL 4
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 4" tvg-name="NOSSO FUTEBOL 4" tvg-logo="" group-title="CANAIS | ESPORTES",NOSSO FUTEBOL 4
 http://main.xplus2-main.xyz:2095/xplus-2-eR4yOu5zB7/SVA2F4ceud/1134
 #EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE 1 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 1 HD
 http://main.xplus2-main.xyz:2095/xplus-2-eR4yOu5zB7/SVA2F4ceud/147
