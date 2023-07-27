@@ -971,208 +971,185 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63786
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86528
 #EXTINF:-1 tvg-id="Zoomoo HD" tvg-name="Zoomoo HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | INFANTIS",ZOOMOO HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63779
-#EXTINF:-1 tvg-id="Tv Tremembé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc313ddd3bc4d8de0f5939ee8410a56e.webp" group-title="filmesseries",Tv Tremembé
+#EXTINF:-1 tvg-id="Tv Tremembé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc313ddd3bc4d8de0f5939ee8410a56e.webp" group-title="CANAIS | FILMES & SÉRIES",Tv Tremembé
 https://video05.logicahost.com.br/tvtremembe/tvtremembe/playlist.m3u8
-#EXTINF:-1 tvg-id="Tv Cidade Alagoinha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ff33415434b73a0e1c62a152823692eb.webp" group-title="filmesseries",Tv Cidade Alagoinha
+#EXTINF:-1 tvg-id="Tv Cidade Alagoinha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ff33415434b73a0e1c62a152823692eb.webp" group-title="CANAIS | FILMES & SÉRIES",Tv Cidade Alagoinha
 https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
-#EXTINF:-1 tvg-id="ULB TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="filmesseries",ULB TV
+#EXTINF:-1 tvg-id="ULB TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="CANAIS | FILMES & SÉRIES",ULB TV
 https://video01.kshost.com.br/alan4876/alan4876/playlist.m3u8
-#EXTINF:-1 tvg-id="CHANNEL 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc7b83a5a19d96b87517b1e95e9b0565.webp" group-title="filmesseries",CHANNEL 1
+#EXTINF:-1 tvg-id="CHANNEL 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc7b83a5a19d96b87517b1e95e9b0565.webp" group-title="CANAIS | FILMES & SÉRIES",CHANNEL 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="HITS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3e22ba0cc070c700e71e3c51dcb810dc.webp" group-title="filmesseries",HITS TV
+#EXTINF:-1 tvg-id="HITS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3e22ba0cc070c700e71e3c51dcb810dc.webp" group-title="CANAIS | FILMES & SÉRIES",HITS TV
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="CinePIX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="filmesseries",CinePIX
+#EXTINF:-1 tvg-id="CinePIX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="CANAIS | FILMES & SÉRIES",CinePIX
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Bons Tempos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="filmesseries",Bons Tempos
+#EXTINF:-1 tvg-id="Bons Tempos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="CANAIS | FILMES & SÉRIES",Bons Tempos
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Web Tv Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="filmesseries",Web Tv Cine
+#EXTINF:-1 tvg-id="Web Tv Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="CANAIS | FILMES & SÉRIES",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Rede Clone" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title="filmesseries",Rede Clone
+#EXTINF:-1 tvg-id="Rede Clone" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title="CANAIS | FILMES & SÉRIES",Rede Clone
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1786527374.m3u8
-
-#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1lVcMCyE8GHc7hFGuLycugRbUKqz-X0SrYnjaxFSUiyFb3-TjlOdfzgiRNN3qe1WeSOKyOBq9tJ67QRrAQI9WXvTtuMm_XXuFL6SqACcXJlSs_elRrVep27ln2qMsUfZl81pfwWV_Cpf712QvMkkhe3ETmW62s43_VN1ld9mi3Q1X57ErPFGO-21R/s1600/animetv.jpg" group-title="filmesseries",Anime TV
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1lVcMCyE8GHc7hFGuLycugRbUKqz-X0SrYnjaxFSUiyFb3-TjlOdfzgiRNN3qe1WeSOKyOBq9tJ67QRrAQI9WXvTtuMm_XXuFL6SqACcXJlSs_elRrVep27ln2qMsUfZl81pfwWV_Cpf712QvMkkhe3ETmW62s43_VN1ld9mi3Q1X57ErPFGO-21R/s1600/animetv.jpg" group-title="CANAIS | FILMES & SÉRIES",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Nova Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="filmesseries",Tv Nova Play Ao Vivo
+#EXTINF:-1 tvg-id="Tv Nova Play Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="CANAIS | FILMES & SÉRIES",Tv Nova Play Ao Vivo
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1874174887.m3u8
-
-
-#EXTINF:-1 tvg-id="GOSPEL MOVIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="filmesseries",GOSPEL MOVIE
+#EXTINF:-1 tvg-id="GOSPEL MOVIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="CANAIS | FILMES & SÉRIES",GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="CANAL 29" tvg-logo="https://canal29.weebly.com/uploads/1/0/5/3/105352943/published/2_1.png?1620962596" group-title="filmesseries",CANAL 29
+#EXTINF:-1 tvg-id="CANAL 29" tvg-logo="https://canal29.weebly.com/uploads/1/0/5/3/105352943/published/2_1.png?1620962596" group-title="CANAIS | FILMES & SÉRIES",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w960384045.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Retro Cartoon 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcaZTKT2vFEBQe3uRthLVr2409pEXiakeCvsScRXiJN2FuKqi22mZnetKprVFNgPF2X84C11RFm7k42hoj42LGvY9p5HyGXYm5pRv8EAscOiQ2vCxn2OODJE3GBqa9TlFDApY1Tdzvz1uFfejUPPficA419PNGpX1dIw3RYUMuyug9Pj9SqjPt5Gln/s1600/retro2.webp" group-title="filmesseries",Retro Cartoon 2
+#EXTINF:-1 tvg-id="Retro Cartoon 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcaZTKT2vFEBQe3uRthLVr2409pEXiakeCvsScRXiJN2FuKqi22mZnetKprVFNgPF2X84C11RFm7k42hoj42LGvY9p5HyGXYm5pRv8EAscOiQ2vCxn2OODJE3GBqa9TlFDApY1Tdzvz1uFfejUPPficA419PNGpX1dIw3RYUMuyug9Pj9SqjPt5Gln/s1600/retro2.webp" group-title="CANAIS | FILMES & SÉRIES",Retro Cartoon 2
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="TV Osório News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTV4uULQZCdm1608GCMqt9nLjAHIpJfzLYN-7912whvgzqCzm2oUa23QIjnT84H3i4hsFCH3VDU_A21vjfXH6mNbzmQZpR0Pm2xPFvlIZr-CYbKdYq9LFeKNuAo3UOvuWBX4WQMGxC1XV7dYS5PxbcfNsO7MRblvTrmuMDZKsNWB-1zSlih5-o-MV/s1600/osorio200.jpg" group-title="filmesseries",TV Osório News
+#EXTINF:-1 tvg-id="TV Osório News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTV4uULQZCdm1608GCMqt9nLjAHIpJfzLYN-7912whvgzqCzm2oUa23QIjnT84H3i4hsFCH3VDU_A21vjfXH6mNbzmQZpR0Pm2xPFvlIZr-CYbKdYq9LFeKNuAo3UOvuWBX4WQMGxC1XV7dYS5PxbcfNsO7MRblvTrmuMDZKsNWB-1zSlih5-o-MV/s1600/osorio200.jpg" group-title="CANAIS | FILMES & SÉRIES",TV Osório News
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rede brasil" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSaEH5OWoDR005OitnIhmXvYATbjS7-AknEfWiiu55Z4x9TXj1TttJhtBg3jdAuaeaqfPnzzzAqCfBRQkAwN2PNWpeDx1d2ipxSEYVn_rMBWPAOqQdSMeJ1O60cpwT4qJP3RCdVChqSutCp7n-skVfeLkrCDIUd-yD6JrvmIO_i4l9xrEkX_NYOfTj/s1600/redebrasil.webp" group-title="filmesseries",Rede brasil
+#EXTINF:-1 tvg-id="Rede brasil" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSaEH5OWoDR005OitnIhmXvYATbjS7-AknEfWiiu55Z4x9TXj1TttJhtBg3jdAuaeaqfPnzzzAqCfBRQkAwN2PNWpeDx1d2ipxSEYVn_rMBWPAOqQdSMeJ1O60cpwT4qJP3RCdVChqSutCp7n-skVfeLkrCDIUd-yD6JrvmIO_i4l9xrEkX_NYOfTj/s1600/redebrasil.webp" group-title="CANAIS | FILMES & SÉRIES",Rede brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w146843650.m3u8
 
-#EXTINF:-1 tvg-id="CINE KURIAKOS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOqpzCt69Zs6j8Bk2_OpD9yqQMQDKqFpgGY4M-zWteTjzfGSnMEfoTokj9tYCVS76VspAy2VqLuovJnrzeco83rV2GTSc_eF8MLdG-V5n5Fz1rEdFa8AzX_FiMn5ajSrMHbOgSPar4OxphPdc8alIzCiiPkrn42wj_Qx7IF92HJWfEEwwy8jgt41ks/w945-h600-p-k-no-nu/thumb_KURIAKOS_CINE.jpeg" group-title="filmesseries",CINE KURIAKOS
+#EXTINF:-1 tvg-id="CINE KURIAKOS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOqpzCt69Zs6j8Bk2_OpD9yqQMQDKqFpgGY4M-zWteTjzfGSnMEfoTokj9tYCVS76VspAy2VqLuovJnrzeco83rV2GTSc_eF8MLdG-V5n5Fz1rEdFa8AzX_FiMn5ajSrMHbOgSPar4OxphPdc8alIzCiiPkrn42wj_Qx7IF92HJWfEEwwy8jgt41ks/w945-h600-p-k-no-nu/thumb_KURIAKOS_CINE.jpeg" group-title="CANAIS | FILMES & SÉRIES",CINE KURIAKOS
 https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1539688986_b30048000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-id="CINDIE LITE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQnVrZdcYH9PZHPOvR7GnxwqAP_UGa6wfWDrlaPLoOWrtRVDiek9Y7e_06vq8fr7Lw2l8aIwjucnGP1zCdzKauEyzAN1gTMWKtXGT7Qx6sOTfw8cjOqjtS08VeqC5WTxLJmy0MySCv0jiINs8QWm1gV7-LbqDi3EREu3ZxZGVZZNT0RIaqGJpdEsf/w945-h600-p-k-no-nu/CiNDLite.jpg" group-title="filmesseries",CINDIE LITE
+#EXTINF:-1 tvg-id="CINDIE LITE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQnVrZdcYH9PZHPOvR7GnxwqAP_UGa6wfWDrlaPLoOWrtRVDiek9Y7e_06vq8fr7Lw2l8aIwjucnGP1zCdzKauEyzAN1gTMWKtXGT7Qx6sOTfw8cjOqjtS08VeqC5WTxLJmy0MySCv0jiINs8QWm1gV7-LbqDi3EREu3ZxZGVZZNT0RIaqGJpdEsf/w945-h600-p-k-no-nu/CiNDLite.jpg" group-title="CANAIS | FILMES & SÉRIES",CINDIE LITE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
 
-#EXTINF:-1 tvg-id="lifeChannel.br" tvg-logo="https://www.lineup.tv.br/canais/1673432198.gif" group-title="filmesseries",Life SCTV HD
+#EXTINF:-1 tvg-id="lifeChannel.br" tvg-logo="https://www.lineup.tv.br/canais/1673432198.gif" group-title="CANAIS | FILMES & SÉRIES",Life SCTV HD
 https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w557659804.m3u8
 
-#EXTINF:-1 tvg-id="turnerdemo.br" tvg-logo="https://static.wikia.nocookie.net/youtube/images/0/06/CartoonNetwork2022.jpg/revision/latest?cb=20220518173641" group-title="filmesseries", Cartoon Promo HD
+#EXTINF:-1 tvg-id="turnerdemo.br" tvg-logo="https://static.wikia.nocookie.net/youtube/images/0/06/CartoonNetwork2022.jpg/revision/latest?cb=20220518173641" group-title="CANAIS | FILMES & SÉRIES", Cartoon Promo HD
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 
 
-#EXTINF:-1 tvg-id="fkids.br" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="filmesseries", FoxKids Network HD
+#EXTINF:-1 tvg-id="fkids.br" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="CANAIS | FILMES & SÉRIES", FoxKids Network HD
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://pbs.twimg.com/media/FfEaDZbXwAEQLeK?format=png&name=small" group-title="filmesseries", Loading 52x
+#EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://pbs.twimg.com/media/FfEaDZbXwAEQLeK?format=png&name=small" group-title="CANAIS | FILMES & SÉRIES", Loading 52x
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="filmesseries" aspect-ratio=16:9, Gospel Cartoon SD
+#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="CANAIS | FILMES & SÉRIES" aspect-ratio=16:9, Gospel Cartoon SD
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="filmesseries" aspect-ratio=16:9, RETRO CARTOON SD
+#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="CANAIS | FILMES & SÉRIES" aspect-ratio=16:9, RETRO CARTOON SD
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKZbz8GpczJGBYENVQ6-Dh5ZWClgx2PrQVA&usqp=CAU" group-title="filmesseries" ,TV AGUA BOA SD 
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKZbz8GpczJGBYENVQ6-Dh5ZWClgx2PrQVA&usqp=CAU" group-title="CANAIS | FILMES & SÉRIES" ,TV AGUA BOA SD 
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FronteiraMovies.br" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEim3dFDsR1wuS1OUItQg9QvQhBWaE08ty7LjZ5DURMt0NIZLDgN7MK2NhYXPG0nOrd6fDU-gzU8VuTNtgqlgopCxXWMgQFzBiVGDaG9voC0y3WElbdu-0o_yc4OPKkbpkuX1JcooJXk8VOq2kSVLlApJL4fiazIoCs2Bz5dIzSGC--ptHMuVbBiopVI=s320" group-title="filmesseries", Fronteira Movies HD
+#EXTINF:-1 tvg-id="FronteiraMovies.br" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEim3dFDsR1wuS1OUItQg9QvQhBWaE08ty7LjZ5DURMt0NIZLDgN7MK2NhYXPG0nOrd6fDU-gzU8VuTNtgqlgopCxXWMgQFzBiVGDaG9voC0y3WElbdu-0o_yc4OPKkbpkuX1JcooJXk8VOq2kSVLlApJL4fiazIoCs2Bz5dIzSGC--ptHMuVbBiopVI=s320" group-title="CANAIS | FILMES & SÉRIES", Fronteira Movies HD
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Clc.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="filmesseries" , GLN TV HD
+#EXTINF:-1 tvg-id="Clc.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="CANAIS | FILMES & SÉRIES" , GLN TV HD
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTimemovienetworkBrazil.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="filmesseries", MyTime Movie Network Brazil
+#EXTINF:-1 tvg-id="MyTimemovienetworkBrazil.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLvJAgwcAB7Lmigau7PJRtZFQaIDurY3kicTJDdYc35zl1Rw_ARUoW4K5SdmFTiIKr0ELAgIq6sRHOzefxgZd8lZODX_ct7y3XCSHD1bdeKDyRafraX9h4Rr8wFzpnxOTD7vIbmK39bJkR87Uf86RmY9gAhd7YyxHTFRQzxD4v32GXj4WQjPNb5cR_/s1600/mpb.jpg" group-title="CANAIS | FILMES & SÉRIES", MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TV UTV" tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="filmesseries",TV UTV
+#EXTINF:-1 tvg-id="TV UTV" tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="CANAIS | FILMES & SÉRIES",TV UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
-#EXTINF:-1 tvg-id="Vintage" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="filmesseries",Vintage
+#EXTINF:-1 tvg-id="Vintage" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="CANAIS | FILMES & SÉRIES",Vintage
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Classique Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2facd9de3a888b8015197f7e7adfb318.webp" group-title="filmesseries",Classique Tv
+#EXTINF:-1 tvg-id="Classique Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2facd9de3a888b8015197f7e7adfb318.webp" group-title="CANAIS | FILMES & SÉRIES",Classique Tv
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="Classique Western" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/db24d44b23d48de613d70881b8f1d013.webp" group-title="filmesseries",Classique Western
+#EXTINF:-1 tvg-id="Classique Western" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/db24d44b23d48de613d70881b8f1d013.webp" group-title="CANAIS | FILMES & SÉRIES",Classique Western
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Tv Lagoa Dantas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/275fb37c30d000f0632a8b53100d64a3.webp" group-title="filmesseries",Tv Lagoa Dantas
+#EXTINF:-1 tvg-id="Tv Lagoa Dantas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/275fb37c30d000f0632a8b53100d64a3.webp" group-title="CANAIS | FILMES & SÉRIES",Tv Lagoa Dantas
 https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Seven Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e88e1950283368c120eafef714100a94.webp" group-title="filmesseries",Seven Tv
+#EXTINF:-1 tvg-id="Seven Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e88e1950283368c120eafef714100a94.webp" group-title="CANAIS | FILMES & SÉRIES",Seven Tv
 https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rede Ipitanga" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/867c0ef7cbc08c5c0a33659a864724e8.webp" group-title="filmesseries",Rede Ipitanga
+#EXTINF:-1 tvg-id="Rede Ipitanga" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/867c0ef7cbc08c5c0a33659a864724e8.webp" group-title="CANAIS | FILMES & SÉRIES",Rede Ipitanga
 https://video01.logicahost.com.br/redeipitangatv/redeipitangatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleweb TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/175ff7f1895b189b5af2bd0bcca2134f.webp" group-title="filmesseries",Teleweb TV
+#EXTINF:-1 tvg-id="Teleweb TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/175ff7f1895b189b5af2bd0bcca2134f.webp" group-title="CANAIS | FILMES & SÉRIES",Teleweb TV
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Runtime Ação" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="filmesseries",Runtime Ação
+#EXTINF:-1 tvg-id="Runtime Ação" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="CANAIS | FILMES & SÉRIES",Runtime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
-#EXTINF:-1 tvg-id="Runtime Comédia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="filmesseries",Runtime Comédia
+#EXTINF:-1 tvg-id="Runtime Comédia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="CANAIS | FILMES & SÉRIES",Runtime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
-#EXTINF:-1 tvg-id="Runtime Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="filmesseries",Runtime Familia
+#EXTINF:-1 tvg-id="Runtime Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="CANAIS | FILMES & SÉRIES",Runtime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
-#EXTINF:-1 tvg-id="Runtime Espanto" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="filmesseries",Runtime Espanto
+#EXTINF:-1 tvg-id="Runtime Espanto" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CANAIS | FILMES & SÉRIES",Runtime Espanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 
-#EXTINF:-1 tvg-id="Runtime Crime" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae540b891b4a0d073b39ae0bb693f5c3.webp" group-title="filmesseries",Runtime Crime
+#EXTINF:-1 tvg-id="Runtime Crime" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae540b891b4a0d073b39ae0bb693f5c3.webp" group-title="CANAIS | FILMES & SÉRIES",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
-#EXTINF:-1 tvg-id="Runtime Romance" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="filmesseries", RUNTIME ROMANCE
+#EXTINF:-1 tvg-id="Runtime Romance" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CANAIS | FILMES & SÉRIES", RUNTIME ROMANCE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
-#EXTINF:-1 tvg-id="Soul Cine Clube" tvg-logo="https://imgur.com/QapVmCb.png" group-title="filmesseries",Soul Cine Clube
+#EXTINF:-1 tvg-id="Soul Cine Clube" tvg-logo="https://imgur.com/QapVmCb.png" group-title="CANAIS | FILMES & SÉRIES",Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Revry Brasil" tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="filmesseries",Revry Brasil
+#EXTINF:-1 tvg-id="Revry Brasil" tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="CANAIS | FILMES & SÉRIES",Revry Brasil
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Tv Jornal do Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9d7d1a4b47e3583e7c715cafee8cbd02.webp" group-title="filmesseries",Tv Jornal do Nordeste
+#EXTINF:-1 tvg-id="Tv Jornal do Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9d7d1a4b47e3583e7c715cafee8cbd02.webp" group-title="CANAIS | FILMES & SÉRIES",Tv Jornal do Nordeste
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w309686598.m3u8
 
 
-#EXTINF:-1 tvg-id="Tv J.SID" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f24b1cd1064865c050503ea604e4526a.webp" group-title="filmesseries",Tv J.SID
+#EXTINF:-1 tvg-id="Tv J.SID" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f24b1cd1064865c050503ea604e4526a.webp" group-title="CANAIS | FILMES & SÉRIES",Tv J.SID
 https://livefocamundo.com:8081/tvjsid/index.m3u8
 
-#EXTINF:-1 tvg-id="X PLUS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3887b3ba2258769221444dbb4e42a93d.webp" group-title="filmesseries",X PLUS TV
+#EXTINF:-1 tvg-id="X PLUS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3887b3ba2258769221444dbb4e42a93d.webp" group-title="CANAIS | FILMES & SÉRIES",X PLUS TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1c515ec353cb03545f409372154bda0.webp" group-title="filmesseries",CTV
+#EXTINF:-1 tvg-id="CTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1c515ec353cb03545f409372154bda0.webp" group-title="CANAIS | FILMES & SÉRIES",CTV
 https://stmv1.samcast.com.br/ctvpb/ctvpb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv Cidade Alagoinha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ff33415434b73a0e1c62a152823692eb.webp" group-title="filmesseries",Tv Cidade Alagoinha
+#EXTINF:-1 tvg-id="Tv Cidade Alagoinha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ff33415434b73a0e1c62a152823692eb.webp" group-title="CANAIS | FILMES & SÉRIES",Tv Cidade Alagoinha
 https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Top Mix Tv Filmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp" group-title="filmesseries",Top Mix Tv Filmes
+#EXTINF:-1 tvg-id="Top Mix Tv Filmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp" group-title="CANAIS | FILMES & SÉRIES",Top Mix Tv Filmes
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BLITS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/92c871be35b8395afbb31f8986691c2a.webp" group-title="filmesseries",BLITS TV
+#EXTINF:-1 tvg-id="BLITS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/92c871be35b8395afbb31f8986691c2a.webp" group-title="CANAIS | FILMES & SÉRIES",BLITS TV
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv San Jones" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/537b7bfa3696a217efb0547326947c91.webp" group-title="filmesseries",Tv San Jones
+#EXTINF:-1 tvg-id="Tv San Jones" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/537b7bfa3696a217efb0547326947c91.webp" group-title="CANAIS | FILMES & SÉRIES",Tv San Jones
 https://video01.kshost.com.br:4443/marilia2344/marilia2344/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv Clube Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c15e9e9796912ff00a4717b498485b36.webp" group-title="filmesseries",Tv Clube Web
+#EXTINF:-1 tvg-id="Tv Clube Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c15e9e9796912ff00a4717b498485b36.webp" group-title="CANAIS | FILMES & SÉRIES",Tv Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f42f76db35b114255012a25cbe113942.webp" group-title="filmesseries",Tv Nordeste
+#EXTINF:-1 tvg-id="Tv Nordeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f42f76db35b114255012a25cbe113942.webp" group-title="CANAIS | FILMES & SÉRIES",Tv Nordeste
 https://cdn.jmvstream.com/w/AVJ-13064/playlist/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TV CEI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/937135af086f7ac9580df4a30ffe8a05.webp" group-title="filmesseries",TV CEI
+#EXTINF:-1 tvg-id="TV CEI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/937135af086f7ac9580df4a30ffe8a05.webp" group-title="CANAIS | FILMES & SÉRIES",TV CEI
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="filmesseries",TV NBT
+#EXTINF:-1 tvg-id="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="CANAIS | FILMES & SÉRIES",TV NBT
 https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
 
 
-#EXTINF:-1 tvg-id="Rede QDM" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/26827ace5c5608c773bbb53cd2486997.webp" group-title="filmesseries",Rede QDM
+#EXTINF:-1 tvg-id="Rede QDM" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/26827ace5c5608c773bbb53cd2486997.webp" group-title="CANAIS | FILMES & SÉRIES",Rede QDM
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Tv Adorando Jesus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd959e5a2f2797240d8a08171c7db83f.webp" group-title="filmesseries",Tv Adorando Jesus
+#EXTINF:-1 tvg-id="Tv Adorando Jesus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd959e5a2f2797240d8a08171c7db83f.webp" group-title="CANAIS | FILMES & SÉRIES",Tv Adorando Jesus
 https://stmv.srvvox.com.br/anderson/anderson/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Web Tv Clássicos do Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="filmesseries",Web Tv Clássicos do Cinema
+#EXTINF:-1 tvg-id="Web Tv Clássicos do Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="CANAIS | FILMES & SÉRIES",Web Tv Clássicos do Cinema
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ABERTOS",CANAL BRASIL
