@@ -554,6 +554,20 @@ https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w795471484.m3u8
 #EXTINF:-1 tvg-id="Rede Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ede7e5de6ca676517ca7197759c16e7.webp" group-title="CANAIS | DOCUMENTÁRIOS",Rede Família
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery Channel HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Channel HD
+http://piglo.re:80/Presidente/256071x/54656.ts
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery H&H HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/discovery-home-and-health-logo2.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery H&H HD
+http://piglo.re:80/Presidente/256071x/54659.ts
+#EXTINF:-1 tvg-id="Discovery Theater FHD" tvg-name="Discovery Theather HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/e5a276c526172eb023640f2651f46975.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Theather HD
+http://piglo.re:80/Presidente/256071x/54208.ts
+#EXTINF:-1 tvg-id="Discovery Turbo FHD" tvg-name="Discovery Turbo HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Turbo HD
+http://piglo.re:80/Presidente/256071x/54662.ts
+#EXTINF:-1 tvg-id="Discovery World FHD" tvg-name="Discovery World HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery World HD
+http://piglo.re:80/Presidente/256071x/54211.ts
+#EXTINF:-1 tvg-id="Lifetime FHD" tvg-name="Lifetime HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/46309dd5fe1e4335d4b03b221096f7c4.png" group-title="CANAIS | DOCUMENTÁRIOS",Lifetime HD
+http://piglo.re:80/Presidente/256071x/54682.ts
+#EXTINF:-1 tvg-id="Nat Geo FHD" tvg-name="Natgeo HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/8ee25b724a4ba5efbfd6d07eb591c179.png" group-title="CANAIS || DOCUMENTÁRIOS",Natgeo HD
+http://piglo.re:80/Presidente/256071x/54217.ts
 #EXTINF:-1 tvg-id="Sozinhos trilha de sangue" tvg-name="History FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN_cO5HRPVwZ3NUCt00mqu3EbcvZXVugqh93RkV3It6RcaCn6OHr3aYVcI3nYsXKVs8T6eI0TgmzXi2m4sXeGoCYgE_UDTVRLG2HqvOLnn-xbYVFObgXYcSOB45ZaREvIxp-I13DFDKUq5mVMGG0UeCPCfB0Gi4gAIgQAiyQD1gdX0f7R746xNW7Sa/s1600/history.jpg" group-title="DOCUMENTÁRIOS HISTORY",Sozinhos trilha de sangue
 https://ia903407.us.archive.org/23/items/yt-1s.com-episo-dio-completo-sozinhos-trilha-de-sangue-history-720p/yt1s.com%20-%20EPIS%C3%93DIO%20COMPLETO%20%20SOZINHOS%20%20TRILHA%20DE%20SANGUE%20%20HISTORY_720p.mp4
 #EXTINF:-1 tvg-id="A origem da vida criacao ou evolucao" tvg-name="History FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN_cO5HRPVwZ3NUCt00mqu3EbcvZXVugqh93RkV3It6RcaCn6OHr3aYVcI3nYsXKVs8T6eI0TgmzXi2m4sXeGoCYgE_UDTVRLG2HqvOLnn-xbYVFObgXYcSOB45ZaREvIxp-I13DFDKUq5mVMGG0UeCPCfB0Gi4gAIgQAiyQD1gdX0f7R746xNW7Sa/s1600/history.jpg" group-title="DOCUMENTÁRIOS HISTORY",A origem da vida criacao ou evolucao
