@@ -5869,12 +5869,6 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Murilo Couto: 2021 (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xHww0Tim63e5Cg3xnw0Kh7h4TF3.jpg" group-title="FILMES | STAND-UP",Murilo Couto: 2021 (2021)
-http://7go.xyz:8080/movie/josemariatv/superflix22/219374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Afonso Padilha: Não Tá Compensando Ser Adulto (2017)" tvg-logo="https://media.fstatic.com/IOJlMlRMuvdF8dig2dTbsxZDSuU=/290x478/smart/media/movies/covers/2019/04/N%C3%A3o_Est%C3%A1_Compensando_ser_Adulto.jpg" group-title="FILMES | STAND-UP",Afonso Padilha: Não Tá Compensando Ser Adulto (2017)
-http://7go.xyz:8080/movie/josemariatv/superflix22/238701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dihh Lopes - Sem Maldade (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xBtny4Z9x9IHUf7UcUkLEFdWe7A.jpg" group-title="FILMES | STAND-UP",Dihh Lopes - Sem Maldade (2017)
-http://7go.xyz:8080/movie/josemariatv/superflix22/238702.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lugar de Mulher - Bruna Louise" tvg-logo="https://s2.glbimg.com/CaUkq6LHXMiThYT0nrrEsfTHYSA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/B/o/BJSAMKQcWWWQpxJYXyMA/bruna.jpg" group-title="FILMES | STAND-UP",Lugar de Mulher - Bruna Louise
 http://7go.xyz:8080/movie/josemariatv/superflix22/238703.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lugar de Mulher - Carol Zoccoli" tvg-logo="https://cinema10.com.br/upload/personalidades/personalidades_18891_carolzoccoli.jpg" group-title="FILMES | STAND-UP",Lugar de Mulher - Carol Zoccoli
