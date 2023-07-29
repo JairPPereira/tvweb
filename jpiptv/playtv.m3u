@@ -30,8 +30,10 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
 #EXTINF:-1 tvg-name="CAZÉ TV (AO VIVO)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcPDV8oycuXHpvWU0OiQvLgdrvDc6Cw0-b10sWTXA2UgbgnAzZS98ZN4KT_9a-mgv_ifGsE0jDl-v0lvNgN4crePe_KGkBUCgV9SFOMTu8EE_JcDnhEcW4T5ftpizRCVmea-XK-cyImpk02stbzcpIvpkCb26P48-ocP72wjqRWnYo2zYt2qjtrAxZY8/s1600/CAZE.jpeg" group-title="JOGOS DE HOJE",CAZÉ TV (AO VIVO)
 http://5ce.co:80/2y0962803/8w4017mb/99342
-#EXTINF:-1 tvg-name="Remo X Ypyranga 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 29.07",Remo X Ypyranga 19:00
+#EXTINF:-1 tvg-name="Remo X Ypyranga 19:00 Canal Goat" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 29.07",Remo X Ypyranga 19:00 Canal Goat
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690688926/ei/PonFZLr6JtSh4dUPv8meiAE/ip/206.84.34.77/id/0rgkHPEN5Pg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AYlvQAvMH-6V80nRevIm7C15EyeYdNQUqZU-ym0dnwfI02gTrYVwS7LBT897plvde-ag-twtFgl1nltOp1Y97gXKKQ/spc/Ul2Sq1wlClRmxvhMCU4r5fV4dpo_lZngfQ_fxTERQ1MAC76fHl10a5Y/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfJE3kXN-SFMGR8Cv3iabPukCFJVJBY6bfjsDtsuOWd0CIQCf8jG2cb0gKX_uNajy8UaaJBzMO_3lZw-ZgFidJrd4zA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-name="Remo X Ypyranga 19:00 Canal Nosso futebol" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 29.07",Remo X Ypyranga 19:00 Canal nosso futebol
+http://main.xplus2-main.xyz:2095/xplus-2-eR4yOu5zB7/SVA2F4ceud/1133
 #EXTINF:-1 tvg-name="Fortaleza EC X RB Bragantino 18:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 29.07",Fortaleza EC X RB Bragantino 18:30
 http://5ce.co:80/2y0962803/8w4017mb/227631
 #EXTINF:-1 tvg-name="Corinthians X Vasco 18:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 29.07",Corinthians X Vasco 18:30
