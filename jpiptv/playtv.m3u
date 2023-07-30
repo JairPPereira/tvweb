@@ -2,6 +2,14 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="Globo TV Liberal Belem" tvg-name="Globo TV Liberal Belem" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",TV LIBERAL BELEM
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42964
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL ALTAMIRA HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL ALTAMIRA HD
+http://cdnrede.com:80/live/ardenghix/991144858/256484.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL PARAUAPEBAS HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL PARAUAPEBAS HD
+http://cdnrede.com:80/live/ardenghix/991144858/256487.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL REDENÇÃO HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL REDENÇÃO HD
+http://cdnrede.com:80/live/ardenghix/991144858/256486.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL SANTARÉM HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL SANTARÉM HD
+http://cdnrede.com:80/live/ardenghix/991144858/256432.m3u8
 #EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RecordTV Belém" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNWJFSkv8WuREsdEJurNJsn37qiveveohfTQenCW90TiK2UvF_XJr0s_uEfZA_IxN-DqQDDJaS6bzdQF_A104A2xisUTu0EUXfgZwQt8Q380zkw8eVu85OWH2aGgdcrnxw44RvXHDgXgJ2b-zJr7qDCWE2omBuOwDvK8_h48IbqO2lHEE1NwQbDPF4/s1600/Rede-Record.png" group-title="CANAIS | ESTADO DO PARÁ",RECORD TV BELÉM
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63716
 #EXTINF:-1 tvg-id="RBA" tvg-logo="https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg" group-title="CANAIS | ESTADO DO PARÁ",RBA
@@ -30,8 +38,6 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8
 #EXTINF:-1 tvg-name="CAZÉ TV (AO VIVO)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcPDV8oycuXHpvWU0OiQvLgdrvDc6Cw0-b10sWTXA2UgbgnAzZS98ZN4KT_9a-mgv_ifGsE0jDl-v0lvNgN4crePe_KGkBUCgV9SFOMTu8EE_JcDnhEcW4T5ftpizRCVmea-XK-cyImpk02stbzcpIvpkCb26P48-ocP72wjqRWnYo2zYt2qjtrAxZY8/s1600/CAZE.jpeg" group-title="JOGOS DE HOJE",CAZÉ TV (AO VIVO)
 http://5ce.co:80/2y0962803/8w4017mb/99342
-#EXTINF:-1 tvg-name="Remo X Ypyranga 19:00 Canal Goat" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 29.07",Remo X Ypyranga 19:00 Canal Goat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690688926/ei/PonFZLr6JtSh4dUPv8meiAE/ip/206.84.34.77/id/0rgkHPEN5Pg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AYlvQAvMH-6V80nRevIm7C15EyeYdNQUqZU-ym0dnwfI02gTrYVwS7LBT897plvde-ag-twtFgl1nltOp1Y97gXKKQ/spc/Ul2Sq1wlClRmxvhMCU4r5fV4dpo_lZngfQ_fxTERQ1MAC76fHl10a5Y/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfJE3kXN-SFMGR8Cv3iabPukCFJVJBY6bfjsDtsuOWd0CIQCf8jG2cb0gKX_uNajy8UaaJBzMO_3lZw-ZgFidJrd4zA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-name="Remo X Ypyranga 19:00 Canal Nosso futebol" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 29.07",Remo X Ypyranga 19:00 Canal nosso futebol
 http://main.xplus2-main.xyz:2095/xplus-2-eR4yOu5zB7/SVA2F4ceud/1133
 #EXTINF:-1 tvg-name="Fortaleza EC X RB Bragantino 18:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 29.07",Fortaleza EC X RB Bragantino 18:30
