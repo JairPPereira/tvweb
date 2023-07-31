@@ -1,56 +1,43 @@
-#EXTINF:-1 tvg-id="" tvg-name="Murilo Couto: 2021 (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xHww0Tim63e5Cg3xnw0Kh7h4TF3.jpg" group-title="FILMES | STAND-UP",Murilo Couto: 2021 (2021)
-http://7go.xyz:8080/movie/josemariatv/superflix22/219374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Afonso Padilha: Não Tá Compensando Ser Adulto (2017)" tvg-logo="https://media.fstatic.com/IOJlMlRMuvdF8dig2dTbsxZDSuU=/290x478/smart/media/movies/covers/2019/04/N%C3%A3o_Est%C3%A1_Compensando_ser_Adulto.jpg" group-title="FILMES | STAND-UP",Afonso Padilha: Não Tá Compensando Ser Adulto (2017)
-http://7go.xyz:8080/movie/josemariatv/superflix22/238701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dihh Lopes - Sem Maldade (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xBtny4Z9x9IHUf7UcUkLEFdWe7A.jpg" group-title="FILMES | STAND-UP",Dihh Lopes - Sem Maldade (2017)
-http://7go.xyz:8080/movie/josemariatv/superflix22/238702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lugar de Mulher - Bruna Louise" tvg-logo="https://s2.glbimg.com/CaUkq6LHXMiThYT0nrrEsfTHYSA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/B/o/BJSAMKQcWWWQpxJYXyMA/bruna.jpg" group-title="FILMES | STAND-UP",Lugar de Mulher - Bruna Louise
-http://7go.xyz:8080/movie/josemariatv/superflix22/238703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lugar de Mulher - Carol Zoccoli" tvg-logo="https://cinema10.com.br/upload/personalidades/personalidades_18891_carolzoccoli.jpg" group-title="FILMES | STAND-UP",Lugar de Mulher - Carol Zoccoli
-http://7go.xyz:8080/movie/josemariatv/superflix22/238704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lugar de Mulher - Cintia Rosini" tvg-logo="https://media.fstatic.com/j1MC4EANhwLQ-mcKZJJTnpcWqww=/210x312/smart/media/movies/covers/2020/02/funest.jpg" group-title="FILMES | STAND-UP",Lugar de Mulher - Cintia Rosini
-http://7go.xyz:8080/movie/josemariatv/superflix22/238705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lugar de Mulher - Micheli Machado" tvg-logo="https://nonetflix.com.br/media/14/lugar-de-mulher_81161538.jpg" group-title="FILMES | STAND-UP",Lugar de Mulher - Micheli Machado
-http://7go.xyz:8080/movie/josemariatv/superflix22/238706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marcus Cirillo - Do Interior Para O Mundo (Ao vivo em Barretos)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bNcU6PZv5m0j1joX6LukmXeJg91.jpg" group-title="FILMES | STAND-UP",Marcus Cirillo - Do Interior Para O Mundo (Ao vivo em Barretos)
-http://7go.xyz:8080/movie/josemariatv/superflix22/238707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nando Viana: Da Turma do Fundão desde 1981 (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fg9rKVS2MosiqUiK9Yl547qczkk.jpg" group-title="FILMES | STAND-UP",Nando Viana: Da Turma do Fundão desde 1981 (2016)
-http://7go.xyz:8080/movie/josemariatv/superflix22/238708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thiago Ventura - Especial Só Agradece (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gq47fNbjwYjrKFaK7XtzmY8Cqn1.jpg" group-title="FILMES | STAND-UP",Thiago Ventura - Especial Só Agradece (2020)
-http://7go.xyz:8080/movie/josemariatv/superflix22/238709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thiago Ventura: POKAS (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nAc2hBnkqpssxzTDVP4P3Hcmucj.jpg" group-title="FILMES | STAND-UP",Thiago Ventura: POKAS (2020)
-http://7go.xyz:8080/movie/josemariatv/superflix22/238710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adam Devine: Best Time of Our Lives LEG (2019)" tvg-logo="http://7online.xyz:8080/images/2558ba1f899a3170a80ccfff625c81bd.jpg" group-title="FILMES | STAND-UP",Adam Devine: Best Time of Our Lives LEG (2019)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Afonso Padilha: Alma de Pobre (2020)" tvg-logo="http://7online.xyz:8080/images/44d4063c9e03604eab764b05bf550c62.jpg" group-title="FILMES | STAND-UP",Afonso Padilha: Alma de Pobre (2020)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ali Wong: Hard Knock Wife LEG (2018)" tvg-logo="http://7online.xyz:8080/images/59630c8caf0f16e5939ffcbb6131b7ba.jpg" group-title="FILMES | STAND-UP",Ali Wong: Hard Knock Wife LEG (2018)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ali Wong: Baby Cobra LEG (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8stTLVktSAATgFdCeaEUSh6WU2j.jpg" group-title="FILMES | STAND-UP",Ali Wong: Baby Cobra LEG (2016)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bill Burr: Paper Tiger LEG (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg" group-title="FILMES | STAND-UP",Bill Burr: Paper Tiger LEG (2019)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241332.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ellen DeGeneres: Bem Relacionada (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2mWdVy4X113rcs5SHu1373YSO22.jpg" group-title="FILMES | STAND-UP",Ellen DeGeneres: Bem Relacionada (2018)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241333.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kevin Hart: Let Me Explain LEG (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lzYQkVuEN0zw2JvJsMUsOU47nb4.jpg" group-title="FILMES | STAND-UP",Kevin Hart: Let Me Explain LEG (2013)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241334.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Liss Pereira - Renteniendo Líquidos LEG (2019)" tvg-logo="https://media.fstatic.com/16GQZ76C7jRpjwx26_9KCsFKTeU=/290x478/smart/media/movies/covers/2019/07/D1lSanOWoAEp91a.jpg" group-title="FILMES | STAND-UP",Liss Pereira - Renteniendo Líquidos LEG (2019)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241335.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mauricio Meirelles: Levando o Caos (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aMWGpRryYsofDLmqNxzGCfEkgwI.jpg" group-title="FILMES | STAND-UP",Mauricio Meirelles: Levando o Caos (2020)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mo Gilligan: Momentum (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ohtc3YviYWR1DldL1iwbTHcXiNP.jpg" group-title="FILMES | STAND-UP",Mo Gilligan: Momentum (2019)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241337.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Murilo Couto (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fD0YRXfB422Alg2femTom33DUxK.jpg" group-title="FILMES | STAND-UP",Murilo Couto (2020)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Murilo Couto - Eu, eu, Murilo (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jKRBijMI5yR4kwNSWXFRasYUkvC.jpg" group-title="FILMES | STAND-UP",Murilo Couto - Eu, eu, Murilo (2017)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Melhores do Mundo - Sexo - A Comédia (2016)" tvg-logo="http://2.bp.blogspot.com/-9PQdA-_QbIw/To-j0NtC3TI/AAAAAAAABuc/JOeVsA5INbc/s1600/sexo-a-comedia2.jpg" group-title="FILMES | STAND-UP",Os Melhores do Mundo - Sexo - A Comédia (2016)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tia Ma Com a Lingua Solta (2018)" tvg-logo="https://ottvsimg.ottvs.com.br/cov/ajs.182369/0182369_335.jpg" group-title="FILMES | STAND-UP",Tia Ma Com a Lingua Solta (2018)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Adulto (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oilvqcZDNXpneiouCZEY2qZXmwp.jpg" group-title="FILMES | STAND-UP",Whindersson Nunes: Adulto (2019)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes em Proparoxítona (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d09RnuOgSpo7c9NtGgqKLEzVITB.jpg" group-title="FILMES | STAND-UP",Whindersson Nunes em Proparoxítona (2017)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Whitney Cummings: Can I Touch It? LEG (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pxDekfQeobu7zONfRGzA5vy0RxL.jpg" group-title="FILMES | STAND-UP",Whitney Cummings: Can I Touch It? LEG (2019)
-http://7go.xyz:8080/movie/josemariatv/superflix22/241344.mp4
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="Globo TV Liberal Belem" tvg-name="Globo TV Liberal Belem" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",TV LIBERAL BELEM
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42964
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL ALTAMIRA HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL ALTAMIRA HD
+http://cdnrede.com:80/live/ardenghix/991144858/256484.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL PARAUAPEBAS HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL PARAUAPEBAS HD
+http://cdnrede.com:80/live/ardenghix/991144858/256487.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL REDENÇÃO HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL REDENÇÃO HD
+http://cdnrede.com:80/live/ardenghix/991144858/256486.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL SANTARÉM HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL SANTARÉM HD
+http://cdnrede.com:80/live/ardenghix/991144858/256432.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RecordTV Belém" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNWJFSkv8WuREsdEJurNJsn37qiveveohfTQenCW90TiK2UvF_XJr0s_uEfZA_IxN-DqQDDJaS6bzdQF_A104A2xisUTu0EUXfgZwQt8Q380zkw8eVu85OWH2aGgdcrnxw44RvXHDgXgJ2b-zJr7qDCWE2omBuOwDvK8_h48IbqO2lHEE1NwQbDPF4/s1600/Rede-Record.png" group-title="CANAIS | ESTADO DO PARÁ",RECORD TV BELÉM
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63716
+#EXTINF:-1 tvg-id="RBA" tvg-logo="https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg" group-title="CANAIS | ESTADO DO PARÁ",RBA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="CANAIS | ESTADO DO PARÁ",TV GRÃO PARA
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b8281ee455e4e5680d7c1ba9554ddb1f.webp" group-title="CANAIS | ESTADO DO PARÁ",Tv Guarajá - SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w1324163019.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="CANAIS | ESTADO DO PARÁ",TV Marajoara
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="Tv CULTURA" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="CANAIS | ESTADO DO PARÁ",TV CULTURA
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="Tv Paraense (SBT Castanhal)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="CANAIS | ESTADO DO PARÁ",Tv Paraense (SBT Castanhal)
+https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="Web TV Vale do Uruará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7858a37ec72de29670e36bb32cdd20f6.webp" group-title="CANAIS | ESTADO DO PARÁ",Web TV Vale do Uruará
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="Tv Curuai Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/359e181812362a0eb2598ccb19c0b233.webp" group-title="CANAIS | ESTADO DO PARÁ",Tv Curuai Web
+https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="Redeclone.br" tvg-logo="https://pa-str.srvsite.com/arquivos/7030/cabecalho-7030-20221221063420.jpeg" group-title="CANAIS | ESTADO DO PARÁ", Rede Clouding
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1265657125.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="CANAIS | ESTADO DO PARÁ",TV NBT
+https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="TV ONE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="CANAIS | ESTADO DO PARÁ",TV ONE
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="CBC TV Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b3b5afe27476830a9e64bac1464ad976.webp" group-title="CANAIS | ESTADO DO PARÁ",CBC TV Gospel	
+https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="CAZÉ TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcPDV8oycuXHpvWU0OiQvLgdrvDc6Cw0-b10sWTXA2UgbgnAzZS98ZN4KT_9a-mgv_ifGsE0jDl-v0lvNgN4crePe_KGkBUCgV9SFOMTu8EE_JcDnhEcW4T5ftpizRCVmea-XK-cyImpk02stbzcpIvpkCb26P48-ocP72wjqRWnYo2zYt2qjtrAxZY8/s1600/CAZE.jpeg" group-title="JOGOS DE HOJE",CAZÉ TV
+http://5ce.co:80/2y0962803/8w4017mb/99342
+#EXTINF:-1 tvg-name="Aparecidense X Floresta 20:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 31.07",Aparecidense X Floresta 20:00
+ http://5ce.co:80/2y0962803/8w4017mb/226806
+#EXTINF:-1 tvg-name="Brusque X São Bernardo 20:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 31.07",Brusque X São Bernardo 20:00
+ http://5ce.co:80/2y0962803/8w4017mb/226807
