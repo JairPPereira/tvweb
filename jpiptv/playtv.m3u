@@ -17,11 +17,11 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="CANAIS | ESTADO DO PARÁ",TV GRÃO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?JPFILMES?JPFILMES
 #EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b8281ee455e4e5680d7c1ba9554ddb1f.webp" group-title="CANAIS | ESTADO DO PARÁ",Tv Guarajá - SBT
-https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w1324163019.m3u8?JPFILMES?JPFILMES
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w1324163019.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="CANAIS | ESTADO DO PARÁ",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?JPFILMES?JPFILMES
 #EXTINF:-1 tvg-id="Tv CULTURA" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="CANAIS | ESTADO DO PARÁ",TV CULTURA
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?JPFILMES?JPFILMES
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Tv Paraense (SBT Castanhal)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="CANAIS | ESTADO DO PARÁ",Tv Paraense (SBT Castanhal)
 https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8?JPFILMES?JPFILMES
 #EXTINF:-1 tvg-id="Web TV Vale do Uruará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7858a37ec72de29670e36bb32cdd20f6.webp" group-title="CANAIS | ESTADO DO PARÁ",Web TV Vale do Uruará
@@ -46,6 +46,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690861770/ei/a
 http://5ce.co:80/Ctina2718/Tina3619/226807
 #EXTINF:-1 tvg-name="Aparecidense X Floresta 20:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 31.07",Aparecidense X Floresta 20:00
 http://5ce.co:80/Ctina2718/Tina3619/226806
+#EXTINF:-1 tvg-name="Águia de Marabá x Atlético-CE 20:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 31.07",Águia de Marabá x Atlético-CE 20:00
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="AgrobrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="CANAIS | VARIEDADES",Agrobrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2-oWeQgNszafaOMjHAB_EDjNXaY3Jt2PqhQ5HuMGbwZ4MeDZ6gBxIVX-_S6NzW6_Y4fhyqHkCOhGTHyo4YjwSf8kavvKmKZ8mHQ_Kqi-F8naW0uSPlXX3voQW5gfSmKjMJWHGPnhQLYJ1PXxhuWlBQV0nQ4AmO0GPN8WCkUygqZXVhDLkXhcTZs8l/s1600/jundiai.jpeg" group-title="CANAIS | VARIEDADES",Canal25Jundiai.br
