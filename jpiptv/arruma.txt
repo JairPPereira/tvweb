@@ -1,1 +1,3 @@
 https://stitcher.pluto.tv/stitch/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb58
+
+m3u8?JPFILMES
