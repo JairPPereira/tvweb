@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV Liberal Belém">
+    <display-name lang="pt">TV Liberal Belém</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1679310307.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Belém">
+    <display-name lang="pt">RecordTV Belém</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1680586165.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RBA TV">
+    <display-name lang="pt">RBA TV</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1614706501.gif|https://www.lineup.tv.br/canais/1642178465.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Cultura do Pará">
+    <display-name lang="pt">Rede Cultura do Pará</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1599426201.gif|https://www.lineup.tv.br/canais/1682188846.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT Pará">
+    <display-name lang="pt">SBT Pará</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1614603197.gif|https://www.lineup.tv.br/canais/1642170353.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AgroBrasil TV">
+    <display-name lang="pt">AgroBrasil TV</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1609871455.gif|https://www.lineup.tv.br/canais/boasnovas.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal 25 Jundiaí">
+    <display-name lang="pt">Canal 25 Jundiaí</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1611205521.gif|https://www.lineup.tv.br/canais/cidadeverde-mt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
