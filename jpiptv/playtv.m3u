@@ -40,6 +40,8 @@ https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8?JPFILMES
 http://5ce.co:80/2y0962803/8w4017mb/99342
 #EXTINF:-1 tvg-name="Portugal X Eua 03:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Portugal X Eua 03:30
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37255
+#EXTINF:-1 tvg-name="PSG X INTER DE MILÃO 07:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",PSG X INTER DE MILÃO 07:00
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690907867/ei/e-DIZPq4H_WHobIPtMGy6A4/ip/206.84.34.108/id/DS_yItsnfrE.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/br/siu/1/bui/AYlvQAv96gruPYLuQMTnFX5AWGYpQwtRp3zZhN4vlfqYXLGIAACNygy0dsq_UjmZNBiZVKTvQnCgq_QaQ7LAuqwswA/spc/Ul2Sq8R7Pn-zh9WS4teORGxern6IEoltSoErm8L6gNT_WMZAjRW2i2o/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOhCK9KVGBFF4ZnclMA9E6ZgncAPv0CZt938HWf8JYhrAiAZDQsXpijaDGR4ROMVP3LWatoXTqMmQgGniXcFhCjjDg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-name="Haiti X Dinamarca 07:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Haiti X Dinamarca 07:30
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37255
 #EXTINF:-1 tvg-name="Mirassol x Avaí 18:40" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Mirassol x Avaí 18:40
