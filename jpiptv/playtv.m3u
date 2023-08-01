@@ -2,25 +2,17 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="TV Liberal Belém" tvg-name="TV Liberal Belém" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",TV Liberal Belém
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42964
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL ALTAMIRA HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL ALTAMIRA HD
-http://cdnrede.com:80/live/ardenghix/991144858/256484.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL PARAUAPEBAS HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL PARAUAPEBAS HD
-http://cdnrede.com:80/live/ardenghix/991144858/256487.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL REDENÇÃO HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL REDENÇÃO HD
-http://cdnrede.com:80/live/ardenghix/991144858/256486.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV LIBERAL SANTARÉM HD" tvg-logo="https://static.b2pteam.com/logos/globo/tvliberal.png" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV LIBERAL SANTARÉM HD
-http://cdnrede.com:80/live/ardenghix/991144858/256432.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RecordTV Belém" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNWJFSkv8WuREsdEJurNJsn37qiveveohfTQenCW90TiK2UvF_XJr0s_uEfZA_IxN-DqQDDJaS6bzdQF_A104A2xisUTu0EUXfgZwQt8Q380zkw8eVu85OWH2aGgdcrnxw44RvXHDgXgJ2b-zJr7qDCWE2omBuOwDvK8_h48IbqO2lHEE1NwQbDPF4/s1600/Rede-Record.png" group-title="CANAIS | ESTADO DO PARÁ",RECORD TV BELÉM
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RecordTV Belém" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNWJFSkv8WuREsdEJurNJsn37qiveveohfTQenCW90TiK2UvF_XJr0s_uEfZA_IxN-DqQDDJaS6bzdQF_A104A2xisUTu0EUXfgZwQt8Q380zkw8eVu85OWH2aGgdcrnxw44RvXHDgXgJ2b-zJr7qDCWE2omBuOwDvK8_h48IbqO2lHEE1NwQbDPF4/s1600/Rede-Record.png" group-title="CANAIS | ESTADO DO PARÁ",RecordTV Belém
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63716
-#EXTINF:-1 tvg-id="RBA" tvg-logo="https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg" group-title="CANAIS | ESTADO DO PARÁ",RBA
+#EXTINF:-1 tvg-id="RBA TV" tvg-logo="https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg" group-title="CANAIS | ESTADO DO PARÁ",RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="CANAIS | ESTADO DO PARÁ",TV GRÃO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b8281ee455e4e5680d7c1ba9554ddb1f.webp" group-title="CANAIS | ESTADO DO PARÁ",Tv Guarajá - SBT
+#EXTINF:-1 tvg-id="SBT Pará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b8281ee455e4e5680d7c1ba9554ddb1f.webp" group-title="CANAIS | ESTADO DO PARÁ",SBT Pará
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w1324163019.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="CANAIS | ESTADO DO PARÁ",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="Tv CULTURA" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="CANAIS | ESTADO DO PARÁ",TV CULTURA
+#EXTINF:-1 tvg-id="Rede Cultura do Pará" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="CANAIS | ESTADO DO PARÁ",Rede Cultura do Pará
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Tv Paraense (SBT Castanhal)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="CANAIS | ESTADO DO PARÁ",Tv Paraense (SBT Castanhal)
 https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8?JPFILMES
@@ -62,9 +54,9 @@ http://5ce.co:80/2y0962803/8w4017mb/226813
 http://5ce.co:80/2y0962803/8w4017mb/226955
 #EXTINF:-1 tvg-name="CRB X Atlético GO 21:30" tvg-logo="" group-title="JOGOS DE HOJE 01.08",CRB X Atlético GO 21:30
 http://5ce.co:80/2y0962803/8w4017mb/226835
-#EXTINF:-1 tvg-id="AgrobrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="CANAIS | VARIEDADES",Agrobrasil TV
+#EXTINF:-1 tvg-id="AgroBrasil TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="CANAIS | VARIEDADES",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2-oWeQgNszafaOMjHAB_EDjNXaY3Jt2PqhQ5HuMGbwZ4MeDZ6gBxIVX-_S6NzW6_Y4fhyqHkCOhGTHyo4YjwSf8kavvKmKZ8mHQ_Kqi-F8naW0uSPlXX3voQW5gfSmKjMJWHGPnhQLYJ1PXxhuWlBQV0nQ4AmO0GPN8WCkUygqZXVhDLkXhcTZs8l/s1600/jundiai.jpeg" group-title="CANAIS | VARIEDADES",Canal25Jundiai.br
+#EXTINF:-1 tvg-id="Canal 25 Jundiaí" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2-oWeQgNszafaOMjHAB_EDjNXaY3Jt2PqhQ5HuMGbwZ4MeDZ6gBxIVX-_S6NzW6_Y4fhyqHkCOhGTHyo4YjwSf8kavvKmKZ8mHQ_Kqi-F8naW0uSPlXX3voQW5gfSmKjMJWHGPnhQLYJ1PXxhuWlBQV0nQ4AmO0GPN8WCkUygqZXVhDLkXhcTZs8l/s1600/jundiai.jpeg" group-title="CANAIS | VARIEDADES",Canal 25 Jundiaí
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="CBTV NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRenubI6TtoUbI223ZA5j4e8e0hu4weTloduIN1d7fvzcLswWi6PZpcTYZ6XAIVEd_Ro_A&usqp=CAU" group-title="CANAIS | VARIEDADES",CBTV NOW
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8?JPFILMES
