@@ -38,18 +38,30 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8?JPFILMES
 https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-name="CAZÉ TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcPDV8oycuXHpvWU0OiQvLgdrvDc6Cw0-b10sWTXA2UgbgnAzZS98ZN4KT_9a-mgv_ifGsE0jDl-v0lvNgN4crePe_KGkBUCgV9SFOMTu8EE_JcDnhEcW4T5ftpizRCVmea-XK-cyImpk02stbzcpIvpkCb26P48-ocP72wjqRWnYo2zYt2qjtrAxZY8/s1600/CAZE.jpeg" group-title="JOGOS DE HOJE",CAZÉ TV
 http://5ce.co:80/2y0962803/8w4017mb/99342
-#EXTINF:-1 tvg-name="Portugal X Eua 03:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Portugal X Eua 03:30
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37255
 #EXTINF:-1 tvg-name="PSG X INTER DE MILÃO 07:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",PSG X INTER DE MILÃO 07:00
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690907867/ei/e-DIZPq4H_WHobIPtMGy6A4/ip/206.84.34.108/id/DS_yItsnfrE.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/br/siu/1/bui/AYlvQAv96gruPYLuQMTnFX5AWGYpQwtRp3zZhN4vlfqYXLGIAACNygy0dsq_UjmZNBiZVKTvQnCgq_QaQ7LAuqwswA/spc/Ul2Sq8R7Pn-zh9WS4teORGxern6IEoltSoErm8L6gNT_WMZAjRW2i2o/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOhCK9KVGBFF4ZnclMA9E6ZgncAPv0CZt938HWf8JYhrAiAZDQsXpijaDGR4ROMVP3LWatoXTqMmQgGniXcFhCjjDg%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-name="Haiti X Dinamarca 07:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Haiti X Dinamarca 07:30
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37255
-#EXTINF:-1 tvg-name="Mirassol x Avaí 18:40" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Mirassol x Avaí 18:40
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37255
-#EXTINF:-1 tvg-name="Sampaio Corrêa x Botafogo-SP 18:40" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Sampaio Corrêa x Botafogo-SP 18:40
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37044
-#EXTINF:-1 tvg-name="Crb-Al x Atlético-GO 21:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Crb-Al x Atlético-GO 21:00
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37255
+#EXTINF:-1 tvg-name="China (F) X Inglaterra (F) 08:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",China (F) X Inglaterra (F) 08:00
+http://5ce.co:80/2y0962803/8w4017mb/226806
+#EXTINF:-1 tvg-name="Haiti (F) X Dinamarca (F) 08:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Haiti (F) X Dinamarca (F) 08:00
+http://5ce.co:80/2y0962803/8w4017mb/226807
+#EXTINF:-1 tvg-name="Libertad Asuncion X Fortaleza EC 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Libertad Asuncion X Fortaleza EC 19:00
+http://5ce.co:80/2y0962803/8w4017mb/226811
+#EXTINF:-1 tvg-name="Argentinos JRS X Fluminense 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Argentinos JRS X Fluminense 19:00
+http://5ce.co:80/2y0962803/8w4017mb/226810
+#EXTINF:-1 tvg-name="Sampaio Correa X Botafogo SP 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Sampaio Correa X Botafogo SP 19:00
+http://5ce.co:80/2y0962803/8w4017mb/226809
+#EXTINF:-1 tvg-name="Mirassol X Avai 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Mirassol X Avai 19:00
+http://5ce.co:80/2y0962803/8w4017mb/226808
+#EXTINF:-1 tvg-name="Emelec X Defensa Y Justicia 21:00" tvg-logo="" group-title="JOGOS DE HOJE 01.08",Emelec X Defensa Y Justicia 21:00
+http://5ce.co:80/2y0962803/8w4017mb/226834
+#EXTINF:-1 tvg-name="River Plate X Internacional 21:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",River Plate X Internacional 21:00
+http://5ce.co:80/2y0962803/8w4017mb/226814
+#EXTINF:-1 tvg-name="Bolívar X Athletico PR 21:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Bolívar X Athletico PR 21:00
+http://5ce.co:80/2y0962803/8w4017mb/226813
+#EXTINF:-1 tvg-name="Corinthians X Newells Old Boys 21:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 01.08",Corinthians X Newells Old Boys 21:30
+http://5ce.co:80/2y0962803/8w4017mb/226955
+#EXTINF:-1 tvg-name="CRB X Atlético GO 21:30" tvg-logo="" group-title="JOGOS DE HOJE 01.08",CRB X Atlético GO 21:30
+http://5ce.co:80/2y0962803/8w4017mb/226835
 #EXTINF:-1 tvg-id="AgrobrasilTV.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="CANAIS | VARIEDADES",Agrobrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2-oWeQgNszafaOMjHAB_EDjNXaY3Jt2PqhQ5HuMGbwZ4MeDZ6gBxIVX-_S6NzW6_Y4fhyqHkCOhGTHyo4YjwSf8kavvKmKZ8mHQ_Kqi-F8naW0uSPlXX3voQW5gfSmKjMJWHGPnhQLYJ1PXxhuWlBQV0nQ4AmO0GPN8WCkUygqZXVhDLkXhcTZs8l/s1600/jundiai.jpeg" group-title="CANAIS | VARIEDADES",Canal25Jundiai.br
