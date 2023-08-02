@@ -878,6 +878,18 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36958
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36953
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",SPACE
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36944
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",Telecine Action
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36939
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",Telecine Cult
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36901
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",Telecine Fun
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36938
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",Telecine Pipoca
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36937
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",Telecine Premium
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36936
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",Telecine Touch
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36935
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",A&E HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36929
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",AXN HD
@@ -898,18 +910,6 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36904
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/369037
 #EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TCM HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63644
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TELECINE ACTION HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36939
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TELECINE CULT HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36901
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TELECINE FUN HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36938
-#EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-name="Telecine Pipoca HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TELECINE PIPOCA HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36937
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TELECINE PREMIUM HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36936
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TELECINE TOUCH HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36935
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TNT
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37035
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TNT HD
