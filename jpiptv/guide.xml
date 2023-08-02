@@ -1,96 +1,108 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TV Liberal">
     <display-name lang="pt">TV Liberal</display-name>
     <icon src="https://s2.glbimg.com/wsZwctko9Pf4AZ_v-PwIc6QtaYw=/45x45/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2022/v/O/yCkLATSKKm3mYeI5905Q/logo-branca-45x45.png" />
     <url>http://www.redeglobo.globo.com</url>
   </channel>
-  <programme start="20230801010500 -0300" stop="20230801014500 -0300" channel="TV Liberal">
+  <programme start="20230802002500 -0300" stop="20230802011500 -0300" channel="TV Liberal">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20230802011500 -0300" stop="20230802015500 -0300" channel="TV Liberal">
     <title lang="pt">Conversa com Bial</title>
-    <desc lang="pt">A atriz revelação de Vai na Fé vai ao programa para falar da carreira, do sucesso na novela e dos novos projetos.(n)</desc>
+    <desc lang="pt">A conversa é sobre o Criança Esperança 2023, com Dora Andrade, idealizadora da ONG Edisca, de Fortaleza, contemplada pelo projeto.(n)</desc>
   </programme>
-  <programme start="20230801014500 -0300" stop="20230801023000 -0300" channel="TV Liberal">
+  <programme start="20230802015500 -0300" stop="20230802024000 -0300" channel="TV Liberal">
     <title lang="pt">Reapresentação Novela</title>
-    <desc lang="pt">Sol pede para Lui fingir ser seu namorado. Lumiar diz a Ben que Sheila sabe tudo sobre a empresa de Theo. Jenifer e Rafa ficam presos em galpão.(n)</desc>
+    <desc lang="pt">Lumiar hostiliza Lui. O investigador de Ben anuncia suas descobertas. Theo convida Rafa e Jenifer para jantar e sabota a comida dos filhos.(n)</desc>
   </programme>
-  <programme start="20230801023000 -0300" stop="20230801032000 -0300" channel="TV Liberal">
+  <programme start="20230802024000 -0300" stop="20230802032500 -0300" channel="TV Liberal">
     <title lang="pt">Comédia Na Madruga</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.(n)</desc>
   </programme>
-  <programme start="20230801032000 -0300" stop="20230801040000 -0300" channel="TV Liberal">
+  <programme start="20230802032500 -0300" stop="20230802040000 -0300" channel="TV Liberal">
     <title lang="pt">Comédia Na Madruga</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.(n)</desc>
   </programme>
-  <programme start="20230801040000 -0300" stop="20230801060000 -0300" channel="TV Liberal">
+  <programme start="20230802040000 -0300" stop="20230802055000 -0300" channel="TV Liberal">
     <title lang="pt">Hora Um</title>
     <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
   </programme>
-  <programme start="20230801060000 -0300" stop="20230801083000 -0300" channel="TV Liberal">
+  <programme start="20230802055000 -0300" stop="20230802063000 -0300" channel="TV Liberal">
     <title lang="pt">Bom Dia Pará</title>
     <desc lang="pt">Jornalismo dinâmico e comprometido com os interesses dos paraenses. De segunda a sexta, a partir das 6h da manhã.(n)</desc>
   </programme>
-  <programme start="20230801083000 -0300" stop="20230801093000 -0300" channel="TV Liberal">
+  <programme start="20230802063000 -0300" stop="20230802090500 -0300" channel="TV Liberal">
+    <title lang="pt">Copa Do Mundo Feminina 2023</title>
+    <desc lang="pt">Acompanhe todas as emoções da Copa do Mundo Feminina 2023.(n)</desc>
+  </programme>
+  <programme start="20230802090500 -0300" stop="20230802100500 -0300" channel="TV Liberal">
     <title lang="pt">Bom Dia Brasil</title>
     <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
   </programme>
-  <programme start="20230801093000 -0300" stop="20230801103500 -0300" channel="TV Liberal">
+  <programme start="20230802100500 -0300" stop="20230802110000 -0300" channel="TV Liberal">
     <title lang="pt">Encontro Com Patrícia Poeta</title>
     <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
   </programme>
-  <programme start="20230801103500 -0300" stop="20230801114500 -0300" channel="TV Liberal">
+  <programme start="20230802110000 -0300" stop="20230802120000 -0300" channel="TV Liberal">
     <title lang="pt">Mais Você</title>
     <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
   </programme>
-  <programme start="20230801114500 -0300" stop="20230801130000 -0300" channel="TV Liberal">
+  <programme start="20230802120000 -0300" stop="20230802130000 -0300" channel="TV Liberal">
     <title lang="pt">JL1 - Jornal Liberal 1ª Edição</title>
     <desc lang="pt">O JL1 fala sobre a realidade de nossa região, no ato da notícia, com entradas de repórteres ao vivo, demonstrando agilidade e dinamismo da equipe de jornalismo.(n)</desc>
   </programme>
-  <programme start="20230801130000 -0300" stop="20230801132500 -0300" channel="TV Liberal">
+  <programme start="20230802130000 -0300" stop="20230802132500 -0300" channel="TV Liberal">
     <title lang="pt">Globo Esporte Pará</title>
     <desc lang="pt">Conquistas, lances geniais, gols decisivos, histórias de superação e toda a emoção do esporte você encontra aqui.  Depois do Jornal Liberal 1ªedição, no GE Pará.(n)</desc>
   </programme>
-  <programme start="20230801132500 -0300" stop="20230801144500 -0300" channel="TV Liberal">
+  <programme start="20230802132500 -0300" stop="20230802144500 -0300" channel="TV Liberal">
     <title lang="pt">Jornal Hoje</title>
     <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.(n)</desc>
   </programme>
-  <programme start="20230801144500 -0300" stop="20230801152500 -0300" channel="TV Liberal">
+  <programme start="20230802144500 -0300" stop="20230802152500 -0300" channel="TV Liberal">
     <title lang="pt">Mulheres de Areia</title>
-    <desc lang="pt">Floriano fica decepcionado com Raquel. Juju descobre o que o Sampaio tem. Joel quer fazer uma greve em Pontal. Começa o casamento de Marcos e Raquel.(n)</desc>
+    <desc lang="pt">Raquel e Marcos se casam. Tonho fala para Glorinha que vai ao Rio no psiquiatra. Breno vê o espantalho que botaram com o rosto dele.(n)</desc>
   </programme>
-  <programme start="20230801152500 -0300" stop="20230801170500 -0300" channel="TV Liberal">
-    <title lang="pt">Sessão da Tarde - Miss Simpatia</title>
-    <desc lang="pt">O FBI descobre que terroristas planejam um atentado durante o concurso de Miss Estados Unidos e decide infiltrar a desajeitada agente Gracie Hart na competição.(n)</desc>
+  <programme start="20230802152500 -0300" stop="20230802170500 -0300" channel="TV Liberal">
+    <title lang="pt">Sessão da Tarde - Uma Irmã Na Minha Vida</title>
+    <desc lang="pt">Quando o pai e a madrasta de Olivia morrem num acidente de carro, a estudante fica responsável por sua meia-irmã de sete anos.(n)</desc>
   </programme>
-  <programme start="20230801170500 -0300" stop="20230801182500 -0300" channel="TV Liberal">
+  <programme start="20230802170500 -0300" stop="20230802180500 -0300" channel="TV Liberal">
     <title lang="pt">Vale a Pena Ver de Novo</title>
-    <desc lang="pt">Raquel vê o carro de Marcos parado em frente à escola. Lorena diz a Helena que vai falar com Santana de forma definitiva. Luciana aceita o convite de César.(n)</desc>
+    <desc lang="pt">Heloisa se comove ao ouvir o depoimento de uma mulher no MADA. Helena e Téo se beijam.(n)</desc>
   </programme>
-  <programme start="20230801182500 -0300" stop="20230801191000 -0300" channel="TV Liberal">
+  <programme start="20230802180500 -0300" stop="20230802184500 -0300" channel="TV Liberal">
     <title lang="pt">Amor Perfeito</title>
-    <desc lang="pt">Orlando revela a Marcelino o plano que bolou com Marê. Gilda anuncia seu casamento com Orlando. Gaspar confronta Gilda sobre o assassinato de Lucília.(n)</desc>
+    <desc lang="pt">Gilda aciona Sílvio contra Marê. Érico desabafa com Verônica sobre chantagens a que teve de ceder. Júlio avisa Marê sobre novo julgamento pela morte de Leonel.(n)</desc>
   </programme>
-  <programme start="20230801191000 -0300" stop="20230801194000 -0300" channel="TV Liberal">
+  <programme start="20230802184500 -0300" stop="20230802191500 -0300" channel="TV Liberal">
     <title lang="pt">JL2 - Jornal Liberal 2ª Edição</title>
     <desc lang="pt">Mesmo depois de um dia intenso e agitado, o paraense faz questão de ficar bem informado, de segunda a sábado o Jornal Liberal 2ª edição é a partir das 19:20h.(n)</desc>
   </programme>
-  <programme start="20230801194000 -0300" stop="20230801203000 -0300" channel="TV Liberal">
+  <programme start="20230802191500 -0300" stop="20230802200000 -0300" channel="TV Liberal">
     <title lang="pt">Vai Na Fé</title>
-    <desc lang="pt">Lumiar hostiliza Lui. O investigador de Ben anuncia suas descobertas. Theo convida Rafa e Jenifer para jantar e sabota a comida dos filhos.(n)</desc>
+    <desc lang="pt">Jenifer e Rafa sentem-se enjoados. Ben e Sol namoram. Sheila e Belarmino destroem as provas contra Theo. Érika faz uma gravação reveladora sobre Theo.(n)</desc>
   </programme>
-  <programme start="20230801203000 -0300" stop="20230801212000 -0300" channel="TV Liberal">
+  <programme start="20230802200000 -0300" stop="20230802203000 -0300" channel="TV Liberal">
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
   </programme>
-  <programme start="20230801212000 -0300" stop="20230801222500 -0300" channel="TV Liberal">
+  <programme start="20230802203000 -0300" stop="20230802211500 -0300" channel="TV Liberal">
     <title lang="pt">Terra e Paixão</title>
-    <desc lang="pt">Ernesto liga para alguém dizendo que Caio está desconfiado. Caio sofre um atentado. Irene e Graça fazem um acordo para ter fortuna de Antônio.(n)</desc>
+    <desc lang="pt">Luigi e Anely se aliam para encontrar as barras de ouro de Cândida. Caio promete não abandonar Graça e o bebê. Ele avisa a Aline que se casará com Graça.(n)</desc>
   </programme>
-  <programme start="20230801222500 -0300" stop="20230801234500 -0300" channel="TV Liberal">
-    <title lang="pt">No Limite</title>
-    <desc lang="pt">No coração da Amazônia, a maior floresta tropical do planeta, um desafio ainda mais extremo em uma temporada radicalmente diferente.(n)</desc>
+  <programme start="20230802211500 -0300" stop="20230802233000 -0300" channel="TV Liberal">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt">Atlético-MG x Palmeiras.(n)</desc>
   </programme>
-  <programme start="20230801234500 -0300" stop="20230802002500 -0300" channel="TV Liberal">
-    <title lang="pt">Profissão Repórter</title>
-    <desc lang="pt">O Profissão Repórter desembarca na Austrália, um dos países-sede da Copa do Mundo Feminina, para mostrar os bastidores da cobertura jornalística da competição.(n)</desc>
+  <programme start="20230802233000 -0300" stop="20230802234500 -0300" channel="TV Liberal">
+    <title lang="pt">Segue o Jogo</title>
+    <desc lang="pt">Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida. Participação do comentarista Paulo Nunes.(n)</desc>
+  </programme>
+  <programme start="20230802234500 -0300" stop="20230803003000 -0300" channel="TV Liberal">
+    <title lang="pt">Que História É Essa Porchat?</title>
+    <desc lang="pt">Porchat propõe a famosos e anônimos compartilharem sua experiências inesquecíveis, engraçadas e até mesmo assustadoras. Exibido originalmente pelo canal GNT.(n)</desc>
   </programme>
 </tv>
