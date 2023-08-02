@@ -1,9 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TV Liberal">
     <display-name lang="pt">TV Liberal</display-name>
     <icon src="https://s2.glbimg.com/wsZwctko9Pf4AZ_v-PwIc6QtaYw=/45x45/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2022/v/O/yCkLATSKKm3mYeI5905Q/logo-branca-45x45.png" />
     <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="RBA TV">
+    <display-name lang="pt">RBA TV</display-name>
+    <icon src="https://conteudo.imguol.com.br/c/_layout/v3/logoUOL2021/logo_completo_white.svg" />
+    <url>http://www.band.uol.com.br</url>
   </channel>
   <programme start="20230802002500 -0300" stop="20230802011500 -0300" channel="TV Liberal">
     <title lang="pt">Jornal da Globo</title>
@@ -104,5 +109,77 @@
   <programme start="20230802234500 -0300" stop="20230803003000 -0300" channel="TV Liberal">
     <title lang="pt">Que História É Essa Porchat?</title>
     <desc lang="pt">Porchat propõe a famosos e anônimos compartilharem sua experiências inesquecíveis, engraçadas e até mesmo assustadoras. Exibido originalmente pelo canal GNT.(n)</desc>
+  </programme>
+  <programme start="20230802040000 -0300" stop="20230802060000 -0300" channel="RBA TV">
+    <title lang="pt">1º Jornal</title>
+    <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
+  </programme>
+  <programme start="20230802060000 -0300" stop="20230802080000 -0300" channel="RBA TV">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
+  </programme>
+  <programme start="20230802080000 -0300" stop="20230802090000 -0300" channel="RBA TV">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20230802090000 -0300" stop="20230802092500 -0300" channel="RBA TV">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20230802092500 -0300" stop="20230802110000 -0300" channel="RBA TV">
+    <title lang="pt">The Chef</title>
+    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
+  </programme>
+  <programme start="20230802110000 -0300" stop="20230802120000 -0300" channel="RBA TV">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20230802120000 -0300" stop="20230802130000 -0300" channel="RBA TV">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+  </programme>
+  <programme start="20230802130000 -0300" stop="20230802143000 -0300" channel="RBA TV">
+    <title lang="pt">Os Donos da Bola - SP</title>
+    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
+  </programme>
+  <programme start="20230802143000 -0300" stop="20230802160000 -0300" channel="RBA TV">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+  </programme>
+  <programme start="20230802160000 -0300" stop="20230802185000 -0300" channel="RBA TV">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230802185000 -0300" stop="20230802192000 -0300" channel="RBA TV">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230802192000 -0300" stop="20230802203000 -0300" channel="RBA TV">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20230802203000 -0300" stop="20230802220000 -0300" channel="RBA TV">
+    <title lang="pt">Faustão na Band</title>
+    <desc lang="pt">Com quadros consagrados e inéditos, Faustão traz o melhor do entretenimento para as noites da Band.(n)</desc>
+  </programme>
+  <programme start="20230802220000 -0300" stop="20230802230000 -0300" channel="RBA TV">
+    <title lang="pt">Valor da Vida</title>
+    <desc lang="pt">Artur e Carolina, que não se conhecem, despertam no mesmo dia, ela de um coma e ele depois de anos desaparecido. Os dois sentem-se deslocados do mundo em que acordam, as pessoas à sua volta são as mesmas, mas tudo mudou. Eles terão que redescobrir o sentido da vida.(n)</desc>
+  </programme>
+  <programme start="20230802230000 -0300" stop="20230803004500 -0300" channel="RBA TV">
+    <title lang="pt">Cine Clube</title>
+    <desc lang="pt">A FEITICEIRA: Jack insiste que uma desconhecida seja contratada para fazer a parte da sedutora bruxa Samantha e o estúdio encontra uma atriz chamada Isabel Bigelow. Quando a gravação começa, Jack descobre que Isabel é ótima para o papel porque ela realmente é uma bruxa.(n)</desc>
+  </programme>
+  <programme start="20230803004500 -0300" stop="20230803014500 -0300" channel="RBA TV">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.(n)</desc>
+  </programme>
+  <programme start="20230803014500 -0300" stop="20230803023500 -0300" channel="RBA TV">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20230803023500 -0300" stop="20230803030000 -0300" channel="RBA TV">
+    <title lang="pt">+ INFO</title>
+    <desc lang="pt">Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(n)</desc>
   </programme>
 </tv>
