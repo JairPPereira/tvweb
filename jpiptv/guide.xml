@@ -15,6 +15,11 @@
     <icon src="https://i.meuguia.tv/logos/new/cbr.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/apl.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <channel id="AMC">
     <display-name lang="pt">AMC</display-name>
     <icon src="https://i.meuguia.tv/logos/new/mgm.png" />
@@ -93,6 +98,14 @@
   <channel id="Telecine Touch">
     <display-name lang="pt">Telecine Touch</display-name>
     <icon src="https://i.meuguia.tv/logos/new/tc3.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <programme start="20230802002500 -0300" stop="20230802011500 -0300" channel="TV Liberal">
@@ -267,12 +280,6 @@
     <title lang="pt">+ INFO</title>
     <desc lang="pt">Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(n)</desc>
   </programme>
-  <programme start="20230802163000 -0300" stop="20230802180000 -0300" channel="Canal Brasil">
-    <title lang="pt">Romance da Empregada</title>
-  </programme>
-  <programme start="20230802180000 -0300" stop="20230802181500 -0300" channel="Canal Brasil">
-    <title lang="pt">Choque de Cultura</title>
-  </programme>
   <programme start="20230802181500 -0300" stop="20230802193500 -0300" channel="Canal Brasil">
     <title lang="pt">Mostra 125 Anos do Cinema Brasileiro: Festa</title>
   </programme>
@@ -288,8 +295,26 @@
   <programme start="20230802223000 -0300" stop="20230803003000 -0300" channel="Canal Brasil">
     <title lang="pt">Mostra 125 Anos do Cinema Brasileiro: Xica da Silva</title>
   </programme>
-  <programme start="20230802163000 -0300" stop="20230802182000 -0300" channel="AMC">
-    <title lang="pt">Coincidências do Amor</title>
+  <programme start="20230802180000 -0300" stop="20230802185900 -0300" channel="Animal Planet">
+    <title lang="pt">Nova Zelândia Selvagem</title>
+  </programme>
+  <programme start="20230802185900 -0300" stop="20230802195300 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230802195300 -0300" stop="20230802204700 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230802204700 -0300" stop="20230802214100 -0300" channel="Animal Planet">
+    <title lang="pt">Vida na Selva</title>
+  </programme>
+  <programme start="20230802214100 -0300" stop="20230802223500 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Desconhecido com Steve Backshall</title>
+  </programme>
+  <programme start="20230802223500 -0300" stop="20230802233300 -0300" channel="Animal Planet">
+    <title lang="pt">Lendas da Natureza</title>
+  </programme>
+  <programme start="20230802233300 -0300" stop="20230803003100 -0300" channel="Animal Planet">
+    <title lang="pt">Ilha dos Crocodilos: Caçadores do Tesouro Perdido</title>
   </programme>
   <programme start="20230802182000 -0300" stop="20230802195000 -0300" channel="AMC">
     <title lang="pt">Como Vivem os Bravos</title>
@@ -300,9 +325,6 @@
   <programme start="20230802220000 -0300" stop="20230803001000 -0300" channel="AMC">
     <title lang="pt">O Silêncio Dos Inocentes</title>
   </programme>
-  <programme start="20230802163900 -0300" stop="20230802182000 -0300" channel="Cinemax">
-    <title lang="pt">22 Milhas</title>
-  </programme>
   <programme start="20230802182000 -0300" stop="20230802200600 -0300" channel="Cinemax">
     <title lang="pt">O Nome da Morte</title>
   </programme>
@@ -311,9 +333,6 @@
   </programme>
   <programme start="20230802223000 -0300" stop="20230803005000 -0300" channel="Cinemax">
     <title lang="pt">Speed Racer</title>
-  </programme>
-  <programme start="20230802160500 -0300" stop="20230802175000 -0300" channel="HBO">
-    <title lang="pt">Aqueles Que Me Desejam a Morte</title>
   </programme>
   <programme start="20230802175000 -0300" stop="20230802193000 -0300" channel="HBO">
     <title lang="pt">Refavela 40</title>
@@ -330,9 +349,6 @@
   <programme start="20230802235500 -0300" stop="20230803023000 -0300" channel="HBO">
     <title lang="pt">Mulher-Maravilha 1984</title>
   </programme>
-  <programme start="20230802161000 -0300" stop="20230802180500 -0300" channel="HBO 2">
-    <title lang="pt">Rampage: Destruição Total</title>
-  </programme>
   <programme start="20230802180500 -0300" stop="20230802201500 -0300" channel="HBO 2">
     <title lang="pt">Adão Negro</title>
   </programme>
@@ -344,9 +360,6 @@
   </programme>
   <programme start="20230802215000 -0300" stop="20230803003500 -0300" channel="HBO 2">
     <title lang="pt">Elvis</title>
-  </programme>
-  <programme start="20230802162900 -0300" stop="20230802180400 -0300" channel="HBO Family">
-    <title lang="pt">A Creche do Papai</title>
   </programme>
   <programme start="20230802180400 -0300" stop="20230802185700 -0300" channel="HBO Family">
     <title lang="pt">Missões de Vida</title>
@@ -363,9 +376,6 @@
   <programme start="20230802234700 -0300" stop="20230803013300 -0300" channel="HBO Family">
     <title lang="pt">Marte Ataca!</title>
   </programme>
-  <programme start="20230802160500 -0300" stop="20230802175000 -0300" channel="HBO Plus">
-    <title lang="pt">Aqueles Que Me Desejam a Morte</title>
-  </programme>
   <programme start="20230802175000 -0300" stop="20230802193000 -0300" channel="HBO Plus">
     <title lang="pt">Refavela 40</title>
   </programme>
@@ -380,9 +390,6 @@
   </programme>
   <programme start="20230802235500 -0300" stop="20230803023000 -0300" channel="HBO Plus">
     <title lang="pt">Mulher-Maravilha 1984</title>
-  </programme>
-  <programme start="20230802154000 -0300" stop="20230802172500 -0300" channel="HBO Signature">
-    <title lang="pt">Grande Demais para Quebrar</title>
   </programme>
   <programme start="20230802172500 -0300" stop="20230802200500 -0300" channel="HBO Signature">
     <title lang="pt">Hemingway e Gellhorn</title>
@@ -399,9 +406,6 @@
   <programme start="20230802230000 -0300" stop="20230803000500 -0300" channel="HBO Signature">
     <title lang="pt">Escravidão Século XXI</title>
   </programme>
-  <programme start="20230802151500 -0300" stop="20230802172500 -0300" channel="Megapix">
-    <title lang="pt">Intocáveis</title>
-  </programme>
   <programme start="20230802172500 -0300" stop="20230802191000 -0300" channel="Megapix">
     <title lang="pt">Hermanoteu na Terra de Godah</title>
   </programme>
@@ -413,9 +417,6 @@
   </programme>
   <programme start="20230802225500 -0300" stop="20230803004000 -0300" channel="Megapix">
     <title lang="pt">João e Maria: Caçadores de Bruxas</title>
-  </programme>
-  <programme start="20230802161100 -0300" stop="20230802174600 -0300" channel="Paramount Channel">
-    <title lang="pt">Quebrando Todas as Regras</title>
   </programme>
   <programme start="20230802174600 -0300" stop="20230802193300 -0300" channel="Paramount Channel">
     <title lang="pt">Os Brutamontes</title>
@@ -443,9 +444,6 @@
   </programme>
   <programme start="20230802235200 -0300" stop="20230803002400 -0300" channel="SPACE">
     <title lang="pt">Operação Fronteira Brasil</title>
-  </programme>
-  <programme start="20230802162500 -0300" stop="20230802180000 -0300" channel="Telecine Action">
-    <title lang="pt">211: O Grande Assalto</title>
   </programme>
   <programme start="20230802180000 -0300" stop="20230802194000 -0300" channel="Telecine Action">
     <title lang="pt">A Bruxa</title>
@@ -483,9 +481,6 @@
   <programme start="20230802233500 -0300" stop="20230803011500 -0300" channel="Telecine Fun">
     <title lang="pt">Shrek Para Sempre</title>
   </programme>
-  <programme start="20230802162500 -0300" stop="20230802180000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Centro de Trauma</title>
-  </programme>
   <programme start="20230802180000 -0300" stop="20230802195000 -0300" channel="Telecine Pipoca">
     <title lang="pt">Agente das Sombras</title>
   </programme>
@@ -509,12 +504,6 @@
   </programme>
   <programme start="20230802235500 -0300" stop="20230803021000 -0300" channel="Telecine Premium">
     <title lang="pt">Top Gun: Maverick</title>
-  </programme>
-  <programme start="20230802160500 -0300" stop="20230802180000 -0300" channel="Telecine Touch">
-    <title lang="pt">Sexo Sem Compromisso</title>
-  </programme>
-  <programme start="20230802180000 -0300" stop="20230802180500 -0300" channel="Telecine Touch">
-    <title lang="pt">Preview no Touch</title>
   </programme>
   <programme start="20230802180500 -0300" stop="20230802201000 -0300" channel="Telecine Touch">
     <title lang="pt">Chacrinha</title>

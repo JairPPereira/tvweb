@@ -552,12 +552,12 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41529
 #EXTINF:-1 tvg-id="" tvg-name="24H NEWS HD" tvg-logo="https://static.b2pteam.com/logos/noticias/24hnews.png" group-title="CANAIS | JORNALISMO",24H NEWS HD
 http://cdnrede.com:80/live/ardenghix/991144858/213995.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",Animal Planet
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36992
 #EXTINF:-1 tvg-id="History FHD" tvg-name="History FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38383
 #EXTINF:-1 tvg-id="History 2 FHD" tvg-name="History 2 FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41485
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36992
 #EXTINF:-1 tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigação Discovery HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",ID: INVESTIGAÇÃO DISCOVERY HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
 #EXTINF:-1 tvg-id="Conectv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/454924e01d06c3bc20131e8514187305.webp" group-title="CANAIS | DOCUMENTÁRIOS",Conectv
@@ -890,7 +890,9 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36937
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36936
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",Telecine Touch
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36935
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",A&E HD
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TNT
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36934
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&amp;E" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",A&amp;E
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36929
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",AXN HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36991
@@ -910,10 +912,6 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36904
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/369037
 #EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TCM HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63644
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TNT
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37035
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TNT HD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36934
 #EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT Séries HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TNT SÉRIES HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36933
 #EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | FILMES & SERIES",TRUTV HD
