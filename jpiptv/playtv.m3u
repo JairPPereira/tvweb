@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TV Liberal" tvg-name="TV Liberal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",TV Liberal
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42964
-#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNWJFSkv8WuREsdEJurNJsn37qiveveohfTQenCW90TiK2UvF_XJr0s_uEfZA_IxN-DqQDDJaS6bzdQF_A104A2xisUTu0EUXfgZwQt8Q380zkw8eVu85OWH2aGgdcrnxw44RvXHDgXgJ2b-zJr7qDCWE2omBuOwDvK8_h48IbqO2lHEE1NwQbDPF4/s1600/Rede-Record.png" group-title="CANAIS | ESTADO DO PARÁ",Record
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63716
 #EXTINF:-1 tvg-id="RBA TV" tvg-logo="https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg" group-title="CANAIS | ESTADO DO PARÁ",RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="CANAIS | ESTADO DO PARÁ",TV GRÃO PARA
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNWJFSkv8WuREsdEJurNJsn37qiveveohfTQenCW90TiK2UvF_XJr0s_uEfZA_IxN-DqQDDJaS6bzdQF_A104A2xisUTu0EUXfgZwQt8Q380zkw8eVu85OWH2aGgdcrnxw44RvXHDgXgJ2b-zJr7qDCWE2omBuOwDvK8_h48IbqO2lHEE1NwQbDPF4/s1600/Rede-Record.png" group-title="CANAIS | ESTADO DO PARÁ",Record
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63716
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b8281ee455e4e5680d7c1ba9554ddb1f.webp" group-title="CANAIS | ESTADO DO PARÁ",SBT
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w1324163019.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="CANAIS | ESTADO DO PARÁ",TV GRÃO PARA
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="CANAIS | ESTADO DO PARÁ",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Rede Cultura do Pará" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="CANAIS | ESTADO DO PARÁ",Rede Cultura do Pará
@@ -537,7 +537,7 @@ https://srv4.zcast.com.br/rodney2576/rodney2576/playlist.m3u8?JPFILMES
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TOP MIX TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ab499d9cc282fd063424971ef738fec.webp" group-title="CANAIS | RELOGIOSOS",TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifByy4OrmR7aFdFrRDHaTdj3E-WHrmybRBADqo_D-JrkVkGAPgO5JmH9c8NRtjprYZQ4PJ4ERGI6VNXruNKFCt__ivEQoaGJcMRUL9NiV7gb1824_CiupMSxdOFMlnrlfOhlraRckOtYtGDUIG58MVYE-mzLJact5Ucj_3mQ8lAwsRUKYJU5OY_0qM/s1600/cnn.png" group-title="CANAIS | JORNALISMO",CNN BRASIL
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifByy4OrmR7aFdFrRDHaTdj3E-WHrmybRBADqo_D-JrkVkGAPgO5JmH9c8NRtjprYZQ4PJ4ERGI6VNXruNKFCt__ivEQoaGJcMRUL9NiV7gb1824_CiupMSxdOFMlnrlfOhlraRckOtYtGDUIG58MVYE-mzLJact5Ucj_3mQ8lAwsRUKYJU5OY_0qM/s1600/cnn.png" group-title="CANAIS | JORNALISMO",CNN Brasil
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65040
 #EXTINF:-1 tvg-id="CNN PORTUGAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifByy4OrmR7aFdFrRDHaTdj3E-WHrmybRBADqo_D-JrkVkGAPgO5JmH9c8NRtjprYZQ4PJ4ERGI6VNXruNKFCt__ivEQoaGJcMRUL9NiV7gb1824_CiupMSxdOFMlnrlfOhlraRckOtYtGDUIG58MVYE-mzLJact5Ucj_3mQ8lAwsRUKYJU5OY_0qM/s1600/cnn.png" group-title="CANAIS | JORNALISMO",CNN PORTUGAL
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?JPFILMES?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIzIDk6MTM6MjYgUE0maGFzaF92YWx1ZT1xekxpUUgyYXZUVEFETGIySmFlUmRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTBlOGNlYjktMWIwNi00ZTE5LThiMjEtYjBhMDY2Mzg1Njkz/
