@@ -1,9 +1,16 @@
-https://stitcher.pluto.tv/stitch/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb58
-
-m3u8?JPFILMES
-
-master.m3u8?deviceType=web
-
-
-
-http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1142.mp4?JPFILMES
+Afonso Padilha: Alma de Pobre (2020)
+Ellen DeGeneres: Bem Relacionada (2018)
+Lugar de Mulher - Carol Zoccoli
+Lugar de Mulher - Cintia Rosini
+Lugar de Mulher - Micheli Machado
+Marcus Cirillo - Do Interior Para O Mundo (Ao vivo em Barretos)
+Mauricio Meirelles: Levando o Caos (2020)
+Mo Gilligan: Momentum (2019)
+Murilo Couto - Eu, eu, Murilo (2017)
+Murilo Couto (2020)
+Nando Viana: Da Turma do Fundão desde 1981 (2016)
+Os Melhores do Mundo - Sexo - A Comédia (2016)
+Thiago Ventura - Especial Só Agradece (2020)
+Thiago Ventura: POKAS (2020)
+Tia Ma Com a Lingua Solta (2018)
+Whindersson Nunes: Adulto (2019)
