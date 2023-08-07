@@ -15,145 +15,245 @@ Thiago Ventura: POKAS (2020)
 Tia Ma Com a Lingua Solta (2018)
 Whindersson Nunes: Adulto (2019)
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",A Família Irwin e o Grande Tubarão-Branco - 2022
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/A%20Fam%C3%ADlia%20Irwin%20e%20o%20Grande%20Tubar%C3%A3o-Branco%20-%202022%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",A Nova Partícula do Universo - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/A%20Nova%20Part%C3%ADcula%20do%20Universo%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",À Prova do Everest - 2014
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/%C3%80%20Prova%20do%20Everest%20-%202014%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",A Vida de Evel Knievel - 2014
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/A%20Vida%20de%20Evel%20Knievel%20-%202014%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",A Vida de Steve Irwin - 2019
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/A%20Vida%20de%20Steve%20Irwin%20-%202019%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Adeus Cassini - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Adeus%20Cassini%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Alienígenas - O Conceito - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Alien%C3%ADgenas%20-%20O%20Conceito%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Animais Gigantes - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Animais%20Gigantes%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Antes do Big Bang - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Antes%20do%20Big%20Bang%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Apalaches Selvagens - 2013
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Apalaches%20Selvagens%20-%202013%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Apollo 11 - A História Não Contada - 2019
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Apollo%2011%20-%20A%20Hist%C3%B3ria%20N%C3%A3o%20Contada%20-%202019%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Apollo 11 - Um Salto Gigante - 2015
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Apollo%2011%20-%20Um%20Salto%20Gigante%20-%202015%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Arquivos Ultrassecretos - 2012
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Arquivos%20Ultrassecretos%20-%202012%20-%20480p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Asteroides e seus Efeitos sobre a Terra - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Asteroides%20e%20seus%20Efeitos%20sobre%20a%20Terra%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Austrália Selvagem - 2017
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Austr%C3%A1lia%20Selvagem%20-%202017%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Caçadores de Mitos Especial - Tubarão - O Filme - 2016
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Ca%C3%A7adores%20de%20Mitos%20Especial%20-%20Tubar%C3%A3o%20-%20O%20Filme%20-%202016%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Chernobyl - Cidade Fantasma - 2019
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Chernobyl%20-%20Cidade%20Fantasma%20-%202019%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Cidade de Insetos - 2013
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Cidade%20de%20Insetos%20-%202013%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Cidades Perdidas do Egito - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Cidades%20Perdidas%20do%20Egito%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Cobra Assassina - 2013
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Cobra%20Assassina%20-%202013%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Cobra Assassina - 2013
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Cobra%20Assassina%20-%202013%20-%20720p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Como Ser Um Astronauta - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Como%20Ser%20Um%20Astronauta%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Costa Rica Selvagem - 2017
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Costa%20Rica%20Selvagem%20-%202017%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",De Volta à Lua - 2019
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/De%20Volta%20%C3%A0%20Lua%20-%202019%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Dinossauros - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Dinossauros%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Discovery - Uma Década de Perigo - 2019
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Discovery%20-%20Uma%20D%C3%A9cada%20de%20Perigo%20-%202019%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Ed Stafford - Desafio em Família - 2020
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Ed%20Stafford%20-%20Desafio%20em%20Fam%C3%ADlia%20-%202020%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Em Busca das Ondas Gravitacionais - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Em%20Busca%20das%20Ondas%20Gravitacionais%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Em Órbita - Como os Satélites Dominam Nosso Mundo - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Em%20%C3%93rbita%20-%20Como%20os%20Sat%C3%A9lites%20Dominam%20Nosso%20Mundo%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Engolido por um Buraco Negro - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Engolido%20por%20um%20Buraco%20Negro%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Estação de Gelo Antártica - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Esta%C3%A7%C3%A3o%20de%20Gelo%20Ant%C3%A1rtica%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Gaiola dos Tubarões - 2017
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Gaiola%20dos%20Tubar%C3%B5es%20-%202017%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Largados e Pelados - Entre Tubarões - 2018
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Largados%20e%20Pelados%20-%20Entre%20Tubar%C3%B5es%20-%202018%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Marcas de um Ataque - 2015
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Marcas%20de%20um%20Ataque%20-%202015%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Marte - Guia do Viajante - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Marte%20-%20Guia%20do%20Viajante%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Megatufão nas Filipinas - 2013
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Megatuf%C3%A3o%20nas%20Filipinas%20-%202013%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Mergulho no Grande Buraco Azul - 2018
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Mergulho%20no%20Grande%20Buraco%20Azul%20-%202018%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",México Selvagem - 2016
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/M%C3%A9xico%20Selvagem%20-%202016%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Monstros ao Ataque - 2016
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Monstros%20ao%20Ataque%20-%202016%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Na Linha de Frente em Fukushima - 2018
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Na%20Linha%20de%20Frente%20em%20Fukushima%20-%202018%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",NASA 60 Anos - Jornada para o Futuro - 2018
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/NASA%2060%20Anos%20-%20Jornada%20para%20o%20Futuro%20-%202018%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Nascido Para Reinar - 2017
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Nascido%20Para%20Reinar%20-%202017%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",No Rastro do Abominável Homem das Neves - 2018
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/No%20Rastro%20do%20Abomin%C3%A1vel%20Homem%20das%20Neves%20-%202018%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",O Clima Mais Extremo do Universo - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/O%20Clima%20Mais%20Extremo%20do%20Universo%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",O Fim do Sistema Solar - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/O%20Fim%20do%20Sistema%20Solar%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",O Lado Obscuro do Sol - 2020
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/O%20Lado%20Obscuro%20do%20Sol%20-%202020%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",O Resgate do Crocodilo Gigante - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/O%20Resgate%20do%20Crocodilo%20Gigante%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",O Tubarão mais Rápido dos Mares 2 - 2017
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/O%20Tubar%C3%A3o%20mais%20R%C3%A1pido%20dos%20Mares%202%20-%202017%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Oceanos do Sistema Solar - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Oceanos%20do%20Sistema%20Solar%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Os Segredos do Sistema Solar - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Os%20Segredos%20do%20Sistema%20Solar%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Os Segredos dos Esgotos - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Os%20Segredos%20dos%20Esgotos%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Os Últimos Enxames - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Os%20%C3%9Altimos%20Enxames%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Pesca Mortal - A Lenda do Capitão Bill - 2018
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Pesca%20Mortal%20-%20A%20Lenda%20do%20Capit%C3%A3o%20Bill%20-%202018%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Pesca Mortal - A Lenda do Cornelia Marie - 2016
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Pesca%20Mortal%20-%20A%20Lenda%20do%20Cornelia%20Marie%20-%202016%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Pesca Mortal - A Lenda do Wizard - 2017
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Pesca%20Mortal%20-%20A%20Lenda%20do%20Wizard%20-%202017%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Prova de Fogo - 01 Pesquisar e Destruir - 2019
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Prova%20de%20Fogo%20-%2001%20Pesquisar%20e%20Destruir%20-%202019%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Qual o Tamanho do Universo - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Qual%20o%20Tamanho%20do%20Universo%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Segredos da Era Nuclear - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Segredos%20da%20Era%20Nuclear%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Sinais Estranhos do Espaço - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Sinais%20Estranhos%20do%20Espa%C3%A7o%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Superconstruções - Trem Interurbano México-Toluca - 2018
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Superconstru%C3%A7%C3%B5es%20-%20Trem%20Interurbano%20M%C3%A9xico-Toluca%20-%202018%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Telescópio - O Universo Revelado - 2020
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Telesc%C3%B3pio%20-%20O%20Universo%20Revelado%20-%202020%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Tempestades Solares - Ameaça ao Planeta - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Tempestades%20Solares%20-%20Amea%C3%A7a%20ao%20Planeta%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Temporada de Furacões - Harvey e Irma - 2020
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Temporada%20de%20Furac%C3%B5es%20-%20Harvey%20e%20Irma%20-%202020%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Tubarões Mortais - 2017
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Tubar%C3%B5es%20Mortais%20-%202017%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Vespas Assassinas - 2015
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Vespas%20Assassinas%20-%202015%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Vida Selvagem - A Ursa Lily - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Vida%20Selvagem%20-%20A%20Ursa%20Lily%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Vida Selvagem - Atração Animal - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Vida%20Selvagem%20-%20Atra%C3%A7%C3%A3o%20Animal%20-%202021%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Vida Selvagem - Girafas - 2018
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Vida%20Selvagem%20-%20Girafas%20-%202018%20-%201080p%20-%20H265%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Vida Selvagem - O Urso Fantasma - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Vida%20Selvagem%20-%20O%20Urso%20Fantasma%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Voyager - Rumo à Fronteira Final - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Voyager%20-%20Rumo%20%C3%A0%20Fronteira%20Final%20-%202021%20-%201080p%20-%20D+.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Variados Discovery Plus FHD",Vulcões Espaciais - 2021
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery%20Plus/[Variados%20Dsicovery%20Plus%20-%20H265]/Vulc%C3%B5es%20Espaciais%20-%202021%20-%201080p%20-%20D+.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",95 Mundos e Muitos Mais
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/95 Mundos e Muitos Mais - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",A Força de um Vulcão - LEG - Discovery.mp4
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/A For%C3%A7a de um Vulc%C3%A3o - LEG - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",A Grande Questão - Como o Universo Começou - LEG
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/A Grande Quest%C3%A3o - Como o Universo Come%C3%A7ou - LEG - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",A Grande Seca do Rio Colorado
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/A Grande Seca do Rio Colorado - 1080p - H265 - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",A História do Videogame
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/A Hist%C3%B3ria do Videogame - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",A Revolução dos Robos
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/A Revolu%C3%A7%C3%A3o dos Robos - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",A Vida Futura na Terra - Avião
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/A Vida Futura na Terra - Avi%C3%A3o - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Aeronaves do Futuro
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Aeronaves do Futuro - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Airbus A380-400
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Airbus A380-400 - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Ameaças Cósmicas - Terra
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Amea%C3%A7as C%C3%B3smicas - Terra - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",American Chopper - A Serie - Race Car 1
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/American Chopper - A Serie - Race Car 1 - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",American Chopper - A Serie - Race Car 2
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/American Chopper - A Serie - Race Car 2 - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",American Chopper Rebuilt - S01E01 O Retorno
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/American Chopper Rebuilt - S01E01 O Retorno - 1080p - H265 - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Ao Pé do Vulcão
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Ao P%C3%A9 do Vulc%C3%A3o - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Apollo 11 - A História Não Contada
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Apollo 11 - A Hist%C3%B3ria N%C3%A3o Contada - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Apollo 11 - Segredos Revelados
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Apollo 11 - Segredos Revelados - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Apolo 11 - Um Salto Gigante
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Apolo 11 - Um Salto Gigante - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Artilharia Antiga - O Primeiro Tanque de Guerra
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Artilharia Antiga - O Primeiro Tanque de Guerra - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",As Piores Catastrofes da História - A Fúria dos Tornados
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/As Piores Catastrofes da Hist%C3%B3ria - A F%C3%BAria dos Tornados - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Asteroide - A Terra em Rota de Colisão
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Asteroide - A Terra em Rota de Colis%C3%A3o - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Caçadores de Tempestades
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Ca%C3%A7adores de Tempestades - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Caminhar no Espaço - Questão de Equilíbrio
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Caminhar no Espa%C3%A7o - Quest%C3%A3o de Equil%C3%ADbrio - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Chuva de Fogo
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Chuva de Fogo - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Cidades Reveladas - S01E03 Cidade do Deserto, Dubai
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Cidades Reveladas - S01E03 Cidade do Deserto, Dubai - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Colisão de Cometas
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Colis%C3%A3o de Cometas - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Desconstruindo - Londres
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Desconstruindo - Londres - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Destino Marte
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Destino Marte - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Discovery Man Made Marvels HIIA Space Rocket - LEG
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Discovery Man Made Marvels HIIA Space Rocket - LEG - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Dubai Futurista
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Dubai Futurista - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Em Busca de Planetas Desconhecidos
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Em Busca de Planetas Desconhecidos - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Em Júpiter
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Em J%C3%BApiter - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Engenharia do Impossível
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Engenharia do Imposs%C3%ADvel - PT-PT - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Engenharia Extrema - Transporte Alternativo
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Engenharia Extrema - Transporte Alternativo - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Explosões Fora de Controle
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Explos%C3%B5es Fora de Controle - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Fim dos Dias - Aceleração de Particulas
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Fim dos Dias - Acelera%C3%A7%C3%A3o de Particulas - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Fim dos Dias - Meteoro
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Fim dos Dias - Meteoro - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Foguetes Espaciais
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Foguetes Espaciais - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Fórmula 1 - Esporte e Paixão
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/F%C3%B3rmula 1 - Esporte e Paix%C3%A3o - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Fronteiras da Ciência - Abelhas Assassinas
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Fronteiras da Ci%C3%AAncia - Abelhas Assassinas - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Global Flyer - A Volta Ao Mundo em 80 Horas
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Global Flyer - A Volta Ao Mundo em 80 Horas - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Greensburg - 01 Tornado Mortal
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Greensburg - 01 Tornado Mortal - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Hackers - Criminosos & Anjos - LEG
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Hackers - Criminosos & Anjos - LEG - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Hubble - Segredos do Espaço
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Hubble - Segredos do Espa%C3%A7o - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Imagens Impossíveis
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Imagens Imposs%C3%ADveis - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Impacto
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Impacto - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Maquina Ferozes
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Maquina Ferozes - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Máquinas Marinhas - LEG
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/M%C3%A1quinas Marinhas - LEG - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Máquinas Mortais
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/M%C3%A1quinas Mortais - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Maravilhas da Natureza - A História do Mundo
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Maravilhas da Natureza - A Hist%C3%B3ria do Mundo - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Marte - Em Busca da Vida
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Marte - Em Busca da Vida - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Marte em Foco
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Marte em Foco - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Megacargas - S1E08
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Megacargas - S1E08 - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Meteorito na Rússia - Um Especial Daily Planet
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Meteorito na R%C3%BAssia - Um Especial Daily Planet - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Missão Espacial
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Miss%C3%A3o Espacial - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Missão Hubble
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Miss%C3%A3o Hubble - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Não Estamos Sós
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/N%C3%A3o Estamos S%C3%B3s - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Big Bang de João Magueijo
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Big Bang de Jo%C3%A3o Magueijo - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Clima no Espaço
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Clima no Espa%C3%A7o - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Futuro da Via Láctea
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Futuro da Via L%C3%A1ctea - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Futuro do Carro
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Futuro do Carro - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Guia Completo - Aviões
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Guia Completo - Avi%C3%B5es - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Guia Completo - Temperaturas Extremas
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Guia Completo - Temperaturas Extremas - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Guia Completo - Terra em Erupção
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Guia Completo - Terra em Erup%C3%A7%C3%A3o - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Indomável Sol
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Indom%C3%A1vel Sol - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Mundo do Futuro - 06 Os Carros do Futuro
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Mundo do Futuro - 06 Os Carros do Futuro - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Passado Catastrofico da Terra
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Passado Catastrofico da Terra - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Segredo das Coisas
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Segredo das Coisas - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Sol
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Sol - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Universo de Stephen Hawking - 02 Viagem no Tempo
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Universo de Stephen Hawking - 02 Viagem no Tempo - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Universo em 4K
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Universo em 4K - 1080p - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Voo do Orion - LEG
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Voo do Orion - LEG - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",O Vulcão que Parou o Mundo
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O Vulc%C3%A3o que Parou o Mundo - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Odisséia Espacial - Explorando os Planetas
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Odiss%C3%A9ia Espacial - Explorando os Planetas - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Operação Fukushima com Joel Lambert
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Opera%C3%A7%C3%A3o Fukushima com Joel Lambert - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Os Segredos do Stealth
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Os Segredos do Stealth - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Pilotos de Prova - Especialistas em Rotação
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Pilotos de Prova - Especialistas em Rota%C3%A7%C3%A3o - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Planeta Alienígena
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Planeta Alien%C3%ADgena - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Planeta Feroz - 03 Incêndio
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Planeta Feroz - 03 Inc%C3%AAndio - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Planeta Plutão
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Planeta Plut%C3%A3o - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Por Dentro das Avalanches
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Por Dentro das Avalanches - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Powering The Future - Legendado
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Powering The Future - Legendado - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Prisão High-Tech
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Pris%C3%A3o High-Tech - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Projeto Estação Espacial
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Projeto Esta%C3%A7%C3%A3o Espacial - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Safári Cósmico
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Saf%C3%A1ri C%C3%B3smico - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Safári Cósmico 02
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Saf%C3%A1ri C%C3%B3smico 02 - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Se Não Existisse a Lua
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Se N%C3%A3o Existisse a Lua - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Segredos da NASA - S04E05
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Segredos da NASA - S04E05 - 1080p - H265 - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Segredos de Niki Lauda
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Segredos de Niki Lauda - 720p - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Steve Jobs - iGenius
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Steve Jobs - iGenius - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Super Barcos
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Super Barcos - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Super Humanos Reais - LEG
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Super Humanos Reais - Real Superhumans - LEG - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Super Projetos Estação Espacial
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Super Projetos Esta%C3%A7%C3%A3o Espacial - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Super Vulcões
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Super Vulc%C3%B5es - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Supercaminhões - Caminhão Contra Jato
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Supercaminh%C3%B5es - Caminh%C3%A3o Contra Jato - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Superprojetos
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Superprojetos - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Supersonic - Pilotos Sem Limite
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Supersonic - Pilotos Sem Limite - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Telescópio - O Universo Revelado
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Telesc%C3%B3pio - O Universo Revelado - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Terra em Colapso
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Terra em Colapso - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Terremotos e Colisões Cosmicas
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Terremotos e Colis%C3%B5es Cosmicas - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Thunderbirds
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Thunderbirds - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tributo a Neil Armstrong
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tributo a Neil Armstrong - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tsunami Os Segredos das Ondas Gigantes
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tsunami Os Segredos das Ondas Gigantes - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Eletricidade - Discovery na Escola
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre Eletricidade - Discovery na Escola - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Eletricidade - Legendado
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre Eletricidade - Legendado - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Extraterrestres
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre Extraterrestres - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Máquinas - 01 Montanhha-Russa + Telescópio
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre M%C3%A1quinas - 01 Montanhha-Russa + Telesc%C3%B3pio - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Máquinas - 02 - Usina Solar + Escada Rolante
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre M%C3%A1quinas - 02 - Usina Solar + Escada Rolante - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Máquinas - 05 Tear Industrial + Cortador de Árvores
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre M%C3%A1quinas - 05 Tear Industrial + Cortador de %C3%81rvores - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Oceanos
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre Oceanos - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Os ETs
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre Os ETs - S01E01 Expectativas - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Os ETs 01
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre Os ETs 01 - BUG - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Os ETs 02
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre Os ETs 02 - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Televisão
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre Televis%C3%A3o - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Tudo Sobre Vulcões
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tudo Sobre Vulc%C3%B5es - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Universo Exposto
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Universo Exposto - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Velocidade nas Veias
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Velocidade nas Veias - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Velocidade Sem Limite
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Velocidade Sem Limite - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Vida em Marte
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Vida em Marte - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Vida em Marte
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Vida em Marte - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Vida Sintética
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Vida Sint%C3%A9tica - Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="Universo - Ciencia - Tecnologia - Diversos",Vulcões Apocalípticos
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Vulc%C3%B5es Apocal%C3%ADpticos - Discovery.mkv
