@@ -30,24 +30,6 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8?JPFILMES
 https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-name="CAZÉ TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcPDV8oycuXHpvWU0OiQvLgdrvDc6Cw0-b10sWTXA2UgbgnAzZS98ZN4KT_9a-mgv_ifGsE0jDl-v0lvNgN4crePe_KGkBUCgV9SFOMTu8EE_JcDnhEcW4T5ftpizRCVmea-XK-cyImpk02stbzcpIvpkCb26P48-ocP72wjqRWnYo2zYt2qjtrAxZY8/s1600/CAZE.jpeg" group-title="JOGOS DE HOJE",CAZÉ TV
 http://5ce.co:80/2y0962803/8w4017mb/99342
-#EXTINF:-1 tvg-name="Red Bull Salzburg X Inter 14:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 09.08",Red Bull Salzburg X Inter 14:00
-http://5ce.co:80/7832849f/110355c/226806
-#EXTINF:-1 tvg-name="Gonçalense X Olaria 14:45" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 09.08",Gonçalense X Olaria 14:45
-http://5ce.co:80/7832849f/110355c/226807
-#EXTINF:-1 tvg-name="Burton Albion X Leicester 16:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 09.08",Burton Albion X Leicester 16:00
-http://5ce.co:80/7832849f/110355c/226808
-#EXTINF:-1 tvg-name="SUB 17 Flamengo X Internacional  18:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 09.08",SUB 17 Flamengo X Internacional  18:00
-http://5ce.co:80/7832849f/110355c/226809
-#EXTINF:-1 tvg-name="Club Guarani X Botafogo 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 09.08",Club Guarani X Botafogo 19:00
-http://5ce.co:80/7832849f/110355c/226810
-#EXTINF:-1 tvg-name="Independiente del Valle X Deportivo Pereira 21:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 09.08",Independiente del Valle X Deportivo Pereira 21:00
-http://5ce.co:80/7832849f/110355c/226813
-#EXTINF:-1 tvg-name="Goiás X Estudiantes 19:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 09.08",Goiás X Estudiantes 19:00
-http://5ce.co:80/7832849f/110355c/226811
-#EXTINF:-1 tvg-name="Boca Juniors X Club Nacional 21:00" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 09.08",Boca Juniors X Club Nacional 21:00
-http://5ce.co:80/7832849f/110355c/226814
-#EXTINF:-1 tvg-name="Palmeiras X Atlético-MG 21:30" tvg-logo="https://i.imgur.com/amqR00F.png" group-title="JOGOS DE HOJE 09.08",Palmeiras X Atlético-MG 21:30
-http://5ce.co:80/7832849f/110355c/226834
 #EXTINF:-1 tvg-id="AgroBrasil TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2YqndyuWXRklQ5FOhcGRxCjGjlIUAI4k0mKKv5kvhx6uJP8MpOgTqVzAVheOprbO4TT93LKE-uzl7zxJ123Vu2LpcljS4koSFyi94m3l4j4aM2M7q6-ZePwLr7kK0E5M7A22H6zVMtb3lIXvvwqA2dRsIhULFqvsSBgGLyqJojya85T0G6xRi1vb6/s1600/agrob.jpg" group-title="CANAIS | VARIEDADES",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Canal 25 Jundiaí" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2-oWeQgNszafaOMjHAB_EDjNXaY3Jt2PqhQ5HuMGbwZ4MeDZ6gBxIVX-_S6NzW6_Y4fhyqHkCOhGTHyo4YjwSf8kavvKmKZ8mHQ_Kqi-F8naW0uSPlXX3voQW5gfSmKjMJWHGPnhQLYJ1PXxhuWlBQV0nQ4AmO0GPN8WCkUygqZXVhDLkXhcTZs8l/s1600/jundiai.jpeg" group-title="CANAIS | VARIEDADES",Canal 25 Jundiaí
@@ -3687,16 +3669,6 @@ https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T10/LS-T10E17.mkv
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T10/LS-T10E18.mkv
 #EXTINF:-1 tvg-id="T10 Cadaver Habeas" tvg-name="T10E19" tvg-logo="https://www.themoviedb.org/t/p/original/3BFcGWGFUPB9ZAVSzcRn8eRnQq5.jpg" group-title="CSI MIAMI",T10 Cadaver Habeas
 https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Miami/T10/LS-T10E19.mkv
-#EXTINF:-1 tvg-id="A Noite Que Nunca Acabou" tvg-name="T01E01" tvg-logo="https://www.themoviedb.org/t/p/original/dGuXi7jssttxramkFvYjKWlFBvp.jpg" group-title="Pacto Brutal - O Assassinato de Daniella Perez",T01E01 A Noite Que Nunca Acabou
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pacto.Brutal/LS-T01E01.mp4?JPFILMES
-#EXTINF:-1 tvg-id="Os Assassinos" tvg-name="T01E02" tvg-logo="https://www.themoviedb.org/t/p/original/dGuXi7jssttxramkFvYjKWlFBvp.jpg" group-title="Pacto Brutal - O Assassinato de Daniella Perez",T01E02 Os Assassinos
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pacto.Brutal/LS-T01E02.mp4?JPFILMES
-#EXTINF:-1 tvg-id="Mae Investigadora" tvg-name="T01E03" tvg-logo="https://www.themoviedb.org/t/p/original/dGuXi7jssttxramkFvYjKWlFBvp.jpg" group-title="Pacto Brutal - O Assassinato de Daniella Perez",T01E03 Mae Investigadora
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pacto.Brutal/LS-T01E03.mp4?JPFILMES
-#EXTINF:-1 tvg-id="De Onde Vieram?" tvg-name="T01E04" tvg-logo="https://www.themoviedb.org/t/p/original/dGuXi7jssttxramkFvYjKWlFBvp.jpg" group-title="Pacto Brutal - O Assassinato de Daniella Perez",T01E04 De Onde Vieram?
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pacto.Brutal/LS-T01E04.mp4?JPFILMES
-#EXTINF:-1 tvg-id="Justiza?" tvg-name="T01E05" tvg-logo="https://www.themoviedb.org/t/p/original/dGuXi7jssttxramkFvYjKWlFBvp.jpg" group-title="Pacto Brutal - O Assassinato de Daniella Perez",T01E05 Justiza?
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pacto.Brutal/LS-T01E05.mkv
 #EXTINF:-1 tvg-id="T01E01" tvg-logo="https://www.cibelebrandao.com.br/wp-content/uploads/2021/07/1267700-0-q80.jpg" group-title="Grande Sertão Veredas",T01E01
 https://luminart.ls.lsnew.workers.dev/0:/NVLS/Grande.Sert.Veredas/T01/LS-T01E01.mkv
 #EXTINF:-1 tvg-id="T01E02" tvg-logo="https://www.cibelebrandao.com.br/wp-content/uploads/2021/07/1267700-0-q80.jpg" group-title="Grande Sertão Veredas",T01E02
