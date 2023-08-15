@@ -532,10 +532,10 @@ http://conexaoonline.top:80/live/jessica11mcr1/bra147sil147/286172.m3u8
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36992
 #EXTINF:-1 tvg-id="Investigação Discovery" tvg-name="Investigação Discovery" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",Investigação Discovery
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
-#EXTINF:-1 tvg-id="History FHD" tvg-name="History FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38383
-#EXTINF:-1 tvg-id="History 2 FHD" tvg-name="History 2 FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41485
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2
+http://tv.factoryiptv.com:80/live/wG4qnAymJM/duoiptv/36961.m3u8
 #EXTINF:-1 tvg-id="Conectv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/454924e01d06c3bc20131e8514187305.webp" group-title="CANAIS | DOCUMENTÁRIOS",Conectv
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Tv Futuro (Cultura RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d4d2795a660a7df799bbefe1861e618c.webp" group-title="CANAIS | DOCUMENTÁRIOS",Tv Futuro (Cultura RN)
