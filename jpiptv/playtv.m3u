@@ -30511,6 +30511,8 @@ https://stm1.srvif.com:6672/stream
 https://hts02.kshost.com.br:8856/live
 #EXTINF:-1 tvg-id="Liberal FM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5pAGHlS7ERec8hQqHr4YScEbV5Hy_4gvjGXnin6maFSlNkbIIIvHg1ALUnNEAC3zvXXlBpNnfl5B_8xC4Zum0ww4wrvtLH0EpyXrbKJ4hPdv9fg4SMN0AcyxUfxjN6nBwKdAL4T9N8g-9hSbZealiamFTABdDcg-3Qa_munzq-9UP2j7bEUQyOqrY/s1600/libfm.heic" group-title="RÁDIOS",Liberal FM
 http://177.105.192.70:9750/liberalfm.mp3
+#EXTINF:-1 tvg-id="Liberal AM" tvg-logo="https://img.radios.com.br/radio/xl/radio13656_1604921365.png" group-title="RÁDIOS",Liberal AM
+http://177.105.192.70:9000/oliberalcbn.mp3
 #EXTINF:-1 tvg-id="99 FM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUszFSFzpalcEhUtIdqOucOhadJsOKt31dPWZW3-3RYJHVBvmL978W7UgOdw5oKRU37Ri_UfZasLG2yccXaCfffwDjrC4ACR1-y4V-SiWzo_qscBYMmomxsEE1l0oXCuj9OzolXqm1T0nZGIlhzglyXvbEjc4VZ-rCWXhrPtT0KOAS3kzGo1S-uZR7/s1600/RADIO_99_FM_BELEM_PA.jpg" group-title="RÁDIOS",99 FM
 https://hts02.kshost.com.br:8862/live
 #EXTINF:-1 tvg-id="Mix 109 FM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqyJsX0b3RuSi9PplJwidCrKOuat1wuOPrVjlca18loPD69iM-LjPB4CBZNoMX8qCowgXmNrU_nGoWWrJn8_3RPnLBpJC-rfaYqSnrO85UCs0c5NgKFb3V3jzZdtrzTsc8goRJA5sOcOuLSfmEM3t9f3dz-5y4opbVZdw61lu_IYTxyntt5PRSh122/s1600/mixfm.jpg" group-title="RÁDIOS",Mix 109 FM
