@@ -5503,6 +5503,8 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="Besouro Azul [Cinema]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA6sEygZlszxZZZTR5jD9rfleZO.jpg" group-title="FILME DE CINEMA",Besouro Azul [Cinema]
+http://s3-server.net:80/movie/378724/pcapQ5/210521.mp4
 #EXTINF:-1 tvg-name="Minha Babá é uma Vampira: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8LQ72B83OoqmnHvm6vA8jXENVz.jpg" group-title="FILMES - AVENTURA",Minha Babá é uma Vampira: O Filme
 http://s3-server.net:80/movie/378724/pcapQ5/202456.mp4
 #EXTINF:-1 tvg-name="Babylon 5: O Caminho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaXdRG8bCdK923JsmSej37j517C.jpg" group-title="FILMES - ANIMAÇÃO",Babylon 5: O Caminho
