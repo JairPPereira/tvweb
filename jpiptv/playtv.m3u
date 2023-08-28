@@ -5503,6 +5503,14 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="Minha Babá é uma Vampira: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8LQ72B83OoqmnHvm6vA8jXENVz.jpg" group-title="FILMES - AVENTURA",Minha Babá é uma Vampira: O Filme
+http://s3-server.net:80/movie/378724/pcapQ5/202456.mp4
+#EXTINF:-1 tvg-name="Babylon 5: O Caminho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaXdRG8bCdK923JsmSej37j517C.jpg" group-title="FILMES - ANIMAÇÃO",Babylon 5: O Caminho
+http://s3-server.net:80/movie/378724/pcapQ5/210705.mp4
+#EXTINF:-1 tvg-name="Jagun Jagun: O Guerreiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NrM70jJ4NPST409wHER8ZVZiKo.jpg" group-title="FILMES - ACÃO",Jagun Jagun: O Guerreiro
+http://s3-server.net:80/movie/378724/pcapQ5/208323.mp4
+#EXTINF:-1 tvg-name="A Sombra do Reino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPLJkGizpxkeXyUvWMY6VMVydaS.jpg" group-title="FILMES - ACÃO",A Sombra do Reino
+http://s3-server.net:80/movie/378724/pcapQ5/210531.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lugar de Mulher - Carol Zoccoli" tvg-logo="https://cinema10.com.br/upload/personalidades/personalidades_18891_carolzoccoli.jpg" group-title="FILMES | STAND-UP",Lugar de Mulher - Carol Zoccoli
 http://7go.xyz:8080/movie/josemariatv/superflix22/238704.mp4?JPFILMES
 #EXTINF:-1 tvg-id="" tvg-name="Lugar de Mulher - Cintia Rosini" tvg-logo="https://media.fstatic.com/j1MC4EANhwLQ-mcKZJJTnpcWqww=/210x312/smart/media/movies/covers/2020/02/funest.jpg" group-title="FILMES | STAND-UP",Lugar de Mulher - Cintia Rosini
@@ -6909,14 +6917,6 @@ https://content.jwplatform.com/videos/Ozbn9JY0-Sh8FeK3A.mp4?JPFILMES
 https://content.jwplatform.com/videos/WckS2NAq-BG6rhfSt.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,A Invasão 1996
 https://content.jwplatform.com/videos/HPXGuqKg-wKXvmTCI.mp4?JPFILMES
-#EXTINF:-1 tvg-name="Minha Babá é uma Vampira: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8LQ72B83OoqmnHvm6vA8jXENVz.jpg" group-title="FILMES - AVENTURA",Minha Babá é uma Vampira: O Filme
-http://s3-server.net:80/movie/378724/pcapQ5/202456.mp4
-#EXTINF:-1 tvg-name="Babylon 5: O Caminho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaXdRG8bCdK923JsmSej37j517C.jpg" group-title="FILMES - ANIMAÇÃO",Babylon 5: O Caminho
-http://s3-server.net:80/movie/378724/pcapQ5/210705.mp4
-#EXTINF:-1 tvg-name="Jagun Jagun: O Guerreiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NrM70jJ4NPST409wHER8ZVZiKo.jpg" group-title="FILMES - ACÃO",Jagun Jagun: O Guerreiro
-http://s3-server.net:80/movie/378724/pcapQ5/208323.mp4
-#EXTINF:-1 tvg-name="A Sombra do Reino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPLJkGizpxkeXyUvWMY6VMVydaS.jpg" group-title="FILMES - ACÃO",A Sombra do Reino
-http://s3-server.net:80/movie/378724/pcapQ5/210531.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3vac1sx" group-title="FILMES - ACÃO",Tiros, Garotas e Trapaças 2014
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Tiros%2C%20Garotas%20e%20Trapa%C3%A7as%202014.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="https://bit.ly/3OoUAMB" group-title="FILMES - ACÃO",Tudo por Justiça 2013
