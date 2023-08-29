@@ -5503,6 +5503,8 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="10 Dias de um Homem Mau" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fl0vUwiKyxEauecs9UCh8cGRzZH.jpg" group-title="FILMES - CRIME",10 Dias de um Homem Mau
+http://s3-server.net:80/movie/378724/pcapQ5/210190.mp4
 #EXTINF:-1 tvg-name="Você Não Tá Convidada pro Meu Bat Mitzvá!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQmlvC4AQrH6tZIrnaK4n6EidGW.jpg" group-title="FILMES - COMÉDIA",Você Não Tá Convidada pro Meu Bat Mitzvá!
 http://s3-server.net:80/movie/378724/pcapQ5/210985.mp4
 #EXTINF:-1 tvg-name="Besouro Azul [Cinema]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA6sEygZlszxZZZTR5jD9rfleZO.jpg" group-title="FILME DE CINEMA",Besouro Azul [Cinema]
