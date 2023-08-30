@@ -5503,6 +5503,8 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="Projeto Ithaca: Destruição Alienígena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6v8i1ND88pVztcftWdC2KFvFNa.jpg" group-title="FILMES - FICÇÃO",Projeto Ithaca: Destruição Alienígena
+http://s3-server.net:80/movie/378724/pcapQ5/210384.mp4
 #EXTINF:-1 tvg-name="Jovens Demais para Morrer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dg4sSoDiQdfZddkyHtm0YifFfXB.jpg" group-title="FILMES - FAROESTE",Jovens Demais para Morrer
 http://s3-server.net:80/movie/378724/pcapQ5/199885.mp4
 #EXTINF:-1 tvg-name="O Estranho Caso do Fantasma Claustrofóbico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxl2XF0Qnmig21w4btbQjxxcIq.jpg" group-title="Filmes | Fantasia",O Estranho Caso do Fantasma Claustrofóbico
@@ -6627,309 +6629,309 @@ https://content.jwplatform.com/videos/16xJbo5Q-bWtniFnP.mp4?JPFILMES
 https://content.jwplatform.com/videos/XfZ7UMiy-bWtniFnP.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,The Flash O Filme 1990
 https://content.jwplatform.com/videos/paUxHSX8-gLkW43OB.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hEUR9s3oWImmN1PdSvzzTm0ez1N.jpg" group-title="Filmes | Ficcao",A MAQUINA DO TEMPO 2002
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hEUR9s3oWImmN1PdSvzzTm0ez1N.jpg" group-title="FILMES - FICÇÃO",A MAQUINA DO TEMPO 2002
 https://filme.cdn01.workers.dev/0:/FIC%C3%87%C3%83O%20CIENTIFICA/A%20M%C3%A1quina%20do%20Tempo%202002.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3bQ9WHW" group-title="Filmes | Ficcao",Free Guy 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3bQ9WHW" group-title="FILMES - FICÇÃO",Free Guy 2021
 https://cdn.jwplayer.com/videos/blPXSFwL-3vWkCocR.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3bRqAqw" group-title="Filmes | Ficcao",Finch 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3bRqAqw" group-title="FILMES - FICÇÃO",Finch 2021
 https://cdn.jwplayer.com/videos/SBe4eon4-3vWkCocR.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/2W2o1wX" group-title="Filmes | Ficcao",Infinito 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/2W2o1wX" group-title="FILMES - FICÇÃO",Infinito 2021
 https://cdn.jwplayer.com/videos/oynML1Eh-4z58n6ov.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3yg8NCZ" group-title="Filmes | Ficcao",Cosmoball Os Guardioes Do Universo 2020
+#EXTINF:-1 tvg-logo="https://bit.ly/3yg8NCZ" group-title="FILMES - FICÇÃO",Cosmoball Os Guardioes Do Universo 2020
 https://cdn.jwplayer.com/videos/pj52Z23J-zCTAkQjr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3FYGrAN" group-title="Filmes | Ficcao",Não Olhe Para Cima 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3FYGrAN" group-title="FILMES - FICÇÃO",Não Olhe Para Cima 2021
 https://cdn.jwplayer.com/videos/q8bKn40l-3aIwtZh2.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3pQP2Qx" group-title="Filmes | Ficcao",Encontros 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3pQP2Qx" group-title="FILMES - FICÇÃO",Encontros 2021
 https://cdn.jwplayer.com/videos/y9rvHSK1-3aIwtZh2.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/31Ri9JQ" group-title="Filmes | Ficcao",Duna 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/31Ri9JQ" group-title="FILMES - FICÇÃO",Duna 2021
 https://cdn.jwplayer.com/videos/84p7Hpvw-3vWkCocR.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3imBngr" group-title="Filmes | Ficcao",Isolados  Medo Invisível 2020
+#EXTINF:-1 tvg-logo="https://bit.ly/3imBngr" group-title="FILMES - FICÇÃO",Isolados  Medo Invisível 2020
 https://cdn.jwplayer.com/videos/RgupR4E3-FwFnERHM.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3dDyvch" group-title="Filmes | Ficcao",A Guerra Do Amanha 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3dDyvch" group-title="FILMES - FICÇÃO",A Guerra Do Amanha 2021
 https://content.jwplatform.com/videos/6lx2y6iZ-r1oeOf1N.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3oX8qJK" group-title="Filmes | Ficcao",Amor E Monstros 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3oX8qJK" group-title="FILMES - FICÇÃO",Amor E Monstros 2021
 https://content.jwplatform.com/videos/K6ptbRzg-eS6GsxaU.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3fHeB0k" group-title="Filmes | Ficcao",Monster Hunter 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3fHeB0k" group-title="FILMES - FICÇÃO",Monster Hunter 2021
 https://content.jwplatform.com/videos/TfQ59W2O-zAG8IaEJ.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/34ejNDz" group-title="Filmes | Ficcao",2067 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/34ejNDz" group-title="FILMES - FICÇÃO",2067 2021
 https://content.jwplatform.com/videos/DU5Gk023-zAG8IaEJ.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/2TSq8lX" group-title="Filmes | Ficcao",Ameaça No Espaço 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/2TSq8lX" group-title="FILMES - FICÇÃO",Ameaça No Espaço 2021
 https://content.jwplatform.com/videos/9kVL891Q-BG6rhfSt.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3wfrs0K" group-title="Filmes | Ficcao",Archive 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3wfrs0K" group-title="FILMES - FICÇÃO",Archive 2021
 https://content.jwplatform.com/videos/fvHxR4Gu-M3FpFWeo.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/2MlUKcc" group-title="Filmes | Ficcao",Nova Ordem Espacial 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/2MlUKcc" group-title="FILMES - FICÇÃO",Nova Ordem Espacial 2021
 https://content.jwplatform.com/videos/nt2jieyc-su2i4fvY.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Attraction 2 A Invasao 2020
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Attraction 2 A Invasao 2020
 https://content.jwplatform.com/videos/LuNrBdWR-2wXnJILV.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",O Homem Invisivel 2020
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",O Homem Invisivel 2020
 https://content.jwplatform.com/videos/70nmsrVm-vwWkUh9I.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Atomic Blonde Agente Especial 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Atomic Blonde Agente Especial 2017
 https://content.jwplatform.com/videos/3O4bYNGn-BG6rhfSt.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Passageiros 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Passageiros 2017
 https://content.jwplatform.com/videos/WYsJRKH4-BG6rhfSt.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Projeto Gemini 2019 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Projeto Gemini 2019 
 https://content.jwplatform.com/videos/xB50Yy6i-l5r3qFf5.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Perdido Em Marte 2015
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Perdido Em Marte 2015
 https://content.jwplatform.com/videos/d1SrDQ4K-18Q3BZDO.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",King Kong 2005
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",King Kong 2005
 https://content.jwplatform.com/videos/9jBjSeG7-nV9UHn96.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Kong A Ilha Da Caveira 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Kong A Ilha Da Caveira 2017
 https://content.jwplatform.com/videos/lbIpJ7Lc-8IUV9bjs.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Crônicas Da Tribo Fantasma 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Crônicas Da Tribo Fantasma 2018
 https://content.jwplatform.com/videos/DcH8Wmp4-18Q3BZDO.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Gigantes De Aço 2011
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Gigantes De Aço 2011
 https://content.jwplatform.com/videos/yosdjpQn-E2vY9Ubx.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Vida 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Vida 2017
 https://content.jwplatform.com/videos/vGB3PMKs-8IUV9bjs.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Monster Trucks 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Monster Trucks 2017
 https://content.jwplatform.com/videos/E3KTZxrg-8IUV9bjs.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Valerian E A Cidade Dos Mil Planetas 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Valerian E A Cidade Dos Mil Planetas 2017
 https://content.jwplatform.com/videos/SQHN031h-8IUV9bjs.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Ad Astra Rumo àS Estrelas 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Ad Astra Rumo àS Estrelas 2019
 https://content.jwplatform.com/videos/V2ZZcUx0-NwnrkkSt.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",O Cao Robo 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",O Cao Robo 2019
 https://content.jwplatform.com/videos/SHYd3BL8-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Godzilla 1 1998
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Godzilla 1 1998
 https://content.jwplatform.com/videos/bL4XnNVk-PJdS2QxM.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Godzilla 2 2014
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Godzilla 2 2014
 https://content.jwplatform.com/videos/mLqjscwy-PJdS2QxM.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Godzilla 3 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Godzilla 3 2019
 https://content.jwplatform.com/videos/iES5AWfG-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3vpGyA8" group-title="Filmes | Ficcao",Godzilla Vs Kong 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3vpGyA8" group-title="FILMES - FICÇÃO",Godzilla Vs Kong 2021
 https://content.jwplatform.com/videos/hwMZc3wy-LdfqFleY.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Rampage Destruição Total 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Rampage Destruição Total 2018
 https://content.jwplatform.com/videos/HlhiPI54-8IUV9bjs.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Arranha Céu Coragem Sem Limite 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Arranha Céu Coragem Sem Limite 2018
 https://content.jwplatform.com/videos/Y6853eXe-M33kuJwh.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",MIB Homens de Preto 1 1997
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",MIB Homens de Preto 1 1997
 https://content.jwplatform.com/videos/nMkKu5Ct-5TSzydBj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",MIB Homens de Preto 2 2002
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",MIB Homens de Preto 2 2002
 https://content.jwplatform.com/videos/FpZu9E2y-5TSzydBj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",MIB Homens de Preto 3 2012
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",MIB Homens de Preto 3 2012
 https://content.jwplatform.com/videos/Sjk5yk3Q-5TSzydBj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",MIB Homens de Preto 4 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",MIB Homens de Preto 4 2019
 https://content.jwplatform.com/videos/qDUZfQnd-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Maquinas Mortais 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Maquinas Mortais 2019
 https://content.jwplatform.com/videos/VZhzsbSM-M33kuJwh.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Mentes Sombrias 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Mentes Sombrias 2018
 https://content.jwplatform.com/videos/uIA7hhxJ-l5r3qFf5.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Bumblebee 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Bumblebee 2019
 https://content.jwplatform.com/videos/oHwsdLTD-M33kuJwh.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Transformers 1 2007
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Transformers 1 2007
 https://content.jwplatform.com/videos/w0bWREGp-5TSzydBj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Transformers 2 2009
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Transformers 2 2009
 https://content.jwplatform.com/videos/qYPUK4gm-5TSzydBj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Transformers 3 2011
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Transformers 3 2011
 https://content.jwplatform.com/videos/rlzZXPtM-5TSzydBj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Transformers 4 2014
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Transformers 4 2014
 https://content.jwplatform.com/videos/FZivTYVE-5TSzydBj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Transformers 5 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Transformers 5 2017
 https://content.jwplatform.com/videos/y48gemJ4-PuyNkur6.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Megatubarao 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Megatubarao 2018
 https://content.jwplatform.com/videos/rzfWuS34-UeO1WkGg.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Jurassic Park  1 1993
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Jurassic Park  1 1993
 https://content.jwplatform.com/videos/MiUZmxdK-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Jurassic Park  2 1997
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Jurassic Park  2 1997
 https://content.jwplatform.com/videos/Lh8HFR92-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Jurassic Park  3 2001
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Jurassic Park  3 2001
 https://content.jwplatform.com/videos/jrNoSl92-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Jurassic World 1 2015
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Jurassic World 1 2015
 https://content.jwplatform.com/videos/w5FatIYn-PJdS2QxM.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Jurassic World 2 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Jurassic World 2 2019
 https://content.jwplatform.com/videos/9EyngVy8-l5r3qFf5.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Alita Anjo de Combate 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Alita Anjo de Combate 2019
 https://content.jwplatform.com/videos/RMevoDfl-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Vigilante do Amanhã 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Vigilante do Amanhã 2017
 https://content.jwplatform.com/videos/tW5IFNFm-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Lucy 2014
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Lucy 2014
 https://content.jwplatform.com/videos/kCLUncyp-l5r3qFf5.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Copias  De Volta a Vida 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Copias  De Volta a Vida 2019
 https://content.jwplatform.com/videos/d6MTJ4F3-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Círculo De Fogo 1 2013
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Círculo De Fogo 1 2013
 https://content.jwplatform.com/videos/mk6Gsj0l-zSAQjdt3.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Círculo De Fogo 2 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Círculo De Fogo 2 2018
 https://content.jwplatform.com/videos/hhilN1XP-PJdS2QxM.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Armageddon 1998
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Armageddon 1998
 https://content.jwplatform.com/videos/2oE7sNLb-PJdS2QxM.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",2012 2009
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",2012 2009
 https://content.jwplatform.com/videos/vJHrep7o-PJdS2QxM.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Guerra Dos Mundos 2005
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Guerra Dos Mundos 2005
 https://content.jwplatform.com/videos/J5rIZOjM-PJdS2QxM.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Twister 1996
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Twister 1996
 https://content.jwplatform.com/videos/kiJFbVOl-nV9UHn96.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Terremoto 2020
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Terremoto 2020
 https://content.jwplatform.com/videos/PRMHg0f0-hK28dEPb.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",O Dia Depois De Amanhã 2004
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",O Dia Depois De Amanhã 2004
 https://content.jwplatform.com/videos/b15qm0wm-nV9UHn96.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",O Inferno De Dante 1997
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",O Inferno De Dante 1997
 https://content.jwplatform.com/videos/J5h9MOOs-nV9UHn96.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Tropas Estelares 1997
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Tropas Estelares 1997
 https://content.jwplatform.com/videos/40QFxxa7-nV9UHn96.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",O Destino De Júpiter 2015
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",O Destino De Júpiter 2015
 https://content.jwplatform.com/videos/5IRamGVx-nV9UHn96.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",No Olho Do Tornado 2014
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",No Olho Do Tornado 2014
 https://content.jwplatform.com/videos/a83E1AMb-nV9UHn96.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Hancock 2008
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Hancock 2008
 https://content.jwplatform.com/videos/waNKGRai-nV9UHn96.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",As Tartarugas Ninja 1 2014
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",As Tartarugas Ninja 1 2014
 https://content.jwplatform.com/videos/zJuXa0Ze-nV9UHn96.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",As Tartarugas Ninja 2 2016
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",As Tartarugas Ninja 2 2016
 https://content.jwplatform.com/videos/B1RYLKud-nV9UHn96.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Caminhando Com Os Dinossauros 2014
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Caminhando Com Os Dinossauros 2014
 https://content.jwplatform.com/videos/sEvyZ6Ob-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Dinossauro 2010
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Dinossauro 2010
 https://content.jwplatform.com/videos/z3prWrAi-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",A Reconquista 2000
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",A Reconquista 2000
 https://content.jwplatform.com/videos/rsgdnY6z-NfA09Gih.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Spectral 2016
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Spectral 2016
 https://content.jwplatform.com/videos/0S3QVxSg-NfA09Gih.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Congo 1995
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Congo 1995
 https://content.jwplatform.com/videos/17TRAmT0-NfA09Gih.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Planeta Dos Macacos 1 2001
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Planeta Dos Macacos 1 2001
 https://content.jwplatform.com/videos/QvZLzCIL-BeN2HstN.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Planeta Dos Macacos 2 2011
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Planeta Dos Macacos 2 2011
 https://content.jwplatform.com/videos/tVV3jvyM-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Planeta Dos Macacos 3 2014
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Planeta Dos Macacos 3 2014
 https://content.jwplatform.com/videos/LPjeWbZy-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Planeta Dos Macacos 4 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Planeta Dos Macacos 4 2017
 https://content.jwplatform.com/videos/hHLmMKpG-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Comando Kill 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Comando Kill 2017
 https://content.jwplatform.com/videos/nvLBUACb-NfA09Gih.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Cloverfield 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Cloverfield 2018
 https://content.jwplatform.com/videos/ZssKX7K1-NfA09Gih.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Hellboy 1 2004
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Hellboy 1 2004
 https://content.jwplatform.com/videos/peWdc3ls-VHvtoAN2.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Hellboy 2 2008
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Hellboy 2 2008
 https://content.jwplatform.com/videos/k85aAlnM-5TSzydBj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Hellboy 3 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Hellboy 3 2019
 https://content.jwplatform.com/videos/CQXwfnfQ-5TSzydBj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Perdidos No Espaço 1998
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Perdidos No Espaço 1998
 https://content.jwplatform.com/videos/JoLxuQPv-5TSzydBj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",O Quinto Elemento 1997
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",O Quinto Elemento 1997
 https://content.jwplatform.com/videos/Oh4rf9Za-Yd4xCB27.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Independence Day 1 1996
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Independence Day 1 1996
 https://content.jwplatform.com/videos/pRu9wnGQ-Yd4xCB27.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Independence Day 2 2016
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Independence Day 2 2016
 https://content.jwplatform.com/videos/75QY9VcM-PuyNkur6.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Fim dos dias 1999
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Fim dos dias 1999
 https://content.jwplatform.com/videos/OW79fIcb-Yd4xCB27.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Stargate The Ark Truth 2008
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Stargate The Ark Truth 2008
 https://content.jwplatform.com/videos/k3oflnSj-xzKJxBMJ.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Stargate Continuum 2008
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Stargate Continuum 2008
 https://content.jwplatform.com/videos/TOUWYsza-xzKJxBMJ.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Stargate 1994
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Stargate 1994
 https://content.jwplatform.com/videos/zocfqlbu-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Alone in the Dark 2005
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Alone in the Dark 2005
 https://content.jwplatform.com/videos/t9ttWLyv-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Warcraft 2016
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Warcraft 2016
 https://content.jwplatform.com/videos/QuxTeNkb-8IUV9bjs.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Maze Runner 1 2014
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Maze Runner 1 2014
 https://content.jwplatform.com/videos/6gBoFvDQ-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Maze Runner 2 2015
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Maze Runner 2 2015
 https://content.jwplatform.com/videos/ciuA1thQ-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Maze Runner 3 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Maze Runner 3 2018
 https://content.jwplatform.com/videos/jJG2hzdM-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",A Filha De Osíris 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",A Filha De Osíris 2017
 https://content.jwplatform.com/videos/KGX6ZLFW-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Fim Do Mundo 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Fim Do Mundo 2019
 https://content.jwplatform.com/videos/70gbUxT8-7qlVbwrC.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Tomorrowland 2015
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Tomorrowland 2015
 https://content.jwplatform.com/videos/XJqggQ8C-Fj6mOqH7.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",O Vingador Do Futuro 1990
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",O Vingador Do Futuro 1990
 https://content.jwplatform.com/videos/oFfnirsL-Fj6mOqH7.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",A Reconquista 2000
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",A Reconquista 2000
 https://content.jwplatform.com/videos/mIFQjybS-Fj6mOqH7.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",A Liga Extraordinária 2003
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",A Liga Extraordinária 2003
 https://content.jwplatform.com/videos/iuelwaDe-2TdoDbn0.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Riddick 1 2000
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Riddick 1 2000
 https://content.jwplatform.com/videos/KcIpHXPI-XP4H4gai.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Riddick 2 2004
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Riddick 2 2004
 https://content.jwplatform.com/videos/cnjaH5Yw-Ay5r7f3Q.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Riddick 3 2013
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Riddick 3 2013
 https://content.jwplatform.com/videos/RNztbACw-XP4H4gai.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Depois Da Terra 2013
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Depois Da Terra 2013
 https://content.jwplatform.com/videos/tZEnCW5M-Ay5r7f3Q.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Agente Do Futuro 2015
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Agente Do Futuro 2015
 https://content.jwplatform.com/videos/xRg8jn4J-Ay5r7f3Q.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Batalha Dos Mares 2012
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Batalha Dos Mares 2012
 https://content.jwplatform.com/videos/yoYtTqgP-Ay5r7f3Q.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Elysium 2013
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Elysium 2013
 https://content.jwplatform.com/videos/jO5tQiyT-Ay5r7f3Q.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Along With The Gods 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Along With The Gods 2018
 https://content.jwplatform.com/videos/BzPgov45-18Q3BZDO.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Tokyo Ghoul 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Tokyo Ghoul 2018
 https://content.jwplatform.com/videos/9IdQ00XH-18Q3BZDO.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Kin 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Kin 2018
 https://content.jwplatform.com/videos/PEK47E6X-18Q3BZDO.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Extinção 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Extinção 2018
 https://content.jwplatform.com/videos/w5eVUX1H-18Q3BZDO.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Io O ÚLtimo Na Terra 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Io O ÚLtimo Na Terra 2019
 https://content.jwplatform.com/videos/pS0LMwHP-18Q3BZDO.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Bleach 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Bleach 2018
 https://content.jwplatform.com/videos/Z9HTzXDn-18Q3BZDO.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Ex Machina 2015
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Ex Machina 2015
 https://content.jwplatform.com/videos/o9cRItws-18Q3BZDO.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",O Primeiro Homem 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",O Primeiro Homem 2019
 https://content.jwplatform.com/videos/jFeiuBtR-18Q3BZDO.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Bright 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Bright 2017
 https://content.jwplatform.com/videos/lx5TpwD9-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Divergente 2014
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Divergente 2014
 https://content.jwplatform.com/videos/xwKkqSqp-EI71wRcp.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Eu Robo 2004
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Eu Robo 2004
 https://content.jwplatform.com/videos/U6vgGA5p-EI71wRcp.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",O Apocalipse 2014
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",O Apocalipse 2014
 https://content.jwplatform.com/videos/LUaXJHHo-EI71wRcp.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Insurgente 2015
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Insurgente 2015
 https://content.jwplatform.com/videos/v88j5WEr-EI71wRcp.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Eu Sou A Lenda 2007
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Eu Sou A Lenda 2007
 https://content.jwplatform.com/videos/BLMPPDQa-EI71wRcp.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Star Trek 1 2009
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Star Trek 1 2009
 https://content.jwplatform.com/videos/FhUzXo6J-XP4H4gai.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Star Trek 2 2013
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Star Trek 2 2013
 https://content.jwplatform.com/videos/Y9GO3HhK-XP4H4gai.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Star Trek 3 2016
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Star Trek 3 2016
 https://content.jwplatform.com/videos/ignECTGD-lUWRZ73X.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Filmes | Ficcao",Star Wars 1 1999
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="FILMES - FICÇÃO",Star Wars 1 1999
 https://content.jwplatform.com/videos/Bug8EOxL-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Filmes | Ficcao",Star Wars 2 2002
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="FILMES - FICÇÃO",Star Wars 2 2002
 https://content.jwplatform.com/videos/MOmZTau0-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Filmes | Ficcao",Star Wars 4 1977
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="FILMES - FICÇÃO",Star Wars 4 1977
 https://content.jwplatform.com/videos/XdS0I7nD-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Filmes | Ficcao",Star Wars 5 1980
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="FILMES - FICÇÃO",Star Wars 5 1980
 https://content.jwplatform.com/videos/4nrE3dHK-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Filmes | Ficcao",Star Wars 6 1983
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="FILMES - FICÇÃO",Star Wars 6 1983
 https://content.jwplatform.com/videos/WQlUJTvy-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Filmes | Ficcao",Star Wars 7 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="FILMES - FICÇÃO",Star Wars 7 2016
 https://content.jwplatform.com/videos/Vb3YWcEV-C9tEYeUR.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Filmes | Ficcao",Star Wars 8 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="FILMES - FICÇÃO",Star Wars 8 2017
 https://content.jwplatform.com/videos/HsCjPeDh-C9tEYeUR.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Filmes | Ficcao",Star Wars 9 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="FILMES - FICÇÃO",Star Wars 9 2019
 https://content.jwplatform.com/videos/R1VUKew5-tmrR3xm7.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Filmes | Ficcao",Star Wars História Han Solo 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="FILMES - FICÇÃO",Star Wars História Han Solo 2018
 https://content.jwplatform.com/videos/CwfZH5Q0-0uvDYoAG.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Filmes | Ficcao",Star Wars Rogue One 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="FILMES - FICÇÃO",Star Wars Rogue One 2016
 https://content.jwplatform.com/videos/CKxFQupB-C9tEYeUR.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Substitutos 2009
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Substitutos 2009
 https://content.jwplatform.com/videos/5wKHCchf-XP4H4gai.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",R i p d Agentes Do Além 2013
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",R i p d Agentes Do Além 2013
 https://content.jwplatform.com/videos/DHaQKVLP-XP4H4gai.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Jumper 2008
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Jumper 2008
 https://content.jwplatform.com/videos/v34AZbTS-XP4H4gai.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",O Homem Sem Sombra 1 2000
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",O Homem Sem Sombra 1 2000
 https://content.jwplatform.com/videos/TLpHDWZX-jG69wtrL.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",O Homem Sem Sombra 2 2007
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",O Homem Sem Sombra 2 2007
 https://content.jwplatform.com/videos/ECc6LdwC-yNtZ8ayZ.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Momentum 2016
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Momentum 2016
 https://content.jwplatform.com/videos/xPFw2zYC-mk24FxaO.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Revolt 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Revolt 2018
 https://content.jwplatform.com/videos/Rg1NZaOZ-NSkcn7Cl.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",Skyline Além Do Horizonte 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",Skyline Além Do Horizonte 2018
 https://content.jwplatform.com/videos/mBzZdhFu-kvDumjch.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="https://bit.ly/3qtcYZ7" group-title="FILMES - LANÇAMENTOS",Skylines 2021
 https://content.jwplatform.com/videos/Ozbn9JY0-Sh8FeK3A.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",A Origem 2010
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",A Origem 2010
 https://content.jwplatform.com/videos/WckS2NAq-BG6rhfSt.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes | Ficcao",A Invasão 1996
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - FICÇÃO",A Invasão 1996
 https://content.jwplatform.com/videos/HPXGuqKg-wKXvmTCI.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="https://bit.ly/3vac1sx" group-title="FILMES - ACÃO",Tiros, Garotas e Trapaças 2014
 https://filme.cdn01.workers.dev/0:/A%C3%87%C3%83O/Tiros%2C%20Garotas%20e%20Trapa%C3%A7as%202014.mp4?JPFILMES
