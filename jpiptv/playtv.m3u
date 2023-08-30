@@ -5503,6 +5503,8 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="Eu e Meu Guarda Chuva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAN8xHLZjrcA9Yt3bzN8k89MFxj.jpg" group-title="Filmes | Família",Eu e Meu Guarda Chuva
+http://s3-server.net:80/movie/378724/pcapQ5/199881.mp4
 #EXTINF:-1 tvg-name="Deserto (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXbThdfSnR9tZbhItsJURZVSIZp.jpg" group-title="FILMES - DRAMA",Deserto (2015)
 http://s3-server.net:80/movie/378724/pcapQ5/211679.mp4
 #EXTINF:-1 tvg-name="10 Dias de um Homem Mau" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fl0vUwiKyxEauecs9UCh8cGRzZH.jpg" group-title="FILMES - CRIME",10 Dias de um Homem Mau
@@ -6041,91 +6043,91 @@ https://content.jwplatform.com/videos/0ZCngItu-lUWRZ73X.mp4?JPFILMES
 https://content.jwplatform.com/videos/aITG32JG-lUWRZ73X.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="https://bit.ly/3vaVkgP" group-title="FILMES - CORRIDA",A Aparição 1986
 https://content.jwplatform.com/videos/vTh18fQE-lUWRZ73X.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Serra Pelada 2014
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Serra Pelada 2014
 https://content.jwplatform.com/videos/KDufJyzk-eS6GsxaU.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,O Nome Da Morte 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",O Nome Da Morte 2018
 https://content.jwplatform.com/videos/0ZxDpQ4g-zAG8IaEJ.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,CARANDIRU
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",CARANDIRU
 https://content.jwplatform.com/videos/lZIsSakL-EiPiTsLT.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,O Casamento Dos Trapalhões 1988
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",O Casamento Dos Trapalhões 1988
 https://content.jwplatform.com/videos/C3Bcp9Dx-RWNAGREF.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,O Cangaceiro Trapalhão 1983
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",O Cangaceiro Trapalhão 1983
 https://content.jwplatform.com/videos/mtVH2JGX-RWNAGREF.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Aladim E A Lâmpada Maravilhosa 1973
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Aladim E A Lâmpada Maravilhosa 1973
 https://content.jwplatform.com/videos/GSJJNsmj-RWNAGREF.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Ali Babá E Os Quarenta Ladrões 1972
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Ali Babá E Os Quarenta Ladrões 1972
 https://content.jwplatform.com/videos/cUwrUL95-RWNAGREF.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Mussum Do Cacilds 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Mussum Do Cacilds 2019
 https://content.jwplatform.com/videos/mFD2Gh9X-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Sai De Baixo O Filme Nacional 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Sai De Baixo O Filme Nacional 2019
 https://content.jwplatform.com/videos/k9YPzYG1-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Turma Da Mônica Laços 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Turma Da Mônica Laços 2019
 https://content.jwplatform.com/videos/rQNRLtUe-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Nosso Lar 2010
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Nosso Lar 2010
 https://content.jwplatform.com/videos/PvD1e2w8-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,O Auto Da Compadecida 2000
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",O Auto Da Compadecida 2000
 https://content.jwplatform.com/videos/iop0OCs7-C9tEYeUR.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Exterminadores Do Alem 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Exterminadores Do Alem 2018
 https://content.jwplatform.com/videos/ubPxNYb7-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3uM8dgX" group-title="NACIONAL" ,Tropa De Elite 1 2007
+#EXTINF:-1 tvg-logo="https://bit.ly/3uM8dgX" group-title="FILMES - NACIONAL",Tropa De Elite 1 2007
 https://content.jwplatform.com/videos/Kv5btshi-0HOcX8n1.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3xzcq9m" group-title="NACIONAL" ,Tropa de Elite 2 2010
+#EXTINF:-1 tvg-logo="https://bit.ly/3xzcq9m" group-title="FILMES - NACIONAL",Tropa de Elite 2 2010
 https://filme.cdn01.workers.dev/0:/NACIONAL/Tropa%20de%20Elite%202%202010.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,O Menino Da Porteira 2009
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",O Menino Da Porteira 2009
 https://content.jwplatform.com/videos/cL1AZpA8-0HOcX8n1.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Cidade De Deus 2002
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Cidade De Deus 2002
 https://content.jwplatform.com/videos/c3yh5348-0HOcX8n1.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Cidade Dos Homens 2007
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Cidade Dos Homens 2007
 https://content.jwplatform.com/videos/qXe3AVX7-0HOcX8n1.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Milionario & José Rico  Estrada da Vida 1980
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Milionario & José Rico  Estrada da Vida 1980
 https://content.jwplatform.com/videos/1fDbzJTQ-jjGpoREr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,2 Filhos De Francisco 2005
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",2 Filhos De Francisco 2005
 https://content.jwplatform.com/videos/GZVCHxBh-0HOcX8n1.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,O Homem Que Desafiou O Diabo 2007
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",O Homem Que Desafiou O Diabo 2007
 https://content.jwplatform.com/videos/odh7JvXM-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Os Farofeiros 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Os Farofeiros 2018
 https://content.jwplatform.com/videos/W0ariG9m-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Os Parças 1 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Os Parças 1 2018
 https://content.jwplatform.com/videos/CVXHvMuC-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Os Parcas 2 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Os Parcas 2 2019
 https://content.jwplatform.com/videos/zeeT7PjR-SLjrVf6Q.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,ÚLtima Parada 174 2008
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",ÚLtima Parada 174 2008
 https://content.jwplatform.com/videos/t12xnVD5-ABgby8qa.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Rota Comando 2008
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Rota Comando 2008
 https://content.jwplatform.com/videos/Qp4MtPKY-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Vidas Partidas
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Vidas Partidas
 https://content.jwplatform.com/videos/LmqVbBmY-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Salve Geral 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Salve Geral 2017
 https://content.jwplatform.com/videos/d3sP1JBE-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Pelé O Nascimento de Uma Lenda 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Pelé O Nascimento de Uma Lenda 2017
 https://content.jwplatform.com/videos/X8ltSSK6-nIPYi4xr.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Minha Mãe É Uma Peça 1 2013
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Minha Mãe É Uma Peça 1 2013
 https://content.jwplatform.com/videos/b1KMBBTm-8IUV9bjs.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Minha Mãe é Uma Peça 2 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Minha Mãe é Uma Peça 2 2017
 https://content.jwplatform.com/videos/ibhRkse8-8IUV9bjs.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Minha Mae e Uma Peca 3 2020
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Minha Mae e Uma Peca 3 2020
 https://content.jwplatform.com/videos/dtoFY70K-bWtniFnP.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Vestido Pra Casar 2014
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Vestido Pra Casar 2014
 https://content.jwplatform.com/videos/aIxNxYXY-LElI8svP.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Uma Quase Dupla 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Uma Quase Dupla 2018
 https://content.jwplatform.com/videos/yb5YiAg3-M33kuJwh.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Um Suburbano Sortudo 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Um Suburbano Sortudo 2016
 https://content.jwplatform.com/videos/qrTM4Jle-M33kuJwh.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Cinderela Pop 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Cinderela Pop 2019
 https://content.jwplatform.com/videos/mTZM66qi-M33kuJwh.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Crô Em Família 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Crô Em Família 2018
 https://content.jwplatform.com/videos/6l6PSmww-M33kuJwh.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Coracao De Cowboy 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Coracao De Cowboy 2018
 https://content.jwplatform.com/videos/Bl1AoX8S-M33kuJwh.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Vai Que Cola 2015
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Vai Que Cola 2015
 https://content.jwplatform.com/videos/8qAHGQZO-M33kuJwh.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Se Beber Nao Ceie 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Se Beber Nao Ceie 2018
 https://content.jwplatform.com/videos/eJqlL4n6-M33kuJwh.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Tô Ryca 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Tô Ryca 2016
 https://content.jwplatform.com/videos/R27dy7ZB-LElI8svP.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Tungstenio 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Tungstenio 2018
 https://content.jwplatform.com/videos/OvgULsfC-0LVEQQrw.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,Central Do Brasil 1998
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - NACIONAL",Central Do Brasil 1998
 https://content.jwplatform.com/videos/hCCSIRnO-2TdoDbn0.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="https://bit.ly/3L5eTwY" group-title="Mazzaropi" ,Em No Paraíso Das Solteironas 1968
 https://content.jwplatform.com/videos/36ouj1f8-0HOcX8n1.mp4?JPFILMES
