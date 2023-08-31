@@ -513,44 +513,182 @@ http://tv.factoryiptv.com/live/wG4qnAymJM/duoiptv/42411.ts
 http://tv.factoryiptv.com:80/live/wG4qnAymJM/duoiptv/83443.m3u8
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://pbs.twimg.com/profile_images/1574594693714911232/Cyby7WtT_400x400.jpg" group-title="CANAIS | JORNALISMO",Record News
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41529
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",Animal Planet
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36992
-#EXTINF:-1 tvg-id="Investigação Discovery" tvg-name="Investigação Discovery" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",Investigação Discovery
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38383
-#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2
-http://tv.factoryiptv.com:80/live/wG4qnAymJM/duoiptv/36961.m3u8
-#EXTINF:-1 tvg-id="Conectv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/454924e01d06c3bc20131e8514187305.webp" group-title="CANAIS | DOCUMENTÁRIOS",Conectv
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="Tv Futuro (Cultura RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d4d2795a660a7df799bbefe1861e618c.webp" group-title="CANAIS | DOCUMENTÁRIOS",Tv Futuro (Cultura RN)
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="Vivam Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a40b87342e5dcbbcefdabd74fd5ffefd.webp" group-title="CANAIS | DOCUMENTÁRIOS",Vivam Web
-https://stmv1.liveplushd.com.br/tvvivam/tvvivam/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="Tv Destak" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/396e2fb0d045414e3b916d4c9a00f602.webp" group-title="CANAIS | DOCUMENTÁRIOS",Tv Destak
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="TVídeoNews" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/58399bd0987147a2d4380e3a8cdbee1c.webp" group-title="CANAIS | DOCUMENTÁRIOS",TVídeoNews
-https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w795471484.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="Rede Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ede7e5de6ca676517ca7197759c16e7.webp" group-title="CANAIS | DOCUMENTÁRIOS",Rede Família
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery Channel HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Channel HD
-http://tv.factoryiptv.com:80/live/wG4qnAymJM/duoiptv/36985.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery H&H HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/discovery-home-and-health-logo2.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery H&H HD
-http://piglo.re:80/Presidente/256071x/54659.ts
-#EXTINF:-1 tvg-id="Discovery Theater FHD" tvg-name="Discovery Theather HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/e5a276c526172eb023640f2651f46975.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Theather HD
-http://piglo.re:80/Presidente/256071x/54208.ts
-#EXTINF:-1 tvg-id="Discovery Turbo FHD" tvg-name="Discovery Turbo HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Turbo HD
-http://tv.factoryiptv.com:80/live/wG4qnAymJM/duoiptv/36982.m3u8
-#EXTINF:-1 tvg-id="Discovery World FHD" tvg-name="Discovery World HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery World HD
-http://piglo.re:80/Presidente/256071x/54211.ts
-#EXTINF:-1 tvg-id="Lifetime FHD" tvg-name="Lifetime HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/46309dd5fe1e4335d4b03b221096f7c4.png" group-title="CANAIS | DOCUMENTÁRIOS",Lifetime HD
-http://piglo.re:80/Presidente/256071x/54682.ts
-#EXTINF:-1 tvg-id="Nat Geo FHD" tvg-name="Natgeo HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/8ee25b724a4ba5efbfd6d07eb591c179.png" group-title="CANAIS | DOCUMENTÁRIOS",Natgeo HD
-http://piglo.re:80/Presidente/256071x/54217.ts
-#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS HD" tvg-logo="https://static.b2pteam.com/logos/documentario/urbandocs.png" group-title="CANAIS | DOCUMENTÁRIOS",URBAN DOCS HD
-http://cdnrede.com:80/live/ardenghix/991144858/213990.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="" tvg-name="INSPIRE HD" tvg-logo="https://static.b2pteam.com/logos/documentario/inspire.png" group-title="CANAIS | DOCUMENTÁRIOS",INSPIRE HD
-http://cdnrede.com:80/live/ardenghix/991144858/231230.m3u8?JPFILMES
+
+#EXTINF:-1 tvg-name="Animal Planet 4K FHDR" tvg-logo="http://acsa.ws:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | 4K [FHDR]",Animal Planet 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/71774.ts
+#EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="http://acsa.ws:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD
+http://s3-server.net:80/378724/pcapQ5/71772.ts
+#EXTINF:-1 tvg-name="Animal Planet FHD [H265]" tvg-logo="http://acsa.ws:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/71773.ts
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="http://acsa.ws:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet HD
+http://s3-server.net:80/378724/pcapQ5/71775.ts
+#EXTINF:-1 tvg-name="Animal Planet SD" tvg-logo="http://acsa.ws:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet SD
+http://s3-server.net:80/378724/pcapQ5/71776.ts
+#EXTINF:-1 tvg-name="Arte 1 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | 4K [FHDR]",Arte 1 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/103531.ts
+#EXTINF:-1 tvg-name="Arte 1 FHD" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD
+http://s3-server.net:80/378724/pcapQ5/71777.ts
+#EXTINF:-1 tvg-name="Arte 1 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/71778.ts
+#EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 HD
+http://s3-server.net:80/378724/pcapQ5/71779.ts
+#EXTINF:-1 tvg-name="Arte 1 SD" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 SD
+http://s3-server.net:80/378724/pcapQ5/71780.ts
+#EXTINF:-1 tvg-name="Curta FHD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD
+http://s3-server.net:80/378724/pcapQ5/71855.ts
+#EXTINF:-1 tvg-name="Curta FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/71856.ts
+#EXTINF:-1 tvg-name="Curta HD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta HD
+http://s3-server.net:80/378724/pcapQ5/71857.ts
+#EXTINF:-1 tvg-name="Curta SD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta SD
+http://s3-server.net:80/378724/pcapQ5/71858.ts
+#EXTINF:-1 tvg-name="Curta! 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | 4K [FHDR]",Curta! 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/103512.ts
+#EXTINF:-1 tvg-name="Discovery Channel 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/71864.ts
+#EXTINF:-1 tvg-name="Discovery Channel FHD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
+http://s3-server.net:80/378724/pcapQ5/71862.ts
+#EXTINF:-1 tvg-name="Discovery Channel FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/71863.ts
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
+http://s3-server.net:80/378724/pcapQ5/71865.ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="Canais | Documentários",DISCOVERY CHANNEL HD
+http://s3-server.net:80/378724/pcapQ5/191363.ts
+#EXTINF:-1 tvg-name="Discovery Channel SD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
+http://s3-server.net:80/378724/pcapQ5/71866.ts
+#EXTINF:-1 tvg-name="Discovery H&H 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | 4K [FHDR]",Discovery H&H 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/90251.ts
+#EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD
+http://s3-server.net:80/378724/pcapQ5/71867.ts
+#EXTINF:-1 tvg-name="Discovery H&H FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/71868.ts
+#EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H HD
+http://s3-server.net:80/378724/pcapQ5/71869.ts
+#EXTINF:-1 tvg-name="Discovery H&H SD" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H SD
+http://s3-server.net:80/378724/pcapQ5/71870.ts
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/ID/logo.png" group-title="Canais | Documentários",DISCOVERY ID
+http://s3-server.net:80/378724/pcapQ5/191367.ts
+#EXTINF:-1 tvg-name="Discovery Kids 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | 4K [FHDR]",Discovery Kids 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/90250.ts
+#EXTINF:-1 tvg-name="Discovery Kids FHD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
+http://s3-server.net:80/378724/pcapQ5/71871.ts
+#EXTINF:-1 tvg-name="Discovery Kids FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/71872.ts
+#EXTINF:-1 tvg-name="Discovery Kids HD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+http://s3-server.net:80/378724/pcapQ5/71873.ts
+#EXTINF:-1 tvg-name="Discovery Kids SD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
+http://s3-server.net:80/378724/pcapQ5/71874.ts
+#EXTINF:-1 tvg-name="Discovery Science 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/103511.ts
+#EXTINF:-1 tvg-name="Discovery Science FHD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
+http://s3-server.net:80/378724/pcapQ5/71875.ts
+#EXTINF:-1 tvg-name="Discovery Science FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/71876.ts
+#EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
+http://s3-server.net:80/378724/pcapQ5/71877.ts
+#EXTINF:-1 tvg-name="Discovery Science SD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science SD
+http://s3-server.net:80/378724/pcapQ5/71878.ts
+#EXTINF:-1 tvg-name="Discovery Theater 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/103510.ts
+#EXTINF:-1 tvg-name="Discovery Theater FHD" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD
+http://s3-server.net:80/378724/pcapQ5/71879.ts
+#EXTINF:-1 tvg-name="Discovery Theater FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/71880.ts
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
+http://s3-server.net:80/378724/pcapQ5/71881.ts
+#EXTINF:-1 tvg-name="Discovery Theater SD" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater SD
+http://s3-server.net:80/378724/pcapQ5/71882.ts
+#EXTINF:-1 tvg-name="Discovery Turbo 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryturbo.png" group-title="Canais | 4K [FHDR]",Discovery Turbo 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/90641.ts
+#EXTINF:-1 tvg-name="Discovery Turbo FHD" tvg-logo="http://acsa.ws:80/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo FHD
+http://s3-server.net:80/378724/pcapQ5/71883.ts
+#EXTINF:-1 tvg-name="Discovery Turbo FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/71884.ts
+#EXTINF:-1 tvg-name="Discovery Turbo HD" tvg-logo="http://acsa.ws:80/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo HD
+http://s3-server.net:80/378724/pcapQ5/71885.ts
+#EXTINF:-1 tvg-name="Discovery Turbo SD" tvg-logo="http://acsa.ws:80/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo SD
+http://s3-server.net:80/378724/pcapQ5/71886.ts
+#EXTINF:-1 tvg-name="Discovery World 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | 4K [FHDR]",Discovery World 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/103509.ts
+#EXTINF:-1 tvg-name="Discovery World FHD" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD
+http://s3-server.net:80/378724/pcapQ5/71887.ts
+#EXTINF:-1 tvg-name="Discovery World FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/71888.ts
+#EXTINF:-1 tvg-name="Discovery World HD" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
+http://s3-server.net:80/378724/pcapQ5/71889.ts
+#EXTINF:-1 tvg-name="Discovery World SD" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
+http://s3-server.net:80/378724/pcapQ5/71890.ts
+#EXTINF:-1 tvg-name="H2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | 4K [FHDR]",H2 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/90245.ts
+#EXTINF:-1 tvg-name="H2 FHD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 FHD
+http://s3-server.net:80/378724/pcapQ5/72106.ts
+#EXTINF:-1 tvg-name="H2 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/72107.ts
+#EXTINF:-1 tvg-name="H2 HD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 HD
+http://s3-server.net:80/378724/pcapQ5/72108.ts
+#EXTINF:-1 tvg-name="H2 SD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 SD
+http://s3-server.net:80/378724/pcapQ5/72109.ts
+#EXTINF:-1 tvg-name="HGTV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/103493.ts
+#EXTINF:-1 tvg-name="HGTV FHD" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD
+http://s3-server.net:80/378724/pcapQ5/72142.ts
+#EXTINF:-1 tvg-name="HGTV FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/72143.ts
+#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV HD
+http://s3-server.net:80/378724/pcapQ5/72144.ts
+#EXTINF:-1 tvg-name="HGTV SD" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV SD
+http://s3-server.net:80/378724/pcapQ5/72145.ts
+#EXTINF:-1 tvg-name="History 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | 4K [FHDR]",History 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/90244.ts
+#EXTINF:-1 tvg-name="History FHD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History FHD
+http://s3-server.net:80/378724/pcapQ5/72146.ts
+#EXTINF:-1 tvg-name="History FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/72147.ts
+#EXTINF:-1 tvg-name="History HD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History HD
+http://s3-server.net:80/378724/pcapQ5/72148.ts
+#EXTINF:-1 tvg-name="History SD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History SD
+http://s3-server.net:80/378724/pcapQ5/72149.ts
+EXTINF:-1 tvg-name="ID 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/id.png" group-title="Canais | 4K [FHDR]",ID 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/90243.ts
+#EXTINF:-1 tvg-name="ID FHD" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID FHD
+http://s3-server.net:80/378724/pcapQ5/72150.ts
+#EXTINF:-1 tvg-name="ID FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/id.png" group-title="Canais | Documentários",ID FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/72151.ts
+#EXTINF:-1 tvg-name="ID HD" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID HD
+http://s3-server.net:80/378724/pcapQ5/72152.ts
+#EXTINF:-1 tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/200px-Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Canais | Documentários",ID INVESTIGATION DISCOVERY HD
+http://s3-server.net:80/378724/pcapQ5/191364.ts
+#EXTINF:-1 tvg-name="ID SD" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID SD
+http://s3-server.net:80/378724/pcapQ5/72153.ts
+#EXTINF:-1 tvg-name="National Geographic 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic 4K FHDR
+http://s3-server.net:80/378724/pcapQ5/72198.ts
+#EXTINF:-1 tvg-name="National Geographic FHD" tvg-logo="http://acsa.ws:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="Canais | Documentários",National Geographic FHD
+http://s3-server.net:80/378724/pcapQ5/72196.ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC FHD
+http://s3-server.net:80/378724/pcapQ5/191362.ts
+#EXTINF:-1 tvg-name="National Geographic FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic FHD [H265]
+http://s3-server.net:80/378724/pcapQ5/72197.ts
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="http://acsa.ws:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="Canais | Documentários",National Geographic HD
+http://s3-server.net:80/378724/pcapQ5/72199.ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC HD
+http://s3-server.net:80/378724/pcapQ5/191361.ts
+#EXTINF:-1 tvg-name="National Geographic SD" tvg-logo="http://acsa.ws:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="Canais | Documentários",National Geographic SD
+http://s3-server.net:80/378724/pcapQ5/72200.ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC SD
+http://s3-server.net:80/378724/pcapQ5/191360.ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC WILD FHD
+http://s3-server.net:80/378724/pcapQ5/191359.ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC WILD HD
+http://s3-server.net:80/378724/pcapQ5/191358.ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC WILD SD
+http://s3-server.net:80/378724/pcapQ5/191357.ts
+#EXTINF:-1 tvg-name="TruTV FHD" tvg-logo="http://acsa.ws:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="Canais | Documentários",TruTV FHD
+http://s3-server.net:80/378724/pcapQ5/76668.ts
+#EXTINF:-1 tvg-name="TruTV HD" tvg-logo="http://acsa.ws:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="Canais | Documentários",TruTV HD
+http://s3-server.net:80/378724/pcapQ5/76669.ts
+#EXTINF:-1 tvg-name="TruTV SD" tvg-logo="http://acsa.ws:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="Canais | Documentários",TruTV SD
+http://s3-server.net:80/378724/pcapQ5/76670.ts
 #EXTINF:-1 tvg-id="Sozinhos trilha de sangue" tvg-name="History FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN_cO5HRPVwZ3NUCt00mqu3EbcvZXVugqh93RkV3It6RcaCn6OHr3aYVcI3nYsXKVs8T6eI0TgmzXi2m4sXeGoCYgE_UDTVRLG2HqvOLnn-xbYVFObgXYcSOB45ZaREvIxp-I13DFDKUq5mVMGG0UeCPCfB0Gi4gAIgQAiyQD1gdX0f7R746xNW7Sa/s1600/history.jpg" group-title="DOCUMENTÁRIOS HISTORY",Sozinhos trilha de sangue
 https://ia903407.us.archive.org/23/items/yt-1s.com-episo-dio-completo-sozinhos-trilha-de-sangue-history-720p/yt1s.com%20-%20EPIS%C3%93DIO%20COMPLETO%20%20SOZINHOS%20%20TRILHA%20DE%20SANGUE%20%20HISTORY_720p.mp4?JPFILMES
 #EXTINF:-1 tvg-id="A origem da vida criacao ou evolucao" tvg-name="History FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN_cO5HRPVwZ3NUCt00mqu3EbcvZXVugqh93RkV3It6RcaCn6OHr3aYVcI3nYsXKVs8T6eI0TgmzXi2m4sXeGoCYgE_UDTVRLG2HqvOLnn-xbYVFObgXYcSOB45ZaREvIxp-I13DFDKUq5mVMGG0UeCPCfB0Gi4gAIgQAiyQD1gdX0f7R746xNW7Sa/s1600/history.jpg" group-title="DOCUMENTÁRIOS HISTORY",A origem da vida criacao ou evolucao
