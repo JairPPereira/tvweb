@@ -5639,6 +5639,8 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="No Tempo de Deus" tvg-logo="http://acsa.ws:80/images/8140ce8b860289293f619d28ff1d0a80.jpg" group-title="FILMES - RELIGIOSOS",No Tempo de Deus
+http://s3-server.net:80/movie/378724/pcapQ5/161987.mp4
 #EXTINF:-1 tvg-name="Amazon Rasta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6AgZq0bSYV1UPqj2Fd3rmKPJ4d.jpg" group-title="FILMES - NACIONAL",Amazon Rasta
 http://s3-server.net:80/movie/378724/pcapQ5/209532.mp4
 #EXTINF:-1 tvg-name="Barbie & Chelsea: O Aniversário Perdido" tvg-logo="http://acsa.ws:80/images/d33517c95887164e26b07c180fce975f.jpg" group-title="FILMES - INFANTIL",Barbie & Chelsea: O Aniversário Perdido
@@ -8284,121 +8286,121 @@ https://content.jwplatform.com/videos/iK8XcsuA-5TSzydBj.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="DANCA" ,Streetdance 2 2012
 https://content.jwplatform.com/videos/BXukDMx1-5TSzydBj.mp4?JPFILMES
 
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GOSPEL" ,Mais Que Vencedores 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - RELIGIOSOS",Mais Que Vencedores 2019
 https://content.jwplatform.com/videos/5ZqgiVZY-7P6b20I9.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Uma Batalha De Fe 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Uma Batalha De Fe 2019
 https://content.jwplatform.com/videos/AEzaWMSq-NwnrkkSt.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Noé 2014
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Noé 2014
 https://content.jwplatform.com/videos/dlwfgMuS-Gml01jdk.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Prova De Fogo 2008
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Prova De Fogo 2008
 https://content.jwplatform.com/videos/Umzg8Hs7-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Deus Não Está Morto 1 2014
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Deus Não Está Morto 1 2014
 https://content.jwplatform.com/videos/nCZe6Dch-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Deus Não Está Morto 2 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Deus Não Está Morto 2 2016
 https://content.jwplatform.com/videos/7On9updK-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Deus Não Está Morto 3 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Deus Não Está Morto 3 2018
 https://content.jwplatform.com/videos/kiIDX7S1-BeN2HstN.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Poder Alem Da Vida 2006
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Poder Alem Da Vida 2006
 https://content.jwplatform.com/videos/iiPXz1LW-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL",À Espera De Um Milagre 1999
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS"À Espera De Um Milagre 1999
 https://content.jwplatform.com/videos/0E50i6NU-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,A Paixão De Cristo 2004
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",A Paixão De Cristo 2004
 https://content.jwplatform.com/videos/ZLeDCuMQ-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Quarto De Guerra 2015
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Quarto De Guerra 2015
 https://content.jwplatform.com/videos/ni6vtfSd-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Nos Caminhos De Deus 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Nos Caminhos De Deus 2019
 https://content.jwplatform.com/videos/LmMe7LR1-x08hJpYs.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Superação O Milagre Da Fé 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Superação O Milagre Da Fé 2019
 https://content.jwplatform.com/videos/Ub46nMe3-x08hJpYs.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Além Da Vida 2019
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Além Da Vida 2019
 https://content.jwplatform.com/videos/w0kZ9flo-x08hJpYs.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Uma Questão De Fé 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Uma Questão De Fé 2018
 https://content.jwplatform.com/videos/azlk86dn-CQCt9Pxj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Um Olhar Do Paraíso 2009
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Um Olhar Do Paraíso 2009
 https://content.jwplatform.com/videos/h7bxgbwU-CQCt9Pxj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,O Peregrino 2008
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",O Peregrino 2008
 https://content.jwplatform.com/videos/udRGHeW8-PZV8T1Op.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Desafiando Gigantes 2006
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Desafiando Gigantes 2006
 https://content.jwplatform.com/videos/aftYk46W-cYl17PlW.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Corajosos 2011
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Corajosos 2011
 https://content.jwplatform.com/videos/tkC3mNZQ-cYl17PlW.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,O Poder Da Graça 2011
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",O Poder Da Graça 2011
 https://content.jwplatform.com/videos/hWDvPcC6-8xvHC2aZ.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Milagres Do Paraíso 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Milagres Do Paraíso 2016
 https://content.jwplatform.com/videos/zuHAUTsv-yN8CsUnk.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,A Arca De Noé 1999
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",A Arca De Noé 1999
 https://content.jwplatform.com/videos/iXH2Whv4-5eC4rNE4.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,O Fazendeiro De Deus 2006
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",O Fazendeiro De Deus 2006
 https://content.jwplatform.com/videos/MYZWtYxv-QaTRz8ou.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Paulo, Apóstolo De Cristo 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Paulo, Apóstolo De Cristo 2018
 https://content.jwplatform.com/videos/hESgjxqB-9KXv6jyv.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Maria Madalena 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Maria Madalena 2018
 https://content.jwplatform.com/videos/x5iU9HqY-9KXv6jyv.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Jesus De Nazare 1977 Part 1
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Jesus De Nazare 1977 Part 1
 https://content.jwplatform.com/videos/6ppypv9f-9KXv6jyv.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Jesus De Nazare 1977 Part 2
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Jesus De Nazare 1977 Part 2
 https://content.jwplatform.com/videos/hg7ebSHi-9KXv6jyv.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Jesus De Nazare 1977 Part 3
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Jesus De Nazare 1977 Part 3
 https://content.jwplatform.com/videos/U0ir7ntV-9KXv6jyv.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Jesus De Nazare 1977 Part 4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Jesus De Nazare 1977 Part 4
 https://content.jwplatform.com/videos/IULkAkF6-xosTtpcC.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Anjos Caídos 1 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Anjos Caídos 1 2017
 https://content.jwplatform.com/videos/RtXXgUGj-9KXv6jyv.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Anjos Caídos 2 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Anjos Caídos 2 2017
 https://content.jwplatform.com/videos/HAeUDRqc-9KXv6jyv.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Anjos Caídos 3 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Anjos Caídos 3 2017
 https://content.jwplatform.com/videos/JPhcJWdd-9KXv6jyv.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,90 Minutos No Paraiso 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",90 Minutos No Paraiso 2016
 https://content.jwplatform.com/videos/4vaDKuB3-9KXv6jyv.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Amor Incondicional  A História De Oseias 2013
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Amor Incondicional  A História De Oseias 2013
 https://content.jwplatform.com/videos/eep7Vx1L-XEGMdcpp.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,A Paixão De Cristo 2004
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",A Paixão De Cristo 2004
 https://content.jwplatform.com/videos/cvsFoNSH-9KXv6jyv.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Inabalavel 2009
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Inabalavel 2009
 https://content.jwplatform.com/videos/lDymxf6Y-igRQolGo.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Enviado Do Céu 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Enviado Do Céu 2018
 https://content.jwplatform.com/videos/17TnLcGj-igRQolGo.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Entre A Vingança EO Perdão 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Entre A Vingança EO Perdão 2017
 https://content.jwplatform.com/videos/d3QkQZkc-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,O Que Te Faz Mais Forte 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",O Que Te Faz Mais Forte 2018
 https://content.jwplatform.com/videos/PMoUmrwQ-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Nada A Perder 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Nada A Perder 2018
 https://content.jwplatform.com/videos/Ut6ezGl5-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Em Defesa De Cristo 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Em Defesa De Cristo 2017
 https://content.jwplatform.com/videos/i3wK5yaD-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,O Caminho Para a Eternidade 1 2010
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",O Caminho Para a Eternidade 1 2010
 https://content.jwplatform.com/videos/ts2lAetp-2VpNWUPp.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,O Caminho Para A Eternidade 2 2012
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",O Caminho Para A Eternidade 2 2012
 https://content.jwplatform.com/videos/uOPxX9Tx-igRQolGo.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Graça E Perdão 2010
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Graça E Perdão 2010
 https://content.jwplatform.com/videos/gdUVh6Ku-CGxW64Jn.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Onde Está Deus 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Onde Está Deus 2017
 https://content.jwplatform.com/videos/hmv5d2I0-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Filho Volte Para Casa 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Filho Volte Para Casa 2018
 https://content.jwplatform.com/videos/X4zgUDFl-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Quando Tudo Parece Perdido 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Quando Tudo Parece Perdido 2017
 https://content.jwplatform.com/videos/l9wfzBfv-2VpNWUPp.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Jesus Rei Dos Reis 1961
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Jesus Rei Dos Reis 1961
 https://content.jwplatform.com/videos/ZMDWFwnE-igRQolGo.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,O Céu é De Verdade 2014
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",O Céu é De Verdade 2014
 https://content.jwplatform.com/videos/jqL1ZZlC-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,O Presente 2006
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",O Presente 2006
 https://content.jwplatform.com/videos/gQ4856Zp-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Amor Incondicional A História De Oseias 2012
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Amor Incondicional A História De Oseias 2012
 https://content.jwplatform.com/videos/PDu5cbrW-igRQolGo.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Por Que Eu Senhor 2012
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Por Que Eu Senhor 2012
 https://content.jwplatform.com/videos/mDExbJR5-2VpNWUPp.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Pregando O Amor 2013
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Pregando O Amor 2013
 https://content.jwplatform.com/videos/43fPYzf3-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,A Corrente Do Bem
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",A Corrente Do Bem
 https://content.jwplatform.com/videos/ZinQT0FE-2VpNWUPp.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,A Luz Divina 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",A Luz Divina 2018
 https://content.jwplatform.com/videos/vz6ucoYd-zJfxYVCz.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Jornada Da Vida 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Jornada Da Vida 2018
 https://content.jwplatform.com/videos/nfbvZtK3-Fj6mOqH7.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Uma Jornada De Perdão 2018
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Uma Jornada De Perdão 2018
 https://content.jwplatform.com/videos/f902Izpl-2TdoDbn0.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Uma Vida Com Proposta 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Uma Vida Com Proposta 2017
 https://content.jwplatform.com/videos/NlCnxBGP-zJfxYVCz.mp4?JPFILMES
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,Rei Urso Polar 1991
