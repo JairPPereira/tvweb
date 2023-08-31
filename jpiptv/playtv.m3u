@@ -5503,6 +5503,8 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="U311: Guerra em Alto Mar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyZ5xWPmGEuGopE1NPzSQiPO0Zj.jpg" group-title="FILMES - GUERRA",U311: Guerra em Alto Mar
+http://s3-server.net:80/movie/378724/pcapQ5/208337.mp4
 #EXTINF:-1 tvg-name="Projeto Ithaca: Destruição Alienígena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6v8i1ND88pVztcftWdC2KFvFNa.jpg" group-title="FILMES - FICÇÃO",Projeto Ithaca: Destruição Alienígena
 http://s3-server.net:80/movie/378724/pcapQ5/210384.mp4
 #EXTINF:-1 tvg-name="Jovens Demais para Morrer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dg4sSoDiQdfZddkyHtm0YifFfXB.jpg" group-title="FILMES - FAROESTE",Jovens Demais para Morrer
@@ -8019,51 +8021,51 @@ https://content.jwplatform.com/videos/HMXpMcq4-nJ2q6WN3.mp4?JPFILMES
 https://content.jwplatform.com/videos/ToQIFRhJ-nJ2q6WN3.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - TERROR",Freddy X Jason 2003
 https://content.jwplatform.com/videos/SKA1QUlo-nJ2q6WN3.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",A Queda As Últimas Horas de Hitler 2004
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",A Queda As Últimas Horas de Hitler 2004
 https://filme.cdn01.workers.dev/0:/GUERRA/A%20Queda%21%20As%20%C3%9Altimas%20Horas%20de%20Hitler%202004.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3t6w6zv" group-title="GUERRA",Linhas Inimigas 2020
+#EXTINF:-1 tvg-logo="https://bit.ly/3t6w6zv" group-title="FILMES - GUERRA",Linhas Inimigas 2020
 https://cdn.jwplayer.com/videos/ZPLhyofJ-3aIwtZh2.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3F4bf2y" group-title="GUERRA",A Batalha Esquecida 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3F4bf2y" group-title="FILMES - GUERRA",A Batalha Esquecida 2021
 https://cdn.jwplayer.com/videos/ZYH3xgcF-3vWkCocR.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/34eL7kP" group-title="GUERRA",Uma Nuvem No Ceu 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/34eL7kP" group-title="FILMES - GUERRA",Uma Nuvem No Ceu 2021
 https://content.jwplatform.com/videos/T3f0UbFw-NSkcn7Cl.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3hOVvrH" group-title="GUERRA",Ak-47 A Arma Que Mudou O Mundo 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/3hOVvrH" group-title="FILMES - GUERRA",Ak-47 A Arma Que Mudou O Mundo 2021
 https://content.jwplatform.com/videos/MF3zZAcd-zAG8IaEJ.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3zleEHS" group-title="GUERRA",A Longa Caminhada De Billy Lynn 2017
+#EXTINF:-1 tvg-logo="https://bit.ly/3zleEHS" group-title="FILMES - GUERRA",A Longa Caminhada De Billy Lynn 2017
 https://content.jwplatform.com/videos/POIzMYRD-eQVqP0nf.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/2SPpmq0" group-title="GUERRA",Posto De Combate 2020
+#EXTINF:-1 tvg-logo="https://bit.ly/2SPpmq0" group-title="FILMES - GUERRA",Posto De Combate 2020
 https://content.jwplatform.com/videos/ryMwNg9Q-F3o6hEvP.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",1917 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",1917 2019
 https://content.jwplatform.com/videos/vYBf7DYO-s8dD2pdu.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",1918 A Batalha De Kruty 2020
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",1918 A Batalha De Kruty 2020
 https://content.jwplatform.com/videos/y635TuqW-RWNAGREF.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",A Longa Caminhada De Billy Lynn 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",A Longa Caminhada De Billy Lynn 2017
 https://content.jwplatform.com/videos/dmS9TMuJ-OSXN3h78.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",Kv1 Almas De Ferro 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",Kv1 Almas De Ferro 2018
 https://content.jwplatform.com/videos/VziWjgC4-5TSzydBj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",Midway Batalha Em Alto Mar 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",Midway Batalha Em Alto Mar 2019
 https://content.jwplatform.com/videos/Mwdo4Q1E-tmrR3xm7.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",Missao De Honra 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",Missao De Honra 2018
 https://content.jwplatform.com/videos/Wbuw6UoN-ABgby8qa.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",Tora Tora Tora 1970
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",Tora Tora Tora 1970
 https://content.jwplatform.com/videos/Q4ETraFN-cYl17PlW.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",Pearl Harbor 2001
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",Pearl Harbor 2001
 https://content.jwplatform.com/videos/TOLZeyAt-PZV8T1Op.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",O Resgate Do Soldado Ryan 1998
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",O Resgate Do Soldado Ryan 1998
 https://content.jwplatform.com/videos/KcCQ2Y4X-PZV8T1Op.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",Homens De Honra 2000
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",Homens De Honra 2000
 https://content.jwplatform.com/videos/zWcWiTBW-cYl17PlW.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",Cavalo De Guerra 2011
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",Cavalo De Guerra 2011
 https://content.jwplatform.com/videos/ojhpEmv8-cYl17PlW.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",Até O ÚLtimo Homem 2017
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",Até O ÚLtimo Homem 2017
 https://content.jwplatform.com/videos/iUCRxerP-cYl17PlW.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",Honra Ao Merito 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",Honra Ao Merito 2018
 https://content.jwplatform.com/videos/vmSUqBHn-lUWRZ73X.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",Operação Valquíria
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",Operação Valquíria
 https://content.jwplatform.com/videos/yB8a9FJs-lUWRZ73X.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="GUERRA",Era Uma Vez Em Hollywood 2019
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - GUERRA",Era Uma Vez Em Hollywood 2019
 https://content.jwplatform.com/videos/3PQz8rNf-ABgby8qa.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3i9HG5w" group-title="GUERRA",Espada De Deus A Ultima Cruzada 2020
+#EXTINF:-1 tvg-logo="https://bit.ly/3i9HG5w" group-title="FILMES - GUERRA",Espada De Deus A Ultima Cruzada 2020
 https://content.jwplatform.com/videos/syjhkuW5-EiPiTsLT.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="O Melhor Dos Trapalhões" ,Os Trapalhões 1
 https://content.jwplatform.com/videos/09MQxdyj-jWmiXxhn.mp4?JPFILMES
