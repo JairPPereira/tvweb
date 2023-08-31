@@ -5639,6 +5639,8 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="Férias em Taipei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6TMfQn6RsWmJVtCoCKk04sQcID.jpg" group-title="FILMES - ROMANCE",Férias em Taipei
+http://s3-server.net:80/movie/378724/pcapQ5/210989.mp4
 #EXTINF:-1 tvg-name="No Tempo de Deus" tvg-logo="http://acsa.ws:80/images/8140ce8b860289293f619d28ff1d0a80.jpg" group-title="FILMES - RELIGIOSOS",No Tempo de Deus
 http://s3-server.net:80/movie/378724/pcapQ5/161987.mp4
 #EXTINF:-1 tvg-name="Amazon Rasta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6AgZq0bSYV1UPqj2Fd3rmKPJ4d.jpg" group-title="FILMES - NACIONAL",Amazon Rasta
@@ -8285,7 +8287,6 @@ https://content.jwplatform.com/videos/1fRWyh2H-5TSzydBj.mp4?JPFILMES
 https://content.jwplatform.com/videos/iK8XcsuA-5TSzydBj.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="DANCA" ,Streetdance 2 2012
 https://content.jwplatform.com/videos/BXukDMx1-5TSzydBj.mp4?JPFILMES
-
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FILMES - RELIGIOSOS",Mais Que Vencedores 2019
 https://content.jwplatform.com/videos/5ZqgiVZY-7P6b20I9.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Uma Batalha De Fe 2019
