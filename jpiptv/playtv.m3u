@@ -5503,6 +5503,8 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="Amazon Rasta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6AgZq0bSYV1UPqj2Fd3rmKPJ4d.jpg" group-title="FILMES - NACIONAL",Amazon Rasta
+http://s3-server.net:80/movie/378724/pcapQ5/209532.mp4
 #EXTINF:-1 tvg-name="Barbie & Chelsea: O Aniversário Perdido" tvg-logo="http://acsa.ws:80/images/d33517c95887164e26b07c180fce975f.jpg" group-title="FILMES - INFANTIL",Barbie & Chelsea: O Aniversário Perdido
 http://s3-server.net:80/movie/378724/pcapQ5/142433.mp4
 #EXTINF:-1 tvg-name="U311: Guerra em Alto Mar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyZ5xWPmGEuGopE1NPzSQiPO0Zj.jpg" group-title="FILMES - GUERRA",U311: Guerra em Alto Mar
