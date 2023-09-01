@@ -5639,6 +5639,12 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="Amizade de Férias 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRfkaDKu7YK5htNIvkHtxdplAvG.jpg" group-title="FILMES - COMÉDIA",Amizade de Férias 2
+http://s3-server.net:80/movie/378724/pcapQ5/210977.mp4
+#EXTINF:-1 tvg-name="Uma Viagem Extraordinária" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Wh07S9BnTV6QxaSCT1Nj4uQSwJ.jpg" group-title="FILMES - AVENTURA",Uma Viagem Extraordinária
+http://s3-server.net:80/movie/378724/pcapQ5/200814.mp4
+#EXTINF:-1 tvg-name="Snoopy Apresenta: A Inigualável Marcie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grzZxk9s9EruSc0zMbcif4FUCmz.jpg" group-title="FILMES - ANIMAÇÃO",Snoopy Apresenta: A Inigualável Marcie
+http://s3-server.net:80/movie/378724/pcapQ5/210202.mp4
 #EXTINF:-1 tvg-name="Megatubarão 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tBhAn6qVRQzf5yvEcxjgPMgTkw.jpg" group-title="FILMES - ACÃO",Megatubarão 2
 http://s3-server.net:80/movie/378724/pcapQ5/211629.mp4
 #EXTINF:-1 tvg-name="A Chave Mestra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTJVjJX5KyBccMSx6lUjPahr26r.jpg" group-title="FILMES - TERROR",A Chave Mestra
