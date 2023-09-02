@@ -297,6 +297,7 @@ body{
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 1" onclick="clicou1()" id="botao1"></a>
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 2" onclick="clicou2()" id="botao2"></a>
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 3" onclick="clicou3()" id="botao3"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 4" onclick="clicou4()" id="botao4"></a>
 
 
     
@@ -320,6 +321,12 @@ body{
         document.getElementById("botao3").classList.add("active");
         player.innerHTML = video3
       }
+
+      function clicou4() {
+        removerAtivo();
+        document.getElementById("botao4").classList.add("active");
+        player.innerHTML = video4
+      }
   
 
  
@@ -337,8 +344,22 @@ body{
     
 
     
-      var video3 = ` <iframe
+      var video4 = ` <iframe
       src="./index2.html"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
+      var video3 = ` <iframe
+      src="https://reidoscanais.com/embed/?id=bandnews"
       width="100%"
   
      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
