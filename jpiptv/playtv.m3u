@@ -5546,7 +5546,6 @@ https://play.prod.gcp.vix.services/killer-elite_pt/killer-elite_pt_1-1/play_v1_h
 
 #EXTINF:-1 tvg-id="Os Falsários" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8U1kGOVBcdiBSgNz5a63VfSzgbV.jpg" group-title="Filmes ondemand",Os Falsários
 https://play.prod.gcp.vix.services/die-falscher_pt/die-falscher_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
-
 #EXTINF:-1 tvg-id="Os Gritos do Silêncio" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8PgmK0doOtBQbDIXpOTjGUvjxU6.jpg" group-title="Filmes ondemand",Os Gritos do Silêncio
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_iavqhnep/format/applehttp/protocol/https/flavorIds/1_6w1d9db7,1_tz94vmmi,1_h0g9ig9h,1_66vun0e7,1_pqqer0tr,1_mdg85k20,1_ilspohqr/preferredBitrate/1500/maxBitrate/10000/a.m3u8?JPFILMES?timestamp=1680561484&id=9936&ip=206.84.34.255&override_expiration=1500&sign=AfyolcubWT8W%2BQimFdll5NJv6L8ctBnzdIgCkulbRPw%3D&playSessionId=3748e656-5f82-ca82-3857-2c12e992ed97:65c779c6-1cb0-9ea8-9f96-3df4953b1f90&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL29zLWdyaXRvcy1kby1zaWxlbmNpbw==&clientTag=html5:v7.60
 #EXTINF:-1 tvg-id="Os Irmãos Grimm" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jerDxzhAVtNGPtDV0n9ePWCLlyK.jpg" group-title="Filmes ondemand",Os Irmãos Grimm
@@ -5639,6 +5638,10 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="O Portal Secreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mu3olAbPYTm4GkEdsr6Bk1MU5.jpg" group-title="Filmes | Fantasia",O Portal Secreto
+http://s3-server.net:80/movie/378724/pcapQ5/212424.mp4
+#EXTINF:-1 tvg-name="Operação Filhote" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceS9i9TGmXfVShM89AFBvBvcSxX.jpg" group-title="Filmes | Família",Operação Filhote
+http://s3-server.net:80/movie/378724/pcapQ5/199623.mp4
 #EXTINF:-1 tvg-name="Amigas para Sempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWsQwzLuoylkApyOxXGxQ3EwqqR.jpg" group-title="FILMES - DRAMA",Amigas para Sempre
 http://s3-server.net:80/movie/378724/pcapQ5/212688.mp4
 #EXTINF:-1 tvg-name="Dia das Bruxas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFJ0vCbuSkzXBwg2KBueM3j1QbA.jpg" group-title="FILMES - CRIME",Dia das Bruxas
