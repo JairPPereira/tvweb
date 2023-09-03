@@ -737,7 +737,7 @@ http://s3-server.net:80/378724/pcapQ5/72147.ts
 http://s3-server.net:80/378724/pcapQ5/72148.ts
 #EXTINF:-1 tvg-name="History SD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History SD
 http://s3-server.net:80/378724/pcapQ5/72149.ts
-EXTINF:-1 tvg-name="ID 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/id.png" group-title="Canais | 4K [FHDR]",ID 4K FHDR
+#EXTINF:-1 tvg-name="ID 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/id.png" group-title="Canais | 4K [FHDR]",ID 4K FHDR
 http://s3-server.net:80/378724/pcapQ5/90243.ts
 #EXTINF:-1 tvg-name="ID FHD" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID FHD
 http://s3-server.net:80/378724/pcapQ5/72150.ts
@@ -8404,7 +8404,7 @@ https://content.jwplatform.com/videos/7On9updK-q8FTDhka.mp4?JPFILMES
 https://content.jwplatform.com/videos/kiIDX7S1-BeN2HstN.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",Poder Alem Da Vida 2006
 https://content.jwplatform.com/videos/iiPXz1LW-q8FTDhka.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS"À Espera De Um Milagre 1999
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",À Espera De Um Milagre 1999
 https://content.jwplatform.com/videos/0E50i6NU-q8FTDhka.mp4?JPFILMES
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES - RELIGIOSOS",A Paixão De Cristo 2004
 https://content.jwplatform.com/videos/ZLeDCuMQ-q8FTDhka.mp4?JPFILMES
