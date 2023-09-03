@@ -5342,6 +5342,24 @@ https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Enterprise/T04/LS-T0
 https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Enterprise/T04/LS-T04E21.mkv
 #EXTINF:-1 tvg-id="T04E22 Estas São As Viagens..." tvg-name="Star Trek: Enterprise" tvg-logo="https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg" group-title="Star Trek: Enterprise",T04E22 Estas São As Viagens...
 https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Enterprise/T04/LS-T04E22.mkv
+#EXTINF:-1 tvg-id="T01E01 Noite de um Dia Duro" tvg-name="A Anatomia de Grey" tvg-logo="https://www.themoviedb.org/t/p/original/8rJ78hfh1jnhL8m02HXdLBkwBOB.jpg" group-title="A Anatomia de Grey",T01E01 Noite de um Dia Duro
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T01/LS-T01E01.mp4
+#EXTINF:-1 tvg-id="T01E02 O Primeiro Corte e o Mais Profundo" tvg-name="A Anatomia de Grey" tvg-logo="https://www.themoviedb.org/t/p/original/8rJ78hfh1jnhL8m02HXdLBkwBOB.jpg" group-title="A Anatomia de Grey",T01E02 O Primeiro Corte e o Mais Profundo
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T01/LS-T01E02.mp4
+#EXTINF:-1 tvg-id="T01E03 Vencer uma Batalha, Perde a Guerra" tvg-name="A Anatomia de Grey" tvg-logo="https://www.themoviedb.org/t/p/original/8rJ78hfh1jnhL8m02HXdLBkwBOB.jpg" group-title="A Anatomia de Grey",T01E03 Vencer uma Batalha, Perde a Guerra
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T01/LS-T01E03.mp4
+#EXTINF:-1 tvg-id="T01E04 Terra de Ninguem" tvg-name="A Anatomia de Grey" tvg-logo="https://www.themoviedb.org/t/p/original/8rJ78hfh1jnhL8m02HXdLBkwBOB.jpg" group-title="A Anatomia de Grey",T01E04 Terra de Ninguem
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T01/LS-T01E04.mp4
+#EXTINF:-1 tvg-id="T01E05 Coisa Agitar O Seu Sulco" tvg-name="A Anatomia de Grey" tvg-logo="https://www.themoviedb.org/t/p/original/8rJ78hfh1jnhL8m02HXdLBkwBOB.jpg" group-title="A Anatomia de Grey",T01E05 Coisa Agitar O Seu Sulco
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T01/LS-T01E05.mp4
+#EXTINF:-1 tvg-id="T01E06 Amanha Nunca Vem" tvg-name="A Anatomia de Grey" tvg-logo="https://www.themoviedb.org/t/p/original/8rJ78hfh1jnhL8m02HXdLBkwBOB.jpg" group-title="A Anatomia de Grey",T01E06 Amanha Nunca Vem
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T01/LS-T01E06.mp4
+#EXTINF:-1 tvg-id="T01E07 O Botao de Autodestruisao" tvg-name="A Anatomia de Grey" tvg-logo="https://www.themoviedb.org/t/p/original/8rJ78hfh1jnhL8m02HXdLBkwBOB.jpg" group-title="A Anatomia de Grey",T01E07 O Botao de Autodestruisao
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T01/LS-T01E07.mp4
+#EXTINF:-1 tvg-id="T01E08 Me Salve" tvg-name="A Anatomia de Grey" tvg-logo="https://www.themoviedb.org/t/p/original/8rJ78hfh1jnhL8m02HXdLBkwBOB.jpg" group-title="A Anatomia de Grey",T01E08 Me Salve
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T01/LS-T01E08.mp4
+#EXTINF:-1 tvg-id="T01E09 Quem esta Zoomin Quem?" tvg-name="A Anatomia de Grey" tvg-logo="https://www.themoviedb.org/t/p/original/8rJ78hfh1jnhL8m02HXdLBkwBOB.jpg" group-title="A Anatomia de Grey",T01E09 Quem esta Zoomin Quem?
+https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T01/LS-T01E09.mp4
 #EXTINF:-1 tvg-id="Tv Carioca Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae3270712e80a6ee4cd2dd542fcc48c6.webp" group-title="MUSICAS",Tv Carioca Internacional
 https://stmv1.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Do Fundo do Baú" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/73ac2e181b431fc90218ad2caf994c27.webp" group-title="MUSICAS",Do Fundo do Baú
