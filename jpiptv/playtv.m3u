@@ -5877,6 +5877,10 @@ https://play.prod.gcp.vix.services/walt-before-mickey_pt/walt-before-mickey_pt_1
 https://play.prod.gcp.vix.services/wolf-pack_pt/wolf-pack_pt_1-1/play_v1_hls_720p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Zapped" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nWKpZ4RY7IPjWDH4KHOH2zIEpWX.jpg" group-title="Filmes ondemand",Zapped
 https://play.prod.gcp.vix.services/zapped_pt/zapped_pt_1-1/hls_1500_.m3u8?JPFILMES
+#EXTINF:-1 tvg-name="Carrossel: O Filme" tvg-logo="http://acsa.ws:80/images/9812f775742971f2ea97e62bbb3844c2.jpg" group-title="FILMES - INFANTIL",Carrossel: O Filme
+http://s3-server.net:80/movie/378724/pcapQ5/165172.mp4
+#EXTINF:-1 tvg-name="Amor em Tempos de Ódio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZGqze3H7kNIIKZxWYf60Eng5jX.jpg" group-title="FILMES - GUERRA",Amor em Tempos de Ódio
+http://s3-server.net:80/movie/378724/pcapQ5/203305.mp4
 #EXTINF:-1 tvg-name="Paraíso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmGuklpV65Ve9vBNvGEMMQX6xR8.jpg" group-title="FILMES - FICÇÃO",Paraíso
 http://s3-server.net:80/movie/378724/pcapQ5/204497.mp4
 #EXTINF:-1 tvg-name="A Última Fronteira do Oeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56aYP5usPlSwq95Cn4GZCNdBM0o.jpg" group-title="FILMES - FAROESTE",A Última Fronteira do Oeste
