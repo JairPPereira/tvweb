@@ -603,180 +603,130 @@ http://tv.factoryiptv.com/live/wG4qnAymJM/duoiptv/42411.ts
 http://tv.factoryiptv.com:80/live/wG4qnAymJM/duoiptv/83443.m3u8
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://pbs.twimg.com/profile_images/1574594693714911232/Cyby7WtT_400x400.jpg" group-title="CANAIS | JORNALISMO",Record News
 http://t2tp.xyz:80/live/640540180/463412972/71429.ts
-#EXTINF:-1 tvg-name="Animal Planet 4K FHDR" tvg-logo="http://acsa.ws:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | 4K [FHDR]",Animal Planet 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/71774.ts
-#EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="http://acsa.ws:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD
-http://s3-server.net:80/378724/pcapQ5/71772.ts
-#EXTINF:-1 tvg-name="Animal Planet FHD [H265]" tvg-logo="http://acsa.ws:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/71773.ts
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="http://acsa.ws:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet HD
-http://s3-server.net:80/378724/pcapQ5/71775.ts
-#EXTINF:-1 tvg-name="Animal Planet SD" tvg-logo="http://acsa.ws:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet SD
-http://s3-server.net:80/378724/pcapQ5/71776.ts
-#EXTINF:-1 tvg-name="Arte 1 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | 4K [FHDR]",Arte 1 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/103531.ts
-#EXTINF:-1 tvg-name="Arte 1 FHD" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD
-http://s3-server.net:80/378724/pcapQ5/71777.ts
-#EXTINF:-1 tvg-name="Arte 1 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/71778.ts
-#EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 HD
-http://s3-server.net:80/378724/pcapQ5/71779.ts
-#EXTINF:-1 tvg-name="Arte 1 SD" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 SD
-http://s3-server.net:80/378724/pcapQ5/71780.ts
-#EXTINF:-1 tvg-name="Curta FHD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD
-http://s3-server.net:80/378724/pcapQ5/71855.ts
-#EXTINF:-1 tvg-name="Curta FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/71856.ts
-#EXTINF:-1 tvg-name="Curta HD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta HD
-http://s3-server.net:80/378724/pcapQ5/71857.ts
-#EXTINF:-1 tvg-name="Curta SD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta SD
-http://s3-server.net:80/378724/pcapQ5/71858.ts
-#EXTINF:-1 tvg-name="Curta! 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | 4K [FHDR]",Curta! 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/103512.ts
-#EXTINF:-1 tvg-name="Discovery Channel 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/71864.ts
-#EXTINF:-1 tvg-name="Discovery Channel FHD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
-http://s3-server.net:80/378724/pcapQ5/71862.ts
-#EXTINF:-1 tvg-name="Discovery Channel FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/71863.ts
-#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
-http://s3-server.net:80/378724/pcapQ5/71865.ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="Canais | Documentários",DISCOVERY CHANNEL HD
-http://s3-server.net:80/378724/pcapQ5/191363.ts
-#EXTINF:-1 tvg-name="Discovery Channel SD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
-http://s3-server.net:80/378724/pcapQ5/71866.ts
-#EXTINF:-1 tvg-name="Discovery H&H 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | 4K [FHDR]",Discovery H&H 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/90251.ts
-#EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD
-http://s3-server.net:80/378724/pcapQ5/71867.ts
-#EXTINF:-1 tvg-name="Discovery H&H FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/71868.ts
-#EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H HD
-http://s3-server.net:80/378724/pcapQ5/71869.ts
-#EXTINF:-1 tvg-name="Discovery H&H SD" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H SD
-http://s3-server.net:80/378724/pcapQ5/71870.ts
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/ID/logo.png" group-title="Canais | Documentários",DISCOVERY ID
-http://s3-server.net:80/378724/pcapQ5/191367.ts
-#EXTINF:-1 tvg-name="Discovery Kids 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | 4K [FHDR]",Discovery Kids 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/90250.ts
-#EXTINF:-1 tvg-name="Discovery Kids FHD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
-http://s3-server.net:80/378724/pcapQ5/71871.ts
-#EXTINF:-1 tvg-name="Discovery Kids FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/71872.ts
-#EXTINF:-1 tvg-name="Discovery Kids HD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
-http://s3-server.net:80/378724/pcapQ5/71873.ts
-#EXTINF:-1 tvg-name="Discovery Kids SD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
-http://s3-server.net:80/378724/pcapQ5/71874.ts
-#EXTINF:-1 tvg-name="Discovery Science 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/103511.ts
-#EXTINF:-1 tvg-name="Discovery Science FHD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
-http://s3-server.net:80/378724/pcapQ5/71875.ts
-#EXTINF:-1 tvg-name="Discovery Science FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/71876.ts
-#EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
-http://s3-server.net:80/378724/pcapQ5/71877.ts
-#EXTINF:-1 tvg-name="Discovery Science SD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science SD
-http://s3-server.net:80/378724/pcapQ5/71878.ts
-#EXTINF:-1 tvg-name="Discovery Theater 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/103510.ts
-#EXTINF:-1 tvg-name="Discovery Theater FHD" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD
-http://s3-server.net:80/378724/pcapQ5/71879.ts
-#EXTINF:-1 tvg-name="Discovery Theater FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/71880.ts
-#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
-http://s3-server.net:80/378724/pcapQ5/71881.ts
-#EXTINF:-1 tvg-name="Discovery Theater SD" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater SD
-http://s3-server.net:80/378724/pcapQ5/71882.ts
-#EXTINF:-1 tvg-name="Discovery Turbo 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryturbo.png" group-title="Canais | 4K [FHDR]",Discovery Turbo 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/90641.ts
-#EXTINF:-1 tvg-name="Discovery Turbo FHD" tvg-logo="http://acsa.ws:80/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo FHD
-http://s3-server.net:80/378724/pcapQ5/71883.ts
-#EXTINF:-1 tvg-name="Discovery Turbo FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/71884.ts
-#EXTINF:-1 tvg-name="Discovery Turbo HD" tvg-logo="http://acsa.ws:80/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo HD
-http://s3-server.net:80/378724/pcapQ5/71885.ts
-#EXTINF:-1 tvg-name="Discovery Turbo SD" tvg-logo="http://acsa.ws:80/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo SD
-http://s3-server.net:80/378724/pcapQ5/71886.ts
-#EXTINF:-1 tvg-name="Discovery World 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | 4K [FHDR]",Discovery World 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/103509.ts
-#EXTINF:-1 tvg-name="Discovery World FHD" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD
-http://s3-server.net:80/378724/pcapQ5/71887.ts
-#EXTINF:-1 tvg-name="Discovery World FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/71888.ts
-#EXTINF:-1 tvg-name="Discovery World HD" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
-http://s3-server.net:80/378724/pcapQ5/71889.ts
-#EXTINF:-1 tvg-name="Discovery World SD" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
-http://s3-server.net:80/378724/pcapQ5/71890.ts
-#EXTINF:-1 tvg-name="H2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | 4K [FHDR]",H2 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/90245.ts
-#EXTINF:-1 tvg-name="H2 FHD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 FHD
-http://s3-server.net:80/378724/pcapQ5/72106.ts
-#EXTINF:-1 tvg-name="H2 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/72107.ts
-#EXTINF:-1 tvg-name="H2 HD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 HD
-http://s3-server.net:80/378724/pcapQ5/72108.ts
-#EXTINF:-1 tvg-name="H2 SD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 SD
-http://s3-server.net:80/378724/pcapQ5/72109.ts
-#EXTINF:-1 tvg-name="HGTV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/103493.ts
-#EXTINF:-1 tvg-name="HGTV FHD" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD
-http://s3-server.net:80/378724/pcapQ5/72142.ts
-#EXTINF:-1 tvg-name="HGTV FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/72143.ts
-#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV HD
-http://s3-server.net:80/378724/pcapQ5/72144.ts
-#EXTINF:-1 tvg-name="HGTV SD" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV SD
-http://s3-server.net:80/378724/pcapQ5/72145.ts
-#EXTINF:-1 tvg-name="History 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | 4K [FHDR]",History 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/90244.ts
-#EXTINF:-1 tvg-name="History FHD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History FHD
-http://s3-server.net:80/378724/pcapQ5/72146.ts
-#EXTINF:-1 tvg-name="History FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/72147.ts
-#EXTINF:-1 tvg-name="History HD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History HD
-http://s3-server.net:80/378724/pcapQ5/72148.ts
-#EXTINF:-1 tvg-name="History SD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History SD
-http://s3-server.net:80/378724/pcapQ5/72149.ts
-#EXTINF:-1 tvg-name="ID 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/id.png" group-title="Canais | 4K [FHDR]",ID 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/90243.ts
-#EXTINF:-1 tvg-name="ID FHD" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID FHD
-http://s3-server.net:80/378724/pcapQ5/72150.ts
-#EXTINF:-1 tvg-name="ID FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/id.png" group-title="Canais | Documentários",ID FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/72151.ts
-#EXTINF:-1 tvg-name="ID HD" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID HD
-http://s3-server.net:80/378724/pcapQ5/72152.ts
-#EXTINF:-1 tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/200px-Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Canais | Documentários",ID INVESTIGATION DISCOVERY HD
-http://s3-server.net:80/378724/pcapQ5/191364.ts
-#EXTINF:-1 tvg-name="ID SD" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID SD
-http://s3-server.net:80/378724/pcapQ5/72153.ts
-#EXTINF:-1 tvg-name="National Geographic 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic 4K FHDR
-http://s3-server.net:80/378724/pcapQ5/72198.ts
-#EXTINF:-1 tvg-name="National Geographic FHD" tvg-logo="http://acsa.ws:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="Canais | Documentários",National Geographic FHD
-http://s3-server.net:80/378724/pcapQ5/72196.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC FHD
-http://s3-server.net:80/378724/pcapQ5/191362.ts
-#EXTINF:-1 tvg-name="National Geographic FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic FHD [H265]
-http://s3-server.net:80/378724/pcapQ5/72197.ts
-#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="http://acsa.ws:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="Canais | Documentários",National Geographic HD
-http://s3-server.net:80/378724/pcapQ5/72199.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC HD
-http://s3-server.net:80/378724/pcapQ5/191361.ts
-#EXTINF:-1 tvg-name="National Geographic SD" tvg-logo="http://acsa.ws:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="Canais | Documentários",National Geographic SD
-http://s3-server.net:80/378724/pcapQ5/72200.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC SD
-http://s3-server.net:80/378724/pcapQ5/191360.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC WILD FHD
-http://s3-server.net:80/378724/pcapQ5/191359.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC WILD HD
-http://s3-server.net:80/378724/pcapQ5/191358.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC WILD SD
-http://s3-server.net:80/378724/pcapQ5/191357.ts
-#EXTINF:-1 tvg-name="TruTV FHD" tvg-logo="http://acsa.ws:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="Canais | Documentários",TruTV FHD
-http://s3-server.net:80/378724/pcapQ5/76668.ts
-#EXTINF:-1 tvg-name="TruTV HD" tvg-logo="http://acsa.ws:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="Canais | Documentários",TruTV HD
-http://s3-server.net:80/378724/pcapQ5/76669.ts
-#EXTINF:-1 tvg-name="TruTV SD" tvg-logo="http://acsa.ws:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="Canais | Documentários",TruTV SD
-http://s3-server.net:80/378724/pcapQ5/76670.ts
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://lh3.googleusercontent.com/-es1gCmIF2I0/YG2obFZhaOI/AAAAAAAAKKg/BET9SU-3tcUvX7VtNyuw6ypkS5Ho1kbSQCLcBGAsYHQ/ANIMAL%2BPLANET%2B4K.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
+http://t2tp.xyz:80/640540180/463412972/88415
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
+http://t2tp.xyz:80/640540180/463412972/71058
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="ANIMAL PLANET H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgPQ0vxhczAoFb0rHfZNmoMTNnWUteFISnpuslVppj-ObK-wQo0QV0XZm9tttIGJH8DSeleYbTSmxj2Dv2iocjt65ZusUz4NSNG4sx1bgcr6xbW0KSVDsIcATV06jMpDkJnZ4amO42LZafa2q-MoGhpD6kZy3xvLHCtVl_IUfAjYbLXmYMRPeyGncNO" group-title="DOCUMENTARIOS",ANIMAL PLANET H265
+http://t2tp.xyz:80/640540180/463412972/166783
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://t2tp.xyz:80/640540180/463412972/71313
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="ANIMAL PLANET SD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+http://t2tp.xyz:80/640540180/463412972/71163
+#EXTINF:-1 tvg-id="TDCB" tvg-name="DISC CHANNEL 4K" tvg-logo="https://lh3.googleusercontent.com/-bxtQ9NEFzF0/YG2obOYYzaI/AAAAAAAAKKw/MOXrrMLf-XUxMv4kLmhKOp0b1dLQGfx6gCLcBGAsYHQ/DISCOVERY%2BCHANNEL%2B4K.png" group-title="DOCUMENTARIOS",DISC CHANNEL 4K
+http://t2tp.xyz:80/640540180/463412972/88412
+#EXTINF:-1 tvg-id="TDCB" tvg-name="DISC CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="DOCUMENTARIOS",DISC CHANNEL FHD
+http://t2tp.xyz:80/640540180/463412972/71048
+#EXTINF:-1 tvg-id="TDCB" tvg-name="DISC CHANNEL H265" tvg-logo="https://lh3.googleusercontent.com/-knWged2h77U/YG3yhHzLhsI/AAAAAAAAKNE/2S9OrM4kKFssVEplrZh2iIpdizJWvhS5wCLcBGAsYHQ/DISCOVERY%2BCHANNEL%2BFHD%2BH.265.png" group-title="DOCUMENTARIOS",DISC CHANNEL H265
+http://t2tp.xyz:80/640540180/463412972/88460
+#EXTINF:-1 tvg-id="TDCB" tvg-name="DISC CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="DOCUMENTARIOS",DISC CHANNEL HD
+http://t2tp.xyz:80/640540180/463412972/71322
+#EXTINF:-1 tvg-id="TDCB" tvg-name="DISC CHANNEL SD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="DOCUMENTARIOS",DISC CHANNEL SD
+http://t2tp.xyz:80/640540180/463412972/71181
+#EXTINF:-1 tvg-id="DHEAB" tvg-name="DISC H & HEALTH 4K" tvg-logo="https://lh3.googleusercontent.com/-V_6OmDAnIXQ/YY5EFoDrIcI/AAAAAAAAKuA/o-z_6-IqNXI1cEmlKCvFciP1WP164d2tQCLcBGAsYHQ/home%2B4k.png" group-title="DOCUMENTARIOS",DISC H & HEALTH 4K
+http://t2tp.xyz:80/640540180/463412972/136307
+#EXTINF:-1 tvg-id="DHEAB" tvg-name="DISC H & HEALTH FHD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="DOCUMENTARIOS",DISC H & HEALTH FHD
+http://t2tp.xyz:80/640540180/463412972/71059
+#EXTINF:-1 tvg-id="DHEAB" tvg-name="DISC H & HEALTH H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhBX3Pj3z8P6ee_DLmGJYIuwqeWvMnL8RJBV3YWuwuXQC9mAaBwrh0XABsFO6mJnRsVRJ7bTsA9Zd6ILdi1Cb0oIs_Ep0zOYufFXI_BGN4EE0gmwchQJWV_nC2e86bVXakoi6ig25ffrSGn2OWvBFB-aP6MlQdnF81ciS8NJQqZvWaRh2Nr8_lwEybQ" group-title="DOCUMENTARIOS",DISC H & HEALTH H265
+http://t2tp.xyz:80/640540180/463412972/166835
+#EXTINF:-1 tvg-id="DHEAB" tvg-name="DISC H & HEALTH HD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="DOCUMENTARIOS",DISC H & HEALTH HD
+http://t2tp.xyz:80/640540180/463412972/71324
+#EXTINF:-1 tvg-id="DHEAB" tvg-name="DISC H & HEALTH SD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="DOCUMENTARIOS",DISC H & HEALTH SD
+http://t2tp.xyz:80/640540180/463412972/71182
+#EXTINF:-1 tvg-id="IDB" tvg-name="DISC ID FHD" tvg-logo="https://1.bp.blogspot.com/-R6Nm3GHxIcc/YBxZAuH_U_I/AAAAAAAAJ0s/L54B_9KFDQgSEjsOM368a8K_7j7NWVnNACLcBGAsYHQ/s0/id.png" group-title="DOCUMENTARIOS",DISC ID FHD
+http://t2tp.xyz:80/640540180/463412972/71050
+#EXTINF:-1 tvg-id="IDB" tvg-name="DISC ID H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi_lB82FKvaHOsANe5l8hryB55h3qSXCIq1_6QhlELooRbJL8eEFYZjDsVOC677ZrqVSq3_zMkcvKip1ogebP1fZzbP8Nq4L-YLOrtRicOU6IKdOrIMzIexKwYj9W1vKDotVS1IcuIR_X4YeKu0E6gjdj_RlQe2sbqxssWVow-y-YbMhsavEqx20oVQ" group-title="DOCUMENTARIOS",DISC ID H265
+http://t2tp.xyz:80/640540180/463412972/166851
+#EXTINF:-1 tvg-id="IDB" tvg-name="DISC ID HD" tvg-logo="https://1.bp.blogspot.com/-R6Nm3GHxIcc/YBxZAuH_U_I/AAAAAAAAJ0s/L54B_9KFDQgSEjsOM368a8K_7j7NWVnNACLcBGAsYHQ/s0/id.png" group-title="DOCUMENTARIOS",DISC ID HD
+http://t2tp.xyz:80/640540180/463412972/71356
+#EXTINF:-1 tvg-id="IDB" tvg-name="DISC ID SD" tvg-logo="https://1.bp.blogspot.com/-R6Nm3GHxIcc/YBxZAuH_U_I/AAAAAAAAJ0s/L54B_9KFDQgSEjsOM368a8K_7j7NWVnNACLcBGAsYHQ/s0/id.png" group-title="DOCUMENTARIOS",DISC ID SD
+http://t2tp.xyz:80/640540180/463412972/71218
+#EXTINF:-1 tvg-id="DSHDB" tvg-name="DISC SCIENCE FHD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="DOCUMENTARIOS",DISC SCIENCE FHD
+http://t2tp.xyz:80/640540180/463412972/71061
+#EXTINF:-1 tvg-id="DSHDB" tvg-name="DISC SCIENCE H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhiUR270bv59k18N2Znzc0GA4Yr-wdnTiPdXZxOu8lPnOcbQKE3-On_ZYpMniovtc2PHEInd82k6vu1EN3OXOlzD0hIeWKqf9DSHA5j7HpGNvOgck68Cyj6i8dppxyysELspLh2uMYxI2W5mFo6nFWE0dvYM1GhuLMoahSQ9Y4K7YZYWKBC5Xtu_Jv-" group-title="DOCUMENTARIOS",DISC SCIENCE H265
+http://t2tp.xyz:80/640540180/463412972/166837
+#EXTINF:-1 tvg-id="DSHDB" tvg-name="DISC SCIENCE HD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="DOCUMENTARIOS",DISC SCIENCE HD
+http://t2tp.xyz:80/640540180/463412972/71326
+#EXTINF:-1 tvg-id="DSHDB" tvg-name="DISC SCIENCE SD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="DOCUMENTARIOS",DISC SCIENCE SD
+http://t2tp.xyz:80/640540180/463412972/71052
+#EXTINF:-1 tvg-id="DISCHD" tvg-name="DISC THEATER FHD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="DOCUMENTARIOS",DISC THEATER FHD
+http://t2tp.xyz:80/640540180/463412972/71053
+#EXTINF:-1 tvg-id="DISCHD" tvg-name="DISC THEATER H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgzl66jkVP98huycGXUdShFUST8BNLfYIxCkc-MRbiFAq17fdgmWj7FBqLQYi_m6DDXDoPKhkcaugPEuBv5V7LLBGJpF-P1RoX1J18DQb77TUlChQxgjKNTVo4py5NHJkAxckreAleqSNOPrLNTFAFC5DdFLcMhCO9LvsrsBqDZfmIIw8SxVN52x4KS" group-title="DOCUMENTARIOS",DISC THEATER H265
+http://t2tp.xyz:80/640540180/463412972/166838
+#EXTINF:-1 tvg-id="DISCHD" tvg-name="DISC THEATER HD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="DOCUMENTARIOS",DISC THEATER HD
+http://t2tp.xyz:80/640540180/463412972/71327
+#EXTINF:-1 tvg-id="DISCHD" tvg-name="DISC THEATER SD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="DOCUMENTARIOS",DISC THEATER SD
+http://t2tp.xyz:80/640540180/463412972/71062
+#EXTINF:-1 tvg-id="DTB" tvg-name="DISC TURBO 4K" tvg-logo="https://lh3.googleusercontent.com/-AXfU1Wuqw9c/YY5EG6CTaeI/AAAAAAAAKuc/gJXxeSsoeMIlU5OqyiZExqU3okPFCVlIACLcBGAsYHQ/turbo%2B4k.png" group-title="DOCUMENTARIOS",DISC TURBO 4K
+http://t2tp.xyz:80/640540180/463412972/136310
+#EXTINF:-1 tvg-id="DTB" tvg-name="DISC TURBO FHD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="DOCUMENTARIOS",DISC TURBO FHD
+http://t2tp.xyz:80/640540180/463412972/71054
+#EXTINF:-1 tvg-id="DTB" tvg-name="DISC TURBO H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEifCrXVHD9CE56BjhneAHN00gk0FwGDzvvE7KSvE29AJDNAz6BfgjVBrLvbscQ0sVtJ28-KTLkpwohc3PiqPli2JEQWGmR5fbNdpHLgQelLIFjTyc0JUmPC13lXGuTgJYnpgDiuy990qHi5gtrraxWh4qADYO0dcRTkHzrWyXlCwYnX0E4gd_O4c17n" group-title="DOCUMENTARIOS",DISC TURBO H265
+http://t2tp.xyz:80/640540180/463412972/166839
+#EXTINF:-1 tvg-id="DTB" tvg-name="DISC TURBO HD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="DOCUMENTARIOS",DISC TURBO HD
+http://t2tp.xyz:80/640540180/463412972/71328
+#EXTINF:-1 tvg-id="DTB" tvg-name="DISC TURBO SD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="DOCUMENTARIOS",DISC TURBO SD
+http://t2tp.xyz:80/640540180/463412972/71184
+#EXTINF:-1 tvg-id="DWHDB" tvg-name="DISC WORLD FHD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="DOCUMENTARIOS",DISC WORLD FHD
+http://t2tp.xyz:80/640540180/463412972/71064
+#EXTINF:-1 tvg-id="DWHDB" tvg-name="DISC WORLD H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh7uSN1zl6vNN8TFF7ap2z0m5JQtjoOGVvv4Aww9oC-V3MOvGSyUeLxHxT48-XFPI4Ic9iMDjcPv8boV30dUEPf1yEaok4K-C0Jnmbk4QjWKt_NK_VtMdCviJwIYxQFW3GGrdEFfooG8FCoeDBvG3Op9oZ9itFdPCcJYiNP5cxM2-wjlw53gE0-3Rnl" group-title="DOCUMENTARIOS",DISC WORLD H265
+http://t2tp.xyz:80/640540180/463412972/166840
+#EXTINF:-1 tvg-id="DWHDB" tvg-name="DISC WORLD HD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="DOCUMENTARIOS",DISC WORLD HD
+http://t2tp.xyz:80/640540180/463412972/71329
+#EXTINF:-1 tvg-id="DWHDB" tvg-name="DISC WORLD SD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="DOCUMENTARIOS",DISC WORLD SD
+http://t2tp.xyz:80/640540180/463412972/168664
+#EXTINF:-1 tvg-id="DOGBRHD" tvg-name="DOG TV HD" tvg-logo="https://1.bp.blogspot.com/-CAmc1EBmg7g/YBxY_bAXEcI/AAAAAAAAJ0U/5dqhaXowGp46l9MB4p8tNmoKNy0VsCJIQCLcBGAsYHQ/s0/dotv.png" group-title="DOCUMENTARIOS",DOG TV HD
+http://t2tp.xyz:80/640540180/463412972/71474
+#EXTINF:-1 tvg-id="DOGBRHD" tvg-name="DOGTV FHD" tvg-logo="https://1.bp.blogspot.com/-CAmc1EBmg7g/YBxY_bAXEcI/AAAAAAAAJ0U/5dqhaXowGp46l9MB4p8tNmoKNy0VsCJIQCLcBGAsYHQ/s0/dotv.png" group-title="DOCUMENTARIOS",DOGTV FHD
+http://t2tp.xyz:80/640540180/463412972/167159
+#EXTINF:-1 tvg-id="FISHHD" tvg-name="FISH TV FHD" tvg-logo="https://1.bp.blogspot.com/-s3Dd7ciieHQ/YBxY2DFXl7I/AAAAAAAAJx8/gGr736hrQKk65wifWgTTGRsbN6LkJcAfwCLcBGAsYHQ/s0/Fish%2BTV.png" group-title="DOCUMENTARIOS",FISH TV FHD
+http://t2tp.xyz:80/640540180/463412972/168665
+#EXTINF:-1 tvg-id="FISHHD" tvg-name="FISH TV H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5e47FfGY7uoIIZIcyO-Xf0YsakxkGJha6wOGcr-X5EQe4t3uKOs7m6tbKBYYUfzdGxGRlCoDdTZ86FAsjGzAnJG6lXQvpi9POh4TFpIoici2REhE87j0W-sWNdMCgYKopU7mYwRekTq_LzGwpHcECmH602NYYqE2CXDRx0CpOF44ByB5_tcNSSJsO" group-title="DOCUMENTARIOS",FISH TV H265
+http://t2tp.xyz:80/640540180/463412972/166847
+#EXTINF:-1 tvg-id="FISHHD" tvg-name="FISH TV HD" tvg-logo="https://1.bp.blogspot.com/-s3Dd7ciieHQ/YBxY2DFXl7I/AAAAAAAAJx8/gGr736hrQKk65wifWgTTGRsbN6LkJcAfwCLcBGAsYHQ/s0/Fish%2BTV.png" group-title="DOCUMENTARIOS",FISH TV HD
+http://t2tp.xyz:80/640540180/463412972/71056
+#EXTINF:-1 tvg-id="FISHHD" tvg-name="FISH TV SD" tvg-logo="https://1.bp.blogspot.com/-s3Dd7ciieHQ/YBxY2DFXl7I/AAAAAAAAJx8/gGr736hrQKk65wifWgTTGRsbN6LkJcAfwCLcBGAsYHQ/s0/Fish%2BTV.png" group-title="DOCUMENTARIOS",FISH TV SD
+http://t2tp.xyz:80/640540180/463412972/71196
+#EXTINF:-1 tvg-id="HGTVBH" tvg-name="HGTV FHD" tvg-logo="https://1.bp.blogspot.com/-SEB1Xup35xU/YBxZAL2riCI/AAAAAAAAJ0k/z6utvDWM-N8ktKj_O5YvIFtMJmWtcOuCwCLcBGAsYHQ/s0/hgtv.png" group-title="DOCUMENTARIOS",HGTV FHD
+http://t2tp.xyz:80/640540180/463412972/168666
+#EXTINF:-1 tvg-id="HGTVBH" tvg-name="HGTV H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEixrBcaGx36OLBOBJqstzgiwlhraD7IJVZL0_bq1hJguy-FAXOwErYbCUaY_KsKFZppDrvnv3d2Fg8tu1kiF4YZNImWtFsJW7gd7Nz4T24uirFzSgyleU12mVDmfDO7Gd3jsu1bfrJvDWlLuBdqaDXX930HlbaVHCYKFJZnAbkmHL3cRUDgjSxX9ciw" group-title="DOCUMENTARIOS",HGTV H265
+http://t2tp.xyz:80/640540180/463412972/166834
+#EXTINF:-1 tvg-id="HGTVBH" tvg-name="HGTV HD" tvg-logo="https://1.bp.blogspot.com/-SEB1Xup35xU/YBxZAL2riCI/AAAAAAAAJ0k/z6utvDWM-N8ktKj_O5YvIFtMJmWtcOuCwCLcBGAsYHQ/s0/hgtv.png" group-title="DOCUMENTARIOS",HGTV HD
+http://t2tp.xyz:80/640540180/463412972/71577
+#EXTINF:-1 tvg-id="HGTVBH" tvg-name="HGTV SD" tvg-logo="https://1.bp.blogspot.com/-SEB1Xup35xU/YBxZAL2riCI/AAAAAAAAJ0k/z6utvDWM-N8ktKj_O5YvIFtMJmWtcOuCwCLcBGAsYHQ/s0/hgtv.png" group-title="DOCUMENTARIOS",HGTV SD
+http://t2tp.xyz:80/640540180/463412972/71323
+#EXTINF:-1 tvg-id="H2B" tvg-name="HISTORY 2 FHD" tvg-logo="https://1.bp.blogspot.com/-vQADP8t1nXw/YBxZAPK_R5I/AAAAAAAAJ0g/-4_9tTO3Q1UvvVfro5xssIT0di7uBa_OwCLcBGAsYHQ/s0/h2.png" group-title="DOCUMENTARIOS",HISTORY 2 FHD
+http://t2tp.xyz:80/640540180/463412972/71576
+#EXTINF:-1 tvg-id="H2B" tvg-name="HISTORY 2 H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgWt4Rjm68i-xNw_-bEpXLK3PLcRpL_AzDLM3VZDbxt8XREuhMiwIwxl2AU_wmUJuCYrmXyqhCxNsBwEG9UXgo6X1zsXonQiD4i17JirrCYFLvP9daEHVGABbBSpKWyyTThQnF9UJpRWxZP2kOcFil4P1uJ7-_U-ViEeUunhbWN_lwHunuE0oON2Op4" group-title="DOCUMENTARIOS",HISTORY 2 H265
+http://t2tp.xyz:80/640540180/463412972/166850
+#EXTINF:-1 tvg-id="H2BHD" tvg-name="HISTORY 2 HD" tvg-logo="https://1.bp.blogspot.com/-vQADP8t1nXw/YBxZAPK_R5I/AAAAAAAAJ0g/-4_9tTO3Q1UvvVfro5xssIT0di7uBa_OwCLcBGAsYHQ/s0/h2.png" group-title="DOCUMENTARIOS",HISTORY 2 HD
+http://t2tp.xyz:80/640540180/463412972/71354
+#EXTINF:-1 tvg-id="H2B" tvg-name="HISTORY 2 SD" tvg-logo="https://1.bp.blogspot.com/-vQADP8t1nXw/YBxZAPK_R5I/AAAAAAAAJ0g/-4_9tTO3Q1UvvVfro5xssIT0di7uBa_OwCLcBGAsYHQ/s0/h2.png" group-title="DOCUMENTARIOS",HISTORY 2 SD
+http://t2tp.xyz:80/640540180/463412972/71217
+#EXTINF:-1 tvg-id="HCB" tvg-name="HISTORY FHD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="DOCUMENTARIOS",HISTORY FHD
+http://t2tp.xyz:80/640540180/463412972/71575
+#EXTINF:-1 tvg-id="HCB" tvg-name="HISTORY H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgJ3VdsFTw_qZxFtcC_hWLNU8R-fnrIgYVAny98Sfp4ABbJnM-JhB6ihvFJPWbMQEUuDSmHrjmBV1ghVlTlX5cQHqjhLuGLVFkDO6fbhhgmmJdwh5HwktizhlpmNBhB0djH2zg4pAq5TyXqQtRq5A1nzW-1NbbK3zL7zPIEj526D0TpHlIrQOnIKaz8" group-title="DOCUMENTARIOS",HISTORY H265
+http://t2tp.xyz:80/640540180/463412972/166806
+#EXTINF:-1 tvg-id="HCB" tvg-name="HISTORY HD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="DOCUMENTARIOS",HISTORY HD
+http://t2tp.xyz:80/640540180/463412972/71355
+#EXTINF:-1 tvg-id="HCB" tvg-name="HISTORY SD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="DOCUMENTARIOS",HISTORY SD
+http://t2tp.xyz:80/640540180/463412972/71303
+#EXTINF:-1 tvg-id="NGCB" tvg-name="NATGEO 4K" tvg-logo="https://lh3.googleusercontent.com/-noKfasPvb-k/YG2odcYDo2I/AAAAAAAAKLI/awVr4L79qo0wGTBopIiFRPynSzja_UJXwCLcBGAsYHQ/NATGEO%2B4K.png" group-title="DOCUMENTARIOS",NATGEO 4K
+http://t2tp.xyz:80/640540180/463412972/122063
+#EXTINF:-1 tvg-id="NGCB" tvg-name="NATGEO FHD" tvg-logo="https://1.bp.blogspot.com/-SsAnCfoheJc/YBxZA2kYDgI/AAAAAAAAJ00/nwLkbKAFuusNEa3PpwfbvTo24WFzTCrIQCLcBGAsYHQ/s0/national%2Bgeographic.png" group-title="DOCUMENTARIOS",NATGEO FHD
+http://t2tp.xyz:80/640540180/463412972/122064
+#EXTINF:-1 tvg-id="NGCB" tvg-name="NATGEO HD" tvg-logo="https://1.bp.blogspot.com/-SsAnCfoheJc/YBxZA2kYDgI/AAAAAAAAJ00/nwLkbKAFuusNEa3PpwfbvTo24WFzTCrIQCLcBGAsYHQ/s0/national%2Bgeographic.png" group-title="DOCUMENTARIOS",NATGEO HD
+http://t2tp.xyz:80/640540180/463412972/71364
+#EXTINF:-1 tvg-id="NGCB" tvg-name="NATGEO SD" tvg-logo="https://1.bp.blogspot.com/-SsAnCfoheJc/YBxZA2kYDgI/AAAAAAAAJ00/nwLkbKAFuusNEa3PpwfbvTo24WFzTCrIQCLcBGAsYHQ/s0/national%2Bgeographic.png" group-title="DOCUMENTARIOS",NATGEO SD
+http://t2tp.xyz:80/640540180/463412972/71232
+#EXTINF:-1 tvg-id="SMITHSO" tvg-name="SMITHSONIAN H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfXq2BujRCBetgb3pz7oV_9NLhjdJpUFdHIbfXMOz6WcRiYsO8m6K3egfWQEtxcIxEIfRZH9dl8QSzlB_xwIeZlEnpJuqYAnomubXhSziWG6XmpU9DZZJatq_OZCoqBBuUJHv1YPMfsGmwlZxIK2zIJtjsE8jFXmuLfcm85LYygDsdSvr-KYuH0sH1" group-title="DOCUMENTARIOS",SMITHSONIAN H265
+http://t2tp.xyz:80/640540180/463412972/166865
+#EXTINF:-1 tvg-id="TRUTVB" tvg-name="TRU TV HD" tvg-logo="https://1.bp.blogspot.com/-Fiw4brPaCjU/YBxZDBx9i3I/AAAAAAAAJ1c/SlnstmbOAT0pvdjfA7QkRR8xuM6aGnN5QCLcBGAsYHQ/s0/tru%2Btv.png" group-title="DOCUMENTARIOS",TRU TV HD
+http://t2tp.xyz:80/640540180/463412972/71281
+#EXTINF:-1 tvg-id="TRUTVB" tvg-name="TRUT TV HD" tvg-logo="https://1.bp.blogspot.com/-Fiw4brPaCjU/YBxZDBx9i3I/AAAAAAAAJ1c/SlnstmbOAT0pvdjfA7QkRR8xuM6aGnN5QCLcBGAsYHQ/s0/tru%2Btv.png" group-title="DOCUMENTARIOS",TRUT TV HD
+http://t2tp.xyz:80/640540180/463412972/71468
+#EXTINF:-1 tvg-id="5STAP1" tvg-name="URBAN DOCUMENTARIO HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjEU5twcGDPuyI-MbC5_WSQPg8I8_zPb1niJwcagrYOSc-TbYvQg6afVXtrAuktR2iqe0beskB4ofGZvlvgbPwRZax88dKjkjfgVbw3sE7mlGIXyJbvSVgc67bAiW9wIsCOUunT5h4uuV_zzo07a3sa0clVITYojHQmzA-ViZsDsDPixRCWZQbqyBQ5" group-title="DOCUMENTARIOS",URBAN DOCUMENTARIO HD
+http://t2tp.xyz:80/640540180/463412972/167167
 #EXTINF:-1 tvg-id="Sozinhos trilha de sangue" tvg-name="History FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN_cO5HRPVwZ3NUCt00mqu3EbcvZXVugqh93RkV3It6RcaCn6OHr3aYVcI3nYsXKVs8T6eI0TgmzXi2m4sXeGoCYgE_UDTVRLG2HqvOLnn-xbYVFObgXYcSOB45ZaREvIxp-I13DFDKUq5mVMGG0UeCPCfB0Gi4gAIgQAiyQD1gdX0f7R746xNW7Sa/s1600/history.jpg" group-title="DOCUMENTÁRIOS HISTORY",Sozinhos trilha de sangue
 https://ia903407.us.archive.org/23/items/yt-1s.com-episo-dio-completo-sozinhos-trilha-de-sangue-history-720p/yt1s.com%20-%20EPIS%C3%93DIO%20COMPLETO%20%20SOZINHOS%20%20TRILHA%20DE%20SANGUE%20%20HISTORY_720p.mp4?JPFILMES
 #EXTINF:-1 tvg-id="A origem da vida criacao ou evolucao" tvg-name="History FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN_cO5HRPVwZ3NUCt00mqu3EbcvZXVugqh93RkV3It6RcaCn6OHr3aYVcI3nYsXKVs8T6eI0TgmzXi2m4sXeGoCYgE_UDTVRLG2HqvOLnn-xbYVFObgXYcSOB45ZaREvIxp-I13DFDKUq5mVMGG0UeCPCfB0Gi4gAIgQAiyQD1gdX0f7R746xNW7Sa/s1600/history.jpg" group-title="DOCUMENTÁRIOS HISTORY",A origem da vida criacao ou evolucao
@@ -4648,18 +4598,6 @@ http://s3-server.net:80/series/378724/pcapQ5/210107.mp4
 http://s3-server.net:80/series/378724/pcapQ5/210108.mp4
 #EXTINF:-1 tvg-name="As Aventuras de José e Durval S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/uR0EuDjMuQwf19MyJ9hbbhFyiTl.jpg" group-title="As Aventuras de José e Durval",As Aventuras de José e Durval S01E04
 http://s3-server.net:80/series/378724/pcapQ5/211420.mp4
-#EXTINF:-1 tvg-name="HIV 40 anos AIDS e Suas Historias S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0eeYsM8SXBEPZQibL3uBdDrYta.jpg" group-title="HIV 40 anos AIDS e Suas Historias",HIV 40 anos AIDS e Suas Historias S01E06
-http://s3-server.net:80/series/378724/pcapQ5/194922.mp4
-#EXTINF:-1 tvg-name="HIV 40 anos AIDS e Suas Historias S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0eeYsM8SXBEPZQibL3uBdDrYta.jpg" group-title="HIV 40 anos AIDS e Suas Historias",HIV 40 anos AIDS e Suas Historias S01E05
-http://s3-server.net:80/series/378724/pcapQ5/194921.mp4
-#EXTINF:-1 tvg-name="HIV 40 anos AIDS e Suas Historias S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0eeYsM8SXBEPZQibL3uBdDrYta.jpg" group-title="HIV 40 anos AIDS e Suas Historias",HIV 40 anos AIDS e Suas Historias S01E04
-http://s3-server.net:80/series/378724/pcapQ5/194920.mp4
-#EXTINF:-1 tvg-name="HIV 40 anos AIDS e Suas Historias S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0eeYsM8SXBEPZQibL3uBdDrYta.jpg" group-title="HIV 40 anos AIDS e Suas Historias",HIV 40 anos AIDS e Suas Historias S01E03
-http://s3-server.net:80/series/378724/pcapQ5/194919.mp4
-#EXTINF:-1 tvg-name="HIV 40 anos AIDS e Suas Historias S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0eeYsM8SXBEPZQibL3uBdDrYta.jpg" group-title="HIV 40 anos AIDS e Suas Historias",HIV 40 anos AIDS e Suas Historias S01E02
-http://s3-server.net:80/series/378724/pcapQ5/194918.mp4
-#EXTINF:-1 tvg-name="HIV 40 anos AIDS e Suas Historias S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0eeYsM8SXBEPZQibL3uBdDrYta.jpg" group-title="HIV 40 anos AIDS e Suas Historias",HIV 40 anos AIDS e Suas Historias S01E01
-http://s3-server.net:80/series/378724/pcapQ5/194917.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rizzoli & Isles S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/g1Vsx8iEKxVk6JfxVQEqtPYahqh.jpg" group-title="Rizzoli & Isles",Rizzoli & Isles S01 E01
 http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/208160.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rizzoli & Isles S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/m0IaEry55iCLPJKEJfxSe63JGwC.jpg" group-title="Rizzoli & Isles",Rizzoli & Isles S01 E02
