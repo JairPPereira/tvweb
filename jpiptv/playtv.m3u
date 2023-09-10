@@ -28,7 +28,7 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="CBC TV Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b3b5afe27476830a9e64bac1464ad976.webp" group-title="CANAIS | ESTADO DO PARÁ",CBC TV Gospel	
 https://live01.livemustv.com.br/cbctv/cbctv/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-name="CAZÉ TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcPDV8oycuXHpvWU0OiQvLgdrvDc6Cw0-b10sWTXA2UgbgnAzZS98ZN4KT_9a-mgv_ifGsE0jDl-v0lvNgN4crePe_KGkBUCgV9SFOMTu8EE_JcDnhEcW4T5ftpizRCVmea-XK-cyImpk02stbzcpIvpkCb26P48-ocP72wjqRWnYo2zYt2qjtrAxZY8/s1600/CAZE.jpeg" group-title="CAZÉ TV",CAZÉ TV
-http://5ce.co:80/2y0962803/8w4017mb/99342
+http://main.xplus2-main.xyz:2095/live/xplus-2-CeCsltqWHq/9YlpQMAqhC/1145.m3u8
 #EXTINF:-1 tvg-id="5STAP1" tvg-name="Brasileirao Serie C 1 HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjBrgrcvAQ9co63yT_j28L7EDiTlzi4tKdYU_1KuNFO-zeHsNqJ4uZ78YT4mRKmOfSeqlmNBbvHRuUag9c78xwnW85dg37zZWqlvyg6taHNd6Vb9yHCPDBM6KewKuQ50ye5-WeL0gubaL-WuwBbjocw5aEHsZJBXUe_7mw3bKDiilBCRrTJb5mm3Xfg" group-title="PAY-PER-VIEW",Brasileirao Serie C 1 HD
 http://t2tp.xyz:80/640540180/463412972/173304
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 1 SD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjBrgrcvAQ9co63yT_j28L7EDiTlzi4tKdYU_1KuNFO-zeHsNqJ4uZ78YT4mRKmOfSeqlmNBbvHRuUag9c78xwnW85dg37zZWqlvyg6taHNd6Vb9yHCPDBM6KewKuQ50ye5-WeL0gubaL-WuwBbjocw5aEHsZJBXUe_7mw3bKDiilBCRrTJb5mm3Xfg" group-title="PAY-PER-VIEW",Brasileirao Serie C 1 SD
@@ -791,22 +791,6 @@ http://archive.org/download/AHISTORIADATERRA-Dublado/A%20HIST%C3%93RIA%20DA%20TE
 https://archive.org/download/documentario-sobre-o-titanic/Fantasmas%20do%20Abismo%20%28Dublado%29%20-%20Document%C3%A1rio%20sobre%20o%20Titanic%20%5B1080p%20HD%5D.mp4?JPFILMES
 #EXTINF:-1 tvg-id="Vale dos Isolados: O Assassinato de Bruno e Dom" tvg-name="Documentários" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1g7pRTcQX5NBMi9KMJG8nSrgDve.jpg" group-title="DOCUMENTÁRIOS",Vale dos Isolados: O Assassinato de Bruno e Dom
 http://conexaoonline.top:80/movie/2556180200/2071846880/322673.mp4?JPFILMES
-#EXTINF:-1 tvg-name="Prime Video Copa do Brasil  01" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil  01
-http://5ce.co:80/2y0962803/8w4017mb/201343
-#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 02" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 02
-http://5ce.co:80/2y0962803/8w4017mb/201345
-#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 03" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 03
-http://5ce.co:80/2y0962803/8w4017mb/201346
-#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 04" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 04
-http://5ce.co:80/2y0962803/8w4017mb/201348
-#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 05" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 05
-http://5ce.co:80/2y0962803/8w4017mb/221497
-#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 06" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 06
-http://5ce.co:80/2y0962803/8w4017mb/221498
-#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 07" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 07
-http://5ce.co:80/2y0962803/8w4017mb/221499
-#EXTINF:-1 tvg-name="Prime Video Copa do Brasil 08" tvg-logo="" group-title="PAY-PER-VIEW",Prime Video Copa do Brasil 08
-http://5ce.co:80/2y0962803/8w4017mb/221500
 #EXTINF:-1 tvg-id="REAL MADRIDTV" tvg-name="REAL MADRIDTV" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | ESPORTES",REAL MADRIDTV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="RSNewsSports.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a9158128f33e2a329ae8296ec8e3574.webp" group-title="CANAIS | ESPORTES", RS News Sports 2
@@ -1215,11 +1199,8 @@ http://acsc.cc:80/live/PauloManu1/1dCBh22022/138790.m3u8?JPFILMES
 http://piglo.re:80/Presidente/256071x/53903.ts
 #EXTINF:-1 tvg-id="" tvg-name="24h AS VISÕES DA RAVEN" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="SERIES 24H",24h AS VISÕES DA RAVEN
 http://piglo.re:80/Presidente/256071x/53916.ts
-#EXTINF:-1 tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="SERIES 24H",SAI DE BAIXO
-http://5ce.co:80/2y0962803/8w4017mb/99177
 #EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-name="Pluto TV Barrados no Baile" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="CANAIS | PLUTO",Pluto Barrados no Baile
 https://i.mjh.nz/PlutoTV/63eb9cfbc111bc0008feda3b-alt.m3u8?JPFILMES
-
 #EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-name="Pluto TV MacGyvier" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="CANAIS | PLUTO",Pluto MacGyvier
 https://stitcher.pluto.tv/stitch/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-name="Pluto TV NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" group-title="CANAIS | PLUTO",Pluto TV NCIS
