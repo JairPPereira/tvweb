@@ -921,6 +921,34 @@ http://main.xplus2-main.xyz:2095/xplus-2-CeCsltqWHq/9YlpQMAqhC/1044
 http://main.xplus2-main.xyz:2095/xplus-2-CeCsltqWHq/9YlpQMAqhC/1045
 #EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 10" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="XPLUS CINEMA",XPLUS PIPOCA 10
 http://main.xplus2-main.xyz:2095/xplus-2-CeCsltqWHq/9YlpQMAqhC/1046
+#EXTINF:-1,HBO
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/135
+#EXTINF:-1,HBO (02)
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/136
+#EXTINF:-1,HBO Family
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/137
+#EXTINF:-1,HBO Mundi
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/138
+#EXTINF:-1,HBO Plus
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/139
+#EXTINF:-1,HBO Pop
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/140
+#EXTINF:-1,HBO Signature
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/141
+#EXTINF:-1,HBO Xtreme
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/142
+#EXTINF:-1,Telecine Action
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/150
+#EXTINF:-1,Telecine Cult
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/151
+#EXTINF:-1,Telecine Fun
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/152
+#EXTINF:-1,Telecine Pipoca
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/153
+#EXTINF:-1,Telecine Premium
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/154
+#EXTINF:-1,Telecine Touch
+http://bnet.tvpn.eu:80/anc.julianamesquita/102030/155
 #EXTINF:-1 tvg-id="Tv Tremembé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc313ddd3bc4d8de0f5939ee8410a56e.webp" group-title="CANAIS | FILMES & SÉRIES",Tv Tremembé
 https://video05.logicahost.com.br/tvtremembe/tvtremembe/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Tv Cidade Alagoinha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ff33415434b73a0e1c62a152823692eb.webp" group-title="CANAIS | FILMES & SÉRIES",Tv Cidade Alagoinha
