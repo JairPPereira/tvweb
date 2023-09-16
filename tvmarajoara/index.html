@@ -225,6 +225,8 @@ body{
     </ul>
     </div>
     </div>
+    <input type="text" id="searchInput" placeholder="Digite o nome do canal">
+    <button onclick="search()">Buscar</button>
     <div class="m-b-5 visible-sm"></div>
     
 
@@ -255,7 +257,87 @@ body{
   <p></p>
   <section class="destaques container">
   <div class="row p-t-20 p-b-40">
-  
+    
+      <div class="container">
+        
+        <div class="row min-gutter">
+         
+      <div id="searchResults"></div></div></div>
+      
+      <script>
+        function search() {
+            var searchTerm = document.getElementById("searchInput").value.toLowerCase();
+            var searchResultsDiv = document.getElementById("searchResults");
+        
+            // Carregue o conteúdo da página "canais.html" usando AJAX
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", "/canais.html", true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    var pageContent = xhr.responseText;
+        
+                    // Crie um elemento temporário para analisar o HTML
+                    var tempElement = document.createElement("div");
+                    tempElement.innerHTML = pageContent;
+        
+                    // Encontre os elementos correspondentes dentro do conteúdo carregado
+                    var elements = tempElement.querySelectorAll(".col-sm-2");
+                    var results = [];
+        
+                    elements.forEach(function (element) {
+                        var channelName = element.querySelector("h4").textContent.toLowerCase();
+                        if (channelName.includes(searchTerm)) {
+                            results.push(element.outerHTML);
+                        }
+                    });
+        
+                    // Exiba os resultados na página
+                    if (results.length > 0) {
+                        searchResultsDiv.innerHTML = results.join("");
+                    } else {
+                        searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+                    }
+                }
+            };
+            xhr.send();
+        }
+        function searchMobile() {
+          var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
+          var searchResultsDiv = document.getElementById("searchResults");
+      
+          // Carregue o conteúdo da página "canais.html" usando AJAX
+          var xhr = new XMLHttpRequest();
+          xhr.open("GET", "/canais.html", true);
+          xhr.onreadystatechange = function () {
+              if (xhr.readyState === 4 && xhr.status === 200) {
+                  var pageContent = xhr.responseText;
+      
+                  // Crie um elemento temporário para analisar o HTML
+                  var tempElement = document.createElement("div");
+                  tempElement.innerHTML = pageContent;
+      
+                  // Encontre os elementos correspondentes dentro do conteúdo carregado
+                  var elements = tempElement.querySelectorAll(".col-sm-2");
+                  var results = [];
+      
+                  elements.forEach(function (element) {
+                      var channelName = element.querySelector("h4").textContent.toLowerCase();
+                      if (channelName.includes(searchTerm)) {
+                          results.push(element.outerHTML);
+                      }
+                  });
+      
+                  // Exiba os resultados na página
+                  if (results.length > 0) {
+                      searchResultsDiv.innerHTML = results.join("");
+                  } else {
+                      searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+                  }
+              }
+          };
+          xhr.send();
+      }
+        </script>
   <div class="text-center-xs" style="padding: 2px;">
   <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;TV MARAJOARA</h1>
     
