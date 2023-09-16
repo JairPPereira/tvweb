@@ -51,6 +51,30 @@ body{
   background-image: url(https://jptv.netlify.app/img/5026563.jpg);
 
 }
+/* Estilize o botão com a cor #4ad100, bordas arredondadas e outros estilos desejados */
+button {
+  background-color: #43bd00;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+/* Estilize a caixa de pesquisa com bordas arredondadas e outros estilos desejados */
+input[type="text"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+
+/* Alinhe o elemento com a classe "search-item" à direita */
+.search-item {
+  float: right;
+  margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
+}
+
 </style>
 </head>
 <body data-spy="scroll" data-target=".navbar" class="page-home">
@@ -124,13 +148,34 @@ body{
     <li class="nav-item">
       <a class="nav-link" href="http://www.jpwebtv.epizy.com/play/">PLAYLIST DE MUSICAS</a>
     </li>
-
-      
+ 
+  <script>
+    function searchMobile() {
+        var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
+        var searchResultsDiv = document.getElementById("searchResults");
+    
+        // Coloque aqui a lógica da pesquisa para dispositivos móveis
+        // Você pode usar uma lógica semelhante à da pesquisa original
+    
+        // Exiba os resultados na página
+        if (results.length > 0) {
+            searchResultsDiv.innerHTML = results.join("");
+        } else {
+            searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+        }
+    }
+    </script>
+       
  
   </ul>
   </div>
-  
 
+  <li class="nav-item mobile-search-item">
+    <!-- Caixa de pesquisa para dispositivos móveis -->
+<input type="text" id="searchInputMobile" placeholder="Buscar">
+
+    <button onclick="searchMobile()">Buscar</button> 
+</li>
 
   </nav>
   
@@ -142,7 +187,7 @@ body{
   <div id="menuPrincipal">
   <ul class="flexbox">
   <li class="hidden-md"><a href="https://jptv.netlify.app/"><i class="fa fa-home fa-fw"></i>&nbsp;Home</a></li>
-
+  
   <li class="has-dropdown">
   <a href="https://jptv.netlify.app/"><i class="fas fa-tv fa-fw"></i>&nbsp;Tv Ao Vivo<i class="fa fa-angle-down fa-fw"></i></a>
   <div class="dropdown">
@@ -154,10 +199,12 @@ body{
       <li><a class="dropdown-item" href="https://jptv.netlify.app/esporte.html">SPORT</a></li>
       <li><a class="dropdown-item" href="https://jptv.netlify.app/estados.html">ESTADOS</a></li>
       <li><a class="dropdown-item" href="https://jptv.netlify.app/canais/">CANAIS</a></li>
+      
   
   </ul>
+
   </div>
- 
+
 
   <li class="has-dropdown">
   <a href="https://jptv.netlify.app/radios/">&nbsp;Rádios<i class="fa fa-angle-down fa-fw"></i></a>
@@ -189,10 +236,19 @@ body{
       <li class="nav-item">
         <a class="nav-link" href="http://www.jpwebtv.epizy.com/play/">PLAYLIST DE MUSICAS</a>
       </li>
-
+ 
+    
   </ul>
+ 
+   
+  
+
+  
   </div>
+
   </div>
+  <input type="text" id="searchInput" placeholder="Digite o nome do canal">
+  <button onclick="search()">Buscar</button>
   <div class="m-b-5 visible-sm"></div>
   
 
@@ -200,6 +256,7 @@ body{
   </div>
   </div>
   </header>
+
   <script type="text/javascript">
   
   RunFunctions.push(function(){
@@ -217,14 +274,96 @@ body{
   });
   
   </script>
-  <p></p>
   <p></p></br>
   <p></p></br>
-  <p></p>     
+  <p></p></br>
+ 
+  <section class="bg-primary p-t-40 p-b-40">
+  
+    <div class="container">
+      
+      <div class="row min-gutter">
+       
+    <div id="searchResults"></div></div></div>
+    </section>
+<script>
+  function search() {
+      var searchTerm = document.getElementById("searchInput").value.toLowerCase();
+      var searchResultsDiv = document.getElementById("searchResults");
+  
+      // Carregue o conteúdo da página "canais.html" usando AJAX
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "canais.html", true);
+      xhr.onreadystatechange = function () {
+          if (xhr.readyState === 4 && xhr.status === 200) {
+              var pageContent = xhr.responseText;
+  
+              // Crie um elemento temporário para analisar o HTML
+              var tempElement = document.createElement("div");
+              tempElement.innerHTML = pageContent;
+  
+              // Encontre os elementos correspondentes dentro do conteúdo carregado
+              var elements = tempElement.querySelectorAll(".col-sm-2");
+              var results = [];
+  
+              elements.forEach(function (element) {
+                  var channelName = element.querySelector("h4").textContent.toLowerCase();
+                  if (channelName.includes(searchTerm)) {
+                      results.push(element.outerHTML);
+                  }
+              });
+  
+              // Exiba os resultados na página
+              if (results.length > 0) {
+                  searchResultsDiv.innerHTML = results.join("");
+              } else {
+                  searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+              }
+          }
+      };
+      xhr.send();
+  }
+  function searchMobile() {
+    var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
+    var searchResultsDiv = document.getElementById("searchResults");
+
+    // Carregue o conteúdo da página "canais.html" usando AJAX
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", "canais.html", true);
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            var pageContent = xhr.responseText;
+
+            // Crie um elemento temporário para analisar o HTML
+            var tempElement = document.createElement("div");
+            tempElement.innerHTML = pageContent;
+
+            // Encontre os elementos correspondentes dentro do conteúdo carregado
+            var elements = tempElement.querySelectorAll(".col-sm-2");
+            var results = [];
+
+            elements.forEach(function (element) {
+                var channelName = element.querySelector("h4").textContent.toLowerCase();
+                if (channelName.includes(searchTerm)) {
+                    results.push(element.outerHTML);
+                }
+            });
+
+            // Exiba os resultados na página
+            if (results.length > 0) {
+                searchResultsDiv.innerHTML = results.join("");
+            } else {
+                searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+            }
+        }
+    };
+    xhr.send();
+}
+  </script>
      <center>
      <div class="text-center-xs" style="padding: 2px;">
-      <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;JORNALISMO</h1></center>
-    
+      <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;JORNALISMO</h1> </center>
+     
       <section class="bg-primary p-t-40 p-b-40">
 <div class="container">
   
