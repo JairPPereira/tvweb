@@ -60,6 +60,14 @@ button {
   padding: 10px 20px;
   cursor: pointer;
 }
+button2 {
+  background-color: #3057e7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
 /* Estilize a caixa de pesquisa com bordas arredondadas e outros estilos desejados */
 input[type="text"] {
   padding: 10px;
@@ -166,16 +174,16 @@ input[type="text"] {
     }
     </script>
        
- 
+    <li class="nav-item mobile-search-item"><center>
+      <!-- Caixa de pesquisa para dispositivos móveis -->
+  <input type="text" id="searchInputMobile" placeholder="Buscar">
+  
+      <button2 onclick="searchMobile()">Buscar</button2> </center>
+  </li>
   </ul>
   </div>
 
-  <li class="nav-item mobile-search-item">
-    <!-- Caixa de pesquisa para dispositivos móveis -->
-<input type="text" id="searchInputMobile" placeholder="Buscar">
 
-    <button onclick="searchMobile()">Buscar</button> 
-</li>
 
   </nav>
   
@@ -274,10 +282,9 @@ input[type="text"] {
   });
   
   </script>
-  <p></p></br>
-  <p></p></br>
-  <p></p></br>
- 
+  <section class="bg-primary p-t-40 p-b-40">
+
+</section>
   <section class="bg-primary p-t-40 p-b-40">
   
     <div class="container">
