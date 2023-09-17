@@ -21,7 +21,7 @@
   <link rel="dns-prefetch" href="//www.google-analytics.com">
   <link rel="preconnect" href="//www.google-analytics.com">
   <link rel="stylesheet" href="https://unpkg.com/plyr@3/dist/plyr.css">
-  <link rel="stylesheet" href="https://jptv.netlify.app/plyr/style.ccs">
+    <link rel="stylesheet" href="https://jptv.netlify.app/plyr/style.ccs">
   <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js" as="script">
   <link rel="preload" href="https://jptv.netlify.app/assets/plugins/jquery.maskedinput.min.js" as="script">
 
@@ -54,23 +54,11 @@ body{
   background-image: url(https://jptv.netlify.app/img/5026563.jpg);
 
 }
-
-iframe {
-  aspect-ratio: 16/9;
-  border: none;
-  width: 100%;
-  
-
-  background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
-
-  background-size: cover;
-  background-position: center;
-}
 </style>
-
 </head>
 <body data-spy="scroll" data-target=".navbar" class="page-home">
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8092263721786278"
+   crossorigin="anonymous"></script>
   <div class="modal fade" id="modalDinamica" tabindex="-1" role="dialog" aria-labelledby="modalDinamica" aria-hidden="true">
   <div class="conteudo"></div>
   
@@ -103,42 +91,63 @@ iframe {
   <li class="dropdown">
   <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-tv fa-fw"></i>&nbsp;TV's<i class="fa fa-angle-down fa-fw"></i></a>
   <ul class="dropdown-menu">
-  <li><a href='https://jptv.netlify.app/jornalismo'>JORNALISMO</a></li>
-  <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvaberta'>TV ABERTA</a></li>
-  <li><a class='dropdown-item' href='https://jptv.netlify.app/religiosos'>RELIGIOSOS</a></li>
-  <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvfilmes'>TV FILMES</a></li>
+  <li><a href="https://jptv.netlify.app/jornalismo.html">JORNALISMO</a></li>
+  <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvaberta.html">TV ABERTA</a></li>
+  <li><a class="dropdown-item" href="https://jptv.netlify.app/religiosos.html">RELIGIOSOS</a></li>
+  <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvfilmes.html">TV FILMES</a></li>
   <li><a class="dropdown-item" href="https://jptv.netlify.app/sportv.html">SPORT</a></li>
-  <li><a class='dropdown-item' href='https://jptv.netlify.app/estados'>ESTADOS</a></li>
-  <li><a class="dropdown-item" href="https://jptv.netlify.app/canais/">CANAIS</a></li>
-  <li><a class="dropdown-item" href="https://jptv.netlify.app/adulto.html">CANAIS ADULTO</a></li>
+  <li><a class="dropdown-item" href="https://jptv.netlify.app/estados.html">ESTADOS</a></li>
   </ul>
- 
+  </li>
   <li class="dropdown">
   <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa-thin fa-radio"></i>&nbsp;Rádios<i class="fa fa-angle-down fa-fw"></i></a>
    <ul class="dropdown-menu">
    
   <li> <a class="dropdown-item" href="https://radiobr.vercel.app/">Rádios 1</a></li>
 
-  <li> <a class='dropdown-item' href='https://radiobr.vercel.app/radios'>Rádios 2</a></li>
+  <li> <a class="dropdown-item" href="https://radiobr.vercel.app/radios.html">Rádios 2</a></li>
   <li><a class="dropdown-item" href="https://radiobr.vercel.app/radiosjp">Seleções de músicas</a></li>
 
   <li><a class="dropdown-item" href="https://radiobr.vercel.app/jpradio/">Seleções de músicas 2</a></li>
 
   </ul>
- 
+  </li>
 
   <li class="nav-item">
+      <a class="nav-link" href="https://jptv.netlify.app/jpiptv/">JP IPTV</a>
+    </li>
+    <li class="nav-item">
       <a class="nav-link" href="https://jppfilmes.pages.dev/">JP FILMES</a>
     </li>
-
-    
-
-    <li class="nav-item">
-      <a class="nav-link" href="https://superfilmes.netlify.app/">SUPER FILMES</a>
-    </li>
- 
+  
+      <li class="nav-item">
+        <a class="nav-link" href="https://superfilmes.netlify.app/">SUPER FILMES</a>
+      </li>
 
 
+      <script>
+        function searchMobile() {
+            var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
+            var searchResultsDiv = document.getElementById("searchResults");
+        
+            // Coloque aqui a lógica da pesquisa para dispositivos móveis
+            // Você pode usar uma lógica semelhante à da pesquisa original
+        
+            // Exiba os resultados na página
+            if (results.length > 0) {
+                searchResultsDiv.innerHTML = results.join("");
+            } else {
+                searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+            }
+        }
+        </script>
+           
+        <li class="nav-item mobile-search-item"><center>
+          <!-- Caixa de pesquisa para dispositivos móveis -->
+      <input type="text" id="searchInputMobile" placeholder="Buscar">
+      
+          <button2 onclick="searchMobile()">Buscar</button2> </center>
+      </li>
       
  
   </ul>
@@ -161,14 +170,12 @@ iframe {
   <a href="https://jptv.netlify.app/"><i class="fas fa-tv fa-fw"></i>&nbsp;Tv Ao Vivo<i class="fa fa-angle-down fa-fw"></i></a>
   <div class="dropdown">
   <ul class="flexbox">
-      <li><a href='https://jptv.netlify.app/jornalismo'>JORNALISMO</a></li>
-      <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvaberta'>TV ABERTA</a></li>
-      <li><a class='dropdown-item' href='https://jptv.netlify.app/religiosos'>RELIGIOSOS</a></li>
-      <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvfilmes'>TV FILMES</a></li>
+      <li><a href="https://jptv.netlify.app/jornalismo.html">JORNALISMO</a></li>
+      <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvaberta.html">TV ABERTA</a></li>
+      <li><a class="dropdown-item" href="https://jptv.netlify.app/religiosos.html">RELIGIOSOS</a></li>
+      <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvfilmes.html">TV FILMES</a></li>
       <li><a class="dropdown-item" href="https://jptv.netlify.app/sportv.html">SPORT</a></li>
-      <li><a class='dropdown-item' href='https://jptv.netlify.app/estados'>ESTADOS</a></li>
-      <li><a class="dropdown-item" href="https://jptv.netlify.app/canais/">CANAIS</a></li>
-      <li><a class="dropdown-item" href="https://jptv.netlify.app/adulto.html">CANAIS ADULTO</a></li>
+      <li><a class="dropdown-item" href="https://jptv.netlify.app/estados.html">ESTADOS</a></li>
   </ul>
   </div>
   </li>
@@ -178,20 +185,22 @@ iframe {
   <div class="dropdown">
   <ul class="flexbox">
     <li> <a class="dropdown-item" href="https://radiobr.vercel.app/">Rádios 1</a></li>
-      <li> <a class='dropdown-item' href='https://radiobr.vercel.app/radios'>Rádios 2</a></li>
+      <li> <a class="dropdown-item" href="https://radiobr.vercel.app/radios.html">Rádios 2</a></li>
       <li><a class="dropdown-item" href="https://radiobr.vercel.app/radiosjp">Seleções de músicas</a></li>
 
   <li><a class="dropdown-item" href="https://radiobr.vercel.app/jpradio/">Seleções de músicas 2</a></li>
   </ul>
   </div>
-
+  </li>
  
   <li class="nav-item">
-      <a class="nav-link" href="https://jppfilmes.pages.dev/">JP FILMES</a>
+      <a class="nav-link" href="https://jptv.netlify.app/jpiptv/">JP IPTV</a>
     </li>
 
-
-
+    <li class="nav-item">
+      <a class="nav-link" href="https://jppfilmes.pages.dev/">JP FILMES</a>
+    </li>
+ 
 
       <li class="nav-item">
         <a class="nav-link" href="https://superfilmes.netlify.app/">SUPER FILMES</a>
@@ -200,6 +209,9 @@ iframe {
   </ul>
   </div>
   </div>
+  <input type="text" id="searchInput" placeholder="Digite o nome do canal">
+  <button onclick="search()">Buscar</button>
+  <div class="m-b-5 visible-sm"></div>
   <div class="m-b-5 visible-sm"></div>
   
 
@@ -224,73 +236,259 @@ iframe {
   });
   
   </script>
-  <p></p>
   <p></p></br>
+  <p></p>
   <p></p></br>
   <p></p>
   <section class="destaques container">
   <div class="row p-t-20 p-b-40">
+    <style>
+      input[type="button"] {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 8px;
+      }
   
-  <div class="text-center-xs" style="padding: 2px;">
-  <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;WEB TV CLÁSSICOS DO CINEMA</h1>
-    
- <section class="video bg-silver b-radius-5 padding-5">
-  <div class="container" style="background-color: black;">
-    <video controls crossorigin playsinline style="background-color: black;">
-      
-      <source src="https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8" type="application/x-mpegURL" />
-    </video>
-  </div>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js"></script>
-<script src="https://unpkg.com/plyr@3"></script>
-<script src="https://jptv.netlify.app/plyr/plyr-hls.js"></script>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-
-   
+      input[type="button"].active {
+        background-color: #FF0000; /* Red */
+      }
+      #player {
+          aspect-ratio: 16/9;
+           border: none;
+           width: 100%;
+           background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
+           background-size: cover;
+           background-position: center;
+        }
+        iframe {
+          aspect-ratio: 16/9;
+          border: none;
+          width: 100%;
+          
   
-    </center>
-  </div>
- 
-  </div>
-  </section>
+          background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
+  
+          background-size: cover;
+          background-position: center;
+      }
+      /* Estilize o botão com a cor #4ad100, bordas arredondadas e outros estilos desejados */
+button {
+  background-color: #43bd00;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+button2 {
+  background-color: #3057e7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+/* Estilize a caixa de pesquisa com bordas arredondadas e outros estilos desejados */
+input[type="text"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
 
 
- 
-  <section class="p-t-40 p-b-80">
+/* Alinhe o elemento com a classe "search-item" à direita */
+.search-item {
+  float: right;
+  margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
+}
+    </style>
+  </head>
+  <body>
     <div class="container">
-    <div class="row">
-  </div>
+        
+      <div class="row min-gutter">
+       
+    <div id="searchResults"></div></div></div>
+    
+    <script>
+      function search() {
+          var searchTerm = document.getElementById("searchInput").value.toLowerCase();
+          var searchResultsDiv = document.getElementById("searchResults");
+      
+          // Carregue o conteúdo da página "canais.html" usando AJAX
+          var xhr = new XMLHttpRequest();
+          xhr.open("GET", "/canais.html", true);
+          xhr.onreadystatechange = function () {
+              if (xhr.readyState === 4 && xhr.status === 200) {
+                  var pageContent = xhr.responseText;
+      
+                  // Crie um elemento temporário para analisar o HTML
+                  var tempElement = document.createElement("div");
+                  tempElement.innerHTML = pageContent;
+      
+                  // Encontre os elementos correspondentes dentro do conteúdo carregado
+                  var elements = tempElement.querySelectorAll(".col-sm-2");
+                  var results = [];
+      
+                  elements.forEach(function (element) {
+                      var channelName = element.querySelector("h4").textContent.toLowerCase();
+                      if (channelName.includes(searchTerm)) {
+                          results.push(element.outerHTML);
+                      }
+                  });
+      
+                  // Exiba os resultados na página
+                  if (results.length > 0) {
+                      searchResultsDiv.innerHTML = results.join("");
+                  } else {
+                      searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+                  }
+              }
+          };
+          xhr.send();
+      }
+      function searchMobile() {
+        var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
+        var searchResultsDiv = document.getElementById("searchResults");
+    
+        // Carregue o conteúdo da página "canais.html" usando AJAX
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "/canais.html", true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                var pageContent = xhr.responseText;
+    
+                // Crie um elemento temporário para analisar o HTML
+                var tempElement = document.createElement("div");
+                tempElement.innerHTML = pageContent;
+    
+                // Encontre os elementos correspondentes dentro do conteúdo carregado
+                var elements = tempElement.querySelectorAll(".col-sm-2");
+                var results = [];
+    
+                elements.forEach(function (element) {
+                    var channelName = element.querySelector("h4").textContent.toLowerCase();
+                    if (channelName.includes(searchTerm)) {
+                        results.push(element.outerHTML);
+                    }
+                });
+    
+                // Exiba os resultados na página
+                if (results.length > 0) {
+                    searchResultsDiv.innerHTML = results.join("");
+                } else {
+                    searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+                }
+            }
+        };
+        xhr.send();
+    }
+      </script>   
+    <div class="text-center-xs" style="padding: 2px;">
+    <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;WEB TV CLÁSSICOS DO CINEMA</h1>
+      
+   <section class="video bg-silver b-radius-5 padding-5">
+    <div class="container" style="background-color: black;">
+      <video controls crossorigin playsinline style="background-color: black;">
+        
+        <source src="https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8" type="application/x-mpegURL" />
+      </video>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js"></script>
+  <script src="https://unpkg.com/plyr@3"></script>
+  <script src="https://jptv.netlify.app/plyr/plyr-hls.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  
+     
+    
+      </center>
+    </div>
+   
     </div>
     </section>
-    
-    <footer class="text-center-xs text-center-sm  bg-dark text-white p-t-50 p-b-10">
-    <div class="container">
   
   
-    <div class="col-md-3 text-center m-b-20">
-  
-    </div>
    
-    <div class="col-md-12 text-right m-t-20">
-    <a href="https://www.JP TV.com.br/politica-de-privacidade" class="text-white s2 m-r-10">Política de Privacidade</a>
-    @2022 <a href="https://www.cxweb.com.br/">JP TV</a> | All rights reserved </div>
+    <section class="p-t-40 p-b-80">
+      <div class="container">
+      <div class="row">
     </div>
-    </footer>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
-    <script async="" src="https://jptv.netlify.app/assets/js/infinitta.min.js??cache=adfge" type="text/javascript"></script>
-    
-    <script src="https://jptv.netlify.app/assets/plugins/jquery.maskedinput.min.js" type="text/javascript"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="https://jptv.netlify.app/assets/plugins/validation/css/formValidation.min.css">
-    <script src="https://jptv.netlify.app/assets/plugins/validation/js/formValidation.min.js" type="text/javascript"></script>
-    <script src="https://jptv.netlify.app/assets/plugins/validation/js/framework/bootstrap.min.js" type="text/javascript"></script>
-    <script src="https://jptv.netlify.app/assets/plugins/validation/js/language/pt_BR.js" type="text/javascript"></script>
-    <script src="https://jptv.netlify.app/assets/plugins/jquery.hc-sticky.min.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon="{&quot;rayId&quot;:&quot;767ab6a5bd67a67e&quot;,&quot;token&quot;:&quot;29f3df555cf44e79b31edba47c27cbf8&quot;,&quot;version&quot;:&quot;2022.11.0&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+      </div>
+      </div>
+      </section>
+      
+      <footer class="text-center-xs text-center-sm  bg-dark text-white p-t-50 p-b-10">
+      <div class="container">
     
     
-    <iframe name="googlefcPresent" style="width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px; display: none;"></iframe><iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe></body></html>
+      <div class="col-md-3 text-center m-b-20">
+    
+      </div>
+     
+      <div class="col-md-12 text-right m-t-20">
+      <a href="https://www.JP TV.com.br/politica-de-privacidade" class="text-white s2 m-r-10">Política de Privacidade</a>
+      @2022 <a href="https://www.cxweb.com.br/">JP TV</a> | All rights reserved </div>
+      </div>
+      </footer>
+      <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" rel="stylesheet">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
+      <script async="" src="https://jptv.netlify.app/assets/js/infinitta.min.js??cache=adfge" type="text/javascript"></script>
+      
+      <script src="https://jptv.netlify.app/assets/plugins/jquery.maskedinput.min.js" type="text/javascript"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" type="text/javascript"></script>
+      <link rel="stylesheet" href="https://jptv.netlify.app/assets/plugins/validation/css/formValidation.min.css">
+      <script src="https://jptv.netlify.app/assets/plugins/validation/js/formValidation.min.js" type="text/javascript"></script>
+      <script src="https://jptv.netlify.app/assets/plugins/validation/js/framework/bootstrap.min.js" type="text/javascript"></script>
+      <script src="https://jptv.netlify.app/assets/plugins/validation/js/language/pt_BR.js" type="text/javascript"></script>
+      <script src="https://jptv.netlify.app/assets/plugins/jquery.hc-sticky.min.js" type="text/javascript"></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+      <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon="{&quot;rayId&quot;:&quot;767ab6a5bd67a67e&quot;,&quot;token&quot;:&quot;29f3df555cf44e79b31edba47c27cbf8&quot;,&quot;version&quot;:&quot;2022.11.0&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+      
+      
+      <iframe name="googlefcPresent" style="width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px; display: none;"></iframe><iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><!-- Code injected by live-server -->
+<script>
+    // <![CDATA[  <-- For SVG support
+    if ('WebSocket' in window) {
+        (function () {
+            function refreshCSS() {
+                var sheets = [].slice.call(document.getElementsByTagName("link"));
+                var head = document.getElementsByTagName("head")[0];
+                for (var i = 0; i < sheets.length; ++i) {
+                    var elem = sheets[i];
+                    var parent = elem.parentElement || head;
+                    parent.removeChild(elem);
+                    var rel = elem.rel;
+                    if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+                        var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+                        elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+                    }
+                    parent.appendChild(elem);
+                }
+            }
+            var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+            var address = protocol + window.location.host + window.location.pathname + '/ws';
+            var socket = new WebSocket(address);
+            socket.onmessage = function (msg) {
+                if (msg.data == 'reload') window.location.reload();
+                else if (msg.data == 'refreshcss') refreshCSS();
+            };
+            if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+                console.log('Live reload enabled.');
+                sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+            }
+        })();
+    }
+    else {
+        console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+    }
+    // ]]>
+</script>
+</body></html>
