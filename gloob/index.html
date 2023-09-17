@@ -54,7 +54,8 @@ body{
 </style>
 </head>
 <body data-spy="scroll" data-target=".navbar" class="page-home">
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8092263721786278"
+   crossorigin="anonymous"></script>
   <div class="modal fade" id="modalDinamica" tabindex="-1" role="dialog" aria-labelledby="modalDinamica" aria-hidden="true">
   <div class="conteudo"></div>
   
@@ -93,7 +94,6 @@ body{
   <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvfilmes.html">TV FILMES</a></li>
   <li><a class="dropdown-item" href="https://jptv.netlify.app/sportv.html">SPORT</a></li>
   <li><a class="dropdown-item" href="https://jptv.netlify.app/estados.html">ESTADOS</a></li>
-  <li><a class="dropdown-item" href="https://jptv.netlify.app/canais/">CANAIS</a></li>
   </ul>
   </li>
   <li class="dropdown">
@@ -111,17 +111,40 @@ body{
   </li>
 
   <li class="nav-item">
+      <a class="nav-link" href="https://jptv.netlify.app/jpiptv/">JP IPTV</a>
+    </li>
+    <li class="nav-item">
       <a class="nav-link" href="https://jppfilmes.pages.dev/">JP FILMES</a>
     </li>
-
-    
-
-    <li class="nav-item">
-      <a class="nav-link" href="https://superfilmes.netlify.app/">SUPER FILMES</a>
-    </li>
- 
+  
+      <li class="nav-item">
+        <a class="nav-link" href="https://superfilmes.netlify.app/">SUPER FILMES</a>
+      </li>
 
 
+      <script>
+        function searchMobile() {
+            var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
+            var searchResultsDiv = document.getElementById("searchResults");
+        
+            // Coloque aqui a lógica da pesquisa para dispositivos móveis
+            // Você pode usar uma lógica semelhante à da pesquisa original
+        
+            // Exiba os resultados na página
+            if (results.length > 0) {
+                searchResultsDiv.innerHTML = results.join("");
+            } else {
+                searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+            }
+        }
+        </script>
+           
+        <li class="nav-item mobile-search-item"><center>
+          <!-- Caixa de pesquisa para dispositivos móveis -->
+      <input type="text" id="searchInputMobile" placeholder="Buscar">
+      
+          <button2 onclick="searchMobile()">Buscar</button2> </center>
+      </li>
       
  
   </ul>
@@ -150,7 +173,6 @@ body{
       <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvfilmes.html">TV FILMES</a></li>
       <li><a class="dropdown-item" href="https://jptv.netlify.app/sportv.html">SPORT</a></li>
       <li><a class="dropdown-item" href="https://jptv.netlify.app/estados.html">ESTADOS</a></li>
-      <li><a class="dropdown-item" href="https://jptv.netlify.app/canais/">CANAIS</a></li>
   </ul>
   </div>
   </li>
@@ -169,11 +191,13 @@ body{
   </li>
  
   <li class="nav-item">
-      <a class="nav-link" href="https://jppfilmes.pages.dev/">JP FILMES</a>
+      <a class="nav-link" href="https://jptv.netlify.app/jpiptv/">JP IPTV</a>
     </li>
 
-
-
+    <li class="nav-item">
+      <a class="nav-link" href="https://jppfilmes.pages.dev/">JP FILMES</a>
+    </li>
+ 
 
       <li class="nav-item">
         <a class="nav-link" href="https://superfilmes.netlify.app/">SUPER FILMES</a>
@@ -182,6 +206,9 @@ body{
   </ul>
   </div>
   </div>
+  <input type="text" id="searchInput" placeholder="Digite o nome do canal">
+  <button onclick="search()">Buscar</button>
+  <div class="m-b-5 visible-sm"></div>
   <div class="m-b-5 visible-sm"></div>
   
 
@@ -206,9 +233,8 @@ body{
   });
   
   </script>
-
-  <p></p>
   <p></p></br>
+  <p></p>
   <p></p></br>
   <p></p>
   <section class="destaques container">
@@ -249,19 +275,130 @@ body{
       }
     
     @media(max-width: 782px) {
-      .player .iframe .video {
+      .single .post-body .video {
           height:400px
       }
   }
   
   @media(max-width: 569px) {
-      .player .iframe .video {
+      .single .post-body .video {
           height:300px
       }
   }
+      /* Estilize o botão com a cor #4ad100, bordas arredondadas e outros estilos desejados */
+button {
+  background-color: #43bd00;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+button2 {
+  background-color: #3057e7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+/* Estilize a caixa de pesquisa com bordas arredondadas e outros estilos desejados */
+input[type="text"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+
+/* Alinhe o elemento com a classe "search-item" à direita */
+.search-item {
+  float: right;
+  margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
+}
     </style>
   </head>
   <body>
+    <div class="container">
+        
+      <div class="row min-gutter">
+       
+    <div id="searchResults"></div></div></div>
+    
+    <script>
+      function search() {
+          var searchTerm = document.getElementById("searchInput").value.toLowerCase();
+          var searchResultsDiv = document.getElementById("searchResults");
+      
+          // Carregue o conteúdo da página "canais.html" usando AJAX
+          var xhr = new XMLHttpRequest();
+          xhr.open("GET", "/canais.html", true);
+          xhr.onreadystatechange = function () {
+              if (xhr.readyState === 4 && xhr.status === 200) {
+                  var pageContent = xhr.responseText;
+      
+                  // Crie um elemento temporário para analisar o HTML
+                  var tempElement = document.createElement("div");
+                  tempElement.innerHTML = pageContent;
+      
+                  // Encontre os elementos correspondentes dentro do conteúdo carregado
+                  var elements = tempElement.querySelectorAll(".col-sm-2");
+                  var results = [];
+      
+                  elements.forEach(function (element) {
+                      var channelName = element.querySelector("h4").textContent.toLowerCase();
+                      if (channelName.includes(searchTerm)) {
+                          results.push(element.outerHTML);
+                      }
+                  });
+      
+                  // Exiba os resultados na página
+                  if (results.length > 0) {
+                      searchResultsDiv.innerHTML = results.join("");
+                  } else {
+                      searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+                  }
+              }
+          };
+          xhr.send();
+      }
+      function searchMobile() {
+        var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
+        var searchResultsDiv = document.getElementById("searchResults");
+    
+        // Carregue o conteúdo da página "canais.html" usando AJAX
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "/canais.html", true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                var pageContent = xhr.responseText;
+    
+                // Crie um elemento temporário para analisar o HTML
+                var tempElement = document.createElement("div");
+                tempElement.innerHTML = pageContent;
+    
+                // Encontre os elementos correspondentes dentro do conteúdo carregado
+                var elements = tempElement.querySelectorAll(".col-sm-2");
+                var results = [];
+    
+                elements.forEach(function (element) {
+                    var channelName = element.querySelector("h4").textContent.toLowerCase();
+                    if (channelName.includes(searchTerm)) {
+                        results.push(element.outerHTML);
+                    }
+                });
+    
+                // Exiba os resultados na página
+                if (results.length > 0) {
+                    searchResultsDiv.innerHTML = results.join("");
+                } else {
+                    searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+                }
+            }
+        };
+        xhr.send();
+    }
+      </script>  
       <div class="text-center-xs" style="padding: 2px;">
           <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;GLOOB</h1>
           <section class="video bg-silver b-radius-5 padding-5">
@@ -273,6 +410,7 @@ body{
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 1" onclick="clicou1()" id="botao1"></a>
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 2" onclick="clicou2()" id="botao2"></a>
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 3" onclick="clicou3()" id="botao3"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 4" onclick="clicou4()" id="botao4"></a>
 
 
       </div>
@@ -294,6 +432,12 @@ body{
         removerAtivo();
         document.getElementById("botao3").classList.add("active");
         player.innerHTML = video3
+      }
+
+      function clicou4() {
+        removerAtivo();
+        document.getElementById("botao4").classList.add("active");
+        player.innerHTML = video4
       }
 
 
@@ -318,8 +462,22 @@ body{
   
 
 
-      var video3 = ` <iframe
+      var video4 = ` <iframe
       src="./index3.html"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
+      var video3 = ` <iframe
+      src="https://embedflix.net/tv/gloob"
       width="100%"
   
      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
@@ -347,7 +505,7 @@ body{
       > </iframe>`
     
       var video = `<iframe
-      src="https://embedflix.net/tv/gloob"
+      src="https://reidoscanais.com/embed/?id=gloob"
       width="100%"
   
       allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
