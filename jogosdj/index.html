@@ -404,19 +404,8 @@ input[type="text"] {
       <p></p>
       <section class="video bg-silver b-radius-5 padding-5">
      
-        <iframe id="movie-iframe" scrolling="no" data-draggable="none" width="100%" allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-        marginwidth="0"
-        marginheight="0"
-        data-popup="none" 
-        ></iframe>
+ 
   
-  
-  
-        <center>
-   
-          <h3 class="bold no-margin medium-3"><i class="fas fa-arrow-down"></i>&nbsp;Selecione uma opção abaixo</h3>
-        
-        </center>
   
         <style>
 
@@ -446,6 +435,18 @@ input[type="text"] {
       
    
   </script>
+  <script>
+    function openMovie(titulo, url) {
+        window.location.href = 'single-movie.html?titulo=' + encodeURIComponent(titulo) + '&url=' + encodeURIComponent(url);
+    }
+
+    function reproduzirFilme(titulo, url) {
+        alert('Reproduzindo ' + titulo + ' de ' + url);
+        // resto do código para carregar o player de vídeo...
+        window.location.href = 'single-movie.html?titulo=' + encodeURIComponent(titulo) + '&url=' + encodeURIComponent(url);
+    }
+    
+</script>
   
               <div class="bot" style="margin: 10px; background-color: #4267B2; width: 100%;">
                 <center>
@@ -453,6 +454,8 @@ input[type="text"] {
                     <h3 class="bold no-margin medium-3"><i class="fas fa-arrow-down"></i>Terça 19/9</h3>
                   
                   </center>
+                
+
                 <button style="width: 100%; margin: 10px; font-size: 20px;" class="waves-effect waves-light btn-large" onclick="openMovie('13:00	Milan U19 x Newcastle United U19', 'https://sportsonline.so/channels/hd/hd1.php')" id="botao1">13:00	Milan U19 x Newcastle United U19</button>
                 <button style="width: 100%; margin: 10px; font-size: 20px;" class="waves-effect waves-light btn-large" onclick="openMovie('13:00	Milan U19 x Newcastle United U19', 'https://sportsonline.so/channels/pt/eleven1.php')" id="botao2">13:00	Milan U19 x Newcastle United U19</button>
                 <button style="width: 100%; margin: 10px; font-size: 20px;" class="waves-effect waves-light btn-large" onclick="openMovie('13:00	Lazio U19 x Atlético Madrid U19', 'https://sportsonline.so/channels/hd/hd6.php')">13:00	Lazio U19 x Atlético Madrid U19</button>
