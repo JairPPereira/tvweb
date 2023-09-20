@@ -1,6 +1,3 @@
-
-
-
 <html lang="pt-br" class=" js flexbox flexboxlegacy canvas canvastext webgl touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head>
   <meta charset="utf-8">
   <title>Tv Online - Assistir TV Ao Vivo Grátis | JP TV</title>
@@ -55,6 +52,38 @@ body{
   background-image: url(https://jptv.netlify.app/img/5026563.jpg);
 
 }
+/* Estilize o botão com a cor #4ad100, bordas arredondadas e outros estilos desejados */
+button {
+  background-color: #43bd00;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+button2 {
+  background-color: #3057e7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+/* Estilize a caixa de pesquisa com bordas arredondadas e outros estilos desejados */
+input[type="text"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+
+/* Alinhe o elemento com a classe "search-item" à direita */
+.search-item {
+  float: right;
+  margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
+}
+
 </style>
 </head>
 <body data-spy="scroll" data-target=".navbar" class="page-home">
@@ -131,29 +160,34 @@ body{
           <li> <a class="dropdown-item" href="https://jptv.netlify.app/filmes/">Site 3</a></li>
         </ul>
         </li>
-
-   
-
         <li class="nav-item">
-          <a class="nav-link" href="https://jptv.netlify.app/filmesy/">FILMES YOUTUBE</a>
+          <a class="nav-link" href="https://superfilmes.netlify.app/">SUPER FILMES</a>
         </li>
 
-        <li class="nav-item">
-          <a class="nav-link" href="https://jptv.netlify.app/minuto/">MINUTO DE SABEDORIA</a>
-        </li>
 
+        <script>
+          function searchMobile() {
+              var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
+              var searchResultsDiv = document.getElementById("searchResults");
+          
+              // Coloque aqui a lógica da pesquisa para dispositivos móveis
+              // Você pode usar uma lógica semelhante à da pesquisa original
+          
+              // Exiba os resultados na página
+              if (results.length > 0) {
+                  searchResultsDiv.innerHTML = results.join("");
+              } else {
+                  searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+              }
+          }
+          </script>
+             
+          <li class="nav-item mobile-search-item"><center>
+            <!-- Caixa de pesquisa para dispositivos móveis -->
+        <input type="text" id="searchInputMobile" placeholder="Buscar">
         
-        <li class="nav-item">
-          <a class="nav-link" href="https://jpcalculadoras-one.vercel.app/">CALCULADORAS</a>
+            <button2 onclick="searchMobile()">Buscar</button2> </center>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://jpcombinacao.vercel.app/">COMBINAÇÃO PARA LOTERIAS</a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="https://drive.google.com/file/d/1u3xUTvK8W63niF81oQCH_8wlrLyNZKLS/view?usp=share_link">Baixe nosso aplicativo</a>
-        </li>
-        
    
     </ul>
     </div>
@@ -227,6 +261,8 @@ body{
     </ul>
     </div>
     </div>
+    <input type="text" id="searchInput" placeholder="Digite o nome do canal">
+    <button onclick="search()">Buscar</button>
     <div class="m-b-5 visible-sm"></div>
     
 
@@ -257,9 +293,89 @@ body{
   <p></p>
   <section class="destaques container">
   <div class="row p-t-20 p-b-40">
-  
+    
+      <div class="container">
+        
+        <div class="row min-gutter">
+         
+      <div id="searchResults"></div></div></div>
+      
+      <script>
+        function search() {
+            var searchTerm = document.getElementById("searchInput").value.toLowerCase();
+            var searchResultsDiv = document.getElementById("searchResults");
+        
+            // Carregue o conteúdo da página "canais.html" usando AJAX
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", "/canais.html", true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    var pageContent = xhr.responseText;
+        
+                    // Crie um elemento temporário para analisar o HTML
+                    var tempElement = document.createElement("div");
+                    tempElement.innerHTML = pageContent;
+        
+                    // Encontre os elementos correspondentes dentro do conteúdo carregado
+                    var elements = tempElement.querySelectorAll(".col-sm-2");
+                    var results = [];
+        
+                    elements.forEach(function (element) {
+                        var channelName = element.querySelector("h4").textContent.toLowerCase();
+                        if (channelName.includes(searchTerm)) {
+                            results.push(element.outerHTML);
+                        }
+                    });
+        
+                    // Exiba os resultados na página
+                    if (results.length > 0) {
+                        searchResultsDiv.innerHTML = results.join("");
+                    } else {
+                        searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+                    }
+                }
+            };
+            xhr.send();
+        }
+        function searchMobile() {
+          var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
+          var searchResultsDiv = document.getElementById("searchResults");
+      
+          // Carregue o conteúdo da página "canais.html" usando AJAX
+          var xhr = new XMLHttpRequest();
+          xhr.open("GET", "/canais.html", true);
+          xhr.onreadystatechange = function () {
+              if (xhr.readyState === 4 && xhr.status === 200) {
+                  var pageContent = xhr.responseText;
+      
+                  // Crie um elemento temporário para analisar o HTML
+                  var tempElement = document.createElement("div");
+                  tempElement.innerHTML = pageContent;
+      
+                  // Encontre os elementos correspondentes dentro do conteúdo carregado
+                  var elements = tempElement.querySelectorAll(".col-sm-2");
+                  var results = [];
+      
+                  elements.forEach(function (element) {
+                      var channelName = element.querySelector("h4").textContent.toLowerCase();
+                      if (channelName.includes(searchTerm)) {
+                          results.push(element.outerHTML);
+                      }
+                  });
+      
+                  // Exiba os resultados na página
+                  if (results.length > 0) {
+                      searchResultsDiv.innerHTML = results.join("");
+                  } else {
+                      searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+                  }
+              }
+          };
+          xhr.send();
+      }
+        </script> 
   <div class="text-center-xs" style="padding: 2px;">
-  <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;TV MOON</h1>
+  <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;TV MON</h1>
     
  <section class="video bg-silver b-radius-5 padding-5">
   <div class="container" style="background-color: black;">
