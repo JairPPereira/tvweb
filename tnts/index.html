@@ -1,4 +1,3 @@
-
 <html lang="pt-br" class=" js flexbox flexboxlegacy canvas canvastext webgl touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head>
   <meta charset="utf-8">
   <title>Tv Online - Assistir TV Ao Vivo Grátis | JP TV</title>
@@ -89,13 +88,12 @@ body{
   <li class="dropdown">
   <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-tv fa-fw"></i>&nbsp;TV's<i class="fa fa-angle-down fa-fw"></i></a>
   <ul class="dropdown-menu">
-  <li><a href="https://jptv.netlify.app/jornalismo.html">JORNALISMO</a></li>
-  <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvaberta.html">TV ABERTA</a></li>
-  <li><a class="dropdown-item" href="https://jptv.netlify.app/religiosos.html">RELIGIOSOS</a></li>
-  <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvfilmes.html">TV FILMES</a></li>
+  <li><a href='https://jptv.netlify.app/jornalismo'>JORNALISMO</a></li>
+  <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvaberta'>TV ABERTA</a></li>
+  <li><a class='dropdown-item' href='https://jptv.netlify.app/religiosos'>RELIGIOSOS</a></li>
+  <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvfilmes'>TV FILMES</a></li>
   <li><a class="dropdown-item" href="https://jptv.netlify.app/sportv.html">SPORT</a></li>
-  <li><a class="dropdown-item" href="https://jptv.netlify.app/estados.html">ESTADOS</a></li>
-  <li><a class="dropdown-item" href="https://jptv.netlify.app/canais/">CANAIS</a></li>
+  <li><a class='dropdown-item' href='https://jptv.netlify.app/estados'>ESTADOS</a></li>
   </ul>
   </li>
   <li class="dropdown">
@@ -104,7 +102,7 @@ body{
    
   <li> <a class="dropdown-item" href="https://radiobr.vercel.app/">Rádios 1</a></li>
 
-  <li> <a class="dropdown-item" href="https://radiobr.vercel.app/radios.html">Rádios 2</a></li>
+  <li> <a class='dropdown-item' href='https://radiobr.vercel.app/radios'>Rádios 2</a></li>
   <li><a class="dropdown-item" href="https://radiobr.vercel.app/radiosjp">Seleções de músicas</a></li>
 
   <li><a class="dropdown-item" href="https://radiobr.vercel.app/jpradio/">Seleções de músicas 2</a></li>
@@ -116,24 +114,37 @@ body{
       <a class="nav-link" href="https://jptv.netlify.app/jpiptv/">JP IPTV</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="https://jpcanais.pages.dev/aovivo/">JP CANAIS</a>
+      <a class="nav-link" href="https://jppfilmes.pages.dev/">JP FILMES</a>
     </li>
-    
-    <li class="dropdown">
-      <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa-thin fa-radio"></i>&nbsp;FILMES ON DEMAND<i class="fa fa-angle-down fa-fw"></i></a>
-       <ul class="dropdown-menu">
-       
-        <li> <a class="dropdown-item" href="https://jp-app.netlify.app/">Site 1</a></li>
-        <li> <a class="dropdown-item" href="https://jppfilmes.pages.dev/">Site 2</a></li>
-
-      </ul>
-      </li>
-
-
+  
       <li class="nav-item">
         <a class="nav-link" href="https://superfilmes.netlify.app/">SUPER FILMES</a>
       </li>
 
+
+      <script>
+        function searchMobile() {
+            var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
+            var searchResultsDiv = document.getElementById("searchResults");
+        
+            // Coloque aqui a lógica da pesquisa para dispositivos móveis
+            // Você pode usar uma lógica semelhante à da pesquisa original
+        
+            // Exiba os resultados na página
+            if (results.length > 0) {
+                searchResultsDiv.innerHTML = results.join("");
+            } else {
+                searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+            }
+        }
+        </script>
+           
+        <li class="nav-item mobile-search-item"><center>
+          <!-- Caixa de pesquisa para dispositivos móveis -->
+      <input type="text" id="searchInputMobile" placeholder="Buscar">
+      
+          <button2 onclick="searchMobile()">Buscar</button2> </center>
+      </li>
       
  
   </ul>
@@ -156,13 +167,12 @@ body{
   <a href="https://jptv.netlify.app/"><i class="fas fa-tv fa-fw"></i>&nbsp;Tv Ao Vivo<i class="fa fa-angle-down fa-fw"></i></a>
   <div class="dropdown">
   <ul class="flexbox">
-      <li><a href="https://jptv.netlify.app/jornalismo.html">JORNALISMO</a></li>
-      <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvaberta.html">TV ABERTA</a></li>
-      <li><a class="dropdown-item" href="https://jptv.netlify.app/religiosos.html">RELIGIOSOS</a></li>
-      <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvfilmes.html">TV FILMES</a></li>
+      <li><a href='https://jptv.netlify.app/jornalismo'>JORNALISMO</a></li>
+      <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvaberta'>TV ABERTA</a></li>
+      <li><a class='dropdown-item' href='https://jptv.netlify.app/religiosos'>RELIGIOSOS</a></li>
+      <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvfilmes'>TV FILMES</a></li>
       <li><a class="dropdown-item" href="https://jptv.netlify.app/sportv.html">SPORT</a></li>
-      <li><a class="dropdown-item" href="https://jptv.netlify.app/estados.html">ESTADOS</a></li>
-      <li><a class="dropdown-item" href="https://jptv.netlify.app/canais/">CANAIS</a></li>
+      <li><a class='dropdown-item' href='https://jptv.netlify.app/estados'>ESTADOS</a></li>
   </ul>
   </div>
   </li>
@@ -172,7 +182,7 @@ body{
   <div class="dropdown">
   <ul class="flexbox">
     <li> <a class="dropdown-item" href="https://radiobr.vercel.app/">Rádios 1</a></li>
-      <li> <a class="dropdown-item" href="https://radiobr.vercel.app/radios.html">Rádios 2</a></li>
+      <li> <a class='dropdown-item' href='https://radiobr.vercel.app/radios'>Rádios 2</a></li>
       <li><a class="dropdown-item" href="https://radiobr.vercel.app/radiosjp">Seleções de músicas</a></li>
 
   <li><a class="dropdown-item" href="https://radiobr.vercel.app/jpradio/">Seleções de músicas 2</a></li>
@@ -185,32 +195,20 @@ body{
     </li>
 
     <li class="nav-item">
-      <a class="nav-link" href="https://jpcanais.pages.dev/aovivo/">JP CANAIS</a>
+      <a class="nav-link" href="https://jppfilmes.pages.dev/">JP FILMES</a>
     </li>
-    
-    <li class="has-dropdown">
-      <a href="https://jptv.netlify.app/radios/">&nbsp;FILMES ON DEMAND<i class="fa fa-angle-down fa-fw"></i></a>
-      <div class="dropdown">
-      <ul class="flexbox">
-        <li> <a class="dropdown-item" href="https://jp-app.netlify.app/">Site 1</a></li>
-          <li> <a class="dropdown-item" href="https://jppfilmes.pages.dev/">Site 2</a></li>
+ 
 
-         
-      </ul>
-      </div>
-      </li>
-  
       <li class="nav-item">
         <a class="nav-link" href="https://superfilmes.netlify.app/">SUPER FILMES</a>
       </li>
 
-
-
-
-
   </ul>
   </div>
   </div>
+  <input type="text" id="searchInput" placeholder="Digite o nome do canal">
+  <button onclick="search()">Buscar</button>
+  <div class="m-b-5 visible-sm"></div>
   <div class="m-b-5 visible-sm"></div>
   
 
@@ -235,14 +233,172 @@ body{
   });
   
   </script>
-
-<p></p></br>
-<p></p>
-<p></p></br>
-<p></p>
-    <section class="destaques container">
-    <div class="row p-t-20 p-b-40">
+  <p></p></br>
+  <p></p>
+  <p></p></br>
+  <p></p>
+  <section class="destaques container">
+  <div class="row p-t-20 p-b-40">
+    <style>
+      input[type="button"] {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 8px;
+      }
+  
+      input[type="button"].active {
+        background-color: #FF0000; /* Red */
+      }
+      #player {
+          aspect-ratio: 16/9;
+           border: none;
+           width: 100%;
+           background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
+           background-size: cover;
+           background-position: center;
+        }
+        iframe {
+          aspect-ratio: 16/9;
+          border: none;
+          width: 100%;
+  
+          background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
+  
+          background-size: cover;
+          background-position: center;     
+      }
     
+    @media(max-width: 782px) {
+      .single .post-body .video {
+          height:400px
+      }
+  }
+  
+  @media(max-width: 569px) {
+      .single .post-body .video {
+          height:300px
+      }
+  }
+      /* Estilize o botão com a cor #4ad100, bordas arredondadas e outros estilos desejados */
+button {
+  background-color: #43bd00;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+button2 {
+  background-color: #3057e7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+/* Estilize a caixa de pesquisa com bordas arredondadas e outros estilos desejados */
+input[type="text"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+
+/* Alinhe o elemento com a classe "search-item" à direita */
+.search-item {
+  float: right;
+  margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
+}
+    </style>
+  </head>
+  <body>
+    <div class="container">
+        
+      <div class="row min-gutter">
+       
+    <div id="searchResults"></div></div></div>
+    
+    <script>
+      function search() {
+          var searchTerm = document.getElementById("searchInput").value.toLowerCase();
+          var searchResultsDiv = document.getElementById("searchResults");
+      
+          // Carregue o conteúdo da página "canais.html" usando AJAX
+          var xhr = new XMLHttpRequest();
+          xhr.open("GET", "/canais.html", true);
+          xhr.onreadystatechange = function () {
+              if (xhr.readyState === 4 && xhr.status === 200) {
+                  var pageContent = xhr.responseText;
+      
+                  // Crie um elemento temporário para analisar o HTML
+                  var tempElement = document.createElement("div");
+                  tempElement.innerHTML = pageContent;
+      
+                  // Encontre os elementos correspondentes dentro do conteúdo carregado
+                  var elements = tempElement.querySelectorAll(".col-sm-2");
+                  var results = [];
+      
+                  elements.forEach(function (element) {
+                      var channelName = element.querySelector("h4").textContent.toLowerCase();
+                      if (channelName.includes(searchTerm)) {
+                          results.push(element.outerHTML);
+                      }
+                  });
+      
+                  // Exiba os resultados na página
+                  if (results.length > 0) {
+                      searchResultsDiv.innerHTML = results.join("");
+                  } else {
+                      searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+                  }
+              }
+          };
+          xhr.send();
+      }
+      function searchMobile() {
+        var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
+        var searchResultsDiv = document.getElementById("searchResults");
+    
+        // Carregue o conteúdo da página "canais.html" usando AJAX
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "/canais.html", true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                var pageContent = xhr.responseText;
+    
+                // Crie um elemento temporário para analisar o HTML
+                var tempElement = document.createElement("div");
+                tempElement.innerHTML = pageContent;
+    
+                // Encontre os elementos correspondentes dentro do conteúdo carregado
+                var elements = tempElement.querySelectorAll(".col-sm-2");
+                var results = [];
+    
+                elements.forEach(function (element) {
+                    var channelName = element.querySelector("h4").textContent.toLowerCase();
+                    if (channelName.includes(searchTerm)) {
+                        results.push(element.outerHTML);
+                    }
+                });
+    
+                // Exiba os resultados na página
+                if (results.length > 0) {
+                    searchResultsDiv.innerHTML = results.join("");
+                } else {
+                    searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+                }
+            }
+        };
+        xhr.send();
+    }
+      </script>     
     <div class="text-center-xs" style="padding: 2px;">
     <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;TNT Sports</h1>
     <p></p>
@@ -301,6 +457,7 @@ body{
             <div class="bot" style="margin: 10px; background-color: #4267B2;">
 
             <button class="waves-effect waves-light btn-large" onclick="openMovie('TNT SPORTS ', 'https://embedflix.net/tv/tnt-sports')">TNT SPORTS </button>
+            <button class="waves-effect waves-light btn-large" onclick="openMovie('TNT SPORTS ', 'https://reidoscanais.com/embed/?id=tntsports')">TNT SPORTS OPÇÃO 2</button>
             <button class="waves-effect waves-light btn-large" onclick="openMovie('TNT SPORTS 2 ', 'https://embedflix.net/tv/tnt-sports-2')">TNT SPORTS 2 </button>
             <button class="waves-effect waves-light btn-large" onclick="openMovie('TNT SPORTS 3 ', 'https://embedflix.net/tv/tnt-sports-3')">TNT SPORTS 3 </button>
             <button class="waves-effect waves-light btn-large" onclick="openMovie('TNT SPORTS 4 ', 'https://embedflix.net/tv/tnt-sports-4')">TNT SPORTS 4 </button>

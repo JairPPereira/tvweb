@@ -88,12 +88,12 @@ body{
   <li class="dropdown">
   <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-tv fa-fw"></i>&nbsp;TV's<i class="fa fa-angle-down fa-fw"></i></a>
   <ul class="dropdown-menu">
-  <li><a href='https://jptv.netlify.app/jornalismo'>JORNALISMO</a></li>
-  <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvaberta'>TV ABERTA</a></li>
-  <li><a class='dropdown-item' href='https://jptv.netlify.app/religiosos'>RELIGIOSOS</a></li>
-  <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvfilmes'>TV FILMES</a></li>
+  <li><a href="https://jptv.netlify.app/jornalismo.html">JORNALISMO</a></li>
+  <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvaberta.html">TV ABERTA</a></li>
+  <li><a class="dropdown-item" href="https://jptv.netlify.app/religiosos.html">RELIGIOSOS</a></li>
+  <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvfilmes.html">TV FILMES</a></li>
   <li><a class="dropdown-item" href="https://jptv.netlify.app/sportv.html">SPORT</a></li>
-  <li><a class='dropdown-item' href='https://jptv.netlify.app/estados'>ESTADOS</a></li>
+  <li><a class="dropdown-item" href="https://jptv.netlify.app/estados.html">ESTADOS</a></li>
   </ul>
   </li>
   <li class="dropdown">
@@ -102,7 +102,7 @@ body{
    
   <li> <a class="dropdown-item" href="https://radiobr.vercel.app/">Rádios 1</a></li>
 
-  <li> <a class='dropdown-item' href='https://radiobr.vercel.app/radios'>Rádios 2</a></li>
+  <li> <a class="dropdown-item" href="https://radiobr.vercel.app/radios.html">Rádios 2</a></li>
   <li><a class="dropdown-item" href="https://radiobr.vercel.app/radiosjp">Seleções de músicas</a></li>
 
   <li><a class="dropdown-item" href="https://radiobr.vercel.app/jpradio/">Seleções de músicas 2</a></li>
@@ -167,12 +167,12 @@ body{
   <a href="https://jptv.netlify.app/"><i class="fas fa-tv fa-fw"></i>&nbsp;Tv Ao Vivo<i class="fa fa-angle-down fa-fw"></i></a>
   <div class="dropdown">
   <ul class="flexbox">
-      <li><a href='https://jptv.netlify.app/jornalismo'>JORNALISMO</a></li>
-      <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvaberta'>TV ABERTA</a></li>
-      <li><a class='dropdown-item' href='https://jptv.netlify.app/religiosos'>RELIGIOSOS</a></li>
-      <li> <a class='dropdown-item' href='https://jptv.netlify.app/tvfilmes'>TV FILMES</a></li>
+      <li><a href="https://jptv.netlify.app/jornalismo.html">JORNALISMO</a></li>
+      <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvaberta.html">TV ABERTA</a></li>
+      <li><a class="dropdown-item" href="https://jptv.netlify.app/religiosos.html">RELIGIOSOS</a></li>
+      <li> <a class="dropdown-item" href="https://jptv.netlify.app/tvfilmes.html">TV FILMES</a></li>
       <li><a class="dropdown-item" href="https://jptv.netlify.app/sportv.html">SPORT</a></li>
-      <li><a class='dropdown-item' href='https://jptv.netlify.app/estados'>ESTADOS</a></li>
+      <li><a class="dropdown-item" href="https://jptv.netlify.app/estados.html">ESTADOS</a></li>
   </ul>
   </div>
   </li>
@@ -182,7 +182,7 @@ body{
   <div class="dropdown">
   <ul class="flexbox">
     <li> <a class="dropdown-item" href="https://radiobr.vercel.app/">Rádios 1</a></li>
-      <li> <a class='dropdown-item' href='https://radiobr.vercel.app/radios'>Rádios 2</a></li>
+      <li> <a class="dropdown-item" href="https://radiobr.vercel.app/radios.html">Rádios 2</a></li>
       <li><a class="dropdown-item" href="https://radiobr.vercel.app/radiosjp">Seleções de músicas</a></li>
 
   <li><a class="dropdown-item" href="https://radiobr.vercel.app/jpradio/">Seleções de músicas 2</a></li>
@@ -400,17 +400,19 @@ input[type="text"] {
     }
       </script> 
       <div class="text-center-xs" style="padding: 2px;">
-          <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;TNT</h1>
+          <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;HBO MAX</h1>
           <section class="video bg-silver b-radius-5 padding-5">
             <div id="player">
         
               </div></div>
     <center>
       <div class="bot" style="margin: 10px; background-color: #4267B2; border-radius: 10px;">
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 1" onclick="clicou1()" id="botao1"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="HBO MAX (EVENTOS)" onclick="clicou1()" id="botao1"></a>
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 2" onclick="clicou2()" id="botao2"></a>
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 3" onclick="clicou3()" id="botao3"></a>
 
+
+    
       </div>
     </center>
     <script>
@@ -433,7 +435,7 @@ input[type="text"] {
       }
   
 
-
+ 
   
       function removerAtivo() {
         var botoes = document.getElementsByTagName("input");
@@ -446,13 +448,10 @@ input[type="text"] {
       var player = window.document.querySelector("div#player")
     
     
-    
-
-  
 
     
       var video3 = ` <iframe
-      src="./index2.html"
+      src="https://playertv.net/tv.php?c=hbo-max"
       width="100%"
   
      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
@@ -465,11 +464,11 @@ input[type="text"] {
           frameborder="0"
       > </iframe>`
 
-      var video2 = `<iframe
-      src="https://playertv.net/tv.php?c=tnt"
+      var video2 = ` <iframe
+      src="https://embedflix.net/tv/hbo-max/"
       width="100%"
   
-      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
       target="_blank"
           scrolling="no"
           data-draggable="none"
@@ -480,12 +479,10 @@ input[type="text"] {
       > </iframe>`
     
       var video = `<iframe
-      src="https://embedflix.net/tv/tnt"
-      width="100%"
-  
+      src="https://reidoscanais.com/hbomax/"
+      width="100%" 
       allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
       target="_blank"
-          scrolling="no"
           data-draggable="none"
           marginwidth="0"
           marginheight="0"
