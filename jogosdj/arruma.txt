@@ -1,14 +1,32 @@
 
-16:00	Dhamk x Al Hilal | https://sportsonline.so/channels/bra/br2.php
-17:45	LASK Linz x Liverpool | https://sportsonline.so/channels/bra/br1.php
-17:45	Sheriff x Roma | https://sportsonline.so/channels/bra/br4.php
-17:45	Legia Warszawa x Aston Villa | https://sportsonline.so/channels/bra/br2.php
-17:45	Panathinaikos x Villarreal | https://sportsonline.so/channels/bra/br3.php
-20:00	Brighton & Hove Albion x AEK Athens | https://sportsonline.so/channels/bra/br1.php 
-20:00	West Ham United x Bačka Topola | https://sportsonline.so/channels/bra/br2.php
-20:00	Ajax x Olympique Marseille | https://sportsonline.so/channels/bra/br3.php
-20:00	Olympiakos Piraeus x Freiburg | https://sportsonline.so/channels/bra/br4.php
+12:00	Dhamk x Al Hilal | https://sportsonline.so/channels/bra/br2.php
+13:45	LASK Linz x Liverpool | https://sportsonline.so/channels/bra/br1.php
+13:45	Sheriff x Roma | https://sportsonline.so/channels/bra/br4.php
+13:45	Legia Warszawa x Aston Villa | https://sportsonline.so/channels/bra/br2.php
+13:45	Panathinaikos x Villarreal | https://sportsonline.so/channels/bra/br3.php
+16:00	Brighton & Hove Albion x AEK Athens | https://sportsonline.so/channels/bra/br1.php 
+16:00	West Ham United x Bačka Topola | https://sportsonline.so/channels/bra/br2.php
+16:00	Ajax x Olympique Marseille | https://sportsonline.so/channels/bra/br3.php
+16:00	Olympiakos Piraeus x Freiburg | https://sportsonline.so/channels/bra/br4.php
+19:00	Vasco da Gama x Coritiba | https://sportsonline.so/channels/bra/br1.php
+19:30	Athletico-PR x Internacional | https://sportsonline.so/channels/bra/br2.php
 21:30	Grêmio x Palmeiras | https://sportsonline.so/channels/bra/br1.php
-23:00	Vasco da Gama x Coritiba | https://sportsonline.so/channels/bra/br1.php
-23:00   Japanese F1 GP: Practice 1 | https://sportsonline.so/channels/bra/br2.php
-23:30	Athletico-PR x Internacional | https://sportsonline.so/channels/bra/br2.php 
+23:30   Japanese F1 GP: Practice 1 | https://sportsonline.so/channels/bra/br2.php
+
+
+###############################################################################################
+
+sexta
+
+
+03:00   Japanese F1 GP: Practice 2 | https://sportsonline.so/channels/bra/br2.php
+19:00	Al Nassr x Al Ahli | https://sportsonline.so/channels/bra/br2.php
+19:30	Stuttgart x Darmstadt 98 | https://sportsonline.so/channels/bra/br3.php
+16:00	Monaco x Nice | https://sportsonline.so/channels/bra/br4.php
+16:00	Deportivo Alavés x Athletic Club | https://sportsonline.so/channels/bra/br1.php
+19:00	Ponte Preta x Mirassol | https://sportsonline.so/channels/bra/br3.php
+20:00	Corinthians x Botafogo | https://sportsonline.so/channels/bra/br1.php
+20:40	Once Caldas x La Equidad | https://sportsonline.so/channels/hd/hd11.php
+21:30	Ituano x Vitória | https://sportsonline.so/channels/bra/br3.php
+21:30	Atlético Goianiense x Criciúma | https://sportsonline.so/channels/bra/br4.php 
+23:15   Japanese F1 GP: Practice 3 | https://sportsonline.so/channels/bra/br2.php
