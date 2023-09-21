@@ -414,6 +414,10 @@ input[type="text"] {
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="SPORT TV 2 (opção 2)" onclick="clicou4()" id="botao4"></a>
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="SPORT TV 3" onclick="clicou5()" id="botao5"></a>
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="SPORT TV 3 (opção 2)" onclick="clicou6()" id="botao6"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="SPORT TV 4" onclick="clicou7()" id="botao7"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="SPORT TV 4 (opção 2)" onclick="clicou8()" id="botao8"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="SPORT TV 5" onclick="clicou9()" id="botao9"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="SPORT TV 5 (opção 2)" onclick="clicou10()" id="botao10"></a>
 
 
       </div>
@@ -454,6 +458,30 @@ input[type="text"] {
         document.getElementById("botao6").classList.add("active");
         player.innerHTML = video6
       }
+
+      function clicou7() {
+        removerAtivo();
+        document.getElementById("botao7").classList.add("active");
+        player.innerHTML = video7
+      }
+
+      function clicou8() {
+        removerAtivo();
+        document.getElementById("botao8").classList.add("active");
+        player.innerHTML = video8
+      }
+
+      function clicou9() {
+        removerAtivo();
+        document.getElementById("botao9").classList.add("active");
+        player.innerHTML = video9
+      }
+
+      function clicou10() {
+        removerAtivo();
+        document.getElementById("botao10").classList.add("active");
+        player.innerHTML = video10
+      }
   
   
   
@@ -475,7 +503,63 @@ input[type="text"] {
   
 
  
-    
+
+      var video10 = ` <iframe
+      src="https://v3.sportsonline.sx/channels/pt/sporttv5.php"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
+      var video9 = ` <iframe
+      src="https://playertv.net/tv.php?c=spt5"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
+      var video8 = ` <iframe
+      src="https://v3.sportsonline.sx/channels/pt/sporttv4.php"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
+      var video7 = ` <iframe
+      src="https://playertv.net/tv.php?c=spt4"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
       var video6 = ` <iframe
       src="https://v3.sportsonline.sx/channels/pt/sporttv3.php"
       width="100%"
