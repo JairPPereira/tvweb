@@ -1,33 +1,22 @@
 
 ###############################################################################################
 
-sexta-feira
-
-15:00	Al Nassr x Al Ahli | https://sportsonline.so/channels/bra/br2.php
-15:30	Stuttgart x Darmstadt 98 | https://sportsonline.so/channels/bra/br3.php
-16:00	Monaco x Nice | https://sportsonline.so/channels/bra/br4.php
-16:00	Deportivo Alavés x Athletic Club | https://sportsonline.so/channels/bra/br1.php
-19:00	Ponte Preta x Mirassol | https://sportsonline.so/channels/bra/br3.php
-20:00	Corinthians x Botafogo | https://sportsonline.so/channels/bra/br1.php
-21:30	Ituano x Vitória | https://sportsonline.so/channels/bra/br3.php
-21:30	Atlético Goianiense x Criciúma | https://sportsonline.so/channels/bra/br4.php
 
 
 #############################################################################################
 
 Sábado
 
-06:00   Japanese F1 GP: Qualifying | https://sportsonline.so/channels/bra/br2.php
-14:00	Milan x Hellas Verona | https://sportsonline.so/channels/bra/br2.php
-14:30	Bayern München x Bochum | https://sportsonline.so/channels/bra/br3.php
-15:00	Manchester City x Nottingham Forest | https://sportsonline.so/channels/bra/br4.php
-17:00	Sassuolo x Juventus | https://sportsonline.so/channels/bra/br2.php
-17:30	Barcelona x Celta de Vigo | https://sportsonline.so/channels/bra/br3.php 
-17:30	Brentford x Everton | https://sportsonline.so/channels/bra/br4.php
-17:30	Werder Bremen x Köln | https://sportsonline.so/channels/bra/br1.php
+10:00	Milan x Hellas Verona | https://sportsonline.so/channels/bra/br2.php
+10:30	Bayern München x Bochum | https://sportsonline.so/channels/bra/br3.php
+11:00	Manchester City x Nottingham Forest | https://sportsonline.so/channels/bra/br4.php
+13:00	Sassuolo x Juventus | https://sportsonline.so/channels/bra/br2.php
+13:30	Barcelona x Celta de Vigo | https://sportsonline.so/channels/bra/br3.php 
+13:30	Brentford x Everton | https://sportsonline.so/channels/bra/br4.php
+13:30	Werder Bremen x Köln | https://sportsonline.so/channels/bra/br1.php
 16:00	Burnley x Manchester United | https://sportsonline.so/channels/bra/br4.php
 21:00	Chapecoense x Ceará | https://sportsonline.so/channels/bra/br2.php
 21:00	CRB x Guarani | https://sportsonline.so/channels/bra/br3.php
 22:00   UFC Fight Night: Prelims | https://sportsonline.so/channels/bra/br4.php
 20:00   UFC Fight Night: Rafael Fiziev vs Mateusz Gamrot | https://sportsonline.so/channels/bra/br4.php
-01:00	Atlético Mineiro x Cuiabá | https://sportsonline.so/channels/bra/br1.php
+21:00	Atlético Mineiro x Cuiabá | https://sportsonline.so/channels/bra/br1.php
