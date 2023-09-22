@@ -409,9 +409,14 @@ input[type="text"] {
               </div></div>
     <center>
       <div class="bot" style="margin: 10px; background-color: #4267B2; border-radius: 10px;">
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 1" onclick="clicou1()" id="botao1"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 2" onclick="clicou2()" id="botao2"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 3" onclick="clicou3()" id="botao3"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="CAM 1" onclick="clicou1()" id="botao1"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="CAM 1 opção 2" onclick="clicou2()" id="botao2"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="CAM 1 opção 3" onclick="clicou3()" id="botao3"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="CAM 2" onclick="clicou4()" id="botao4"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="CAM 3" onclick="clicou5()" id="botao5"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="CAM 4" onclick="clicou6()" id="botao6"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="CAM 5" onclick="clicou7()" id="botao7"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="CAM 6" onclick="clicou8()" id="botao8"></a>
 
 
       </div>
@@ -434,6 +439,36 @@ input[type="text"] {
         document.getElementById("botao3").classList.add("active");
         player.innerHTML = video3
       }
+
+      function clicou4() {
+        removerAtivo();
+        document.getElementById("botao4").classList.add("active");
+        player.innerHTML = video4
+      }
+
+      function clicou5() {
+        removerAtivo();
+        document.getElementById("botao5").classList.add("active");
+        player.innerHTML = video5
+      }
+
+      function clicou6() {
+        removerAtivo();
+        document.getElementById("botao6").classList.add("active");
+        player.innerHTML = video6
+      }
+
+      function clicou7() {
+        removerAtivo();
+        document.getElementById("botao7").classList.add("active");
+        player.innerHTML = video7
+      }
+
+      function clicou8() {
+        removerAtivo();
+        document.getElementById("botao8").classList.add("active");
+        player.innerHTML = video8
+      }
   
  
 
@@ -452,8 +487,78 @@ input[type="text"] {
   
 
 
+      var video8 = ` <iframe
+      src="https://playertv.net/playplusembed/live.php?ch=5"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
+      var video7 = ` <iframe
+      src="https://playertv.net/playplusembed/live.php?ch=4"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
+      var video6 = ` <iframe
+      src="https://playertv.net/playplusembed/live.php?ch=3"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
+      var video5 = ` <iframe
+      src="https://playertv.net/playplusembed/live.php?ch=2"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
+      var video4 = ` <iframe
+      src="https://playertv.net/playplusembed/live.php?ch=1"
+      width="100%"
+  
+     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      target="_blank"
+          scrolling="no"
+          data-draggable="none"
+          marginwidth="0"
+          marginheight="0"
+          data-popup="none" 
+          frameborder="0"
+      > </iframe>`
+
       var video3 = ` <iframe
-      src="https://reidoscanais.net/embed/?id=afazenda15"
+      src="https://embedflix.net/tv/a-fazenda-15"
       width="100%"
   
      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
