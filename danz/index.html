@@ -269,8 +269,7 @@ body{
           border: none;
           width: 100%;
           min-height: 400px;          
-  
-          background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
+
   
           background-size: cover;
           background-position: center;
@@ -397,11 +396,13 @@ input[type="text"] {
               </div></div>
     <center>
       <div class="bot" style="margin: 10px; background-color: #4267B2; border-radius: 10px;">
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 1" onclick="clicou1()" id="botao1"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 2" onclick="clicou2()" id="botao2"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 3" onclick="clicou3()" id="botao3"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 4" onclick="clicou4()" id="botao4"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="opção 5" onclick="clicou5()" id="botao5"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="DAZN 1" onclick="clicou1()" id="botao1"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="DAZN 1 (opção 2)" onclick="clicou2()" id="botao2"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="DAZN 2" onclick="clicou3()" id="botao3"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="DAZN 2 (opção 2)" onclick="clicou4()" id="botao4"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="DAZN 3" onclick="clicou5()" id="botao5"></a>
+
+
 
       </div>
     </center>
@@ -438,6 +439,7 @@ input[type="text"] {
 
 
 
+
   
 
   
@@ -452,14 +454,14 @@ input[type="text"] {
       var player = window.document.querySelector("div#player")
     
     
-    
+     
 
       var video5 = ` <iframe
       src="https://embedflix.net/tv/dazn-3"
-      width="100%"
-  
+      width="100%" 
      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
       target="_blank"
+      scrolling="no"
           data-draggable="none"
           marginwidth="0"
           marginheight="0"
@@ -468,10 +470,11 @@ input[type="text"] {
       > </iframe>`  
 
       var video4 = ` <iframe
-      src="https://embedflix.net/tv/dazn-2"
+      src="https://reidoscanais.net/embed/?id=dazn2"
       width="100%" 
      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
       target="_blank"
+      scrolling="no"
           data-draggable="none"
           marginwidth="0"
           marginheight="0"
@@ -479,10 +482,8 @@ input[type="text"] {
           frameborder="0"
       > </iframe>`  
 
-
-
       var video3 = ` <iframe
-      src="./index3.html"
+      src="https://embedflix.net/tv/dazn-2"
       width="100%"
   
      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
@@ -496,7 +497,7 @@ input[type="text"] {
       > </iframe>`
     
       var video2 = ` <iframe
-      src="https://playertv.net/tv.php?c=dazn"
+      src="<iframe src="https://reidoscanais.net/embed/?id=dazn"
       width="100%"
   
      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
@@ -512,7 +513,7 @@ input[type="text"] {
       var video = `<iframe
       src="https://embedflix.net/tv/dazn"
       width="100%"
-  
+      scrolling="no"
       allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
       target="_blank"
           data-draggable="none"
