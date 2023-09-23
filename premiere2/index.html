@@ -410,6 +410,7 @@ input[type="text"] {
       <div class="bot" style="margin: 10px; background-color: #4267B2; border-radius: 10px;">
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Opção 1" onclick="clicou1()" id="botao1"></a>
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Opção 2" onclick="clicou2()" id="botao2"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Opção 3" onclick="clicou3()" id="botao3"></a>
 
 
        
@@ -427,6 +428,13 @@ input[type="text"] {
         document.getElementById("botao2").classList.add("active");
         player.innerHTML = video2
       }
+
+      function clicou3() {
+        removerAtivo();
+        document.getElementById("botao3").classList.add("active");
+        player.innerHTML = video3
+      }
+  
   
 
   
