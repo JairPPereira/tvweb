@@ -401,7 +401,7 @@ input[type="text"] {
     }
       </script> 
       <div class="text-center-xs" style="padding: 2px;">
-          <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;PREMIERE CLUBE</h1>
+          <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;PREMIERE 2</h1>
           <section class="video bg-silver b-radius-5 padding-5">
             <div id="player">
         
@@ -410,8 +410,7 @@ input[type="text"] {
       <div class="bot" style="margin: 10px; background-color: #4267B2; border-radius: 10px;">
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Opção 1" onclick="clicou1()" id="botao1"></a>
         <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Opção 2" onclick="clicou2()" id="botao2"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Opção 3" onclick="clicou3()" id="botao3"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Opção 4" onclick="clicou4()" id="botao4"></a>
+
 
        
       </div>
@@ -429,17 +428,6 @@ input[type="text"] {
         player.innerHTML = video2
       }
   
-      function clicou3() {
-        removerAtivo();
-        document.getElementById("botao3").classList.add("active");
-        player.innerHTML = video3
-      }
-
-      function clicou4() {
-        removerAtivo();
-        document.getElementById("botao4").classList.add("active");
-        player.innerHTML = video4
-      }
 
   
       function removerAtivo() {
@@ -456,36 +444,10 @@ input[type="text"] {
     
 
 
-      var video4 = ` <iframe
-      src="https://reidoscanais.com/embed/?id=premiereclubesalternativo"
-      width="100%"
-  
-     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-      target="_blank"
-          scrolling="no"
-          data-draggable="none"
-          marginwidth="0"
-          marginheight="0"
-          data-popup="none" 
-          frameborder="0"
-      > </iframe>`
 
-      var video3 = ` <iframe
-      src="https://playertv.net/tv.php?c=premiere-op2"
-      width="100%"
-  
-     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-      target="_blank"
-          scrolling="no"
-          data-draggable="none"
-          marginwidth="0"
-          marginheight="0"
-          data-popup="none" 
-          frameborder="0"
-      > </iframe>`
     
       var video2 = ` <iframe
-      src="https://reidoscanais.com/embed/?id=premiereclubes"
+      src="https://reidoscanais.com/embed/?id=premiere2alternativo"
       width="100%"
   
      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
@@ -499,7 +461,7 @@ input[type="text"] {
       > </iframe>`
     
       var video = `<iframe
-      src="https://playertv.net/tv.php?c=premiere"
+      src="https://reidoscanais.com/embed/?id=premiere2"
       width="100%"
   
       allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
