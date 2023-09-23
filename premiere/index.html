@@ -401,22 +401,17 @@ input[type="text"] {
     }
       </script> 
       <div class="text-center-xs" style="padding: 2px;">
-          <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;PREMIERE</h1>
+          <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;PREMIERE CLUBE</h1>
           <section class="video bg-silver b-radius-5 padding-5">
             <div id="player">
         
               </div></div>
     <center>
       <div class="bot" style="margin: 10px; background-color: #4267B2; border-radius: 10px;">
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Premiere" onclick="clicou1()" id="botao1"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Premiere 2" onclick="clicou2()" id="botao2"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Premiere 3" onclick="clicou3()" id="botao3"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Premiere 4" onclick="clicou4()" id="botao4"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Premiere 5" onclick="clicou5()" id="botao5"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Premiere 6" onclick="clicou6()" id="botao6"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Premiere 7" onclick="clicou7()" id="botao7"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Premiere 8" onclick="clicou8()" id="botao8"></a>
-        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Premiere Op 2" onclick="clicou9()" id="botao9"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Opção 1" onclick="clicou1()" id="botao1"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Opção 2" onclick="clicou2()" id="botao2"></a>
+        <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="Opção 3" onclick="clicou3()" id="botao3"></a>
+
        
       </div>
     </center>
@@ -438,37 +433,7 @@ input[type="text"] {
         document.getElementById("botao3").classList.add("active");
         player.innerHTML = video3
       }
-  
-      function clicou4() {
-        removerAtivo();
-        document.getElementById("botao4").classList.add("active");
-        player.innerHTML = video4
-      }
-      function clicou5() {
-        removerAtivo();
-        document.getElementById("botao5").classList.add("active");
-        player.innerHTML = video5
-      }
-      function clicou6() {
-        removerAtivo();
-        document.getElementById("botao6").classList.add("active");
-        player.innerHTML = video6
-      }
-      function clicou7() {
-        removerAtivo();
-        document.getElementById("botao7").classList.add("active");
-        player.innerHTML = video7
-      }
-      function clicou8() {
-        removerAtivo();
-        document.getElementById("botao8").classList.add("active");
-        player.innerHTML = video8
-      }
-      function clicou9() {
-        removerAtivo();
-        document.getElementById("botao9").classList.add("active");
-        player.innerHTML = video9
-      }
+
 
   
       function removerAtivo() {
@@ -484,93 +449,9 @@ input[type="text"] {
     
     
 
-  
-      var video9 = ` <iframe
-      src="https://playertv.net/tv.php?c=premiere-op2"
-      width="100%"
-  
-     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-      target="_blank"
-          scrolling="no"
-          data-draggable="none"
-          marginwidth="0"
-          marginheight="0"
-          data-popup="none" 
-          frameborder="0"
-      > </iframe>`
-
-      var video8 = ` <iframe
-      src="https://playertv.net/tv.php?c=premiere8"
-      width="100%"
-  
-     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-      target="_blank"
-          scrolling="no"
-          data-draggable="none"
-          marginwidth="0"
-          marginheight="0"
-          data-popup="none" 
-          frameborder="0"
-      > </iframe>`
-
-      var video7 = ` <iframe
-      src="https://playertv.net/tv.php?c=premiere7"
-      width="100%"
-  
-     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-      target="_blank"
-          scrolling="no"
-          data-draggable="none"
-          marginwidth="0"
-          marginheight="0"
-          data-popup="none" 
-          frameborder="0"
-      > </iframe>`
-
-      var video6 = ` <iframe
-      src="https://playertv.net/tv.php?c=premiere6"
-      width="100%"
-  
-     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-      target="_blank"
-          scrolling="no"
-          data-draggable="none"
-          marginwidth="0"
-          marginheight="0"
-          data-popup="none" 
-          frameborder="0"
-      > </iframe>`
-
-      var video5 = ` <iframe
-      src="https://playertv.net/tv.php?c=premiere5"
-      width="100%"
-  
-     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-      target="_blank"
-          scrolling="no"
-          data-draggable="none"
-          marginwidth="0"
-          marginheight="0"
-          data-popup="none" 
-          frameborder="0"
-      > </iframe>`
-
-      var video4 = ` <iframe
-      src="https://playertv.net/tv.php?c=premiere4"
-      width="100%"
-  
-     allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-      target="_blank"
-          scrolling="no"
-          data-draggable="none"
-          marginwidth="0"
-          marginheight="0"
-          data-popup="none" 
-          frameborder="0"
-      > </iframe>`
 
       var video3 = ` <iframe
-      src="https://playertv.net/tv.php?c=premiere3"
+      src="https://playertv.net/tv.php?c=premiere-op2"
       width="100%"
   
      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
@@ -584,7 +465,7 @@ input[type="text"] {
       > </iframe>`
     
       var video2 = ` <iframe
-      src="https://playertv.net/tv.php?c=premiere2"
+      src="https://reidoscanais.com/embed/?id=premiereclubes"
       width="100%"
   
      allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
