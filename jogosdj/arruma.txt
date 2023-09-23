@@ -1,22 +1,18 @@
 
-###############################################################################################
 
-
-
-#############################################################################################
-
-Sábado
 
 10:00	Milan x Hellas Verona | https://sportsonline.so/channels/bra/br2.php
 10:30	Bayern München x Bochum | https://sportsonline.so/channels/bra/br3.php
+10:30	Borussia Dortmund x Wolfsburg | https://sportsonline.so/channels/bra/br1.php
 11:00	Manchester City x Nottingham Forest | https://sportsonline.so/channels/bra/br4.php
 13:00	Sassuolo x Juventus | https://sportsonline.so/channels/bra/br2.php
-13:30	Barcelona x Celta de Vigo | https://sportsonline.so/channels/bra/br3.php 
+13:30	Barcelona x Celta de Vigo | https://sportsonline.so/channels/bra/br3.php  
 13:30	Brentford x Everton | https://sportsonline.so/channels/bra/br4.php
 13:30	Werder Bremen x Köln | https://sportsonline.so/channels/bra/br1.php
 16:00	Burnley x Manchester United | https://sportsonline.so/channels/bra/br4.php
+20:00   UFC Fight Night: Prelims | https://sportsonline.so/channels/bra/br4.php
+20:00   UFC Fight Night: Rafael Fiziev vs Mateusz Gamrot | https://sportsonline.so/channels/bra/br4.php
+20:00   MLB: Mariners @ Rangers | https://sportsonline.so/channels/hd/hd2.php
+21:00	Atlético Mineiro x Cuiabá | https://sportsonline.so/channels/bra/br1.php
 21:00	Chapecoense x Ceará | https://sportsonline.so/channels/bra/br2.php
 21:00	CRB x Guarani | https://sportsonline.so/channels/bra/br3.php
-22:00   UFC Fight Night: Prelims | https://sportsonline.so/channels/bra/br4.php
-20:00   UFC Fight Night: Rafael Fiziev vs Mateusz Gamrot | https://sportsonline.so/channels/bra/br4.php
-21:00	Atlético Mineiro x Cuiabá | https://sportsonline.so/channels/bra/br1.php
