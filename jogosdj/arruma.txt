@@ -1,27 +1,7 @@
 
 
 
-
-09:30	Ajax x Feyenoord | https://sportsonline.so/channels/bra/br1.php
-10:00	Arsenal x Tottenham Hotspur | https://sportsonline.so/channels/bra/br2.php
-10:00	Liverpool x West Ham United | https://sportsonline.so/channels/bra/br4.php
-10:00	Chelsea x Aston Villa | https://sportsonline.so/channels/bra/br3.php
-12:30	Sheffield United x Newcastle United | https://sportsonline.so/channels/bra/br4.php
-13:00	Bologna x Napoli | https://sportsonline.so/channels/bra/br3.php
-15:45	PSG x Olympique Marseille | https://sportsonline.so/channels/bra/br3.php
-16:00	Atlético Madrid x Real Madrid | https://sportsonline.so/channels/bra/br4.php
-16:00	São Paulo x Flamengo | https://sportsonline.so/channels/bra/br1.php
-16:00	São Paulo x Flamengo | https://sportsonline.so/channels/bra/br2.php
-
-
-
-
-14:00	Arsenal x Tottenham Hotspur | https://sportsonline.so/channels/bra/br2.php
-14:00	Liverpool x West Ham United | https://sportsonline.so/channels/bra/br4.php
-14:00	Chelsea x Aston Villa | https://sportsonline.so/channels/bra/br3.php
-16:30	Sheffield United x Newcastle United | https://sportsonline.so/channels/bra/br4.php
-17:00	Bologna x Napoli | https://sportsonline.so/channels/bra/br3.php
-19:45	PSG x Olympique Marseille | https://sportsonline.so/channels/bra/br3.php
-20:00	Atlético Madrid x Real Madrid | https://sportsonline.so/channels/bra/br4.php
-20:00	São Paulo x Flamengo | https://sportsonline.so/channels/bra/br1.php
-20:00	São Paulo x Flamengo | https://sportsonline.so/channels/bra/br2.php
+18:30	Avaí x Juventude | https://sportsonline.so/channels/bra/br2.php
+20:00	América Mineiro x Vasco da Gama | https://sportsonline.so/channels/bra/br1.php
+21:00	Novorizontino x ABC | https://sportsonline.so/channels/bra/br2.php
+21:15   NFL: Bengals @ Rams | https://sportsonline.so/channels/bra/br3.php
