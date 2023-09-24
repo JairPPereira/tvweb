@@ -5,15 +5,15 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
         <meta name="theme-color" content="#000000">
     
-        <meta name="apple-mobile-web-app-title" content="Rádio UEPA">
+        <meta name="apple-mobile-web-app-title" content="JPMUSIC-PASSADO">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         <!--    <link rel="apple-touch-startup-image" href="img/bg-apple.jpg">-->
     
     
-        <title>Rádio UEPA</title>
-        <meta name="description" content="Rádio UEPA" />
+        <title>JPMUSIC-PASSADO</title>
+        <meta name="description" content="JPMUSIC-PASSADO" />
 
 
         <!-- CSS  -->
@@ -47,8 +47,31 @@
             gtag('config', 'UA-26467057-1');
     
         </script>
-       
-       
+        <script>
+            ! function(f, b, e, v, n, t, s) {
+                if (f.fbq) return;
+                n = f.fbq = function() {
+                    n.callMethod ?
+                        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                };
+                if (!f._fbq) f._fbq = n;
+                n.push = n;
+                n.loaded = !0;
+                n.version = '2.0';
+                n.queue = [];
+                t = b.createElement(e);
+                t.async = !0;
+                t.src = v;
+                s = b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t, s)
+            }(window,
+                document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '1354815787929724'); // Insert your pixel ID here.
+            fbq('track', 'PageView');
+    
+        </script>
+        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1354815787929724&ev=PageView&noscript=1" /></noscript>
+        <!--    <script type="text/javascript" src="//ads.vidoomy.com/radioclubedopara_6218.js" ></script>-->
     </head>
     
     <body>
@@ -66,34 +89,37 @@
         </div>
         <div class="bg"></div>
         <div class="efeito-bg"></div>
-        <div class="logo">
-           
-        </div>
-        <div class="play">
-            <div class="info-central">
-                <span>RÁDIO</span><center>
-                <h3>  _UEPA</h3></center>
-                <span></span>
-            </div>
-            <div class="dotted um"></div>
-            <div class="dotted dois"></div>
-            <div class="dotted tres"></div>
-            <div class="dotted quatro"></div>
-            <div class="dotted cinco"></div>
+        <div class="logo" style="float: left">
+           <h3 style="color: white;">RÁDIO UEPA</h3>
+           <div class="logo" style="float: right; padding-left:200px;" >
             <div class="bt-controls">
                 <a href="#" class="btn-refresh"><i class="material-icons">refresh</i></a>
                 <a class="btn play" href="#" id="playBtn"><i class="material-icons">play_arrow</i></a>
-                <a class="btn pause" href="#" id="pauseBtn" style="display:none;"><i class="material-icons">pause</i></a>
+                <a class="btn pause" href="#" id="pauseBtn" style="display:none"><i class="material-icons">pause</i></a>
                 <a class="btn loading" href="#">
                     <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
                 </a>
                
             </div>
-            <div class="info-ouvintes">
-                <span>Rádio UEPA</span>
-            </div>
+            
+   
+         </div>
+  
         </div>
+  
+        <div class="play">
+            
+            <div class="dotted um"></div>
+            <div class="dotted dois"></div>
+            <div class="dotted tres"></div>
+            <div class="dotted quatro"></div>
+            <div class="dotted cinco"></div>
+     
+   
+        </div>
+      
         <div class="md-overlay"></div>
+       
         <!--  Scripts-->
         <script src="js/jquery.js"></script>
         <script src="js/classie.js"></script>
