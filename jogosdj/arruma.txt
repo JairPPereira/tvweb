@@ -1,7 +1,7 @@
 
 
-02:00   Japanese F1 Grand Prix | https://sportsonline.so/channels/bra/br2.php
-07:30	Empoli x Internazionale | https://sportsonline.so/channels/bra/br4.php
+
+
 09:30	Ajax x Feyenoord | https://sportsonline.so/channels/bra/br1.php
 10:00	Arsenal x Tottenham Hotspur | https://sportsonline.so/channels/bra/br2.php
 10:00	Liverpool x West Ham United | https://sportsonline.so/channels/bra/br4.php
@@ -12,3 +12,16 @@
 16:00	Atlético Madrid x Real Madrid | https://sportsonline.so/channels/bra/br4.php
 16:00	São Paulo x Flamengo | https://sportsonline.so/channels/bra/br1.php
 16:00	São Paulo x Flamengo | https://sportsonline.so/channels/bra/br2.php
+
+
+
+
+14:00	Arsenal x Tottenham Hotspur | https://sportsonline.so/channels/bra/br2.php
+14:00	Liverpool x West Ham United | https://sportsonline.so/channels/bra/br4.php
+14:00	Chelsea x Aston Villa | https://sportsonline.so/channels/bra/br3.php
+16:30	Sheffield United x Newcastle United | https://sportsonline.so/channels/bra/br4.php
+17:00	Bologna x Napoli | https://sportsonline.so/channels/bra/br3.php
+19:45	PSG x Olympique Marseille | https://sportsonline.so/channels/bra/br3.php
+20:00	Atlético Madrid x Real Madrid | https://sportsonline.so/channels/bra/br4.php
+20:00	São Paulo x Flamengo | https://sportsonline.so/channels/bra/br1.php
+20:00	São Paulo x Flamengo | https://sportsonline.so/channels/bra/br2.php
