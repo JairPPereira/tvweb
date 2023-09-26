@@ -1,15 +1,27 @@
 
-14:00	Sevilla x Almería | https://sportsonline.so/channels/pt/eleven1.php
-14:30	İstanbulspor x Galatasaray | https://sportsonline.so/channels/pt/sporttv1.php
-15:45	Ipswich Town x Wolverhampton Wanderers | https://sportsonline.so/channels/pt/sporttv5.php 
-15:45	Juventus x Lecce | https://sportsonline.so/channels/bra/br4.php
-15:45	Preußen Münster x Bayern München | https://sportsonline.so/channels/bra/br1.php
-16:00	Manchester United x Crystal Palace | https://sportsonline.so/channels/bra/br3.php
-16:00	Lille x Reims | https://sportsonline.so/channels/pt/eleven3.php
-16:00   Benfica Youth x Sporting Youth | https://sportsonline.so/channels/pt/btv.php
-16:10	AVS x Arouca | https://sportsonline.so/channels/pt/sporttv1.php
-16:30	Mallorca x Barcelona | https://sportsonline.so/channels/bra/br2.php
-21:30	Corinthians x Fortaleza | https://sportsonline.so/channels/bra/br2.php
-21:30	Corinthians x Fortaleza | https://sportsonline.so/channels/bra/br1.php
+13:30	Hellas Verona x Atalanta | https://sportsonline.so/channels/pt/sporttv5.php
+13:30	Cagliari x Milan | https://sportsonline.so/channels/bra/br4.php
+13:30	Empoli x Salernitana | https://sportsonline.so/channels/pt/sporttv4.php
+14:00	Real Madrid x Las Palmas | https://sportsonline.so/channels/bra/br2.php
+14:00	Athletic Club x Getafe | https://sportsonline.so/channels/pt/eleven2.php
+14:00	Adana Demirspor x Beşiktaş | https://sportsonline.so/channels/pt/sporttv2.php
+15:00	Farense x Tondela | https://sportsonline.so/channels/pt/sporttv1.php
+15:45	Internazionale x Sassuolo | https://sportsonline.so/channels/pt/eleven3.php
+15:45	Brentford x Arsenal | https://sportsonline.so/channels/bra/br4.php
+15:40	Chelsea x Brighton & Hove Albion | https://sportsonline.so/channels/bra/br3.php
+15:45	Liverpool x Leicester City | https://sportsonline.so/channels/bra/br1.php
+16:00	Newcastle United x Manchester City | https://sportsonline.so/channels/bra/br2.php
+16:30	Valencia x Real Sociedad | https://sportsonline.so/channels/pt/eleven1.php
+16:30	Cádiz x Rayo Vallecano | https://sportsonline.so/channels/pt/eleven2.php
+16:45	Leixões x Estoril | https://sportsonline.so/channels/pt/sporttv3.php
+19:00	São Paulo x Coritiba | https://sportsonline.so/channels/bra/br2.php
+19:00	São Paulo x Coritiba | https://sportsonline.so/channels/bra/br3.php
+19:00	LDU Quito x Defensa y Justicia | https://sportsonline.so/channels/pt/sporttv2.php
+21:30	Fluminense x Internacional | https://sportsonline.so/channels/bra/br1.php
+21:30	Fluminense x Internacional | https://sportsonline.so/channels/bra/br2.php
+21:30	Inter Miami x Houston Dynamo | https://sportsonline.so/channels/bra/br4.php
+
+
+
 
 
