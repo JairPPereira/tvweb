@@ -1,27 +1,17 @@
 
-13:30	Hellas Verona x Atalanta | https://sportsonline.so/channels/pt/sporttv5.php
-13:30	Cagliari x Milan | https://sportsonline.so/channels/bra/br4.php
-13:30	Empoli x Salernitana | https://sportsonline.so/channels/pt/sporttv4.php
-14:00	Real Madrid x Las Palmas | https://sportsonline.so/channels/bra/br2.php
-14:00	Athletic Club x Getafe | https://sportsonline.so/channels/pt/eleven2.php
-14:00	Adana Demirspor x Beşiktaş | https://sportsonline.so/channels/pt/sporttv2.php
-15:00	Farense x Tondela | https://sportsonline.so/channels/pt/sporttv1.php
-15:45	Internazionale x Sassuolo | https://sportsonline.so/channels/pt/eleven3.php
-15:45	Brentford x Arsenal | https://sportsonline.so/channels/bra/br4.php
-15:40	Chelsea x Brighton & Hove Albion | https://sportsonline.so/channels/bra/br3.php
-15:45	Liverpool x Leicester City | https://sportsonline.so/channels/bra/br1.php
-16:00	Newcastle United x Manchester City | https://sportsonline.so/channels/bra/br2.php
-16:30	Valencia x Real Sociedad | https://sportsonline.so/channels/pt/eleven1.php
-16:30	Cádiz x Rayo Vallecano | https://sportsonline.so/channels/pt/eleven2.php
-16:45	Leixões x Estoril | https://sportsonline.so/channels/pt/sporttv3.php
-19:00	São Paulo x Coritiba | https://sportsonline.so/channels/bra/br2.php
-19:00	São Paulo x Coritiba | https://sportsonline.so/channels/bra/br3.php
-19:00	LDU Quito x Defensa y Justicia | https://sportsonline.so/channels/pt/sporttv2.php
-21:30	Fluminense x Internacional | https://sportsonline.so/channels/bra/br1.php
-21:30	Fluminense x Internacional | https://sportsonline.so/channels/bra/br2.php
-21:30	Inter Miami x Houston Dynamo | https://sportsonline.so/channels/bra/br4.php
 
 
-
-
-
+13:30	Monza x Bologna | https://sportsonline.so/channels/pt/sporttv5.php
+13:30	Frosinone x Fiorentina | https://sportsonline.so/channels/pt/sporttv1.php
+13:40   Handball: GOG x Telekom Veszprém | https://sportsonline.so/channels/pt/sporttv3.php
+14:00	Granada x Real Betis | https://sportsonline.so/channels/bra/br4.php
+14:00	Celta de Vigo x Deportivo Alavés | https://sportsonline.so/channels/pt/eleven2.php
+14:00	Fenerbahçe x İstanbul Başakşehir | https://sportsonline.so/channels/pt/sporttv2.php
+15:45	Genoa x Roma | https://sportsonline.so/channels/bra/br3.php 
+16:15	Estrela x Sporting Braga | https://sportsonline.so/channels/pt/sporttv1.php
+16:15	Casa Pia x Nacional | https://sportsonline.so/channels/pt/sporttv2.php
+16:30	Osasuna x Atlético Madrid | https://sportsonline.so/channels/bra/br4.php
+19:00	Mirassol x CRB | https://sportsonline.so/channels/bra/br3.php
+21:30	Boca Juniors x Palmeiras | https://sportsonline.so/channels/bra/br1.php
+21:30	Boca Juniors x Palmeiras | https://sportsonline.so/channels/bra/br2.php
+21:30	Londrina x Sampaio Corrêa | https://sportsonline.so/channels/bra/br3.php
