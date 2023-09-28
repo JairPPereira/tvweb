@@ -1,17 +1,15 @@
 
 
 
-13:30	Monza x Bologna | https://sportsonline.so/channels/pt/sporttv5.php
-13:30	Frosinone x Fiorentina | https://sportsonline.so/channels/pt/sporttv1.php
-13:40   Handball: GOG x Telekom Veszprém | https://sportsonline.so/channels/pt/sporttv3.php
-14:00	Granada x Real Betis | https://sportsonline.so/channels/bra/br4.php
-14:00	Celta de Vigo x Deportivo Alavés | https://sportsonline.so/channels/pt/eleven2.php
-14:00	Fenerbahçe x İstanbul Başakşehir | https://sportsonline.so/channels/pt/sporttv2.php
-15:45	Genoa x Roma | https://sportsonline.so/channels/bra/br3.php 
-16:15	Estrela x Sporting Braga | https://sportsonline.so/channels/pt/sporttv1.php
-16:15	Casa Pia x Nacional | https://sportsonline.so/channels/pt/sporttv2.php
-16:30	Osasuna x Atlético Madrid | https://sportsonline.so/channels/bra/br4.php
-19:00	Mirassol x CRB | https://sportsonline.so/channels/bra/br3.php
-21:30	Boca Juniors x Palmeiras | https://sportsonline.so/channels/bra/br1.php
-21:30	Boca Juniors x Palmeiras | https://sportsonline.so/channels/bra/br2.php
-21:30	Londrina x Sampaio Corrêa | https://sportsonline.so/channels/bra/br3.php
+12:00	Al Ta'ee x Al Nassr | https://sportsonline.so/channels/bra/br3.php
+13:30	Paderborn x Schalke 04 | https://sportsonline.so/channels/pt/eleven2.php
+13:30	Hamburger SV x Fortuna Düsseldorf | https://sportsonline.so/channels/pt/eleven1.php
+14:00	Vilaverdense x Benfica B | https://sportsonline.so/channels/pt/sporttv2.php
+14:30   WRC: Chile - Super Special 5/5 & 6 | https://sportsonline.so/channels/pt/sporttv4.php
+15:30	Hoffenheim x Borussia Dortmund | https://sportsonline.so/channels/bra/br1.php
+15:00	Al Hilal x Al Shabab | https://sportsonline.so/channels/bra/br3.php
+16:00	Barcelona x Sevilla | https://sportsonline.so/channels/bra/br2.php
+16:15	Benfica x Porto | https://sportsonline.so/channels/bra/br4.php
+16:00	Strasbourg x Lens | https://sportsonline.so/channels/pt/eleven3.php
+19:00	Avaí x Sport Recife | https://sportsonline.so/channels/bra/br1.php
+21:30	Vitória x Tombense | https://sportsonline.so/channels/bra/br1.php
