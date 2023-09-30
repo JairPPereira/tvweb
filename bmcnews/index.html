@@ -258,7 +258,8 @@ body{
       #player {
           aspect-ratio: 16/9;
            border: none;
-           width: 100%;
+           max-width: 832px;
+           max-height:480px;
            background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
            background-size: cover;
            background-position: center;
@@ -266,24 +267,16 @@ body{
         iframe {
           aspect-ratio: 16/9;
           border: none;
-          width: 100%; 
+          max-width: 832px;
+          max-height:468px;
           background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV48iwZh0dWRF-KeZ3sv7EsbgzXdxDuuDyM8cg4KtnmBAzxDMhsHLI2fMlUWlQ0PuUHfp8145DhlA4LrE01zjiA8HoLJMkbglLJYA1_oIGoCLyJOjEycqTrlLJ2xwdgbmSWJ9CLgYobzIgBiLOHl6LPfKtMyrsbpRuJOXhsl_3l6kddYTFyZLlwW8/s320/Amarelo%20Magenta%20Preto%20Branco%20Neon%20Scifi%20Guia%20Miniatura%20para%20YouTube.png);
   
           background-size: cover;
           background-position: center;     
       }
     
-    @media(max-width: 782px) {
-      .single .post-body .video {
-          height:400px
-      }
-  }
-  
-  @media(max-width: 569px) {
-      .single .post-body .video {
-          height:300px
-      }
-  }
+
+
       /* Estilize o botão com a cor #4ad100, bordas arredondadas e outros estilos desejados */
 button {
   background-color: #43bd00;
@@ -398,19 +391,28 @@ input[type="text"] {
         xhr.send();
     }
       </script>
-    <div class="text-center-xs" style="padding: 2px;">
-    <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;BMC BRASIL</h1>
+      <div class="text-center-xs" style="padding: 2px;"><center>
+        <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;BMC BRASIL</h1>
+        <script src="https://player.twitch.tv/js/embed/v1.js"></script>
+      <section class="video bg-silver b-radius-5 padding-5" style="max-width: 832px;">
+        <div id="twitch-embed" style="width: 100%;"></div>
+    </section>
+            </div>
+            
+       
+            </center></div>
+ 
     <script src="https://player.twitch.tv/js/embed/v1.js"></script>
-    <section class="video bg-silver b-radius-5 padding-5">
-      <div class="container" width="100%">
+    
+      
   
       <!-- Create a Twitch.Player object. This will render within the placeholder div -->
-      <div id="twitch-embed" style="width: 100%;"></div>
+      
   <script type="text/javascript">
     new Twitch.Player("twitch-embed", {
       channel: "bmcnewsbrasil",
       width:"100%",
-      height:"620px"
+      
   
   
     });
