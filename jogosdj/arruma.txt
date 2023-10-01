@@ -1,38 +1,19 @@
 
 
 
-07:00	Academico Viseu x AVS | https://sportsonline.so/channels/pt/sporttv1.php
-07:00   ATP Challenger Tour: Braga Open - Final | https://sportsonline.so/channels/pt/sporttv3.php
-08:00	Blackburn Rovers x Leicester City | https://sportsonline.so/channels/bra/br4.php
-08:00	Reims x Olympique Lyonnais | https://sportsonline.so/channels/pt/eleven1.php
-08:00   WRC: Chile - Super Special 09 | https://sportsonline.so/channels/pt/sporttv5.php 
-08:30	Nürnberg x Magdeburg | https://sportsonline.so/channels/pt/eleven2.php
-09:00	Almería x Granada | https://sportsonline.so/channels/pt/eleven3.php
-09:00   WRC: Chile - Super Special 10 | https://sportsonline.so/channels/pt/sporttv5.php 
-10:00	Fenerbahçe x Rizespor | https://sportsonline.so/channels/pt/sporttv3.php
-10:00	Nottingham Forest x Brentford | https://sportsonline.so/channels/bra/br3.php
-10:00	Udinese x Genoa | https://sportsonline.so/channels/pt/sporttv2.php
-10:30	Darmstadt 98 x Werder Bremen | https://sportsonline.so/channels/pt/eleven2.php
-11:15	Deportivo Alavés x Osasuna | https://sportsonline.so/channels/pt/eleven3.php
-11:30	Arouca x Chaves | https://sportsonline.so/channels/pt/sporttv1.php
-11:30   WRC: Chile - Super Special 15 | https://sportsonline.so/channels/pt/sporttv5.php
-12:30	Freiburg x Augsburg | https://sportsonline.so/channels/pt/eleven2.php
-12:45   Rugby World Cup: Australia x Portugal | https://sportsonline.so/channels/pt/sporttv3.php
-13:00	Atalanta x Juventus | https://sportsonline.so/channels/bra/br4.php
-13:00   WRC: Chile - Power Stage | https://sportsonline.so/channels/pt/sporttv4.php
-13:30   Basketball: Real Madrid @ Barcelona | https://sportsonline.so/channels/pt/eleven3.php
-14:00	Boca Juniors x River Plate | https://sportsonline.so/channels/bra/br3.php
-14:00	Vitória Guimarães x Estoril | https://sportsonline.so/channels/pt/sporttv1.php
-15:00   NASCAR Cup Series: Yellawood 500 - Talladega | https://sportsonline.so/channels/pt/sporttv4.php
-15:45	Roma x Frosinone | https://sportsonline.so/channels/pt/sporttv2.php
-15:45	Rennes x Nantes | https://sportsonline.so/channels/pt/eleven2.php
-15:45   Rugby World Cup: South Africa x Tonga | https://sportsonline.so/channels/pt/sporttv3.php
-16:00	Atlético Madrid x Cádiz | https://sportsonline.so/channels/bra/br4.php
-16:00	Santos x Vasco da Gama | https://sportsonline.so/channels/bra/br1.php
-16:00	Cruzeiro x América Mineiro | https://sportsonline.so/channels/bra/br2.php
-16:00	Coritiba x Athletico-PR | https://sportsonline.so/channels/bra/br3.php
-16:00   LPGA: Walmart NW Arkansas Championship - D3 | https://sportsonline.so/channels/pt/sporttv5.php
-16:30	Rio Ave x Moreirense | https://sportsonline.so/channels/pt/sporttv1.php
-18:00	Ceará x Atlético Goianiense | https://sportsonline.so/channels/bra/br4.php
-18:30	RB Bragantino x Palmeiras | https://sportsonline.so/channels/bra/br1.php
-21:20   NFL: Jets @ Chiefs | https://sportsonline.so/channels/pt/eleven1.php
+13:00	Sepahan x Al Ittihad | https://sportsonline.so/channels/bra/br3.php
+13:30	Torino x Hellas Verona | https://sportsonline.so/channels/bra/br1.php
+13:30	Sassuolo x Monza | https://sportsonline.so/channels/pt/sporttv2.php
+14:00	Penafiel x Nacional | https://sportsonline.so/channels/pt/sporttv5.php
+15:00	Al Nassr x Istiqlol | https://sportsonline.so/channels/bra/br2.php
+15:45	Fiorentina x Cagliari | https://sportsonline.so/channels/bra/br1.php
+16:00	Fulham x Chelsea | https://sportsonline.so/channels/bra/br4.php
+16:00	Las Palmas x Celta de Vigo | https://sportsonline.so/channels/bra/br3.php
+16:00	Espanyol x Racing Ferrol | https://sportsonline.so/channels/pt/eleven3.php
+16:15	Gil Vicente x Casa Pia | https://sportsonline.so/channels/pt/sporttv1.php
+16:15	Torreense x Belenenses | https://sportsonline.so/channels/pt/sporttv2.php
+20:00	Botafogo x Goiás | https://sportsonline.so/channels/bra/br1.php
+20:00	Botafogo x Goiás | https://sportsonline.so/channels/bra/br2.php
+21:00	Platense x Argentinos Juniors | https://sportsonline.so/channels/bra/br3.php
+21:20   NFL: Seahawks @ Giants | https://sportsonline.so/channels/bra/br4.php
+
