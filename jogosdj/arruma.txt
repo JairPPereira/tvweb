@@ -1,19 +1,25 @@
 
 
-09:00	RB Leipzig U19 x Manchester City U19 | https://sportsonline.so/channels/pt/eleven1.php
-11:00	Newcastle United U19 x PSG U19 | https://sportsonline.so/channels/pt/eleven3.php
-11:00	Porto U19 x Barcelona U19 | https://sportsonline.so/channels/pt/eleven1.php
-11:00	Famalicão U19 x Midtjylland U19 | https://sportsonline.so/channels/pt/eleven2.php
-13:45	Atlético Madrid x Feyenoord | https://sportsonline.so/channels/bra/br1.php
-13:45	Antwerp x Shakhtar Donetsk | https://sportsonline.so/channels/bra/br2.php
-16:00	RB Leipzig x Manchester City | https://sportsonline.so/channels/bra/br2.php
-16:00	Newcastle United x PSG | https://sportsonline.so/channels/bra/br4.php
-16:00	Borussia Dortmund x Milan | https://sportsonline.so/channels/bra/br3.php
-16:00	Porto x Barcelona | https://sportsonline.so/channels/bra/br1.php
-16:00	Celtic x Lazio | https://sportsonline.so/channels/pt/sporttv5.php
-16:00	Crvena Zvezda x Young Boys | https://sportsonline.so/channels/pt/sporttv3.php
-19:00	Defensa y Justicia x LDU Quito | https://sportsonline.so/channels/pt/sporttv1.php
-21:30	Internacional x Fluminense | https://sportsonline.so/channels/bra/br1.php
-21:30	Internacional x Fluminense | https://sportsonline.so/channels/bra/br2.php
+
+13:20   Volleyball: Benfica x Fonte Bastardo | https://sportsonline.so/channels/pt/sporttv3.php
+13:45	Olympique Marseille x Brighton & Hove Albion | https://sportsonline.so/channels/bra/br4.php
+13:45	Freiburg x West Ham United | https://sportsonline.so/channels/bra/br2.php
+13:45	AEK Athens x Ajax | https://sportsonline.so/channels/bra/br3.php
+13:45	Real Betis x Sparta Praha | https://sportsonline.so/channels/pt/sporttv4.php
+13:45	KÍ x Lille | https://sportsonline.so/channels/pt/sporttv5.php
+13:45	Sporting CP x Atalanta | https://sportsonline.so/channels/bra/br1.php
+14:00	Andorra x Real Zaragoza | https://sportsonline.so/channels/pt/eleven1.php
+15:45   Rugby World Cup: New Zealand x Uruguay | https://sportsonline.so/channels/pt/sporttv3.php
+16:00	Liverpool x Union Saint-Gilloise | https://sportsonline.so/channels/bra/br1.php
+16:00	Roma x Servette | https://sportsonline.so/channels/bra/br4.php
+16:00	Villarreal x Rennes | https://sportsonline.so/channels/bra/br3.php
+16:00	Molde x Bayer Leverkusen | https://sportsonline.so/channels/bra/br2.php
+16:30	Cartagena x Espanyol | https://sportsonline.so/channels/pt/eleven1.php
+19:15	Chapecoense x ABC | https://sportsonline.so/channels/bra/br3.php
+21:15   NFL: Chicago Bears @ Washington Commanders | https://sportsonline.so/channels/pt/eleven1.php
+21:30	Palmeiras x Boca Juniors | https://sportsonline.so/channels/bra/br1.php
+21:30	Palmeiras x Boca Juniors | https://sportsonline.so/channels/bra/br2.php
+21:30	Palmeiras x Boca Juniors | https://sportsonline.so/channels/bra/br4.php
+
 
 
