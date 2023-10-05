@@ -1,25 +1,24 @@
 
 
 
-13:20   Volleyball: Benfica x Fonte Bastardo | https://sportsonline.so/channels/pt/sporttv3.php
-13:45	Olympique Marseille x Brighton & Hove Albion | https://sportsonline.so/channels/bra/br4.php
-13:45	Freiburg x West Ham United | https://sportsonline.so/channels/bra/br2.php
-13:45	AEK Athens x Ajax | https://sportsonline.so/channels/bra/br3.php
-13:45	Real Betis x Sparta Praha | https://sportsonline.so/channels/pt/sporttv4.php
-13:45	KÍ x Lille | https://sportsonline.so/channels/pt/sporttv5.php
-13:45	Sporting CP x Atalanta | https://sportsonline.so/channels/bra/br1.php
-14:00	Andorra x Real Zaragoza | https://sportsonline.so/channels/pt/eleven1.php
-15:45   Rugby World Cup: New Zealand x Uruguay | https://sportsonline.so/channels/pt/sporttv3.php
-16:00	Liverpool x Union Saint-Gilloise | https://sportsonline.so/channels/bra/br1.php
-16:00	Roma x Servette | https://sportsonline.so/channels/bra/br4.php
-16:00	Villarreal x Rennes | https://sportsonline.so/channels/bra/br3.php
-16:00	Molde x Bayer Leverkusen | https://sportsonline.so/channels/bra/br2.php
-16:30	Cartagena x Espanyol | https://sportsonline.so/channels/pt/eleven1.php
-19:15	Chapecoense x ABC | https://sportsonline.so/channels/bra/br3.php
-21:15   NFL: Chicago Bears @ Washington Commanders | https://sportsonline.so/channels/pt/eleven1.php
-21:30	Palmeiras x Boca Juniors | https://sportsonline.so/channels/bra/br1.php
-21:30	Palmeiras x Boca Juniors | https://sportsonline.so/channels/bra/br2.php
-21:30	Palmeiras x Boca Juniors | https://sportsonline.so/channels/bra/br4.php
+
+12:00	Al Nassr x Abha |  https://sportsonline.so/channels/bra/br1.php
+13:00   F1: Qatar Qualifying | https://sportsonline.so/channels/bra/br3.php
+13:30	Empoli x Udinese | https://sportsonline.so/channels/pt/sporttv2.php
+13:30	Kaiserslautern x Hannover 96 | https://sportsonline.so/channels/pt/eleven1.php
+15:00	Al Ittihad x Al Ahli | https://sportsonline.so/channels/bra/br3.php
+15:30	Borussia M'gladbach x Mainz 05 | https://sportsonline.so/channels/bra/br2.php
+15:30   Basketball Euro League: Baskonia Vitoria-Gasteiz x Real Madrid | https://sportsonline.so/channels/pt/sporttv5.php
+15:45	Lecce x Sassuolo | https://sportsonline.so/channels/pt/sporttv2.php
+15:45   Rugby World Cup: France x Italy | https://sportsonline.so/channels/pt/sporttv3.php
+16:00	Strasbourg x Nantes | https://sportsonline.so/channels/pt/eleven3.php
+16:00	Athletic Club x Almería | https://sportsonline.so/channels/bra/br4.php
+16:15	Moreirense x Boavista  https://sportsonline.so/channels/pt/sporttv1.php
+17:00	Nacional W x Internacional RS W | https://sportsonline.so/channels/bra/br3.php
+19:30	Corinthians W x Colo-colo W | https://sportsonline.so/channels/bra/br3.php
+21:00   One Fight Championship | https://sportsonline.so/channels/pt/sporttv3.php
+21:30	CRB x Ceará | https://sportsonline.so/channels/bra/br1.php
+21:30	Atlético Goianiense x Ituano | https://sportsonline.so/channels/bra/br2.php
 
 
 
