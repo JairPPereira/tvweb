@@ -406,6 +406,7 @@ input[type="text"] {
                   <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="NOSSO FUTEBOL 3" onclick="clicou4()" id="botao4"></a>
                   <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="NOSSO FUTEBOL 4" onclick="clicou5()" id="botao5"></a>
                   <a class="btn btn-primary btn-sm" style="padding: 5px;"><input type="button" value="NOSSO FUTEBOL +" onclick="clicou6()" id="botao6"></a>
+                  <a class="btn btn-primary btn-sm" style="padding: 5px;" value="NOSSO" href="https://www.youtube.com/@NossoFutebolCanal" id="botao7"><input type="button" value="CANAL DO YOUTUBE" id="botao6"></a>
             
                 </div>
               </center></div>
@@ -446,6 +447,12 @@ input[type="text"] {
             document.getElementById("botao6").classList.add("active");
             player.innerHTML = video6
           }
+
+          function clicou7() {
+            removerAtivo();
+            document.getElementById("botao7").classList.add("active");
+            player.innerHTML = video7
+          }
     
     
     
@@ -465,6 +472,18 @@ input[type="text"] {
         
         
     
+          var video7 = ` <iframe
+          src="https://www.youtube.com/live/Bc4OMtZAYPY?si=r7vBmQFVSeFrqpDo"
+          width="100%"         
+         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+          target="_blank"
+              data-draggable="none"
+              marginwidth="0"
+              marginheight="0"
+              data-popup="none" 
+              frameborder="0"
+          > </iframe>` 
+
           var video6 = ` <iframe
           src="https://playertv.net/tv.php?c=nosso2"
           width="100%"
