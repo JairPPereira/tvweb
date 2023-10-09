@@ -1,11 +1,14 @@
-01:30   ATP World Tour 1000: Shangai | https://sportsonline.so/channels/pt/sporttv2.php
-16:00	Villarreal B x Espanyol | https://sportsonline.so/channels/pt/eleven1.php
-16:15	AVS x Penafiel | https://sportsonline.so/channels/pt/sporttv1.php
-17:00   Cruzeiro U20 x Fluminense U20 | https://sportsonline.so/channels/bra/br1.php
-19:30	Corinthians W x Always Ready W | https://sportsonline.so/channels/bra/br3.php
-19:30   América de Cali W x Internacional W | https://sportsonline.so/channels/bra/br4.php
-20:00	Sport Recife x Ponte Preta | https://sportsonline.so/channels/bra/br1.php
-21:20   NFL: Green Bay Packers v Las Vegas Raiders | https://sportsonline.so/channels/bra/br2.php
+
+
+
+
+13:55   EuroCup Basketball: Besiktas x Prometey | https://sportsonline.so/channels/pt/sporttv3.php
+15:45   NBA Pre-Season: Real Madrid @ Dallas Mavericks | https://sportsonline.so/channels/pt/sporttv1.php
+19:00   Corinthians U17 x Palmeiras U17 | https://sportsonline.so/channels/bra/br1.php
+20:00	Belgrano x Boca Juniors | https://sportsonline.so/channels/bra/br2.php
+21:30	ABC x Mirassol | https://sportsonline.so/channels/bra/br1.php
+33:00   NHL: Seattle Kraken @ Vegas Golden Knights | https://sportsonline.so/channels/pt/sporttv3.php
+
 
 
 
