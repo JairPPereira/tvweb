@@ -1,43 +1,36 @@
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
 		<loc>https://jptv.netlify.app/</loc>
-		<lastmod>2023-10-08T23:22:34+00:00</lastmod>
-		<changefreq>daily</changefreq>
+		<changefreq>always</changefreq>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://jptv.netlify.app/jornalismo</loc>
-		<lastmod>2023-10-08T23:22:34+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://jptv.netlify.app/tvaberta</loc>
-		<lastmod>2023-10-08T23:22:34+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://jptv.netlify.app/religiosos</loc>
-		<lastmod>2023-10-08T23:22:34+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://jptv.netlify.app/radios/</loc>
-		<lastmod>2023-10-08T23:22:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://jptv.netlify.app/tvfilmes</loc>
-		<lastmod>2023-10-08T23:22:34+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://jptv.netlify.app/estados</loc>
-		<lastmod>2023-10-08T23:22:34+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
