@@ -2,12 +2,15 @@
 
 
 
-13:55   EuroCup Basketball: Besiktas x Prometey | https://sportsonline.so/channels/pt/sporttv3.php
-15:45   NBA Pre-Season: Real Madrid @ Dallas Mavericks | https://sportsonline.so/channels/pt/sporttv1.php
-19:00   Corinthians U17 x Palmeiras U17 | https://sportsonline.so/channels/bra/br1.php
-20:00	Belgrano x Boca Juniors | https://sportsonline.so/channels/bra/br2.php
-21:30	ABC x Mirassol | https://sportsonline.so/channels/bra/br1.php
-33:00   NHL: Seattle Kraken @ Vegas Golden Knights | https://sportsonline.so/channels/pt/sporttv3.php
+
+15:45	Wales x Gibraltar | https://sportsonline.so/channels/bra/br3.php
+15:45   Handball: Kiel x Kielce | https://sportsonline.so/channels/pt/sporttv3.php
+16:30   Basketball: Benfica x Oliveirense | https://sportsonline.so/channels/pt/btv.php
+17:00	Atlético Nacional W x Palmeiras W | https://sportsonline.so/channels/bra/br2.php
+19:00   Flamengo U17 x São Paulo U17 | https://sportsonline.so/channels/bra/br1.php
+19:30	Universidad De Chile W x Santa Fe W | https://sportsonline.so/channels/bra/br2.php
+20:00   NHL: Toronto Maple Leaf @ Montreal Canadiens | https://sportsonline.so/channels/pt/sporttv1.php
+21:30   Vila Nova x Botafogo SP | https://sportsonline.so/channels/bra/br1.php
 
 
 
