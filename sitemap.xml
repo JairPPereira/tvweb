@@ -647,6 +647,10 @@
 		<loc>https://jptv.netlify.app/lifetime/</loc>
 		<changefreq>daily</changefreq>
 	</url>
+		<url>
+		<loc>https://jptv.netlify.app/viva/</loc>
+		<changefreq>daily</changefreq>
+	</url>
 	<url>
 		<loc>https://jptv.netlify.app/globonews2/index3.html</loc>
 		<changefreq>weekly</changefreq>
