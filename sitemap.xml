@@ -15,6 +15,10 @@
 		<loc>https://jptv.netlify.app/religiosos</loc>
 		<changefreq>daily</changefreq>
 	</url>
+		<url>
+		<loc>https://jptv.netlify.app/entretenimento</loc>
+		<changefreq>daily</changefreq>
+	</url>
 	<url>
 		<loc>https://jptv.netlify.app/radios/</loc>
 		<changefreq>weekly</changefreq>
