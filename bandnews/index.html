@@ -18,7 +18,7 @@
   <meta property="og:description" content="Assistir Band News AO VIVO." />
   <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
   <link rel="stylesheet" type="text/css" href="/infra.css">
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js" as="script">
   <link rel="preload" href="https://jptv.netlify.app/assets/plugins/jquery.maskedinput.min.js" as="script">
   <link rel="preload" href="https://jptv.netlify.app/assets/plugins/jquery.hc-sticky.min.js" as="script">
@@ -39,7 +39,83 @@
               function () { console.log("ExecutarFuncoes OK"); }
           ];
       </script>
+<style>
+body{
+  background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW_eJYF5umzRowlCeIvKVTZXrM5_gQjehSrzD-tTZj-DpZK3U305zljWWNbZhqsykwbNMUianHaGOw0W3p2skR7u1UM0fd65gbuyZuf4ctwGCnVdVPtbN3NA8tGw19XlxpXt_oAXs7_fEJ6d3qLKwosWvE70Mdfdj2Z1AKjEzdRarvwUOJ5wVIifevGQs/s1600/5026563.webp);
 
+}
+.bot {
+  margin: 10px;
+  background-color: #0000CD;
+  border-radius: 10px;
+}
+input[type="button"] {
+  background-color: #206100; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 8px;
+}
+
+input[type="button"].active {
+  background-color: #FF0000; /* Red */
+}
+#player {
+    aspect-ratio: 16/9;
+     border: none;
+     max-width: 832px;
+     max-height:480px;
+     background-color: black;
+     background-size: cover;
+     background-position: center;
+  }
+  iframe {
+    aspect-ratio: 16/9;
+    border: none;
+    max-width: 832px;
+    max-height:468px;
+    background-size: cover;
+    background-position: center;     
+}
+
+
+
+/* Estilize o botão com a cor #206100, bordas arredondadas e outros estilos desejados */
+button {
+background-color: #206100;
+color: white;
+border: none;
+border-radius: 5px;
+padding: 10px 20px;
+cursor: pointer;
+}
+button2 {
+background-color: #0000CD;
+color: white;
+border: none;
+border-radius: 5px;
+padding: 10px 20px;
+cursor: pointer;
+}
+/* Estilize a caixa de pesquisa com bordas arredondadas e outros estilos desejados */
+input[type="text"] {
+padding: 10px;
+border-radius: 5px;
+border: 1px solid #ccc;
+font-size: 18px;
+}
+
+
+/* Alinhe o elemento com a classe "search-item" à direita */
+.search-item {
+float: right;
+margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
+}
+</style>
 </head>
 <body>
   <div class="modal fade" id="modalDinamica" tabindex="-1" role="dialog" aria-labelledby="modalDinamica" aria-hidden="true">
