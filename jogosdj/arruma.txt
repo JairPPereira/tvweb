@@ -3,26 +3,23 @@
 
 
 
-08:00   ATP World Tour 250: Stockholm | https://sportsonline.so/channels/pt/sporttv3.php
+
+09:00   ATP World Tour 250: Stockholm | https://sportsonline.so/channels/pt/sporttv3.php
 09:00   ATP World Tour 250: Antwerp | https://sportsonline.so/channels/pt/sporttv5.php
-13:00	Finland x Kazakhstan | https://sportsonline.so/channels/bra/br4.php
-13:00	Estonia x Thailand | https://sportsonline.so/channels/bra/br2.php
-13:30   Basketball: AEK x MHP Riesen | https://sportsonline.so/channels/pt/sporttv2.php
-15:45	England x Italy | https://sportsonline.so/channels/bra/br1.php
-15:45	England x Italy | https://sportsonline.so/channels/bra/br3.php
-15:45	Northern Ireland x Slovenia | https://sportsonline.so/channels/pt/sporttv2.php
-15:45	Lithuania x Hungary | https://sportsonline.so/channels/pt/sporttv5.php
-15:45	Serbia x Montenegro | https://sportsonline.so/channels/bra/br4.php
-16:00	France x Scotland | https://sportsonline.so/channels/bra/br2.php
-18:00	Venezuela x Chile | https://sportsonline.so/channels/bra/br1.php
-18:00	Venezuela x Chile | https://sportsonline.so/channels/bra/br3.php
-19:30	Paraguay x Bolivia | https://sportsonline.so/channels/bra/br2.php
-20:30	Ecuador x Colombia | https://sportsonline.so/channels/pt/sporttv3.php
-21:00	Uruguay x Brazil | https://sportsonline.so/channels/bra/br1.php
-21:00	Uruguay x Brazil | https://sportsonline.so/channels/bra/br3.php
-21:00	Uruguay x Brazil | https://sportsonline.so/channels/bra/br4.php
-23:00	Peru x Argentina | https://sportsonline.so/channels/bra/br1.php
-23:00	Peru x Argentina | https://sportsonline.so/channels/bra/br3.php
+13:00   Euro Cup Basketball: Prometey x London Lions | https://sportsonline.so/channels/pt/sporttv1.php
+13:30	Sparta Praha W x Eintracht Frankfurt W | https://sportsonline.so/channels/hd/hd11.php
+15:00   Euro League Basketball: Red Star x Monaco | https://sportsonline.so/channels/pt/sporttv1.php
+15:30	Benfica W x Apollon Limassol W | https://sportsonline.so/channels/pt/btv.php
+15:30	Benfica W x Apollon Limassol W | https://sportsonline.so/channels/pt/eleven1.php
+15:45   Basketball: PSG x Aalborg | https://sportsonline.so/channels/pt/sporttv2.php
+17:00	Cerro Largo x La Luz | https://sportsonline.so/channels/hd/hd9.php
+19:00	Grêmio x Athletico-PR | https://sportsonline.so/channels/bra/br1.php
+20:00	América Mineiro x Botafogo | https://sportsonline.so/channels/bra/br2.php
+20:00	Coritiba x Cuiabá | https://sportsonline.so/channels/hd/hd11.php
+21:00	Inter Miami x Charlotte | https://sportsonline.so/channels/hd/hd2.php
+21:30	Vasco da Gama x Fortaleza | https://sportsonline.so/channels/bra/br1.php
+21:30	Goiás x São Paulo | https://sportsonline.so/channels/bra/br3.php
+21:30	Bahia x Internacional | https://sportsonline.so/channels/bra/br4.php
 23:00   ATP World Tour 500: Tokyo | https://sportsonline.so/channels/pt/sporttv2.php
 
 
