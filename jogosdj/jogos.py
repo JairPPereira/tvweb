@@ -1,22 +1,31 @@
 # Sua lista de texto
 lista_texto = """
-09:00   ATP World Tour 250: Stockholm | https://sportsonline.so/channels/pt/sporttv3.php
-09:00   ATP World Tour 250: Antwerp | https://sportsonline.so/channels/pt/sporttv5.php
-13:00   Euro Cup Basketball: Prometey x London Lions | https://sportsonline.so/channels/pt/sporttv1.php
-13:30	Sparta Praha W x Eintracht Frankfurt W | https://sportsonline.so/channels/hd/hd11.php
-15:00   Euro League Basketball: Red Star x Monaco | https://sportsonline.so/channels/pt/sporttv1.php
-15:30	Benfica W x Apollon Limassol W | https://sportsonline.so/channels/pt/btv.php
-15:30	Benfica W x Apollon Limassol W | https://sportsonline.so/channels/pt/eleven1.php
-15:45   Basketball: PSG x Aalborg | https://sportsonline.so/channels/pt/sporttv2.php
-17:00	Cerro Largo x La Luz | https://sportsonline.so/channels/hd/hd9.php
-19:00	Grêmio x Athletico-PR | https://sportsonline.so/channels/bra/br1.php
-20:00	América Mineiro x Botafogo | https://sportsonline.so/channels/bra/br2.php
-20:00	Coritiba x Cuiabá | https://sportsonline.so/channels/hd/hd11.php
-21:00	Inter Miami x Charlotte | https://sportsonline.so/channels/hd/hd2.php
-21:30	Vasco da Gama x Fortaleza | https://sportsonline.so/channels/bra/br1.php
-21:30	Goiás x São Paulo | https://sportsonline.so/channels/bra/br3.php
-21:30	Bahia x Internacional | https://sportsonline.so/channels/bra/br4.php
-23:00   ATP World Tour 500: Tokyo | https://sportsonline.so/channels/pt/sporttv2.php
+03:00   WXV Rugby: England x Australia | https://v2.sportsonline.so/channels/pt/sporttv3.php
+06:00   ATP World Tour 500: Tokyo | https://v2.sportsonline.so/channels/pt/sporttv2.php
+07:00   ATP World Tour 250: Stockholm | https://v2.sportsonline.so/channels/pt/sporttv1.php
+09:00   ATP World Tour 250: Antwerp | https://v2.sportsonline.so/channels/pt/sporttv4.php
+09:00   DP World Tour: Andalucia Masters - D2 | https://v2.sportsonline.so/channels/pt/sporttv3.php
+12:00   Al Taawon x Al Ittihad | https://v2.sportsonline.so/channels/bra/br3.php
+12:30   Lusitânia x Benfica | https://v2.sportsonline.so/channels/bra/br4.php
+13:30   Hannover 96 x Magdeburg | https://v2.sportsonline.so/channels/pt/eleven1.php
+14:00   F1: USA Practice 1 | https://v2.sportsonline.so/channels/bra/br3.php
+14:00   ATP World Tour 250: Antwerp | https://v2.sportsonline.so/channels/pt/sporttv2.php
+15:30   Borussia Dortmund x Werder Bremen | https://v2.sportsonline.so/channels/bra/br1.php
+16:00   Osasuna x Granada | https://v2.sportsonline.so/channels/pt/eleven2.php
+16:00   Rugby World Cup: Argentina x New Zealand | https://v2.sportsonline.so/channels/pt/sporttv3.php
+16:45   Vilar de Perdizes x Porto | https://v2.sportsonline.so/channels/bra/br4.php
+17:00   F1: USA Qualifying | https://v2.sportsonline.so/channels/pt/sporttv4.php
+17:00   Hockey: Sporting x Benfica | https://v2.sportsonline.so/channels/pt/eleven3.php
+18:00   F1: USA Qualifying | https://v2.sportsonline.so/channels/bra/br3.php
+19:00   Sampaio Corrêa x Vitória | https://v2.sportsonline.so/channels/bra/br1.php
+19:30   F1 Academy: USA Qualifying | https://v2.sportsonline.so/channels/pt/sporttv4.php
+19:45   MotoGP: Australia Qualifying | https://v2.sportsonline.so/channels/bra/br4.php
+21:30   Boca Juniors x Unión Santa Fe | https://v2.sportsonline.so/channels/pt/sporttv1.php
+21:30   Mirassol x Guarani | https://v2.sportsonline.so/channels/bra/br1.php
+21:30   Sport Recife x Chapecoense | https://v2.sportsonline.so/channels/bra/br2.php
+22:30   Moto2/3: Australia Qualifying | https://v2.sportsonline.so/channels/bra/br4.php
+00:00   WXV Rugby: Canada x Wales | https://v2.sportsonline.so/channels/pt/sporttv1.php
+00:40   MotoGP: Australia Sprint Race | https://v2.sportsonline.so/channels/bra/br4.php
 """
 
 # Divide as linhas em uma lista
