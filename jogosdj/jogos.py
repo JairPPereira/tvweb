@@ -1,30 +1,35 @@
 # Sua lista de texto
 lista_texto = """
-05:00   DP World Tour: Qatar Masters - D1 | https://v2.sportsonline.so/channels/pt/sporttv3.php
-09:00   ATP World Tour 500: Basel | https://v2.sportsonline.so/channels/pt/sporttv2.php
-09:00   WRC: Central European Rally - Super Special 1 | https://v2.sportsonline.so/channels/pt/sporttv4.php
-10:00   Judo: Grand Slam of Abu Dhabi - D3 | https://v2.sportsonline.so/channels/pt/sporttv5.php
-13:00   WRC: Central European Rally - Super Special 2 | https://v2.sportsonline.so/channels/pt/sporttv4.php
-13:45   Olympiakos Piraeus x West Ham United | https://v2.sportsonline.so/channels/bra/br5.php
-13:45   AZ x Aston Villa | https://v2.sportsonline.so/channels/bra/br3.php
-13:45   Lille x Slovan Bratislava | https://v2.sportsonline.so/channels/pt/eleven3.php
-13:45   Sturm Graz x Atalanta | https://v2.sportsonline.so/channels/pt/sporttv2.php
-13:45   Olympique Marseille x AEK Athens | https://v2.sportsonline.so/channels/pt/sporttv3.php 
-13:45   Raków Częstochowa x Sporting CP | https://v2.sportsonline.so/channels/bra/br2.php
-15:00   Al Ittihad x Al Hazm | https://v2.sportsonline.so/channels/pt/sporttv4.php
-16:00   Liverpool x Toulouse | https://v2.sportsonline.so/channels/bra/br1.php
-16:00   Brighton & Hove Albion x Ajax | https://v2.sportsonline.so/channels/bra/br4.php
-16:00   Bayer Leverkusen x Qarabağ | https://v2.sportsonline.so/channels/bra/br3.php
-16:00   Aberdeen x PAOK | https://v2.sportsonline.so/channels/pt/eleven3.php
-16:00   Roma x Slavia Praha | https://v2.sportsonline.so/channels/bra/br5.php
-19:00   Vasco da Gama x Internacional | https://v2.sportsonline.so/channels/bra/br1.php
-19:00   Vasco da Gama x Internacional | https://v2.sportsonline.so/channels/bra/br2.php
-19:00   ABC x Avaí | https://v2.sportsonline.so/channels/bra/br3.php
-20:30   NBA: Philadelphia 76ers @ Milwaukee Bucks | https://v2.sportsonline.so/channels/pt/sporttv2.php
-21:20   NFL: Tampa Bay Buccaneers @ Buffalo Bills | https://v2.sportsonline.so/channels/pt/eleven1.php
-21:30   Santos x Coritiba | https://v2.sportsonline.so/channels/bra/br1.php
-21:30   Santos x Coritiba | https://v2.sportsonline.so/channels/bra/br2.php
-23:00   MotoGP: GP of Thailand FP1 | https://v2.sportsonline.so/channels/bra/br5.php
+11:00   Arsenal x Sheffield United | https://v2.sportsonline.so/channels/bra/br5.php
+11:00   AFC Bournemouth x Burnley | https://v2.sportsonline.so/channels/bra/br2.php
+11:15   Barcelona x Real Madrid | https://v2.sportsonline.so/channels/bra/br3.php
+11:30   Portimonense x Estoril | https://v2.sportsonline.so/channels/pt/sporttv1.php
+11:30   Marítimo x Tondela | https://v2.sportsonline.so/channels/pt/sporttv5.php
+12:00   Al Feiha x Al Nassr | https://v2.sportsonline.so/channels/bra/br4.php
+13:00   Lecce x Torino | https://v2.sportsonline.so/channels/pt/sporttv2.php
+13:30   Wolverhampton Wanderers x Newcastle United | https://v2.sportsonline.so/channels/bra/br5.php
+13:30   RB Leipzig x Köln | https://v2.sportsonline.so/channels/pt/eleven2.php
+13:30   Mallorca x Getafe | https://v2.sportsonline.so/channels/pt/eleven3.php 
+14:00   Benfica x Casa Pia | https://v2.sportsonline.so/channels/pt/btv.php
+14:00   Vitória Guimarães x Chaves | https://v2.sportsonline.so/channels/pt/sporttv1.php
+14:15   F1: Mexico City Practice 3 | https://v2.sportsonline.so/channels/bra/br4.php
+15:30   Criciúma x Sampaio Corrêa | https://v2.sportsonline.so/channels/bra/br1.php
+15:30   Ituano x Mirassol | https://v2.sportsonline.so/channels/bra/br2.php
+15:45   Juventus x Hellas Verona | https://v2.sportsonline.so/channels/bra/br5.php
+16:00   Cádiz x Sevilla | https://v2.sportsonline.so/channels/pt/eleven1.php
+16:00   Lens x Nantes | https://v2.sportsonline.so/channels/pt/eleven2.php
+16:00   Rugby World Cup: New Zealand x South Africa | https://v2.sportsonline.so/channels/pt/sporttv3.php
+16:30   Gil Vicente x Sporting Braga | https://v2.sportsonline.so/channels/pt/sporttv1.php
+16:30   F1: Mexico City Qualifying | https://v2.sportsonline.so/channels/bra/br4.php
+16:30   NASCAR Xfinity Series: Dead on Tools 250 - Martinsville Raceway | https://v2.sportsonline.so/channels/pt/sporttv5.php
+17:00   Fortaleza x LDU Quito | https://v2.sportsonline.so/channels/bra/br3.php
+20:00   Boca Juniors x Estudiantes | https://v2.sportsonline.so/channels/bra/br5.php
+20:00   Palmeiras x Bahia | https://v2.sportsonline.so/channels/bra/br1.php
+20:00   América Mineiro x Grêmio | https://v2.sportsonline.so/channels/bra/br2.php
+20:00   NBA: New York Knicks @ New Orleans Pelicans | https://v2.sportsonline.so/channels/pt/sporttv1.php
+20:30   NBA: Indiana Pacers @ Cleveland Cavaliers | https://v2.sportsonline.so/channels/pt/sporttv3.php
+21:00   Atlético Mineiro x Fluminense | https://v2.sportsonline.so/channels/bra/br3.php
+00:15   Moto3: Grand Prix Of Thailand | https://v2.sportsonline.so/channels/bra/br5.php
 """
 
 # Divide as linhas em uma lista
