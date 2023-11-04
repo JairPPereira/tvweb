@@ -1,70 +1,52 @@
-#EXTINF:-1 tvg-name="CBN SP" tvg-logo="https://imgur.com/oDixZBA" group-title="NOTICIAS",CBN SP
-http://5ce.co:80/Ctina2718/Tina3619/217235
-#EXTINF:-1 tvg-name="Jovem Pan News SD" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="NOTICIAS",Jovem Pan News SD
-http://5ce.co:80/Ctina2718/Tina3619/203502
-#EXTINF:-1 tvg-name="Jovem Pan News  SD²" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="NOTICIAS",Jovem Pan News  SD²
-http://5ce.co:80/Ctina2718/Tina3619/203504
-#EXTINF:-1 tvg-name="24H News" tvg-logo="https://i.imgur.com/E88lXpq.png" group-title="NOTICIAS",24H News
-http://5ce.co:80/Ctina2718/Tina3619/180729
-#EXTINF:-1 tvg-name="AgroMais SD" tvg-logo="https://i.imgur.com/mrALijx.png" group-title="NOTICIAS",AgroMais SD
-http://5ce.co:80/Ctina2718/Tina3619/113603
-#EXTINF:-1 tvg-name="Band News SD" tvg-logo="https://fivetv.xyz/logos/bandnews.png" group-title="NOTICIAS",Band News SD
-http://5ce.co:80/Ctina2718/Tina3619/6639
-#EXTINF:-1 tvg-name="Band News SD²" tvg-logo="https://fivetv.xyz/logos/bandnews.png" group-title="NOTICIAS",Band News SD²
-http://5ce.co:80/Ctina2718/Tina3619/10868
-#EXTINF:-1 tvg-name="CNN Brasil SD" tvg-logo="http://70.ms/ZgY3Wr" group-title="NOTICIAS",CNN Brasil SD
-http://5ce.co:80/Ctina2718/Tina3619/70825
-#EXTINF:-1 tvg-name="CNN Brasil SD²" tvg-logo="http://70.ms/ZgY3Wr" group-title="NOTICIAS",CNN Brasil SD²
-http://5ce.co:80/Ctina2718/Tina3619/100445
-#EXTINF:-1 tvg-name="Globo News SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="NOTICIAS",Globo News SD
-http://5ce.co:80/Ctina2718/Tina3619/6568
-#EXTINF:-1 tvg-name="Globo News SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="NOTICIAS",Globo News SD²
-http://5ce.co:80/Ctina2718/Tina3619/36098
-#EXTINF:-1 tvg-name="Record News SD" tvg-logo="https://fivetv.xyz/logos/recordnews.png" group-title="NOTICIAS",Record News SD
-http://5ce.co:80/Ctina2718/Tina3619/6501
-#EXTINF:-1 tvg-name="Record News SD²" tvg-logo="https://fivetv.xyz/logos/recordnews.png" group-title="NOTICIAS",Record News SD²
-http://5ce.co:80/Ctina2718/Tina3619/10703
-#EXTINF:-1 tvg-name="Jovem Pan News HD" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="NOTICIAS",Jovem Pan News HD
-http://5ce.co:80/Ctina2718/Tina3619/203500
-#EXTINF:-1 tvg-name="Jovem Pan News  HD²" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="NOTICIAS",Jovem Pan News  HD²
-http://5ce.co:80/Ctina2718/Tina3619/203503
-#EXTINF:-1 tvg-name="AgroMais HD" tvg-logo="https://i.imgur.com/mrALijx.png" group-title="NOTICIAS",AgroMais HD
-http://5ce.co:80/Ctina2718/Tina3619/113602
-#EXTINF:-1 tvg-name="Band News HD" tvg-logo="https://fivetv.xyz/logos/bandnews.png" group-title="NOTICIAS",Band News HD
-http://5ce.co:80/Ctina2718/Tina3619/10867
-#EXTINF:-1 tvg-name="Band News HD²" tvg-logo="https://fivetv.xyz/logos/bandnews.png" group-title="NOTICIAS",Band News HD²
-http://5ce.co:80/Ctina2718/Tina3619/35415
-#EXTINF:-1 tvg-name="CNN Brasil HD" tvg-logo="http://70.ms/ZgY3WN" group-title="NOTICIAS",CNN Brasil HD
-http://5ce.co:80/Ctina2718/Tina3619/70824
-#EXTINF:-1 tvg-name="CNN Brasil HD²" tvg-logo="http://70.ms/ZgY3Wo" group-title="NOTICIAS",CNN Brasil HD²
-http://5ce.co:80/Ctina2718/Tina3619/71627
-#EXTINF:-1 tvg-name="Globo News HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="NOTICIAS",Globo News HD
-http://5ce.co:80/Ctina2718/Tina3619/6569
-#EXTINF:-1 tvg-name="Globo News HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="NOTICIAS",Globo News HD²
-http://5ce.co:80/Ctina2718/Tina3619/36099
-#EXTINF:-1 tvg-name="Record News HD" tvg-logo="https://fivetv.xyz/logos/recordnews.png" group-title="NOTICIAS",Record News HD
-http://5ce.co:80/Ctina2718/Tina3619/6893
-#EXTINF:-1 tvg-name="Record News HD²" tvg-logo="https://fivetv.xyz/logos/recordnews.png" group-title="NOTICIAS",Record News HD²
-http://5ce.co:80/Ctina2718/Tina3619/35392
-#EXTINF:-1 tvg-name="AgroMais FHD" tvg-logo="https://i.imgur.com/mrALijx.png" group-title="NOTICIAS",AgroMais FHD
-http://5ce.co:80/Ctina2718/Tina3619/113601
-#EXTINF:-1 tvg-name="Band News FHD" tvg-logo="https://fivetv.xyz/logos/bandnews.png" group-title="NOTICIAS",Band News FHD
-http://5ce.co:80/Ctina2718/Tina3619/21127
-#EXTINF:-1 tvg-name="Band News FHD²" tvg-logo="https://fivetv.xyz/logos/bandnews.png" group-title="NOTICIAS",Band News FHD²
-http://5ce.co:80/Ctina2718/Tina3619/100464
-#EXTINF:-1 tvg-name="CNN Brasil FHD" tvg-logo="http://70.ms/ZgY3Wa" group-title="NOTICIAS",CNN Brasil FHD
-http://5ce.co:80/Ctina2718/Tina3619/70823
-#EXTINF:-1 tvg-name="CNN Brasil FHD²" tvg-logo="http://70.ms/ZgY3We" group-title="NOTICIAS",CNN Brasil FHD²
-http://5ce.co:80/Ctina2718/Tina3619/71626
-#EXTINF:-1 tvg-name="Globo News FHD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="NOTICIAS",Globo News FHD
-http://5ce.co:80/Ctina2718/Tina3619/21129
-#EXTINF:-1 tvg-name="Globo News FHD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="NOTICIAS",Globo News FHD²
-http://5ce.co:80/Ctina2718/Tina3619/36101
-#EXTINF:-1 tvg-name="Record News FHD" tvg-logo="https://fivetv.xyz/logos/recordnews.png" group-title="NOTICIAS",Record News FHD
-http://5ce.co:80/Ctina2718/Tina3619/6940
-#EXTINF:-1 tvg-name="Record News FHD²" tvg-logo="https://fivetv.xyz/logos/recordnews.png" group-title="NOTICIAS",Record News FHD²
-http://5ce.co:80/Ctina2718/Tina3619/16828
-#EXTINF:-1 tvg-name="Jovem Pan News FHD" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="NOTICIAS",Jovem Pan News FHD
-http://5ce.co:80/Ctina2718/Tina3619/188544
-#EXTINF:-1 tvg-name="Jovem Pan News FHD²" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="NOTICIAS",Jovem Pan News FHD²
-http://5ce.co:80/Ctina2718/Tina3619/203501
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E01" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E01
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E02" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E02
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E03" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E03
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E04" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E04
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E05" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E05
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E06" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E06
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E07" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E07
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E08" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E08
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E09" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E09
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E10" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E10
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E11" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E11
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E12" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E12
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E13" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E13
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E14" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E14
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E15" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E15
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E16" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E16
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E17" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E17
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E18" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E18
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E19" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E19
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E20" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E20
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E21" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E21
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E22" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E22
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E23" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E23
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E24" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E24
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E25" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E25
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Criminosas S04 E26" tvg-logo="https://www.themoviedb.org/t/p/original/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg" group-title="SÉRIES - CRIME",Mentes Criminosas S04 E26
+http://connecttvapp.xyz:80/series/homeondemand/vR5jZPUJSWCY/5456.mp4
