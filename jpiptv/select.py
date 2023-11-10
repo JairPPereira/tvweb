@@ -86,8 +86,6 @@ http://pfsv.io:80/francisco.cavedon/9489458/30248.ts
 http://pfsv.io:80/francisco.cavedon/9489458/179.ts
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="Animal Planet SD" tvg-logo="http://p6.vc/AMA" group-title="Canais | Documentários",Animal Planet SD
 http://pfsv.io:80/francisco.cavedon/9489458/194.ts
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet [4K]" tvg-logo="http://p6.vc/bb" group-title="Canais | 4K",Animal Planet [4K]
-http://pfsv.io:80/francisco.cavedon/9489458/588.ts
 #EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="Arte 1 FHD" tvg-logo="http://p6.vc/AKZ" group-title="Canais | Documentários",Arte 1 FHD
 http://pfsv.io:80/francisco.cavedon/9489458/165.ts
 #EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="Arte 1 FHD [H265]" tvg-logo="http://p6.vc/WHP" group-title="Canais | Documentários",Arte 1 FHD [H265]
@@ -104,22 +102,6 @@ http://pfsv.io:80/francisco.cavedon/9489458/132251.ts
 http://pfsv.io:80/francisco.cavedon/9489458/132252.ts
 #EXTINF:-1 tvg-id="" tvg-name="Athletico Furacao TV [ALTER]" tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais",Athletico Furacao TV [ALTER]
 http://pfsv.io:80/francisco.cavedon/9489458/49109.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN FHD" tvg-logo="http://p6.vc/APR" group-title="Canais | Filmes e Séries",AXN FHD
-http://pfsv.io:80/francisco.cavedon/9489458/295.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN FHD LEG" tvg-logo="http://p6.vc/WID" group-title="Canais | Legendados",AXN FHD LEG
-http://pfsv.io:80/francisco.cavedon/9489458/122939.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN FHD[H265]" tvg-logo="http://p6.vc/WGX" group-title="Canais | Filmes e Séries",AXN FHD[H265]
-http://pfsv.io:80/francisco.cavedon/9489458/30206.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN HD" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN HD
-http://pfsv.io:80/francisco.cavedon/9489458/301.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN HD LEG" tvg-logo="http://p6.vc/WIB" group-title="Canais | Legendados",AXN HD LEG
-http://pfsv.io:80/francisco.cavedon/9489458/122933.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN SD" tvg-logo="http://p6.vc/AQT" group-title="Canais | Filmes e Séries",AXN SD
-http://pfsv.io:80/francisco.cavedon/9489458/326.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN SD LEG" tvg-logo="http://p6.vc/WIC" group-title="Canais | Legendados",AXN SD LEG
-http://pfsv.io:80/francisco.cavedon/9489458/122934.ts
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN [4K]" tvg-logo="http://p6.vc/H" group-title="Canais | 4K",AXN [4K]
-http://pfsv.io:80/francisco.cavedon/9489458/50863.ts
 """
 
 # Expressão regular para encontrar itens com group-title="Canais | Legendados"
