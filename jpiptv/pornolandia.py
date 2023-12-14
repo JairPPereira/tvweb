@@ -1,31 +1,26 @@
-import requests
 import re
 
-# URL da página
-url = "https://www.pornolandia.xxx/video/52571/mulher-nua-caseira-dando-na-cama-do-ex-marido"
+def processar_url(url):
+    # Padronizar o URL para garantir que seja correspondido corretamente
+    padrao_url = re.compile(r'https://www.pornolandia.xxx/video/(\d+)/(.*?)/?$')
 
-# Fazendo a solicitação HTTP
-response = requests.get(url)
-response.encoding = 'utf-8'  # Definir a codificação explicitamente para UTF-8
+    # Extrair os termos do URL
+    correspondencia = padrao_url.match(url)
 
-# Verificar se a solicitação foi bem-sucedida (código 200)
-if response.status_code == 200:
-    # Encontrando os dados usando expressões regulares
-    titulo_match = re.search(r'<meta property="og:title" content="(.*?)"', response.text)
-    poster_match = re.search(r'<meta property="og:image" content="(.*?)"', response.text)
-    video_match = re.search(r'<source src="(.*?)" type="video/mp4">', response.text)
+    if correspondencia:
+        # Extrair os grupos correspondentes
+        numero_video = correspondencia.group(1)
+        descricao_video = correspondencia.group(2)
 
-    # Verificando se todas as correspondências foram bem-sucedidas
-    if titulo_match and poster_match and video_match:
-        # Extraindo os dados correspondentes
-        titulo = titulo_match.group(1)
-        poster_url = poster_match.group(1)
-        video_url = video_match.group(1)
+        # Formatar a saída desejada
+        resultado = f'#EXTINF:-1 tvg-id="" tvg-name="Amador" tvg-logo="https://www.pornolandia.xxx/media/videos/tmb/{numero_video}/default.jpg" group-title="Amador",{descricao_video.capitalize()}\n'
+        resultado += f'https://videos.pornolandia.xxx/media/videos/flv/{numero_video}.mp4'
 
-        # Imprimindo o resultado no formato desejado
-        print(f'#EXTINF:-1 tvg-id="" tvg-name="Amador" tvg-logo="{poster_url}" group-title="Amador",{titulo}')
-        print(video_url)
+        return resultado
     else:
-        print("Um ou mais elementos não foram encontrados")
-else:
-    print(f"A solicitação falhou com o código de status {response.status_code}")
+        return 'URL não corresponde ao padrão esperado.'
+
+# Exemplo de uso
+url_input = "https://www.pornolandia.xxx/video/53663/brasileirinha-dando-o-cu-de-4"
+saida_formatada = processar_url(url_input)
+print(saida_formatada)
