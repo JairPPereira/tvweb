@@ -21,6 +21,6 @@ def processar_url(url):
         return 'URL não corresponde ao padrão esperado.'
 
 # Exemplo de uso
-url_input = "https://www.pornolandia.xxx/video/53620/novinha-branquinha-nua-dando-de-pernas-abertas"
+url_input = "https://www.pornolandia.xxx/video/52515/Americana novinha transando nua"
 saida_formatada = processar_url(url_input)
 print(saida_formatada)
