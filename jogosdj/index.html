@@ -45,18 +45,7 @@
         
      
     </script>
-    <script>
-      function openMovie(titulo, url) {
-          window.location.href = 'single-movie.html?titulo=' + encodeURIComponent(titulo) + '&url=' + encodeURIComponent(url);
-      }
-    
-      function reproduzirFilme(titulo, url) {
-          alert('Reproduzindo ' + titulo + ' de ' + url);
-          // resto do código para carregar o player de vídeo...
-          window.location.href = 'single-movie.html?titulo=' + encodeURIComponent(titulo) + '&url=' + encodeURIComponent(url);
-      }
-      
-    </script>
+
 <style>
 body{
   background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW_eJYF5umzRowlCeIvKVTZXrM5_gQjehSrzD-tTZj-DpZK3U305zljWWNbZhqsykwbNMUianHaGOw0W3p2skR7u1UM0fd65gbuyZuf4ctwGCnVdVPtbN3NA8tGw19XlxpXt_oAXs7_fEJ6d3qLKwosWvE70Mdfdj2Z1AKjEzdRarvwUOJ5wVIifevGQs/s1600/5026563.webp);
@@ -327,14 +316,84 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
   <p></p>
   <section class="destaques container">
   <div class="row p-t-20 p-b-40">
+    <script>
+      // Função para abrir o link ao clicar no botão
+      function openMovie(details, link) {
+          window.open(link);
+      }
 
+      // Mapeamento de dias da semana em inglês para português
+      const diasDaSemana = {
+          SUNDAY: 'Domingo',
+          MONDAY: 'Segunda-feira',
+          TUESDAY: 'Terça-feira',
+          WEDNESDAY: 'Quarta-feira',
+          THURSDAY: 'Quinta-feira',
+          FRIDAY: 'Sexta-feira',
+          SATURDAY: 'Sábado',
+      };
+
+      // Função para ajustar o horário para o fuso horário de Brasília (GMT-3) e subtrair uma hora
+      function ajustarHorario(horario) {
+          const dataOriginal = new Date(`2000-01-01T${horario}:00Z`);
+          dataOriginal.setHours(dataOriginal.getHours() - 1); // Subtrai uma hora
+          const formatoBrasilia = new Intl.DateTimeFormat('pt-BR', { timeZone: 'America/Sao_Paulo', hour: 'numeric', minute: 'numeric' });
+          return formatoBrasilia.format(dataOriginal);
+      }
+
+      // URL da API
+      const apiUrl = 'https://api.allorigins.win/get?url=https://sportsonline.gl/prog.txt';
+
+      // Faz uma requisição à API usando fetch
+      fetch(apiUrl)
+          .then(response => response.json())
+          .then(data => {
+              const content = data.contents;
+
+              // Divide as linhas do conteúdo
+              const lines = content.split('\n');
+
+              // Variáveis para armazenar os botões e os dias
+              let buttonsHTML = '';
+              let currentDay = '';
+
+              // Itera sobre as linhas
+              lines.forEach(line => {
+                  // Verifica se a linha representa um dia
+                  if (/^[A-Z]{3,9}$/.test(line)) {
+                      currentDay = diasDaSemana[line.trim()]; // Atualiza o dia atual para o equivalente em português
+                      buttonsHTML += `<div class="bot" style="margin: 10px; background-color: #4267B2; width: 100%;"><center><h2 class="bold no-margin medium-3"><i class="fas fa-arrow-down"></i>${currentDay}</h2></center></div>`;
+                  } else if (line.includes('bra')) { // Verifica se a linha contém 'bra'
+                      const [timeAndDetails, link] = line.split('|').map(item => item.trim());
+                      const time = ajustarHorario(timeAndDetails.split('   ')[0]);
+                      const details = timeAndDetails.split('   ').slice(1).join('   ');
+                      buttonsHTML += `<button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('${time}   ${details}', '${link}')">${time}   ${details}</button>`;
+                  }
+              });
+
+              // Adiciona os botões ao corpo do documento
+              document.body.innerHTML += buttonsHTML;
+          })
+          .catch(error => console.error('Erro ao obter os dados da API:', error));
+  </script>   
+  <script>
+    // Função para abrir o link na página single-movie.html
+    function openMovie(titulo, url) {
+        // Adapte a lógica conforme necessário para o seu caso
+        // Pode ser necessário ajustar o caminho para single-movie.html
+        window.location.href = `single-movie.html?titulo=${encodeURIComponent(titulo)}&url=${encodeURIComponent(url)}`;
+    }
+
+    // Restante do seu código aqui...
+</script>
   </head>
   <body>
     <div class="container">
-        
+     
       <div class="row min-gutter">
        
     <div id="searchResults"></div></div></div>
+    
     
     <script>
       function search() {
@@ -410,35 +469,11 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
         xhr.send();
     }
       </script>
-      <center>
-        <div class="text-center-xs" style="padding: 2px;">
-         <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;JOGOS DE HOJE</h1> </center>
-        
+
          <section class="bg-primary p-t-40 p-b-40">
    <div class="container">
      
 
-         <div class="bot" style="margin: 10px; background-color: #4267B2; width: 100%;"><center><h2 class="bold no-margin medium-3"><i class="fas fa-arrow-down"></i>Segunda-feira 18/11</h2></center> </div> 
-         
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('14:30   Real Zaragoza x Huesca', 'https://v2.sportsonline.so/channels/pt/eleven2.php')">14:30   Real Zaragoza x Huesca</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('16:45   Germany x Turkey', 'https://v2.sportsonline.so/channels/pt/sporttv5.php')">16:45   Germany x Turkey</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('16:45   Netherlands x Ireland Republic', 'https://v2.sportsonline.so/channels/pt/sporttv2.php')">16:45   Netherlands x Ireland Republic</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('16:45   France x Gibraltar', 'https://v2.sportsonline.so/channels/pt/sporttv1.php')">16:45   France x Gibraltar</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('16:45   Switzerland x Kosovo', 'https://v2.sportsonline.so/channels/pt/sporttv4.php')">16:45   Switzerland x Kosovo</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('17:00   Vitória x Sport Recife', 'https://v2.sportsonline.so/channels/bra/br1.php')">17:00   Vitória x Sport Recife</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('17:00   Criciúma x Botafogo SP', 'https://v2.sportsonline.so/channels/bra/br2.php')">17:00   Criciúma x Botafogo SP</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('17:00   Juventude x Ponte Preta', 'https://v2.sportsonline.so/channels/bra/br3.php')">17:00   Juventude x Ponte Preta</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('17:00   Mirassol x Atlético Goianiense', 'https://v2.sportsonline.so/channels/bra/br4.php')">17:00   Mirassol x Atlético Goianiense</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('17:00   ATP World Tour Finals', 'https://v2.sportsonline.so/channels/pt/sporttv3.php')">17:00   ATP World Tour Finals</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('18:30   Fortaleza x Cruzeiro', 'https://v2.sportsonline.so/channels/bra/br5.php')">18:30   Fortaleza x Cruzeiro</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('19:00   UFC Fight Night: Brendan Allen vs Paul Craig', 'https://v2.sportsonline.so/channels/bra/br3.php')">19:00   UFC Fight Night: Brendan Allen vs Paul Craig</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('19:00   WRC: Japan - Super Special 17', 'https://v2.sportsonline.so/channels/pt/sporttv4.php')">19:00   WRC: Japan - Super Special 17</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('20:00   WRC: Japan - Super Special 18 & 19', 'https://v2.sportsonline.so/channels/pt/sporttv4.php')">20:00   WRC: Japan - Super Special 18 & 19</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('22:00   NBA: Miami Heat @ Chicago Bulls', 'https://v2.sportsonline.so/channels/pt/sporttv3.php')">22:00   NBA: Miami Heat @ Chicago Bulls</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('23:00   Boxing: Jonathan Lopez x Edward Ceballos', 'https://v2.sportsonline.so/channels/bra/br2.php')">23:00   Boxing: Jonathan Lopez x Edward Ceballos</button>
-         <button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('02:55   F1: Las Vegas Grand Prix', 'https://v2.sportsonline.so/channels/bra/br5.php')">02:55   F1: Las Vegas Grand Prix</button>
-               
-         </div> 
         
         
       
@@ -460,20 +495,7 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
   </div>
   </section>
   
-  <footer class="text-center-xs text-center-sm  bg-dark text-white p-t-50 p-b-10">
-  <div class="container">
-
-
-  <div class="col-md-3 text-center m-b-20">
-
-  </div>
  
-  <div class="col-md-12 text-right m-t-20">
-  <a href="https://www.JP TV.com.br/politica-de-privacidade" class="text-white s2 m-r-10">Política de Privacidade</a>
-  @2022 <a href="https://jptv.netlify.app/" style="color: #23AD00;">
-    JP TV</a> | All rights reserved </div>
-  </div>
-  </footer>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
@@ -484,4 +506,13 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
   <link rel="stylesheet" href="https://jptv.netlify.app/assets/plugins/validation/css/formValidation.min.css">
   <script src="https://jptv.netlify.app/assets/plugins/jquery.hc-sticky.min.js" type="text/javascript"></script>
   <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon="{&quot;rayId&quot;:&quot;767ab6a5bd67a67e&quot;,&quot;token&quot;:&quot;29f3df555cf44e79b31edba47c27cbf8&quot;,&quot;version&quot;:&quot;2022.11.0&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+  <footer class="text-center-xs text-center-sm  bg-dark text-white p-t-50 p-b-10">
+
+   
+    <div class="col-md-12 text-right m-t-20">
+    <a href="https://www.JP TV.com.br/politica-de-privacidade" class="text-white s2 m-r-10">Política de Privacidade</a>
+    @2022 <a href="https://jptv.netlify.app/" style="color: #23AD00;">
+      JP TV</a> | All rights reserved </div>
+    </div>
+    </footer>
   </body></html>

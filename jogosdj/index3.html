@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Jogos</title>
+</head>
+<body>
+    <script>
+        // Função para abrir o link ao clicar no botão
+        function openMovie(details, link) {
+            window.open(link);
+        }
+
+        // Mapeamento de dias da semana em inglês para português
+        const diasDaSemana = {
+            SUNDAY: 'Domingo',
+            MONDAY: 'Segunda-feira',
+            TUESDAY: 'Terça-feira',
+            WEDNESDAY: 'Quarta-feira',
+            THURSDAY: 'Quinta-feira',
+            FRIDAY: 'Sexta-feira',
+            SATURDAY: 'Sábado',
+        };
+
+        // Função para ajustar o horário para o fuso horário de Brasília (GMT-3) e subtrair uma hora
+        function ajustarHorario(horario) {
+            const dataOriginal = new Date(`2000-01-01T${horario}:00Z`);
+            dataOriginal.setHours(dataOriginal.getHours() - 1); // Subtrai uma hora
+            const formatoBrasilia = new Intl.DateTimeFormat('pt-BR', { timeZone: 'America/Sao_Paulo', hour: 'numeric', minute: 'numeric' });
+            return formatoBrasilia.format(dataOriginal);
+        }
+
+        // URL da API
+        const apiUrl = 'https://api.allorigins.win/get?url=https://sportsonline.gl/prog.txt';
+
+        // Faz uma requisição à API usando fetch
+        fetch(apiUrl)
+            .then(response => response.json())
+            .then(data => {
+                const content = data.contents;
+
+                // Divide as linhas do conteúdo
+                const lines = content.split('\n');
+
+                // Variáveis para armazenar os botões e os dias
+                let buttonsHTML = '';
+                let currentDay = '';
+
+                // Itera sobre as linhas
+                lines.forEach(line => {
+                    // Verifica se a linha representa um dia
+                    if (/^[A-Z]{3,9}$/.test(line)) {
+                        currentDay = diasDaSemana[line.trim()]; // Atualiza o dia atual para o equivalente em português
+                        buttonsHTML += `<div class="bot" style="margin: 10px; background-color: #4267B2; width: 100%;"><center><h2 class="bold no-margin medium-3"><i class="fas fa-arrow-down"></i>${currentDay}</h2></center></div>`;
+                    } else if (line.includes('bra')) { // Verifica se a linha contém 'bra'
+                        const [timeAndDetails, link] = line.split('|').map(item => item.trim());
+                        const time = ajustarHorario(timeAndDetails.split('   ')[0]);
+                        const details = timeAndDetails.split('   ').slice(1).join('   ');
+                        buttonsHTML += `<button style="width: 95%; margin: 10px; font-size: 20px; font-weight: bold;" class="waves-effect waves-light btn-large" onclick="openMovie('${time}   ${details}', '${link}')">${time}   ${details}</button>`;
+                    }
+                });
+
+                // Adiciona os botões ao corpo do documento
+                document.body.innerHTML += buttonsHTML;
+            })
+            .catch(error => console.error('Erro ao obter os dados da API:', error));
+    </script>
+</body>
+</html>
