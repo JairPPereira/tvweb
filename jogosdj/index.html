@@ -310,12 +310,28 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
 
       // Função para ajustar o horário para o fuso horário de Brasília (GMT-3) e subtrair uma hora
       function ajustarHorario(horario) {
-          const dataOriginal = new Date(`2000-01-01T${horario}:00Z`);
-          dataOriginal.setHours(dataOriginal.getHours() - 1); // Subtrai uma hora
-          const formatoBrasilia = new Intl.DateTimeFormat('pt-BR', { timeZone: 'America/Sao_Paulo', hour: 'numeric', minute: 'numeric' });
-          return formatoBrasilia.format(dataOriginal);
+          // Verifica se o horário está no formato esperado (HH:mm)
+          const regexHoraMinuto = /^(\d{1,2}):(\d{2})$/;
+      
+          if (regexHoraMinuto.test(horario)) {
+              // Obtém as partes correspondentes do regex
+              const [, horas, minutos] = regexHoraMinuto.exec(horario);
+      
+              // Cria uma nova data com a hora ajustada para o fuso horário de Brasília (GMT-3) e subtrai uma hora
+              const dataOriginal = new Date();
+              dataOriginal.setUTCHours(horas);
+              dataOriginal.setUTCMinutes(minutos);
+              dataOriginal.setUTCHours(dataOriginal.getUTCHours() - 0); // Subtrai 4 horas para o fuso horário de Brasília
+      
+              // Formata a hora ajustada
+              const formatoBrasilia = new Intl.DateTimeFormat('pt-BR', { timeZone: 'America/Sao_Paulo', hour: 'numeric', minute: 'numeric' });
+              return formatoBrasilia.format(dataOriginal);
+          } else {
+              console.error('Formato de hora inválido:', horario);
+              return 'Horário inválido';
+          }
       }
-
+      
       // URL da API
       const apiUrl = 'https://api.allorigins.win/get?url=https://sportsonline.gl/prog.txt';
 
@@ -350,7 +366,7 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
               document.body.innerHTML += buttonsHTML;
           })
           .catch(error => console.error('Erro ao obter os dados da API:', error));
-  </script>   
+  </script> 
   <script>
     // Função para abrir o link na página single-movie.html
     function openMovie(titulo, url) {

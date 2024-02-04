@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+
+
+<script>
+    // Restante do seu código...
+
+    // URL da API
+    const apiUrl = 'https://sportsonline.so';
+
+    // Função para fazer a requisição usando Axios
+    async function fetchData() {
+        try {
+            const response = await axios.get(`https://api.allorigins.win/get?url=${encodeURIComponent(apiUrl)}`);
+            const data = JSON.parse(response.data.contents);
+
+            // Restante do seu código para processar os dados...
+
+        } catch (error) {
+            console.error('Erro ao obter os dados da API:', error);
+        }
+    }
+
+    // Chame a função para buscar os dados
+    fetchData();
+</script>
+
+</body>
+</html>
