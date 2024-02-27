@@ -318,78 +318,81 @@ input[type="text"] {
     
     <script>
       function search() {
-          var searchTerm = document.getElementById("searchInput").value.toLowerCase();
-          var searchResultsDiv = document.getElementById("searchResults");
+        var searchTerm = document.getElementById("searchInput").value.toLowerCase();
+        var searchResultsDiv = document.getElementById("searchResults");
       
-          // Carregue o conteúdo da página "canais.html" usando AJAX
-          var xhr = new XMLHttpRequest();
-          xhr.open("GET", "/canais.html", true);
-          xhr.onreadystatechange = function () {
-              if (xhr.readyState === 4 && xhr.status === 200) {
-                  var pageContent = xhr.responseText;
+        // Carregue o conteúdo da página "canais.html" usando AJAX
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "https://jptv.netlify.app/canais.html", true);
+        xhr.onreadystatechange = function () {
+          if (xhr.readyState === 4 && xhr.status === 200) {
+            var pageContent = xhr.responseText;
       
-                  // Crie um elemento temporário para analisar o HTML
-                  var tempElement = document.createElement("div");
-                  tempElement.innerHTML = pageContent;
+            // Crie um elemento temporário para analisar o HTML
+            var tempElement = document.createElement("div");
+            tempElement.innerHTML = pageContent;
       
-                  // Encontre os elementos correspondentes dentro do conteúdo carregado
-                  var elements = tempElement.querySelectorAll(".col-sm-2");
-                  var results = [];
+            // Encontre os elementos correspondentes dentro do conteúdo carregado
+            var elements = tempElement.querySelectorAll(".col-sm-2.col-xs-4"); // Seleciona elementos com a classe "item movies"
+            var results = [];
       
-                  elements.forEach(function (element) {
-                      var channelName = element.querySelector("h4").textContent.toLowerCase();
-                      if (channelName.includes(searchTerm)) {
-                          results.push(element.outerHTML);
-                      }
-                  });
-      
-                  // Exiba os resultados na página
-                  if (results.length > 0) {
-                      searchResultsDiv.innerHTML = results.join("");
-                  } else {
-                      searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
-                  }
+            elements.forEach(function (element) {
+              var articleContent = element.textContent.toLowerCase();
+              if (articleContent.includes(searchTerm)) {
+                results.push(element.outerHTML);
               }
-          };
-          xhr.send();
+            });
+      
+            // Exiba os resultados na página
+            if (results.length > 0) {
+              searchResultsDiv.innerHTML = results.join("");
+            } else {
+              searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
+            }
+          }
+        };
+        xhr.send();
       }
+      
       function searchMobile() {
         var searchTerm = document.getElementById("searchInputMobile").value.toLowerCase();
         var searchResultsDiv = document.getElementById("searchResults");
-    
+      
         // Carregue o conteúdo da página "canais.html" usando AJAX
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", "/canais.html", true);
+        xhr.open("GET", "https://jptv.netlify.app/canais.html", true);
         xhr.onreadystatechange = function () {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                var pageContent = xhr.responseText;
-    
-                // Crie um elemento temporário para analisar o HTML
-                var tempElement = document.createElement("div");
-                tempElement.innerHTML = pageContent;
-    
-                // Encontre os elementos correspondentes dentro do conteúdo carregado
-                var elements = tempElement.querySelectorAll(".col-sm-2");
-                var results = [];
-    
-                elements.forEach(function (element) {
-                    var channelName = element.querySelector("h4").textContent.toLowerCase();
-                    if (channelName.includes(searchTerm)) {
-                        results.push(element.outerHTML);
-                    }
-                });
-    
-                // Exiba os resultados na página
-                if (results.length > 0) {
-                    searchResultsDiv.innerHTML = results.join("");
-                } else {
-                    searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
-                }
+          if (xhr.readyState === 4 && xhr.status === 200) {
+            var pageContent = xhr.responseText;
+      
+            // Crie um elemento temporário para analisar o HTML
+            var tempElement = document.createElement("div");
+            tempElement.innerHTML = pageContent;
+      
+            // Encontre os elementos correspondentes dentro do conteúdo carregado
+            var elements = tempElement.querySelectorAll(".col-sm-2.col-xs-4"); // Seleciona elementos com a classe "item movies"
+            var results = [];
+           
+            elements.forEach(function (element) {
+              var divContent = element.textContent.toLowerCase();
+              if (divContent.includes(searchTerm)) {
+                results.push(element.outerHTML);
+              }
+            });
+      
+            // Exiba os resultados na página
+            if (results.length > 0) {
+              searchResultsDiv.innerHTML = results.join("");
+            } else {
+              searchResultsDiv.innerHTML = "Nenhum resultado encontrado.";
             }
+          }
         };
         xhr.send();
-    }
-      </script>   
+      }
+      
+      
+    </script> 
       <div class="text-center-xs" style="padding: 2px;"><center>
         <h1 class="bold no-margin medium-3"><i class="fas fa-tv fa-fw"></i>&nbsp;RBA TV</h1>
       <section class="video bg-silver b-radius-5 padding-5" style="max-width: 832px;">
