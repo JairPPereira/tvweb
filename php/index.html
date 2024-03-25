@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passado</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+    // Função para obter e exibir as informações da música
+    function getMusicInfo() {
+        $.ajax({
+            url: 'proxy.php', // Rota para o arquivo proxy.php
+            dataType: 'json',
+            success: function(data) {
+                // Extrai o título da música dos dados recebidos
+                var title = data.title;
+                // Exibe o título da música na div com id 'title'
+                $('#title').text(title);
+            }
+        });
+    }
+
+    // Chama a função getMusicInfo inicialmente e a cada 60 segundos
+    $(document).ready(function() {
+        getMusicInfo(); // Chamada inicial
+        setInterval(getMusicInfo, 60000); // Chamada a cada 60 segundos
+    });
+    </script>
+    <style>
+        .title {
+            height: 20px;
+            text-align: center;
+            padding: 10px 20px;
+            font-size: 20px;
+            font-family: 'Lobster', cursive;
+        }
+    </style>
+</head>
+<body>
+    <div id="title" class="title"></div>
+</body>
+</html>
