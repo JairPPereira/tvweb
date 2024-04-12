@@ -375,7 +375,7 @@ https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8?JPFILMES
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Demand Africa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6nwcZSLeez-sY7a35ZodrTJTA2k7xz3puA7NKcVTkTuBwFt9pv4YNjqP2MLr6io0HJgotzeknzk3OeSlZZM_AeX7OGtC990AQ1zFtG8pMzakFoHvkMds6WibGUgjVAz3CU9isDWUsRLqGYP61IOANwMFGI_fFaIhTGTfHs6hQbZEv9kckq-pL_J1M3g/s1600/DA.jpg" group-title="variedades",Demand Africa
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="CANAIS | EVANGÉLICOS",TV Novo Tempo
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="jornalismo",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Igreja Mundial do Poder de Deus - IMPD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="CANAIS | EVANGÉLICOS",TV Igreja Mundial do Poder de Deus - IMPD
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?JPFILMES
