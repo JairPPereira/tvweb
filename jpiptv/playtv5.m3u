@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV Liberal" tvg-name="TV Liberal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",TV Liberal
-http://supertv.red:80/live/220370778/407652479/101698.m3u8
 #EXTINF:-1 tvg-id="RBA TV" tvg-logo="https://1.bp.blogspot.com/-cbteNa2Lbbk/YTHtqT71YKI/AAAAAAAABBE/6unXmv_iNUMlci-B0sBYrV1lOdGdMfqjACLcBGAsYHQ/s200/rba200.jpg" group-title="CANAIS | ESTADO DO PARÁ",RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNWJFSkv8WuREsdEJurNJsn37qiveveohfTQenCW90TiK2UvF_XJr0s_uEfZA_IxN-DqQDDJaS6bzdQF_A104A2xisUTu0EUXfgZwQt8Q380zkw8eVu85OWH2aGgdcrnxw44RvXHDgXgJ2b-zJr7qDCWE2omBuOwDvK8_h48IbqO2lHEE1NwQbDPF4/s1600/Rede-Record.png" group-title="CANAIS | ESTADO DO PARÁ",Record
-http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63716
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b8281ee455e4e5680d7c1ba9554ddb1f.webp" group-title="CANAIS | ESTADO DO PARÁ",SBT
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w1324163019.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="CANAIS | ESTADO DO PARÁ",TV GRÃO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c90164ecb50e1202e04d4144f86e607f.webp" group-title="CANAIS | ESTADO DO PARÁ",TV Marajoara
+#EXTINF:-1 tvg-id="TV Marajoara" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfLmKhXYYqkQjJ3kyahWtpSAHMAlO7wR-oaUkwaaPvlQbfkQ2mTf67kzRpJlpVAuiyJNpsOHeT6Jh6wUVGLO9WFpuGCN9ddz58-NQ2jbZH8X0UyORbQ1isef2bUsat2IZFd77NotCel59eBA02tsVY-lqwKdxxJ0aDQLk4CmD6guWQc10VXeE737dQW4A/s1600/tvmarajoara.webp" group-title="CANAIS | ESTADO DO PARÁ",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="CANAIS | ESTADO DO PARÁ",TV Cultura
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?JPFILMES
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Tv Paraense (SBT Castanhal)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="CANAIS | ESTADO DO PARÁ",Tv Paraense (SBT Castanhal)
 https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Web TV Vale do Uruará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7858a37ec72de29670e36bb32cdd20f6.webp" group-title="CANAIS | ESTADO DO PARÁ",Web TV Vale do Uruará
