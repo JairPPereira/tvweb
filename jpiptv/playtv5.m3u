@@ -449,7 +449,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?JPFILMES
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-aparecida-hd_m.png" group-title="CANAIS | RELOGIOSOS", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="RedeVida.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="CANAIS | RELOGIOSOS" , Rede Vida
+#EXTINF:-1 tvg-id="RedeVida.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="catolica" , Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TVMaisFamilia.br"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYwEo99hniHqmAOlgAQrjL5AAJYwL6G5Gjw&usqp=CAU" group-title="CANAIS | RELOGIOSOS", Rede Mais Família HD
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8?JPFILMES
@@ -495,21 +495,5 @@ https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w795471484.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="Rede Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ede7e5de6ca676517ca7197759c16e7.webp" group-title="CANAIS | DOCUMENTÁRIOS",Rede Família
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery Channel HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Channel HD
-http://tv.factoryiptv.com:80/live/wG4qnAymJM/duoiptv/36985.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery H&H HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/discovery-home-and-health-logo2.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery H&H HD
-http://piglo.re:80/Presidente/256071x/54659.ts
-#EXTINF:-1 tvg-id="Discovery Theater FHD" tvg-name="Discovery Theather HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/e5a276c526172eb023640f2651f46975.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Theather HD
-http://piglo.re:80/Presidente/256071x/54208.ts
-#EXTINF:-1 tvg-id="Discovery Turbo FHD" tvg-name="Discovery Turbo HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Turbo HD
-http://tv.factoryiptv.com:80/live/wG4qnAymJM/duoiptv/36982.m3u8
-#EXTINF:-1 tvg-id="Discovery World FHD" tvg-name="Discovery World HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery World HD
-http://piglo.re:80/Presidente/256071x/54211.ts
-#EXTINF:-1 tvg-id="Lifetime FHD" tvg-name="Lifetime HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/46309dd5fe1e4335d4b03b221096f7c4.png" group-title="CANAIS | DOCUMENTÁRIOS",Lifetime HD
-http://piglo.re:80/Presidente/256071x/54682.ts
-#EXTINF:-1 tvg-id="Nat Geo FHD" tvg-name="Natgeo HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/8ee25b724a4ba5efbfd6d07eb591c179.png" group-title="CANAIS | DOCUMENTÁRIOS",Natgeo HD
-http://piglo.re:80/Presidente/256071x/54217.ts
-#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS HD" tvg-logo="https://static.b2pteam.com/logos/documentario/urbandocs.png" group-title="CANAIS | DOCUMENTÁRIOS",URBAN DOCS HD
-http://cdnrede.com:80/live/ardenghix/991144858/213990.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="" tvg-name="INSPIRE HD" tvg-logo="https://static.b2pteam.com/logos/documentario/inspire.png" group-title="CANAIS | DOCUMENTÁRIOS",INSPIRE HD
-http://cdnrede.com:80/live/ardenghix/991144858/231230.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="" tvg-name="Vivax Tv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiME4OWWlry9TXEA7bkbRza8qTspHl-anws54uk3ooKucMmvSLKabbSAL9Yn1LUWgnweQaZ6TYmJwbOfHbQmtUnCdipbc5gOAj14rZPOGSzDVqIYxlN5iYrJXdhjE1Qo0yNkM96YhCbTLPsxYyUPitwJzmgNO7GeKm-mCFaqIqNX61_V18wNL7S-6RJ9cU/s1600/vivax.webp" group-title="agronegócio",Vivax Tv
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8?JPFILMES
