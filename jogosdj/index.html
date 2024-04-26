@@ -321,7 +321,7 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
               const dataOriginal = new Date();
               dataOriginal.setUTCHours(horas);
               dataOriginal.setUTCMinutes(minutos);
-              dataOriginal.setUTCHours(dataOriginal.getUTCHours() - 0); // Subtrai 4 horas para o fuso horário de Brasília
+              dataOriginal.setUTCHours(dataOriginal.getUTCHours() - 1); // Subtrai 4 horas para o fuso horário de Brasília
       
               // Formata a hora ajustada
               const formatoBrasilia = new Intl.DateTimeFormat('pt-BR', { timeZone: 'America/Sao_Paulo', hour: 'numeric', minute: 'numeric' });
