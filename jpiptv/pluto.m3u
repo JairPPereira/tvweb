@@ -23,17 +23,32 @@ http://izcdn.vood.top:80/hls/360928_.m3u8
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/1.m3u8
 
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7
+http://hzcdn.vood.top:80/hls/519_.m3u8
+
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 8
+http://hzcdn.vood.top:80/hls/524_.m3u8
+
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/23.m3u8
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV SD²
 http://hzcdn.vood.top:80/hls/512_.m3u8
 
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD²
+http://hzcdn.vood.top:80/hls/547_.m3u8
+
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://prostore.app/logos/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/28.m3u8
 
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://prostore.app/logos/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 SD²
+http://hzcdn.vood.top:80/hls/552_.m3u8
+
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD¹" tvg-logo="https://prostore.app/logos/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/54.m3u8
+
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD¹" tvg-logo="https://prostore.app/logos/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3²
+http://hzcdn.vood.top:80/hls/559_.m3u8
 
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="https://prostore.app/logos/bandsports.png" group-title="CANAIS | ESPORTE",BAND SPORTS
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/20.m3u8
@@ -268,6 +283,15 @@ http://hzcdn.vood.top:80/hls/494_.m3u8
 
 #EXTINF:-1,PREMIERE 2
 http://hzcdn.vood.top:80/hls/497_.m3u8
+
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD¹" tvg-logo="https://prostore.app/logos/telecinetou.png" group-title="CANAIS | TELECINE",TELECINE TOUCH
+http://hzcdn.vood.top:80/hls/589_.m3u8
+
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="https://prostore.app/logos/tcactinon.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD¹
+http://hzcdn.vood.top:80/hls/613_.m3u8
+
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD¹" tvg-logo="https://prostore.app/logos/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT SD¹
+http://hzcdn.vood.top:80/hls/618_.m3u8
 
 #EXTINF:-1 tvg-id="Pluto Sucesso" tvg-name="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Sucesso
 https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
