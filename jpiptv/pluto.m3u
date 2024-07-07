@@ -165,6 +165,27 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="e.parana.br" tvg-name="BAND TV PARANA" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/150.m3u8
 
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV 2
+http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/877.m3u8
+
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV 3
+http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/878.m3u8
+
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO AMAZONICA SD" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO
+http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/879.m3u8
+
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV 4
+http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/880.m3u8
+
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV 5
+http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/882.m3u8
+
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV 6
+http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/883.m3u8
+
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s HD¹" tvg-logo="https://prostore.app/logos/mtv1.png" group-title="CANAIS | VARIEDADES",MTV 00s HD¹
+http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/885.m3u8
+
 #EXTINF:-1 tvg-id="Pluto Sucesso" tvg-name="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Sucesso
 https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="Pluto Ação" tvg-name="Pluto Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Ação
