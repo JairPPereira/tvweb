@@ -135,7 +135,7 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD¹" tvg-logo="https://prostore.app/logos/gloob.png" group-title="CANAIS | INFANTIS",GLOOB
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/93.m3u8
 
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD¹" tvg-logo="https://prostore.app/logos/toncast.png" group-title="CANAIS | INFANTIS",TOONCAST SD¹
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD¹" tvg-logo="https://prostore.app/logos/toncast.png" group-title="CANAIS | INFANTIS",TOONCAST
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/96.m3u8
 
 #EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV FHD" tvg-logo="https://prostore.app/logos/babytv.png" group-title="CANAIS | INFANTIS",BABY TV FHD
@@ -185,6 +185,75 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 
 #EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s HD¹" tvg-logo="https://prostore.app/logos/mtv1.png" group-title="CANAIS | VARIEDADES",MTV 00s HD¹
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/885.m3u8
+
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil SD² " tvg-logo="https://prostore.app/logos/canalbrasil.png" group-title="CANAIS | ABERTO",Canal Brasil HD² 
+http://hzcdn.vood.top:80/hls/145_.m3u8
+
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil SD² " tvg-logo="https://prostore.app/logos/canalbrasil.png" group-title="CANAIS | ABERTO",Canal Brasil SD² 
+http://hzcdn.vood.top:80/hls/146_.m3u8
+
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida" tvg-logo="https://imgur.com/xbBhpzR.png" group-title="CANAIS | RELIGIOSOS",TV Aparecida
+http://hzcdn.vood.top:80/hls/190_.m3u8
+
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida" tvg-logo="https://imgur.com/38ysEWi.png" group-title="CANAIS | RELIGIOSOS",Rede Vida
+http://hzcdn.vood.top:80/hls/197_.m3u8
+
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida" tvg-logo="https://imgur.com/38ysEWi.png" group-title="CANAIS | RELIGIOSOS",Rede Vida 2
+http://hzcdn.vood.top:80/hls/198_.m3u8
+
+#EXTINF:-1,PAI ETERNO
+http://hzcdn.vood.top:80/hls/206_.m3u8
+
+#EXTINF:-1,ESPN²
+http://hzcdn.vood.top:80/hls/208_.m3u8
+
+#EXTINF:-1,ESPN3²
+http://hzcdn.vood.top:80/hls/220_.m3u8
+
+#EXTINF:-1,ESPN4² SD
+http://hzcdn.vood.top:80/hls/222_.m3u8
+
+#EXTINF:-1,BAND SPORT²
+http://hzcdn.vood.top:80/hls/232_.m3u8
+
+#EXTINF:-1,COMBATE²
+http://hzcdn.vood.top:80/hls/240_.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://hzcdn.vood.top:80/hls/351_.m3u8
+
+#EXTINF:-1,DISNEY CHANNEL² SD
+http://hzcdn.vood.top:80/hls/356_.m3u8
+
+#EXTINF:-1,DISNEY CHANNEL² HD
+http://hzcdn.vood.top:80/hls/358_.m3u8
+
+#EXTINF:-1,NICKJR²
+http://hzcdn.vood.top:80/hls/367_.m3u8
+
+#EXTINF:-1,NICKELODEON HDR
+http://hzcdn.vood.top:80/hls/371_.m3u8
+
+#EXTINF:-1,NICKELODEON HD
+http://hzcdn.vood.top:80/hls/372_.m3u8
+
+#EXTINF:-1,JOVEM PAN NEWS SD
+http://hzcdn.vood.top:80/hls/482_.m3u8
+
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://hzcdn.vood.top:80/hls/483_.m3u8
+
+#EXTINF:-1,RECORD NEWS SD
+http://hzcdn.vood.top:80/hls/486_.m3u8
+
+#EXTINF:-1,RECORD NEWS HD²
+http://hzcdn.vood.top:80/hls/488_.m3u8
+
+#EXTINF:-1,PREMIERE HD
+http://hzcdn.vood.top:80/hls/494_.m3u8
+
+#EXTINF:-1,PREMIERE 2
+http://hzcdn.vood.top:80/hls/497_.m3u8
 
 #EXTINF:-1 tvg-id="Pluto Sucesso" tvg-name="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Sucesso
 https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
