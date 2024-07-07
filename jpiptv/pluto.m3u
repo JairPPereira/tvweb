@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml"
 #EXTM3U
-#EXTINF:-1,Premiere 4
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/1.m3u8
 
 #EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO HD¹
@@ -9,25 +9,25 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/3.m3u8
 
-#EXTINF:-1,Premiere 3
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD¹
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/4.m3u8
 
-#EXTINF:-1,History 2
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD¹" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 SD¹
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/6.m3u8
 
-#EXTINF:-1,Novo Tempo
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="CANAIS | EVANGÉLICOS",TV Novo Tempo
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/12.m3u8
 
 #EXTINF:-1,SKY 1
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/13.m3u8
 
-#EXTINF:-1,Premiere 2
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/14.m3u8
 
-#EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS", Band News SD
+#EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS", Band News
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/16.m3u8
 
-#EXTINF:-1,Band Sport
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="https://prostore.app/logos/bandsports.png" group-title="CANAIS | ESPORTE",BAND SPORTS
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/20.m3u8
 
 #EXTINF:-1,Combat One
@@ -36,7 +36,7 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1,History Channel
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/22.m3u8
 
-#EXTINF:-1,Sport tv
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/23.m3u8
 
 #EXTINF:-1,ESPN 4
@@ -48,7 +48,7 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1,ESPN 5
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/27.m3u8
 
-#EXTINF:-1,SPORTV2
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://prostore.app/logos/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/28.m3u8
 
 #EXTINF:-1,Cartoon Netwoork
@@ -69,7 +69,7 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1,Discovery world
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/44.m3u8
 
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD¹" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/47.m3u8
 
 #EXTINF:-1,E!
@@ -78,7 +78,7 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1,Multi Show
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/49.m3u8
 
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 HD¹" tvg-logo="https://images2.imgbox.com/5a/90/VuKcjdBl_o.png" group-title="CANAIS | ESPORTE",ESPN 3 HD¹
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/50.m3u8
 
 #EXTINF:-1,Discovery Science
@@ -87,7 +87,7 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1,HGTV
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/52.m3u8
 
-#EXTINF:-1,SPORTV 3
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD¹" tvg-logo="https://prostore.app/logos/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/54.m3u8
 
 #EXTINF:-1,NAT GEO
@@ -102,7 +102,7 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1,LIFETIME
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/62.m3u8
 
-#EXTINF:-1,ESPN
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN SD¹" tvg-logo="https://images2.imgbox.com/e0/5f/lNgNYHCF_o.png" group-title="CANAIS | ESPORTE",ESPN
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/67.m3u8
 
 #EXTINF:-1,ANIMAL PLANET
