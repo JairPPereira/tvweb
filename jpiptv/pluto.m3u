@@ -18,9 +18,6 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="CANAIS | EVANGÉLICOS",TV Novo Tempo
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/12.m3u8
 
-#EXTINF:-1,SKY 1
-http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/13.m3u8
-
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/14.m3u8
 
@@ -39,19 +36,19 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/23.m3u8
 
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD¹" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/24.m3u8
 
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/25.m3u8
 
-#EXTINF:-1,ESPN 5
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 SD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 SD¹
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/27.m3u8
 
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://prostore.app/logos/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/28.m3u8
 
-#EXTINF:-1,Cartoon Netwoork
+#EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK SD¹" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD¹
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/29.m3u8
 
 #EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD¹" tvg-logo="https://prostore.app/logos/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL
@@ -60,7 +57,7 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER SD¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/39.m3u8
 
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD¹" tvg-logo="https://prostore.app/logos/dkids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/40.m3u8
 
 #EXTINF:-1,Off
@@ -78,7 +75,7 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1,Multi Show
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/49.m3u8
 
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 HD¹" tvg-logo="https://images2.imgbox.com/5a/90/VuKcjdBl_o.png" group-title="CANAIS | ESPORTE",ESPN 3 HD¹
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 HD¹" tvg-logo="https://images2.imgbox.com/5a/90/VuKcjdBl_o.png" group-title="CANAIS | ESPORTE",ESPN 3
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/50.m3u8
 
 #EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE
@@ -114,7 +111,7 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS", Globo News
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/72.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: ID INVESTIGATION DISCOVERY" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: ID INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD²
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/75.m3u8
 
 #EXTINF:-1,NICK JR
@@ -150,14 +147,8 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1,CNN BRASIL
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/101.m3u8
 
-#EXTINF:-1,SEXTREME
-http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/104.m3u8
-
 #EXTINF:-1,SBT
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/105.m3u8
-
-#EXTINF:-1,PLAYBOY
-http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/110.m3u8
 
 #EXTINF:-1,JOVEM PAN NEWS
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/114.m3u8
