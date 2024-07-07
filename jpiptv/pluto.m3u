@@ -53,6 +53,9 @@ http://hzcdn.vood.top:80/hls/559_.m3u8
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="https://prostore.app/logos/bandsports.png" group-title="CANAIS | ESPORTE",BAND SPORTS
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/20.m3u8
 
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="https://prostore.app/logos/bandsports.png" group-title="CANAIS | ESPORTE",BAND SPORTS²
+http://hzcdn.vood.top:80/hls/232_.m3u8
+
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD¹" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/21.m3u8
 
@@ -239,11 +242,8 @@ http://hzcdn.vood.top:80/hls/197_.m3u8
 #EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida" tvg-logo="https://imgur.com/38ysEWi.png" group-title="CANAIS | RELIGIOSOS",Rede Vida 2
 http://hzcdn.vood.top:80/hls/198_.m3u8
 
-#EXTINF:-1,PAI ETERNO
+#EXTINF:-1 tvg-id="Tvpaieterno.br" tvg-name="TV Pai Eterno " tvg-logo="https://4.bp.blogspot.com/-OSle1HHVGkQ/XU37Y7_OFGI/AAAAAAAABak/GOwP-ahqQYcmD5AiBxaxMWhRTlyRXyg2QCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-08-09-19-59-48.png" group-title="CANAIS | RELIGIOSOS",TV Pai Eterno 
 http://hzcdn.vood.top:80/hls/206_.m3u8
-
-#EXTINF:-1,BAND SPORT²
-http://hzcdn.vood.top:80/hls/232_.m3u8
 
 #EXTINF:-1,COMBATE²
 http://hzcdn.vood.top:80/hls/240_.m3u8
