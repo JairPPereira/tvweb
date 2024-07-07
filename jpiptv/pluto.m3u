@@ -60,16 +60,16 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD¹" tvg-logo="https://prostore.app/logos/dkids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/40.m3u8
 
-#EXTINF:-1,Off
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD¹" tvg-logo="https://prostore.app/logos/off.png" group-title="CANAIS | VARIEDADES",OFF
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/41.m3u8
 
-#EXTINF:-1,Discovery world
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/44.m3u8
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD¹" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/47.m3u8
 
-#EXTINF:-1,E!
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="https://prostore.app/logos/E!.png" group-title="CANAIS | VARIEDADES",E!
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/48.m3u8
 
 #EXTINF:-1,Multi Show
