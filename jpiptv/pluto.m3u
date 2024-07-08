@@ -221,6 +221,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | SBT",SBT
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/105.m3u8
 
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | SBT",SBT 2
+http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/1151.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS SD²" tvg-logo="https://images2.imgbox.com/fb/28/pi0nPXBd_o.png" group-title="Canais | NOTÍCIAS",JOVEM PAN NEWS
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/114.m3u8
 
@@ -268,6 +271,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV 6
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/883.m3u8
+
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV 7
+http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/1150.m3u8
 
 #EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s HD¹" tvg-logo="https://prostore.app/logos/mtv1.png" group-title="CANAIS | VARIEDADES",MTV 00s HD¹
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/885.m3u8
