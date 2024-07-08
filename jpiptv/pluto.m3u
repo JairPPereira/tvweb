@@ -296,6 +296,15 @@ http://hzcdn.vood.top:80/hls/618_.m3u8
 #EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD¹" tvg-logo="https://prostore.app/logos/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT HD¹
 http://hzcdn.vood.top:80/hls/620_.m3u8
 
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD²" tvg-logo="https://prostore.app/logos/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN SD²
+http://hzcdn.vood.top:80/hls/623_.m3u8
+
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD² " tvg-logo="https://prostore.app/logos/pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD² 
+http://hzcdn.vood.top:80/hls/628_.m3u8
+
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD²" tvg-logo="https://prostore.app/logos/tcpremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD²
+http://hzcdn.vood.top:80/hls/635_.m3u8
+
 #EXTINF:-1 tvg-id="Pluto Sucesso" tvg-name="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Sucesso
 https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="Pluto Ação" tvg-name="Pluto Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Ação
