@@ -314,6 +314,33 @@ http://hzcdn.vood.top:80/hls/666_.m3u8
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC SD²
 http://hzcdn.vood.top:80/hls/669_.m3u8
 
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC HD²
+http://hzcdn.vood.top:80/hls/671_.m3u8
+
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD²" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN HD²
+http://hzcdn.vood.top:80/hls/674_.m3u8
+
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD²" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN HDR²
+http://hzcdn.vood.top:80/hls/676_.m3u8
+
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="https://prostore.app/logos/Comedicentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD²
+http://hzcdn.vood.top:80/hls/685_.m3u8
+
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="https://prostore.app/logos/Comedicentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD²
+http://hzcdn.vood.top:80/hls/687_.m3u8
+
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX SD²
+http://hzcdn.vood.top:80/hls/690_.m3u8
+
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX HD²
+http://hzcdn.vood.top:80/hls/692_.m3u8
+
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD²" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE SD²
+http://hzcdn.vood.top:80/hls/705_.m3u8
+
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD²" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE HD²
+http://hzcdn.vood.top:80/hls/707_.m3u8
+
 #EXTINF:-1 tvg-id="Pluto Sucesso" tvg-name="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Sucesso
 https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="Pluto Ação" tvg-name="Pluto Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Ação
