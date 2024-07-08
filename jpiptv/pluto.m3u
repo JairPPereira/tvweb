@@ -5,6 +5,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/14.m3u8
 
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2²
+http://hzcdn.vood.top:80/hls/497_.m3u8
+
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
 http://hzcdn.vood.top:80/hls/502_.m3u8
 
@@ -28,6 +31,9 @@ http://hzcdn.vood.top:80/hls/519_.m3u8
 
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 8
 http://hzcdn.vood.top:80/hls/524_.m3u8
+
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 9
+http://hzcdn.vood.top:80/hls/494_.m3u8
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/23.m3u8
@@ -107,8 +113,17 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK SD¹" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/29.m3u8
 
+#EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK SD¹" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK²
+http://hzcdn.vood.top:80/hls/351_.m3u8
+
 #EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD¹" tvg-logo="https://prostore.app/logos/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/35.m3u8
+
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD¹" tvg-logo="https://prostore.app/logos/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL SD²
+http://hzcdn.vood.top:80/hls/356_.m3u8
+
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD¹" tvg-logo="https://prostore.app/logos/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD²
+http://hzcdn.vood.top:80/hls/358_.m3u8
 
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER SD¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/39.m3u8
@@ -140,6 +155,12 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD²" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/56.m3u8
 
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD²" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON HDR²
+http://hzcdn.vood.top:80/hls/371_.m3u8
+
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD²" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON HD²
+http://hzcdn.vood.top:80/hls/372_.m3u8
+
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="https://prostore.app/logos/cartonito.png" group-title="CANAIS | INFANTIS",CARTOONITO
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/57.m3u8
 
@@ -160,6 +181,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD¹" tvg-logo="https://prostore.app/logos/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/79.m3u8
+
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD¹" tvg-logo="https://prostore.app/logos/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR²
+http://hzcdn.vood.top:80/hls/367_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PT1: 24 KITCHEN HD" tvg-logo="" group-title="CANAIS | PORTUGAL",PT1: 24 KITCHEN HD
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/82.m3u8
@@ -259,30 +283,6 @@ http://hzcdn.vood.top:80/hls/198_.m3u8
 
 #EXTINF:-1 tvg-id="Tvpaieterno.br" tvg-name="TV Pai Eterno " tvg-logo="https://4.bp.blogspot.com/-OSle1HHVGkQ/XU37Y7_OFGI/AAAAAAAABak/GOwP-ahqQYcmD5AiBxaxMWhRTlyRXyg2QCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-08-09-19-59-48.png" group-title="CANAIS | RELIGIOSOS",TV Pai Eterno 
 http://hzcdn.vood.top:80/hls/206_.m3u8
-
-#EXTINF:-1,CARTOON NETWORK
-http://hzcdn.vood.top:80/hls/351_.m3u8
-
-#EXTINF:-1,DISNEY CHANNEL² SD
-http://hzcdn.vood.top:80/hls/356_.m3u8
-
-#EXTINF:-1,DISNEY CHANNEL² HD
-http://hzcdn.vood.top:80/hls/358_.m3u8
-
-#EXTINF:-1,NICKJR²
-http://hzcdn.vood.top:80/hls/367_.m3u8
-
-#EXTINF:-1,NICKELODEON HDR
-http://hzcdn.vood.top:80/hls/371_.m3u8
-
-#EXTINF:-1,NICKELODEON HD
-http://hzcdn.vood.top:80/hls/372_.m3u8
-
-#EXTINF:-1,PREMIERE HD
-http://hzcdn.vood.top:80/hls/494_.m3u8
-
-#EXTINF:-1,PREMIERE 2
-http://hzcdn.vood.top:80/hls/497_.m3u8
 
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD¹" tvg-logo="https://prostore.app/logos/telecinetou.png" group-title="CANAIS | TELECINE",TELECINE TOUCH
 http://hzcdn.vood.top:80/hls/589_.m3u8
