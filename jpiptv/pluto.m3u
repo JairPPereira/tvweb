@@ -377,6 +377,14 @@ http://hzcdn.vood.top:80/hls/743_.m3u8
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD²" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD²
 http://hzcdn.vood.top:80/hls/746_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1¹" tvg-logo="https://prostore.app/logos/cazetv1.png" group-title="CANAIS | ESPORTES PPV",CAZE TV 1¹
+https://abc.embedmax.site/cazetv1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1¹" tvg-logo="https://prostore.app/logos/cazetv1.png" group-title="CANAIS | ESPORTES PPV",CAZE TV 2¹
+https://abc.embedmax.site/cazetv2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1¹" tvg-logo="https://prostore.app/logos/cazetv1.png" group-title="CANAIS | ESPORTES PPV",CAZE TV 3¹
+https://abc.embedmax.site/cazetv3/index.m3u8
 
 #EXTINF:-1 tvg-id="Pluto Sucesso" tvg-name="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Sucesso
 https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
