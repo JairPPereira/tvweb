@@ -407,6 +407,12 @@ https://abc.embedmax.site/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD²" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL HD¹
 https://abc.embedmax.site/starchannel/index.m3u8
 
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD¹" tvg-logo="https://prostore.app/logos/hbo.png" group-title="CANAIS | HBO",HBO HD¹
+https://abc.embedmax.site/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD¹" tvg-logo="https://prostore.app/logos/hbo.2.png" group-title="CANAIS | HBO",HBO 2 HD¹
+https://abc.embedmax.site/hbo2/index.m3u8
+
 #EXTINF:-1 tvg-id="Pluto Sucesso" tvg-name="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Sucesso
 https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="Pluto Ação" tvg-name="Pluto Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Ação
