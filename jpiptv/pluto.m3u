@@ -329,8 +329,8 @@ http://hzcdn.vood.top:80/hls/664_.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD²" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E HD²
 https://abc.embedmax.site/ae/index.m3u8
 
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC SD²
-http://hzcdn.vood.top:80/hls/669_.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC HD¹
+https://abc.embedmax.site/amc/index.m3u8
 
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC HD²
 http://hzcdn.vood.top:80/hls/671_.m3u8
