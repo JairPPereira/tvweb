@@ -104,6 +104,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS", Band News²
 https://abc.embedmax.site/bandnews/index.m3u8
 
+#EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS", Band News SD¹
+http://74.63.239.82:8080/live/tvonline323523562436/nVbALeQJu1ECMtk9hXKHTa834yBdaUAL/62205.m3u8?token=QkRfV0JaQV5AAgICBFACAQUDBwRXBVVbBlZbVgkHUAsJUg4OCQBbB1VBSBJDQRNQVF1uWVcXCQ4AUQlUFBMUSlwUaF9VEFlGU0FIEkRcDFAXCgEcEUVaXBBZG1MJAFQOG0oVU0lGBhYMAghvVFAXXFZVEwpdQF9UHkFWD2dVBFRYCFMUCxBTRk5BDUNAF1tbQFxdHBFXWkxAAk0EGgtDCAtUBxQdEAALFw0QQkkXWxd3YhMcEVBLTFcNSghXX0MDGwsEQwkQT0YLEDtCVUYVR1BRXFVBFwkaAkEVQ1VQGWZaCVlYVFEXDQ0NFxIKF1EXGRJcX11cR1dAPEkIXBNbGwpXAw4BEB4=
+
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY SD¹" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/22.m3u8
 
