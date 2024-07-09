@@ -104,6 +104,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS", Band News
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/16.m3u8
 
+#EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS", Band News²
+https://abc.embedmax.site/bandnews/index.m3u8
+
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY SD¹" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/22.m3u8
 
@@ -176,6 +179,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS", Globo News
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/72.m3u8
 
+#EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS", Globo News²
+https://abc.embedmax.site/globonews/index.m3u8
+
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY HD¹" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY HD¹
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/75.m3u8
 
@@ -217,6 +223,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 
 #EXTINF:-1 tvg-id="CNN BRASIL 3" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cnn_brasil.png" group-title="Canais | NOTÍCIAS", CNN BRASIL
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/101.m3u8
+
+#EXTINF:-1 tvg-id="CNN BRASIL 3" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cnn_brasil.png" group-title="Canais | NOTÍCIAS", CNN BRASIL²
+https://abc.embedmax.site/cnnbrasil/index.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | SBT",SBT
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/105.m3u8
@@ -368,6 +377,9 @@ http://hzcdn.vood.top:80/hls/721_.m3u8
 #EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS SD²" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS SD¹
 http://hzcdn.vood.top:80/hls/723_.m3u8
 
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD¹" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT HD¹
+https://abc.embedmax.site/tnt/index.m3u8
+
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD²" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV SD²
 http://hzcdn.vood.top:80/hls/742_.m3u8
 
@@ -385,6 +397,15 @@ https://abc.embedmax.site/cazetv2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1¹" tvg-logo="https://prostore.app/logos/cazetv1.png" group-title="CANAIS | ESPORTES PPV",CAZE TV 3¹
 https://abc.embedmax.site/cazetv3/index.m3u8
+
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD¹" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY HD¹
+https://abc.embedmax.site/sonychannel/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD¹" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD¹
+https://abc.embedmax.site/cinemax/index.m3u8
+
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD²" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL HD¹
+https://abc.embedmax.site/starchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="Pluto Sucesso" tvg-name="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Sucesso
 https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
