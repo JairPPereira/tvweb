@@ -176,7 +176,7 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS", Globo News
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/72.m3u8
 
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY HD¹" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY HD¹
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/75.m3u8
 
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD¹" tvg-logo="https://prostore.app/logos/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR
