@@ -360,7 +360,7 @@ http://hzcdn.vood.top:80/hls/711_.m3u8
 http://hzcdn.vood.top:80/hls/713_.m3u8
 
 #EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD¹" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY HD¹
-http://hzcdn.vood.top:80/hls/718_.m3u8
+https://abc.embedmax.site/syfy/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS SD²" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS SD²
 http://hzcdn.vood.top:80/hls/721_.m3u8
