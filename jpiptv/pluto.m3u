@@ -347,11 +347,11 @@ http://hzcdn.vood.top:80/hls/685_.m3u8
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="https://prostore.app/logos/Comedicentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD²
 http://hzcdn.vood.top:80/hls/687_.m3u8
 
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX SD²
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX HD¹
 http://hzcdn.vood.top:80/hls/690_.m3u8
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX HD²
-http://hzcdn.vood.top:80/hls/692_.m3u8
+https://embedmax.site/tvl/megapix.php
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD²" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE SD²
 http://hzcdn.vood.top:80/hls/705_.m3u8
