@@ -666,3 +666,222 @@ https://stitcher.pluto.tv/stitch/hls/channel/6047ff2e5e61cf000784e4da/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="24HS TOP",CAVALEIROS DO ZODIACO
+http://24hrs.homelinux.com:8080/24H-cavaleiros/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipe...ime_logo.png/800px-Dragon_Ball_anime_logo.png" group-title="24HS TOP",DRAGON BALL
+http://24hrs.homelinux.com:8080/24H-dragon.ball/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipe...l_Z_Logo_A.png/250px-Dragon_Ball_Z_Logo_A.png" group-title="24HS TOP",DRAGON BALL Z
+http://24hrs.homelinux.com:8080/24H-dragon.ball.z/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Dragon_Ball_Kai_logo.png?20100904022920" group-title="24HS TOP",DRAGON BALL Z KAI
+http://24hrs.homelinux.com:8080/24H-dragon.ball.z.kai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipe...all_GT_logo.png/800px-Dragon_Ball_GT_logo.png" group-title="24HS TOP",DRAGON BALL GT
+http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipe...g/800px-Dragon_Ball_Super_Super_Hero_Logo.png" group-title="24HS TOP",DRAGON BALL SUPER
+http://24hrs.homelinux.com:8080/24H-dragon.ball.super/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://occ-0-2794-2219.1.nflxso.ne...0uoaMmiMt2lkwGcVIT8vOsmvJ7dLeyCMqvj.png?r=a07" group-title="24HS TOP",AVATAR - AANG
+http://24hrs.homelinux.com:8080/24H-avataralendadeaang/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/85/Legend_of_Korra_logo.png" group-title="24HS TOP",AVATAR - KORRA
+http://24hrs.homelinux.com:8080/24H-avataralendadekorra/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/f...-down/400?cb=20190307080600&path-prefix=pt-br" group-title="24HS TOP", BORUTO NARUTO NEXT GENERATION
+http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Street_Fighter_II-logo-4CCAD283A9-seeklogo.com.png" group-title="24HS TOP",STREET FIGHTER
+http://24hrs.homelinux.com:8080/24H-Street.Fighter.S01/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipe...ga_logo.svg/1200px-Ultraman_tiga_logo.svg.png" group-title="24HS TOP", ULTRAMAN
+http://24hrs.homelinux.com:8080/24H-Ultraman.S01/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/pokemon-logo-8.png" group-title="24HS TOP",POKEMON
+http://24hrs.homelinux.com:8080/24H-pokemon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2/Digimon-Logo-PNG-Free-Download.png" group-title="24HS TOP",DIGIMON
+http://24hrs.homelinux.com:8080/24H-digimon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Hamtaro_Logo.png" group-title="24HS TOP",HANTARO
+http://24hrs.homelinux.com:8080/24H-hantaro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca8...Q.bdhfLihETAwsmE5fYhbFKxlIu55TbpymhoMVCL1Veqk" group-title="24HS TOP",CYBERCOPS
+http://24hrs.homelinux.com:8080/24H-Cybercops.S01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pa1.aminoapps.com/6880/20b5289be0df9230beb54a44d66aaeee9b6c934br1-1000-340_hq.gif" group-title="24HS TOP", JASPION
+http://24hrs.homelinux.com:8080/24H-jaspion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sekai-ninja-sen-jiraiya-logo-6996F9C376-seeklogo.com.png" group-title="24HS TOP", JIRAYA
+http://24hrs.homelinux.com:8080/24H-Jiraya/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png" group-title="24HS TOP",CHESPIRITO
+http://168.205.87.198:8555/live/1427/123456/159.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="24HS TOP",CHAVES
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="24HS TOP",CHAVES
+http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="24HS TOP",CHAVES
+http://pfsv.io:80/leticia/131278/164752.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="24HS TOP",CHAVES
+http://pfsv.io:80/leticia/131278/164754.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="24HS TOP",CHAVES
+http://pfsv.io:80/leticia/131278/164751.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="24HS TOP",CHAVES
+http://cdn.lvbxtv.com:8080/8473997886/9939873590/2219874
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="24HS TOP",CHAPOLIN COLORADO
+http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-wsBJzgL_...r3AKE41jCLrgNBwCLcB/s1600/X-Men+Evolution.png" group-title="24HS TOP",X-MEN EVOLUTION
+http://24hrs.homelinux.com:8080/24H-X-Men.Evolution.S01-S02-S03-S04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/163-1634148_he-man-and-the-masters-of-the-universe.png" group-title="24HS TOP",HE MAN
+http://24hrs.homelinux.com:8080/24H-Heman.S01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Flintstones.png" group-title="24HS TOP",OS FLINTSTONES
+http://24hrs.homelinux.com:8080/24H-osflistony/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/ThunderCats-Logo-500x281.png" group-title="24HS TOP",THUNDERCATS
+http://24hrs.homelinux.com:8080/24H-thundercats/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Aladdin_Franchise_Logo.png" group-title="24HS TOP",ALADIN
+http://24hrs.homelinux.com:8080/24H-aladdin/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngfre.com/wp-content/uploads/Iron-man-53-847x1024.png" group-title="24HS TOP",IRON MAN
+http://24hrs.homelinux.com:8080/24H-ironman/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ben_10_UA_logo.png" group-title="24HS TOP",BEN 10 2005
+http://24hrs.homelinux.com:8080/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Scooby_Doo-logo-0EC1D0AF55-seeklogo.com.png" group-title="24HS TOP",SCOOBDOO
+http://24hrs.homelinux.com:8080/24H-scoobdoo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-26R3X3HD...yFkxNeqpJwCLcBGAsYHQ/s1100/Corrida+maluca.png" group-title="24HS TOP",CORRIDA MALUCA
+http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://caverna.mushi-san.com/m_i/caverna2013.png" group-title="24HS TOP",CAVERNA DRAGAO
+http://24hrs.homelinux.com:8080/24H-Caverna.do.dragao.S01E01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/patolino-logo-E9C9281824-seeklogo.com.png" group-title="24HS TOP",PATOLINO
+http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://snescentral.com/0/7/0/0700/logo.gif" group-title="24HS TOP",TAZMANIA
+http://24hrs.homelinux.com:8080/24H-tazmania/video.m3u8
+
+EXTINF:-1 tvg-logo="https://blogger.googleusercontent.c...7une4cEheZm9WCUjTf3OpcVSnwcwr6CM/s1600/10.gif" group-title="24HS TOP",PEPELEGAL
+http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2015/02/super_mario_capa_galeria_2020.png" group-title="24HS TOP",SUPER MARIO BROS
+http://24hrs.homelinux.com:8080/24H-supermario/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://ajufest.com.br/wp-content/uploads/2019/03/full-house-3.png" group-title="24HS TOP",TRES E DEMAIS
+http://24hrs.homelinux.com:8080/24H-tresedemais/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://gifs.eco.br/wp-content/uploads/2023/03/imagens-de-a-grande-familia-png-0.png" group-title="24HS TOP",A GRANDE FAMILIA
+http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Escolinha-do-professor-raimundo-logo.jpg" group-title="24HS TOP",ESCOLINHA PROFESSOR RAIMUNDO
+http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.uncyc.org/pt/4/42/OsTrapalhões.png" group-title="24HS TOP",OS TRAPALHOES
+http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/...rNexGU22942YmjK_72u0JAlermqmT82FVtXg&usqp=CAU" group-title="24HS TOP",JOAO KLEBER
+http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.opoderosochefinho.com.br/chefinho/images/Logo-with-date.png" group-title="24HS TOP",PODEROSO CHEFINHO
+http://24hrs.homelinux.com:8080/24H-O.Poderoso.Chefinho.S01-S02/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://gifs.eco.br/wp-content/uploads/2023/09/imagens-da-luluzinha-png-1.png" group-title="24HS TOP",LULUZINHA
+http://24hrs.homelinux.com:8080/24H-luluzinha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="24HS TOP",BOB ESPONJA
+http://24hrs.homelinux.com:8080/24H-bobesponja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/13/Masha-And-The-Bear-PNG-Transparent-Image.png" group-title="24HS TOP",MASHA E O URSO
+http://24hrs.homelinux.com:8080/24H-Masha.e.o.Urso.S01eS02eS03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2b/Peppa_Pig_logo.png" group-title="24HS TOP",PEPPA PIG
+http://24hrs.homelinux.com:8080/24H-Peppa.Pig.S01.S02.S03.S04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2016/06/o-show-da-luna-03.png" group-title="24HS TOP",SHOW DA LUNA
+http://24hrs.homelinux.com:8080/24H-showdaluna/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/v...0/height/360?cb=20221228203854&path-prefix=pt" group-title="24HS TOP",PEQUENO URSO
+http://24hrs.homelinux.com:8080/24H-pequenourso/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.c...00/três+espiãs+demais-gifs+linda+lima+(8).png" group-title="24HS TOP",TRES ESPIAS
+http://24hrs.homelinux.com:8080/24H-tresespias/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/bf/66/4ebf662256e3487bf165c7046795160f.png" group-title="24HS TOP",LADY BUG
+http://24hrs.homelinux.com:8080/24H-ladybug/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipe...rry_logo.svg/220px-Tom_and_Jerry_logo.svg.png" group-title="24HS TOP",TOM & JERRY
+http://24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipe.../Popyeye-logo.svg/1200px-Popyeye-logo.svg.png" group-title="24HS TOP",POPEYE
+http://24hrs.homelinux.com:8080/24H-Popeye.S01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/94/Woody_Woodpecker_logo.png" group-title="24HS TOP",PICA PAU
+http://24hrs.homelinux.com:8080/24H-picapau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.disneyclips.com/images/images/mickey-donald-rollerskating.png" group-title="24HS TOP",MICKEY DONALD
+http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.launchbox-app.com/d84590b0-591f-43a0-bdb2-ee08fdbaf875.png" group-title="24HS TOP",O FANTASTICO MUNDO DE BOBY
+http://24hrs.homelinux.com:8080/24H-ofantasticomundodeboby/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tRgWFuXp2XcNk3sg8QUOh6wbnpv.png" group-title="24HS TOP",A VACA E O FRANGO
+http://24hrs.homelinux.com:8080/24H-avacaeofrango/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/...,usm_0.66_1.00_0.01,enc_auto/IMG_7377_PNG.png" group-title="24HS TOP",MANDA CHUVA
+http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png" group-title="24HS TOP",OS SIMPSONS
+http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipe...99_logo.svg/2560px-Futurama_1999_logo.svg.png" group-title="24HS TOP",FUTURAMA
+http://24hrs.homelinux.com:8080/24H-futurama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://occ-0-2794-2219.1.nflxso.ne...3dBLvDa1ZWjukOeZYld5panf-gJpn5o8vTo.png?r=d52" group-title="24HS TOP", APENAS UM SHOW
+http://24hrs.homelinux.com:8080/24H-apenasumshow/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipe...sign_logo.png/1085px-South_Park_sign_logo.png" group-title="24HS TOP",SOUTH PARK
+http://24hrs.homelinux.com:8080/24H-southpark/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1252641254/logo_qd_400x400.png" group-title="24HS TOP",PEGADINHAS
+http://24hrs.homelinux.com:8080/24H-pegadihassilviosantos.txt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/75/Tô_De_Graça.png " group-title="24HS TOP",TO DE GRACA
+http://24hrs.homelinux.com:8080/24H-todegraca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/36KgNhtrgMZh3Zt4p2o9RalFvXV.png" group-title="24HS TOP",EU A PATROA E AS CRIANCAS
+http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fresh_Prince_Bel_Aire_logo.png" group-title="24HS TOP",MALUCO NO PEDACO
+http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/two-and-a-half-men-logo-A0D1CE98D7-seeklogo.com.png" group-title="24HS TOP",DOIS HOMENS E MEIO
+http://24hrs.homelinux.com:8080/24H-2HomensEmeio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/d...on/latest?cb=20200321202720&path-prefix=pt-br" group-title="24HS TOP",AS VISOES DA RAVEN
+http://24hrs.homelinux.com:8080/24H-asvisoesdaraven/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipe.../Friends_logo.svg/1280px-Friends_logo.svg.png" group-title="24HS TOP",FRIENDS
+http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/f...est/scale-to-width-down/400?cb=20150706030147" group-title="24HS TOP",DRAKE E JOSH
+http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/c...down/1920?cb=20221030132857&path-prefix=pt-br" group-title="24HS TOP",TODO MUNDO ODEIA O CRIS
+http://24hrs.homelinux.com:8080/24H-todomundoodeiaocris/video.m3u8
