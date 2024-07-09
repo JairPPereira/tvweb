@@ -101,9 +101,6 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="CANAIS | EVANGÉLICOS",TV Novo Tempo
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/12.m3u8
 
-#EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS", Band News
-http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/16.m3u8
-
 #EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS", Band News²
 https://abc.embedmax.site/bandnews/index.m3u8
 
@@ -330,7 +327,7 @@ http://hzcdn.vood.top:80/hls/635_.m3u8
 http://hzcdn.vood.top:80/hls/664_.m3u8
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD²" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E HD²
-http://hzcdn.vood.top:80/hls/666_.m3u8
+https://abc.embedmax.site/ae/index.m3u8
 
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC SD²
 http://hzcdn.vood.top:80/hls/669_.m3u8
