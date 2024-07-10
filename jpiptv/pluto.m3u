@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml"
+#EXTINF:-1 tvg-id="GOLS DA RODADA ⚽" tvg-logo="https://i.postimg.cc/wB7KCrQz/FUTEBOL-SERVER.png" group-title="EVENTOS DO DIA",GOLS DA RODADA ⚽
+http://tbest.live/12897751467/31594499568/364943
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/3.m3u8
 
@@ -421,6 +423,285 @@ https://abc.embedmax.site/hbosignature/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://prostore.app/logos/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME HD
 https://abc.embedmax.site/hboxtreme/index.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT+ 1 HD" tvg-logo="https://i.postimg.cc/vB0psMxD/PARAMOUNT-PLUS-HD.png" group-title="ESPORTES PPV",PARAMOUNT+ 1 HD
+http://tbest.live/12897751467/31594499568/156418
+#EXTINF:-1 tvg-id="PARAMOUNT+ 1 SD" tvg-logo="https://i.postimg.cc/pdHNQstV/PARAMOUNT-PLUS-SD.png" group-title="ESPORTES PPV",PARAMOUNT+ 1 SD
+http://tbest.live/12897751467/31594499568/156633
+#EXTINF:-1 tvg-id="PARAMOUNT+ 2 HD" tvg-logo="https://i.postimg.cc/vB0psMxD/PARAMOUNT-PLUS-HD.png" group-title="ESPORTES PPV",PARAMOUNT+ 2 HD
+http://tbest.live/12897751467/31594499568/156419
+#EXTINF:-1 tvg-id="PARAMOUNT+ 2 SD" tvg-logo="https://i.postimg.cc/pdHNQstV/PARAMOUNT-PLUS-SD.png" group-title="ESPORTES PPV",PARAMOUNT+ 2 SD
+http://tbest.live/12897751467/31594499568/156634
+#EXTINF:-1 tvg-id="PARAMOUNT+ 3 HD" tvg-logo="https://i.postimg.cc/vB0psMxD/PARAMOUNT-PLUS-HD.png" group-title="ESPORTES PPV",PARAMOUNT+ 3 HD
+http://tbest.live/12897751467/31594499568/156420
+#EXTINF:-1 tvg-id="PARAMOUNT+ 3 SD" tvg-logo="https://i.postimg.cc/pdHNQstV/PARAMOUNT-PLUS-SD.png" group-title="ESPORTES PPV",PARAMOUNT+ 3 SD
+http://tbest.live/12897751467/31594499568/156635
+#EXTINF:-1 tvg-id="PARAMOUNT+ 4 HD" tvg-logo="https://i.postimg.cc/vB0psMxD/PARAMOUNT-PLUS-HD.png" group-title="ESPORTES PPV",PARAMOUNT+ 4 HD
+http://tbest.live/12897751467/31594499568/156421
+#EXTINF:-1 tvg-id="PARAMOUNT+ 4 SD" tvg-logo="https://i.postimg.cc/pdHNQstV/PARAMOUNT-PLUS-SD.png" group-title="ESPORTES PPV",PARAMOUNT+ 4 SD
+http://tbest.live/12897751467/31594499568/156416
+#EXTINF:-1 tvg-id="CANAL GOAT 01" tvg-logo="https://i.postimg.cc/SRyMTZ53/CANAL-GOAT-SD.png" group-title="ESPORTES PPV",CANAL GOAT 01
+http://tbest.live/12897751467/31594499568/172570
+#EXTINF:-1 tvg-id="CANAL GOAT 02" tvg-logo="https://i.postimg.cc/SRyMTZ53/CANAL-GOAT-SD.png" group-title="ESPORTES PPV",CANAL GOAT 02
+http://tbest.live/12897751467/31594499568/172571
+#EXTINF:-1 tvg-id="CANAL GOAT 03" tvg-logo="https://i.postimg.cc/SRyMTZ53/CANAL-GOAT-SD.png" group-title="ESPORTES PPV",CANAL GOAT 03
+http://tbest.live/12897751467/31594499568/172572
+#EXTINF:-1 tvg-id="CANAL GOAT 04" tvg-logo="https://i.postimg.cc/SRyMTZ53/CANAL-GOAT-SD.png" group-title="ESPORTES PPV",CANAL GOAT 04
+http://tbest.live/12897751467/31594499568/171851
+#EXTINF:-1 tvg-id="REDE FURACÃO HD" tvg-logo="https://i.postimg.cc/Kz7T5X9t/FURACAOTV-SD.png" group-title="ESPORTES",REDE FURACÃO HD
+http://tbest.live/12897751467/31594499568/156257
+#EXTINF:-1 tvg-id="PRIME ESPORTES 1" tvg-logo="https://i.postimg.cc/zvBnDtjW/PRIME-SPORTS-SD.png" group-title="ESPORTES PPV",PRIME ESPORTES 1
+http://tbest.live/12897751467/31594499568/363823
+#EXTINF:-1 tvg-id="PRIME ESPORTES 2" tvg-logo="https://i.postimg.cc/zvBnDtjW/PRIME-SPORTS-SD.png" group-title="ESPORTES PPV",PRIME ESPORTES 2
+http://tbest.live/12897751467/31594499568/363824
+#EXTINF:-1 tvg-id="PRIME ESPORTES 3" tvg-logo="https://i.postimg.cc/zvBnDtjW/PRIME-SPORTS-SD.png" group-title="ESPORTES PPV",PRIME ESPORTES 3
+http://tbest.live/12897751467/31594499568/363825
+#EXTINF:-1 tvg-id="PRIME VIDEO 01" tvg-logo="https://i.postimg.cc/3wXjtDNy/PRIME-VIDEO-SD.png" group-title="ESPORTES PPV",PRIME VIDEO 01
+http://tbest.live/12897751467/31594499568/156356
+#EXTINF:-1 tvg-id="PRIME VIDEO 02" tvg-logo="https://i.postimg.cc/3wXjtDNy/PRIME-VIDEO-SD.png" group-title="ESPORTES PPV",PRIME VIDEO 02
+http://tbest.live/12897751467/31594499568/156357
+#EXTINF:-1 tvg-id="PRIME VIDEO 03" tvg-logo="https://i.postimg.cc/3wXjtDNy/PRIME-VIDEO-SD.png" group-title="ESPORTES PPV",PRIME VIDEO 03
+http://tbest.live/12897751467/31594499568/156364
+#EXTINF:-1 tvg-id="PRIME VIDEO 04" tvg-logo="https://i.postimg.cc/3wXjtDNy/PRIME-VIDEO-SD.png" group-title="ESPORTES PPV",PRIME VIDEO 04
+http://tbest.live/12897751467/31594499568/156808
+#EXTINF:-1 tvg-id="TNT SPORTS 01 HD" tvg-logo="https://i.postimg.cc/PqTsnTh8/TNT-SPORTS-SD.png" group-title="ESPORTES",TNT SPORTS 01 HD
+http://tbest.live/12897751467/31594499568/156349
+#EXTINF:-1 tvg-id="TNT SPORTS 02 HD" tvg-logo="https://i.postimg.cc/PqTsnTh8/TNT-SPORTS-SD.png" group-title="ESPORTES",TNT SPORTS 02 HD
+http://tbest.live/12897751467/31594499568/156350
+#EXTINF:-1 tvg-id="TNT SPORTS 03 HD" tvg-logo="https://i.postimg.cc/PqTsnTh8/TNT-SPORTS-SD.png" group-title="ESPORTES",TNT SPORTS 03 HD
+http://tbest.live/12897751467/31594499568/156351
+#EXTINF:-1 tvg-id="DAZN 01 HD" tvg-logo="https://i.postimg.cc/VsRMr808/DAZN-SD.png" group-title="ESPORTES PPV",DAZN 01 HD
+http://tbest.live/12897751467/31594499568/156353
+#EXTINF:-1 tvg-id="DAZN 02 HD" tvg-logo="https://i.postimg.cc/VsRMr808/DAZN-SD.png" group-title="ESPORTES PPV",DAZN 02 HD
+http://tbest.live/12897751467/31594499568/156354
+#EXTINF:-1 tvg-id="DAZN 03 HD" tvg-logo="https://i.postimg.cc/VsRMr808/DAZN-SD.png" group-title="ESPORTES PPV",DAZN 03 HD
+http://tbest.live/12897751467/31594499568/156355
+#EXTINF:-1 tvg-id="EVENTOS PPV" tvg-logo="" group-title="ESPORTES PPV",EVENTOS PPV
+http://tbest.live/12897751467/31594499568/363822
+#EXTINF:-1 tvg-id="COPA DO BRASIL 1 HD" tvg-logo="https://i.postimg.cc/4yBhr6Rd/COPA-DO-BRASIL.png" group-title="ESPORTES PPV",COPA DO BRASIL 1 HD
+http://tbest.live/12897751467/31594499568/341489
+#EXTINF:-1 tvg-id="COPA DO BRASIL 2 HD" tvg-logo="https://i.postimg.cc/4yBhr6Rd/COPA-DO-BRASIL.png" group-title="ESPORTES PPV",COPA DO BRASIL 2 HD
+http://tbest.live/12897751467/31594499568/341490
+#EXTINF:-1 tvg-id="COPA DO BRASIL 3 HD" tvg-logo="https://i.postimg.cc/4yBhr6Rd/COPA-DO-BRASIL.png" group-title="ESPORTES PPV",COPA DO BRASIL 3 HD
+http://tbest.live/12897751467/31594499568/341491
+#EXTINF:-1 tvg-id="COPA DO BRASIL 4 HD" tvg-logo="https://i.postimg.cc/4yBhr6Rd/COPA-DO-BRASIL.png" group-title="ESPORTES PPV",COPA DO BRASIL 4 HD
+http://tbest.live/12897751467/31594499568/341963
+#EXTINF:-1 tvg-id="COPA DO BRASIL 5 HD" tvg-logo="https://i.postimg.cc/4yBhr6Rd/COPA-DO-BRASIL.png" group-title="ESPORTES PPV",COPA DO BRASIL 5 HD
+http://tbest.live/12897751467/31594499568/341964
+#EXTINF:-1 tvg-id="COPA DO BRASIL 6 HD" tvg-logo="https://i.postimg.cc/4yBhr6Rd/COPA-DO-BRASIL.png" group-title="ESPORTES PPV",COPA DO BRASIL 6 HD
+http://tbest.live/12897751467/31594499568/341965
+#EXTINF:-1 tvg-id="COPA DO BRASIL 7 HD" tvg-logo="https://i.postimg.cc/4yBhr6Rd/COPA-DO-BRASIL.png" group-title="ESPORTES PPV",COPA DO BRASIL 7 HD
+http://tbest.live/12897751467/31594499568/342035
+#EXTINF:-1 tvg-id="COPA DO BRASIL 8 HD" tvg-logo="https://i.postimg.cc/4yBhr6Rd/COPA-DO-BRASIL.png" group-title="ESPORTES PPV",COPA DO BRASIL 8 HD
+http://tbest.live/12897751467/31594499568/342036
+#EXTINF:-1 tvg-id="Paulistão Play TV" tvg-logo="https://i.postimg.cc/VvDmXGTZ/paulistao-play.png" group-title="ESPORTES PPV",Paulistão Play TV
+http://tbest.live/12897751467/31594499568/156402
+#EXTINF:-1 tvg-id="PAULISTÃO PLAY 01 HD" tvg-logo="https://i.postimg.cc/VvDmXGTZ/paulistao-play.png" group-title="ESPORTES PPV",PAULISTÃO PLAY 01 HD
+http://tbest.live/12897751467/31594499568/156398
+#EXTINF:-1 tvg-id="PAULISTÃO PLAY 02 HD" tvg-logo="https://i.postimg.cc/VvDmXGTZ/paulistao-play.png" group-title="ESPORTES PPV",PAULISTÃO PLAY 02 HD
+http://tbest.live/12897751467/31594499568/156399
+#EXTINF:-1 tvg-id="PAULISTÃO PLAY 03 HD" tvg-logo="https://i.postimg.cc/VvDmXGTZ/paulistao-play.png" group-title="ESPORTES PPV",PAULISTÃO PLAY 03 HD
+http://tbest.live/12897751467/31594499568/156400
+#EXTINF:-1 tvg-id="PAULISTÃO PLAY 04 HD" tvg-logo="https://i.postimg.cc/VvDmXGTZ/paulistao-play.png" group-title="ESPORTES PPV",PAULISTÃO PLAY 04 HD
+http://tbest.live/12897751467/31594499568/156401
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 01 HD" tvg-logo="https://i.postimg.cc/x8TwPzGY/ESPORTES-PPV-BRANCA.png" group-title="ESPORTES PPV",NOSSO FUTEBOL 01 HD
+http://tbest.live/12897751467/31594499568/156409
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 02 HD" tvg-logo="https://i.postimg.cc/x8TwPzGY/ESPORTES-PPV-BRANCA.png" group-title="ESPORTES PPV",NOSSO FUTEBOL 02 HD
+http://tbest.live/12897751467/31594499568/156410
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 03 HD" tvg-logo="https://i.postimg.cc/x8TwPzGY/ESPORTES-PPV-BRANCA.png" group-title="ESPORTES PPV",NOSSO FUTEBOL 03 HD
+http://tbest.live/12897751467/31594499568/156411
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 04 HD" tvg-logo="https://i.postimg.cc/x8TwPzGY/ESPORTES-PPV-BRANCA.png" group-title="ESPORTES PPV",NOSSO FUTEBOL 04 HD
+http://tbest.live/12897751467/31594499568/156412
+#EXTINF:-1 tvg-id="F.SPORTS 01 HD" tvg-logo="https://i.postimg.cc/02yS7B7J/F-SPORTS-SD.png" group-title="ESPORTES PPV",F.SPORTS 01 HD
+http://tbest.live/12897751467/31594499568/156440
+#EXTINF:-1 tvg-id="F.SPORTS 02 HD" tvg-logo="https://i.postimg.cc/02yS7B7J/F-SPORTS-SD.png" group-title="ESPORTES PPV",F.SPORTS 02 HD
+http://tbest.live/12897751467/31594499568/156821
+#EXTINF:-1 tvg-id="F.SPORTS 03 HD" tvg-logo="https://i.postimg.cc/02yS7B7J/F-SPORTS-SD.png" group-title="ESPORTES PPV",F.SPORTS 03 HD
+http://tbest.live/12897751467/31594499568/156441
+#EXTINF:-1 tvg-id="F.SPORTS 04 HD" tvg-logo="https://i.postimg.cc/02yS7B7J/F-SPORTS-SD.png" group-title="ESPORTES PPV",F.SPORTS 04 HD
+http://tbest.live/12897751467/31594499568/156442
+#EXTINF:-1 tvg-id="TV NSports 1" tvg-logo="https://i.postimg.cc/k53DY1Rs/N-SPORTS-SD.png" group-title="ESPORTES PPV",TV NSports 1
+http://tbest.live/12897751467/31594499568/171855
+#EXTINF:-1 tvg-id="TV NSports 2" tvg-logo="https://i.postimg.cc/k53DY1Rs/N-SPORTS-SD.png" group-title="ESPORTES PPV",TV NSports 2
+http://tbest.live/12897751467/31594499568/171856
+#EXTINF:-1 tvg-id="TV NSports 3" tvg-logo="https://i.postimg.cc/k53DY1Rs/N-SPORTS-SD.png" group-title="ESPORTES PPV",TV NSports 3
+http://tbest.live/12897751467/31594499568/171857
+#EXTINF:-1 tvg-id="TV NSports 4" tvg-logo="https://i.postimg.cc/k53DY1Rs/N-SPORTS-SD.png" group-title="ESPORTES PPV",TV NSports 4
+http://tbest.live/12897751467/31594499568/171858
+#EXTINF:-1 tvg-id="PARANAENSE 01 HD" tvg-logo="http://tbest.live:80/images/af37c2e9f14f41c6f8883d98c58356a3.png" group-title="ESPORTES PPV",PARANAENSE 01 HD
+http://tbest.live/12897751467/31594499568/156404
+#EXTINF:-1 tvg-id="PARANAENSE 02 HD" tvg-logo="http://tbest.live:80/images/af37c2e9f14f41c6f8883d98c58356a3.png" group-title="ESPORTES PPV",PARANAENSE 02 HD
+http://tbest.live/12897751467/31594499568/156405
+#EXTINF:-1 tvg-id="PARANAENSE 03 HD" tvg-logo="http://tbest.live:80/images/af37c2e9f14f41c6f8883d98c58356a3.png" group-title="ESPORTES PPV",PARANAENSE 03 HD
+http://tbest.live/12897751467/31594499568/156406
+#EXTINF:-1 tvg-id="PARANAENSE 04 HD" tvg-logo="http://tbest.live:80/images/af37c2e9f14f41c6f8883d98c58356a3.png" group-title="ESPORTES PPV",PARANAENSE 04 HD
+http://tbest.live/12897751467/31594499568/156407
+#EXTINF:-1 tvg-id="ONE FOOTBALL HD" tvg-logo="https://i.postimg.cc/658ysQ6m/onefootball.png" group-title="ESPORTES PPV",ONE FOOTBALL HD
+http://tbest.live/12897751467/31594499568/156408
+#EXTINF:-1 tvg-id="FUTSAL 01 HD" tvg-logo="https://i.postimg.cc/3Jfv1FZf/LNF-SD.png" group-title="ESPORTES PPV",FUTSAL 01 HD
+http://tbest.live/12897751467/31594499568/156358
+#EXTINF:-1 tvg-id="FUTSAL 02 HD" tvg-logo="https://i.postimg.cc/3Jfv1FZf/LNF-SD.png" group-title="ESPORTES PPV",FUTSAL 02 HD
+http://tbest.live/12897751467/31594499568/156359
+#EXTINF:-1 tvg-id="FUTSAL 03 HD" tvg-logo="https://i.postimg.cc/3Jfv1FZf/LNF-SD.png" group-title="ESPORTES PPV",FUTSAL 03 HD
+http://tbest.live/12897751467/31594499568/156423
+#EXTINF:-1 tvg-id="FUTSAL 04 HD" tvg-logo="https://i.postimg.cc/3Jfv1FZf/LNF-SD.png" group-title="ESPORTES PPV",FUTSAL 04 HD
+http://tbest.live/12897751467/31594499568/156424
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 01 SD" tvg-logo="https://i.postimg.cc/q7sqPs8T/NOSSO-FUTEBOL-SD.png" group-title="ESPORTES PPV",NOSSO FUTEBOL 01 SD
+http://tbest.live/12897751467/31594499568/156629
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 03 SD" tvg-logo="https://i.postimg.cc/q7sqPs8T/NOSSO-FUTEBOL-SD.png" group-title="ESPORTES PPV",NOSSO FUTEBOL 03 SD
+http://tbest.live/12897751467/31594499568/156630
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 02 SD" tvg-logo="https://i.postimg.cc/q7sqPs8T/NOSSO-FUTEBOL-SD.png" group-title="ESPORTES PPV",NOSSO FUTEBOL 02 SD
+http://tbest.live/12897751467/31594499568/156631
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 04 SD" tvg-logo="https://i.postimg.cc/q7sqPs8T/NOSSO-FUTEBOL-SD.png" group-title="ESPORTES PPV",NOSSO FUTEBOL 04 SD
+http://tbest.live/12897751467/31594499568/156632
+#EXTINF:-1 tvg-id="CANAL POKER" tvg-logo="https://i.postimg.cc/Kzmjx1Ng/POKER-SD.png" group-title="ESPORTES PPV",CANAL POKER
+http://tbest.live/12897751467/31594499568/172653
+#EXTINF:-1 tvg-id="CANAL SURF" tvg-logo="https://i.postimg.cc/PxKWjsmT/SURF-SD.png" group-title="ESPORTES PPV",CANAL SURF
+http://tbest.live/12897751467/31594499568/172654
+#EXTINF:-1 tvg-id="CANAL VOLEI" tvg-logo="https://i.postimg.cc/v8nJmRBR/volei.png" group-title="ESPORTES PPV",CANAL VOLEI
+http://tbest.live/12897751467/31594499568/172655
+#EXTINF:-1 tvg-id="RODEIO E VAQUEJADA" tvg-logo="https://i.postimg.cc/MHFp7d8y/VAQUEJADA-SD.png" group-title="ESPORTES PPV",RODEIO E VAQUEJADA
+http://tbest.live/12897751467/31594499568/172657
+#EXTINF:-1 tvg-id="YOUTUBE 1 HD" tvg-logo="https://i.postimg.cc/PxdW9rvS/YOUTUBE-SD.png" group-title="ESPORTES PPV",YOUTUBE 1 HD
+http://tbest.live/12897751467/31594499568/172687
+#EXTINF:-1 tvg-id="YOUTUBE 2 HD" tvg-logo="https://i.postimg.cc/PxdW9rvS/YOUTUBE-SD.png" group-title="ESPORTES PPV",YOUTUBE 2 HD
+http://tbest.live/12897751467/31594499568/172686
+#EXTINF:-1 tvg-id="YOUTUBE 3 HD" tvg-logo="https://i.postimg.cc/PxdW9rvS/YOUTUBE-SD.png" group-title="ESPORTES PPV",YOUTUBE 3 HD
+http://tbest.live/12897751467/31594499568/172685
+#EXTINF:-1 tvg-id="YOUTUBE 4 HD" tvg-logo="https://i.postimg.cc/PxdW9rvS/YOUTUBE-SD.png" group-title="ESPORTES PPV",YOUTUBE 4 HD
+http://tbest.live/12897751467/31594499568/172684
+#EXTINF:-1 tvg-id="YOUTUBE 5 HD" tvg-logo="https://i.postimg.cc/PxdW9rvS/YOUTUBE-SD.png" group-title="ESPORTES PPV",YOUTUBE 5 HD
+http://tbest.live/12897751467/31594499568/172683
+#EXTINF:-1 tvg-id="YOUTUBE 6 HD" tvg-logo="https://i.postimg.cc/PxdW9rvS/YOUTUBE-SD.png" group-title="ESPORTES PPV",YOUTUBE 6 HD
+http://tbest.live/12897751467/31594499568/172682
+#EXTINF:-1 tvg-id="YOUTUBE 7 HD" tvg-logo="https://i.postimg.cc/PxdW9rvS/YOUTUBE-SD.png" group-title="ESPORTES PPV",YOUTUBE 7 HD
+http://tbest.live/12897751467/31594499568/172681
+#EXTINF:-1 tvg-id="YOUTUBE 8 HD" tvg-logo="https://i.postimg.cc/PxdW9rvS/YOUTUBE-SD.png" group-title="ESPORTES PPV",YOUTUBE 8 HD
+http://tbest.live/12897751467/31594499568/172680
+#EXTINF:-1 tvg-id="OneFootball 1 HD" tvg-logo="https://i.postimg.cc/SRsKYHHS/ONEFOOTBALL-SD.png" group-title="ESPORTES PPV",OneFootball 1 HD
+http://tbest.live/12897751467/31594499568/172698
+#EXTINF:-1 tvg-id="OneFootball 2 HD" tvg-logo="https://i.postimg.cc/SRsKYHHS/ONEFOOTBALL-SD.png" group-title="ESPORTES PPV",OneFootball 2 HD
+http://tbest.live/12897751467/31594499568/172696
+#EXTINF:-1 tvg-id="OneFootball 3 HD" tvg-logo="https://i.postimg.cc/SRsKYHHS/ONEFOOTBALL-SD.png" group-title="ESPORTES PPV",OneFootball 3 HD
+http://tbest.live/12897751467/31594499568/172695
+#EXTINF:-1 tvg-id="OneFootball 4 HD" tvg-logo="https://i.postimg.cc/SRsKYHHS/ONEFOOTBALL-SD.png" group-title="ESPORTES PPV",OneFootball 4 HD
+http://tbest.live/12897751467/31594499568/172694
+#EXTINF:-1 tvg-id="OneFootball 5 HD" tvg-logo="https://i.postimg.cc/SRsKYHHS/ONEFOOTBALL-SD.png" group-title="ESPORTES PPV",OneFootball 5 HD
+http://tbest.live/12897751467/31594499568/172693
+#EXTINF:-1 tvg-id="OneFootball 6 HD" tvg-logo="https://i.postimg.cc/SRsKYHHS/ONEFOOTBALL-SD.png" group-title="ESPORTES PPV",OneFootball 6 HD
+http://tbest.live/12897751467/31594499568/172692
+#EXTINF:-1 tvg-id="OneFootball 7 HD" tvg-logo="https://i.postimg.cc/SRsKYHHS/ONEFOOTBALL-SD.png" group-title="ESPORTES PPV",OneFootball 7 HD
+http://tbest.live/12897751467/31594499568/172691
+#EXTINF:-1 tvg-id="OneFootball 8 HD" tvg-logo="https://i.postimg.cc/SRsKYHHS/ONEFOOTBALL-SD.png" group-title="ESPORTES PPV",OneFootball 8 HD
+http://tbest.live/12897751467/31594499568/172690
+#EXTINF:-1 tvg-id="OneFootball 9 HD" tvg-logo="https://i.postimg.cc/SRsKYHHS/ONEFOOTBALL-SD.png" group-title="ESPORTES PPV",OneFootball 9 HD
+http://tbest.live/12897751467/31594499568/172689
+#EXTINF:-1 tvg-id="OneFootball 10 HD" tvg-logo="https://i.postimg.cc/SRsKYHHS/ONEFOOTBALL-SD.png" group-title="ESPORTES PPV",OneFootball 10 HD
+http://tbest.live/12897751467/31594499568/172688
+#EXTINF:-1 tvg-id="COPA VERDE 01 HD" tvg-logo="https://i.postimg.cc/W1YYKYC7/copa-verde.jpg" group-title="ESPORTES PPV",COPA VERDE 01 HD
+http://tbest.live/12897751467/31594499568/342921
+#EXTINF:-1 tvg-id="COPA VERDE 02 HD" tvg-logo="https://i.postimg.cc/W1YYKYC7/copa-verde.jpg" group-title="ESPORTES PPV",COPA VERDE 02 HD
+http://tbest.live/12897751467/31594499568/342922
+#EXTINF:-1 tvg-id="COPA VERDE 03 HD" tvg-logo="https://i.postimg.cc/W1YYKYC7/copa-verde.jpg" group-title="ESPORTES PPV",COPA VERDE 03 HD
+http://tbest.live/12897751467/31594499568/342923
+#EXTINF:-1 tvg-id="COPA VERDE 04 HD" tvg-logo="https://i.postimg.cc/W1YYKYC7/copa-verde.jpg" group-title="ESPORTES PPV",COPA VERDE 04 HD
+http://tbest.live/12897751467/31594499568/342924
+#EXTINF:-1 tvg-id="Campeonato Paulista A2 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Paulista A2 01
+http://tbest.live/12897751467/31594499568/172604
+#EXTINF:-1 tvg-id="Campeonato Paulista A2 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Paulista A2 02
+http://tbest.live/12897751467/31594499568/172605
+#EXTINF:-1 tvg-id="Campeonato Paulista A2 03" tvg-logo="" group-title="ESPORTES PPV",Campeonato Paulista A2 03
+http://tbest.live/12897751467/31594499568/172606
+#EXTINF:-1 tvg-id="Campeonato Paulista A2 04" tvg-logo="" group-title="ESPORTES PPV",Campeonato Paulista A2 04
+http://tbest.live/12897751467/31594499568/172607
+#EXTINF:-1 tvg-id="Campeonato Paulista A3 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Paulista A3 01
+http://tbest.live/12897751467/31594499568/172608
+#EXTINF:-1 tvg-id="Campeonato Paulista A3 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Paulista A3 02
+http://tbest.live/12897751467/31594499568/172609
+#EXTINF:-1 tvg-id="Campeonato Carioca 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Carioca 01
+http://tbest.live/12897751467/31594499568/172578
+#EXTINF:-1 tvg-id="Campeonato Carioca 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Carioca 02
+http://tbest.live/12897751467/31594499568/172579
+#EXTINF:-1 tvg-id="Campeonato Paranaense 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Paranaense 01
+http://tbest.live/12897751467/31594499568/172600
+#EXTINF:-1 tvg-id="Campeonato Paranaense 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Paranaense 02
+http://tbest.live/12897751467/31594499568/172601
+#EXTINF:-1 tvg-id="Campeonato Paranaense 03" tvg-logo="" group-title="ESPORTES PPV",Campeonato Paranaense 03
+http://tbest.live/12897751467/31594499568/172602
+#EXTINF:-1 tvg-id="Campeonato Gaucho 01" tvg-logo="240618" group-title="ESPORTES PPV",Campeonato Gaucho 01
+http://tbest.live/12897751467/31594499568/172587
+#EXTINF:-1 tvg-id="Campeonato Gaucho 02" tvg-logo="240619" group-title="ESPORTES PPV",Campeonato Gaucho 02
+http://tbest.live/12897751467/31594499568/172588
+#EXTINF:-1 tvg-id="Campeonato Catarinense 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Catarinense 01
+http://tbest.live/12897751467/31594499568/172580
+#EXTINF:-1 tvg-id="Campeonato Catarinense 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Catarinense 02
+http://tbest.live/12897751467/31594499568/172581
+#EXTINF:-1 tvg-id="Campeonato Catarinense 03" tvg-logo="" group-title="ESPORTES PPV",Campeonato Catarinense 03
+http://tbest.live/12897751467/31594499568/172582
+#EXTINF:-1 tvg-id="Campeonato Capixaba 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Capixaba 01
+http://tbest.live/12897751467/31594499568/172583
+#EXTINF:-1 tvg-id="Campeonato Capixaba 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Capixaba 02
+http://tbest.live/12897751467/31594499568/172584
+#EXTINF:-1 tvg-id="Campeonato Cearense 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Cearense 01
+http://tbest.live/12897751467/31594499568/172585
+#EXTINF:-1 tvg-id="Campeonato Cearense 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Cearense 02
+http://tbest.live/12897751467/31594499568/172586
+#EXTINF:-1 tvg-id="Campeonato Paraense 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Paraense 01
+http://tbest.live/12897751467/31594499568/172599
+#EXTINF:-1 tvg-id="Campeonato Paraibano 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Paraibano 01
+http://tbest.live/12897751467/31594499568/172603
+#EXTINF:-1 tvg-id="Campeonato Pernambucano 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Pernambucano 01
+http://tbest.live/12897751467/31594499568/172610
+#EXTINF:-1 tvg-id="Campeonato Pernambucano 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Pernambucano 02
+http://tbest.live/12897751467/31594499568/172611
+#EXTINF:-1 tvg-id="Campeonato Pernambucano 03" tvg-logo="" group-title="ESPORTES PPV",Campeonato Pernambucano 03
+http://tbest.live/12897751467/31594499568/172612
+#EXTINF:-1 tvg-id="Campeonato Sergipano 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Sergipano 01
+http://tbest.live/12897751467/31594499568/172617
+#EXTINF:-1 tvg-id="Campeonato Sergipano 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Sergipano 02
+http://tbest.live/12897751467/31594499568/172618
+#EXTINF:-1 tvg-id="Campeonato Tocantinense 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Tocantinense 01
+http://tbest.live/12897751467/31594499568/172619
+#EXTINF:-1 tvg-id="Campeonato Baiano 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Baiano 01
+http://tbest.live/12897751467/31594499568/172575
+#EXTINF:-1 tvg-id="Campeonato Mineiro 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Mineiro 01
+http://tbest.live/12897751467/31594499568/172596
+#EXTINF:-1 tvg-id="Campeonato Mineiro 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Mineiro 02
+http://tbest.live/12897751467/31594499568/172597
+#EXTINF:-1 tvg-id="Campeonato Mineiro 03" tvg-logo="" group-title="ESPORTES PPV",Campeonato Mineiro 03
+http://tbest.live/12897751467/31594499568/172598
+#EXTINF:-1 tvg-id="Campeonato Goiano 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Goiano 01
+http://tbest.live/12897751467/31594499568/172589
+#EXTINF:-1 tvg-id="Campeonato Goiano 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Goiano 02
+http://tbest.live/12897751467/31594499568/172590
+#EXTINF:-1 tvg-id="Campeonato Goiano 03" tvg-logo="" group-title="ESPORTES PPV",Campeonato Goiano 03
+http://tbest.live/12897751467/31594499568/172591
+#EXTINF:-1 tvg-id="Campeonato Brasiliense 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Brasiliense 01
+http://tbest.live/12897751467/31594499568/172576
+#EXTINF:-1 tvg-id="Campeonato Brasiliense 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Brasiliense 02
+http://tbest.live/12897751467/31594499568/172577
+#EXTINF:-1 tvg-id="Campeonato Mato-Grossense 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Mato-Grossense 01
+http://tbest.live/12897751467/31594499568/172593
+#EXTINF:-1 tvg-id="Campeonato Mato-Grossense 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Mato-Grossense 02
+http://tbest.live/12897751467/31594499568/172594
+#EXTINF:-1 tvg-id="Campeonato Mato-Grossense 03" tvg-logo="" group-title="ESPORTES PPV",Campeonato Mato-Grossense 03
+http://tbest.live/12897751467/31594499568/172595
+#EXTINF:-1 tvg-id="Campeonato Alagoano 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Alagoano 01
+http://tbest.live/12897751467/31594499568/172573
+#EXTINF:-1 tvg-id="Campeonato Alagoano 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Alagoano 02
+http://tbest.live/12897751467/31594499568/172574
+#EXTINF:-1 tvg-id="Campeonato Maranhense 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Maranhense 01
+http://tbest.live/12897751467/31594499568/172592
+#EXTINF:-1 tvg-id="Campeonato Piauiense 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Piauiense 01
+http://tbest.live/12897751467/31594499568/172613
+#EXTINF:-1 tvg-id="Campeonato Piauiense 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Piauiense 02
+http://tbest.live/12897751467/31594499568/172614
+#EXTINF:-1 tvg-id="Campeonato Potiguar 01" tvg-logo="" group-title="ESPORTES PPV",Campeonato Potiguar 01
+http://tbest.live/12897751467/31594499568/172615
+#EXTINF:-1 tvg-id="Campeonato Potiguar 02" tvg-logo="" group-title="ESPORTES PPV",Campeonato Potiguar 02
+http://tbest.live/12897751467/31594499568/172616
+#EXTINF:-1 tvg-id="Zapping Sports" tvg-logo="https://postimg.cc/mh1pBS73.png" group-title="ESPORTES PPV",Zapping Sports
+http://tbest.live/12897751467/31594499568/365331
 
 #EXTINF:-1 tvg-id="Pluto Sucesso" tvg-name="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Sucesso
 https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
