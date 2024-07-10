@@ -1237,3 +1237,410 @@ http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/c...down/1920?cb=20221030132857&path-prefix=pt-br" group-title="24HS TOP",TODO MUNDO ODEIA O CRIS
 http://24hrs.homelinux.com:8080/24H-todomundoodeiaocris/video.m3u8
+
+#EXTINF:-1 tvg-id="Jorge da Capadócia (2024)" tvg-logo="https://image.tmdb.org/t/p/original/ynDiIH3bfEfAoAX5MOno3BcIiZs.jpg" description="",Jorge da Capadócia (2024)
+http://tbest.live/movie/12897751467/31594499568/369537.mp4
+#EXTINF:-1 tvg-id="O Preço da Herança da Vovó (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91Oi51b6unAU2ziK0o9wIkOMNda.jpg" description="",O Preço da Herança da Vovó (2024)
+http://tbest.live/movie/12897751467/31594499568/369535.mp4
+#EXTINF:-1 tvg-id="Sira (2024)" tvg-logo="https://image.tmdb.org/t/p/original/sTHB4UH9dOOJ9oRHbI9GaXNL7cD.jpg" description="",Sira (2024)
+http://tbest.live/movie/12897751467/31594499568/369532.mp4
+#EXTINF:-1 tvg-id="Sob as Águas do Sena (2024)" tvg-logo="https://image.tmdb.org/t/p/original/njsyAXtUcPjLCjOfGvtNLH4DHL2.jpg" description="",Sob as Águas do Sena (2024)
+http://tbest.live/movie/12897751467/31594499568/369531.mp4
+#EXTINF:-1 tvg-id="Saudosa Maloca (2024)" tvg-logo="https://image.tmdb.org/t/p/original/f6ZiesutSqM65BCklfydIwCpgOb.jpg" description="",Saudosa Maloca (2024)
+http://tbest.live/movie/12897751467/31594499568/369530.mp4
+#EXTINF:-1 tvg-id="Domingo à Noite (2024)" tvg-logo="https://image.tmdb.org/t/p/original/rZpDHf8sdAkQTinFVxe7qGTgd8R.jpg" description="",Domingo à Noite (2024)
+http://tbest.live/movie/12897751467/31594499568/369528.mp4
+#EXTINF:-1 tvg-id="Uma Família Feliz (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cgL3n62QkoXNbYymgeb4ZAtged.jpg" description="",Uma Família Feliz (2024)
+http://tbest.live/movie/12897751467/31594499568/369527.mp4
+#EXTINF:-1 tvg-id="Rafa Márquez: O Capitão (2024)" tvg-logo="https://image.tmdb.org/t/p/original/A1BNL3BLzrUkm7MN9VlkTyR2DCa.jpg" description="",Rafa Márquez: O Capitão (2024)
+http://tbest.live/movie/12897751467/31594499568/369525.mp4
+#EXTINF:-1 tvg-id="Baki Hanma x Kengan Ashura (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWEJj7wSVB5TIRFNtF3NkDX6zt8.jpg" description="",Baki Hanma x Kengan Ashura (2024)
+http://tbest.live/movie/12897751467/31594499568/369524.mp4
+#EXTINF:-1 tvg-id="Doleira: A História de Nelma Kodama (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOMu5Q3jYO2v1C8MULsSmhwNzrI.jpg" description="",Doleira: A História de Nelma Kodama (2024)
+http://tbest.live/movie/12897751467/31594499568/369523.mp4
+#EXTINF:-1 tvg-id="Basma (2024)" tvg-logo="https://image.tmdb.org/t/p/original/yZy37KupRzXv04sAo4xemr8ogUU.jpg" description="",Basma (2024)
+http://tbest.live/movie/12897751467/31594499568/369522.mp4
+#EXTINF:-1 tvg-id="Billy e Molly: Uma História de Amor Diferente (2024)" tvg-logo="https://image.tmdb.org/t/p/original/ksvg5VoDKcGBFt3Q2aLT2wOMKG.jpg" description="",Billy e Molly: Uma História de Amor Diferente (2024)
+http://tbest.live/movie/12897751467/31594499568/369521.mp4
+#EXTINF:-1 tvg-id="Sasquatch Sunset (2024)" tvg-logo="https://image.tmdb.org/t/p/original/uZNdH2zfws2BIy9ENtoFTFp0hPG.jpg" description="",Sasquatch Sunset (2024)
+http://tbest.live/movie/12897751467/31594499568/369520.mp4
+#EXTINF:-1 tvg-id="Os Segredos da Alimentação (2024)" tvg-logo="https://image.tmdb.org/t/p/original/rUCgAF6P0lfSU9Q2VqVErXVowOf.jpg" description="",Os Segredos da Alimentação (2024)
+http://tbest.live/movie/12897751467/31594499568/369519.mp4
+#EXTINF:-1 tvg-id="O Vendedor de Ilusões: O Caso Geração Zoe (2024)" tvg-logo="https://image.tmdb.org/t/p/original/j7InavXeFVQvFrr9OWGx69PsEkr.jpg" description="",O Vendedor de Ilusões: O Caso Geração Zoe (2024)
+http://tbest.live/movie/12897751467/31594499568/369518.mp4
+#EXTINF:-1 tvg-id="O Sertão Vai Vir ao Mar (2024)" tvg-logo="https://image.tmdb.org/t/p/original/eG5CJjHLXtftQDXY2lC3eXlrWJj.jpg" description="",O Sertão Vai Vir ao Mar (2024)
+http://tbest.live/movie/12897751467/31594499568/369517.mp4
+#EXTINF:-1 tvg-id="O Guardião das Borboletas (2024)" tvg-logo="https://image.tmdb.org/t/p/original/l2uAsduoQFpb6ues8T1LLrpyd4k.jpg" description="",O Guardião das Borboletas (2024)
+http://tbest.live/movie/12897751467/31594499568/369516.mp4
+#EXTINF:-1 tvg-id="Meu Porto Seguro 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YNFjsa7vgACV9KINa0XOU0AlT2.jpg" description="",Meu Porto Seguro 2 (2024)
+http://tbest.live/movie/12897751467/31594499568/369515.mp4
+#EXTINF:-1 tvg-id="Evidências do Amor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohN79eTvl1L6YvLJwYgWbkl7pw4.jpg" description="",Evidências do Amor (2024)
+http://tbest.live/movie/12897751467/31594499568/369514.mp4
+#EXTINF:-1 tvg-id="A Vida dos Leopardos (2024)" tvg-logo="https://image.tmdb.org/t/p/original/4I9CClpKze9rwW78fuMSluq2OvE.jpg" description="",A Vida dos Leopardos (2024)
+http://tbest.live/movie/12897751467/31594499568/369513.mp4
+#EXTINF:-1 tvg-id="A Batalha do Biscoito Pop-Tart (2024)" tvg-logo="https://image.tmdb.org/t/p/original/gzlOgNUz6qaBPFRSb9ixsg5b3yN.jpg" description="",A Batalha do Biscoito Pop-Tart (2024)
+http://tbest.live/movie/12897751467/31594499568/369510.mp4
+#EXTINF:-1 tvg-id="Luccas Neto em - A Babá Operação Game Over (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXRU9SNAKdTM3PP7vN2zUKlup7.jpg" description="",Luccas Neto em - A Babá Operação Game Over (2024)
+http://tbest.live/movie/12897751467/31594499568/369509.mp4
+#EXTINF:-1 tvg-id="Shaitaan (2024)" tvg-logo="https://image.tmdb.org/t/p/original/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg" description="",Shaitaan (2024)
+http://tbest.live/movie/12897751467/31594499568/369508.mp4
+#EXTINF:-1 tvg-id="Meninas Não Choram (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdX8St8uRIeTtwvRQMI3wQCpknb.jpg" description="",Meninas Não Choram (2024)
+http://tbest.live/movie/12897751467/31594499568/369507.mp4
+#EXTINF:-1 tvg-id="Cedo Demais (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ESSN9N6DHnir7oomt0RoFy6kJC.jpg" description="",Cedo Demais (2024)
+http://tbest.live/movie/12897751467/31594499568/365330.mp4
+#EXTINF:-1 tvg-id="Uma Jornada Entre Amigos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hE9ToZRWcEd3jh96gbhKjWlUOQa.jpg" description="",Uma Jornada Entre Amigos (2024)
+http://tbest.live/movie/12897751467/31594499568/365329.mp4
+#EXTINF:-1 tvg-id="SDL - A Batalha Musical (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiYroOiA7PCwjmxRnMst6jfxXFY.jpg" description="",SDL - A Batalha Musical (2024)
+http://tbest.live/movie/12897751467/31594499568/365328.mp4
+#EXTINF:-1 tvg-id="Estritamente Confidencial (2024)" tvg-logo="https://image.tmdb.org/t/p/original/oRUusyQlKCfynGO1fIoCiLeNsY4.jpg" description="",Estritamente Confidencial (2024)
+http://tbest.live/movie/12897751467/31594499568/365327.mp4
+#EXTINF:-1 tvg-id="Príncipe Lu e a Lenda do Dragão (2024)" tvg-logo="https://image.tmdb.org/t/p/original/yR2rLWHqC8aYQcG0LZD9p9tA7Mw.jpg" description="",Príncipe Lu e a Lenda do Dragão (2024)
+http://tbest.live/movie/12897751467/31594499568/365326.mp4
+#EXTINF:-1 tvg-id="Snoopy Apresenta: Seja Bem-vindo, Franklin! (2024)" tvg-logo="https://image.tmdb.org/t/p/original/6dwcPO0s16ku9EjYVgnfSLGoNVB.jpg" description="",Snoopy Apresenta: Seja Bem-vindo, Franklin! (2024)
+http://tbest.live/movie/12897751467/31594499568/364089.mp4
+#EXTINF:-1 tvg-id="Apoteose do Samba: 40 Anos de Sapucaí (2024)" tvg-logo="https://image.tmdb.org/t/p/original/rPZZ4qdNZofRANQ0B0oB5K1v1m9.jpg" description="",Apoteose do Samba: 40 Anos de Sapucaí (2024)
+http://tbest.live/movie/12897751467/31594499568/364088.mp4
+#EXTINF:-1 tvg-id="Música (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bA8vQ9hnf41T5z68ISyb3LyzbHk.jpg" description="",Música (2024)
+http://tbest.live/movie/12897751467/31594499568/363793.mp4
+#EXTINF:-1 tvg-id="Imaginário: Brinquedo Diabólico (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWmBAbqUIgn2Ysy513rqSYE0fYk.jpg" description="",Imaginário: Brinquedo Diabólico (2024)
+http://tbest.live/movie/12897751467/31594499568/363776.mp4
+#EXTINF:-1 tvg-id="Megamente Vs. O Sindicato da Perdição (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60x76Yb6nMPFwEZ3um5yhUwCga.jpg" description="",Megamente Vs. O Sindicato da Perdição (2024)
+http://tbest.live/movie/12897751467/31594499568/363461.mp4
+#EXTINF:-1 tvg-id="Meninas Malvadas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg" description="",Meninas Malvadas (2024)
+http://tbest.live/movie/12897751467/31594499568/348265.mp4
+#EXTINF:-1 tvg-id="Matador de Aluguel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2xDLj6CtzItwQEFyBjIXh5z3QD.jpg" description="",Matador de Aluguel (2024)
+http://tbest.live/movie/12897751467/31594499568/348262.mp4
+#EXTINF:-1 tvg-id="Pilotos de Combate (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eG4kXMzVqOUuker4pQtJD5DMsk7.jpg" description="",Pilotos de Combate (2024)
+http://tbest.live/movie/12897751467/31594499568/346468.mp4
+#EXTINF:-1 tvg-id="Shirley para Presidente (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyWRPpB3ZNyvkJZiukd6fmjsB6g.jpg" description="",Shirley para Presidente (2024)
+http://tbest.live/movie/12897751467/31594499568/346462.mp4
+#EXTINF:-1 tvg-id="Os Casagrandes: O Filme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg" description="",Os Casagrandes: O Filme (2024)
+http://tbest.live/movie/12897751467/31594499568/346461.mp4
+#EXTINF:-1 tvg-id="Diário da Minha Vagina (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIVu5nMOCNZvOYs3Uhv8TnLvcYk.jpg" description="",Diário da Minha Vagina (2024)
+http://tbest.live/movie/12897751467/31594499568/346456.mp4
+#EXTINF:-1 tvg-id="A Maldição da Torre (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqzTf5VxtmJ3YMX6ScgWAQcwNTc.jpg" description="",A Maldição da Torre (2024)
+http://tbest.live/movie/12897751467/31594499568/346445.mp4
+#EXTINF:-1 tvg-id="A Arte de Amar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8B5kcNrZUocXZMG80NWhroz94mf.jpg" description="",A Arte de Amar (2024)
+http://tbest.live/movie/12897751467/31594499568/346417.mp4
+#EXTINF:-1 tvg-id="Cão e Gato (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cn7yYRFOcNsyRlSgAv3oW3Ubd4p.jpg" description="",Cão e Gato (2024)
+http://tbest.live/movie/12897751467/31594499568/345975.mp4
+#EXTINF:-1 tvg-id="Bob Marley: One Love (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcNgQwdmtXJYPInqwIn8uIt35fH.jpg" description="",Bob Marley: One Love (2024)
+http://tbest.live/movie/12897751467/31594499568/345903.mp4
+#EXTINF:-1 tvg-id="Beekeeper: Rede de Vingança (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Gw8MMtwE87W7rbrlmL2GnajFc5.jpg" description="",Beekeeper: Rede de Vingança (2024)
+http://tbest.live/movie/12897751467/31594499568/345059.mp4
+#EXTINF:-1 tvg-id="O Centésimo Batalhão [LEGENDADO] (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GnpAw5BaQBNqYd4wE1IptYEVKd.jpg" description="",O Centésimo Batalhão [LEGENDADO] (2024)
+http://tbest.live/movie/12897751467/31594499568/344945.mp4
+#EXTINF:-1 tvg-id="Aftermath [LEGENDADO] (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jVwnnSD4YxkGZM1F6RdLAu8Ayy.jpg" description="",Aftermath [LEGENDADO] (2024)
+http://tbest.live/movie/12897751467/31594499568/344910.mp4
+#EXTINF:-1 tvg-id="Assassinato de Elite (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joU5VihgUvkhyPnhzxfjmWk32rd.jpg" description="",Assassinato de Elite (2024)
+http://tbest.live/movie/12897751467/31594499568/344474.mp4
+#EXTINF:-1 tvg-id="Madame Teia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg" description="",Madame Teia (2024)
+http://tbest.live/movie/12897751467/31594499568/344429.mp4
+#EXTINF:-1 tvg-id="Red Right Hand [LEGENDADO] (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg" description="",Red Right Hand [LEGENDADO] (2024)
+http://tbest.live/movie/12897751467/31594499568/343128.mp4
+#EXTINF:-1 tvg-id="Donzela (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub4EHdVBVm3nHJiamU0gGcKS4ae.jpg" description="",Donzela (2024)
+http://tbest.live/movie/12897751467/31594499568/343120.mp4
+#EXTINF:-1 tvg-id="Turma da Mônica Jovem: Reflexos do Medo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBIyjl6kVxPmyPSUWhlk4PINxz5.jpg" description="",Turma da Mônica Jovem: Reflexos do Medo (2024)
+http://tbest.live/movie/12897751467/31594499568/343119.mp4
+#EXTINF:-1 tvg-id="Ricky Stanicky (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg" description="",Ricky Stanicky (2024)
+http://tbest.live/movie/12897751467/31594499568/342929.mp4
+#EXTINF:-1 tvg-id="Argylle: O Superespião (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ojCiMpYmCciIFuEcgLOOGLbUND.jpg" description="",Argylle: O Superespião (2024)
+http://tbest.live/movie/12897751467/31594499568/342883.mp4
+#EXTINF:-1 tvg-id="Xeque Mate (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umRkEsTwKU5nVbLVNw22cYB2fjm.jpg" description="",Xeque Mate (2024)
+http://tbest.live/movie/12897751467/31594499568/342882.mp4
+#EXTINF:-1 tvg-id="A Saudade Que Fica (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPxtPgWMB6jCazp3TYWAMp3ThZw.jpg" description="",A Saudade Que Fica (2024)
+http://tbest.live/movie/12897751467/31594499568/342881.mp4
+#EXTINF:-1 tvg-id="Parallel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glZRP5M0uDoAzYKLB2XcCc8Gaep.jpg" description="",Parallel (2024)
+http://tbest.live/movie/12897751467/31594499568/342879.mp4
+#EXTINF:-1 tvg-id="Cold Copy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uvjR7tiSycXeDiOu5uXYvXML4X.jpg" description="",Cold Copy (2024)
+http://tbest.live/movie/12897751467/31594499568/342878.mp4
+#EXTINF:-1 tvg-id="Kids Are Growing Up: A Story About a Kid Named Laroi (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksj8IPyvNIDOBk15wcxEH4tsG0O.jpg" description="",Kids Are Growing Up: A Story About a Kid Named Laroi (2024)
+http://tbest.live/movie/12897751467/31594499568/342877.mp4
+#EXTINF:-1 tvg-id="GREAT PRETENDER razbliuto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkalOqdReuGR71Og0kSn96vg78k.jpg" description="",GREAT PRETENDER razbliuto (2024)
+http://tbest.live/movie/12897751467/31594499568/342876.mp4
+#EXTINF:-1 tvg-id="Meu Nome é Loh Kiwan (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CsqXfzKFwlZmL6Beq5tIIutLnP.jpg" description="",Meu Nome é Loh Kiwan (2024)
+http://tbest.live/movie/12897751467/31594499568/342868.mp4
+#EXTINF:-1 tvg-id="Code 8: Renegados - Parte II (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwkzUuoTd4ISBNBMWPSp1qrVGNy.jpg" description="",Code 8: Renegados - Parte II (2024)
+http://tbest.live/movie/12897751467/31594499568/342867.mp4
+#EXTINF:-1 tvg-id="O Astronauta (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzSJcUFe9a6lF6nxAyqP2cGgYjt.jpg" description="",O Astronauta (2024)
+http://tbest.live/movie/12897751467/31594499568/342866.mp4
+#EXTINF:-1 tvg-id="Zona de Risco (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCRAMT530bTcZ4xs6E6pTUoAalE.jpg" description="",Zona de Risco (2024)
+http://tbest.live/movie/12897751467/31594499568/342722.mp4
+#EXTINF:-1 tvg-id="Apenas Corra (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5f0J6hKQV1jVkTeAkn72dotVYed.jpg" description="",Apenas Corra (2024)
+http://tbest.live/movie/12897751467/31594499568/342683.mp4
+#EXTINF:-1 tvg-id="Mea Culpa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" description="",Mea Culpa (2024)
+http://tbest.live/movie/12897751467/31594499568/342407.mp4
+#EXTINF:-1 tvg-id="Através da Minha Janela 3: Olhos nos Olhos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxCPqvBGeiBU1IOK7LbReAyVQQ7.jpg" description="",Através da Minha Janela 3: Olhos nos Olhos (2024)
+http://tbest.live/movie/12897751467/31594499568/342213.mp4
+#EXTINF:-1 tvg-id="Mais Um Tiro Certo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkHkMLoC41euiPZG62wslcHLreH.jpg" description="",Mais Um Tiro Certo (2024)
+http://tbest.live/movie/12897751467/31594499568/342017.mp4
+#EXTINF:-1 tvg-id="Alarme de Incêndio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpa9FO979rt16205hnup44sMK38.jpg" description="",Alarme de Incêndio (2024)
+http://tbest.live/movie/12897751467/31594499568/342016.mp4
+#EXTINF:-1 tvg-id="Liga da Justiça: Crise nas Infinitas Terras - Parte 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsiDOIO4APrPQQ4xx8vJW8N0uHV.jpg" description="",Liga da Justiça: Crise nas Infinitas Terras - Parte 1 (2024)
+http://tbest.live/movie/12897751467/31594499568/342015.mp4
+#EXTINF:-1 tvg-id="Nocaute (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZQ1k20EQ4kkOZ43MBHvPkGEXmf.jpg" description="",Nocaute (2024)
+http://tbest.live/movie/12897751467/31594499568/341214.mp4
+#EXTINF:-1 tvg-id="O Aprendiz do Tigre (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJOIVQoyjoK0hPlmh0nDFsFROvW.jpg" description="",O Aprendiz do Tigre (2024)
+http://tbest.live/movie/12897751467/31594499568/341044.mp4
+#EXTINF:-1 tvg-id="Me Mate, Querido (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bHicVzkma4q022cxQeNq2zTwbo.jpg" description="",Me Mate, Querido (2024)
+http://tbest.live/movie/12897751467/31594499568/337941.mp4
+#EXTINF:-1 tvg-id="Agência do Amor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GsgIMVv9pnp3hUayihXEgCSEog.jpg" description="",Agência do Amor (2024)
+http://tbest.live/movie/12897751467/31594499568/337940.mp4
+#EXTINF:-1 tvg-id="Fazendo Meu Filme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x57IrM7mxk8iAmvDYWUqhZCkEFm.jpg" description="",Fazendo Meu Filme (2024)
+http://tbest.live/movie/12897751467/31594499568/337939.mp4
+#EXTINF:-1 tvg-id="Amor em Soweto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XYiQqxCPzYTomOUg0otKYKAo8b.jpg" description="",Amor em Soweto (2024)
+http://tbest.live/movie/12897751467/31594499568/337938.mp4
+#EXTINF:-1 tvg-id="Jogos de Amor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r43jx9Km2ONGa8sFuzXFWM3iDhp.jpg" description="",Jogos de Amor (2024)
+http://tbest.live/movie/12897751467/31594499568/337936.mp4
+#EXTINF:-1 tvg-id="Em Ruínas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vT3xahepzP796ei0NiZIZ6t8vsl.jpg" description="",Em Ruínas (2024)
+http://tbest.live/movie/12897751467/31594499568/337887.mp4
+#EXTINF:-1 tvg-id="A Indestrutível Tatiana Suarez (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24iOlmQYV5aUgzLARyzSQN3T6qH.jpg" description="",A Indestrutível Tatiana Suarez (2024)
+http://tbest.live/movie/12897751467/31594499568/337880.mp4
+#EXTINF:-1 tvg-id="Cinco Chances Para Ser Feliz (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqTzXGckFUrqbAyQdzlG59HpuZH.jpg" description="",Cinco Chances Para Ser Feliz (2024)
+http://tbest.live/movie/12897751467/31594499568/337707.mp4
+#EXTINF:-1 tvg-id="Upgrade: As Cores do Amor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqfqLTNpueBtdtMO0QZ8XzQaDi1.jpg" description="",Upgrade: As Cores do Amor (2024)
+http://tbest.live/movie/12897751467/31594499568/337585.mp4
+#EXTINF:-1 tvg-id="Indiferença (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufFrD3NgeFZdNlORyOgXkjCyeJA.jpg" description="",Indiferença (2024)
+http://tbest.live/movie/12897751467/31594499568/337584.mp4
+#EXTINF:-1 tvg-id="Cult Killer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSR06FpV1H36OmW0jfEmvG73l2r.jpg" description="",Cult Killer (2024)
+http://tbest.live/movie/12897751467/31594499568/337583.mp4
+#EXTINF:-1 tvg-id="American Star (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFjxI9yMd142au1O74JlUttG4Ki.jpg" description="",American Star (2024)
+http://tbest.live/movie/12897751467/31594499568/337582.mp4
+#EXTINF:-1 tvg-id="Cinzas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44BquVRWlRN3B3Xh6yZxNxFdTER.jpg" description="",Cinzas (2024)
+http://tbest.live/movie/12897751467/31594499568/337581.mp4
+#EXTINF:-1 tvg-id="Suncoast (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" description="",Suncoast (2024)
+http://tbest.live/movie/12897751467/31594499568/337580.mp4
+#EXTINF:-1 tvg-id="Amante, Stalker e Mortal (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kQodHV31ffIaE1vhEBo3as8Hon.jpg" description="",Amante, Stalker e Mortal (2024)
+http://tbest.live/movie/12897751467/31594499568/337579.mp4
+#EXTINF:-1 tvg-id="He Went That Way (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii1DVzyj9uJOF9qBrnHCT6nAxUw.jpg" description="",He Went That Way (2024)
+http://tbest.live/movie/12897751467/31594499568/332196.mp4
+#EXTINF:-1 tvg-id="Mergulho Noturno [LEGENDADO] (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2pyGSNdHBMcwI2a5OiCcaLHRoo.jpg" description="",Mergulho Noturno [LEGENDADO] (2024)
+http://tbest.live/movie/12897751467/31594499568/332195.mp4
+#EXTINF:-1 tvg-id="8/1 – A Democracia Resiste (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WwyrCZORz8qR2iizhUEZx5iZDu.jpg" description="",8/1 – A Democracia Resiste (2024)
+http://tbest.live/movie/12897751467/31594499568/332167.mp4
+#EXTINF:-1 tvg-id="A Noite que Mudou o Pop (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5Dz7xZMxPbdaLn5nte4DCa61Gy.jpg" description="",A Noite que Mudou o Pop (2024)
+http://tbest.live/movie/12897751467/31594499568/332165.mp4
+#EXTINF:-1 tvg-id="Orion e o Escuro (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulUmkLFtT1Y0YGtmO6lBkMwLsBR.jpg" description="",Orion e o Escuro (2024)
+http://tbest.live/movie/12897751467/31594499568/332163.mp4
+#EXTINF:-1 tvg-id="Tributo - Ary Fontoura (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVIapbKlMcOw7P3Bb9auLxUUxra.jpg" description="",Tributo - Ary Fontoura (2024)
+http://tbest.live/movie/12897751467/31594499568/332162.mp4
+#EXTINF:-1 tvg-id="60 Minutos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5wjsuYh954HLagCnqrLpPT8xi7.jpg" description="",60 Minutos (2024)
+http://tbest.live/movie/12897751467/31594499568/332161.mp4
+#EXTINF:-1 tvg-id="Lift: Roubo nas Alturas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg" description="",Lift: Roubo nas Alturas (2024)
+http://tbest.live/movie/12897751467/31594499568/171861.mp4
+#EXTINF:-1 tvg-id="Criptofraude (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HHMl8k7cugjUUXQYx85eD0A0tf.jpg" description="",Criptofraude (2024)
+http://tbest.live/movie/12897751467/31594499568/171859.mp4
+#EXTINF:-1 tvg-id="A Grande Entrevista (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUurIBIrzirFZErIp1XWgIxWZ9f.jpg" description="",A Grande Entrevista (2024)
+http://tbest.live/movie/12897751467/31594499568/364558.mp4
+#EXTINF:-1 tvg-id="O Fabricante de Lágrimas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOM6dZZa9kfHcyDCIP7Vtg7mQyz.jpg" description="",O Fabricante de Lágrimas (2024)
+http://tbest.live/movie/12897751467/31594499568/364562.mp4
+#EXTINF:-1 tvg-id="Como conquistar o Billy Walsh (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBMCWy4CdXC8T17h3sceZPpzH7y.jpg" description="",Como conquistar o Billy Walsh (2024)
+http://tbest.live/movie/12897751467/31594499568/364567.mp4
+#EXTINF:-1 tvg-id="A Rede Antissocial: Dos Memes ao Caos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlJKsIzkSU629hEhbRzRb1cSxA1.jpg" description="",A Rede Antissocial: Dos Memes ao Caos (2024)
+http://tbest.live/movie/12897751467/31594499568/364676.mp4
+#EXTINF:-1 tvg-id="Sangue Frio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwM2wYUoTSvCHKPLJESfHeknoWm.jpg" description="",Sangue Frio (2024)
+http://tbest.live/movie/12897751467/31594499568/364671.mp4
+#EXTINF:-1 tvg-id="O Que Jennifer Fez? (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IY8XqXmABgT50bvUfJr1rbG1Sv.jpg" description="",O Que Jennifer Fez? (2024)
+http://tbest.live/movie/12897751467/31594499568/364746.mp4
+#EXTINF:-1 tvg-id="Herança Roubada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGV8501LvjkCBEB8Reyq8m2dOdK.jpg" description="",Herança Roubada (2024)
+http://tbest.live/movie/12897751467/31594499568/364860.mp4
+#EXTINF:-1 tvg-id="Possessões (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbf1LkidorzXo2yI9pbjH23YJRr.jpg" description="",Possessões (2024)
+http://tbest.live/movie/12897751467/31594499568/364862.mp4
+#EXTINF:-1 tvg-id="Pica-Pau: As Férias no Acampamento (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezh9zK0ERP3asDN7LvkxKHmnrBD.jpg" description="",Pica-Pau: As Férias no Acampamento (2024)
+http://tbest.live/movie/12897751467/31594499568/364877.mp4
+#EXTINF:-1 tvg-id="O Reencontro da Turma (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hERAMeQsYvIBVieP72luNnNrZwz.jpg" description="",O Reencontro da Turma (2024)
+http://tbest.live/movie/12897751467/31594499568/364957.mp4
+#EXTINF:-1 tvg-id="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxevDYdeFkiixRShbObdwAHBZry.jpg" description="",Rebel Moon - Part Two: The Scargiver (2024)
+http://tbest.live/movie/12897751467/31594499568/365338.mp4
+#EXTINF:-1 tvg-id="Minha Teoria da Popularidade (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGPTbZTdmYgAuS58hY2JAI7B1Mx.jpg" description="",Minha Teoria da Popularidade (2024)
+http://tbest.live/movie/12897751467/31594499568/365348.mp4
+#EXTINF:-1 tvg-id="Estritamente Confidencial (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRUusyQlKCfynGO1fIoCiLeNsY4.jpg" description="",Estritamente Confidencial (2024)
+http://tbest.live/movie/12897751467/31594499568/365347.mp4
+#EXTINF:-1 tvg-id="Liga da Justiça: Crise nas Infinitas Terras - Parte Dois (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQJWjO5aw5N4uCoh6CYrxf1LePv.jpg" description="",Liga da Justiça: Crise nas Infinitas Terras - Parte Dois (2024)
+http://tbest.live/movie/12897751467/31594499568/365748.mp4
+#EXTINF:-1 tvg-id="Antares de la Luz: Uma Seita Apocalíptica (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n51gQ3x8nTgHOGnHb2MJpOnCJzd.jpg" description="",Antares de la Luz: Uma Seita Apocalíptica (2024)
+http://tbest.live/movie/12897751467/31594499568/365888.mp4
+#EXTINF:-1 tvg-id="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg" description="",Kung Fu Panda 4 (2024)
+http://tbest.live/movie/12897751467/31594499568/366224.mp4
+#EXTINF:-1 tvg-id="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" description="",City Hunter (2024)
+http://tbest.live/movie/12897751467/31594499568/366231.mp4
+#EXTINF:-1 tvg-id="Love Lies Bleeding - O Amor Sangra (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SvswOeTAzVoUSU7wD9T8ZUUcmO.jpg" description="",Love Lies Bleeding - O Amor Sangra (2024)
+http://tbest.live/movie/12897751467/31594499568/366459.mp4
+#EXTINF:-1 tvg-id="Festa no Covil (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s38XHjbFXd7Wv2zJKwWnq5Qyl5l.jpg" description="",Festa no Covil (2024)
+http://tbest.live/movie/12897751467/31594499568/366453.mp4
+#EXTINF:-1 tvg-id="Lua de Mel Inusitada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLjZ3QBL5nrDyaSg5T8vmYjb2RR.jpg" description="",Lua de Mel Inusitada (2024)
+http://tbest.live/movie/12897751467/31594499568/366457.mp4
+#EXTINF:-1 tvg-id="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" description="",Lisa Frankenstein (2024)
+http://tbest.live/movie/12897751467/31594499568/366663.mp4
+#EXTINF:-1 tvg-id="Os Segredos dos Neandertais (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jSrvyWRdaLhcZpQg4l3pVI0lZj.jpg" description="",Os Segredos dos Neandertais (2024)
+http://tbest.live/movie/12897751467/31594499568/366661.mp4
+#EXTINF:-1 tvg-id="Baby Shark - O Grande Filme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pF9Y5H5x94Tuo6xAZBCrGG8Wvq5.jpg" description="",Baby Shark - O Grande Filme (2024)
+http://tbest.live/movie/12897751467/31594499568/366659.mp4
+#EXTINF:-1 tvg-id="Bela e Rebelde (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icjLDiTzcXgzzbiAu6AFbWL8FmH.jpg" description="",Bela e Rebelde (2024)
+http://tbest.live/movie/12897751467/31594499568/366662.mp4
+#EXTINF:-1 tvg-id="Tartarugas Até Lá Embaixo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDuWwxYxPwvtBadYcSkLP3dzOHd.jpg" description="",Tartarugas Até Lá Embaixo (2024)
+http://tbest.live/movie/12897751467/31594499568/366668.mp4
+#EXTINF:-1 tvg-id="Paulinho Gogó em Top Love - Só e Bem Acompanhado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkaKeosG8cjWwU800jD6DQUf37X.jpg" description="",Paulinho Gogó em Top Love - Só e Bem Acompanhado (2024)
+http://tbest.live/movie/12897751467/31594499568/366767.mp4
+#EXTINF:-1 tvg-id="Fúria Primitiva (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziXIsqVTBrKajZpVEGKiSvot3gu.jpg" description="",Fúria Primitiva (2024)
+http://tbest.live/movie/12897751467/31594499568/366769.mp4
+#EXTINF:-1 tvg-id="Ghostbusters: Apocalipse de Gelo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boObGdocQS07Nu7IrettgA5oRTp.jpg" description="",Ghostbusters: Apocalipse de Gelo (2024)
+http://tbest.live/movie/12897751467/31594499568/366844.mp4
+#EXTINF:-1 tvg-id="Colateral (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg" description="",Colateral (2024)
+http://tbest.live/movie/12897751467/31594499568/367061.mp4
+#EXTINF:-1 tvg-id="A Mãe da Noiva (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gnzZDWfxizydSnjjRX36pW88nw.jpg" description="",A Mãe da Noiva (2024)
+http://tbest.live/movie/12897751467/31594499568/367069.mp4
+#EXTINF:-1 tvg-id="Davi: Um Cara Comum da Bahia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoLltWSfNbH3erey3tWd9Xp81TY.jpg" description="",Davi: Um Cara Comum da Bahia (2024)
+http://tbest.live/movie/12897751467/31594499568/367062.mp4
+#EXTINF:-1 tvg-id="A Final: Caos em Wembley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htDKDbcotRlymVLY2eup0sRSBAH.jpg" description="",A Final: Caos em Wembley (2024)
+http://tbest.live/movie/12897751467/31594499568/367064.mp4
+#EXTINF:-1 tvg-id="Garotas em Fuga (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWJXbCDnbZ3dptB1jibZBraqmRL.jpg" description="",Garotas em Fuga (2024)
+http://tbest.live/movie/12897751467/31594499568/367053.mp4
+#EXTINF:-1 tvg-id="Jade (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz6vvVSNPxuvEHKagfdvoVLz8yb.jpg" description="",Jade (2024)
+http://tbest.live/movie/12897751467/31594499568/367149.mp4
+#EXTINF:-1 tvg-id="Wanted Man: Marcado Para Morrer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zgG1eNiQ4DrbYDIgEwNmDYRdrg.jpg" description="",Wanted Man: Marcado Para Morrer (2024)
+http://tbest.live/movie/12897751467/31594499568/367155.mp4
+#EXTINF:-1 tvg-id="O Entregador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5Z8cj0dyKzT7PrVvneknsm0X41.jpg" description="",O Entregador (2024)
+http://tbest.live/movie/12897751467/31594499568/367161.mp4
+#EXTINF:-1 tvg-id="Uma Ideia de Você (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg" description="",Uma Ideia de Você (2024)
+http://tbest.live/movie/12897751467/31594499568/367248.mp4
+#EXTINF:-1 tvg-id="Dona Lurdes: O Filme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHSRPnnpspr1jfejwg8W7MONsB5.jpg" description="",Dona Lurdes: O Filme (2024)
+http://tbest.live/movie/12897751467/31594499568/367247.mp4
+#EXTINF:-1 tvg-id="Godzilla e Kong: O Novo Império (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPLQIVTVkhSm0tmhPMX0OeEuG0P.jpg" description="",Godzilla e Kong: O Novo Império (2024)
+http://tbest.live/movie/12897751467/31594499568/367415.mp4
+#EXTINF:-1 tvg-id="A Garota de Miller (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWEZ0c82BZJUf78QHM4YLuZ9SDj.jpg" description="",A Garota de Miller (2024)
+http://tbest.live/movie/12897751467/31594499568/367478.mp4
+#EXTINF:-1 tvg-id="Instinto Materno (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tIPZI7UP2Zg5ThqJU3Pvl0W0az.jpg" description="",Instinto Materno (2024)
+http://tbest.live/movie/12897751467/31594499568/367493.mp4
+#EXTINF:-1 tvg-id="Golden Kamuy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbW1DV9gPNeXvhwqvJtcRVSPk5C.jpg" description="",Golden Kamuy (2024)
+http://tbest.live/movie/12897751467/31594499568/367530.mp4
+#EXTINF:-1 tvg-id="Flutuar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htcFpvCQycruzW2PV2ceihMRQyY.jpg" description="",Flutuar (2024)
+http://tbest.live/movie/12897751467/31594499568/367543.mp4
+#EXTINF:-1 tvg-id="Mexida (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xScOAzPLbF1e6ATjuhK3EtuMToV.jpg" description="",Mexida (2024)
+http://tbest.live/movie/12897751467/31594499568/367559.mp4
+#EXTINF:-1 tvg-id="Partiu América (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLckMzlleotgKEm04IIc0CplBZC.jpg" description="",Partiu América (2024)
+http://tbest.live/movie/12897751467/31594499568/367552.mp4
+#EXTINF:-1 tvg-id="Poder Policial (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nYbyTa3w8Ijid53exglHX25A3x.jpg" description="",Poder Policial (2024)
+http://tbest.live/movie/12897751467/31594499568/367549.mp4
+#EXTINF:-1 tvg-id="Little Wing (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEMc5IK3rkAtKCMhzBe3CX2Wpds.jpg" description="",Little Wing (2024)
+http://tbest.live/movie/12897751467/31594499568/368155.mp4
+#EXTINF:-1 tvg-id="Danificado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cXxEXhVGDMTMXspbAhHs2RXEA9.jpg" description="",Danificado (2024)
+http://tbest.live/movie/12897751467/31594499568/368142.mp4
+#EXTINF:-1 tvg-id="Thelma, O Unicórnio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NbMCHYHe8neFE24i5WdFYOWJR5.jpg" description="",Thelma, O Unicórnio (2024)
+http://tbest.live/movie/12897751467/31594499568/368163.mp4
+#EXTINF:-1 tvg-id="A Noite Em Que Voltaram Para Casa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgvmGUwUH4Iyoz0LpihR1y8eqlQ.jpg" description="",A Noite Em Que Voltaram Para Casa (2024)
+http://tbest.live/movie/12897751467/31594499568/368171.mp4
+#EXTINF:-1 tvg-id="Atlas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg" description="",Atlas (2024)
+http://tbest.live/movie/12897751467/31594499568/368135.mp4
+#EXTINF:-1 tvg-id="Nahir – Entre a Paixão e as Grades (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4TcFexTfo5X7NkvNSeTrRSu9Sj.jpg" description="",Nahir – Entre a Paixão e as Grades (2024)
+http://tbest.live/movie/12897751467/31594499568/368165.mp4
+#EXTINF:-1 tvg-id="Todas Menos Ela (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f37agqbrKeU2MMJWsmpOsxIC1We.jpg" description="",Todas Menos Ela (2024)
+http://tbest.live/movie/12897751467/31594499568/368159.mp4
+#EXTINF:-1 tvg-id="South Park: O Fim da Obesidade (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKeyw0r45QN0eQtn3FORo3fV2ma.jpg" description="",South Park: O Fim da Obesidade (2024)
+http://tbest.live/movie/12897751467/31594499568/368149.mp4
+#EXTINF:-1 tvg-id="Uma Prova de Coragem (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31092QuIGplIz0Tmds5LytzU0yY.jpg" description="",Uma Prova de Coragem (2024)
+http://tbest.live/movie/12897751467/31594499568/368655.mp4
+#EXTINF:-1 tvg-id="Perra vida (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAvQOUhmvlo0yrLj2Swnj9gSX5k.jpg" description="",Perra vida (2024)
+http://tbest.live/movie/12897751467/31594499568/368669.mp4
+#EXTINF:-1 tvg-id="Minha Querida Oni (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aWmmoaN2h3UOv0H38HDMFvfc8.jpg" description="",Minha Querida Oni (2024)
+http://tbest.live/movie/12897751467/31594499568/368660.mp4
+#EXTINF:-1 tvg-id="O Cruel Ministério da Guerra (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11GYDpT3Qvz9LgJCLAFktw1QHVa.jpg" description="",O Cruel Ministério da Guerra (2024)
+http://tbest.live/movie/12897751467/31594499568/369350.mp4
+#EXTINF:-1 tvg-id="O Tarô da Morte (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGamTFPbJAAUnC2fbJbApTgi9EE.jpg" description="",O Tarô da Morte (2024)
+http://tbest.live/movie/12897751467/31594499568/369353.mp4
+#EXTINF:-1 tvg-id="Rivais (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1j3evHiwrGiQ6e9h1l9r66uo29.jpg" description="",Rivais (2024)
+http://tbest.live/movie/12897751467/31594499568/369304.mp4
+#EXTINF:-1 tvg-id="A Primeira Profecia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybAcizMKEdeVreFj2R9effkF5Ii.jpg" description="",A Primeira Profecia (2024)
+http://tbest.live/movie/12897751467/31594499568/369348.mp4
+#EXTINF:-1 tvg-id="Duro de Atuar 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yTdtbtjlczr3fSoZWUcPkkaZSi.jpg" description="",Duro de Atuar 2 (2024)
+http://tbest.live/movie/12897751467/31594499568/369321.mp4
+#EXTINF:-1 tvg-id="Contra o Mundo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBfLxyzwCCACTieZ2NH41m0jilk.jpg" description="",Contra o Mundo (2024)
+http://tbest.live/movie/12897751467/31594499568/369299.mp4
+#EXTINF:-1 tvg-id="As Cores do Mal: Vermelho (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWh5onZ8uGRntcnevxh5MwyZHez.jpg" description="",As Cores do Mal: Vermelho (2024)
+http://tbest.live/movie/12897751467/31594499568/369303.mp4
+#EXTINF:-1 tvg-id="O Dublê (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AkiDy6DVlfhJusglf6tvifX6dB.jpg" description="",O Dublê (2024)
+http://tbest.live/movie/12897751467/31594499568/373765.mp4
+#EXTINF:-1 tvg-id="Ultraman: A Ascensão (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ2MhjWQtVOTDbqKvIkQp0xXjtv.jpg" description="",Ultraman: A Ascensão (2024)
+http://tbest.live/movie/12897751467/31594499568/374957.mp4
+#EXTINF:-1 tvg-id="Uma Parte de Você (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19txmVPYCpE5SA3Pdz4y5YRxzHF.jpg" description="",Uma Parte de Você (2024)
+http://tbest.live/movie/12897751467/31594499568/374927.mp4
+#EXTINF:-1 tvg-id="A Tripulação (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjcIAhigmejC5Idl0854uXD8Mki.jpg" description="",A Tripulação (2024)
+http://tbest.live/movie/12897751467/31594499568/374955.mp4
+#EXTINF:-1 tvg-id="Está Tudo Bem Comigo? (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhAZRzLCmgUmtk3OuPX7Tv9Advr.jpg" description="",Está Tudo Bem Comigo? (2024)
+http://tbest.live/movie/12897751467/31594499568/374934.mp4
+#EXTINF:-1 tvg-id="Kali: Anjo Vingador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npYnwimjiKqWfg4Y9A1OoiBhmoU.jpg" description="",Kali: Anjo Vingador (2024)
+http://tbest.live/movie/12897751467/31594499568/374946.mp4
+#EXTINF:-1 tvg-id="Guerra Civil (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg" description="",Guerra Civil (2024)
+http://tbest.live/movie/12897751467/31594499568/374895.mp4
+#EXTINF:-1 tvg-id="Os Farofeiros 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/io2pxaMQNyBJ7QQSGWXjFVqLDCP.jpg" description="",Os Farofeiros 2 (2024)
+http://tbest.live/movie/12897751467/31594499568/375768.mp4
+#EXTINF:-1 tvg-id="Crescendo Juntos: A História de Erik e Malik (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuZlmYHa3FL7BvsFM9iJoqaapia.jpg" description="",Crescendo Juntos: A História de Erik e Malik (2024)
+http://tbest.live/movie/12897751467/31594499568/375930.mp4
+#EXTINF:-1 tvg-id="Checkmate (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLO0Y1wI8gqv6JH1cqA2PGyyCup.jpg" description="",Checkmate (2024)
+http://tbest.live/movie/12897751467/31594499568/375933.mp4
+#EXTINF:-1 tvg-id="Amigos Imaginários (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNSsIyZcbESWBm42VTo09zbjS6s.jpg" description="",Amigos Imaginários (2024)
+http://tbest.live/movie/12897751467/31594499568/375932.mp4
+#EXTINF:-1 tvg-id="Como Roubar um Banco (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhBQOgig0bXCXIgHHyO8ipG47J9.jpg" description="",Como Roubar um Banco (2024)
+http://tbest.live/movie/12897751467/31594499568/375999.mp4
+#EXTINF:-1 tvg-id="Sayen: A Caçadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mF6zKM7LUnEVYTLAlwoZlskdbQ.jpg" description="",Sayen: A Caçadora (2024)
+http://tbest.live/movie/12897751467/31594499568/375995.mp4
+#EXTINF:-1 tvg-id="Senna: 30 Anos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxry8EmajERFtsikKFbrezRepEZ.jpg" description="",Senna: 30 Anos (2024)
+http://tbest.live/movie/12897751467/31594499568/375962.mp4
+#EXTINF:-1 tvg-id="A Academia do Sr. Kleks (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykZvwO1YvWCTV4XajuYBUXeubHA.jpg" description="",A Academia do Sr. Kleks (2024)
+http://tbest.live/movie/12897751467/31594499568/375976.mp4
+#EXTINF:-1 tvg-id="Inheritance (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8Hlyfm7etzhNVv0gDPAKc7bT9z.jpg" description="",Inheritance (2024)
+http://tbest.live/movie/12897751467/31594499568/375991.mp4
+#EXTINF:-1 tvg-id="Irmãos por Acidente (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8BS8gF7O90vmb71vSo3nk1uzwJ.jpg" description="",Irmãos por Acidente (2024)
+http://tbest.live/movie/12897751467/31594499568/376152.mp4
+#EXTINF:-1 tvg-id="Os Infalíveis (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEjVWSz1hhVCO5Ab5QId90m6AfW.jpg" description="",Os Infalíveis (2024)
+http://tbest.live/movie/12897751467/31594499568/376150.mp4
+#EXTINF:-1 tvg-id="Alerta de Risco (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQLJT6hTXio0md94oBsSWADOECf.jpg" description="",Alerta de Risco (2024)
+http://tbest.live/movie/12897751467/31594499568/376264.mp4
+#EXTINF:-1 tvg-id="Assine Aquí (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1joXhDL9C4GU0yQP0hltyVHp2Ez.jpg" description="",Assine Aquí (2024)
+http://tbest.live/movie/12897751467/31594499568/376262.mp4
+#EXTINF:-1 tvg-id="Loud House: Sem Tempo Para Espionar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXVflCGYGUbNSN4TmkLqQqM1rXc.jpg" description="",Loud House: Sem Tempo Para Espionar (2024)
+http://tbest.live/movie/12897751467/31594499568/376382.mp4
+#EXTINF:-1 tvg-id="Furiosa: Uma Saga Mad Max (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4KUED5qQCpmyz1Mr77coJCrndq.jpg" description="",Furiosa: Uma Saga Mad Max (2024)
+http://tbest.live/movie/12897751467/31594499568/376379.mp4
+#EXTINF:-1 tvg-id="Nosso Lar 2: Os Mensageiros (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cP2MENe3zOj77ndC5TvoLq8MtU.jpg" description="",Nosso Lar 2: Os Mensageiros (2024)
+http://tbest.live/movie/12897751467/31594499568/376800.mp4
+#EXTINF:-1 tvg-id="Tudo em Família (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fU7caVYjSHYEgZQrrFDr3rAJx8o.jpg" description="",Tudo em Família (2024)
+http://tbest.live/movie/12897751467/31594499568/377038.mp4
+#EXTINF:-1 tvg-id="Abigail (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg" description="",Abigail (2024)
+http://tbest.live/movie/12897751467/31594499568/377043.mp4
+#EXTINF:-1 tvg-id="Efeito Paradoxo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crLhazkOSDIcT5m0jZ9wQkud6U1.jpg" description="",Efeito Paradoxo (2024)
+http://tbest.live/movie/12897751467/31594499568/377034.mp4
+#EXTINF:-1 tvg-id="Maharaj (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsuUGtUzrzEnlIUjVRSqFNUMZEz.jpg" description="",Maharaj (2024)
+http://tbest.live/movie/12897751467/31594499568/377035.mp4
+#EXTINF:-1 tvg-id="Até que as Cores Acabem (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd6RRPaGkNYpfRlYiWLCjoXahko.jpg" description="",Até que as Cores Acabem (2024)
+http://tbest.live/movie/12897751467/31594499568/377037.mp4
+#EXTINF:-1 tvg-id="O Rito da Dança (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eHNXXFqnkVSdktjB2xfIuivYwx.jpg" description="",O Rito da Dança (2024)
+http://tbest.live/movie/12897751467/31594499568/377050.mp4
+#EXTINF:-1 tvg-id="Um Gato de Sorte (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nn7raMhfVvhyvLIUdYg2ObQgowX.jpg" description="",Um Gato de Sorte (2024)
+http://tbest.live/movie/12897751467/31594499568/377047.mp4
+#EXTINF:-1 tvg-id="Desespero Profundo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktxq0LYgl41I2DUn49TYIaS9dZR.jpg" description="",Desespero Profundo (2024)
+http://tbest.live/movie/12897751467/31594499568/377362.mp4
+#EXTINF:-1 tvg-id="Dois é Demais em Orlando (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PdiazIelg7pwx9lj1KXCyeSbCP.jpg" description="",Dois é Demais em Orlando (2024)
+http://tbest.live/movie/12897751467/31594499568/377357.mp4
+#EXTINF:-1 tvg-id="Aumenta que é Rock'n'Roll (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67WBksF1VZesLtMiJjHF7eSkeUo.jpg" description="",Aumenta que é Rock'n'Roll (2024)
+http://tbest.live/movie/12897751467/31594499568/377443.mp4
+#EXTINF:-1 tvg-id="A  Teia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4pxgFHotbm8rzIPxW1zVvugYOb.jpg" description="",A  Teia (2024)
+http://tbest.live/movie/12897751467/31594499568/377461.mp4
+#EXTINF:-1 tvg-id="Um Tira da Pesada 4: Axel Foley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5kOCCqFl0m2UayMjAU8tdN7R2I.jpg" description="",Um Tira da Pesada 4: Axel Foley (2024)
+http://tbest.live/movie/12897751467/31594499568/377577.mp4
+#EXTINF:-1 tvg-id="Girls (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjZzBKDZl0S6GV8t9oTg8HSpf1O.jpg" description="",Girls (2024)
+http://tbest.live/movie/12897751467/31594499568/377569.mp4
+#EXTINF:-1 tvg-id="Uma Astronauta Quase Perfeita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9LiHsg0RFOD7ZtJ6n3Kpgppkaw.jpg" description="",Uma Astronauta Quase Perfeita (2024)
+http://tbest.live/movie/12897751467/31594499568/377624.mp4
+#EXTINF:-1 tvg-id="Politicamente Incorretos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omGPftboLGhbHU3kqp1DyewQ65V.jpg" description="",Politicamente Incorretos (2024)
+http://tbest.live/movie/12897751467/31594499568/377632.mp4
+#EXTINF:-1 tvg-id="Life in a Fishbowl (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDWc0kg91GPb5JeVotfyGxec1eZ.jpg" description="",Life in a Fishbowl (2014)
+http://tbest.live/movie/12897751467/31594499568/377627.mp4
+#EXTINF:-1 tvg-id="Goyo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL7P1TM4wkVtNJf7XDIA8Y4CcPC.jpg" description="",Goyo (2024)
+http://tbest.live/movie/12897751467/31594499568/377829.mp4
+#EXTINF:-1 tvg-id="Morando com o Crush (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZA7H3FN20qX5ppoCsdUsMSvYk4.jpg" description="",Morando com o Crush (2024)
+http://tbest.live/movie/12897751467/31594499568/377982.mp4
+#EXTINF:-1 tvg-id="Garfield - Fora de Casa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZulK27zLH2uZNzdMyliCkzhq07.jpg" description="",Garfield - Fora de Casa (2024)
+http://tbest.live/movie/12897751467/31594499568/377986.mp4
+#EXTINF:-1 tvg-id="Os Observadores (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFpsKOCppRvwP0Igwp0F0Xu1RBJ.jpg" description="",Os Observadores (2024)
+http://tbest.live/movie/12897751467/31594499568/377983.mp4
