@@ -703,6 +703,41 @@ http://tbest.live/12897751467/31594499568/172616
 #EXTINF:-1 tvg-id="Zapping Sports" tvg-logo="https://postimg.cc/mh1pBS73.png" group-title="ESPORTES PPV",Zapping Sports
 http://tbest.live/12897751467/31594499568/365331
 
+#EXTINF:-1 tvg-id="CINE SKY 01" tvg-logo="https://i.postimg.cc/GhQ3TH5k/SKY-SD.png" group-title="CINESKY",CINE SKY 01
+http://tbest.live/12897751467/31594499568/288763
+#EXTINF:-1 tvg-id="CINE SKY 02" tvg-logo="https://i.postimg.cc/GhQ3TH5k/SKY-SD.png" group-title="CINESKY",CINE SKY 02
+http://tbest.live/12897751467/31594499568/288762
+#EXTINF:-1 tvg-id="CINE SKY 03" tvg-logo="https://i.postimg.cc/GhQ3TH5k/SKY-SD.png" group-title="CINESKY",CINE SKY 03
+http://tbest.live/12897751467/31594499568/288761
+#EXTINF:-1 tvg-id="CINE SKY 04" tvg-logo="https://i.postimg.cc/GhQ3TH5k/SKY-SD.png" group-title="CINESKY",CINE SKY 04
+http://tbest.live/12897751467/31594499568/288760
+#EXTINF:-1 tvg-id="CINE SKY 05" tvg-logo="https://i.postimg.cc/GhQ3TH5k/SKY-SD.png" group-title="CINESKY",CINE SKY 05
+http://tbest.live/12897751467/31594499568/288759
+#EXTINF:-1 tvg-id="CINE SKY 06" tvg-logo="https://i.postimg.cc/GhQ3TH5k/SKY-SD.png" group-title="CINESKY",CINE SKY 06
+http://tbest.live/12897751467/31594499568/288758
+#EXTINF:-1 tvg-id="CINE SKY 07" tvg-logo="https://i.postimg.cc/GhQ3TH5k/SKY-SD.png" group-title="CINESKY",CINE SKY 07
+http://tbest.live/12897751467/31594499568/288757
+#EXTINF:-1 tvg-id="CINE SKY 08" tvg-logo="https://i.postimg.cc/GhQ3TH5k/SKY-SD.png" group-title="CINESKY",CINE SKY 08
+http://tbest.live/12897751467/31594499568/288756
+#EXTINF:-1 tvg-id="CINE SKY 09" tvg-logo="https://i.postimg.cc/GhQ3TH5k/SKY-SD.png" group-title="CINESKY",CINE SKY 09
+http://tbest.live/12897751467/31594499568/288755
+#EXTINF:-1 tvg-id="RECORD BELEM FHD" tvg-logo="https://i.postimg.cc/ZRcpMTqp/RECORD-FHD.png" group-title="RECORD",RECORD BELEM FHD
+http://tbest.live/12897751467/31594499568/156284
+#EXTINF:-1 tvg-id="RECORD BELEM HD" tvg-logo="https://i.postimg.cc/90QZ3v4S/RECORD-HD.png" group-title="RECORD",RECORD BELEM HD
+http://tbest.live/12897751467/31594499568/156285
+#EXTINF:-1 tvg-id="SBT BELEM HD" tvg-logo="https://i.postimg.cc/qMf4529c/SBT-HD.png" group-title="SBT",SBT BELEM HD
+http://tbest.live/12897751467/31594499568/156817
+#EXTINF:-1 tvg-id="SBT PARÁ HD" tvg-logo="https://i.postimg.cc/qMf4529c/SBT-HD.png" group-title="SBT",SBT PARÁ HD
+http://tbest.live/12897751467/31594499568/298615
+#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM FHD" tvg-logo="https://i.postimg.cc/Rhv5vT92/GLOBO-FHD.png" group-title="GLOBOS CAPITAIS",GLOBO TV LIBERAL BELEM FHD
+http://tbest.live/12897751467/31594499568/156497
+#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM HD" tvg-logo="https://i.postimg.cc/P59gCHTW/GLOBO-HD.png" group-title="GLOBOS CAPITAIS",GLOBO TV LIBERAL BELEM HD
+http://tbest.live/12897751467/31594499568/156498
+#EXTINF:-1 tvg-id="RECORD BELEM SD" tvg-logo="https://i.postimg.cc/MH3RzdVG/RECORD-SD.png" group-title="RECORD",RECORD BELEM SD
+http://tbest.live/12897751467/31594499568/298569
+#EXTINF:-1 tvg-id="GLOBO BELEM SD" tvg-logo="https://i.postimg.cc/x18QkgH2/GLOBO-SD.png" group-title="GLOBOS CAPITAIS",GLOBO BELEM SD
+http://tbest.live/12897751467/31594499568/298570
+
 #EXTINF:-1 tvg-id="Pluto Sucesso" tvg-name="Pluto Sucesso" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Sucesso
 https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="Pluto Ação" tvg-name="Pluto Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO", Pluto Ação
