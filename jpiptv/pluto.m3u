@@ -97,6 +97,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/2.m3u8
 
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO²
+https://abc.embedmax.site/discoveryturbo/index.m3u8
+
 #EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD¹" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/6.m3u8
 
@@ -118,6 +121,9 @@ https://abc.embedmax.site/history/index.m3u8
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/25.m3u8
 
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL²
+https://abc.embedmax.site/discoverychannel/index.m3u8
+
 #EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK SD¹" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/29.m3u8
 
@@ -136,6 +142,9 @@ http://hzcdn.vood.top:80/hls/358_.m3u8
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER SD¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/39.m3u8
 
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER SD¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER²
+https://abc.embedmax.site/discoverytheater/index.m3u8
+
 #EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD¹" tvg-logo="https://prostore.app/logos/dkids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/40.m3u8
 
@@ -145,6 +154,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/44.m3u8
 
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD²
+https://abc.embedmax.site/discoveryworld/index.m3u8
+
 #EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="https://prostore.app/logos/E!.png" group-title="CANAIS | VARIEDADES",E!
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/48.m3u8
 
@@ -153,6 +165,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 
 #EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/51.m3u8
+
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE²
+https://abc.embedmax.site/discoveryscience/index.m3u8
 
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD¹" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/52.m3u8
@@ -196,6 +211,9 @@ https://abc.embedmax.site/globonews/index.m3u8
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY HD¹" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY HD¹
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/75.m3u8
 
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY HD¹" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY HD²
+https://abc.embedmax.site/discoveryid/index.m3u8
+
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD¹" tvg-logo="https://prostore.app/logos/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/79.m3u8
 
@@ -210,6 +228,9 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD¹" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/84.m3u8
+
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD¹" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H²
+https://abc.embedmax.site/discoveryheh/index.m3u8
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD¹" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/87.m3u8
