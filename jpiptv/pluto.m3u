@@ -1253,7 +1253,7 @@ http://24hrs.homelinux.com:8080/24H-todegraca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/36KgNhtrgMZh3Zt4p2o9RalFvXV.png" group-title="24HS TOP",EU A PATROA E AS CRIANCAS
 http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fresh_Prince_Bel_Aire_logo.png" group-title="24HS TOP",MALUCO NO PEDACO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fresh_Prince_Bel_Aire_logo.png" group-title="24HS TOP",UM MALUCO NO PEDACO
 http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/two-and-a-half-men-logo-A0D1CE98D7-seeklogo.com.png" group-title="24HS TOP",DOIS HOMENS E MEIO
