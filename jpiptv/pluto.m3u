@@ -220,9 +220,6 @@ http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecc
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD¹" tvg-logo="https://prostore.app/logos/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR²
 http://hzcdn.vood.top:80/hls/367_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PT1: 24 KITCHEN HD" tvg-logo="" group-title="CANAIS | PORTUGAL" group-title="CANAIS - PORTUGAL",PT1: 24 KITCHEN HD
-http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/82.m3u8
-
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO SD¹" tvg-logo="https://prostore.app/logos/globinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/83.m3u8
 
