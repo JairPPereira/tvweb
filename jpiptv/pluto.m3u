@@ -240,6 +240,9 @@ http://hzcdn.vood.top:80/hls/726_.m3u8
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD²" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC HD²
 http://hzcdn.vood.top:80/hls/728_.m3u8
 
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD²" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC HD³
+https://abc.embedmax.site/tlc/index.m3u8
+
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD H265¹" tvg-logo="https://prostore.app/logos/gnt.png" group-title="CANAIS | VARIEDADES",GNT
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/88.m3u8
 
