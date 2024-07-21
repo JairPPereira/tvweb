@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml"
 #EXTINF:-1 tvg-id="GOLS DA RODADA ⚽" tvg-logo="https://i.postimg.cc/wB7KCrQz/FUTEBOL-SERVER.png" group-title="EVENTOS DO DIA",GOLS DA RODADA ⚽
 http://tbest.live/12897751467/31594499568/364943
+#EXTINF:-1 tvg-id="GOLS DA RODADA ⚽" tvg-logo="https://i.postimg.cc/wB7KCrQz/FUTEBOL-SERVER.png" group-title="EVENTOS DO DIA",GOLS DA RODADA ⚽
+https://raw.githubusercontent.com/JairPPereira/tvweb/main/jpiptv/gols.m3u8
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES *
 https://abc.embedmax.site/premiere1/index.m3u8
 
