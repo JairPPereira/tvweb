@@ -17,21 +17,21 @@ def convert_json_to_extinf(json_data):
 # Exemplo de uso
 json_data = '''
 {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Pau na perereca meladinha",
-    "description": "Pau na perereca meladinha com a calcinha de ladinho socando forte. Morena deliciosa gosta de pau na perereca e senta até ganhar gozada quente e farta.",
-    "thumbnailUrl": ["https://www.pornolandia.xxx/media/videos/tmb/53180/default.jpg", "https://www.pornolandia.xxx/media/videos/tmb/53180/1.jpg"],
-    "uploadDate": "2023-06-09T10:38:41-03:00",
-    "duration": "PT02M01S",
-    "contentUrl": "https://videos.pornolandia.xxx/media/videos/flv/53180.mp4",
-    "encodingFormat": "mp4",
-    "author": "xvideos",
-    "interactionStatistic": {
-        "@type": "InteractionCounter",
-        "interactionType": "https://schema.org/WatchAction",
-        "userInteractionCount": "267349"
-    }
+    "@context":"https://schema.org",
+    "@type":"VideoObject",
+    "name":"Brasileirinha dando o cu de 4",
+    "description":"Brasileirinha dando o cu de 4 e abrindo a bunda pra mostrar o rabo todo aberto e melado de porra. Brasileira morena do cu gostoso transando e gemendo safada.",
+    "thumbnailUrl":["https://www.pornolandia.xxx/media/videos/tmb/53663/default.jpg", "https://www.pornolandia.xxx/media/videos/tmb/53663/1.jpg"],
+    "uploadDate":"2023-12-02T10:38:13-03:00",
+    "duration":"PT09M31S",
+    "contentUrl":"https://videos.pornolandia.xxx/media/videos/flv/53663.mp4",
+	"encodingFormat": "mp4",
+	"author" : "xHamster",
+	"interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": "https://schema.org/WatchAction",
+    "userInteractionCount": "96993"
+   }
 }
 '''
 
