@@ -792,7 +792,24 @@ http://tbest.live/12897751467/31594499568/156498
 http://tbest.live/12897751467/31594499568/298569
 #EXTINF:-1 tvg-id="GLOBO BELEM SD" tvg-logo="https://i.postimg.cc/x18QkgH2/GLOBO-SD.png" group-title="GLOBOS CAPITAIS",GLOBO BELEM SD
 http://tbest.live/12897751467/31594499568/298570
-
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Crepusculo 1 2008
+https://content.jwplatform.com/videos/KnIteJsi-BvF3GI2K.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Crepusculo 2 Lua Nova  2009
+https://content.jwplatform.com/videos/ksvlGpEj-BvF3GI2K.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Crepusculo 3 Eclipse  2010
+https://content.jwplatform.com/videos/MpxOFyDe-BvF3GI2K.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Crepusculo 4 Amanhecer PT.1 2011
+https://content.jwplatform.com/videos/PuaZAywT-BvF3GI2K.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Crepusculo 5 Amanhecer PT.2 2012
+https://content.jwplatform.com/videos/t5DB2JVf-BvF3GI2K.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Meu Amigo O Dragão 2016
+https://content.jwplatform.com/videos/H0CXSFxK-QOmQDbYo.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Alice No País Das Maravilhas 2010
+https://content.jwplatform.com/videos/Q7kPaBMm-QOmQDbYo.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Alice Através Do Espelho 2016
+https://content.jwplatform.com/videos/NrtBiolg-QOmQDbYo.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/3wTiaa6" group-title="FILMES | AVENTURA",Alice E Peter Onde Nascem Os Sonhos 2020
+https://content.jwplatform.com/videos/EsFrvNr0-N4rrC46a.mp4?JPFILMES
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO",Pluto TV Cine Sucessos
 https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO",Pluto TV Filmes Ação
