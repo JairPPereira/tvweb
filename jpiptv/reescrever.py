@@ -23,80 +23,60 @@ def reformat_m3u(input_text):
 
 # Exemplo de uso
 input_text = """
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/AFKqEgg5NbY7iMUxUszSWDLgbx.jpg" group-title="FILMES - Coleção Elvis Presley",A Mulher Que Eu Amo (1957)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/A.Mulher.Que.Eu.Amo.(1957).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1fDNfFC0FPdwDTnVOrAQYVVmLrR.jpg" group-title="FILMES - Coleção Elvis Presley",Ama me com Ternura (1956)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Ama.me.com.Ternura.(1956).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kxcEkFykPZ0IDjbVg9xQBrvv3tr.jpg" group-title="FILMES - Coleção Elvis Presley",Amor à Toda Velocidade (1964)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Amor.a.Toda.Velocidade.(1964).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1JBAhHGjT8RKNWvSbvgKKMyL7zZ.jpg" group-title="FILMES - Coleção Elvis Presley",Balada Sangrenta (1958)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Balada.Sangrenta.(1958).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/raogfJkX2z0O7NOzPCIycygdYJ8.jpg" group-title="FILMES - Coleção Elvis Presley",Canções e Confusões (1967)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Cansoes.e.Confusoes.(1967).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/izJQ0r7TpIO3xBSDkKN1FRQMmD3.jpg" group-title="FILMES - Coleção Elvis Presley",Carrossel de Emosões (1964)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Carrossel.de.Emosoes.(1964).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zj4wfziY4bUjGNvu8s08juSXtmD.jpg" group-title="FILMES - Coleção Elvis Presley",Cavaleiro Romantico (1965)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Cavaleiro.Romantico.(1965).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4gPYS258TpFSqBO1N6EvDmNqJsA.jpg" group-title="FILMES - Coleção Elvis Presley",Charro (1969)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Charro.(1969).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iH3EZQmqW1W5U8WeiE8ZIOCHVXV.jpg" group-title="FILMES - Coleção Elvis Presley",Com Caipira Não Se Brinca (1964)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Com.Caipira.Nao.Se.Brinca.(1964).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ioaAp4uv5Wk4warkgJNbLGYo6oy.jpg" group-title="FILMES - Coleção Elvis Presley",Coração Rebelde (1961)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Coracao.Rebelde.(1961).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rHnfOQQ7CCLmqtYvtqdYnu6MyIR.jpg" group-title="FILMES - Coleção Elvis Presley",Ele e as Três Noviças (1969)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Ele.e.as.Tres.Novisas.(1969).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8qwwp5fOPNXDfaqta5x34nDXEDI.jpg" group-title="FILMES - Coleção Elvis Presley",Elvis é Assim (1970)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Elvis.e.Assim.(1970).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9iabuDbY2TCer2P4F1GBSsYo2C8.jpg" group-title="FILMES - Coleção Elvis Presley",Elvis e Eu (1988)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Elvis.e.Eu.(1988).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/e4BoHyGQtdTK1ysypLnFlJcnhW5.jpg" group-title="FILMES - Coleção Elvis Presley",Elvis e Nixon (2016)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Elvis.e.Nixon.(2016).mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rDBGuDbMU5UQY6WZdAdbh3VfFWD.jpg" group-title="FILMES - Coleção Elvis Presley",Elvis O Início de uma Lenda (2005)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Elvis.O.Inicio.de.uma.Lenda.(2005).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eNOJoM564itYMjJ7eVUV81kCaAY.jpg" group-title="FILMES - Coleção Elvis Presley",Elvis Triunfal (1972)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Elvis.Triunfal.(1972).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p9x63nZBNosnfFybALtlhrFpz5V.jpg" group-title="FILMES - Coleção Elvis Presley",Em Cada Sonho um Amor (1962)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Em.Cada.Sonho.um.Amor.(1962).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0FXqTJ8fNASnJRxW8PYE5lfM6L.jpg" group-title="FILMES - Coleção Elvis Presley",Entre a Loira e a Ruiva (1966)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Entre.a.Loira.e.a.Ruiva.(1966).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/crFcwTHch2s5zjL1ZNm89SDwVdt.jpg" group-title="FILMES - Coleção Elvis Presley",Estrela de Fogo (1960)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Estrela.de.Fogo.(1960).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4kYgVtcCdeeZh40jiFlnYQF3RUv.jpg" group-title="FILMES - Coleção Elvis Presley",Feitiço Havaiano (1961)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Feitiso.Havaiano.(1961).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9534MhbWoH3h4JttddrCqKhvIdL.jpg" group-title="FILMES - Coleção Elvis Presley",Feriado no Harém (1965)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Feriado.no.Harem.(1965).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pBhd2giMkk9857mfygew6JyZjit.jpg" group-title="FILMES - Coleção Elvis Presley",Garotas e Mais Garotas  (1962)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Garotas.e.Mais.Garotas.(1962).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zslRaj04IkzfrtPomJURHuClOqL.jpg" group-title="FILMES - Coleção Elvis Presley",Joe é Muito Vivo (1968)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Joe.e.Muito.Vivo.(1968).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/A7vhdG0sdz23pTt9eF8ZZZb17cp.jpg" group-title="FILMES - Coleção Elvis Presley",Lindas Encrencas, As Garotas (1969)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Lindas.Encrencas.As.Garotas.(1969).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jHk0chZswF9bZs8hDsFoxN7oUux.jpg" group-title="FILMES - Coleção Elvis Presley",Loiras Morenas e Ruivas (1963)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Loiras.Morenas.e.Ruivas.(1963).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/J8QebKJaB52o34sTXEfZ0bVYev.jpg" group-title="FILMES - Coleção Elvis Presley",Louco Por Garotas (1965)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Louco.Por.Garotas.(1965).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/48FTicZHu8LNy56fdLRxC7Mmvld.jpg" group-title="FILMES - Coleção Elvis Presley",Meu Tesouro é Você (1967)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Meu.Tesouro.e.Voce.(1967).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pgqKE56C74L0RdKcb0aq3EEGkpw.jpg" group-title="FILMES - Coleção Elvis Presley",Minhas Três Noivas (1966)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Minhas.Tres.Noivas.(1966).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6PLfdCgjqD3Gm9UeeaF3e8iTo3M.jpg" group-title="FILMES - Coleção Elvis Presley",No Paraíso do Havai (1966)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/No.Paraiso.do.Havai.(1966).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/eWjGauqY2NIdZOCi7KW9ZNpHBxV.jpg" group-title="FILMES - Coleção Elvis Presley",O Bacana do Volante (1968)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/O.Bacana.do.Volante.(1968).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UW0sKsHpqihD8uck54jY7qzBfw.jpg" group-title="FILMES - Coleção Elvis Presley",O Barco do Amor (1967)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/O.Barco.do.Amor.(1967).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yOVMTuY5wgThgmfC88dmnF3DfWz.jpg" group-title="FILMES - Coleção Elvis Presley",O Prisioneiro do Rock (1957)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/O.Prisioneiro.do.Rock.(1957).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6rcIQvAoXa8NTJm3XwFgDFtKVIu.jpg" group-title="FILMES - Coleção Elvis Presley",O Seresteiro de Acapulco (1963)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/O.Seresteiro.de.Acapulco.(1963).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iOUtK7XuN8FDEJIElYv5GWcCvUI.jpg" group-title="FILMES - Coleção Elvis Presley",Saudades de um Pracinha (1960)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Saudades.de.um.Pracinha.(1960).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9iyvjDZgbbMTgoAbsVk7B4GvTjR.jpg" group-title="FILMES - Coleção Elvis Presley",Talhado Para Campeão (1962)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Talhado.Para.Campeao.(1962).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/eGAGP8oFmrotW0qpUzAKbpAt3cE.jpg" group-title="FILMES - Coleção Elvis Presley",Viva Las Vegas com Elvis Presley (1964)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Viva.Las.Vegas.com.Elvis.Presley.(1964).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/x3EyXP29UpXRbYnZLW6hKYMgLkW.jpg" group-title="FILMES - Coleção Elvis Presley",Viva um pouquinho ame um pouquinho (1968)
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Viva.um.pouquinho.ame.um.pouquinho.(1968).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/meiRE7aScXd75IV2hmv9hZG03VW.jpg" group-title="FILMES - Coleção Jerry Lewis",A Barbada do Biruta (1953)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/A.Barbada.do.Biruta.(1953).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/83pJPArXu4sfkeaq9qpsGWt3JcK.jpg" group-title="FILMES - Coleção Jerry Lewis",A Canoa Furou (1959)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/A.Canoa.Furou.(1959).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9ERKsl3znHr8wSdyL2SiqtFTsbG.jpg" group-title="FILMES - Coleção Jerry Lewis",A Família Fuleira (1965)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/A.Familia.Fuleira.(1965).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/71E707SujTFdJqiTfglbjVhrEVh.jpg" group-title="FILMES - Coleção Jerry Lewis",A Farra dos Malandros (1954)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/A.Farra.dos.Malandros.(1954).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9voPq8dH2UhBvFQV86eVVzowZvV.jpg" group-title="FILMES - Coleção Jerry Lewis",As loucuras de Jerry Lewis (1983)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/As.loucuras.de.J.L.(1983).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e0k9MvNCoR3wf1HCjwEGzgSg3mj.jpg" group-title="FILMES - Coleção Jerry Lewis",Artistas e Modelos (1955)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Artistas.e.Modelos.(1955).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ugPBXv2QnwVopFv0Mc97uAZuoDB.jpg" group-title="FILMES - Coleção Jerry Lewis",Bancando a Ama Seca (1958)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Bancando.a.Ama.Seca.(1958).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bS6za8lDFVcd7W2qiCArIS7pBcU.jpg" group-title="FILMES - Coleção Jerry Lewis",Boeing Boeing (1965)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Boeing.Boeing.(1965).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o3YcBuBmPsOyHmBPaxVcqpeU9hO.jpg" group-title="FILMES - Coleção Jerry Lewis",Delinquente Delicado (1957)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Delinquente.Delicado.(1957).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yp2AqBOBhtF1Pq1fd50of04oskO.jpg" group-title="FILMES - Coleção Jerry Lewis",Morrendo de Medo (1953)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Morrendo.de.Medo.(1953).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gNmG2ciOtxPmBXJNZmCbzxPT4Hg.jpg" group-title="FILMES - Coleção Jerry Lewis",O Bagunceiro Arrumadinho (1964)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Bagunceiro.Arrumadinho.(1964).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t33vQHg7hqtxtbCmthsYpVyIu8z.jpg" group-title="FILMES - Coleção Jerry Lewis",O Bamba do Regimento (1957)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Bamba.do.Regimento.(1957).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xmPgAUbvEcdlB7KfvInk1FNXCMD.jpg" group-title="FILMES - Coleção Jerry Lewis",O Fofoqueiro (1967)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Fofoqueiro.(1967).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jLtx30tHvslCuci0MC2ND7PNSBe.jpg" group-title="FILMES - Coleção Jerry Lewis",O Meninão (1955)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Meninao.(1955).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mRDVZ9ZWCakjDa8luUxa04cIHvv.jpg" group-title="FILMES - Coleção Jerry Lewis",O Mocinho Encrenqueiro (1961)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Mocinho.Encrenqueiro.(1961).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rjd7ruysWcOiEskGy0h9hnyKNTv.jpg" group-title="FILMES - Coleção Jerry Lewis",O Otario (1964)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Otario.(1964).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zDsCV3BpZnfkQADdFlWCuKPQpSn.jpg" group-title="FILMES - Coleção Jerry Lewis",O Rei do Circo (1954)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Rei.do.Circo.(1954).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ImRuh0jikgcISBSOHsFBFgbHNb.jpg" group-title="FILMES - Coleção Jerry Lewis",O Rei da comedia (1982)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Rei.da.comedia.(1982).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oM09jCTGXVHxstRG6xIflRHp8Gk.jpg" group-title="FILMES - Coleção Jerry Lewis",O Rei Do Laço (1956)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Rei.Do.Laso.(1956).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AkbD04yIkYo1sudzLHVlaZ9lAMe.jpg" group-title="FILMES - Coleção Jerry Lewis",O Rei dos Mágicos (1958)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Rei.dos.Magicos.(1958).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wgFJlGH4xz5RtXFihndDYz3faeJ.jpg" group-title="FILMES - Coleção Jerry Lewis",O Terror das Mulheres (1961)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Terror.das.Mulheres.(1961).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dhrDOmrWeSe3IQEVasWWMY8HpwI.jpg" group-title="FILMES - Coleção Jerry Lewis",Ou Vai ou Racha (1956)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Ou.Vai.ou.Racha.(1956).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9s3zaI2B98vnG68yDFC89vkWz8e.jpg" group-title="FILMES - Coleção Jerry Lewis",Rabo de Foguete (1960)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Rabo.de.Foguete.(1960).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fZcd5xPryuMltJB66K0lFZNyc0F.jpg" group-title="FILMES - Coleção Jerry Lewis",Rir é Viver (1995)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Rir.e.Viver.(1995).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/G98ez7ryJt7F64O1vqyHBySUgQ.jpg" group-title="FILMES - Coleção Jerry Lewis",Sofrendo da Bola (1953)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Sofrendo.da.Bola.(1953).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x9cKsPi1pcwoZj2NJoa5295UWWt.jpg" group-title="FILMES - Coleção Jerry Lewis",Três em um Sofá (1966)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Tres.em.um.Sofa.(1966).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gLCAvmmhEMtgN8oAdxtcGqAKGG9.jpg" group-title="FILMES - Coleção Jerry Lewis",Um Golpe das Arábias (1967)
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Um.Golpe.das.Arabias.(1967).mkv
 """
 
 output_text = reformat_m3u(input_text)
