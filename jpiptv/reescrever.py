@@ -23,34 +23,34 @@ def reformat_m3u(input_text):
 
 # Exemplo de uso
 input_text = """
-#EXTINF:-1 tvg-logo="https://bit.ly/3Ig7OaN" group-title="FILMES | CORRIDA",Táxi 5 2020 
-https://content.jwplatform.com/videos/wARYiP2N-l5r3qFf5.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3Ic0jSo" group-title="FILMES | CORRIDA",Taxi 1 1998
-https://content.jwplatform.com/videos/9W8Tlq0y-CQCt9Pxj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3LRSUKa" group-title="FILMES | CORRIDA",Taxi 5 2004
-https://content.jwplatform.com/videos/miyo8U6Y-CQCt9Pxj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/33IFDlZ" group-title="FILMES | CORRIDA",Taxi 4 2007
-https://content.jwplatform.com/videos/FFMGYKE6-CQCt9Pxj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3t7i4vU" group-title="FILMES | CORRIDA",Taxi 3 2003
-https://content.jwplatform.com/videos/OpUA9AHr-CQCt9Pxj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3IfvvzY" group-title="FILMES | CORRIDA",Taxi 2 2000
-https://content.jwplatform.com/videos/UniNqwW8-CQCt9Pxj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3LVlKsY" group-title="FILMES | CORRIDA",Corrida Mortal 1 2008
-https://content.jwplatform.com/videos/tie3Yw82-CQCt9Pxj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3haePxT" group-title="FILMES | CORRIDA",Corrida Mortal 2 2010
-https://content.jwplatform.com/videos/qBMnCc8j-CQCt9Pxj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/35dBXcd" group-title="FILMES | CORRIDA",Corrida Mortal 3 2012
-https://content.jwplatform.com/videos/cPTMeXjt-CQCt9Pxj.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3It5Lk1" group-title="FILMES | CORRIDA",Resgate Em Alta Velocidade 2013
-https://content.jwplatform.com/videos/I9qFgAF2-cYl17PlW.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3JMvJix" group-title="FILMES | CORRIDA",Em Ritmo De Fuga 2017
-https://content.jwplatform.com/videos/uYNHofDj-cYl17PlW.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3m3KxAP" group-title="FILMES | CORRIDA",Velozes e Furiosos 9 2021
-https://cdn.jwplayer.com/videos/6QvMGqYS-4z58n6ov.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/35jbSs6" group-title="FILMES | CORRIDA",Velozes e furIosos Hobbs Shaw 2019
-https://content.jwplatform.com/videos/fgMJ4nmO-l5r3qFf5.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/34ZeQ5q" group-title="FILMES | CORRIDA",2oo Mph 2011
-https://content.jwplatform.com/videos/HFZgeEll-rJHXHDfu.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Serra Pelada 2014
+https://content.jwplatform.com/videos/KDufJyzk-eS6GsxaU.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",CARANDIRU
+https://content.jwplatform.com/videos/lZIsSakL-EiPiTsLT.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",ÚLtima Parada 174 2008
+https://content.jwplatform.com/videos/t12xnVD5-ABgby8qa.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Minha Mae e Uma Peca 3 2020
+https://content.jwplatform.com/videos/dtoFY70K-bWtniFnP.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Vestido Pra Casar 2014
+https://content.jwplatform.com/videos/aIxNxYXY-LElI8svP.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Uma Quase Dupla 2018
+https://content.jwplatform.com/videos/yb5YiAg3-M33kuJwh.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Um Suburbano Sortudo 2016
+https://content.jwplatform.com/videos/qrTM4Jle-M33kuJwh.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Cinderela Pop 2019
+https://content.jwplatform.com/videos/mTZM66qi-M33kuJwh.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Crô Em Família 2018
+https://content.jwplatform.com/videos/6l6PSmww-M33kuJwh.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Coracao De Cowboy 2018
+https://content.jwplatform.com/videos/Bl1AoX8S-M33kuJwh.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Vai Que Cola 2015
+https://content.jwplatform.com/videos/8qAHGQZO-M33kuJwh.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Se Beber Nao Ceie 2018
+https://content.jwplatform.com/videos/eJqlL4n6-M33kuJwh.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Tô Ryca 2016
+https://content.jwplatform.com/videos/R27dy7ZB-LElI8svP.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="FILMES | NACIONAL",Tungstenio 2018
+https://content.jwplatform.com/videos/OvgULsfC-0LVEQQrw.mp4?JPFILMES
 """
 
 output_text = reformat_m3u(input_text)
