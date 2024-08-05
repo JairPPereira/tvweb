@@ -23,24 +23,34 @@ def reformat_m3u(input_text):
 
 # Exemplo de uso
 input_text = """
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Crepusculo 1 2008
-https://content.jwplatform.com/videos/KnIteJsi-BvF3GI2K.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Crepusculo 2 Lua Nova  2009
-https://content.jwplatform.com/videos/ksvlGpEj-BvF3GI2K.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Crepusculo 3 Eclipse  2010
-https://content.jwplatform.com/videos/MpxOFyDe-BvF3GI2K.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Crepusculo 4 Amanhecer PT.1 2011
-https://content.jwplatform.com/videos/PuaZAywT-BvF3GI2K.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Crepusculo 5 Amanhecer PT.2 2012
-https://content.jwplatform.com/videos/t5DB2JVf-BvF3GI2K.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Meu Amigo O Dragão 2016
-https://content.jwplatform.com/videos/H0CXSFxK-QOmQDbYo.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Alice No País Das Maravilhas 2010
-https://content.jwplatform.com/videos/Q7kPaBMm-QOmQDbYo.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILMES | AVENTURA",Alice Através Do Espelho 2016
-https://content.jwplatform.com/videos/NrtBiolg-QOmQDbYo.mp4?JPFILMES
-#EXTINF:-1 tvg-logo="https://bit.ly/3wTiaa6" group-title="FILMES | AVENTURA",Alice E Peter Onde Nascem Os Sonhos 2020
-https://content.jwplatform.com/videos/EsFrvNr0-N4rrC46a.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/3Ig7OaN" group-title="FILMES | CORRIDA",Táxi 5 2020 
+https://content.jwplatform.com/videos/wARYiP2N-l5r3qFf5.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/3Ic0jSo" group-title="FILMES | CORRIDA",Taxi 1 1998
+https://content.jwplatform.com/videos/9W8Tlq0y-CQCt9Pxj.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/3LRSUKa" group-title="FILMES | CORRIDA",Taxi 5 2004
+https://content.jwplatform.com/videos/miyo8U6Y-CQCt9Pxj.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/33IFDlZ" group-title="FILMES | CORRIDA",Taxi 4 2007
+https://content.jwplatform.com/videos/FFMGYKE6-CQCt9Pxj.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/3t7i4vU" group-title="FILMES | CORRIDA",Taxi 3 2003
+https://content.jwplatform.com/videos/OpUA9AHr-CQCt9Pxj.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/3IfvvzY" group-title="FILMES | CORRIDA",Taxi 2 2000
+https://content.jwplatform.com/videos/UniNqwW8-CQCt9Pxj.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/3LVlKsY" group-title="FILMES | CORRIDA",Corrida Mortal 1 2008
+https://content.jwplatform.com/videos/tie3Yw82-CQCt9Pxj.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/3haePxT" group-title="FILMES | CORRIDA",Corrida Mortal 2 2010
+https://content.jwplatform.com/videos/qBMnCc8j-CQCt9Pxj.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/35dBXcd" group-title="FILMES | CORRIDA",Corrida Mortal 3 2012
+https://content.jwplatform.com/videos/cPTMeXjt-CQCt9Pxj.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/3It5Lk1" group-title="FILMES | CORRIDA",Resgate Em Alta Velocidade 2013
+https://content.jwplatform.com/videos/I9qFgAF2-cYl17PlW.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/3JMvJix" group-title="FILMES | CORRIDA",Em Ritmo De Fuga 2017
+https://content.jwplatform.com/videos/uYNHofDj-cYl17PlW.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/3m3KxAP" group-title="FILMES | CORRIDA",Velozes e Furiosos 9 2021
+https://cdn.jwplayer.com/videos/6QvMGqYS-4z58n6ov.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/35jbSs6" group-title="FILMES | CORRIDA",Velozes e furIosos Hobbs Shaw 2019
+https://content.jwplatform.com/videos/fgMJ4nmO-l5r3qFf5.mp4?JPFILMES
+#EXTINF:-1 tvg-logo="https://bit.ly/34ZeQ5q" group-title="FILMES | CORRIDA",2oo Mph 2011
+https://content.jwplatform.com/videos/HFZgeEll-rJHXHDfu.mp4?JPFILMES
 """
 
 output_text = reformat_m3u(input_text)
