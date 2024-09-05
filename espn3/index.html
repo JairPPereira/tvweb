@@ -412,6 +412,7 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
               <div class="bot">
                 <a class="btn btn-primary btn-sm" href="#" style="padding: 5px;"><input type="button" value="opção 1" onclick="clicou1()" id="botao1"></a>
                 <a class="btn btn-primary btn-sm" href="#" style="padding: 5px;"><input type="button" value="opção 2" onclick="clicou2()" id="botao2"></a>
+                <a class="btn btn-primary btn-sm" href="#" style="padding: 5px;"><input type="button" value="opção 3" onclick="clicou3()" id="botao3"></a>
 
 
         
@@ -434,6 +435,11 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
       document.getElementById("botao2").classList.add("active");
       player.innerHTML = video2
     }
+    function clicou3() {
+      removerAtivo();
+      document.getElementById("botao3").classList.add("active");
+      player.innerHTML = video3
+    }
 
 
     function removerAtivo() {
@@ -452,8 +458,22 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
 
 
 
-    var video2 = ` <iframe
+    var video3 = ` <iframe
     src="https://reidoscanais.me/embed/?id=espn3"
+    width="100%"
+
+   allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+    target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
+        frameborder="0"
+    > </iframe>`
+
+    var video2 = ` <iframe
+    src="https://embedflix.co/tv/espn-3"
     width="100%"
 
    allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
