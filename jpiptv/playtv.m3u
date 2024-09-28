@@ -4,7 +4,7 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/119987.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELÉM HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM FONTE 2
 http://acessopremium.site:80/live/6345487266/5753263850/1082919.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELÉM SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM SD
-http://51.79.39.236:80/live/FamiliaGhizzi/0102201000933/97433.m3u8
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/43818.ts
 #EXTINF:-1 tvg-id="RBA TV" tvg-name="RBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqDyTK5SRE0eY1XqeWVzDSK4cfEnBomRIck78WhTxMd3IZj7idqYR5fGpR6KK2XYIqSNtwUyr1w44d_x27tiHxDnT435u_qFlkfDlVGYOV_M35IVpi_6NJcMG16hhYdPMXx1xk04RU83EDxl-Ory8wYEe-JgByX2rfIAE7EOww5gMYy3lK_LWizKs/s1600/rba200.jpg" group-title="CANAIS | ESTADO DO PARÁ",RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:-1 tvg-id="recordtv.belem.br" tvg-name="RECORD TV BELEM" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | ESTADO DO PARÁ",RECORD TV BELEM
@@ -732,17 +732,17 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL 480p
 https://cdn-1.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
-http://51.79.39.236:80/live/FamiliaGhizzi/0102201000933/57528.m3u8
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/513.ts
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="CNN BRASIL 3" tvg-name="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cnn_brasil.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL
 https://cdn-3.nxplay.com.br/CNN_Brazil_TK/index.m3u8
 #EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News HD
-http://51.79.39.236:80/live/FamiliaGhizzi/0102201000933/608141.m3u8
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/512.ts
 #EXTINF:-1 tvg-id="GLOBO NEWS tvg-name="GLOBONEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS
-http://51.79.39.236:80/live/FamiliaGhizzi/0102201000933/608142.m3u8
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/30196.ts
 #EXTINF:-1 tvg-id="GLOBO NEWS FHD" tvg-name="GLOBONEWS FHD" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News FHD
-http://51.79.39.236:80/live/FamiliaGhizzi/0102201000933/608145.m3u8
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/516.ts
 #EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="BANDNEWS SD" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="CANAIS | NOTÍCIAS",Band News SD
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BANDNEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
