@@ -801,8 +801,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat
 https://cdn-3.nxplay.com.br/RECORD_NEWS_TK/index.m3u8
 #EXTINF:-1 tvg-id="Canal GOV" tvg-name="Canal GOV" tvg-logo="https://imgur.com/9KwUxmX.png" group-title="CANAIS | NOTÍCIAS",Canal GOV
 https://canalgov-stream.ebc.com.br/playlist.m3u8
-#EXTINF:-1  tvg-id="TV VIDEONEWS" tvg-name="NOSSO FUTEBOL 01³" tvg-logo="https://imgur.com/4m1j3CL.png" group-title="CANAIS | NOTÍCIAS",TV VIDEONEWS
+#EXTINF:-1  tvg-id="TV VIDEONEWS" tvg-name="TV VIDEONEWS" tvg-logo="https://imgur.com/4m1j3CL.png" group-title="CANAIS | NOTÍCIAS",TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+#EXTINF:-1  tvg-id="TV O Repórter" tvg-name="TV O Repórter" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxr2m2itc3n6FDdNMHunSNeKXLvu_ymCbCxuPKlF7brl6sqakJVlA4yraAjJk7gPF9yX1hBEY-grL4S6BOqwmRgts-LTz-Ypk0lzUgkDFSb4VZVjw_OLxx6Ov6Frf3DUjva1q-HvIrxFSdT1AuAtQ7cr18GUE_kfoLHVtovqN6RJ-pM_s_wSERMOg5LwI/s1600/oreportes.jpg" group-title="CANAIS | NOTÍCIAS",TV O Repórter
+https://stream.uniquetv.com.br/tvoreporter/video.m3u8
 #EXTINF:-1  tvg-id="Sol Brasil" tvg-name="Sol Brasil" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcnP08ExHa4sE8RRqvolhcfBBqaRIL-QHAdXydfmDEfSR1W476tlvkldEWpECTS0UZwt6g7EtZpQuvOvCVGnvYn51QLnndnTJzpmeN-KtgoKlZFsvv-5aqjcJZjzhvIgLJWBNQ5ESq8xsAZkBBW4g4k0X4DonC2c3gWeTa6BOMqIFLjn503N7DEOb48Hc/s1600/solb.jpg" group-title="CANAIS | EDUCACIONAIS",Sol Brasil
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
 #EXTINF:-1  tvg-id="Phoenix TV" tvg-name="Phoenix TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqFLl-8pE-6E-tMAZ4Y_PkYabYTnutv_m0ZvXAmD6sKO7g8mAAKAvZJpEWgwttOgpzlpiN-NC5iqh3XvX8jhTMLCYs4eRDeTGr4ryOeOzLC9IlB4zuK5ws6ZCHgB_kBhanqyG35Du0g_vUi2OvYYErLjgWVILTJEhmHKbF-KkChENVdFblKyN7dMhdHKk/s1600/fenix.jpg" group-title="CANAIS | EDUCACIONAIS",Phoenix TV
