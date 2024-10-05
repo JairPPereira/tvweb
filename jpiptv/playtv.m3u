@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELÉM FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM FONTE 1
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/2366.ts
+http://m.70.ms:80/live/tiago1858/b1lfr0te3k/122240.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELÉM HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM FONTE 2
 http://acessopremium.site:80/live/6345487266/5753263850/1082919.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELÉM SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM SD
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/363789.ts
+http://m.70.ms:80/live/tiago1858/b1lfr0te3k/122239.m3u8
 #EXTINF:-1 tvg-id="RBA TV" tvg-name="RBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqDyTK5SRE0eY1XqeWVzDSK4cfEnBomRIck78WhTxMd3IZj7idqYR5fGpR6KK2XYIqSNtwUyr1w44d_x27tiHxDnT435u_qFlkfDlVGYOV_M35IVpi_6NJcMG16hhYdPMXx1xk04RU83EDxl-Ory8wYEe-JgByX2rfIAE7EOww5gMYy3lK_LWizKs/s1600/rba200.jpg" group-title="CANAIS | ESTADO DO PARÁ",RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:-1 tvg-id="recordtv.belem.br" tvg-name="RECORD TV BELEM" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | ESTADO DO PARÁ",RECORD TV BELEM
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/244130.ts
+http://m.70.ms:80/live/tiago1858/b1lfr0te3k/236735.m3u8
 #EXTINF:-1 tvg-id="SBT BELEM HD" tvg-name="SBT BELEM HD"  tvg-logo="https://i.postimg.cc/qMf4529c/SBT-HD.png" group-title="CANAIS | ESTADO DO PARÁ",SBT BELEM HD
 http://meumd.com:80/live/Marta2023/Marta2023/27377272.m3u8
 #EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-name="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="CANAIS | ESTADO DO PARÁ",TV GRÃO PARA
@@ -35,70 +35,22 @@ https://tv02.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
 https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-name="Tv Guarajá - SBT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisxR5Z9CcV_hGQ-iBmqI5lGTCwuHeBXM8jsrK_2He8UuHTMrWpl2r2tzQCPH4UzKQkmrs7vug6up5e8n3Ic_Q5EF-DxSOJ4yNLm1GOH7_6ropgObvkE5mMWaDjt9LA8A2VcuWEp_xISQiqerpItA634mC3L_7QmCMaETrHP2kiFQcHU_Uy5iv1nS43c2w/s1600/guaja.webp" group-title="CANAIS | ESTADO DO PARÁ",Tv Guarajá - SBT
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESTRELA DAY ACOMPANHE A CASA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY ACOMPANHE A CASA
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/384589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DAY MOSAICO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY MOSAICO
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/385523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DAY ACOMPANHE A CASA 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY ACOMPANHE A CASA 2
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/385524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DAY DINAMICA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY DINAMICA
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/385525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DAY COZINHA HELLMANS" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY COZINHA HELLMANS
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/385526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DAY BANHEIRO ELSEVE" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY BANHEIRO ELSEVE
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/385527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DAY QUARTO LARANJA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY QUARTO LARANJA
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/385528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DAY QUARTO AZUL" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY QUARTO AZUL
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/385529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DAY LOUNGE" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY LOUNGE
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/385530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DAY VARANDA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY VARANDA
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/385531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DAY PISCINA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY PISCINA
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/385532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DAY CORPO E DANÇA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY CORPO E DANÇA
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/385533.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="Aquecimento A Fazenda " tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",Aquecimento A Fazenda 
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/397630.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 FHD
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/398918.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 2 HD " tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 HD 
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/397631.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 3 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 FHD
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/398919.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 HD
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/397632.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 4 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 FHD
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/398920.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 4 HD " tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 HD 
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/397633.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 5 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 5 HD
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/397634.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 6 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 6 FHD
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/398922.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 15 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 15 FHD
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/398926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ Silvio Santos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Silvio Santos
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/390581.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ Novelas " tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Novelas 
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/390578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ Saúde " tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Saúde 
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/390579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ Séries " tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Séries 
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/390580.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ Informação " tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Informação 
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/390576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ Humor" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Humor
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/390575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ Criança" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Criança
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/390574.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="SBT+ Cinema " tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Cinema 
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/390573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ POP " tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ POP 
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/390577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ TVZYN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ TVZYN
-http://xciptv.aplicativos.top:80/live/4288869325/D455Z4929h/390582.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 01" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 01
+http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260288.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 02" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 02
+http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260289.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 03" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 03
+http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260290.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 04" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 04
+http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260291.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 05" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 05
+http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260292.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 06" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 06
+http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260293.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 07" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 07
+http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260294.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 08
+http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260295.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="O Paraíso e a Serpente S01 E01" tvg-logo="http://timg.bdta.pro/images/vbaen62LtRtEmrQjE7EkZ1pnQyI_big.jpg" group-title="O Paraíso e a Serpente",O Paraíso e a Serpente S01 E01
 http://107.152.47.46:80/series/Reinaldo70/Marinho018/515299.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Paraíso e a Serpente S01 E02" tvg-logo="http://timg.bdta.pro/images/vbaen62LtRtEmrQjE7EkZ1pnQyI_big.jpg" group-title="O Paraíso e a Serpente",O Paraíso e a Serpente S01 E02
@@ -721,22 +673,6 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/534.ts
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/535.ts
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/536.ts
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 01" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 01
-http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260288.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 02" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 02
-http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260289.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 03" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 03
-http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260290.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 04" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 04
-http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260291.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 05" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 05
-http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260292.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 06" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 06
-http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260293.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 07" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 07
-http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260294.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 08
-http://m.70.ms:80/live/tiago1858/b1lfr0te3k/260295.m3u8
 #EXTINF:-1 tvg-id="Canaldoboi.br" tvg-name="Canal do Boi FHD" tvg-logo="http://fivetv.xyz/logos/canaldoboi.png" group-title="ABERTOS",Canal do Boi FHD
 http://m.70.ms:80/live/tiago1858/b1lfr0te3k/100446.m3u8
 #EXTINF:-1 tvg-id="Canaldoboi.br" tvg-name="Canal do Boi HD" tvg-logo="http://fivetv.xyz/logos/canaldoboi.png" group-title="ABERTOS",Canal do Boi HD
