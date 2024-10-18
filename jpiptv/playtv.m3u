@@ -619,8 +619,6 @@ http://meumd.com:80/live/Marta2023/Marta2023/110340.ts
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/600335.m3u8
 #EXTINF:-1 tvg-id="fox.news.br" tvg-name="24H NEWS FHD" tvg-logo="https://img.ip2.digital/foxnews.png" group-title="CANAIS | NOTÍCIAS",24H NEWS FHD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/38728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A vida moderna de Rocko" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",A vida moderna de Rocko
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195008.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H265¹" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18107.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H265²" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD H265²
@@ -677,10 +675,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/38713.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/38712.m3u8
 #EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE1 SD" tvg-logo="https://img.ip2.digital/arte1.png" group-title="CANAIS | VARIEDADES",ARTE1 SD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As  Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",As  Pistas de Blue
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="https://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",As Aventuras de Jackie Chan
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195032.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD H265¹" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18110.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="AXN FHD H265²" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN FHD H265²
@@ -701,8 +695,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/163813.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17882.m3u8
 #EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV SD²" tvg-logo="https://img.ip2.digital/babytv.png" group-title="CANAIS | INFANTIS",BABY TV SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Babyfirst" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Babyfirst
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194999.m3u8
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD H265¹" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | SBT - BAND",BAND FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/43137.m3u8
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD H265²" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | SBT - BAND",BAND FHD H265²
@@ -767,24 +759,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35236.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/577035.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAND TV ARAPUAN SD" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | SBT - BAND",BAND TV ARAPUAN SD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/577312.m3u8
-#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",beIN SPORTS XTRA
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377494.m3u8
-#EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Bellator MMA
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BET Being Mary Jane" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",BET Being Mary Jane
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BET Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",BET Pluto TV
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195018.m3u8
-#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-name="Big Brother Camera 1" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Big Brother Camera 1
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377477.m3u8
-#EXTINF:-1 tvg-id="64a765fb798def0008734632" tvg-name="Big Brother Camera 2" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Big Brother Camera 2
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377478.m3u8
-#EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-name="Big Brother Camera 3" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Big Brother Camera 3
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377479.m3u8
-#EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-name="Big Brother Camera 4" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Big Brother Camera 4
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377480.m3u8
-#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-name="Big Brother Quad View" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Big Brother Quad View
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377476.m3u8
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD H265¹" tvg-logo="https://img.ip2.digital/bis.png" group-title="CANAIS | VARIEDADES",BIS FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18113.m3u8
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD H265²" tvg-logo="https://img.ip2.digital/bis.png" group-title="CANAIS | VARIEDADES",BIS FHD H265²
@@ -933,8 +907,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379738.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/589973.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 3 FHD³ ALT" tvg-logo="http://ucsxiptv.com:8080/images/caze.png" group-title="CANAIS | PPV ESPORTES",CAZÉ TV 3 FHD³ ALT
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/593079.m3u8
-#EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",CBS Sports HQ
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377481.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CENTRAL BR TV HD" tvg-logo="https://img.ip2.digital/centralbr.png" group-title="CANAIS | ABERTOS",CENTRAL BR TV HD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/37510.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 01
@@ -1015,10 +987,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/34616.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17896.m3u8
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="https://img.ip2.digital/comedyCentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Pluto TV" tvg-logo="https://imgur.com/VFUqLY2.png" group-title="CANAIS | PLUTO TV",Comedy Central Pluto TV
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central South Park" tvg-logo="https://imgur.com/VFUqLY2.png" group-title="CANAIS | PLUTO TV",Comedy Central South Park
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195033.m3u8
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! FHD" tvg-logo="https://img.ip2.digital/curta.png" group-title="CANAIS | VARIEDADES",CURTA! FHD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35173.m3u8
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! HD¹" tvg-logo="https://img.ip2.digital/curta.png" group-title="CANAIS | VARIEDADES",CURTA! HD¹
@@ -1049,10 +1017,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/208659.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379742.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN COMBAT" tvg-logo="https://i.imgur.com/OEY3OSq.png" group-title="CANAIS | PPV ESPORTES",DAZN COMBAT
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/380943.m3u8
-#EXTINF:-1 tvg-id="64b02bbd7d93410008fdae60" tvg-name="DAZN Women's Football" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",DAZN Women's Football
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Diff’rent Strokes Arnold" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Diff’rent Strokes Arnold
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195047.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Diney+ 02 opção 2" tvg-logo="" group-title="CANAIS | PPV ESPORTES",Diney+ 02 opção 2
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/616206.m3u8
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265¹" tvg-logo="https://img.ip2.digital/discoveryChannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD H265¹
@@ -1229,18 +1193,10 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18229.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/34472.m3u8
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 5 SD¹" tvg-logo="https://img.ip2.digital/espnextra.png" group-title="CANAIS | ESPN",ESPN 5 SD¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/212676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews Português" tvg-logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Euronews Português
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",FailArmy
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195000.m3u8
 #EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV FHD" tvg-logo="https://img.ip2.digital/fashiontv.png" group-title="CANAIS | VARIEDADES",FASHION TV FHD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/37495.m3u8
 #EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV HD" tvg-logo="https://img.ip2.digital/fashiontv.png" group-title="CANAIS | VARIEDADES",FASHION TV HD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/181186.m3u8
-#EXTINF:-1 tvg-id="5812b0f2237a6ff45d16c3f9" tvg-name="Fight" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG-1543864366762.png" group-title="CANAIS | PLUTO TV",Fight
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmes Suspense
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194991.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="FISH TV FHD H265¹" tvg-logo="https://img.ip2.digital/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18136.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FISH TV FHD H265²" tvg-logo="https://img.ip2.digital/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV FHD H265²
@@ -1265,18 +1221,12 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/34474.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17914.m3u8
 #EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK SD²" tvg-logo="https://img.ip2.digital/food.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35249.m3u8
-#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",FOX Sports
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377482.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="FOX SPORTS 2 FHD H265¹" tvg-logo="https://img.ip2.digital/foxsports2.png" group-title=" CANAIS | ESPORTES",FOX SPORTS 2 FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18142.m3u8
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD¹" tvg-logo="https://img.ip2.digital/foxsports2.png" group-title=" CANAIS | ESPORTES",FOX SPORTS 2 HD¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18235.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="FOX SPORTS 2 SD¹" tvg-logo="https://img.ip2.digital/foxsports2.png" group-title=" CANAIS | ESPORTES",FOX SPORTS 2 SD¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",FUEL TV
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195040.m3u8
-#EXTINF:-1 tvg-id="6144d313b34fbf0007107714" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",FUEL TV
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377473.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FURACÃO TV FHD¹" tvg-logo="http://logo.trendhd.xyz/images/EXCLUSIVOS/furacao.png" group-title="CANAIS | PPV ESPORTES",FURACÃO TV FHD¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FURACÃO TV FHD²" tvg-logo="http://logo.trendhd.xyz/images/EXCLUSIVOS/furacao.png" group-title="CANAIS | PPV ESPORTES",FURACÃO TV FHD²
@@ -1739,8 +1689,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/34958.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17927.m3u8
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD²" tvg-logo="https://img.ip2.digital/gloob.png" group-title="CANAIS | INFANTIS",GLOOB SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35102.m3u8
-#EXTINF:-1 tvg-id="5417a212ff9fba68282fbf5e" tvg-name="GLORY Kickboxing" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",GLORY Kickboxing
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377493.m3u8
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD H265¹" tvg-logo="https://img.ip2.digital/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18146.m3u8
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD H265²" tvg-logo="https://img.ip2.digital/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD H265²
@@ -1753,12 +1701,8 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/34959.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17928.m3u8
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD²" tvg-logo="https://img.ip2.digital/gnt.png" group-title="CANAIS | VARIEDADES",GNT SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35196.m3u8
-#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Golazo Network
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377486.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gospel Music Television" tvg-logo="https://img.ip2.digital/gospelmusic.png" group-title="CANAIS | RELIGIOSOS",Gospel Music Television
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/209612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guia de Canais" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Guia de Canais
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195014.m3u8
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD H265¹" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18148.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO FHD H265²" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO FHD H265²
@@ -1895,8 +1839,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18248.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18021.m3u8
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL SD²" tvg-logo="https://img.ip2.digital/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35110.m3u8
-#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-name="IMPACT Wrestling" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",IMPACT Wrestling
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377492.m3u8
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY FHD H265¹" tvg-logo="https://img.ip2.digital/discoveryId.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18154.m3u8
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY FHD H265²" tvg-logo="https://img.ip2.digital/discoveryId.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY FHD H265²
@@ -1909,10 +1851,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/34492.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17935.m3u8
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD²" tvg-logo="https://img.ip2.digital/discoveryId.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35111.m3u8
-#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" tvg-name="ITV Deportes" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",ITV Deportes
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jeannie é um Gênio" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Jeannie é um Gênio
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195031.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" tvg-logo="" group-title=" CANAIS | CANAL DO CLIENTE",JOGOS DO DIA
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/577313.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS FHD¹" tvg-logo="https://img.ip2.digital/jovempannews.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS FHD¹
@@ -1923,14 +1861,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/177255.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/177254.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD²" tvg-logo="https://img.ip2.digital/jovempannews.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS HD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/175060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Pluto TV" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Jovem Pan Pluto TV
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kenan & Kel" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Kenan & Kel
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195019.m3u8
-#EXTINF:-1 tvg-id="62d816fcf24d280008762ee9" tvg-name="La Liga Premier | Paramount+" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",La Liga Premier | Paramount+
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377469.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Otra Cara del Alma" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",La Otra Cara del Alma
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195046.m3u8
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD H265¹" tvg-logo="https://img.ip2.digital/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18155.m3u8
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD H265²" tvg-logo="https://img.ip2.digital/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD H265²
@@ -1949,16 +1879,10 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/212631.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/212632.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="https://img.ip2.digital/lovenature.png" group-title="CANAIS | VARIEDADES",LOVE NATURE FHD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/168589.m3u8
-#EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-name="Lucha Libre AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Lucha Libre AAA
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377475.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MALHAÇAO FHD" tvg-logo="" group-title="SÉRIES E NOVELAS | 24H",MALHAÇAO FHD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/600334.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MALHAÇAO SD" tvg-logo="" group-title="SÉRIES E NOVELAS | 24H",MALHAÇAO SD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/600333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MasterChef" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",MasterChef
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195030.m3u8
-#EXTINF:-1 tvg-id="611468532f5f180007fbbc9c" tvg-name="MAVTV Select" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG-1675271915254.png" group-title="CANAIS | PLUTO TV",MAVTV Select
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377495.m3u8
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD H265¹" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18160.m3u8
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD H265²" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD H265²
@@ -1971,8 +1895,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/34973.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17942.m3u8
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35117.m3u8
-#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-name="MLB" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",MLB
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377484.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM FHD" tvg-logo="https://img.ip2.digital/modoviagem.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM FHD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/151911.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="https://img.ip2.digital/modoviagem.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM HD
@@ -1993,12 +1915,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379810.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379811.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://img.ip2.digital/mtv80.png" group-title="CANAIS | VARIEDADES",MTV 80's
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/176917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Are you the One?" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",MTV Are you the One?
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",MTV Biggest Pop
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Com o Ex" tvg-logo="https://i.imgur.com/knWxOD1.jpg" group-title="CANAIS | PLUTO TV",MTV Com o Ex
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195043.m3u8
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD H265¹" tvg-logo="https://img.ip2.digital/mtv.png" group-title="CANAIS | VARIEDADES",MTV FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18161.m3u8
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD H265²" tvg-logo="https://img.ip2.digital/mtv.png" group-title="CANAIS | VARIEDADES",MTV FHD H265²
@@ -2015,12 +1931,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35118.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379813.m3u8
 #EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV LIVE HD" tvg-logo="https://img.ip2.digital/mtvlive.png" group-title="CANAIS | VARIEDADES",MTV LIVE HD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",MTV Pluto TV
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194984.m3u8
-#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="MTV SD" tvg-logo="https://img.ip2.digital/mtv.png" group-title="CANAIS | VARIEDADES",MTV SD
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379816.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",MTV Spankin' New
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195025.m3u8
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD H265²" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD H265²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/34674.m3u8
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD¹" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD¹
@@ -2039,8 +1949,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/38740.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/38739.m3u8
 #EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRAZIL SD²" tvg-logo="https://img.ip2.digital/musicbox.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Naruto
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195007.m3u8
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD H265¹" tvg-logo="https://img.ip2.digital/natgeo.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18163.m3u8
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD¹" tvg-logo="https://img.ip2.digital/natgeo.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD¹
@@ -2079,8 +1987,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/380184.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/380185.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA | League Pass 10" tvg-logo="https://img.ip2.digital/nbapass.png" group-title="CANAIS | NBA LEAGUE PASS",NBA | League Pass 10
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/380186.m3u8
-#EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",NFL Channel
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377483.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 01" tvg-logo="https://img.ip2.digital/nflgamepss.png" group-title="CANAIS | NFL GAME PASS",NFL GAME PASS 01
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/309675.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 01²" tvg-logo="https://img.ip2.digital/nflgamepss.png" group-title="CANAIS | NFL GAME PASS",NFL GAME PASS 01²
@@ -2091,8 +1997,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/310720.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/507461.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 03" tvg-logo="https://img.ip2.digital/nflgamepss.png" group-title="CANAIS | NFL GAME PASS",NFL GAME PASS 03
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Clássico" tvg-logo="https://i.imgur.com/trrtSKN.jpg" group-title="CANAIS | PLUTO TV",Nick Clássico
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194990.m3u8
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD H265¹" tvg-logo="https://img.ip2.digital/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18167.m3u8
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD H265²" tvg-logo="https://img.ip2.digital/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR FHD H265²
@@ -2103,10 +2007,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18261.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17951.m3u8
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD²" tvg-logo="https://img.ip2.digital/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. Club" tvg-logo="https://i.imgur.com/trrtSKN.jpg" group-title="CANAIS | PLUTO TV",Nick Jr. Club
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Teen" tvg-logo="https://i.imgur.com/trrtSKN.jpg" group-title="CANAIS | PLUTO TV",Nick Teen
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195035.m3u8
 #EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD H265¹" tvg-logo="https://img.ip2.digital/nicklodeon.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18166.m3u8
 #EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD H265²" tvg-logo="https://img.ip2.digital/nicklodeon.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD H265²
@@ -2119,10 +2019,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/34980.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17952.m3u8
 #EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON SD²" tvg-logo="https://img.ip2.digital/nicklodeon.png" group-title="CANAIS | INFANTIS",NICKELODEON SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon iCarly" tvg-logo="https://i.imgur.com/MYdPx5F.jpg" group-title="CANAIS | PLUTO TV",Nickelodeon iCarly
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nosey Escândalos" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Nosey Escândalos
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195011.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 01²" tvg-logo="https://i.imgur.com/lcSlv1g.png" group-title="CANAIS | PPV ESPORTES",NOSSO FUTEBOL 01²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/215082.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 01¹" tvg-logo="https://i.imgur.com/lcSlv1g.png" group-title="CANAIS | PPV ESPORTES",NOSSO FUTEBOL 01¹
@@ -2143,10 +2039,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/208655.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/45996.m3u8
 #EXTINF:-1 tvg-id="novotempo.br" tvg-name="NOVO TEMPO SD" tvg-logo="https://img.ip2.digital/novotempo.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO SD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Encantador de Cães" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",O Encantador de Cães
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Reino Infantil" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",O Reino Infantil
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195005.m3u8
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD H265¹" tvg-logo="https://img.ip2.digital/off.png" group-title="CANAIS | VARIEDADES",OFF FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18168.m3u8
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD H265²" tvg-logo="https://img.ip2.digital/off.png" group-title="CANAIS | VARIEDADES",OFF FHD H265²
@@ -2205,90 +2097,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/210181.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379795.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 04 HD¹" tvg-logo="https://i.imgur.com/0h6ihqs.png" group-title="CANAIS | PPV ESPORTES",PARAMOUNT+ 04 HD¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379796.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ Apresenta" tvg-logo="https://i.imgur.com/bBO4vFY.jpg" group-title="CANAIS | PLUTO TV",Paramount+ Apresenta
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195021.m3u8
-#EXTINF:-1 tvg-id="60d39387706fe50007fda8e8" tvg-name="PBR RidePass" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PBR RidePass
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",People are Awesome
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195001.m3u8
-#EXTINF:-1 tvg-id="6334a574605f140007e233c4" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PFL MMA
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377491.m3u8
-#EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PGA TOUR
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Adrenalina Freezone
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Anime
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Ação" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Anime Ação
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Clássicos
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Comédia
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Drama
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Família
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Romance
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Sucessos
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Terror
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comédia" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Comédia
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195020.m3u8
-#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Deportes
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Documentários" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Documentários
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Estilo de Vida
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Fashionstream" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Fashionstream
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Ficção Científica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Ficção Científica
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Filmes Ação
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Filmes Nacionais
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Investigação
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Junior
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Karaokê por Stingray
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Kids
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Minha Obsessão Favorita" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Minha Obsessão Favorita
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mistérios" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Mistérios
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Natureza
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Paisagens por Stingray" tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Paisagens por Stingray
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195026.m3u8
-#EXTINF:-1 tvg-id="5e98b0447665f200078caded" tvg-name="Pluto TV Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Peleas
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Record News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Record News
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retrô" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Retrô
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Shows por Stingray" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Shows por Stingray
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195028.m3u8
-#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-name="Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Sports
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Séries" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Séries
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Turbo
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vida Real" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Vida Real
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194996.m3u8
-#EXTINF:-1 tvg-id="5fc54366b04b2300072e31af" tvg-name="PokerGo" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PokerGo
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377498.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POLISHOP TV FHD¹" tvg-logo="https://img.ip2.digital/polishop.png" group-title="CANAIS | ABERTOS",POLISHOP TV FHD¹
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Porta dos Fundos" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Porta dos Fundos
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/194998.m3u8
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265¹" tvg-logo="https://img.ip2.digital/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/49921.m3u8
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265²" tvg-logo="https://img.ip2.digital/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD H265²
@@ -2423,8 +2231,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/563928.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/563924.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 05 HD²" tvg-logo="http://ucsxiptv.com:8080/images/prime-video.png" group-title="CANAIS | PPV ESPORTES",PRIME VIDEO 05 HD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/563929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pronto-socorro: Histórias De Emergência" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pronto-socorro: Histórias De Emergência
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195045.m3u8
 #EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="RA TIM BUM HD¹" tvg-logo="https://img.ip2.digital/ratimbum.png" group-title="CANAIS | INFANTIS",RA TIM BUM HD¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18291.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECEITAS FAST" tvg-logo="https://img.ip2.digital/receitasFast.png" group-title="CANAIS | VARIEDADES",RECEITAS FAST
@@ -2575,8 +2381,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/596836.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/577036.m3u8
 #EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV FHD" tvg-logo="https://img.ip2.digital/rit.png" group-title="CANAIS | ABERTOS",RIT TV FHD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/175889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/61f2c6969fcc3800076ef8af/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Rugrats
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195048.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sabor & Arte HD¹" tvg-logo="https://img.ip2.digital/saborarte.png" group-title="CANAIS | VARIEDADES",Sabor & Arte HD¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/201473.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SANTUÁRIO DE FÁTIMA FHD" tvg-logo="https://img.ip2.digital/santuario.png" group-title="CANAIS | RELIGIOSOS",SANTUÁRIO DE FÁTIMA FHD
@@ -2631,8 +2435,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379692.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379693.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT TV TAMBAU FHD H264" tvg-logo="https://img.ip2.digital/sbt.png" group-title="CANAIS | SBT - BAND",SBT TV TAMBAU FHD H264
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379691.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Schitt's Creek" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Schitt's Creek
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195049.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="SHOPTIME HD" tvg-logo="https://img.ip2.digital/SHOPTIME.png" group-title="CANAIS | ABERTOS",SHOPTIME HD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/203584.m3u8
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD H265¹" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD H265¹
@@ -2731,8 +2533,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35000.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17983.m3u8
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD²" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Tastemade
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195016.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TASTEMADE BRASIL" tvg-logo="https://img.ip2.digital/tastemade.png" group-title="CANAIS | VARIEDADES",TASTEMADE BRASIL
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/168590.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="TCM ( ALTERNATIVO )" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM ( ALTERNATIVO )
@@ -2823,8 +2623,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35009.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17992.m3u8
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD²" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",The Pet Collective
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195002.m3u8
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD¹" tvg-logo="https://img.ip2.digital/tlc.png" group-title="CANAIS | VARIEDADES",TLC FHD¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/560454.m3u8
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD²" tvg-logo="https://img.ip2.digital/tlc.png" group-title="CANAIS | VARIEDADES",TLC FHD²
@@ -2875,8 +2673,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35012.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/17996.m3u8
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SÉRIES SD²" tvg-logo="https://img.ip2.digital/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Tokusato
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195017.m3u8
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD²" tvg-logo="https://img.ip2.digital/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35157.m3u8
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD¹" tvg-logo="https://img.ip2.digital/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST SD¹
@@ -2895,8 +2691,6 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379826.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/38754.m3u8
 #EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV SD²" tvg-logo="https://img.ip2.digital/trutv.png" group-title="CANAIS | FILMES E SÉRIES",TRUTV SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/34536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Turma da Mônica
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195009.m3u8
 #EXTINF:-1 tvg-id="TVAparecida" tvg-name="TV APARECIDA FHD H265²" tvg-logo="https://img.ip2.digital/aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA FHD H265²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/181889.m3u8
 #EXTINF:-1 tvg-id="TVAparecida" tvg-name="TV APARECIDA FHD H265¹" tvg-logo="https://img.ip2.digital/aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA FHD H265¹
@@ -3031,16 +2825,10 @@ http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/34538.m3u8
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18018.m3u8
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD²" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL SD²
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/35162.m3u8
-#EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-name="Waypoint TV" tvg-logo="https://images.pluto.tv/channels/61b3ec5ac547920007daf647/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Waypoint TV
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377496.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="WOOHOO FHD H265¹" tvg-logo="https://img.ip2.digital/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO FHD H265¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18201.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="WOOHOO SD¹" tvg-logo="https://img.ip2.digital/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO SD¹
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/18019.m3u8
-#EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" group-title="CANAIS | PLUTO TV",World Poker Tour
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/377497.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Younger" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Younger
-http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/195039.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YOUTUBE 01 HD" tvg-logo="" group-title="CANAIS | PPV ESPORTES",YOUTUBE 01 HD
 http://brqnt.pro:80/live/mari47PONTO3/258vfcdXSZWAQ1573v/379780.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YOUTUBE 02 HD" tvg-logo="" group-title="CANAIS | PPV ESPORTES",YOUTUBE 02 HD
