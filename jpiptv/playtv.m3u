@@ -8,7 +8,7 @@ http://meumd.com:80/live/Marta2023/Marta2023/108889.ts
 #EXTINF:-1 tvg-id="RBA TV" tvg-name="RBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqDyTK5SRE0eY1XqeWVzDSK4cfEnBomRIck78WhTxMd3IZj7idqYR5fGpR6KK2XYIqSNtwUyr1w44d_x27tiHxDnT435u_qFlkfDlVGYOV_M35IVpi_6NJcMG16hhYdPMXx1xk04RU83EDxl-Ory8wYEe-JgByX2rfIAE7EOww5gMYy3lK_LWizKs/s1600/rba200.jpg" group-title="CANAIS | ESTADO DO PARÁ",RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:-1 tvg-id="recordtv.belem.br" tvg-name="RECORD TV BELEM" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | ESTADO DO PARÁ",RECORD TV BELEM
-http://voz.one:80/live/i3FDZBieukulSEi/zChA1EmW1R26AQd/287.ts
+http://meumd.com:80/live/Marta2023/Marta2023/109590.ts
 #EXTINF:-1 tvg-id="SBT BELEM HD" tvg-name="SBT BELEM HD"  tvg-logo="https://i.postimg.cc/qMf4529c/SBT-HD.png" group-title="CANAIS | ESTADO DO PARÁ",SBT BELEM HD
 http://meumd.com:80/live/Marta2023/Marta2023/27377272.m3u8
 #EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-name="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="CANAIS | ESTADO DO PARÁ",TV GRÃO PARA
@@ -177,9 +177,6 @@ http://meumd.com:80/live/Marta2023/Marta2023/110348.ts
 http://meumd.com:80/live/Marta2023/Marta2023/110344.ts
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
 http://meumd.com:80/live/Marta2023/Marta2023/110340.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CaeoLuR.jpeg" group-title="ABERTO",[COLOR yellow][B]FORMIGAtv:[/B][/COLOR]Canal Ricos
-https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="MAX 8" tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/01/HBO-Max-Logo.png" group-title="⚽️ ESPORTES EXCLUSIVOS",MAX 8
 http://162.212.153.165:80/live/Formigatv/OFFtv2323/3294348.m3u8
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD⁺" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="⚽️ PREMIERE",PREMIERE CLUBES HD⁺
