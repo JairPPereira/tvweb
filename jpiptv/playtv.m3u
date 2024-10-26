@@ -164,9 +164,9 @@ http://162.212.153.165:80/live/Formigatv/OFFtv2323/320594.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/558.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE CLUBES HD³
-http://voz.one:80/live/i3FDZBieukulSEi/zChA1EmW1R26AQd/719.ts
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/948335.m3u8
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 2 HD³
-http://voz.one:80/live/i3FDZBieukulSEi/zChA1EmW1R26AQd/702.ts
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1542248.m3u8
 #EXTINF:-1 tvg-id="PR3UBE" tvg-name="CANAIS | PREMIERE 3 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 3 HD³
 http://meumd.com:80/live/Marta2023/Marta2023/110356.ts
 #EXTINF:-1 tvg-id="PRMR4" tvg-name="CANAIS | PREMIERE 4 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 4 HD³
