@@ -177,6 +177,14 @@ https://anonmedia.foo/premiere5/tracks-v1a1/mono.m3u8
 https://anonmedia.foo/premiere6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
 https://anonmedia.foo/premiere7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN1 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN1 HD³
+https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN2 HD³
+https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN3 HD³
+https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN4 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN4 HD³
+https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CaeoLuR.jpeg" group-title="ABERTO",[COLOR yellow][B]FORMIGAtv:[/B][/COLOR]Canal Ricos
 https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX 8" tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/01/HBO-Max-Logo.png" group-title="⚽️ ESPORTES EXCLUSIVOS",MAX 8
