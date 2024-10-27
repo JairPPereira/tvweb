@@ -10,7 +10,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u
 #EXTINF:-1 tvg-id="recordtv.belem.br" tvg-name="RECORD TV BELEM" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | ESTADO DO PARÁ",RECORD TV BELEM
 http://meumd.com:80/live/Marta2023/Marta2023/109590.ts
 #EXTINF:-1 tvg-id="SBT BELEM HD" tvg-name="SBT BELEM HD"  tvg-logo="https://i.postimg.cc/qMf4529c/SBT-HD.png" group-title="CANAIS | ESTADO DO PARÁ",SBT BELEM HD
-http://meumd.com:80/live/Marta2023/Marta2023/27377272.m3u8
+https://ythls.armelin.one/channel/UCcDerngKTEU5ryjMS-ThLbg.m3u8
 #EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-name="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="CANAIS | ESTADO DO PARÁ",TV GRÃO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-name="TV Marajoara" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqAnRJTsB67pr9kADaiiEh-IgbCQuEPQOwlUAV03D36IGm0LgK4hXrxJKT23ytk2sztVvwXqXgbZqkuJYq40bcEv_L9I8z7hjItd8qnIjSHUtLlGcLo_-ZCbi3Ut7Yti7dhqwjLVxIdbevNX6wloRxgp6Sxg5Fjh8bHmsN5TriOgFt8imKYPtYIC7QO9M/s1600/maraj.webp" group-title="CANAIS | ESTADO DO PARÁ",TV Marajoara
@@ -158,11 +158,11 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 01³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 01³
 https://cdn-4.nxplay.com.br/NOSSO_FUTEBOL/index.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
-http://162.212.153.165:80/live/Formigatv/OFFtv2323/320591.ts
+https://anonmedia.foo/sportv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 2 HD³
-http://162.212.153.165:80/live/Formigatv/OFFtv2323/320594.ts
+https://anonmedia.foo/sportv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/558.ts
+https://anonmedia.foo/sportv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE CLUBES HD³
 http://162.212.153.165:80/live/Formigatv/OFFtv2323/948335.ts
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 2 HD³
