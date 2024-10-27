@@ -167,6 +167,10 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 https://cdn-4.nxplay.com.br/NOSSO_FUTEBOL/index.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS³" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="CANAIS | ESPORTES PPV",Band Sports FHD³
 https://stream1.freetv.fun/band-sports-3.m3u8
+#EXTINF:-1 tvg-id="Sport TV PT³" tvg-name="Sport TV PT³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyhqn7KjxZZzWKP1oKdxjSLbTUqy7HbewUurgTefVCRzL7lhNf0bbBq6giCnVzMltrFPWkwz4sLIfoWRqLLEwTWu6FFBfXe9sdUVSlto1izejquOQRzyFt0bUvHe9oIN2NPU7mhOmQamGfI-KsyjFYZRCoEzae3s3XFH9ZqawmgMNmvnhUgxmVmbh1uX4/s1600/sporttvp.webp" group-title="CANAIS | ESPORTES PPV",Sport TV PT³
+https://anonmedia.foo/sporttv-pt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sport TV PT 2³" tvg-name="Sport TV PT 2³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyhqn7KjxZZzWKP1oKdxjSLbTUqy7HbewUurgTefVCRzL7lhNf0bbBq6giCnVzMltrFPWkwz4sLIfoWRqLLEwTWu6FFBfXe9sdUVSlto1izejquOQRzyFt0bUvHe9oIN2NPU7mhOmQamGfI-KsyjFYZRCoEzae3s3XFH9ZqawmgMNmvnhUgxmVmbh1uX4/s1600/sporttvp.webp" group-title="CANAIS | ESPORTES PPV",Sport TV PT 2³
+https://anonmedia.foo/sporttv2-pt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Eleven 1 Portugal³" tvg-name="Eleven 1 Portugal³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx1EMB2QH5BfER3ahnbmVwl8eSDI_xsRG7qG-rvxBTw_C-z6AMzvFyl_KpAW9KqYynTnOfRKvJsqBqmm16C_hb8hOq8zo0_258J2Lv92CF4cytzkDbZceI1x7OiqNiZlyvOvlfTQysWo8BMUrVq62hzI5FbtoHUF7gifY1ZYV8z8Zhyphenhyphen7Qf-PYOZ1J3UD0/s1600/eleven.png" group-title="CANAIS | ESPORTES PPV",Eleven 1 Portugal³
 https://anonmedia.foo/eleven-pt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
