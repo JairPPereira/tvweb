@@ -118,7 +118,7 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="CNN BRASIL 3" tvg-name="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cnn_brasil.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL
 https://cdn-3.nxplay.com.br/CNN_Brazil_TK/index.m3u8
 #EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News HD
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/512.ts
+https://stream1.freetv.fun/globo-news-2.m3u8
 #EXTINF:-1 tvg-id="GLOBO NEWS tvg-name="GLOBONEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/30196.ts
 #EXTINF:-1 tvg-id="GLOBO NEWS FHD" tvg-name="GLOBONEWS FHD" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News FHD
@@ -157,6 +157,8 @@ https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 01³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 01³
 https://cdn-4.nxplay.com.br/NOSSO_FUTEBOL/index.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS³" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="CANAIS | ESPORTES PPV",Band Sports FHD³
+https://stream1.freetv.fun/band-sports-3.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
 https://anonmedia.foo/sportv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 2 HD³
