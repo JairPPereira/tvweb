@@ -85,6 +85,14 @@ https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="SAT TV" tvg-name="SAT TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Y-kX2nw3mPp2QGrR2CBMjI1f1A9vjCvVzhay8K3EzNiPIMEh_ec0lpfbjJQM2wxTCvG1q7ui787aPgdwpv65SQ56mOLVk3iZ5ca-2-84X-7jtB4GWnas-4g4JN_fkM6JFDrMQKYTHxnORCcy6AOoq_OHKGvknCB6uvVC2B-ngF8fjxlO88pEeprlEN0/s1600/sattv.webp" group-title="CANAIS | ESTADO DO PARÁ",SAT TV
 https://stmv7.samcast.com.br/sattvweb/sattvweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="Canais | NOVELAS",Os Dez Mandamentos 
+https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0gDjNFs.png" group-title="Canais | NOVELAS", Malhação Fast
+https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/851wj7w.png" group-title="Canais | NOVELAS",A Escrava_Isaura
+https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Canais | NOVELAS",Novelissima BR
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 tvg-id="Tv Maná Brasil" tvg-name="Tv Maná Brasil" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhbe7hqNgRsmkwkSMPOviaiXaNEECpwJxFLPGYa-85_485MaaK4tRaAn8O2mf0qyUxaQEzQf6IdvhubiathN41f6Gxrjzk4px3Nz6a_8lwmFoB4Kxw3gJkZW1bfk_BpxKN4zcPNTM8xp6wNe8OXwO3K1SxJhHRzX2cjBSB_b3eY3DgwBWuf81_MMBUvL4/s1600/mana.webp" group-title="CANAIS | EVANGÉLICOS",Tv Maná Brasil
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="CANAIS | EVANGÉLICOS",TV Novo Tempo
