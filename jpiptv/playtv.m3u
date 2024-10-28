@@ -163,6 +163,24 @@ https://video04.logicahost.com.br/hackathonbrasil/hackathonbrasil/playlist.m3u8
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 #EXTINF:-1  tvg-id="Universidade da Pessoa" tvg-name="Universidade da Pessoa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-Wq_yc-cXAr5WXrpZedM1TjqMEGCX-InZHOJ3xSpbq6zUTgY1qJ7fdxyD0PLqm8SD1dk18HMXvUiGqX8h2EaBa1_mMOWmp3SGc5pZyTgaG1c-hMIlEYyYdnmBdJuSGmtTSRGYkp_ye7_chf1qBqGlhLOnGHubRkjto-fy-DSaqu2qHk3NSV3_U5PpRE/s1600/unipessoa.jpg" group-title="CANAIS | EDUCACIONAIS",Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E01" tvg-logo="https://image.tmdb.org/t/p/w1280/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E01
+http://lvroku.live:80/series/p2pLinha/live1763675801/161318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E02" tvg-logo="https://image.tmdb.org/t/p/w1280/efD2aug7QpeGYkz7gIK5OVjWVU8.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E02
+http://lvroku.live:80/series/p2pLinha/live1763675801/161319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E03" tvg-logo="https://image.tmdb.org/t/p/w1280/trvQgNJdoVoTJNLoSVR6goqlKZf.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E03
+http://lvroku.live:80/series/p2pLinha/live1763675801/163337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E04" tvg-logo="https://image.tmdb.org/t/p/w1280/kJS9ycUt3hzBahLcrFhNxp76wAp.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E04
+http://lvroku.live:80/series/p2pLinha/live1763675801/165433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E05" tvg-logo="https://image.tmdb.org/t/p/w1280/ciYRv08dxwk1idonANAUKEXZHI6.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E05
+http://lvroku.live:80/series/p2pLinha/live1763675801/165946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E06" tvg-logo="https://image.tmdb.org/t/p/w1280/jIEF60suH4Cg7iZEC0ze7b7pKBk.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E06
+http://lvroku.live:80/series/p2pLinha/live1763675801/166116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E07" tvg-logo="https://image.tmdb.org/t/p/w1280/v7IY9eLPc2c9N0MYSppFTO7COZk.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E07
+http://lvroku.live:80/series/p2pLinha/live1763675801/166573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E08" tvg-logo="https://image.tmdb.org/t/p/w1280/3ndiiSM8sWMclfS123YaVIBOtsw.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E08
+http://lvroku.live:80/series/p2pLinha/live1763675801/166629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S02 E01" tvg-logo="https://image.tmdb.org/t/p/w1280/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S02 E01
+http://lvroku.live:80/series/p2pLinha/live1763675801/221001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 01³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 01³
 https://cdn-4.nxplay.com.br/NOSSO_FUTEBOL/index.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS³" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="CANAIS | ESPORTES PPV",Band Sports FHD³
