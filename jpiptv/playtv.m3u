@@ -284,19 +284,19 @@ http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877592.ts
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877593.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE CLUBES HD³
-http://4tv.site:2082/live/0132589762/4665907744/49922.ts
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712138.ts
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 2 HD³
-http://4tv.site:2082/live/0132589762/4665907744/49931.ts
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712144.ts
 #EXTINF:-1 tvg-id="PR3UBE" tvg-name="CANAIS | PREMIERE 3 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 3 HD³
-http://4tv.site:2082/live/0132589762/4665907744/49940.ts
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712150.ts
 #EXTINF:-1 tvg-id="PRMR4" tvg-name="CANAIS | PREMIERE 4 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 4 HD³
-http://4tv.site:2082/live/0132589762/4665907744/49949.ts
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712155.ts
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 5 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 5 HD³
-http://4tv.site:2082/live/0132589762/4665907744/49958.ts
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712161.ts
 #EXTINF:-1 tvg-id="PRM6BR" tvg-name="CANAIS | PREMIERE 6 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 6 HD³
-http://4tv.site:2082/live/0132589762/4665907744/49967.ts
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712167.ts
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
-http://4tv.site:2082/live/0132589762/4665907744/49976.ts
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712173.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN1 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN1 HD³
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140266.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN2 HD³
