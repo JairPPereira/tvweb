@@ -284,19 +284,19 @@ https://anonmedia.foo/sportv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
 https://anonmedia.foo/sportv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE CLUBES HD³
-https://anonmedia.foo/premiereclubes/tracks-v1a1/mono.m3u8
+http://4tv.site:2082/live/0132589762/4665907744/49922.ts
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 2 HD³
-https://anonmedia.foo/premiere2/tracks-v1a1/mono.m3u8
+http://4tv.site:2082/live/0132589762/4665907744/49931.ts
 #EXTINF:-1 tvg-id="PR3UBE" tvg-name="CANAIS | PREMIERE 3 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 3 HD³
-https://anonmedia.foo/premiere3/tracks-v1a1/mono.m3u8
+http://4tv.site:2082/live/0132589762/4665907744/49940.ts
 #EXTINF:-1 tvg-id="PRMR4" tvg-name="CANAIS | PREMIERE 4 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 4 HD³
-https://anonmedia.foo/premiere4/tracks-v1a1/mono.m3u8
+http://4tv.site:2082/live/0132589762/4665907744/49949.ts
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 5 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 5 HD³
-https://anonmedia.foo/premiere5/tracks-v1a1/mono.m3u8
+http://4tv.site:2082/live/0132589762/4665907744/49958.ts
 #EXTINF:-1 tvg-id="PRM6BR" tvg-name="CANAIS | PREMIERE 6 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 6 HD³
-https://anonmedia.foo/premiere6/tracks-v1a1/mono.m3u8
+http://4tv.site:2082/live/0132589762/4665907744/49967.ts
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
-https://anonmedia.foo/premiere7/tracks-v1a1/mono.m3u8
+http://4tv.site:2082/live/0132589762/4665907744/49976.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN1 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN1 HD³
 https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN2 HD³
