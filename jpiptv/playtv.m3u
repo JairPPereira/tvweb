@@ -284,15 +284,15 @@ http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877592.ts
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877593.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE CLUBES HD³
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712138.ts
+http://45.143.220.55/pre1/index.m3u8
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 2 HD³
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712144.ts
+http://45.143.220.55/pre2/index.m3u8
 #EXTINF:-1 tvg-id="PR3UBE" tvg-name="CANAIS | PREMIERE 3 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 3 HD³
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712150.ts
+http://45.143.220.55/pre3/index.m3u8
 #EXTINF:-1 tvg-id="PRMR4" tvg-name="CANAIS | PREMIERE 4 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 4 HD³
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712155.ts
+http://45.143.220.55/pre4/index.m3u8
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 5 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 5 HD³
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712161.ts
+http://45.143.220.55/pre5/index.m3u8
 #EXTINF:-1 tvg-id="PRM6BR" tvg-name="CANAIS | PREMIERE 6 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 6 HD³
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712167.ts
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
