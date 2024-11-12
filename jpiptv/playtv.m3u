@@ -298,13 +298,17 @@ http://4tv.site:2082/live/0132589762/4665907744/49967.ts
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
 http://4tv.site:2082/live/0132589762/4665907744/49976.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN1 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN1 HD³
-https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140266.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN2 HD³
-https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140251.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN3 HD³
-https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140254.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN4 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN4 HD³
-https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140257.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN5 HD³
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140260.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN6 HD³
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140263.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CaeoLuR.jpeg" group-title="ABERTO",[COLOR yellow][B]FORMIGAtv:[/B][/COLOR]Canal Ricos
 https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX 8" tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/01/HBO-Max-Logo.png" group-title="⚽️ ESPORTES EXCLUSIVOS",MAX 8
