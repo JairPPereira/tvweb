@@ -294,21 +294,21 @@ http://45.143.220.55/pre4/index.m3u8
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 5 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 5 HD³
 http://45.143.220.55/pre5/index.m3u8
 #EXTINF:-1 tvg-id="PRM6BR" tvg-name="CANAIS | PREMIERE 6 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 6 HD³
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712167.ts
+https://super-cdn.link/premiere6/index.m3u8
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712173.ts
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN1 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN1 HD³
+https://super-cdn.link/premiere7/index.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN1 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 HD³
 http://45.143.220.55/espn/index.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN2 HD³
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 HD³
 http://45.143.220.55/espn2/index.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN3 HD³
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140254.ts
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN4 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN4 HD³
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 HD³
+https://super-cdn.link/espn3/index.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN4 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN4 HD³
 http://45.143.220.55/espn4/index.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN5 HD³
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140260.ts
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽️ ESPN",- ESPN6 HD³
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140263.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 HD³
+https://super-cdn.link/espn5/index.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 HD³
+https://super-cdn.link/espn6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CaeoLuR.jpeg" group-title="ABERTO",[COLOR yellow][B]FORMIGAtv:[/B][/COLOR]Canal Ricos
 https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX 8" tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/01/HBO-Max-Logo.png" group-title="⚽️ ESPORTES EXCLUSIVOS",MAX 8
