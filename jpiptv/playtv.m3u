@@ -363,8 +363,6 @@ http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877604.ts
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877605.ts
 #EXTINF:-1 tvg-id="br#combate" tvg-name="Combate SD" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="☘️CANAIS | ESPORTES",Combate SD
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877606.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEFLIX ANIME" tvg-logo="https://yt3.googleusercontent.com/-AbTOD3awKrYDcZVb3SylSLECgKedSPY-WkYthjEjI_CUxe4p1DKTb1pRYggGfH0ufa6nd5-mQ=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | PLUTO TV",CINEFLIX ANIME
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877609.ts
 #EXTINF:-1 tvg-id="br#fox-sports-2-hd" tvg-name="Fox Sports 2 FHD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953" group-title="☘️CANAIS | ESPORTES",Fox Sports 2 FHD
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877614.ts
 #EXTINF:-1 tvg-id="br#fox-sports-2-hd" tvg-name="Fox Sports 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953" group-title="☘️CANAIS | ESPORTES",Fox Sports 2 HD
@@ -1131,28 +1129,6 @@ http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878023.ts
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878024.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dois Homens E Meio" tvg-logo="https://images.justwatch.com/poster/132075259/s718/two-and-a-half-men.jpg" group-title="CANAIS | SERIES 24H",Dois Homens E Meio
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878025.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia" tvg-logo="https://imgur.com/fUCGYqp.png" group-title="CANAIS | PLUTO TV",Cine Comédia
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878026.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine Drama" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Drama
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878027.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine Romance" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Romance
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878028.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sucessos" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="CANAIS | PLUTO TV",Cine Sucessos
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878029.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filmes Ação" tvg-logo="https://imgur.com/8Vr6580.png" group-title="CANAIS | PLUTO TV",Filmes Ação
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878030.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filmes Suspense" tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="CANAIS | PLUTO TV",Filmes Suspense
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878031.ts
-#EXTINF:-1 tvg-id="" tvg-name="Guia de Canais" tvg-logo="https://imgur.com/JSs5V3b.png" group-title="CANAIS | PLUTO TV",Guia de Canais
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878032.ts
-#EXTINF:-1 tvg-id="" tvg-name="Investigação" tvg-logo="" group-title="CANAIS | PLUTO TV",Investigação
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878033.ts
-#EXTINF:-1 tvg-id="" tvg-name="Naruto 24h" tvg-logo="https://imgur.com/046zDW4.png" group-title="CANAIS | PLUTO TV",Naruto 24h
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878034.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime" tvg-logo="https://imgur.com/hPUry0Y.png" group-title="CANAIS | PLUTO TV",Pluto TV Anime
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878035.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vida Real" tvg-logo="" group-title="CANAIS | PLUTO TV",Vida Real
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878036.ts
 #EXTINF:-1 tvg-id="BoasNovas.br" tvg-name="Boas Novas" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Aco1pK.png" group-title="CANAIS | RELIGIOSOS",Boas Novas
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/878043.ts
 #EXTINF:-1 tvg-id="br#canc-o-nova-hd" tvg-name="Canção Nova HD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",Canção Nova HD
