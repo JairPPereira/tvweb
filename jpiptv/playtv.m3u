@@ -309,7 +309,7 @@ http://45.143.220.55/espn4/index.m3u8
 https://super-cdn.link/espn5/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 HD³
 https://super-cdn.link/espn6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CaeoLuR.jpeg" group-title="ABERTO",[COLOR yellow][B]FORMIGAtv:[/B][/COLOR]Canal Ricos
+#EXTINF:-1 tvg-id="Canal Ricos" tvg-name="Canal Ricos" tvg-logo="https://i.imgur.com/CaeoLuR.jpeg" group-title="ABERTO",Canal Ricos
 https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.ts
 #EXTINF:-1 tvg-id="" tvg-name="PROGRAMAÇÃO ESPORTIVA" tvg-logo="http://dns.idealtv.xyz:80/live/images/6b4119be869f650f20a0a5e4a9b02d81.png" group-title="⚽PROGRAMAÇÃO ESPORTIVA DO DIA",PROGRAMAÇÃO ESPORTIVA
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877164.ts
