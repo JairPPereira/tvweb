@@ -286,15 +286,15 @@ https://super-cdn.link/sportv2/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV 3 HD³" tvg-name="SPORTV 3 HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
 https://super-cdn.link/sportv3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE CLUBES HD³
-http://45.143.220.55/pre1/index.m3u8
+https://super-cdn.link/premiereclubes/index.m3u8
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 2 HD³
-http://45.143.220.55/pre2/index.m3u8
+https://super-cdn.link/premiere2/index.m3u8
 #EXTINF:-1 tvg-id="PR3UBE" tvg-name="CANAIS | PREMIERE 3 FHD" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 3 HD³
-http://45.143.220.55/pre3/index.m3u8
+https://super-cdn.link/premiere3/index.m3u8
 #EXTINF:-1 tvg-id="PRMR4" tvg-name="CANAIS | PREMIERE 4 FHD" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 4 HD³
-http://45.143.220.55/pre4/index.m3u8
+https://super-cdn.link/premiere4/index.m3u8
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 5 FHD" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 5 HD³
-http://45.143.220.55/pre5/index.m3u8
+https://super-cdn.link/premiere5/index.m3u8
 #EXTINF:-1 tvg-id="PRM6BR" tvg-name="CANAIS | PREMIERE 6 FHD" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 6 HD³
 https://super-cdn.link/premiere6/index.m3u8
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
