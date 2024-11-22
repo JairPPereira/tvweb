@@ -279,12 +279,12 @@ https://9zunnvsvwy.singularcdn.net.br/tbc/tbc/playlist.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TV BRASIL HD³" tvg-name="TV BRASIL HD³" tvg-logo="https://images2.imgbox.com/a8/91/cym8W2U3_o.png" group-title="CANAIS | ESPORTES PPV",TV BRASIL HD³
 https://tvbrasil-stream.ebc.com.br/playlist.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
-http://45.143.220.55/sportv/index.m3u8
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 2 HD³
-http://45.143.220.55/sportv2/index.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
-http://45.143.220.55/sportv3/index.m3u8
+#EXTINF:-1 tvg-id="SPORTV HD³" tvg-name="SPORTV HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
+https://super-cdn.link/sportv/index.m3u8
+#EXTINF:-1 tvg-id="SPORTV 2 HD³" tvg-name="SPORTV 2 HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 2 HD³
+https://super-cdn.link/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3 HD³" tvg-name="SPORTV 3 HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
+https://super-cdn.link/sportv3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE CLUBES HD³
 http://45.143.220.55/pre1/index.m3u8
 #EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 2 HD³
