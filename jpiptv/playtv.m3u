@@ -311,6 +311,18 @@ https://super-cdn.link/espn4/index.m3u8
 https://super-cdn.link/espn5/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 HD³
 https://super-cdn.link/espn6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DAZN 1
+http://netturbo.aovivo.xyz:80/adilson8490/12996858490/5721498.ts
+#EXTINF:-1 tvg-id="Dazn 2 HD" tvg-name="DAZN 2" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DAZN 2
+http://netturbo.aovivo.xyz:80/adilson8490/12996858490/4779923.ts
+#EXTINF:-1 tvg-id="Dazn 3 HD" tvg-name="DAZN 3" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DAZN 3
+http://netturbo.aovivo.xyz:80/adilson8490/12996858490/4779924.ts
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="DAZN 4" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DAZN 4
+http://netturbo.aovivo.xyz:80/adilson8490/12996858490/5524561.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DAZN 5
+http://netturbo.aovivo.xyz:80/adilson8490/12996858490/5702490.ts
+#EXTINF:-1 tvg-id="" tvg-name="DANZ 6" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DANZ 6
+http://netturbo.aovivo.xyz:80/adilson8490/12996858490/5721499.ts
 #EXTINF:-1 tvg-id="Canal Ricos" tvg-name="Canal Ricos" tvg-logo="https://i.imgur.com/CaeoLuR.jpeg" group-title="ABERTO",Canal Ricos
 https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.ts
 #EXTINF:-1 tvg-id="" tvg-name="PROGRAMAÇÃO ESPORTIVA" tvg-logo="http://dns.idealtv.xyz:80/live/images/6b4119be869f650f20a0a5e4a9b02d81.png" group-title="⚽PROGRAMAÇÃO ESPORTIVA DO DIA",PROGRAMAÇÃO ESPORTIVA
