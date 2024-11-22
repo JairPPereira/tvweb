@@ -300,13 +300,13 @@ https://super-cdn.link/premiere6/index.m3u8
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
 https://super-cdn.link/premiere7/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN1 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 HD³
-http://45.143.220.55/espn/index.m3u8
+https://super-cdn.link/espn/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 HD³
-http://45.143.220.55/espn2/index.m3u8
+https://super-cdn.link/espn2/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 HD³
 https://super-cdn.link/espn3/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN4 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN4 HD³
-http://45.143.220.55/espn4/index.m3u8
+https://super-cdn.link/espn4/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 HD³
 https://super-cdn.link/espn5/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 HD³
