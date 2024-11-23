@@ -279,6 +279,12 @@ https://9zunnvsvwy.singularcdn.net.br/tbc/tbc/playlist.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TV BRASIL HD³" tvg-name="TV BRASIL HD³" tvg-logo="https://images2.imgbox.com/a8/91/cym8W2U3_o.png" group-title="CANAIS | ESPORTES PPV",TV BRASIL HD³
 https://tvbrasil-stream.ebc.com.br/playlist.m3u8
+#EXTINF:-1 tvg-id="DISNEY + HD" tvg-name="DISNEY + HD" tvg-logo="http://netturbo.aovivo.xyz:80/images/370d7ab869bc5eb573f7f4b47707f1d1.png" group-title="CANAIS | ESPORTES PPV",DISNEY + HD
+http://netturbo.aovivo.xyz:80/adilson8490/12996858490/5854065.ts
+#EXTINF:-1 tvg-id="DISNEY + HD 2" tvg-name="DISNEY + HD 2" tvg-logo="http://netturbo.aovivo.xyz:80/images/370d7ab869bc5eb573f7f4b47707f1d1.png" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 2
+http://netturbo.aovivo.xyz:80/adilson8490/12996858490/5854066.ts
+#EXTINF:-1 tvg-id="DISNEY + HD 3" tvg-name="DISNEY + HD 3" tvg-logo="http://netturbo.aovivo.xyz:80/images/370d7ab869bc5eb573f7f4b47707f1d1.png" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 3
+http://netturbo.aovivo.xyz:80/adilson8490/12996858490/5854067.ts
 #EXTINF:-1 tvg-id="SPORTV HD³" tvg-name="SPORTV HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
 https://super-cdn.link/sportv/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV 2 HD³" tvg-name="SPORTV 2 HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 2 HD³
