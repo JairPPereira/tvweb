@@ -838,7 +838,6 @@ http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/c...down/1920?cb=20221030132857&path-prefix=pt-br" group-title="24HS TOP",TODO MUNDO ODEIA O CRIS
 http://24hrs.homelinux.com:8080/24H-todomundoodeiaocris/video.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ENFEITIÇADOS (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuHOjZH8MBq0gS07S206W5dxGkW.jpg" group-title="FILMES LANÇAMENTOS",ENFEITIÇADOS (2024)
 http://lvroku.live:80/movie/p2pLinha/live1763675801/221608.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ARENA MORTAL (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yk8ALQPd3lfYDGJ8U429oYFiBaY.jpg" group-title="FILMES LANÇAMENTOS",ARENA MORTAL (2024)
