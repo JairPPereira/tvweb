@@ -197,8 +197,6 @@ http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/703eaa83-65b6-4fd5-bac
 http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/c63b015c-7b03-4af2-bd70-d8316c2720a6.mp4
 #EXTINF:-1 tvg-id="Eu Conheci Jesus" tvg-name="Eu Conheci Jesus S1 E8" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8WFzjZHQIkxibHVtGzkJPOav2f.jpg" group-title="Eu Conheci Jesus",Eu Conheci Jesus S1 E8
 http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/b542cc46-71a1-4bdf-993b-7a3d797334f5.mp4
-#EXTINF:-1 tvg-id="Celta de Vigo x Mallorca" tvg-name="Celta de Vigo x Mallorca" tvg-logo="https://imagizer.imageshack.com/v2/735x368q70/922/QWURYr.png" group-title="CANAIS | ESPORTES PPV",Celta de Vigo x Mallorca
-https://vadp.pricesaskeloadsc.com/espn_deportes/tracks-v1a1/mono.m3u8?token=ff3143b015706f162fa7bbc95c5465d47179fe26-da-1733552388-1733516388
 #EXTINF:-1 tvg-id="NOSSO FUTEBOL 01³" tvg-name="NOSSO FUTEBOL 01³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 01³
 http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/1131.ts
 #EXTINF:-1 tvg-id="NOSSO FUTEBOL 02³" tvg-name="NOSSO FUTEBOL 02³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 02³
@@ -254,11 +252,17 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TV BRASIL HD³" tvg-name="TV BRASIL HD³" tvg-logo="https://images2.imgbox.com/a8/91/cym8W2U3_o.png" group-title="CANAIS | ESPORTES PPV",TV BRASIL HD³
 https://tvbrasil-stream.ebc.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="DISNEY + HD" tvg-name="DISNEY + HD" tvg-logo="http://netturbo.aovivo.xyz:80/images/370d7ab869bc5eb573f7f4b47707f1d1.png" group-title="CANAIS | ESPORTES PPV",DISNEY + HD
-http://netturbo.aovivo.xyz:80/adilson8490/12996858490/5854065.ts
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542307.ts
 #EXTINF:-1 tvg-id="DISNEY + HD 2" tvg-name="DISNEY + HD 2" tvg-logo="http://netturbo.aovivo.xyz:80/images/370d7ab869bc5eb573f7f4b47707f1d1.png" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 2
-http://netturbo.aovivo.xyz:80/adilson8490/12996858490/5854066.ts
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542309.ts
 #EXTINF:-1 tvg-id="DISNEY + HD 3" tvg-name="DISNEY + HD 3" tvg-logo="http://netturbo.aovivo.xyz:80/images/370d7ab869bc5eb573f7f4b47707f1d1.png" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 3
-http://netturbo.aovivo.xyz:80/adilson8490/12996858490/5854067.ts
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542311.ts
+#EXTINF:-1 tvg-id="DISNEY + HD 4" tvg-name="DISNEY + HD 4" tvg-logo="http://netturbo.aovivo.xyz:80/images/370d7ab869bc5eb573f7f4b47707f1d1.png" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 4
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542313.ts
+#EXTINF:-1 tvg-id="DISNEY + HD 5" tvg-name="DISNEY + HD 5" tvg-logo="http://netturbo.aovivo.xyz:80/images/370d7ab869bc5eb573f7f4b47707f1d1.png" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 5
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542314.ts
+#EXTINF:-1 tvg-id="DISNEY + HD 6" tvg-name="DISNEY + HD 6" tvg-logo="http://netturbo.aovivo.xyz:80/images/370d7ab869bc5eb573f7f4b47707f1d1.png" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 6
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542315.ts
 #EXTINF:-1 tvg-id="SPORTV HD³" tvg-name="SPORTV HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
 https://super-cdn.link/sportv/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV alternativo HD³" tvg-name="SPORTV alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV alternativo HD³
