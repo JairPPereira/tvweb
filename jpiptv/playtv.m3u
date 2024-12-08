@@ -163,24 +163,36 @@ https://video04.logicahost.com.br/hackathonbrasil/hackathonbrasil/playlist.m3u8
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 #EXTINF:-1  tvg-id="Universidade da Pessoa" tvg-name="Universidade da Pessoa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-Wq_yc-cXAr5WXrpZedM1TjqMEGCX-InZHOJ3xSpbq6zUTgY1qJ7fdxyD0PLqm8SD1dk18HMXvUiGqX8h2EaBa1_mMOWmp3SGc5pZyTgaG1c-hMIlEYyYdnmBdJuSGmtTSRGYkp_ye7_chf1qBqGlhLOnGHubRkjto-fy-DSaqu2qHk3NSV3_U5PpRE/s1600/unipessoa.jpg" group-title="CANAIS | EDUCACIONAIS",Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E01" tvg-logo="https://image.tmdb.org/t/p/w1280/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E01
-http://lvroku.live:80/series/p2pLinha/live1763675801/161318.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E02" tvg-logo="https://image.tmdb.org/t/p/w1280/efD2aug7QpeGYkz7gIK5OVjWVU8.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E02
-http://lvroku.live:80/series/p2pLinha/live1763675801/161319.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E03" tvg-logo="https://image.tmdb.org/t/p/w1280/trvQgNJdoVoTJNLoSVR6goqlKZf.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E03
-http://lvroku.live:80/series/p2pLinha/live1763675801/163337.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E04" tvg-logo="https://image.tmdb.org/t/p/w1280/kJS9ycUt3hzBahLcrFhNxp76wAp.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E04
-http://lvroku.live:80/series/p2pLinha/live1763675801/165433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E05" tvg-logo="https://image.tmdb.org/t/p/w1280/ciYRv08dxwk1idonANAUKEXZHI6.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E05
-http://lvroku.live:80/series/p2pLinha/live1763675801/165946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E06" tvg-logo="https://image.tmdb.org/t/p/w1280/jIEF60suH4Cg7iZEC0ze7b7pKBk.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E06
-http://lvroku.live:80/series/p2pLinha/live1763675801/166116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E07" tvg-logo="https://image.tmdb.org/t/p/w1280/v7IY9eLPc2c9N0MYSppFTO7COZk.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E07
-http://lvroku.live:80/series/p2pLinha/live1763675801/166573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S01 E08" tvg-logo="https://image.tmdb.org/t/p/w1280/3ndiiSM8sWMclfS123YaVIBOtsw.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S01 E08
-http://lvroku.live:80/series/p2pLinha/live1763675801/166629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S02 E01" tvg-logo="https://image.tmdb.org/t/p/w1280/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S02 E01
-http://lvroku.live:80/series/p2pLinha/live1763675801/221001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S1 E1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S1 E1
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/354edc88-0727-43be-ba32-515262754a25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S1 E2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/di206uwVZtjGe02fqkTPvdRKKrH.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S1 E2
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/fff542a7-fa60-40c8-a8e2-5cc5089af43f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S1 E3" tvg-logo="https://image.tmdb.org/t/p/w1280/9X1pfnHfZx0wlPvW1cH3t4yaerN.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S1 E3
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/6011d8bf-7bd8-40f0-bac1-959620894f3a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S1 E4" tvg-logo="https://image.tmdb.org/t/p/w1280/kJS9ycUt3hzBahLcrFhNxp76wAp.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S1 E4
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/acbe57c8-3701-4eca-996a-6bd6b7ee82c7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S1 E5" tvg-logo="https://image.tmdb.org/t/p/w1280/ciYRv08dxwk1idonANAUKEXZHI6.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S1 E5
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/927b6b5c-8167-4020-ad77-00aa057a7239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S1 E6" tvg-logo="https://image.tmdb.org/t/p/w1280/lExmqddOuKqtXbxzSKqwQZLxh7C.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S1 E6
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/25dcfa06-3d33-4538-b13c-a2c2cdec6b27.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S1 E7" tvg-logo="https://image.tmdb.org/t/p/w1280/v7IY9eLPc2c9N0MYSppFTO7COZk.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S1 E7
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/3537c0db-36d2-4345-8546-fc549427640f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S1 E8" tvg-logo="https://image.tmdb.org/t/p/w1280/3ndiiSM8sWMclfS123YaVIBOtsw.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S1 E8
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/88017c73-9bc3-49fa-8b7c-59f463443f43.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S2 E1
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/be2b6dec-13e4-49e1-959f-01bf4788f2d5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/qmXB4BcpWeEB8IOT0CDt7O9izRb.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S2 E2
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/7249d7a7-0947-407c-be4b-b8b3fc2f2ea5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/xt50ehEdhGI21BJxcRc3VqXWM9K.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S2 E3
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/e7ea91b8-07de-4679-9d32-f20f8e28398e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/nIKMf8djtsIYBtBCtKhHjTEo17G.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S2 E4
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/80188387-d5c0-4a56-9a00-7d2939a5e147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/w1vnsU60PRL69oXPckv0ndErq0C.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S2 E5
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/392175a7-1a6a-4eb9-b4fe-7d6c33ef4568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/shHXnFf1tqxqzMgYUAmsZM3eJG1.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S2 E6
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/eb825ba3-f308-42e0-9a93-f347040eac3b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO: LIONESS S2 E7" tvg-logo="https://image.tmdb.org/t/p/w400/o9DNUy0EaoM2YslSXBq9yLnH5jH.jpg" group-title="OPERAÇÃO: LIONESS",OPERAÇÃO: LIONESS S2 E7
+http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/a90932fd-4e6b-4f33-b51c-ab0f7e2b3472.mp4
 #EXTINF:-1 tvg-id="Eu Conheci Jesus" tvg-name="Eu Conheci Jesus S1 E1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibyJ3MfP0MZU0q2UBQgIzsFw2cS.jpg" group-title="Eu Conheci Jesus",Eu Conheci Jesus S1 E1
 http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/695d21f6-5e9f-4df0-8093-2b508f0dca1c.mp4
 #EXTINF:-1 tvg-id="Eu Conheci Jesus" tvg-name="Eu Conheci Jesus S1 E2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysnzgdTVfsjxUDlkqIr8WGtpYyK.jpg" group-title="Eu Conheci Jesus",Eu Conheci Jesus S1 E2
