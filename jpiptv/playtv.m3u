@@ -117,14 +117,10 @@ https://d9tard1jbwri9.cloudfront.net/playlist576p.m3u8
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS HD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL 480p
-https://cdn-1.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/513.ts
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="CNN BRASIL 3" tvg-name="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cnn_brasil.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL
-https://cdn-3.nxplay.com.br/CNN_Brazil_TK/index.m3u8
+https://super-cdn.link/cnnbrasil/index.m3u8
 #EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News HD
 http://ftplay.online:80/live/ubUdys/SZEEHb/90040.ts
 #EXTINF:-1 tvg-id="GLOBO NEWS tvg-name="GLOBONEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS
