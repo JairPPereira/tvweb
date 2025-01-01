@@ -127,10 +127,8 @@ https://super-cdn.link/globonews/index.m3u8
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/30196.ts
 #EXTINF:-1 tvg-id="GLOBO NEWS FHD" tvg-name="GLOBONEWS FHD" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News FHD
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/516.ts
-#EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="BANDNEWS SD" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="CANAIS | NOTÍCIAS",Band News SD
-http://m.70.ms:80/live/wellingtonsantos05/assismonte202205/10867.ts
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BANDNEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
-http://m.70.ms:80/live/wellingtonsantos05/assismonte202205/6639.ts
+https://super-cdn.link/bandnews/index.m3u8
 #EXTINF:-1 tvg-id="AVANÇA BRASIL" tvg-name="AVANÇA BRASIL" tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="CANAIS | NOTÍCIAS",AVANÇA BRASIL
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="4 POR 4" tvg-name="4 POR 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsuJ08YlDL3eOcIv8wSxCxhDF7kgZoOhIVVzn2dYO0N93YqRLvoOwXbR8dDOYGMYWedyV5gR1i42hGNHQ4roSj-0UsneSthat8yPaTkkFXcEMvb89TX6OhfS9GEoETvgW71-y_ElmypIkG8XhMqGQTDt9pxY1IWLEExFkaq8om6FpOSO1IPtQQ8nDQO4/s1600/4x4.jpeg" group-title="CANAIS | NOTÍCIAS",4 POR 4 
