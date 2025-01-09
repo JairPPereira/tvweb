@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN1 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 HD³
+https://super-cdn.link/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN1 (alternativo) HD³" tvg-name="ESPN1 (alternativo) HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 (alternativo) HD³
+http://hzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/309458.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 HD³
+https://super-cdn.link/espn2/index.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 alternativo HD³
+http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/135.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 HD³
+https://super-cdn.link/espn3/index.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 alternativo HD³
+http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/126.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN4 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN4 HD³
+https://super-cdn.link/espn4/index.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN4 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN4 alternativo HD³
+http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/143.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 HD³
+https://super-cdn.link/espn5/index.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 alternativo HD³
+http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/140.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 HD³
+https://super-cdn.link/espn6/index.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 alternativo HD³
+http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/134.ts
