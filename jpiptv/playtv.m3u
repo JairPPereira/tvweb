@@ -94,13 +94,13 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILME
 #EXTINF:-1 tvg-id="TV Século 21" tvg-name="TV Século 21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXuL_DJFsAuv-WzUnMni-KIQGG171A_4O5SLueVn75MKw4EYOvtuCBvFJQ6Os0Gmr4V4lVR7jmLUXJa2EDnVn9nGwhMw3hA4OVYIM-6Sajg-ZrPCicv2nNY4rf4Vie4HDSgVSfJ-buy96k8jPLWIOUQDrtB88HJUnP2OnjR0YYeJnbjc4WowyiFZ49=s200" group-title="CANAIS | CATÓLICOS",TV Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS HD³" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS HD³
-http://sinalprivado.info:80/live/604210250/C246W5389Z/25010.ts
+http://sinalprivado.info:80/live/37368686/2432312/25010.ts
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL HD³" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD³
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="Globo News HD³" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News HD³
-http://sinalprivado.info:80/live/604210250/C246W5389Z/25007.ts
+http://sinalprivado.info:80/live/37368686/2432312/25007.ts
 #EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="Band News HD³" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="CANAIS | NOTÍCIAS",Band News HD³
-http://sinalprivado.info:80/live/604210250/C246W5389Z/25001.ts
+http://sinalprivado.info:80/live/37368686/2432312/25001.ts
 #EXTINF:-1 tvg-id="JP NEWS AUT" tvg-name="JP NEWS AUT" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS AUT 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS AUT 2
@@ -378,15 +378,15 @@ http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1556/1542315.ts
 #EXTINF:-1 tvg-id="SPORTV HD³" tvg-name="SPORTV HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
 https://super-cdn.link/sportv/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV alternativo HD³" tvg-name="SPORTV alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV alternativo HD³
-http://sinalprivado.info:80/live/604210250/C246W5389Z/21001.ts
+http://sinalprivado.info:80/live/37368686/2432312/21001.ts
 #EXTINF:-1 tvg-id="SPORTV 2 HD³" tvg-name="SPORTV 2 HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 2 HD³
 https://super-cdn.link/sportv2/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV 2 alternativo HD³" tvg-name="SPORTV 2 alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 2 alternativo HD³
-http://sinalprivado.info:80/live/604210250/C246W5389Z/21004.ts
+http://sinalprivado.info:80/live/37368686/2432312/21004.ts
 #EXTINF:-1 tvg-id="SPORTV 3 HD³" tvg-name="SPORTV 3 HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
 https://super-cdn.link/sportv3/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV 3 alternativo HD³" tvg-name="SPORTV 3 alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 alternativo HD³
-http://sinalprivado.info:80/live/604210250/C246W5389Z/21007.ts
+http://sinalprivado.info:80/live/37368686/2432312/21007.ts
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD³" tvg-name="PREMIERE CLUBES HD³" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD³
 https://super-cdn.link/premiereclubes/index.m3u8
 #EXTINF:-1 tvg-id="PREMIERE CLUBES (alternativo) HD³" tvg-name="PREMIERE CLUBES (alternativo) HD³" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE CLUBES (alternativo) HD³
