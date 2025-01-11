@@ -86,13 +86,13 @@ https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 #EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixGRsCFGdw-zzVSX39Syu-tOFT2SBqfbIAoi6RtotCvHMAoIxytzDjcxnqk-54DiqXATl4vcOzgmMP4MD2wrF_wgBj4iCgwNF3xX65MoeICX0Xmksi5S9kik6fF1wpWCpqkscfLB8w9He80dlmHto3_he4TTaZeBGP0QiV3_V-D9z3hc7ydPuUuvtUqAQ/s1600/gos.webp" group-title="CANAIS | DESENHOS & SERIADOS",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS HD³" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS HD³
-http://srv.hostinggon11.xyz:2082/live/Xplus-1-WcDlNuA8EP/fRMca8s71Y/846.ts
+http://sinalprivado.info:80/live/604210250/C246W5389Z/25010.ts
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL HD³" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD³
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="Globo News HD³" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News HD³
-http://srv.hostinggon11.xyz:2082/live/Xplus-1-WcDlNuA8EP/fRMca8s71Y/445.ts
+http://sinalprivado.info:80/live/604210250/C246W5389Z/25007.ts
 #EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="Band News HD³" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="CANAIS | NOTÍCIAS",Band News HD³
-http://srv.hostinggon11.xyz:2082/live/Xplus-1-WcDlNuA8EP/fRMca8s71Y/432.ts
+http://sinalprivado.info:80/live/604210250/C246W5389Z/25001.ts
 #EXTINF:-1 tvg-id="JP NEWS AUT" tvg-name="JP NEWS AUT" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS AUT 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS AUT 2
@@ -182,29 +182,29 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TV BRASIL HD³" tvg-name="TV BRASIL HD³" tvg-logo="https://images2.imgbox.com/a8/91/cym8W2U3_o.png" group-title="CANAIS | ESPORTES PPV",TV BRASIL HD³
 https://tvbrasil-stream.ebc.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="DISNEY + HD" tvg-name="DISNEY + HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzKgizGSmmAZolWwfIylLcbWWvW_l1iV4XDXWAVuVIZIyRzG6hGth1hIn8aIbddrEFUTMC7vgzmc9lNvvzcASItB_b-sAvvOwWoU4wKNMl0sWGbAmDKg7kqHMnB2U9EUbStJUjDY8i0A8tGa-ItUP3HxvZv7pncfQqJiiRkEEa39cqxSU2jsXom3qTdkc/s1600/disney+.jpg" group-title="CANAIS | ESPORTES PPV",DISNEY + HD
-http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542307.ts
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1556/1542307.ts
 #EXTINF:-1 tvg-id="DISNEY + HD 2" tvg-name="DISNEY + HD 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzKgizGSmmAZolWwfIylLcbWWvW_l1iV4XDXWAVuVIZIyRzG6hGth1hIn8aIbddrEFUTMC7vgzmc9lNvvzcASItB_b-sAvvOwWoU4wKNMl0sWGbAmDKg7kqHMnB2U9EUbStJUjDY8i0A8tGa-ItUP3HxvZv7pncfQqJiiRkEEa39cqxSU2jsXom3qTdkc/s1600/disney+.jpg" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 2
-http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542309.ts
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1556/1542309.ts
 #EXTINF:-1 tvg-id="DISNEY + HD 3" tvg-name="DISNEY + HD 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzKgizGSmmAZolWwfIylLcbWWvW_l1iV4XDXWAVuVIZIyRzG6hGth1hIn8aIbddrEFUTMC7vgzmc9lNvvzcASItB_b-sAvvOwWoU4wKNMl0sWGbAmDKg7kqHMnB2U9EUbStJUjDY8i0A8tGa-ItUP3HxvZv7pncfQqJiiRkEEa39cqxSU2jsXom3qTdkc/s1600/disney+.jpg" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 3
-http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542311.ts
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1556/1542311.ts
 #EXTINF:-1 tvg-id="DISNEY + HD 4" tvg-name="DISNEY + HD 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzKgizGSmmAZolWwfIylLcbWWvW_l1iV4XDXWAVuVIZIyRzG6hGth1hIn8aIbddrEFUTMC7vgzmc9lNvvzcASItB_b-sAvvOwWoU4wKNMl0sWGbAmDKg7kqHMnB2U9EUbStJUjDY8i0A8tGa-ItUP3HxvZv7pncfQqJiiRkEEa39cqxSU2jsXom3qTdkc/s1600/disney+.jpg" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 4
-http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542313.ts
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1556/1542313.ts
 #EXTINF:-1 tvg-id="DISNEY + HD 5" tvg-name="DISNEY + HD 5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzKgizGSmmAZolWwfIylLcbWWvW_l1iV4XDXWAVuVIZIyRzG6hGth1hIn8aIbddrEFUTMC7vgzmc9lNvvzcASItB_b-sAvvOwWoU4wKNMl0sWGbAmDKg7kqHMnB2U9EUbStJUjDY8i0A8tGa-ItUP3HxvZv7pncfQqJiiRkEEa39cqxSU2jsXom3qTdkc/s1600/disney+.jpg" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 5
-http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542314.ts
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1556/1542314.ts
 #EXTINF:-1 tvg-id="DISNEY + HD 6" tvg-name="DISNEY + HD 6" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzKgizGSmmAZolWwfIylLcbWWvW_l1iV4XDXWAVuVIZIyRzG6hGth1hIn8aIbddrEFUTMC7vgzmc9lNvvzcASItB_b-sAvvOwWoU4wKNMl0sWGbAmDKg7kqHMnB2U9EUbStJUjDY8i0A8tGa-ItUP3HxvZv7pncfQqJiiRkEEa39cqxSU2jsXom3qTdkc/s1600/disney+.jpg" group-title="CANAIS | ESPORTES PPV",DISNEY + HD 6
-http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1220/1542315.ts
+http://xc.tvdecasa.top:80/live/Formigatv/OFFtv1556/1542315.ts
 #EXTINF:-1 tvg-id="SPORTV HD³" tvg-name="SPORTV HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
 https://super-cdn.link/sportv/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV alternativo HD³" tvg-name="SPORTV alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV alternativo HD³
-http://srv.hostinggon11.xyz:2082/live/Xplus-1-WcDlNuA8EP/fRMca8s71Y/178.ts
+http://sinalprivado.info:80/live/604210250/C246W5389Z/21001.ts
 #EXTINF:-1 tvg-id="SPORTV 2 HD³" tvg-name="SPORTV 2 HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 2 HD³
 https://super-cdn.link/sportv2/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV 2 alternativo HD³" tvg-name="SPORTV 2 alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 2 alternativo HD³
-http://srv.hostinggon11.xyz:2082/live/Xplus-1-WcDlNuA8EP/fRMca8s71Y/1016.ts
+http://sinalprivado.info:80/live/604210250/C246W5389Z/21004.ts
 #EXTINF:-1 tvg-id="SPORTV 3 HD³" tvg-name="SPORTV 3 HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
 https://super-cdn.link/sportv3/index.m3u8
-#EXTINF:-1 tvg-id="SPORTV 3 alternativo 4k³" tvg-name="SPORTV 3 alternativo 4k³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 alternativo 4k³
-http://srv.hostinggon11.xyz:2082/live/Xplus-1-WcDlNuA8EP/fRMca8s71Y/175.ts
+#EXTINF:-1 tvg-id="SPORTV 3 alternativo HD³" tvg-name="SPORTV 3 alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 alternativo HD³
+http://sinalprivado.info:80/live/604210250/C246W5389Z/21007.ts
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD³" tvg-name="PREMIERE CLUBES HD³" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD³
 https://super-cdn.link/premiereclubes/index.m3u8
 #EXTINF:-1 tvg-id="PREMIERE CLUBES (alternativo) HD³" tvg-name="PREMIERE CLUBES (alternativo) HD³" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE CLUBES (alternativo) HD³
