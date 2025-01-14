@@ -603,6 +603,26 @@ https://stitcher.pluto.tv/stitch/hls/channel/6047ff2e5e61cf000784e4da/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO 6",TV Karaokê por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
+#EXTINF:-1 tvg-id="" tvg-name="Ad Vitam" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Filmes | Lancamentos 1",Ad Vitam
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/663189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Porto Seguro" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg" group-title="Filmes | Lancamentos 1",Missão Porto Seguro
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/663188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor Real de Natal" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/s4rnQyZVfyCjJ0sgVsBSo5qTX0g.jpg" group-title="Filmes | Lancamentos 1",Um Amor Real de Natal
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/663187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Vingança" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/6Wu1qTAQ9vHKOV7UqT6ukGrQf1b.jpg" group-title="Filmes | Lancamentos 1",A Última Vingança
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/663186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabrini" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/rBiHiN8W4BqMFrDozemzkof7GmF.jpg" group-title="Filmes | Lancamentos 1",Cabrini
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/663185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vítimas do Dia" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/pBeg7UpgNllgs8FI7iMBbp7hdSQ.jpg" group-title="Filmes | Lancamentos 1",Vítimas do Dia
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/663184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasão do Mundo: Batalha de Los Angeles" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/yApEJEltSSf05tRpWtmcu0P9mun.jpg" group-title="Filmes | Acao",Invasão do Mundo: Batalha de Los Angeles
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/663183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velocidade sem Limites" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/lE1XfidwJml7lNGi0D4KlB8uQFY.jpg" group-title="Filmes | Acao",Velocidade sem Limites
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/663182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação de Risco" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/jc9EMUNJaQHXDJVfHxKjuvfiWrB.jpg" group-title="Filmes | Acao",Operação de Risco
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/663181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dia do Atentado" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/8gWuVoGaMQFFp9Cu0AMRJ5GsoVg.jpg" group-title="Filmes | Acao",O Dia do Atentado
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/663180.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Florida Shark: Blood in the Water" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/40HH9nmPRkyWjWaoHgSZQNN6pFe.jpg" group-title="Filmes | Lancamentos 1",Florida Shark: Blood in the Water
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655809.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Silêncio na Noite" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/tnIl6PPOVUS2uPTWpZYZ09UgXhp.jpg" group-title="Filmes | Lancamentos 1",O Silêncio na Noite
@@ -651,17 +671,17 @@ http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655788.mp4
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655787.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kneecap: Música e Liberdade" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/uafQEdiSQasBQipcnolkJN2Pj8W.jpg" group-title="Filmes | Lancamentos 1",Kneecap: Música e Liberdade
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Destino de Sikandar" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/qJob2GI2STRpCOoCjWvcJYmXMci.jpg" group-title="Filmes | Lancamentos 1",O Destino de Sikandar
+#EXTINF:-1 tvg-id="" tvg-name="O Destino de Sikandar" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/qJob2GI2STRpCOoCjWvcJYmXMci.jpg" group-title="Filmes | Lancamentos 2",O Destino de Sikandar
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Magico Circo de Noel" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/eh7grC9yyDgUxdugDQQJHLD0S35.jpg" group-title="Filmes | Lancamentos 1",O Magico Circo de Noel
+#EXTINF:-1 tvg-id="" tvg-name="O Magico Circo de Noel" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/eh7grC9yyDgUxdugDQQJHLD0S35.jpg" group-title="Filmes | Lancamentos 2",O Magico Circo de Noel
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thelma" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/rUcuageYgv9SsJoWuc0seRWG6JC.jpg" group-title="Filmes | Lancamentos 1",Thelma
+#EXTINF:-1 tvg-id="" tvg-name="Thelma" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/rUcuageYgv9SsJoWuc0seRWG6JC.jpg" group-title="Filmes | Lancamentos 2",Thelma
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Troca de Bebês" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/kdq4Xl7m33BTDY4IDaIgcEn8Jnq.jpg" group-title="Filmes | Lancamentos 1",Troca de Bebês
+#EXTINF:-1 tvg-id="" tvg-name="Troca de Bebês" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/kdq4Xl7m33BTDY4IDaIgcEn8Jnq.jpg" group-title="Filmes | Lancamentos 2",Troca de Bebês
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Noite Violenta em New York" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/3glIfJBX9QVwEa8xIGhrB6RyHnT.jpg" group-title="Filmes | Lancamentos 1",Uma Noite Violenta em New York
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite Violenta em New York" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/3glIfJBX9QVwEa8xIGhrB6RyHnT.jpg" group-title="Filmes | Lancamentos 2",Uma Noite Violenta em New York
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chave do Problema" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/mJhiElpedkxCD2B3VEs1R1fDKIK.jpg" group-title="Filmes | Lancamentos 1",A Chave do Problema
+#EXTINF:-1 tvg-id="" tvg-name="A Chave do Problema" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/mJhiElpedkxCD2B3VEs1R1fDKIK.jpg" group-title="Filmes | Lancamentos 2",A Chave do Problema
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655780.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Virgem Vermelha" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/5oXFlJ6UdTbHihthSHW272CBP7F.jpg" group-title="Filmes | Lancamentos 2",A Virgem Vermelha
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655779.mp4
@@ -711,17 +731,17 @@ http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655758.mp4
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655757.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Amor Sangra" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/u2ZhkEKrS92pd7cqSEvpgHID2vj.jpg" group-title="Filmes | Lancamentos 2",O Amor Sangra
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Poder Da Oração" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/xSYm9nzdUwh8s443xMj3KNcyNJb.jpg" group-title="Filmes | Lancamentos 2",O Poder Da Oração
+#EXTINF:-1 tvg-id="" tvg-name="O Poder Da Oração" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/xSYm9nzdUwh8s443xMj3KNcyNJb.jpg" group-title="Filmes | Lancamentos 3",O Poder Da Oração
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Que Lucía Viu" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/kuhDxQ9ByKShzkPFMBzbzPDoDle.jpg" group-title="Filmes | Lancamentos 2",O Que Lucía Viu
+#EXTINF:-1 tvg-id="" tvg-name="O Que Lucía Viu" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/kuhDxQ9ByKShzkPFMBzbzPDoDle.jpg" group-title="Filmes | Lancamentos 3",O Que Lucía Viu
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Trem Italiano da Felicidade" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/syUbbP6yzAmDwhtHPtHRD1cAauD.jpg" group-title="Filmes | Lancamentos 2",O Trem Italiano da Felicidade
+#EXTINF:-1 tvg-id="" tvg-name="O Trem Italiano da Felicidade" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/syUbbP6yzAmDwhtHPtHRD1cAauD.jpg" group-title="Filmes | Lancamentos 3",O Trem Italiano da Felicidade
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perseguição Mortal" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/7YVqp9ozp3SJP4rEm8Wn3gxqFVR.jpg" group-title="Filmes | Lancamentos 2",Perseguição Mortal
+#EXTINF:-1 tvg-id="" tvg-name="Perseguição Mortal" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/7YVqp9ozp3SJP4rEm8Wn3gxqFVR.jpg" group-title="Filmes | Lancamentos 3",Perseguição Mortal
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Princesa Adormecida" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/2snH1Itt1Zs20KFLyIFqPOkyJaV.jpg" group-title="Filmes | Lancamentos 2",Princesa Adormecida
+#EXTINF:-1 tvg-id="" tvg-name="Princesa Adormecida" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/2snH1Itt1Zs20KFLyIFqPOkyJaV.jpg" group-title="Filmes | Lancamentos 3",Princesa Adormecida
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Problemista" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/8R5s0optPNlTncP876bK8gWGkRK.jpg" group-title="Filmes | Lancamentos 2",Problemista
+#EXTINF:-1 tvg-id="" tvg-name="Problemista" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/8R5s0optPNlTncP876bK8gWGkRK.jpg" group-title="Filmes | Lancamentos 3",Problemista
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655750.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Querido Papai Noel" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/ynOGBV2k8dlRkm9gLWNmruDc8gv.jpg" group-title="Filmes | Lancamentos 3",Querido Papai Noel
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655749.mp4
@@ -771,17 +791,17 @@ http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655728.mp4
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655727.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Triunfo: Jesse Owens e os Jogos de Berlim" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/tY5Paf9y2v6IKLWcgsFY5eajdAG.jpg" group-title="Filmes | Lancamentos 3",Triunfo: Jesse Owens e os Jogos de Berlim
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bagagem de Risco" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/6cMRujaT02bDOjYGGy5KncAD7U7.jpg" group-title="Filmes | Lancamentos 3",Bagagem de Risco
+#EXTINF:-1 tvg-id="" tvg-name="Bagagem de Risco" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/6cMRujaT02bDOjYGGy5KncAD7U7.jpg" group-title="Filmes | Lancamentos 4",Bagagem de Risco
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Fiasco de Férias" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/z04mF3GTUTc2cXuiyooNQvfmfcM.jpg" group-title="Filmes | Lancamentos 3",Um Fiasco de Férias
+#EXTINF:-1 tvg-id="" tvg-name="Um Fiasco de Férias" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/z04mF3GTUTc2cXuiyooNQvfmfcM.jpg" group-title="Filmes | Lancamentos 4",Um Fiasco de Férias
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Fiasco de Férias" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/z04mF3GTUTc2cXuiyooNQvfmfcM.jpg" group-title="Filmes | Lancamentos 3",Um Fiasco de Férias
+#EXTINF:-1 tvg-id="" tvg-name="Um Fiasco de Férias" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/z04mF3GTUTc2cXuiyooNQvfmfcM.jpg" group-title="Filmes | Lancamentos 4",Um Fiasco de Férias
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estação da Alegria" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg" group-title="Filmes | Lancamentos 3",A Estação da Alegria
+#EXTINF:-1 tvg-id="" tvg-name="A Estação da Alegria" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg" group-title="Filmes | Lancamentos 4",A Estação da Alegria
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Sob Suspeita" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/rstC3uJyTb5YBwleMeQeGpjGioV.jpg" group-title="Filmes | Lancamentos 3",Amor Sob Suspeita
+#EXTINF:-1 tvg-id="" tvg-name="Amor Sob Suspeita" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/rstC3uJyTb5YBwleMeQeGpjGioV.jpg" group-title="Filmes | Lancamentos 4",Amor Sob Suspeita
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cerco ao Terror: Ataque ao Templo" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/9AS9OYkGzJzU1o8Gt6rjeT1MkmA.jpg" group-title="Filmes | Lancamentos 3",Cerco ao Terror: Ataque ao Templo
+#EXTINF:-1 tvg-id="" tvg-name="Cerco ao Terror: Ataque ao Templo" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/9AS9OYkGzJzU1o8Gt6rjeT1MkmA.jpg" group-title="Filmes | Lancamentos 4",Cerco ao Terror: Ataque ao Templo
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655720.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hacker - Privacidade Violada" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/54L9slFusu6B4Kp7ogGjiGygzdF.jpg" group-title="Filmes | Lancamentos 4",Hacker - Privacidade Violada
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655719.mp4
@@ -831,17 +851,17 @@ http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655698.mp4
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655697.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ferry 2" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/oIeHeuhxUpU7wWDqqo769s8D91s.jpg" group-title="Filmes | Lancamentos 4",Ferry 2
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Flow" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/psANjJ8SFm8BMLt7DS1asgKQvkb.jpg" group-title="Filmes | Lancamentos 4",Flow
+#EXTINF:-1 tvg-id="" tvg-name="Flow" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/psANjJ8SFm8BMLt7DS1asgKQvkb.jpg" group-title="Filmes | Lancamentos 5",Flow
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Delinquentes" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/ebnZkNdI1KivRpjLNESe3Ahx13h.jpg" group-title="Filmes | Lancamentos 4",Os Delinquentes
+#EXTINF:-1 tvg-id="" tvg-name="Os Delinquentes" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/ebnZkNdI1KivRpjLNESe3Ahx13h.jpg" group-title="Filmes | Lancamentos 5",Os Delinquentes
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Mundo Encantado" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/r3RRu2joBRWoKh5Qb4vdLuBpcPm.jpg" group-title="Filmes | Lancamentos 4",Um Mundo Encantado
+#EXTINF:-1 tvg-id="" tvg-name="Um Mundo Encantado" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/r3RRu2joBRWoKh5Qb4vdLuBpcPm.jpg" group-title="Filmes | Lancamentos 5",Um Mundo Encantado
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Mais que Amizade" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/js1ApkcNejdJUIq0f3hpbGaYcyu.jpg" group-title="Filmes | Lancamentos 4",Umjolo: Mais que Amizade
+#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Mais que Amizade" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/js1ApkcNejdJUIq0f3hpbGaYcyu.jpg" group-title="Filmes | Lancamentos 5",Umjolo: Mais que Amizade
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Mountain Within Me" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/mRwlV2K8RKj9bJxPqVmEtjd1zAC.jpg" group-title="Filmes | Lancamentos 4",The Mountain Within Me
+#EXTINF:-1 tvg-id="" tvg-name="The Mountain Within Me" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/mRwlV2K8RKj9bJxPqVmEtjd1zAC.jpg" group-title="Filmes | Lancamentos 5",The Mountain Within Me
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Balões" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg" group-title="Filmes | Lancamentos 4",6 Balões
+#EXTINF:-1 tvg-id="" tvg-name="6 Balões" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg" group-title="Filmes | Lancamentos 5",6 Balões
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655690.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Arca de Noé" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/iI79rRbcwPKVlbEN5Sc4EwppRpa.jpg" group-title="Filmes | Lancamentos 5",Arca de Noé
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655689.mp4
@@ -891,17 +911,17 @@ http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655668.mp4
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655667.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto O Filme" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/sDiq2Y8wQNC5HsIAAamk27kxQiv.jpg" group-title="Filmes | Lancamentos 5",Boruto: Naruto O Filme
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cativeiro" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/7hamq7tUzQJjUyTJGpvDU4rhD7K.jpg" group-title="Filmes | Lancamentos 5",Cativeiro
+#EXTINF:-1 tvg-id="" tvg-name="Cativeiro" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/7hamq7tUzQJjUyTJGpvDU4rhD7K.jpg" group-title="Filmes | Lancamentos 6",Cativeiro
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Escritos Secretos" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/nSCS70pAmx55ViQvvzokWdzUzBi.jpg" group-title="Filmes | Lancamentos 5",Os Escritos Secretos
+#EXTINF:-1 tvg-id="" tvg-name="Os Escritos Secretos" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/nSCS70pAmx55ViQvvzokWdzUzBi.jpg" group-title="Filmes | Lancamentos 6",Os Escritos Secretos
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Snowden: Herói ou Traidor" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/glgKZrHcgsHJ8uBwWg8eeTNZQJk.jpg" group-title="Filmes | Lancamentos 5",Snowden: Herói ou Traidor
+#EXTINF:-1 tvg-id="" tvg-name="Snowden: Herói ou Traidor" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/glgKZrHcgsHJ8uBwWg8eeTNZQJk.jpg" group-title="Filmes | Lancamentos 6",Snowden: Herói ou Traidor
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa da Árvore" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/gG7OCpt6hwp8DA2cfYs2kFhtpcZ.jpg" group-title="Filmes | Lancamentos 5",A Casa da Árvore
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Árvore" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/gG7OCpt6hwp8DA2cfYs2kFhtpcZ.jpg" group-title="Filmes | Lancamentos 6",A Casa da Árvore
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Redenção – A História Real de Bonhoeffer" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/ltG0rnQfi4zttvCHINn79w8nfy2.jpg" group-title="Filmes | Lancamentos 5",A Redenção – A História Real de Bonhoeffer
+#EXTINF:-1 tvg-id="" tvg-name="A Redenção – A História Real de Bonhoeffer" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/ltG0rnQfi4zttvCHINn79w8nfy2.jpg" group-title="Filmes | Lancamentos 6",A Redenção – A História Real de Bonhoeffer
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Honra" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/sDi26fw5cOqUzFE7RVtOro1KokZ.jpg" group-title="Filmes | Lancamentos 5",Em Nome da Honra
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Honra" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/sDi26fw5cOqUzFE7RVtOro1KokZ.jpg" group-title="Filmes | Lancamentos 6",Em Nome da Honra
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655660.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Espionagem em Londres" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/asP02uJm1ziJnm7FY3U7lvVAt5f.jpg" group-title="Filmes | Lancamentos 6",Espionagem em Londres
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655659.mp4
@@ -951,17 +971,17 @@ http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655638.mp4
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655637.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: A Guerra dos Rohirrim" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/aLOROyUuOum0zztqPiJDCFgFMcw.jpg" group-title="Filmes | Lancamentos 6",O Senhor dos Anéis: A Guerra dos Rohirrim
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Segredos da Comuna" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/gOb2CuvyuexykXkdE2KPiQ7DCXf.jpg" group-title="Filmes | Lancamentos 6",Os Segredos da Comuna
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos da Comuna" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/gOb2CuvyuexykXkdE2KPiQ7DCXf.jpg" group-title="Filmes | Lancamentos 7",Os Segredos da Comuna
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Paixão no Natal" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/gL1rxXHD1igT15kw1WBnit55er0.jpg" group-title="Filmes | Lancamentos 6",Uma Paixão no Natal
+#EXTINF:-1 tvg-id="" tvg-name="Uma Paixão no Natal" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/gL1rxXHD1igT15kw1WBnit55er0.jpg" group-title="Filmes | Lancamentos 7",Uma Paixão no Natal
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Entre Dois Amores" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/m1aZxghCHlQK07xymiqs1C4YdqC.jpg" group-title="Filmes | Lancamentos 6",Umjolo: Entre Dois Amores
+#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Entre Dois Amores" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/m1aZxghCHlQK07xymiqs1C4YdqC.jpg" group-title="Filmes | Lancamentos 7",Umjolo: Entre Dois Amores
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vida Após a Vida" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/8d1vOiuCWsZK969SQp8rmzvIqnF.jpg" group-title="Filmes | Lancamentos 6",Vida Após a Vida
+#EXTINF:-1 tvg-id="" tvg-name="Vida Após a Vida" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/8d1vOiuCWsZK969SQp8rmzvIqnF.jpg" group-title="Filmes | Lancamentos 7",Vida Após a Vida
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Violet no Mundo da Fantasia" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zlLtqutoe2IHHBwzl4hykLr9o2A.jpg" group-title="Filmes | Lancamentos 6",Violet no Mundo da Fantasia
+#EXTINF:-1 tvg-id="" tvg-name="Violet no Mundo da Fantasia" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zlLtqutoe2IHHBwzl4hykLr9o2A.jpg" group-title="Filmes | Lancamentos 7",Violet no Mundo da Fantasia
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ataque Terrorista" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/uvDTyyRpM8MenTBZwtBnn93VSoh.jpg" group-title="Filmes | Lancamentos 6",Ataque Terrorista
+#EXTINF:-1 tvg-id="" tvg-name="Ataque Terrorista" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/uvDTyyRpM8MenTBZwtBnn93VSoh.jpg" group-title="Filmes | Lancamentos 7",Ataque Terrorista
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655630.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Agreste" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/vU6FGtuTdsPh4V4jc75LPpiPKCJ.jpg" group-title="Filmes | Lancamentos 7",Agreste
 http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/655629.mp4
