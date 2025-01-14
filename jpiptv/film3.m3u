@@ -93,6 +93,30 @@ https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Século 21" tvg-name="TV Século 21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXuL_DJFsAuv-WzUnMni-KIQGG171A_4O5SLueVn75MKw4EYOvtuCBvFJQ6Os0Gmr4V4lVR7jmLUXJa2EDnVn9nGwhMw3hA4OVYIM-6Sajg-ZrPCicv2nNY4rf4Vie4HDSgVSfJ-buy96k8jPLWIOUQDrtB88HJUnP2OnjR0YYeJnbjc4WowyiFZ49=s200" group-title="CANAIS | CATÓLICOS",TV Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 01
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11000.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 02
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11001.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 03
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11002.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 04
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11003.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 05
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11004.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 06
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11005.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 07
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11006.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 08
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11007.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 09" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 09
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11008.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 10
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11009.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 11" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 11
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11010.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 12" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 12
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11011.ts
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS HD³" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS HD³
 http://meumd.com:80/live/25101989/25101989/172921.ts
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL HD³" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD³
