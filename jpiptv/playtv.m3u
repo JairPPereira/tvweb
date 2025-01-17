@@ -127,24 +127,14 @@ http://meumd.com:80/live/25101989/25101989/108452.ts
 http://meumd.com:80/live/25101989/25101989/108460.ts
 #EXTINF:-1 tvg-id="JP NEWS AUT" tvg-name="JP NEWS AUT" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS AUT 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS AUT 2
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS 576p
 https://d9tard1jbwri9.cloudfront.net/playlist576p.m3u8
-#EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS SD
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS HD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/513.ts
 #EXTINF:-1 tvg-id="CNN BRASIL 3" tvg-name="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cnn_brasil.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL
 https://super-cdn.link/cnnbrasil/index.m3u8
 #EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News HD
 https://super-cdn.link/globonews/index.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS tvg-name="GLOBONEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/30196.ts
-#EXTINF:-1 tvg-id="GLOBO NEWS FHD" tvg-name="GLOBONEWS FHD" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News FHD
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/516.ts
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BANDNEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
 https://super-cdn.link/bandnews/index.m3u8
 #EXTINF:-1 tvg-id="AVANÇA BRASIL" tvg-name="AVANÇA BRASIL" tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="CANAIS | NOTÍCIAS",AVANÇA BRASIL
