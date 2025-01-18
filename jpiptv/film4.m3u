@@ -309,6 +309,10 @@ https://super-cdn.link/history2/index.m3u8
 https://super-cdn.link/nationalgeographic/index.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD³" tvg-name="ANIMAL PLANET HD³" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET HD³
 https://super-cdn.link/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="CINE CANAL HD³" tvg-name="CINE CANAL HD³" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x360/Y2gwMTAwMDAwMDAwMTA4X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x360.png" group-title="CANAIS | DOCUMENTARIO",CINE CANAL HD³
+https://super-cdn.link/cinecanal/index.m3u8
+#EXTINF:-1 tvg-id="TLC HD³" tvg-name="TLC HD³" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC HD³
+https://super-cdn.link/tlc/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD³" tvg-name="DISCOVERY CHANNEL HD³" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD³
 https://super-cdn.link/discoverychannel/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE HD³" tvg-name="DISCOVERY SCIENCE HD³" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD³
