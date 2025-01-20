@@ -301,6 +301,18 @@ https://super-cdn.link/discoverychannel/index.m3u8
 https://super-cdn.link/discoveryscience/index.m3u8
 #EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY HD³" tvg-name="INVESTIGAÇÃO DISCOVERY HD³" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY HD³
 https://super-cdn.link/discoveryid/index.m3u8
+#EXTINF:-1 tvg-id="HBO HD³" tvg-name="HBO HD³" tvg-logo="http://prostore.app/logos/hbo1.png" group-title="CANAIS | HBO",HBO HD³
+https://super-cdn.link/hbo/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2 HD³" tvg-name="HBO 2 HD³" tvg-logo="https://prostore.app/logos/hbo2h.png" group-title="CANAIS | HBO",HBO 2 HD³
+https://super-cdn.link/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBO XTREME HD³" tvg-name="HBO XTREME HD³" tvg-logo="https://prostore.app/logos/hboxtremehd.png" group-title="CANAIS | HBO",HBO XTREME HD³
+https://super-cdn.link/hboxtreme/index.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY HD³" tvg-name="HBO FAMILY HD³" tvg-logo="https://prostore.app/logos/hbofamily1.png" group-title="CANAIS | HBO",HBO FAMILY HD³
+https://super-cdn.link/hbofamily/index.m3u8
+#EXTINF:-1 tvg-id="HBO + PLUS HD³" tvg-name="HBO + PLUS HD³" tvg-logo="https://prostore.app/logos/hboplusfhd.png" group-title="CANAIS | HBO",HBO + PLUS HD³
+https://super-cdn.link/hboplus/index.m3u8
+#EXTINF:-1 tvg-id="HBO SIGNATURE HD³" tvg-name="HBO SIGNATURE HD³" tvg-logo="https://prostore.app/logos/hbosignaturefhd.png" group-title="CANAIS | HBO",HBO SIGNATURE HD³
+https://super-cdn.link/hbosignature/index.m3u8
 #EXTINF:-1 tvg-id="tv.atalaia.br" tvg-name="RECORD TV ATALAIA HD" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV ATALAIA HD
 http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469815.ts
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD
