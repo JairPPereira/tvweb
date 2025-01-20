@@ -171,8 +171,10 @@ http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/1132.ts
 http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/1133.ts
 #EXTINF:-1 tvg-id="NOSSO FUTEBOL 04³" tvg-name="NOSSO FUTEBOL 04³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 04³
 https://super-cdn.link/nossofutebol/index.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS³" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="CANAIS | ESPORTES PPV",Band Sports FHD³
+#EXTINF:-1 tvg-id="BAND SPORTS³" tvg-name="BAND SPORTS³" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="CANAIS | ESPORTES PPV",Band Sports FHD³
 https://stream1.freetv.fun/band-sports-3.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS³ - alternativo" tvg-name="BAND SPORTS³ - alternativo" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="CANAIS | ESPORTES PPV",Band Sports FHD³ - alternativo
+http://tv.fazoeli.co.za/m3u8/bandsports.m3u8
 #EXTINF:-1 tvg-id="Cazé tv³" tvg-name="Cazé tv³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcEW3aDL9cgg-lIhjByb9TyXD1ZutrcNyPyzoeMMjd2vTvt1c81HZdwz0LmJtbbgH-3VpeEkjYpsLHLPzwo7VZZNWjzg7LNQyTKVo0GBBNhoVREslCqKsYXy64tXD8ISaYwW8lh-9TWFs8i6TQFOGxP0O_yViHWu8U2h7Y55Q77DRhz4eQSGNYUWxVTQk/s1600/cazetv.jpg" group-title="CANAIS | ESPORTES PPV",Cazé tv FHD³
 https://super-cdn.link/cazetv/index.m3u8
 #EXTINF:-1 tvg-id="CazéTV 3³" tvg-name="CazéTV 3³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcEW3aDL9cgg-lIhjByb9TyXD1ZutrcNyPyzoeMMjd2vTvt1c81HZdwz0LmJtbbgH-3VpeEkjYpsLHLPzwo7VZZNWjzg7LNQyTKVo0GBBNhoVREslCqKsYXy64tXD8ISaYwW8lh-9TWFs8i6TQFOGxP0O_yViHWu8U2h7Y55Q77DRhz4eQSGNYUWxVTQk/s1600/cazetv.jpg" group-title="CANAIS | ESPORTES PPV",CazéTV 3³
@@ -198,7 +200,7 @@ https://super-cdn.link/sportv3/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV 3 alternativo HD³" tvg-name="SPORTV 3 alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 alternativo HD³
 http://meumd.com:80/live/25101989/25101989/110270.ts
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD³" tvg-name="PREMIERE CLUBES HD³" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD³
-https://super-cdn.link/premiereclubes/index.m3u8
+http://tv.fazoeli.co.za/m3u8/premiere.m3u8
 #EXTINF:-1 tvg-id="PREMIERE CLUBES (alternativo) HD³" tvg-name="PREMIERE CLUBES (alternativo) HD³" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE CLUBES (alternativo) HD³
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/494.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 2 HD³" tvg-name="PREMIERE 2 HD³" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD³
