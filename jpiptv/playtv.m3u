@@ -313,6 +313,18 @@ https://super-cdn.link/hbofamily/index.m3u8
 https://super-cdn.link/hboplus/index.m3u8
 #EXTINF:-1 tvg-id="HBO SIGNATURE HD³" tvg-name="HBO SIGNATURE HD³" tvg-logo="https://prostore.app/logos/hbosignaturefhd.png" group-title="CANAIS | HBO",HBO SIGNATURE HD³
 https://super-cdn.link/hbosignature/index.m3u8
+#EXTINF:-1 tvg-id="TC PREMIUM HD³" tvg-name="TC PREMIUM HD³" tvg-logo="https://prostore.app/logos/telecinepremiu.png" group-title="CANAIS | TELECINE",TC PREMIUM HD³
+https://super-cdn.link/telecinepremium/index.m3u8
+#EXTINF:-1 tvg-id="TC FUN HD³" tvg-name="TC FUN HD³" tvg-logo="https://prostore.app/logos/telecinefun.png" group-title="CANAIS | TELECINE",TC FUN HD³
+https://super-cdn.link/telecinefun/index.m3u8
+#EXTINF:-1 tvg-id="TC CULT HD³" tvg-name="TC CULT HD³" tvg-logo="https://prostore.app/logos/telecineculte.png" group-title="CANAIS | TELECINE",TC CULT HD³
+https://super-cdn.link/telecinecult/index.m3u8
+#EXTINF:-1 tvg-id="TC ACTION HD³" tvg-name="TC ACTION HD³" tvg-logo="https://prostore.app/logos/tcactinone.png" group-title="CANAIS | TELECINE",TC ACTION HD³
+https://super-cdn.link/telecineaction/index.m3u8
+#EXTINF:-1 tvg-id="TC PIPOCA HD³" tvg-name="TC PIPOCA HD³" tvg-logo="https://prostore.app/logos/teelcinepipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA HD³
+https://super-cdn.link/telecinepipoca/index.m3u8
+#EXTINF:-1 tvg-id="TC TOUCH HD³" tvg-name="TC TOUCH HD³" tvg-logo="https://prostore.app/logos/telecinetouch.png" group-title="CANAIS | TELECINE",TC TOUCH HD³
+https://super-cdn.link/telecinetouch/index.m3u8
 #EXTINF:-1 tvg-id="tv.atalaia.br" tvg-name="RECORD TV ATALAIA HD" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV ATALAIA HD
 http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469815.ts
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD
