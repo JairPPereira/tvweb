@@ -6,7 +6,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18148.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELÉM SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM SD
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/1010803.ts
 #EXTINF:-1 tvg-id="RBA TV" tvg-name="RBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqDyTK5SRE0eY1XqeWVzDSK4cfEnBomRIck78WhTxMd3IZj7idqYR5fGpR6KK2XYIqSNtwUyr1w44d_x27tiHxDnT435u_qFlkfDlVGYOV_M35IVpi_6NJcMG16hhYdPMXx1xk04RU83EDxl-Ory8wYEe-JgByX2rfIAE7EOww5gMYy3lK_LWizKs/s1600/rba200.jpg" group-title="CANAIS | ESTADO DO PARÁ",RBA TV
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="RECORD TV BELEM" tvg-name="RECORD TV BELEM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGpxBOd5f_P7dMhcfNGWs4g8e1ExA8SSJmW_W6Fy1B3X4WW3lNj5cWOj7Quzeh4K8OkBizHFm78KhIJA5sOaqaGZ-Ja0wwobRcqrgILzo9gjt790KD_Hc3yOadLeNYFsrgMTseYaBZ4xI/s0/recordbelem200.png" group-title="CANAIS | ESTADO DO PARÁ",RECORD TV BELEM
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17031.ts
 #EXTINF:-1 tvg-id="SBT BELEM HD" tvg-name="SBT BELEM HD"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvRPUjJsgbRtN8pvfQ43QS8qF_uRHQHhzI7DRZbUifQm6UZBJqRqZmGzXKyuvSTDfbdqwYKsNEJgyKnxFiYAkU4YlUndDM1iAk23QfmpN_bzNQVI6Tmcu9Uu21jXqSx5JViHzdrkUF-eVRnVXj1uA04i6XnB4cg89aU7dBXb_mccGA1kDcZXvIJKkxLks/s1600/sbt.webp" group-title="CANAIS | ESTADO DO PARÁ",SBT BELEM HD
@@ -115,13 +115,13 @@ http://sinalprivado.info:80/live/604210250/C246W5389Z/11009.ts
 http://sinalprivado.info:80/live/604210250/C246W5389Z/11010.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB 12" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 12
 http://sinalprivado.info:80/live/604210250/C246W5389Z/11011.ts
-#EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS HD³" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS HD³
+#EXTINF:-1 tvg-id="JP NEWS HD³" tvg-name="JP NEWS HD³" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS HD³
 http://meumd.com:80/live/25101989/25101989/172921.ts
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL HD³" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD³
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="Globo News HD³" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News HD³
+#EXTINF:-1 tvg-id="CNN BRASIL HD³" tvg-name="Globo News HD³" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="CANAIS | NOTÍCIAS",Globo News HD³
 http://meumd.com:80/live/25101989/25101989/108452.ts
-#EXTINF:-1 tvg-id="BANDNEWS SD" tvg-name="Band News HD³" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="CANAIS | NOTÍCIAS",Band News HD³
+#EXTINF:-1 tvg-id="Band News HD³" tvg-name="Band News HD³" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="CANAIS | NOTÍCIAS",Band News HD³
 http://meumd.com:80/live/25101989/25101989/108460.ts
 #EXTINF:-1 tvg-id="JP NEWS AUT" tvg-name="JP NEWS AUT" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS AUT 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -225,15 +225,15 @@ http://izcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/519.m3u8
 https://super-cdn.link/premiere7/index.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 7 alternativo HD" tvg-name="PREMIERE 7 alternativo HD" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 alternativo HD
 http://ezcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/524.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN1 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 HD³
+#EXTINF:-1 tvg-id="ESPN1 HD³" tvg-name="- ESPN1 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 HD³
 https://super-cdn.link/espn/index.m3u8
 #EXTINF:-1 tvg-id="ESPN1 (alternativo) HD³" tvg-name="ESPN1 (alternativo) HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 (alternativo) HD³
 http://hzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/309458.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 HD³
+#EXTINF:-1 tvg-id="ESPN2 HD³" tvg-name="- ESPN2 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 HD³
 https://super-cdn.link/espn2/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 alternativo HD³
 http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/135.ts
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 HD³
+#EXTINF:-1 tvg-id="ESPN3 HD³" tvg-name="- ESPN3 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 HD³
 https://super-cdn.link/espn3/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 alternativo HD³
 http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/126.ts
@@ -249,18 +249,6 @@ http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/140.ts
 https://super-cdn.link/espn6/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 alternativo HD³
 http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/134.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DAZN 1
-http://netturbo.aovivo.xyz:80/live/Ricardo123/Ricardo123/5721498.ts
-#EXTINF:-1 tvg-id="Dazn 2 HD" tvg-name="DAZN 2" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DAZN 2
-http://netturbo.aovivo.xyz:80/live/Ricardo123/Ricardo123/4779923.ts
-#EXTINF:-1 tvg-id="Dazn 3 HD" tvg-name="DAZN 3" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DAZN 3
-http://netturbo.aovivo.xyz:80/live/Ricardo123/Ricardo123/4779924.ts
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="DAZN 4" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DAZN 4
-http://netturbo.aovivo.xyz:80/live/Ricardo123/Ricardo123/5524561.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DAZN 5
-http://netturbo.aovivo.xyz:80/live/Ricardo123/Ricardo123/5702490.ts
-#EXTINF:-1 tvg-id="" tvg-name="DANZ 6" tvg-logo="https://techzzi.site/logos/esportesppv/dazn.png" group-title="⚽CANAIS • DAZN",DANZ 6
-http://netturbo.aovivo.xyz:80/live/Ricardo123/Ricardo123/5721499.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney + 1 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 1 FHD
 http://testerosh.top:80/live/64813754/C984v6006d/232230.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney + 1 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 1 HD
@@ -313,6 +301,30 @@ https://super-cdn.link/discoverychannel/index.m3u8
 https://super-cdn.link/discoveryscience/index.m3u8
 #EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY HD³" tvg-name="INVESTIGAÇÃO DISCOVERY HD³" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY HD³
 https://super-cdn.link/discoveryid/index.m3u8
+#EXTINF:-1 tvg-id="HBO HD³" tvg-name="HBO HD³" tvg-logo="http://prostore.app/logos/hbo1.png" group-title="CANAIS | HBO",HBO HD³
+https://super-cdn.link/hbo/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2 HD³" tvg-name="HBO 2 HD³" tvg-logo="https://prostore.app/logos/hbo2h.png" group-title="CANAIS | HBO",HBO 2 HD³
+https://super-cdn.link/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBO XTREME HD³" tvg-name="HBO XTREME HD³" tvg-logo="https://prostore.app/logos/hboxtremehd.png" group-title="CANAIS | HBO",HBO XTREME HD³
+https://super-cdn.link/hboxtreme/index.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY HD³" tvg-name="HBO FAMILY HD³" tvg-logo="https://prostore.app/logos/hbofamily1.png" group-title="CANAIS | HBO",HBO FAMILY HD³
+https://super-cdn.link/hbofamily/index.m3u8
+#EXTINF:-1 tvg-id="HBO + PLUS HD³" tvg-name="HBO + PLUS HD³" tvg-logo="https://prostore.app/logos/hboplusfhd.png" group-title="CANAIS | HBO",HBO + PLUS HD³
+https://super-cdn.link/hboplus/index.m3u8
+#EXTINF:-1 tvg-id="HBO SIGNATURE HD³" tvg-name="HBO SIGNATURE HD³" tvg-logo="https://prostore.app/logos/hbosignaturefhd.png" group-title="CANAIS | HBO",HBO SIGNATURE HD³
+https://super-cdn.link/hbosignature/index.m3u8
+#EXTINF:-1 tvg-id="TC PREMIUM HD³" tvg-name="TC PREMIUM HD³" tvg-logo="https://prostore.app/logos/telecinepremiu.png" group-title="CANAIS | TELECINE",TC PREMIUM HD³
+https://super-cdn.link/telecinepremium/index.m3u8
+#EXTINF:-1 tvg-id="TC FUN HD³" tvg-name="TC FUN HD³" tvg-logo="https://prostore.app/logos/telecinefun.png" group-title="CANAIS | TELECINE",TC FUN HD³
+https://super-cdn.link/telecinefun/index.m3u8
+#EXTINF:-1 tvg-id="TC CULT HD³" tvg-name="TC CULT HD³" tvg-logo="https://prostore.app/logos/telecineculte.png" group-title="CANAIS | TELECINE",TC CULT HD³
+https://super-cdn.link/telecinecult/index.m3u8
+#EXTINF:-1 tvg-id="TC ACTION HD³" tvg-name="TC ACTION HD³" tvg-logo="https://prostore.app/logos/tcactinone.png" group-title="CANAIS | TELECINE",TC ACTION HD³
+https://super-cdn.link/telecineaction/index.m3u8
+#EXTINF:-1 tvg-id="TC PIPOCA HD³" tvg-name="TC PIPOCA HD³" tvg-logo="https://prostore.app/logos/teelcinepipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA HD³
+https://super-cdn.link/telecinepipoca/index.m3u8
+#EXTINF:-1 tvg-id="TC TOUCH HD³" tvg-name="TC TOUCH HD³" tvg-logo="https://prostore.app/logos/telecinetouch.png" group-title="CANAIS | TELECINE",TC TOUCH HD³
+https://super-cdn.link/telecinetouch/index.m3u8
 #EXTINF:-1 tvg-id="tv.atalaia.br" tvg-name="RECORD TV ATALAIA HD" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV ATALAIA HD
 http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469815.ts
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD
