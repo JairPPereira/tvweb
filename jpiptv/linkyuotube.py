@@ -31,6 +31,6 @@ def get_m3u8_link(youtube_url):
         return f"Erro: {str(e)}"
 
 # Exemplo de uso
-youtube_link = "https://www.youtube.com/live/q9rflBiG0yI?si=rVTmbFHlJM1qwIaf"
+youtube_link = "https://www.youtube.com/live/1_vL6MkrsC8?si=Y8ZLvS8tx3qKaiv9"
 m3u8_link = get_m3u8_link(youtube_link)
 print("Link M3U8:", m3u8_link)
