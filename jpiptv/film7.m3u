@@ -195,12 +195,6 @@ https://tvbrasil-stream.ebc.com.br/playlist.m3u8
 https://super-cdn.link/max/index.m3u8
 #EXTINF:-1 tvg-id="TNT HD³" tvg-name="TNT HD³" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | ESPORTES PPV",TNT HD³
 https://super-cdn.link/tnt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 1³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | ESPORTES PPV",Disney+ 1³
-http://hubby.run:80/live/Visionplay/GqGcFV4ntu/19041.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 2³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | ESPORTES PPV",Disney+ 2³
-http://hubby.run:80/live/Visionplay/GqGcFV4ntu/19042.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 3³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | ESPORTES PPV",Disney+ 3³
-http://hubby.run:80/live/Visionplay/GqGcFV4ntu/19043.ts
 #EXTINF:-1 tvg-id="" tvg-name="Zapping Sports³" tvg-logo="http://www.fontedecanais.app/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",Zapping Sports³
 http://hubby.run:80/live/Visionplay/GqGcFV4ntu/19058.ts
 #EXTINF:-1 tvg-id="SPORTV HD³" tvg-name="SPORTV HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
@@ -265,6 +259,12 @@ http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/140.ts
 https://super-cdn.link/espn6/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 alternativo HD³
 http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/134.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 1³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ 1³
+http://hubby.run:80/live/Visionplay/GqGcFV4ntu/19041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 2³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ 2³
+http://hubby.run:80/live/Visionplay/GqGcFV4ntu/19042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 3³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ 3³
+http://hubby.run:80/live/Visionplay/GqGcFV4ntu/19043.ts
 #EXTINF:-1 tvg-id="Santa Rosa 2 x 1 Paysandu Parazão 2025 4ª Rodada" tvg-name="Santa Rosa 2 x 1 Paysandu Parazão 2025 4ª Rodada" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3qQuYxGaTFn9obP362D9Nx7iUr8C4hh7R8AoFthaBYa4AgxJ8MfVvXgUeQWWTjtuGuAcS_RU7WQc4_6BvnESmLQRHzdNElyPunhh4YWMpao5_q8jQMg_Q-xgspvQW9tJK7tycVSoFraEoCu87KtTdz2fKFogP2jwLR15x-qylzFIH6Zw3jXq9Onku4h8/s1600/paysandu.jpg" group-title="Jogos do Paysandu 2025 - melhores momentos",Santa Rosa 2 x 1 Paysandu Parazão 2025 4ª Rodada
 https://jpfilmes.jairppereira21.workers.dev/0:/jogos%20do%20Paysandu%202025%20-%20melhores%20momentos/Santa%20Rosa%20x%20Paysandu%20%20%20Paraz%C3%A3o%202025%20%20%204%C2%AA%20Rodada%20%20%20Melhores%20Momentos%20-%20Not%C3%ADcias%20do%20Paysandu.mp4?/live/jpfilmes
 #EXTINF:-1 tvg-id="Paysandu 2 x 1 Tuna Luso Parazão 2025 3ª Rodada" tvg-name="Paysandu 2 x 1 Tuna Luso Parazão 2025 3ª Rodada" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3qQuYxGaTFn9obP362D9Nx7iUr8C4hh7R8AoFthaBYa4AgxJ8MfVvXgUeQWWTjtuGuAcS_RU7WQc4_6BvnESmLQRHzdNElyPunhh4YWMpao5_q8jQMg_Q-xgspvQW9tJK7tycVSoFraEoCu87KtTdz2fKFogP2jwLR15x-qylzFIH6Zw3jXq9Onku4h8/s1600/paysandu.jpg" group-title="Jogos do Paysandu 2025 - melhores momentos",Paysandu 2 x 1 Tuna Luso Parazão 2025 3ª Rodada
