@@ -165,6 +165,8 @@ https://video04.logicahost.com.br/hackathonbrasil/hackathonbrasil/playlist.m3u8
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 #EXTINF:-1  tvg-id="Universidade da Pessoa" tvg-name="Universidade da Pessoa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-Wq_yc-cXAr5WXrpZedM1TjqMEGCX-InZHOJ3xSpbq6zUTgY1qJ7fdxyD0PLqm8SD1dk18HMXvUiGqX8h2EaBa1_mMOWmp3SGc5pZyTgaG1c-hMIlEYyYdnmBdJuSGmtTSRGYkp_ye7_chf1qBqGlhLOnGHubRkjto-fy-DSaqu2qHk3NSV3_U5PpRE/s1600/unipessoa.jpg" group-title="CANAIS | EDUCACIONAIS",Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+#EXTINF:-1 tvg-id="DECISÃO X AFOGADOS | CAMPEONATO PERNAMBUCANO 2025 | 6ª RODADA" tvg-name="DECISÃO X AFOGADOS | CAMPEONATO PERNAMBUCANO 2025 | 6ª RODADA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib2vXHJtBpWCEhbmytnfjAfOOfrFjCCEmv4CPX7Qywde-rI0BTFAUNyfSTFSbaWw-ctEh3XhqYrdRLTYPKvgYAm-iuhMWj2Mpb0pRerVXP9Hc9DQDVoMvSXMWeceBK3ojszt4a8T6gwoe-obkabr6b4UZTq9dEaJdMiGlmEHpECsSGFv3XdzFOnvruqdA/s1600/faovivo.jpg" group-title="FUTEBOL AO VIVO",DECISÃO X AFOGADOS | CAMPEONATO PERNAMBUCANO 2025 | 6ª RODADA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738799465/ei/CaWjZ6WZKZTKi9oP77yImQY/ip/149.102.239.229/id/aKOp--0hVfw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51371270/txs/51371269%2C51371270%2C51371271/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AY2Et-MoWr8EHxcTl8mNjPsCvuFxSAjAyghu3b-mJL0YEGi8NI7sLTaEDL7vMOkYYXkyFsESgw/spc/9kzgDQakQAd6a8VXJAPIwdGg2mGx3DVarBeShn22IHrjk540afgvplno3LATjIJF9A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ7ZPqpsy0Bh0gDDSyaPMxFeVjbsDHcWxYmDxzxES5JOAiBGOGIZooW7JOoDrLeASdGdNVauSmB5v8TQaKnzNq9irg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="NOSSO FUTEBOL 01³" tvg-name="NOSSO FUTEBOL 01³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 01³
 http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/1131.ts
 #EXTINF:-1 tvg-id="NOSSO FUTEBOL 02³" tvg-name="NOSSO FUTEBOL 02³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 02³
@@ -193,6 +195,14 @@ https://tvbrasil-stream.ebc.com.br/playlist.m3u8
 https://super-cdn.link/max/index.m3u8
 #EXTINF:-1 tvg-id="TNT HD³" tvg-name="TNT HD³" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | ESPORTES PPV",TNT HD³
 https://super-cdn.link/tnt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 1³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | ESPORTES PPV",Disney+ 1³
+http://hubby.run:80/live/Visionplay/GqGcFV4ntu/19041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 2³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | ESPORTES PPV",Disney+ 2³
+http://hubby.run:80/live/Visionplay/GqGcFV4ntu/19042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 3³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | ESPORTES PPV",Disney+ 3³
+http://hubby.run:80/live/Visionplay/GqGcFV4ntu/19043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Sports³" tvg-logo="http://www.fontedecanais.app/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",Zapping Sports³
+http://hubby.run:80/live/Visionplay/GqGcFV4ntu/19058.ts
 #EXTINF:-1 tvg-id="SPORTV HD³" tvg-name="SPORTV HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
 https://super-cdn.link/sportv/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV alternativo HD³" tvg-name="SPORTV alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV alternativo HD³
@@ -255,34 +265,8 @@ http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/140.ts
 https://super-cdn.link/espn6/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 alternativo HD³
 http://authxplus-2.xyz:2082/live/xplus-2-F3ilZQCtj4/iTxDhy4vvJ/134.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney + 1 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 1 FHD
-http://testerosh.top:80/live/64813754/C984v6006d/232230.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney + 1 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 1 HD
-http://testerosh.top:80/live/64813754/C984v6006d/232232.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney + 2 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 2 FHD
-http://testerosh.top:80/live/64813754/C984v6006d/232234.ts
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney + 2 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 2 HD
-http://testerosh.top:80/live/64813754/C984v6006d/232235.ts
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney+ 2 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 2 SD
-http://testerosh.top:80/live/64813754/C984v6006d/232237.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney + 3 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 3 FHD
-http://testerosh.top:80/live/64813754/C984v6006d/232238.ts
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney + 3 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 3 HD
-http://testerosh.top:80/live/64813754/C984v6006d/232239.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney + 3 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 3 HD
-http://testerosh.top:80/live/64813754/C984v6006d/232240.ts
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney + 3 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 3 SD
-http://testerosh.top:80/live/64813754/C984v6006d/232241.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney + 4 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 4 FHD
-http://testerosh.top:80/live/64813754/C984v6006d/232242.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney + 4 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 4 HD
-http://testerosh.top:80/live/64813754/C984v6006d/232243.ts
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney + 4 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 4 SD
-http://testerosh.top:80/live/64813754/C984v6006d/232244.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney + 5 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 5 FHD
-http://testerosh.top:80/live/64813754/C984v6006d/232246.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney + 6 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 6 FHD
-http://testerosh.top:80/live/64813754/C984v6006d/232247.ts
+#EXTINF:-1 tvg-id="Santa Rosa 2 x 1 Paysandu Parazão 2025 4ª Rodada" tvg-name="Santa Rosa 2 x 1 Paysandu Parazão 2025 4ª Rodada" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3qQuYxGaTFn9obP362D9Nx7iUr8C4hh7R8AoFthaBYa4AgxJ8MfVvXgUeQWWTjtuGuAcS_RU7WQc4_6BvnESmLQRHzdNElyPunhh4YWMpao5_q8jQMg_Q-xgspvQW9tJK7tycVSoFraEoCu87KtTdz2fKFogP2jwLR15x-qylzFIH6Zw3jXq9Onku4h8/s1600/paysandu.jpg" group-title="Jogos do Paysandu 2025 - melhores momentos",Santa Rosa 2 x 1 Paysandu Parazão 2025 4ª Rodada
+https://jpfilmes.jairppereira21.workers.dev/0:/jogos%20do%20Paysandu%202025%20-%20melhores%20momentos/Santa%20Rosa%20x%20Paysandu%20%20%20Paraz%C3%A3o%202025%20%20%204%C2%AA%20Rodada%20%20%20Melhores%20Momentos%20-%20Not%C3%ADcias%20do%20Paysandu.mp4?/live/jpfilmes
 #EXTINF:-1 tvg-id="Paysandu 2 x 1 Tuna Luso Parazão 2025 3ª Rodada" tvg-name="Paysandu 2 x 1 Tuna Luso Parazão 2025 3ª Rodada" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3qQuYxGaTFn9obP362D9Nx7iUr8C4hh7R8AoFthaBYa4AgxJ8MfVvXgUeQWWTjtuGuAcS_RU7WQc4_6BvnESmLQRHzdNElyPunhh4YWMpao5_q8jQMg_Q-xgspvQW9tJK7tycVSoFraEoCu87KtTdz2fKFogP2jwLR15x-qylzFIH6Zw3jXq9Onku4h8/s1600/paysandu.jpg" group-title="Jogos do Paysandu 2025 - melhores momentos",Paysandu 2 x 1 Tuna Luso Parazão 2025 3ª Rodada
 https://jpfilmes.jairppereira21.workers.dev/0:/jogos%20do%20Paysandu%202025%20-%20melhores%20momentos/Paysandu%20x%20Tuna%20Luso%20%20%20Paraz%C3%A3o%202025%20%20%203%C2%AA%20Rodada%20%20%20Melhores%20Momentos%20-%20Not%C3%ADcias%20do%20Paysandu%20S.C..mp4?/live/jpfilmes
 #EXTINF:-1 tvg-id="Águia 2 x 4 Paysandu | Parazão 2025" tvg-name="Águia 2 x 4 Paysandu | Parazão 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3qQuYxGaTFn9obP362D9Nx7iUr8C4hh7R8AoFthaBYa4AgxJ8MfVvXgUeQWWTjtuGuAcS_RU7WQc4_6BvnESmLQRHzdNElyPunhh4YWMpao5_q8jQMg_Q-xgspvQW9tJK7tycVSoFraEoCu87KtTdz2fKFogP2jwLR15x-qylzFIH6Zw3jXq9Onku4h8/s1600/paysandu.jpg" group-title="Jogos do Paysandu 2025 - melhores momentos",Águia 2 x 4 Paysandu | Parazão 2025
@@ -291,6 +275,8 @@ https://jpfilmes.jairppereira21.workers.dev/0:/jogos%20do%20Paysandu%202025%20-%
 https://jpfilmes.jairppereira21.workers.dev/0:/jogos%20do%20Paysandu%202025%20-%20melhores%20momentos/ESTREIA%20COM%20GOLEADA_%20Paysandu%20x%20Capit%C3%A3o%20Po%C3%A7o%20_%20Paraz%C3%A3o%20_%20%20Melhores%20Momentos%20-%20Not%C3%ADcias%20do%20Paysandu.mp4?/live/jpfilmes
 #EXTINF:-1 tvg-id="PAYSANDU 2 x 0 TUNA LUSO _ Final Supercopa Grão Pará 2025" tvg-name="PAYSANDU 2 x 0 TUNA LUSO _ Final Supercopa Grão Pará 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3qQuYxGaTFn9obP362D9Nx7iUr8C4hh7R8AoFthaBYa4AgxJ8MfVvXgUeQWWTjtuGuAcS_RU7WQc4_6BvnESmLQRHzdNElyPunhh4YWMpao5_q8jQMg_Q-xgspvQW9tJK7tycVSoFraEoCu87KtTdz2fKFogP2jwLR15x-qylzFIH6Zw3jXq9Onku4h8/s1600/paysandu.jpg" group-title="Jogos do Paysandu 2025 - melhores momentos",PAYSANDU 2 x 0 TUNA LUSO _ Final Supercopa Grão Pará 2025
 https://jpfilmes.jairppereira21.workers.dev/0:/jogos%20do%20Paysandu%202025%20-%20melhores%20momentos/PAYSANDU%20x%20TUNA%20LUSO%20_%20Final%20Supercopa%20Gr%C3%A3o%20Par%C3%A1%202025%20_%20Melhores%20Momentos%20-%20Not%C3%ADcias%20do%20Paysandu.mp4?/live/jpfilmes
+#EXTINF:-1 tvg-id="Remo 2 x 2 Capitão Poço | 4ª Rodada - Parazão Banpará 2025" tvg-name="Remo 2 x 2 Capitão Poço | 4ª Rodada - Parazão Banpará 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHUAqOSx20B_rOVwfOk0oGAZYxbJkHuGDORMVL_ex7qwKuZKnWAqBY0PP1H44xtQN1juvZ5fChoCaQgtfTUnZAkEm5W13Iqf2pBYPwlPvE4kKTjdX1hIbx2r7rr8-oOV6rL7c64LkDhda3SqfBtPekoeWMw1w4RHxfErdXoHj5ZNonCbDRb-aFVhZVM8Q/s1600/remo.png" group-title="Jogos do Remo 2025 - melhores momentos",Remo 2 x 2 Capitão Poço | 4ª Rodada - Parazão Banpará 2025
+https://jpfilmes.jairppereira21.workers.dev/0:/Jogos%20do%20Remo%202025%20-%20melhores%20momentos/Melhores%20Momentos%20%20%20Remo%202%20x%202%20Capit%C3%A3o%20Po%C3%A7o%20%20%204%C2%AA%20Rodada%20-%20Paraz%C3%A3o%20Banpar%C3%A1%202025.mp4?/live/jpfilmes
 #EXTINF:-1 tvg-id="Águia de Marabá 0 x 1 Remo 3ª Rodada - Parazão Banpará 2025" tvg-name="Águia de Marabá 0 x 1 Remo 3ª Rodada - Parazão Banpará 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHUAqOSx20B_rOVwfOk0oGAZYxbJkHuGDORMVL_ex7qwKuZKnWAqBY0PP1H44xtQN1juvZ5fChoCaQgtfTUnZAkEm5W13Iqf2pBYPwlPvE4kKTjdX1hIbx2r7rr8-oOV6rL7c64LkDhda3SqfBtPekoeWMw1w4RHxfErdXoHj5ZNonCbDRb-aFVhZVM8Q/s1600/remo.png" group-title="Jogos do Remo 2025 - melhores momentos",Águia de Marabá 0 x 1 Remo 3ª Rodada - Parazão Banpará 2025
 https://jpfilmes.jairppereira21.workers.dev/0:/Jogos%20do%20Remo%202025%20-%20melhores%20momentos/Melhores%20Momentos%20%20%20%C3%81guia%20de%20Marab%C3%A1%200%20x%201%20Remo%20%20%203%C2%AA%20Rodada%20-%20Paraz%C3%A3o%20Banpar%C3%A1%202025.mp4?/live/jpfilmes
 #EXTINF:-1 tvg-id="Caete 0 x 4 Remo _ 2ª Rodada do Parazão 2025" tvg-name="Caete 0 x 4 Remo _ 2ª Rodada do Parazão 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHUAqOSx20B_rOVwfOk0oGAZYxbJkHuGDORMVL_ex7qwKuZKnWAqBY0PP1H44xtQN1juvZ5fChoCaQgtfTUnZAkEm5W13Iqf2pBYPwlPvE4kKTjdX1hIbx2r7rr8-oOV6rL7c64LkDhda3SqfBtPekoeWMw1w4RHxfErdXoHj5ZNonCbDRb-aFVhZVM8Q/s1600/remo.png" group-title="Jogos do Remo 2025 - melhores momentos",Caete 0 x 4 Remo _ 2ª Rodada do Parazão 2025
