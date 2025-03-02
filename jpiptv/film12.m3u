@@ -88,9 +88,9 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILME
 #EXTINF:-1 tvg-id="TV Século 21" tvg-name="TV Século 21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXuL_DJFsAuv-WzUnMni-KIQGG171A_4O5SLueVn75MKw4EYOvtuCBvFJQ6Os0Gmr4V4lVR7jmLUXJa2EDnVn9nGwhMw3hA4OVYIM-6Sajg-ZrPCicv2nNY4rf4Vie4HDSgVSfJ-buy96k8jPLWIOUQDrtB88HJUnP2OnjR0YYeJnbjc4WowyiFZ49=s200" group-title="CANAIS | CATÓLICOS",TV Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 01
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11000.ts
+http://pfsv.io:80/live/epg/epg/259872.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 02
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11001.ts
+http://pfsv.io:80/live/epg/epg/259873.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 03
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11002.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 04
