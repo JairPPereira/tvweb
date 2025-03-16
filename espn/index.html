@@ -413,7 +413,7 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
                 <a class="btn btn-primary btn-sm" href="#" style="padding: 5px;"><input type="button" value="opção 1" onclick="clicou1()" id="botao1"></a>
                 <a class="btn btn-primary btn-sm" href="#" style="padding: 5px;"><input type="button" value="opção 2" onclick="clicou2()" id="botao2"></a>
                 <a class="btn btn-primary btn-sm" href="#" style="padding: 5px;"><input type="button" value="opção 3" onclick="clicou3()" id="botao3"></a>
-                <a class="btn btn-primary btn-sm" href="#" style="padding: 5px;"><input type="button" value="opção 4" onclick="clicou4()" id="botao4"></a>
+
 
 
         
@@ -442,11 +442,6 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
       player.innerHTML = video3
     }
 
-    function clicou4() {
-      removerAtivo();
-      document.getElementById("botao4").classList.add("active");
-      player.innerHTML = video4
-    }
 
 
 
@@ -467,19 +462,7 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
 
 
    
-    var video4 = ` <iframe
-    src="https://reidoscanais.eu/embed/?id=espn"
-    width="100%"
-
-   allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-    target="_blank"
-        scrolling="no"
-        data-draggable="none"
-        marginwidth="0"
-        marginheight="0"
-        data-popup="none" 
-        frameborder="0"
-    > </iframe>`
+ 
 
     var video3 = ` <iframe
     src="https://embedmax.site/tvl/espn1.php"
@@ -496,7 +479,7 @@ margin-right: 20px; /* Adicione espaço à direita para separar outros itens */
     > </iframe>`
 
     var video2 = ` <iframe
-    src="https://embedflix.co/tv/espn"
+    src="https://reidoscanais.eu/embed/?id=espn"
     width="100%"
 
    allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
