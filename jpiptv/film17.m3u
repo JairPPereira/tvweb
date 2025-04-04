@@ -10,7 +10,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="RECORD TV BELEM" tvg-name="RECORD TV BELEM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGpxBOd5f_P7dMhcfNGWs4g8e1ExA8SSJmW_W6Fy1B3X4WW3lNj5cWOj7Quzeh4K8OkBizHFm78KhIJA5sOaqaGZ-Ja0wwobRcqrgILzo9gjt790KD_Hc3yOadLeNYFsrgMTseYaBZ4xI/s0/recordbelem200.png" group-title="CANAIS | ESTADO DO PARÁ",RECORD TV BELEM
 http://pfsv.io:80/live/epg/epg/62.ts
 #EXTINF:-1 tvg-id="SBT BELEM HD" tvg-name="SBT BELEM HD"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvRPUjJsgbRtN8pvfQ43QS8qF_uRHQHhzI7DRZbUifQm6UZBJqRqZmGzXKyuvSTDfbdqwYKsNEJgyKnxFiYAkU4YlUndDM1iAk23QfmpN_bzNQVI6Tmcu9Uu21jXqSx5JViHzdrkUF-eVRnVXj1uA04i6XnB4cg89aU7dBXb_mccGA1kDcZXvIJKkxLks/s1600/sbt.webp" group-title="CANAIS | ESTADO DO PARÁ",SBT BELEM HD
-http://gol7990.com:80/live/jorgeluiz77/luizjorge77/469489.ts
+http://meumd.com:80/live/25101989/25101989/246967.ts
 #EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-name="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="CANAIS | ESTADO DO PARÁ",TV GRÃO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-name="TV Marajoara" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqAnRJTsB67pr9kADaiiEh-IgbCQuEPQOwlUAV03D36IGm0LgK4hXrxJKT23ytk2sztVvwXqXgbZqkuJYq40bcEv_L9I8z7hjItd8qnIjSHUtLlGcLo_-ZCbi3Ut7Yti7dhqwjLVxIdbevNX6wloRxgp6Sxg5Fjh8bHmsN5TriOgFt8imKYPtYIC7QO9M/s1600/maraj.webp" group-title="CANAIS | ESTADO DO PARÁ",TV Marajoara
@@ -279,16 +279,26 @@ http://pfsv.io:80/live/epg/epg/260.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 1³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ 1³
 http://pfsv.io:80/live/epg/epg/286683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ alternativo 1³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ alternativo 1³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19041.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 2³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ 2³
 http://pfsv.io:80/live/epg/epg/286684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ alternativo 2³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ alternativo 2³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19042.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 3³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ 3³
 http://pfsv.io:80/live/epg/epg/286685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ alternativo 3³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ alternativo 3³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19043.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 4³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ 4³
 http://pfsv.io:80/live/epg/epg/236860.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 5³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ 5³
 http://pfsv.io:80/live/epg/epg/236861.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 6³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ 6³
 http://pfsv.io:80/live/epg/epg/236862.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 7³" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ 7³
+http://meumd.com:80/live/25101989/25101989/27474411.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 7³ alternativo" tvg-logo="http://www.fontedecanais.app/logos/canais/starplus.png" group-title="CANAIS | Disney +",Disney+ 7³ alternativo
+http://relogio10.top:80/live/Tourobox1-FXGFSmrkpN/aPjcf8LEln/153088.ts
 #EXTINF:-1 tvg-id="HISTORY HD³" tvg-name="HISTORY HD³" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY HD³
 http://pfsv.io:80/live/epg/epg/189.ts
 #EXTINF:-1 tvg-id="HISTORY 2 HD³" tvg-name="HISTORY 2 HD³" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 HD³
