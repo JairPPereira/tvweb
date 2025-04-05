@@ -783,46 +783,6 @@ http://pfsv.io:80/live/epg/epg/30270.ts
 http://pfsv.io:80/live/epg/epg/141.ts
 #EXTINF:-1 tvg-id="BR - Disney" tvg-name="DISNEY CHANNEL [SD]" tvg-logo="http://jrj11.com/AKO" group-title="Canais | Infantis",DISNEY CHANNEL [SD]
 http://pfsv.io:80/live/epg/epg/153.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 1 [FHD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 1 [FHD]
-http://pfsv.io:80/live/epg/epg/286679.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 1 [FHD] [ALTER]" tvg-logo="http://jrj11.com/DYT5" group-title="Canais | Disney Plus",Disney Plus 1 [FHD] [ALTER]
-http://pfsv.io:80/live/epg/epg/241003.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 1 [HD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 1 [HD]
-http://pfsv.io:80/live/epg/epg/286683.ts
-#EXTINF:-1 tvg-id="Disney.cl" tvg-name="Disney Plus 1 [HD] [ALTER]" tvg-logo="http://jrj11.com/DPP1" group-title="Canais | Disney Plus",Disney Plus 1 [HD] [ALTER]
-http://pfsv.io:80/live/epg/epg/236857.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 1 [SD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 1 [SD]
-http://pfsv.io:80/live/epg/epg/286687.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 [FHD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 2 [FHD]
-http://pfsv.io:80/live/epg/epg/286680.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 [FHD] [ALTER]" tvg-logo="http://jrj11.com/DYT4" group-title="Canais | Disney Plus",Disney Plus 2 [FHD] [ALTER]
-http://pfsv.io:80/live/epg/epg/241002.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 [HD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 2 [HD]
-http://pfsv.io:80/live/epg/epg/286684.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 [HD] [ALTER]" tvg-logo="http://jrj11.com/DPP2" group-title="Canais | Disney Plus",Disney Plus 2 [HD] [ALTER]
-http://pfsv.io:80/live/epg/epg/236858.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 [SD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 2 [SD]
-http://pfsv.io:80/live/epg/epg/286688.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 3 [FHD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 3 [FHD]
-http://pfsv.io:80/live/epg/epg/286681.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 3 [FHD] [ALTER]" tvg-logo="http://jrj11.com/DYT3" group-title="Canais | Disney Plus",Disney Plus 3 [FHD] [ALTER]
-http://pfsv.io:80/live/epg/epg/241001.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 3 [HD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 3 [HD]
-http://pfsv.io:80/live/epg/epg/286685.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 3 [HD] [ALTER]" tvg-logo="http://jrj11.com/DGS9" group-title="Canais | Disney Plus",Disney Plus 3 [HD] [ALTER]
-http://pfsv.io:80/live/epg/epg/236859.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 3 [SD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 3 [SD]
-http://pfsv.io:80/live/epg/epg/286689.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 4 [FHD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 4 [FHD]
-http://pfsv.io:80/live/epg/epg/286682.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 4 [FHD] [ALTER]" tvg-logo="http://jrj11.com/DYT2" group-title="Canais | Disney Plus",Disney Plus 4 [FHD] [ALTER]
-http://pfsv.io:80/live/epg/epg/241000.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 4 [HD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 4 [HD]
-http://pfsv.io:80/live/epg/epg/286686.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 4 [HD] [ALTER]" tvg-logo="http://jrj11.com/DPP3" group-title="Canais | Disney Plus",Disney Plus 4 [HD] [ALTER]
-http://pfsv.io:80/live/epg/epg/236860.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 4 [SD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 4 [SD]
-http://pfsv.io:80/live/epg/epg/286690.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney Plus 5 [FHD] [ALTER]" tvg-logo="http://jrj11.com/DYT1" group-title="Canais | Disney Plus",Disney Plus 5 [FHD] [ALTER]
 http://pfsv.io:80/live/epg/epg/240999.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney Plus 5 [HD] [ALTER]" tvg-logo="http://jrj11.com/DPP4" group-title="Canais | Disney Plus",Disney Plus 5 [HD] [ALTER]
