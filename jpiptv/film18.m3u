@@ -309,8 +309,12 @@ http://pfsv.io:80/live/epg/epg/241000.ts
 http://pfsv.io:80/live/epg/epg/286686.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney Plus 4 [HD] [ALTER]" tvg-logo="http://lfpx.club/DPP3" group-title="Canais | Disney Plus",Disney Plus 4 [HD] [ALTER]
 http://pfsv.io:80/live/epg/epg/236860.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 5 [FHD] [ALTER]" tvg-logo="http://lfpx.club/DYT1" group-title="Canais | Disney Plus",Disney Plus 5 [FHD] [ALTER]
+http://pfsv.io:80/live/epg/epg/240999.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney Plus 5 [HD] [ALTER]" tvg-logo="http://lfpx.club/DPP4" group-title="Canais | Disney Plus",Disney Plus 5 [HD] [ALTER]
 http://pfsv.io:80/live/epg/epg/236861.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 6 [FHD] [ALTER]" tvg-logo="http://lfpx.club/DYT0" group-title="Canais | Disney Plus",Disney Plus 6 [FHD] [ALTER]
+http://pfsv.io:80/live/epg/epg/240998.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney Plus 6 [HD] [ALTER]" tvg-logo="http://lfpx.club/DPP5" group-title="Canais | Disney Plus",Disney Plus 6 [HD] [ALTER]
 http://pfsv.io:80/live/epg/epg/236862.ts
 #EXTINF:-1 tvg-id="HISTORY HD³" tvg-name="HISTORY HD³" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY HD³
@@ -783,14 +787,6 @@ http://pfsv.io:80/live/epg/epg/30270.ts
 http://pfsv.io:80/live/epg/epg/141.ts
 #EXTINF:-1 tvg-id="BR - Disney" tvg-name="DISNEY CHANNEL [SD]" tvg-logo="http://jrj11.com/AKO" group-title="Canais | Infantis",DISNEY CHANNEL [SD]
 http://pfsv.io:80/live/epg/epg/153.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 5 [FHD] [ALTER]" tvg-logo="http://jrj11.com/DYT1" group-title="Canais | Disney Plus",Disney Plus 5 [FHD] [ALTER]
-http://pfsv.io:80/live/epg/epg/240999.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 5 [HD] [ALTER]" tvg-logo="http://jrj11.com/DPP4" group-title="Canais | Disney Plus",Disney Plus 5 [HD] [ALTER]
-http://pfsv.io:80/live/epg/epg/236861.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 6 [FHD] [ALTER]" tvg-logo="http://jrj11.com/DYT0" group-title="Canais | Disney Plus",Disney Plus 6 [FHD] [ALTER]
-http://pfsv.io:80/live/epg/epg/240998.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 6 [HD] [ALTER]" tvg-logo="http://jrj11.com/DPP5" group-title="Canais | Disney Plus",Disney Plus 6 [HD] [ALTER]
-http://pfsv.io:80/live/epg/epg/236862.ts
 #EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [FHD]" tvg-logo="http://jrj11.com/VRD" group-title="Canais | Variedades",DOG TV [FHD]
 http://pfsv.io:80/live/epg/epg/32426.ts
 #EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [HD]" tvg-logo="http://jrj11.com/VRC" group-title="Canais | Variedades",DOG TV [HD]
