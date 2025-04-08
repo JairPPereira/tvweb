@@ -185,17 +185,17 @@ http://5ce.co:80/live/2845paulinho/130580a/237088.ts
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV BRASIL HD³" tvg-name="TV BRASIL HD³" tvg-logo="https://images2.imgbox.com/a8/91/cym8W2U3_o.png" group-title="CANAIS | ESPORTES PPV",TV BRASIL HD³
 http://pfsv.io:80/live/epg/epg/89.ts
-#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 1
+#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19071.ts
-#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 2
+#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19072.ts
-#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 3
+#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19073.ts
-#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 4
+#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 4
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19074.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 5" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 5
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 5" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 5
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19075.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 6" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 6
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 6" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 6
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19076.ts
 #EXTINF:-1 tvg-id="MAX HD³" tvg-name="MAX HD³" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | ESPORTES PPV",MAX HD³
 http://pfsv.io:80/live/epg/epg/199969.ts
