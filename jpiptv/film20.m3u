@@ -131,6 +131,8 @@ http://danfs.xyz:80/live/2222222222/2222222222/1568768.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25007.ts
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BANDNEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
 http://pfsv.io:80/live/epg/epg/514.ts
+#EXTINF:-1 tvg-id="Canal UOL" tvg-name="Canal UOL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGw3v5ROsJyltG-rst2rFJt4H9112vEJH2vqhIw0EHDkbRPFjldRQ7PhCW31kGN1bQNnGUtj5KatYroERSJQhkM88aDRRZw9utMyrU3nPlCAZdjxwRZvRUk2H1pDG31zOfF2k4Oxe3fohRHO0rT0UZRwY75pQqBKGYJvYVw55fx8MIRcM8GXPq_SmvL5s/s1600/canaluol.png" group-title="CANAIS | NOTÍCIAS",Canal UOL
+https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AVANÇA BRASIL" tvg-name="AVANÇA BRASIL" tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="CANAIS | NOTÍCIAS",AVANÇA BRASIL
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="4 POR 4" tvg-name="4 POR 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsuJ08YlDL3eOcIv8wSxCxhDF7kgZoOhIVVzn2dYO0N93YqRLvoOwXbR8dDOYGMYWedyV5gR1i42hGNHQ4roSj-0UsneSthat8yPaTkkFXcEMvb89TX6OhfS9GEoETvgW71-y_ElmypIkG8XhMqGQTDt9pxY1IWLEExFkaq8om6FpOSO1IPtQQ8nDQO4/s1600/4x4.jpeg" group-title="CANAIS | NOTÍCIAS",4 POR 4 
@@ -142,7 +144,7 @@ https://biakiciscod.akamaized.net/biakicis/biakicis/playlist.m3u8
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS | NOTÍCIAS",Record News HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record_news.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS
-https://cdn-3.nxplay.com.br/RECORD_NEWS_TK/index.m3u8
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1  tvg-id="TV VIDEONEWS" tvg-name="TV VIDEONEWS" tvg-logo="https://imgur.com/4m1j3CL.png" group-title="CANAIS | NOTÍCIAS",TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1  tvg-id="TV O Repórter" tvg-name="TV O Repórter" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxr2m2itc3n6FDdNMHunSNeKXLvu_ymCbCxuPKlF7brl6sqakJVlA4yraAjJk7gPF9yX1hBEY-grL4S6BOqwmRgts-LTz-Ypk0lzUgkDFSb4VZVjw_OLxx6Ov6Frf3DUjva1q-HvIrxFSdT1AuAtQ7cr18GUE_kfoLHVtovqN6RJ-pM_s_wSERMOg5LwI/s1600/oreportes.jpg" group-title="CANAIS | NOTÍCIAS",TV O Repórter
