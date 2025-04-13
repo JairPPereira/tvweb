@@ -35,6 +35,8 @@ https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="TV NBT" tvg-name="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="CANAIS | ESTADO DO PARÁ",TV NBT
 https://isaocorp.cloudecast.com/nbt/video.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="ISTV" tvg-name="ISTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFbtOhhND9sQfjDbSlOjOcMUcDOziDo_NBOzVJTGjqKHJfV-jBqvOAm9Ob3Qwt0Wdudluhhyk2OieRPbO8uDnSchCMrnJey2n3jzRyX9McE3VcjU4tlLCCuuH1SddS664nXJYL575tSt2QfbxD9Z87OIdIJdbJ8oljcTe0StfTy8uk4lW20RDFPSJm6qk/s1600/ISTV.jpg" group-title="CANAIS | FILMES E SERIES",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="AWTV" tvg-name="AWTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5IuirjLniZ_0k4wXFNneypC-S3Ow0qzLAVT9jsKTlyHYrK8Z1jTV3sjKapaDhRNm0dD-QUBV4dn9Ga92k3ebdLRNl4gi_XRTIlfRsfGJ7-TPcKfUTNPXcQw-tEp2DppeBEF8JEhgGzWT2B7meilTlv_ej2vS7ED0kLacLJkW9kE_3lEoB9M4tw20YfxQ/s1600/awtv.webp" group-title="CANAIS | FILMES E SERIES",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="BR Super TV" tvg-name="BR Super TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsiqcAqQO3eRsO3hNObBN3v70q2p6KUcxCZI_3I5TRdqrKX6R5DAbxIBuvLXbIXbCxMdQciTkSAC0JdL0WeCpKESNpTelswA28ywkWYDmof_d1ENmH3MkMLLNn83BESMD5n-yeOfTSalKmnN9UUkZ8nAjER4TKqq5fixk5A4iYTuUnKOe7fIua0FvhiZ4/s1600/brsupertv.webp" group-title="CANAIS | FILMES E SERIES",BR Super TV
