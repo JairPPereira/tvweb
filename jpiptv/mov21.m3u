@@ -297,6 +297,8 @@ http://pfsv.io:80/live/epg/epg/241003.ts
 http://pfsv.io:80/live/epg/epg/286683.ts
 #EXTINF:-1 tvg-id="Disney.cl" tvg-name="Disney Plus 1 [HD] [ALTER]" tvg-logo="http://lfpx.club/DPP1" group-title="Canais | Disney Plus",Disney Plus 1 [HD] [ALTER]
 http://pfsv.io:80/live/epg/epg/236857.ts
+#EXTINF:-1 tvg-id="Disney.cl" tvg-name="Disney Plus 1 [HD] Alter" tvg-logo="http://lfpx.club/DPP1" group-title="Canais | Disney Plus",Disney Plus 1 [HD] Alter
+http://107.152.46.179:80/live/Formigatv/61822495/1542313.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 [FHD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 2 [FHD]
 http://pfsv.io:80/live/epg/epg/286680.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 [FHD] [ALTER]" tvg-logo="http://lfpx.club/DYT4" group-title="Canais | Disney Plus",Disney Plus 2 [FHD] [ALTER]
