@@ -35,6 +35,8 @@ https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="TV NBT" tvg-name="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="CANAIS | ESTADO DO PARÁ",TV NBT
 https://isaocorp.cloudecast.com/nbt/video.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="TV Recon" tvg-name="TV Recon" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoj1pLS0j6OuOf0jnUB1Ep-kES4kAOAqf57aWc2UHFoCWYezOV9uraaNs0CoX7Ramz_6W3JFa_JdFd-zT31G_-miEkK-8K7bKxXzajv0Xoa07yMnEEJ_1CX9Xhlm5s3k_po44hVoOaJ2qSJjeam9XxWtL1NMjI4S8dATQ1OOTPh4OQM5z5us_v0MMAF58/s1600/TV%20Recon.webp" group-title="CANAIS | FILMES E SERIES",TV Recon
+https://acesso.ecast.site:3862/hybrid/play.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Mon HD" tvg-name="TV Mon HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2ZKtVwVKJWE66KHdWLDpiO0m5wbemsxopTjDGb2xJyDtI3YeOZpbNio4RYrOK3y9vv_On8RgClLarbOv5diw6mvxGYACCjLarISSXt0jzTg6E2Kfdl5jdovwj5Ur4pz0Y115u5RwPcJSmWCYaODy2UYWsytF8TGGx0PU6P4aSVnneqK7zOImOAWwsWvE/s1600/TV%20Mon%20HD.jpg" group-title="CANAIS | FILMES E SERIES",TV Mon HD
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="GLN TV" tvg-name="GLN TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE1L3J5LCnorqfJD6cafKEqklU1qLsVzGZcX7Re0x86H7kOS6TxXphNfG-4jCzz6lp51tMW4OmEeWFou3g8x3yrA7unOZsGf6GMNAj9pkEy-UnU0qcoajFyhMZbiZE_scMcDYlA4Bv1CY3MGh3WL67SIvo2Oz8pinwZBwVB2cVWhFydqEagwhyphenhyphennGBiAZ4/s1600/glntv.png" group-title="CANAIS | FILMES E SERIES",GLN TV
