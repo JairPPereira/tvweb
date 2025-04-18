@@ -101,6 +101,22 @@ https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Século 21" tvg-name="TV Século 21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXuL_DJFsAuv-WzUnMni-KIQGG171A_4O5SLueVn75MKw4EYOvtuCBvFJQ6Os0Gmr4V4lVR7jmLUXJa2EDnVn9nGwhMw3hA4OVYIM-6Sajg-ZrPCicv2nNY4rf4Vie4HDSgVSfJ-buy96k8jPLWIOUQDrtB88HJUnP2OnjR0YYeJnbjc4WowyiFZ49=s200" group-title="CANAIS | CATÓLICOS",TV Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Davi S01 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wK6eZdcsZHkmvXrntkkmCXmkTrW.jpg" group-title="Casa de Davi",Casa de Davi S01 E01
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/708148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Davi S01 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tmfTsIvDIKdQ1YQzFLcohPFvMbM.jpg" group-title="Casa de Davi",Casa de Davi S01 E02
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/708149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Davi S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8GVoGJzPB77qt5jOxotXQYNEmyt.jpg" group-title="Casa de Davi",Casa de Davi S01 E03
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/708150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Davi S01 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg" group-title="Casa de Davi",Casa de Davi S01 E04
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/718905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Davi S01 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg" group-title="Casa de Davi",Casa de Davi S01 E05
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/725125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Davi S01 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg" group-title="Casa de Davi",Casa de Davi S01 E06
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/731556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Davi S01 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg" group-title="Casa de Davi",Casa de Davi S01 E07
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/742862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Davi S01 E08" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg" group-title="Casa de Davi",Casa de Davi S01 E08
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/755799.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 01
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11000.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://www.fontedecanais.app/logos/canais/bbb.png" group-title="Canais | BBB",BBB 02
