@@ -5061,6 +5061,30 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="As Quatro Estações do Amor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3zMWw061NcXTugwIxea2v7xKSyd.jpg" group-title="Filmes | Lancamentos",As Quatro Estações do Amor
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos da Construção do Vaticano" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4JvTiwRoJAAKKsXy25ufatvonag.jpg" group-title="Filmes | Lancamentos",Os Segredos da Construção do Vaticano
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zADNsaXi7qZLvytih1yjrLj0G90.jpg" group-title="Filmes | Lancamentos",Assassino
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela e Eu" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/b4ZzPQPQmktbRem1pmi2vmz9rVL.jpg" group-title="Filmes | Lancamentos",Ela e Eu
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuks 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/r3yxvHMcIsefxh1iELl1EtjNlI5.jpg" group-title="Filmes | Lancamentos",Fuks 2
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Incrível História de Mario Capecchi" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/72wOmD7phuSYvun5NrYA8Js7VDk.jpg" group-title="Filmes | Lancamentos",A Incrível História de Mario Capecchi
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corner Office" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2JOPMnpaaTBvhy0HCby9uSBkt11.jpg" group-title="Filmes | Lancamentos",Corner Office
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exterritorial" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wqllCospPViEt7AeYIl4ZskKdSj.jpg" group-title="Filmes | Lancamentos",Exterritorial
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fã ou Hater?" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/e9iG3bhtXqS3SH4wR9PJdvBYXAZ.jpg" group-title="Filmes | Lancamentos",Fã ou Hater?
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outro Pequeno Favor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8nOxToE7XWYRGMPbrSbaJOEWVTA.jpg" group-title="Filmes | Lancamentos",Outro Pequeno Favor
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rosa de Versalhes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8g8OWKMcE6ciHZxwqIi5ceS5fi5.jpg" group-title="Filmes | Lancamentos",Rosa de Versalhes
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Stand of Ellen Cole" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg" group-title="Filmes | Lancamentos",The Last Stand of Ellen Cole
+http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/788244.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Manobra da Tartaruga" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3xh0rHHptz1P1DL4deG1cK9NZap.jpg" group-title="Filmes | Lancamentos",A Manobra da Tartaruga
 http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/777483.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Acompanhante de Luxo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hEscajEsbJnomruYQJvIwE7TAmX.jpg" group-title="Filmes | Lancamentos",Acompanhante de Luxo
