@@ -1,4 +1,4 @@
-arquivo = "lista_filtrada_movie.m3u"
+arquivo = r"D:\github\tvweb\jpiptv\playtv.m3u"  # note o r antes da string, que trata \ como literal
 
 with open(arquivo, "r", encoding="utf-8") as f:
     linhas = f.readlines()
