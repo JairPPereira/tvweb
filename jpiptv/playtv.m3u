@@ -281,34 +281,24 @@ http://tv.com.vc:80/live/marcos01/marcos01/1730214.ts
 http://tv.com.vc:80/live/marcos01/marcos01/1730215.ts
 #EXTINF:-1 tvg-id="Disney.cl" tvg-name="Disney Plus 1 [HD] Alter" tvg-logo="http://lfpx.club/DPP1" group-title="Canais | Disney Plus",Disney Plus 1 [HD] Alter
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19042.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 1 HD¹
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/59969.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 1 HD²
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/59952.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1  HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 1  HD*
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/62457.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="DISNEY+ 1 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 1 HD ᶜᴰᴺ²
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/162405.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 2 HD¹
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/64734.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 2 HD²
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/59970.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 2 HD*
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18959.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 3 HD¹
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/64707.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 3 HD²
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/59971.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 4 HD¹
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/64708.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 4 HD²
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/297171.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 5 HD¹
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/59972.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 5 HD²
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/297172.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 6 HD²
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/297173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 01 HD" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 01 HD
+http://huloftibu.lol:80/live/236845454/279369114/2030267.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 02 HD" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 02 HD
+http://huloftibu.lol:80/live/236845454/279369114/2030268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 03 HD" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 03 HD
+http://huloftibu.lol:80/live/236845454/279369114/2030269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 1 HD" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 1 HD
+http://huloftibu.lol:80/live/236845454/279369114/2030270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 2 HD" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 2 HD
+http://huloftibu.lol:80/live/236845454/279369114/2030271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 3 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 3 HD²
+http://huloftibu.lol:80/live/236845454/279369114/2030272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 4 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 4 HD²
+http://huloftibu.lol:80/live/236845454/279369114/2030273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 5 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 5 HD²
+http://huloftibu.lol:80/live/236845454/279369114/2030274.ts.
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 6 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 6 HD²
+http://huloftibu.lol:80/live/236845454/279369114/2030275.ts
 #EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil 01" tvg-logo="http://www.fontedecanais.org/logos/canais/powercouplebrasil.png" group-title="Canais | Power Couple Brasil",Power Couple Brasil 01
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11600.ts
 #EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil 02" tvg-logo="http://www.fontedecanais.org/logos/canais/powercouplebrasil.png" group-title="Canais | Power Couple Brasil",Power Couple Brasil 02
