@@ -237,6 +237,34 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 alternativo HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 1²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 1²
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/1010.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 2²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 2²
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/1011.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 3²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 3²
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/1012.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 4²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 4²
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/1013.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 5²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 5²
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/1014.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 6²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 6²
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/1015.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 7²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 7²
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/1016.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 8²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 8²
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/2061198.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 9²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 9²
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/2061199.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 1 HD" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 1 HD
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/196060.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 2 HD" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 2 HD
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/196061.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 3 HD" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 3 HD
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/196062.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 4 HD" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 4 HD
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/196057
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 5 HD" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 5 HD
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/196058.ts
 #EXTINF:-1 tvg-id="" tvg-name="• Disney+ 01" tvg-logo="https://i.imgur.com/aM7DoL0.png" group-title="CANAIS DISNEY + FORMIGA",• Disney+ 01
 http://iron.cshunter.site:80/live/Formigatv/59629241/1542307.ts
 #EXTINF:-1 tvg-id="" tvg-name="• Disney+ 02" tvg-logo="https://i.imgur.com/aM7DoL0.png" group-title="CANAIS DISNEY + FORMIGA",• Disney+ 02
@@ -297,8 +325,6 @@ http://tv.com.vc:80/live/marcos01/marcos01/1730213.ts
 http://tv.com.vc:80/live/marcos01/marcos01/1730214.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 9 | FONTE 2" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 9 | FONTE 2
 http://tv.com.vc:80/live/marcos01/marcos01/1730215.ts
-#EXTINF:-1 tvg-id="Disney.cl" tvg-name="Disney Plus 1 [HD] Alter" tvg-logo="http://lfpx.club/DPP1" group-title="Canais | Disney Plus",Disney Plus 1 [HD] Alter
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19042.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 01 HD" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 01 HD
 http://huloftibu.lol:80/live/236845454/279369114/2030267.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 02 HD" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 02 HD
