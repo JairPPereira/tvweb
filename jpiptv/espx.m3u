@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ESPX1" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="CANAIS | ESPX",ESPX1 alternativo HD³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22001.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX2" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="CANAIS | ESPX",ESPX2 alternativo HD³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22004.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX3 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="CANAIS | ESPX",ESPX3 alternativo HD³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22007.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX4 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="CANAIS | ESPX",ESPX4 alternativo HD³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22010.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX5 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="CANAIS | ESPX",ESPX5 HD³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX5 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="CANAIS | ESPX",ESPX5 alternativo HD³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX6 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="CANAIS | ESPX",ESPX6 alternativo HD³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Z3pJGCsGEXrm8XF/download/ESPX.png" group-title="CANAIS | ESPX",ESPX FHD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/404920.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Z3pJGCsGEXrm8XF/download/ESPX.png" group-title="CANAIS | ESPX",ESPX HD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/404919.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Z3pJGCsGEXrm8XF/download/ESPX.png" group-title="CANAIS | ESPX",ESPX SD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/141540.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX 2 FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5YXNxEMAnWdnMWf/download/ESPX2.png" group-title="CANAIS | ESPX",ESPX 2 FHD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/337727.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX 2 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5YXNxEMAnWdnMWf/download/ESPX2.png" group-title="CANAIS | ESPX",ESPX 2 HD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/404921.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX 2 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5YXNxEMAnWdnMWf/download/ESPX2.png" group-title="CANAIS | ESPX",ESPX 2 SD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/337725.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX 3 FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QyCSiBPr3YbS24Z/download/ESPX3.png" group-title="CANAIS | ESPX",ESPX 3 FHD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/338057.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX 3 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QyCSiBPr3YbS24Z/download/ESPX3.png" group-title="CANAIS | ESPX",ESPX 3 HD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/338056.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX 3 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QyCSiBPr3YbS24Z/download/ESPX3.png" group-title="CANAIS | ESPX",ESPX 3 SD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/337728.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX 4 FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2mPwXnjXQ7KA3oQ/download/ESPX4.png" group-title="CANAIS | ESPX",ESPX 4 FHD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/141559.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX 4 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2mPwXnjXQ7KA3oQ/download/ESPX4.png" group-title="CANAIS | ESPX",ESPX 4 HD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/404924.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX 4 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2mPwXnjXQ7KA3oQ/download/ESPX4.png" group-title="CANAIS | ESPX",ESPX 4 SD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/141544.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPX EXTRA HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/W2oD8KFWrdTwJfr/download/ESPXextra.png" group-title="CANAIS | ESPX",ESPX EXTRA HD
+http://dfkkh.dtwkaf.xyz:80/live/555938735/144924784/404925.ts
