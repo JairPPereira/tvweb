@@ -2261,6 +2261,42 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="Contagem regressiva: Katie Taylor vs. Amanda Serrano" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lFsLbXGuMiH9ZAYy3O22ccwDsDH.jpg" group-title="Filmes | Lancamentos",Contagem regressiva: Katie Taylor vs. Amanda Serrano
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inferno na montanha" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tmw47lSildm6BKRdzCyjibM8Tud.jpg" group-title="Filmes | Lancamentos",Inferno na montanha
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desastre Total: O Verdadeiro Projeto X" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1btqv0ZOkgyWvS8CwxXm0AokljQ.jpg" group-title="Filmes | Lancamentos",Desastre Total: O Verdadeiro Projeto X
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Faixa Preta" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tdXSgI3jxRbZOoBWxvpnMjkRfBV.jpg" group-title="Filmes | Lancamentos",O Faixa Preta
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Procura-se" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5S10EC500Gy0jSP2RJsiVNLamrP.jpg" group-title="Filmes | Lancamentos",Procura-se
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Floresta Misteriosa" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lRYfzeaFTNkyWl2TOfPVk0m5ndA.jpg" group-title="Filmes | Lancamentos",Uma Floresta Misteriosa
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha de um Guerreiro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kd0ZTb0jxklGQBhRt1eyE6tTVy6.jpg" group-title="Filmes | Lancamentos",A Batalha de um Guerreiro
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Boa Esperança" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6w2c7gdPucFCMDtX8REjrputVcb.jpg" group-title="Filmes | Lancamentos",A Ilha da Boa Esperança
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Achados Não Procurados" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mCcmUbCTyWkLLwAwItM3a0q2LyT.jpg" group-title="Filmes | Lancamentos",Achados Não Procurados
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brick" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6ZbhhKyb1QF8Rj8lzOZ74Hm5YKS.jpg" group-title="Filmes | Lancamentos",Brick
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablo: Caçada Mortal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7F14PGXPEZCJ1Fj0wC1EtzVemkD.jpg" group-title="Filmes | Lancamentos",Diablo: Caçada Mortal
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amigo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1FD291zwq6mFOU2VXY8EGm4gBER.jpg" group-title="Filmes | Lancamentos",O Amigo
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Horla" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sZ9ma9RQdhu2GM1no3EfcyPYaKA.jpg" group-title="Filmes | Lancamentos",O Horla
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Peso de Um Sonho" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2G79AfMBS3ClLZL26YFvfkZqKzk.jpg" group-title="Filmes | Lancamentos",O Peso de Um Sonho
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo de Lyla" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kzbKcWmge20gbD1hnsUVILHRvsv.jpg" group-title="Filmes | Lancamentos",O Segredo de Lyla
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onde Está Rose?" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zJc9IPykvZPKeRzdYolrWjSaXDQ.jpg" group-title="Filmes | Lancamentos",Onde Está Rose?
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas por Uma" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jH9svdL2PPvbmAgxShMny3CBBGg.jpg" group-title="Filmes | Lancamentos",Todas por Uma
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Vida Inteira" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/owHOn8uCmS1g0Zhv142CrQzAVo.jpg" group-title="Filmes | Lancamentos",Uma Vida Inteira
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863129.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Encantadora de Tubarões" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bv2E8awRWPqR0wSUQru9yBCHbA8.jpg" group-title="Filmes | Lancamentos",Encantadora de Tubarões
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860398.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hurry Up Tomorrow: Além dos Holofotes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jZJgfez0ilFqtJKljCigK4YbB1v.jpg" group-title="Filmes | Lancamentos",Hurry Up Tomorrow: Além dos Holofotes
@@ -9619,7 +9655,7 @@ http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/653820.mp4
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/653819.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Chamado Especial" tvg-logo="http://gstaticontent.com/images/b0hzeCAls3n9i0ImaMMPsGY2hYL_big.jpg" group-title="Filmes | Drama",Um Chamado Especial
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/653818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Físico" tvg-logo="http://gstaticontent.com/images/6koFQEuyZKNYcBMSVEHYtAeIpUE_big.jpg" group-title="Filmes | Drama",O Físico
+#EXTINF:-1 tvg-id="" tvg-name="O Físico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDd2AW6VlFtXUJa2ZqgdP7vVKKz.jpg" group-title="Filmes | Drama",O Físico
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/653817.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Escândalo" tvg-logo="http://gstaticontent.com/images/s7DTu2TAOzIcunFtFyqzyYoICiy_big.jpg" group-title="Filmes | Drama",O Escândalo
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/653816.mp4
