@@ -2261,6 +2261,44 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="Conversando sobre Round 6" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wwqUmwS4zBIpE5mSlkBXp8zSPud.jpg" group-title="Filmes | Lancamentos",Conversando sobre Round 6
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gorongosa: O Paraíso Renasce" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/y2pa1hNPVWeDvdXdaEFkk8P6NYd.jpg" group-title="Filmes | Lancamentos",Gorongosa: O Paraíso Renasce
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alguém Especial como Você" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2jqvgFXa1bHaTnzGFJOFqnb627s.jpg" group-title="Filmes | Lancamentos",Alguém Especial como Você
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Impiedoso" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/u7OmLo3OQp8fpG4uRHl1PZ8yPTh.jpg" group-title="Filmes | Lancamentos",Impiedoso
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madea e o Casamento nas Bahamas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1efas2epb0eEIUAFDZWM60ttVGN.jpg" group-title="Filmes | Lancamentos",Madea e o Casamento nas Bahamas
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Bad Boas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sCMbtE4Owgbgndty07jCA7wH08F.jpg" group-title="Filmes | Lancamentos",Os Bad Boas
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Thicket" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wRX76fUytd9paIMjh6r04NFiOi4.jpg" group-title="Filmes | Lancamentos",The Thicket
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ZOMBIES 4: A Era dos Vampiros" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mWB82SutBzkJgqgUGd6dpetzxWb.jpg" group-title="Filmes | Lancamentos",ZOMBIES 4: A Era dos Vampiros
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apocalipse nos Trópicos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/20RAp7hrgDIol9tPlAsatFwzHGN.jpg" group-title="Filmes | Lancamentos",Apocalipse nos Trópicos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DJ Ice Cream" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ehx0LUcjTA0bX0gwerLdkKkGfjd.jpg" group-title="Filmes | Lancamentos",DJ Ice Cream
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enterre-me Quando Eu Morrer" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8R1vPXPpftsrX1TxUD5M1W0KvTS.jpg" group-title="Filmes | Lancamentos",Enterre-me Quando Eu Morrer
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kaiju No. 8: Missão de Reconhecimento" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5xFbaAZIprcOD1iBP7vlQ08OM7c.jpg" group-title="Filmes | Lancamentos",Kaiju No. 8: Missão de Reconhecimento
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem sem Passado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cAD91IuCDvjJoWtePdRrc0I3BIl.jpg" group-title="Filmes | Lancamentos",Um Homem sem Passado
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vera e o Prazer dos Outros" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/r6yrIqapItcNVLQ6inyQg2XZkXW.jpg" group-title="Filmes | Lancamentos",Vera e o Prazer dos Outros
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinato nas Minas Carter" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ztI8hqxP4kGoht89B9AlXChLokV.jpg" group-title="Filmes | Lancamentos",Assassinato nas Minas Carter
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desastre Total: Garoto do Balão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4QpWZlGZMYrAnlQizjVIMnAXnv0.jpg" group-title="Filmes | Lancamentos",Desastre Total: Garoto do Balão
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karatê Kid: Lendas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gnuSSOVBVWlKL8dFEGKRoOiiKTS.jpg" group-title="Filmes | Lancamentos",Karatê Kid: Lendas
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madame Durocher" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gm87LZGqCkwJCO0ugOTBOyH5cwT.jpg" group-title="Filmes | Lancamentos",Madame Durocher
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por um Momento, Para Sempre" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xgEW4KUfUzTTNM0Kw9kPI7M6gcT.jpg" group-title="Filmes | Lancamentos",Por um Momento, Para Sempre
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868926.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Contagem regressiva: Katie Taylor vs. Amanda Serrano" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lFsLbXGuMiH9ZAYy3O22ccwDsDH.jpg" group-title="Filmes | Lancamentos",Contagem regressiva: Katie Taylor vs. Amanda Serrano
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/863146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Inferno na montanha" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tmw47lSildm6BKRdzCyjibM8Tud.jpg" group-title="Filmes | Lancamentos",Inferno na montanha
@@ -3095,7 +3133,7 @@ http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/818250.mp4
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803851.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Justiceiro Estrada do Caos" tvg-logo="http://gstaticontent.com/images/2YYxSzOq66PEOppuQ2XxWm0QRDf_big.jpg" group-title="Filmes | Acao",O Justiceiro Estrada do Caos
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Carga" tvg-logo="http://gstaticontent.com/images/l69vmy7RaPMRKOHTE5U40unE8j_big.jpg" group-title="Filmes | Acao",A Carga
+#EXTINF:-1 tvg-id="" tvg-name="A Carga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIHqEw6TZIRS9AhifauEoIiyBz5.jpg" group-title="Filmes | Acao",A Carga
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803849.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pokemon Detective Pikachu" tvg-logo="http://gstaticontent.com/images/lHwEhsUaB9D0gXO6M08H5tdb2Vx_big.jpg" group-title="Filmes | Acao",Pokemon Detective Pikachu
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803848.mp4
@@ -3105,7 +3143,7 @@ http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803847.mp4
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803846.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Testemunhas Silenciosas" tvg-logo="http://gstaticontent.com/images/o31Mwup2EQAygdjCez21hOXN0ZG_big.jpg" group-title="Filmes | Acao",Testemunhas Silenciosas
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Busca do Paraiso" tvg-logo="http://gstaticontent.com/images/qpsjIxuGXRbiWPwRv0iDfOpXcwh_big.jpg" group-title="Filmes | Acao",Em Busca do Paraiso
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca do Paraiso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpsjIxuGXRbiWPwRv0iDfOpXcwh.jpg" group-title="Filmes | Acao",Em Busca do Paraiso
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803844.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Homem de Lugar Nenhum" tvg-logo="http://gstaticontent.com/images/14QbjXp8m3LN9l1U4SoBWy441kr_big.jpg" group-title="Filmes | Acao",O Homem de Lugar Nenhum
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803843.mp4
@@ -3149,7 +3187,7 @@ http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803825.mp4
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803824.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pipeline: O Grande Roubo" tvg-logo="http://gstaticontent.com/images/9ecf4bb7802797f1a317cbdac1675353.jpg" group-title="Filmes | Acao",Pipeline: O Grande Roubo
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Greenfield - Segredos Explosivos" tvg-logo="http://gstaticontent.com/images/1206ae3fd423eec8ab9d1fec1e9fbd66.jpg" group-title="Filmes | Acao",Greenfield - Segredos Explosivos
+#EXTINF:-1 tvg-id="" tvg-name="Greenfield - Segredos Explosivos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap7H5zUnufAsfDGA0kOEmCgxW5r.jpg" group-title="Filmes | Acao",Greenfield - Segredos Explosivos
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803822.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Roda de Fogo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aw2yvnfqwTumWzvFO78hWUhDcwE.jpg" group-title="Filmes | Acao",Roda de Fogo
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/803821.mp4
@@ -26939,7 +26977,7 @@ http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/645178.mp4
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/645177.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Meu Odio Sera Sua Heranca" tvg-logo="http://gstaticontent.com/images/sNf1qeHqTcHs7jREU6K7DNaWMx_big.jpg" group-title="Filmes | Faroeste",Meu Odio Sera Sua Heranca
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/645176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tombstone A Justiça Está Chegando" tvg-logo="http://gstaticontent.com/images/sEthjkLxhKY64GJOI4KUqWfmLou_big.jpg" group-title="Filmes | Faroeste",Tombstone A Justiça Está Chegando
+#EXTINF:-1 tvg-id="" tvg-name="Tombstone A Justiça Está Chegando" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DQe3q5SqapTPhIMWaZvOJHDhcY.jpg" group-title="Filmes | Faroeste",Tombstone A Justiça Está Chegando
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/645175.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wyatt Earp" tvg-logo="http://gstaticontent.com/images/51LItgyecu2KMAtIchYogEykCIu_big.jpg" group-title="Filmes | Faroeste",Wyatt Earp
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/645174.mp4
@@ -27015,7 +27053,7 @@ http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/645140.mp4
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/645139.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jonah Hex: Caçador de Recompensas" tvg-logo="http://gstaticontent.com/images/953c7f0c444d6fcbce1cd41fb3a6c725.jpg" group-title="Filmes | Faroeste",Jonah Hex: Caçador de Recompensas
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/645138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tombstone: A Justiça Está Chegando" tvg-logo="http://gstaticontent.com/images/d3d10fd3a6b76271e331a76e82632eef.jpg" group-title="Filmes | Faroeste",Tombstone: A Justiça Está Chegando
+#EXTINF:-1 tvg-id="" tvg-name="Tombstone: A Justiça Está Chegando" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DQe3q5SqapTPhIMWaZvOJHDhcY.jpg" group-title="Filmes | Faroeste",Tombstone: A Justiça Está Chegando
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/645137.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Território Hostil" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/nJTzX2LmbRlsH2rnWYZCyigTdUd.jpg" group-title="Filmes | Faroeste",Território Hostil
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/645136.mp4
