@@ -2261,6 +2261,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="O Último Rodeio" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cpATW9o83IwYqPkiT7WLqL2jxlF.jpg" group-title="Filmes | Lancamentos",O Último Rodeio
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/869122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despertar dos Mortos Vivos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jDskPIzjRFUvAJ4HQU6McXVq0j6.jpg" group-title="Filmes | Lancamentos",Despertar dos Mortos Vivos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/869121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My True Fairytale" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9eSC31L6tAmDk7hfqhjG9PYxiiX.jpg" group-title="Filmes | Lancamentos",My True Fairytale
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/869120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Caçador de Espíritos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rHOg5BXOpoz6vAHwg87IYNEZxjT.jpg" group-title="Filmes | Lancamentos",O Caçador de Espíritos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/869119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdão em Tempos de Guerra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7QjSpN7AqcJJv6Cf91HIC7R1Ox3.jpg" group-title="Filmes | Lancamentos",Perdão em Tempos de Guerra
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/869118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abá e Sua Banda" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rGluuqq7HjlYTOeFxGejHPo2eU0.jpg" group-title="Filmes | Lancamentos",Abá e Sua Banda
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/869117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Treinar o Seu Dragão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg" group-title="Filmes | Lancamentos",Como Treinar o Seu Dragão
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/869116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viajantes Destemidos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/r7cri0n1mG2LZAH7o4iQiOp9CV8.jpg" group-title="Filmes | Lancamentos",Viajantes Destemidos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/869115.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Conversando sobre Round 6" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wwqUmwS4zBIpE5mSlkBXp8zSPud.jpg" group-title="Filmes | Lancamentos",Conversando sobre Round 6
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/868944.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gorongosa: O Paraíso Renasce" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/y2pa1hNPVWeDvdXdaEFkk8P6NYd.jpg" group-title="Filmes | Lancamentos",Gorongosa: O Paraíso Renasce
