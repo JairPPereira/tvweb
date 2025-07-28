@@ -479,46 +479,40 @@ http://opbx.xyz:80/live/techsat/1234567/439643.ts
 http://opbx.xyz:80/live/techsat/1234567/439644.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY 07" tvg-logo="https://i.ibb.co/FmzXg7w/disney.png" group-title="DISNEY TECHSAT",DISNEY 07
 http://opbx.xyz:80/live/techsat/1234567/439645.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 | FONTE 1" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 1 | FONTE 1
-http://tv.com.vc:80/live/Rubens/12345/2245910.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 | FONTE 2" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 1 | FONTE 2
-http://tv.com.vc:80/live/Rubens/12345/1729921.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 | FONTE 3" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 1 | FONTE 3
-http://tv.com.vc:80/live/Rubens/12345/2247249.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 | FONTE 1" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 2 | FONTE 1
-http://tv.com.vc:80/live/Rubens/12345/2245911.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 | FONTE 2" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 2 | FONTE 2
-http://tv.com.vc:80/live/Rubens/12345/1729248.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 | FONTE 3" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 2 | FONTE 3
-http://tv.com.vc:80/live/Rubens/12345/2247250.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 | FONTE 1" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 3 | FONTE 1
-http://tv.com.vc:80/live/Rubens/12345/2245912.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 | FONTE 2" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 3 | FONTE 2
-http://tv.com.vc:80/live/Rubens/12345/1729249.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 | FONTE 3" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 3 | FONTE 3
-http://tv.com.vc:80/live/Rubens/12345/2247251.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 | FONTE 1" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 4 | FONTE 1
-http://tv.com.vc:80/live/Rubens/12345/2245913.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 | FONTE 2" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 4 | FONTE 2
-http://tv.com.vc:80/live/Rubens/12345/1729919.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 | FONTE 3" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 4 | FONTE 3
-http://tv.com.vc:80/live/Rubens/12345/2247252.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 | FONTE 1" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 5 | FONTE 1
-http://tv.com.vc:80/live/Rubens/12345/2245914.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 | FONTE 2" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 5 | FONTE 2
-http://tv.com.vc:80/live/Rubens/12345/1729920.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 | FONTE 3" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 5 | FONTE 3
-http://tv.com.vc:80/live/Rubens/12345/2247254.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 | FONTE 1" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 6 | FONTE 1
-http://tv.com.vc:80/live/Rubens/12345/2245920.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 | FONTE 2" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 6 | FONTE 2
-http://tv.com.vc:80/live/Rubens/12345/1730212.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 7 | FONTE 2" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 7 | FONTE 2
-http://tv.com.vc:80/live/Rubens/12345/1730213.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 8 | FONTE 2" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 8 | FONTE 2
-http://tv.com.vc:80/live/Rubens/12345/1730214.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 9 | FONTE 2" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 9 | FONTE 2
-http://tv.com.vc:80/live/Rubens/12345/1730215.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY + 1 HD¹" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY + 1 HD¹
+http://oneneweasy.site:80/live/Avelino/Avelino/233165.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY + 2 HD¹" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY + 2 HD¹
+http://oneneweasy.site:80/live/Avelino/Avelino/233166.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY + 3 HD¹" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY + 3 HD¹
+http://oneneweasy.site:80/live/Avelino/Avelino/233167.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY + 4 HD¹" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY + 4 HD¹
+http://oneneweasy.site:80/live/Avelino/Avelino/233168.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 01 FHD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 01 FHD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232847.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 1 HD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232852.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 02 FHD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 02 FHD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232848.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 2 HD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232853.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 03 FHD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 03 FHD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232849.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 3 HD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232854.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 04 FHD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 04 FHD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232850.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 4 HD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232855.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 05 FHD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 05 FHD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232851.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 5 HD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232856.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 HD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 6 HD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232857.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 7 HD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 7 HD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232858.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 8 HD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 8 HD²
+http://oneneweasy.site:80/live/Avelino/Avelino/232859.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 01 HD" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 01 HD
 http://dfkkh.dtwkaf.xyz:80/live/236845454/279369114/2030267.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 02 HD" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="DISNEY+",Disney+ 02 HD
