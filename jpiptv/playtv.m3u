@@ -2285,6 +2285,42 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="Anjos Do Desierto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/53AsjyPqKzzSrgM0knGyultJmAo.jpg" group-title="Filmes | Lancamentos",Anjos Do Desierto
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brazilian Beats" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zeJDK5LjTPSjRqyximeUXw0IAlK.jpg" group-title="Filmes | Lancamentos",Brazilian Beats
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brazilian Beats 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dN529XoNzeB0y8ocvAX74ObXgdT.jpg" group-title="Filmes | Lancamentos",Brazilian Beats 2
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Na Minha Vida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gGfvfe6ElJboG5cIStM6ixzxV1W.jpg" group-title="Filmes | Lancamentos",Era Uma Vez Na Minha Vida
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mirador" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3SsoNImMKkQxMh4etZGIScFobky.jpg" group-title="Filmes | Lancamentos",Mirador
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mkQDVmNaOn81Kny7XLJUAi1agbH.jpg" group-title="Filmes | Lancamentos",Monster
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Misterioso Desaparecimento de Amelia Earhart" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fdTOcKWfxRYy5MhKPO2qlhXUhyu.jpg" group-title="Filmes | Lancamentos",O Misterioso Desaparecimento de Amelia Earhart
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Universo Entre Nós" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tcSDADyRH0IAs2wGSoCvwrMc14d.jpg" group-title="Filmes | Lancamentos",Um Universo Entre Nós
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Mulher Comum" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/p8QqvttODrPYdJLjAUvcUsJtDTD.jpg" group-title="Filmes | Lancamentos",Uma Mulher Comum
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Código de Ética" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zNUR5VWzU1VNM1JAAHIb46588Ke.jpg" group-title="Filmes | Lancamentos",Código de Ética
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desastre Total: Mães Detetives" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/csOvaHFzHmVZy7R1ZYEkNUaKG5C.jpg" group-title="Filmes | Lancamentos",Desastre Total: Mães Detetives
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Slime - Uma Aventura Pegajosa 4" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/il1ydHw0SbPkNTiFeqaQAFC6Qi5.jpg" group-title="Filmes | Lancamentos",Slime - Uma Aventura Pegajosa 4
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Golfe 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg" group-title="Filmes | Lancamentos",Um Maluco no Golfe 2
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nas Areias de Ibiza" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2eNommA60rHFMk7WW6TkJJZECfB.jpg" group-title="Filmes | Lancamentos",Nas Areias de Ibiza
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Clã das Jiboias: O Jiu-Jitsu da Amazônia para o Mundo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/q8GZKtNiazmP8P4dNoCaA9UsywF.jpg" group-title="Filmes | Lancamentos",O Clã das Jiboias: O Jiu-Jitsu da Amazônia para o Mundo
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien Sharks: Ghosts of Japan" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5RZHDXIJZerMyUYEuZoAzu13byy.jpg" group-title="Filmes | Lancamentos",Alien Sharks: Ghosts of Japan
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betânia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/z2cU28Acns5WP7y8PzGvGjl2V2Z.jpg" group-title="Filmes | Lancamentos",Betânia
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras de um Crime" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vRSbYibtGcEYBFfCAkkvSCF9eES.jpg" group-title="Filmes | Lancamentos",Sombras de um Crime
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/875055.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Família, Pero no Mucho" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mNAb8OTrlhW5eFwlsPUW3CRXCXh.jpg" group-title="Filmes | Lancamentos",Família, Pero no Mucho
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/873060.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jogos de Sedução" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/s91PuVwq8jwDtrCWjkpF63rZgyX.jpg" group-title="Filmes | Lancamentos",Jogos de Sedução
@@ -4155,7 +4191,7 @@ http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/762937.mp4
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/762936.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sobrou Pra Você" tvg-logo="http://gstaticontent.com/images/wkVUxZbCXLHgfFf98q8VcjscJXs_big.jpg" group-title="Filmes | Comedia",Sobrou Pra Você
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/762935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sonho Olímpico." tvg-logo="http://gstaticontent.com/images/mQxTK2Tg8YKNJFpg6bt48IoG7py_big.jpg" group-title="Filmes | Comedia",Sonho Olímpico.
+#EXTINF:-1 tvg-id="" tvg-name="Sonho Olímpico." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQxTK2Tg8YKNJFpg6bt48IoG7py.jpg" group-title="Filmes | Comedia",Sonho Olímpico.
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/762934.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Murilo Couto" tvg-logo="http://gstaticontent.com/images/c8b918c355eaacfc57d990dc48a1fc47.jpg" group-title="Filmes | Comedia",Murilo Couto
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/762933.mp4
