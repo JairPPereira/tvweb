@@ -97,198 +97,234 @@ https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Século 21" tvg-name="TV Século 21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXuL_DJFsAuv-WzUnMni-KIQGG171A_4O5SLueVn75MKw4EYOvtuCBvFJQ6Os0Gmr4V4lVR7jmLUXJa2EDnVn9nGwhMw3hA4OVYIM-6Sajg-ZrPCicv2nNY4rf4Vie4HDSgVSfJ-buy96k8jPLWIOUQDrtB88HJUnP2OnjR0YYeJnbjc4WowyiFZ49=s200" group-title="CANAIS | CATÓLICOS",TV Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E01
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161359.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E02
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161360.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E03
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161361.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sHL8mqomWssOwMQ8X9QrtYIcnIY.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E04
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ctHmzzwJiK6VhqyTxu3ULwny12.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E05
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d2f8KO1L2h7qGSYO5jVqO0A9tb8.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E06
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u1sUhEvgCMGhOt4EaBiXuAx1m5i.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E07
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iG4DrM0YT8ajwwycZu4RRb9e2zu.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E08
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/muaPkaQ6PFU46fr492PAu5SXnb3.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E09
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/akbDt4LlQ6oveT6kNGulI5KXh8h.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E10
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dsDIUUDGUuIwuO4o5MZMYRjJC8i.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E11
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xCkynbjeAdNQXRz6SlOwrISNaM2.jpg" group-title="O Incrível Hulk",O Incrível Hulk S01 E12
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161370.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E01
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161371.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E02
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161372.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jpyHydlmdxDL5cf0MwtJrIJyH49.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E03
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9mq0xjgt8oPWdxExzymPUGQVAfR.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E04
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bHxSxrhrpkRY3nSirF1iYApSL9E.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E05
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E06
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E07
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161377.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E08" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E08
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161378.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E09" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E09
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E10" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E10
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E11" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E11
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E12" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E12
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E13" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E13
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E14" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E14
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E15" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E15
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E16" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E16
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E17" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E17
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E18" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E18
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E19" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E19
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E20" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E20
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E21" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E21
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E22" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S02 E22
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E01
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E02
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161394.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E03
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161395.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E04
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E05
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E06
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E07
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161399.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E08" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E08
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161400.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E09" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E09
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161401.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E10" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E10
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E11" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E11
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E12" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E12
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E13" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E13
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E14" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E14
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161406.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E15" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E15
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161407.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E16" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E16
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E17" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E17
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E18" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E18
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161410.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E19" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E19
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E20" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E20
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E21" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E21
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E22" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E22
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E23" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S03 E23
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E01
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161416.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E02
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E03
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E04
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E05
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E06
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E07
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E08" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E08
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E09" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E09
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E10" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E10
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E11" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E11
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E12" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E12
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E13" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E13
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E14" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E14
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E15" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E15
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E16" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E16
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E17" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E17
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E18" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S04 E18
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S05 E01
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S05 E02
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S05 E03
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S05 E04
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S05 E05
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S05 E06
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="O Incrível Hulk",O Incrível Hulk S05 E07
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/161440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ladroes de Drogas S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg" group-title="Ladroes de Drogas",Ladroes de Drogas S01 E01
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/724253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ladroes de Drogas S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg" group-title="Ladroes de Drogas",Ladroes de Drogas S01 E02
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/730021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ladroes de Drogas S01 E03" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg" group-title="Ladroes de Drogas",Ladroes de Drogas S01 E03
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/730465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ladroes de Drogas S01 E04" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg" group-title="Ladroes de Drogas",Ladroes de Drogas S01 E04
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/751896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ladroes de Drogas S01 E05" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg" group-title="Ladroes de Drogas",Ladroes de Drogas S01 E05
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/760113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ladroes de Drogas S01 E06" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg" group-title="Ladroes de Drogas",Ladroes de Drogas S01 E06
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/766634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ladroes de Drogas S01 E07" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg" group-title="Ladroes de Drogas",Ladroes de Drogas S01 E07
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/775693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ladroes de Drogas S01 E08" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg" group-title="Ladroes de Drogas",Ladroes de Drogas S01 E08
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/780119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coracao de Ferro S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg" group-title="Coracao de Ferro",Coracao de Ferro S01 E01
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/855231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coracao de Ferro S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg" group-title="Coracao de Ferro",Coracao de Ferro S01 E02
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/855232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coracao de Ferro S01 E03" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg" group-title="Coracao de Ferro",Coracao de Ferro S01 E03
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/855233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coracao de Ferro S01 E04" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg" group-title="Coracao de Ferro",Coracao de Ferro S01 E04
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/857512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coracao de Ferro S01 E05" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg" group-title="Coracao de Ferro",Coracao de Ferro S01 E05
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/857513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coracao de Ferro S01 E06" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg" group-title="Coracao de Ferro",Coracao de Ferro S01 E06
-http://sinalprivado.info:80/series/632035/GqGcFV4ntu/857514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg" group-title="Os Thundermans",Os Thundermans S01 E01
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg" group-title="Os Thundermans",Os Thundermans S01 E02
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E03" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg" group-title="Os Thundermans",Os Thundermans S01 E03
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E04" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E04
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E05" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E05
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E06" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E06
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E07" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E07
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E08" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E08
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E09" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E09
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E10" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E10
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E11" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E11
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E12" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E12
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E13" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E13
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E14" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E14
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E15" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E15
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E16" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E16
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E17" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E17
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E18" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E18
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E19" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E19
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E20" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E20
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E01" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E01
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E02" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E02
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E03" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E03
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E04" tvg-logo="http://timg.bdta.pro/images/8a6b653e8aa1bbbf12242b972beae1bb.jpg" group-title="Os Thundermans",Os Thundermans S02 E04
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E05" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E05
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E06" tvg-logo="http://timg.bdta.pro/images/60b83479e88abf9126d076d8b4da451b.jpg" group-title="Os Thundermans",Os Thundermans S02 E06
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E07" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E07
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E08" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E08
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E09" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E09
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E10" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E10
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E11" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E11
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E12" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E12
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E13" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E13
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E14" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E14
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E15" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E15
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E16" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E16
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E17" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E17
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E18" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E18
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E19" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E19
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E20" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E20
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E21" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E21
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E22" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E22
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E23" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E23
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S02 E24" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S02 E24
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E01" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E01
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E02" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E02
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E03" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E03
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E04" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E04
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E05" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E05
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E06" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E06
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E07" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E07
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E08" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E08
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E09" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E09
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E10" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E10
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E11" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E11
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E12" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E12
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E13" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E13
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E14" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E14
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E15" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E15
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E16" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E16
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E17" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E17
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E18" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E18
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E19" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E19
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E20" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E20
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E21" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E21
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E22" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E22
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E23" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E23
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E24" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E24
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S03 E25" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S03 E25
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E01" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E01
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E02" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E02
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E03" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E03
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E04" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E04
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E05" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E05
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E06" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E06
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E07" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E07
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E08" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E08
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E09" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E09
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E10" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E10
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E11" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E11
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E12" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E12
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E13" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E13
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E14" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E14
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E15" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E15
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E16" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E16
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E17" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E17
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E18" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E18
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E19" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E19
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E20" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E20
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E21" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E21
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E22" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E22
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E23" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E23
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E24" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E24
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E25" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E25
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E26" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E26
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E27" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E27
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E28" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E28
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E29" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E29
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E30" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E30
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E31" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E31
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E32" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E32
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/sdXP4dZggPUsYK3CoQxZuTc0hrW.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E01
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/sdXP4dZggPUsYK3CoQxZuTc0hrW.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E02
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/arorI3OCa82ZeTq4a1QYQ6EADWt.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E03
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nEmJQkVrgkHbFCGsGVz7vvZtYcO.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E04
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tYVHdpyYiruMu2nQA84IfVeeAsH.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E05
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pJY0Ofdexv7mkLu11BDT5qLG0XL.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E06
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1IuzcVhTuSYQhG8jiFy1u1JmEzV.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E07
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E08" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wtyDIyjp0Hd5Prz2nEPETvZfIj4.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E08
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E09" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aIwlLYbi8oUqcq4ZdAL0DN2WtV3.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E09
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E10" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jMR29zIPkrtD6L8qLJeS2mToRPO.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E10
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E11" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sdXP4dZggPUsYK3CoQxZuTc0hrW.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E11
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E12" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sdXP4dZggPUsYK3CoQxZuTc0hrW.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E12
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E13" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sdXP4dZggPUsYK3CoQxZuTc0hrW.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E13
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874825.mp4
 #EXTINF:-1 tvg-id="JP NEWS HD³" tvg-name="JP NEWS HD³" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25010.ts
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL HD³" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD³
