@@ -2417,6 +2417,56 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="A Última Missão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/d6Dxr0Euzh8cGzkJ8h7unBX3A8l.jpg" group-title="Filmes | Lancamentos",A Última Missão
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sala Escura" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cFWf7khqYRxHI9vLdf9XQKBPoYw.jpg" group-title="Filmes | Lancamentos",Sala Escura
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Entre Cactos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dg8FSbFpHJecWA7RGjKjDwaWrJO.jpg" group-title="Filmes | Lancamentos",A Casa Entre Cactos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Nos Ajude!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1peyXYEPGjUHbm6IE2Njt8zC1AJ.jpg" group-title="Filmes | Lancamentos",Deus Nos Ajude!
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grand Finale" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aoUxoTjiA9mh9Y92TFO877tRicp.jpg" group-title="Filmes | Lancamentos",Grand Finale
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Recomeço" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pSWohRJyjCCCtO7OC50uxzkwUvg.jpg" group-title="Filmes | Lancamentos",Jurassic World: Recomeço
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jardim de Isabel" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fToDKEYZGe1QhiYi9Ei0CszLr3W.jpg" group-title="Filmes | Lancamentos",O Jardim de Isabel
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério da Rodovia River" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tqbGrJw1ucJJobS9N0KytIvChna.jpg" group-title="Filmes | Lancamentos",O Mistério da Rodovia River
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Exclusão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xCdCaYX3ZQjuFYWB21GjV3GJ4oq.jpg" group-title="Filmes | Lancamentos",Zona de Exclusão
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Única Sobrevivente" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nreStPF08Bd5RYH4gjbXVh59XAu.jpg" group-title="Filmes | Lancamentos",A Única Sobrevivente
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diamantes Roubados: O Golpe do Século" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2CiyKBLYgXgJTO8ABrolVStRqvY.jpg" group-title="Filmes | Lancamentos",Diamantes Roubados: O Golpe do Século
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Elenco da Morte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xN9kzZ1DxjxyUvCNuNreTdHFFdF.jpg" group-title="Filmes | Lancamentos",O Elenco da Morte
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prateados: A Vida em Tempos de Madureza" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/46Zi7PrxfnQoFZzcoejLcqg1YD9.jpg" group-title="Filmes | Lancamentos",Prateados: A Vida em Tempos de Madureza
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Verão Infernal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nBo3cabYexofo5rO6ve47JCshVP.jpg" group-title="Filmes | Lancamentos",Um Verão Infernal
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Pode Me Ouvir?" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eGyX2uMt8Q7wUHv2bpLcJnwzdnG.jpg" group-title="Filmes | Lancamentos",Você Pode Me Ouvir?
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Osiris" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9xqWda3KWuGWxNyoqlOlEzEzPmd.jpg" group-title="Filmes | Lancamentos",Osiris
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prédio Vazio" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iOJR3xbCxfbarH8LYnHfDqtfIYa.jpg" group-title="Filmes | Lancamentos",Prédio Vazio
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Screamboat: Terror a Bordo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1i5j9mz9uFueuBcRVjDeA4Jh5AB.jpg" group-title="Filmes | Lancamentos",Screamboat: Terror a Bordo
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Semmelweis" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ea105uIesnD56ajaPsRDVTm3Fmm.jpg" group-title="Filmes | Lancamentos",Dr. Semmelweis
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esconderijo Maldito" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gUUL8Bkhf29zjLQ6gfTzkn99Bdj.jpg" group-title="Filmes | Lancamentos",Esconderijo Maldito
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Evie" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hXW9UXbeOE1LVytYVmk146EjRUG.jpg" group-title="Filmes | Lancamentos",Evie
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pistoleiros - Mãos que Matam" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eNFL2RokVHXl1Mwv0oW6kaboAZN.jpg" group-title="Filmes | Lancamentos",Pistoleiros - Mãos que Matam
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corações Roubados" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/51tnCO86oG2LYwaUdtKXY5XbLaT.jpg" group-title="Filmes | Lancamentos",Corações Roubados
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dia da Castração" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/f9NdxNjZ0M2jJamwd8yIiWsoSMK.jpg" group-title="Filmes | Lancamentos",O Dia da Castração
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Malditos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gfcGAdYslNKrlbX9naKMPVUSnq6.jpg" group-title="Filmes | Lancamentos",Os Malditos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/880302.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Fora da Lei" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/TUAU5KMVs9uPbCAeLOjv2toU69.jpg" group-title="Filmes | Lancamentos",O Fora da Lei
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/878978.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tentação Perigosa" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2mVLnyRPRGS8vQPX7CPVAcPo1iW.jpg" group-title="Filmes | Lancamentos",Tentação Perigosa
