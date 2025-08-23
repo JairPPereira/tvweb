@@ -2417,6 +2417,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="A Última Primavera" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qYLkAyNRYytiBPb76YHj4NgWgb7.jpg" group-title="Filmes | Lancamentos",A Última Primavera
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/881130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ladrões de Ouro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9ii6tt7jwGiMiZS7qpWVrKKWwzk.jpg" group-title="Filmes | Lancamentos",Ladrões de Ouro
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/881129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Hit Wonder" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eZbYqLMsVarAeYBSk15am22X2hX.jpg" group-title="Filmes | Lancamentos",One Hit Wonder
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/881128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plutão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wcPfzgn35A9vL23mNgkFhTncSne.jpg" group-title="Filmes | Lancamentos",Plutão
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/881127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quero Você" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/y5MqC5sFLwA4FH73zpjqo0q8Ry7.jpg" group-title="Filmes | Lancamentos",Quero Você
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/881126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Travesqueen - A Cultura de Ballroom no Vale do Paraíba" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oEe7QrrA3kzLpPKN0RonVfVxNpG.jpg" group-title="Filmes | Lancamentos",Travesqueen - A Cultura de Ballroom no Vale do Paraíba
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/881125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="F1 - O Filme" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg" group-title="Filmes | Lancamentos",F1 - O Filme
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/881124.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mononoke - O Filme: Capítulo 2 - As Cinzas da Ira" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lQn0t7qhf8NAB0f4Xrpq0j84THJ.jpg" group-title="Filmes | Lancamentos",Mononoke - O Filme: Capítulo 2 - As Cinzas da Ira
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/881123.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mouse Trap: A Diversão Agora é Outra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nJqQ9gRtjnU1pstn660YCEmbAwL.jpg" group-title="Filmes | Lancamentos",Mouse Trap: A Diversão Agora é Outra
